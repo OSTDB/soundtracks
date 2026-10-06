@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiji J.B. Harold no Jikenbo: Manhattan Requiem | 350562 | [350562-keiji-j-b-harold-no-jikenbo-manhattan-requiem.json](./350562-keiji-j-b-harold-no-jikenbo-manhattan-requiem.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 320848 | [320848-keiji-j-b-harold-no-jikenbo-murder-club.json](./320848-keiji-j-b-harold-no-jikenbo-murder-club.json) |
+| Keiko Everlasting | 102901 | [102901-keiko-everlasting.json](./102901-keiko-everlasting.json) |
 | Keiko-chan no Himitsu | 67373 | [67373-keiko-chan-no-himitsu.json](./67373-keiko-chan-no-himitsu.json) |
 | Keine's Expanding Class! | 386435 | [386435-keines-expanding-class.json](./386435-keines-expanding-class.json) |
 | Keineged an nor | 181217 | [181217-keineged-an-nor.json](./181217-keineged-an-nor.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
+| Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill It With Fire | 130508 | [130508-kill-it-with-fire.json](./130508-kill-it-with-fire.json) |
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
@@ -3139,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krysolov | 343848 | [343848-krysolov.json](./343848-krysolov.json) |
 | Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
+| Krystal the Adventurer | 102900 | [102900-krystal-the-adventurer.json](./102900-krystal-the-adventurer.json) |
 | Krystals of Zong | 73879 | [73879-krystals-of-zong.json](./73879-krystals-of-zong.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
