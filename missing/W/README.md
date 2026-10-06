@@ -5221,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
+| WWE 2K18: Deluxe Edition | 99116 | [99116-wwe-2k18-deluxe-edition.json](./99116-wwe-2k18-deluxe-edition.json) |
 | WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
 | WWE 2K20: Deluxe Edition | 121437 | [121437-wwe-2k20-deluxe-edition.json](./121437-wwe-2k20-deluxe-edition.json) |
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
