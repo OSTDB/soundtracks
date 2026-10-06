@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Madness 2 | 73334 | [73334-racing-madness-2.json](./73334-racing-madness-2.json) |
 | Racing Manager | 390198 | [390198-racing-manager.json](./390198-racing-manager.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
+| Racing Mania 2 | 71722 | [71722-racing-mania-2.json](./71722-racing-mania-2.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
 | Ragnarock: Vikings On Tour | 247655 | [247655-ragnarock-vikings-on-tour.json](./247655-ragnarock-vikings-on-tour.json) |
+| Ragnarok | 71704 | [71704-ragnarok.json](./71704-ragnarok.json) |
 | Ragnarok Arena | 214383 | [214383-ragnarok-arena.json](./214383-ragnarok-arena.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
@@ -772,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
+| Rainbow Warrior | 71711 | [71711-rainbow-warrior.json](./71711-rainbow-warrior.json) |
 | Rainbow Web 3 | 108642 | [108642-rainbow-web-3.json](./108642-rainbow-web-3.json) |
 | Rainbows, Toilets & Unicorns | 131975 | [131975-rainbows-toilets-and-unicorns.json](./131975-rainbows-toilets-and-unicorns.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
@@ -1414,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
 | RC Plane VR | 129065 | [129065-rc-plane-vr.json](./129065-rc-plane-vr.json) |
+| RC Racers II | 71728 | [71728-rc-racers-ii.json](./71728-rc-racers-ii.json) |
 | RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
@@ -2996,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
+| Rescue from Atlantis | 71751 | [71751-rescue-from-atlantis.json](./71751-rescue-from-atlantis.json) |
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
@@ -4576,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
+| Rival Ball Tournament | 71707 | [71707-rival-ball-tournament.json](./71707-rival-ball-tournament.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
 | Rival Gears Racing | 262467 | [262467-rival-gears-racing.json](./262467-rival-gears-racing.json) |
@@ -5465,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Mayhem | 157103 | [157103-rocky-mayhem.json](./157103-rocky-mayhem.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
 | Rocky Mountain Trophy Hunter 2003 | 51362 | [51362-rocky-mountain-trophy-hunter-2003.json](./51362-rocky-mountain-trophy-hunter-2003.json) |
+| Rocky Mountain Trophy Hunter 3 | 71733 | [71733-rocky-mountain-trophy-hunter-3.json](./71733-rocky-mountain-trophy-hunter-3.json) |
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
 | Rocky Mountain: Trophy Hunter | 249158 | [249158-rocky-mountain-trophy-hunter.json](./249158-rocky-mountain-trophy-hunter.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
