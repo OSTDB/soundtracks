@@ -5995,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
+| Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy Bee 2 | 182333 | [182333-dizzy-bee-2.json](./182333-dizzy-bee-2.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
@@ -7110,6 +7111,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
+| Dooly Bravo Land | 63649 | [63649-dooly-bravo-land.json](./63649-dooly-bravo-land.json) |
+| Dooly Daemoheom | 63645 | [63645-dooly-daemoheom.json](./63645-dooly-daemoheom.json) |
 | Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
 | Doom | 259941 | [259941-doom.json](./259941-doom.json) |
@@ -9266,6 +9269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop Mahjong Tiles | 287314 | [287314-drop-mahjong-tiles.json](./287314-drop-mahjong-tiles.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
+| Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Bomb | 99587 | [99587-drop-the-bomb.json](./99587-drop-the-bomb.json) |
