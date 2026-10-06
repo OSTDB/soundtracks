@@ -5460,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Fool | 36130 | [36130-the-fool.json](./36130-the-fool.json) |
+| The Fool and his Money | 64185 | [64185-the-fool-and-his-money.json](./64185-the-fool-and-his-money.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
 | The Football A | 216356 | [216356-the-football-a.json](./216356-the-football-a.json) |
 | The Football Playbook: Tactical Puzzles | 197247 | [197247-the-football-playbook-tactical-puzzles.json](./197247-the-football-playbook-tactical-puzzles.json) |
@@ -7050,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
 | The Legend of Monster Mountain | 106490 | [106490-the-legend-of-monster-mountain.json](./106490-the-legend-of-monster-mountain.json) |
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
+| The Legend of Myra | 64186 | [64186-the-legend-of-myra.json](./64186-the-legend-of-myra.json) |
 | The Legend of Mystic Zone | 274112 | [274112-the-legend-of-mystic-zone.json](./274112-the-legend-of-mystic-zone.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Nayuta: Boundless Trails - Deluxe Edition | 284594 | [284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json](./284594-the-legend-of-nayuta-boundless-trails-deluxe-edition.json) |
@@ -10637,6 +10639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watson-Scott Test | 110737 | [110737-the-watson-scott-test.json](./110737-the-watson-scott-test.json) |
 | The Wave of Monké | 215729 | [215729-the-wave-of-monke.json](./215729-the-wave-of-monke.json) |
 | The Wavy Tube Man Chronicles | 316737 | [316737-the-wavy-tube-man-chronicles.json](./316737-the-wavy-tube-man-chronicles.json) |
+| The Wavy Tube Man Chronicles | 64172 | [64172-the-wavy-tube-man-chronicles.json](./64172-the-wavy-tube-man-chronicles.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
 | The Way Home | 193961 | [193961-the-way-home.json](./193961-the-way-home.json) |
@@ -14509,6 +14512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps Adventures Vol. 1: Horror & Predators | 78667 | [78667-top-trumps-adventures-vol-1-horror-and-predators.json](./78667-top-trumps-adventures-vol-1-horror-and-predators.json) |
 | Top Trumps Adventures! | 5236 | [5236-top-trumps-adventures.json](./5236-top-trumps-adventures.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
+| Top Trumps: Dogs & Dinosaurs | 64221 | [64221-top-trumps-dogs-and-dinosaurs.json](./64221-top-trumps-dogs-and-dinosaurs.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
@@ -14596,6 +14600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
 | Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
+| Toriko: Gourmet Survival 2 | 64167 | [64167-toriko-gourmet-survival-2.json](./64167-toriko-gourmet-survival-2.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
@@ -18732,18 +18737,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
+| Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
 | Typing of the Date | 138656 | [138656-typing-of-the-date.json](./138656-typing-of-the-date.json) |
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
+| Typing Ougi: Hokuto no Ken Gekiuchi | 64193 | [64193-typing-ougi-hokuto-no-ken-gekiuchi.json](./64193-typing-ougi-hokuto-no-ken-gekiuchi.json) |
 | Typing Quest | 144571 | [144571-typing-quest.json](./144571-typing-quest.json) |
+| Typing Shuugyou: Hokuto no Ken Gekiuchi Zero | 64189 | [64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json](./64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typing Warrior | 134563 | [134563-typing-warrior.json](./134563-typing-warrior.json) |
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
+| Typingmania 5 Odyssey | 64194 | [64194-typingmania-5-odyssey.json](./64194-typingmania-5-odyssey.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Typo | 219528 | [219528-typo.json](./219528-typo.json) |
 | Typo II | 42168 | [42168-typo-ii.json](./42168-typo-ii.json) |
