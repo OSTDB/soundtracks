@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Push | 146894 | [146894-penguin-push.json](./146894-penguin-push.json) |
 | Penguin Puzzle | 208883 | [208883-penguin-puzzle.json](./208883-penguin-puzzle.json) |
 | Penguin Quest | 167194 | [167194-penguin-quest.json](./167194-penguin-quest.json) |
+| Penguin Quest | 76165 | [76165-penguin-quest.json](./76165-penguin-quest.json) |
 | Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
@@ -4284,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
+| Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Flip | 336703 | [336703-pixel-flip.json](./336703-pixel-flip.json) |
 | Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
+| Pixel Force: Halo | 76172 | [76172-pixel-force-halo.json](./76172-pixel-force-halo.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Frenzy | 326227 | [326227-pixel-frenzy.json](./326227-pixel-frenzy.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
@@ -4693,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
+| Pixelbit Snooker & Pool | 76173 | [76173-pixelbit-snooker-and-pool.json](./76173-pixelbit-snooker-and-pool.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
@@ -4780,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixicharm: Zippyron | 392351 | [392351-pixicharm-zippyron.json](./392351-pixicharm-zippyron.json) |
+| Pixie | 76171 | [76171-pixie.json](./76171-pixie.json) |
 | Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixie Plates: Ember Peaks DLC | 399803 | [399803-pixie-plates-ember-peaks-dlc.json](./399803-pixie-plates-ember-peaks-dlc.json) |
@@ -6870,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music 8 | 78972 | [78972-popn-music-8.json](./78972-popn-music-8.json) |
 | Pop'n music 9 | 78973 | [78973-popn-music-9.json](./78973-popn-music-9.json) |
 | Pop'n Music éclale | 124691 | [124691-popn-music-eclale.json](./124691-popn-music-eclale.json) |
+| Pop'n Music Fantasia | 76169 | [76169-popn-music-fantasia.json](./76169-popn-music-fantasia.json) |
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
@@ -8285,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probe: A Game Dev Experience | 195024 | [195024-probe-a-game-dev-experience.json](./195024-probe-a-game-dev-experience.json) |
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
+| Problem Attic | 76159 | [76159-problem-attic.json](./76159-problem-attic.json) |
 | Problem Sleuth | 336732 | [336732-problem-sleuth.json](./336732-problem-sleuth.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
 | Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
@@ -8328,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
 | Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
 | Professional Farmer: Nintendo Switch Edition | 111759 | [111759-professional-farmer-nintendo-switch-edition.json](./111759-professional-farmer-nintendo-switch-edition.json) |
+| Professional Fisherman's Tour: Big Bass Open | 76170 | [76170-professional-fishermans-tour-big-bass-open.json](./76170-professional-fishermans-tour-big-bass-open.json) |
 | Professional Fisherman's Tour: Northern Hemisphere | 61352 | [61352-professional-fishermans-tour-northern-hemisphere.json](./61352-professional-fishermans-tour-northern-hemisphere.json) |
 | Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
 | Professional Fishing 2 | 255695 | [255695-professional-fishing-2.json](./255695-professional-fishing-2.json) |
@@ -8766,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
+| Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
