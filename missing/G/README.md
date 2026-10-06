@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pit Stop Simulator | 407554 | [407554-galactic-pit-stop-simulator.json](./407554-galactic-pit-stop-simulator.json) |
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Pocket Billiards | 75936 | [75936-galactic-pocket-billiards.json](./75936-galactic-pocket-billiards.json) |
+| Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
 | Galactic Reign | 63665 | [63665-galactic-reign.json](./63665-galactic-reign.json) |
 | Galactic Revolution | 125315 | [125315-galactic-revolution.json](./125315-galactic-revolution.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Dev Studio | 89377 | [89377-game-dev-studio.json](./89377-game-dev-studio.json) |
 | Game Doraemon: Nobita no Shin Kyouryuu | 141725 | [141725-game-doraemon-nobita-no-shin-kyouryuu.json](./141725-game-doraemon-nobita-no-shin-kyouryuu.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
+| Game Doraemon: Nobita to Kiseki no Shima | 62554 | [62554-game-doraemon-nobita-to-kiseki-no-shima.json](./62554-game-doraemon-nobita-to-kiseki-no-shima.json) |
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
