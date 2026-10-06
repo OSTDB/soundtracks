@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
 | J.B. Harold no Jikenbo: Murder Club | 320845 | [320845-j-b-harold-no-jikenbo-murder-club.json](./320845-j-b-harold-no-jikenbo-murder-club.json) |
+| J.B. Harold Series #2: Manhattan Requiem - Angels Flying in the Dark | 62588 | [62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json](./62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json) |
 | J.B. Harold: Murder Club | 320847 | [320847-j-b-harold-murder-club.json](./320847-j-b-harold-murder-club.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
@@ -383,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JanRyuMon M | 138661 | [138661-janryumon-m.json](./138661-janryumon-m.json) |
 | Janshin Densetsu: Quest of Jongmaster | 75458 | [75458-janshin-densetsu-quest-of-jongmaster.json](./75458-janshin-densetsu-quest-of-jongmaster.json) |
 | Jansou Ou | 78089 | [78089-jansou-ou.json](./78089-jansou-ou.json) |
+| Jantaku Boy | 62577 | [62577-jantaku-boy.json](./62577-jantaku-boy.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
@@ -1260,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
 | Jissen Pachi-Slot Hisshouhou! Ultraman Club ST | 82306 | [82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json](./82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json) |
 | Jissen Pachi-Slot Hisshouhou! Yamasa Densetsu | 67711 | [67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json](./67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json) |
+| Jissen Pachi-Slot Pachinko Hisshouhou! Wii: Hokuto no Ken - Sammy's Collection | 62595 | [62595-jissen-pachi-slot-pachinko-hisshouhou-wii-hokuto-no-ken-sammys-collection.json](./62595-jissen-pachi-slot-pachinko-hisshouhou-wii-hokuto-no-ken-sammys-collection.json) |
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
 | Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX | 82311 | [82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json](./82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
