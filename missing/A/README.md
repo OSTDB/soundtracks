@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
+| Abyss Horizon | 97453 | [97453-abyss-horizon.json](./97453-abyss-horizon.json) |
 | Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
