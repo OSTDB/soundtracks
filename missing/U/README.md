@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters IV with Power Up Kit | 145544 | [145544-uncharted-waters-iv-with-power-up-kit.json](./145544-uncharted-waters-iv-with-power-up-kit.json) |
 | Uncharted Waters IV with Power Up Kit: HD Version - 30th Anniversary Edition | 351150 | [351150-uncharted-waters-iv-with-power-up-kit-hd-version-30th-anniversary-edition.json](./351150-uncharted-waters-iv-with-power-up-kit-hd-version-30th-anniversary-edition.json) |
 | Uncharted Waters Online | 102570 | [102570-uncharted-waters-online.json](./102570-uncharted-waters-online.json) |
+| Uncharted Waters Online: Cruz del Sur | 76896 | [76896-uncharted-waters-online-cruz-del-sur.json](./76896-uncharted-waters-online-cruz-del-sur.json) |
 | Uncharted Waters Online: Episode Atlantis | 36252 | [36252-uncharted-waters-online-episode-atlantis.json](./36252-uncharted-waters-online-episode-atlantis.json) |
 | Uncharted Waters Origin | 138704 | [138704-uncharted-waters-origin.json](./138704-uncharted-waters-origin.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
