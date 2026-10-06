@@ -5842,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
+| Clubhouse Games Express: Family Favorites | 67714 | [67714-clubhouse-games-express-family-favorites.json](./67714-clubhouse-games-express-family-favorites.json) |
 | ClubR: Online Car Parking Game | 199973 | [199973-clubr-online-car-parking-game.json](./199973-clubr-online-car-parking-game.json) |
 | Cluck | 195184 | [195184-cluck.json](./195184-cluck.json) |
 | Cluck and Tag | 389702 | [389702-cluck-and-tag.json](./389702-cluck-and-tag.json) |
@@ -6375,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Kings: Act III | 215756 | [215756-college-kings-act-iii.json](./215756-college-kings-act-iii.json) |
 | College Kings: Act IV | 215757 | [215757-college-kings-act-iv.json](./215757-college-kings-act-iv.json) |
 | College Kings: The Complete Season | 328460 | [328460-college-kings-the-complete-season.json](./328460-college-kings-the-complete-season.json) |
+| College Lacrosse 2010 | 67607 | [67607-college-lacrosse-2010.json](./67607-college-lacrosse-2010.json) |
 | College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
 | College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
 | College Lacrosse 2014 | 87888 | [87888-college-lacrosse-2014.json](./87888-college-lacrosse-2014.json) |
@@ -10498,6 +10500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Kill Array | 106648 | [106648-cubic-kill-array.json](./106648-cubic-kill-array.json) |
 | Cubic Light | 229164 | [229164-cubic-light.json](./229164-cubic-light.json) |
+| Cubic Match | 67648 | [67648-cubic-match.json](./67648-cubic-match.json) |
 | Cubic Neon Nightclub | 286764 | [286764-cubic-neon-nightclub.json](./286764-cubic-neon-nightclub.json) |
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
