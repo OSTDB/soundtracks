@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoumetsu Toshi: Afterlost | 113589 | [113589-shoumetsu-toshi-afterlost.json](./113589-shoumetsu-toshi-afterlost.json) |
 | Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
+| Shounen Kininden Tsumuji | 67608 | [67608-shounen-kininden-tsumuji.json](./67608-shounen-kininden-tsumuji.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
@@ -10232,6 +10233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
 | SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
+| Soshiant | 67646 | [67646-soshiant.json](./67646-soshiant.json) |
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta XXX | 221828 | [221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json](./221828-soshite-kono-sora-ni-kirameku-kimi-no-uta-xxx.json) |
@@ -16501,6 +16503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
+| Suicide Voyage | 67638 | [67638-suicide-voyage.json](./67638-suicide-voyage.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suigetsu 2 | 93515 | [93515-suigetsu-2.json](./93515-suigetsu-2.json) |
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
