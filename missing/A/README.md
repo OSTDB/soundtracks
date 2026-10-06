@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
+| Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
@@ -1723,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
 | Adventure Llama | 104463 | [104463-adventure-llama.json](./104463-adventure-llama.json) |
 | Adventure Machine | 176328 | [176328-adventure-machine.json](./176328-adventure-machine.json) |
+| Adventure Maker | 84442 | [84442-adventure-maker.json](./84442-adventure-maker.json) |
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing I: Jikai Saku made Matemasen | 267382 | [267382-aero-dancing-i-jikai-saku-made-matemasen.json](./267382-aero-dancing-i-jikai-saku-made-matemasen.json) |
 | Aero Effect | 134378 | [134378-aero-effect.json](./134378-aero-effect.json) |
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
+| Aero Guitar | 84466 | [84466-aero-guitar.json](./84466-aero-guitar.json) |
 | Aero Porter | 21017 | [21017-aero-porter.json](./21017-aero-porter.json) |
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
 | Aero Striker: World Invasion | 213426 | [213426-aero-striker-world-invasion.json](./213426-aero-striker-world-invasion.json) |
@@ -5001,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
+| Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
 | Angels Online Global | 402430 | [402430-angels-online-global.json](./402430-angels-online-global.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
@@ -7160,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
 | Aria | 305379 | [305379-aria.json](./305379-aria.json) |
+| Aria | 84445 | [84445-aria.json](./84445-aria.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
 | Aria and the Mysterious Mushroom | 249342 | [249342-aria-and-the-mysterious-mushroom.json](./249342-aria-and-the-mysterious-mushroom.json) |
 | Aria and the Secret of the Labyrinth | 385837 | [385837-aria-and-the-secret-of-the-labyrinth.json](./385837-aria-and-the-secret-of-the-labyrinth.json) |
