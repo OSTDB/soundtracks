@@ -5023,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
 | Robot Island | 127727 | [127727-robot-island.json](./127727-robot-island.json) |
 | Robot Junior | 70453 | [70453-robot-junior.json](./70453-robot-junior.json) |
+| Robot Killer | 66907 | [66907-robot-killer.json](./66907-robot-killer.json) |
 | Robot King Part 2: Boss Battles | 116221 | [116221-robot-king-part-2-boss-battles.json](./116221-robot-king-part-2-boss-battles.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
@@ -5376,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman IQ Xuànfēng | 389005 | [389005-rockman-iq-xuanfeng.json](./389005-rockman-iq-xuanfeng.json) |
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
+| Rockman no Huángjīn Dìguó | 66918 | [66918-rockman-no-huangjin-diguo.json](./66918-rockman-no-huangjin-diguo.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
 | Rockman Strategy | 84307 | [84307-rockman-strategy.json](./84307-rockman-strategy.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
@@ -6327,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route | 408971 | [408971-route.json](./408971-route.json) |
 | Route 13 | 253864 | [253864-route-13.json](./253864-route-13.json) |
 | Route 401 Motel | 90224 | [90224-route-401-motel.json](./90224-route-401-motel.json) |
+| Route 66 | 66977 | [66977-route-66.json](./66977-route-66.json) |
 | Route 66 Simulator | 151094 | [151094-route-66-simulator.json](./151094-route-66-simulator.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
