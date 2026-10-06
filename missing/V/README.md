@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Casino | 45517 | [45517-virtual-casino.json](./45517-virtual-casino.json) |
 | Virtual Cell | 63000 | [63000-virtual-cell.json](./63000-virtual-cell.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
+| Virtual Chess | 93198 | [93198-virtual-chess.json](./93198-virtual-chess.json) |
 | Virtual Chess 3 | 206059 | [206059-virtual-chess-3.json](./206059-virtual-chess-3.json) |
 | Virtual Chess 64 | 3334 | [3334-virtual-chess-64.json](./3334-virtual-chess-64.json) |
 | Virtual City | 74325 | [74325-virtual-city.json](./74325-virtual-city.json) |
