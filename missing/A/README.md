@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Flashback Blast! | 304290 | [304290-adventure-flashback-blast.json](./304290-adventure-flashback-blast.json) |
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
+| Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure in a Mysterious Island | 381768 | [381768-adventure-in-a-mysterious-island.json](./381768-adventure-in-a-mysterious-island.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
@@ -1888,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
+| Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
 | AeroSpace Engineering | 379494 | [379494-aerospace-engineering.json](./379494-aerospace-engineering.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
 | Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
+| AfterLoop | 105427 | [105427-afterloop.json](./105427-afterloop.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
@@ -3419,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: Fight for Life | 11089 | [11089-alien-shooter-fight-for-life.json](./11089-alien-shooter-fight-for-life.json) |
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
+| Alien Shooter: The Beginning | 105436 | [105436-alien-shooter-the-beginning.json](./105436-alien-shooter-the-beginning.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Shooter: Vengeance | 14145 | [14145-alien-shooter-vengeance.json](./14145-alien-shooter-vengeance.json) |
 | Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
@@ -5482,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Annoying Orange: Splatter Up! | 108462 | [108462-annoying-orange-splatter-up.json](./108462-annoying-orange-splatter-up.json) |
+| Annual | 105261 | [105261-annual.json](./105261-annual.json) |
 | Annual Intruders | 169813 | [169813-annual-intruders.json](./169813-annual-intruders.json) |
 | Annual Intruders 2.0 | 191048 | [191048-annual-intruders-2-0.json](./191048-annual-intruders-2-0.json) |
 | Annuit Coeptis | 303149 | [303149-annuit-coeptis.json](./303149-annuit-coeptis.json) |
@@ -5718,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-Opoly | 35916 | [35916-anti-opoly.json](./35916-anti-opoly.json) |
 | Anti-Sane | 236798 | [236798-anti-sane.json](./236798-anti-sane.json) |
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
+| ANti: Virus Destroyer | 105265 | [105265-anti-virus-destroyer.json](./105265-anti-virus-destroyer.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antibiotic Adventures | 413792 | [413792-antibiotic-adventures.json](./413792-antibiotic-adventures.json) |
