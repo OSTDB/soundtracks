@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
 | S2: Silent Storm | 79956 | [79956-s2-silent-storm.json](./79956-s2-silent-storm.json) |
+| S40 Racing | 93213 | [93213-s40-racing.json](./93213-s40-racing.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S4ge | 116461 | [116461-s4ge.json](./116461-s4ge.json) |
 | S4U: Citypunk 2011 and Love Punch | 303000 | [303000-s4u-citypunk-2011-and-love-punch.json](./303000-s4u-citypunk-2011-and-love-punch.json) |
@@ -1217,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satomi Hakkenden Murasamemaru no Ki | 220575 | [220575-satomi-hakkenden-murasamemaru-no-ki.json](./220575-satomi-hakkenden-murasamemaru-no-ki.json) |
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
+| Satori | 93222 | [93222-satori.json](./93222-satori.json) |
 | Satori no Atelier | 210610 | [210610-satori-no-atelier.json](./210610-satori-no-atelier.json) |
 | Satori no Atelier 2: Alice vs. Ikari no Death Danmaku Settai | 210613 | [210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json](./210613-satori-no-atelier-2-alice-vs-ikari-no-death-danmaku-settai.json) |
 | Satori no Dungeon Oukoku: The Heart Of Crossed Memory - | 210552 | [210552-satori-no-dungeon-oukoku-the-heart-of-crossed-memory.json](./210552-satori-no-dungeon-oukoku-the-heart-of-crossed-memory.json) |
@@ -5685,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
+| Silencer | 93197 | [93197-silencer.json](./93197-silencer.json) |
 | Silencio | 301909 | [301909-silencio.json](./301909-silencio.json) |
 | SilenGames Bundle 2024 | 331517 | [331517-silengames-bundle-2024.json](./331517-silengames-bundle-2024.json) |
 | Silent | 298086 | [298086-silent.json](./298086-silent.json) |
@@ -8980,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
+| Söldner: Marine Corps | 93196 | [93196-soldner-marine-corps.json](./93196-soldner-marine-corps.json) |
 | Soldnerschild | 92103 | [92103-soldnerschild.json](./92103-soldnerschild.json) |
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
@@ -12634,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
+| Spy Hunter / Super Sprint | 93200 | [93200-spy-hunter-super-sprint.json](./93200-spy-hunter-super-sprint.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
 | Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
@@ -14471,6 +14476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stela Boss | 334324 | [334324-stela-boss.json](./334324-stela-boss.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
+| Stell-A-Sketch/Okie Dokie | 93217 | [93217-stell-a-sketch-okie-dokie.json](./93217-stell-a-sketch-okie-dokie.json) |
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
 | Stella Astrum | 418729 | [418729-stella-astrum.json](./418729-stella-astrum.json) |
 | Stella Deus: The Gate of Eternity | 13094 | [13094-stella-deus-the-gate-of-eternity.json](./13094-stella-deus-the-gate-of-eternity.json) |
@@ -16842,6 +16848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
 | Super Botte & Bamba II Turbo | 234034 | [234034-super-botte-and-bamba-ii-turbo.json](./234034-super-botte-and-bamba-ii-turbo.json) |
 | Super Bounce Ball | 132596 | [132596-super-bounce-ball.json](./132596-super-bounce-ball.json) |
+| Super Bowl | 93128 | [93128-super-bowl.json](./93128-super-bowl.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
