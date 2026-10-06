@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat's Way Home | 337791 | [337791-a-cats-way-home.json](./337791-a-cats-way-home.json) |
 | A Catfiend's Impending Relapse | 227911 | [227911-a-catfiends-impending-relapse.json](./227911-a-catfiends-impending-relapse.json) |
 | A Certain Erotic Daily Scenes | 82930 | [82930-a-certain-erotic-daily-scenes.json](./82930-a-certain-erotic-daily-scenes.json) |
+| A Certain Magical Index: Imaginary Fest | 113625 | [113625-a-certain-magical-index-imaginary-fest.json](./113625-a-certain-magical-index-imaginary-fest.json) |
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
 | A Chainsaw Across My Heart | 181155 | [181155-a-chainsaw-across-my-heart.json](./181155-a-chainsaw-across-my-heart.json) |
 | A Chair in a Room: Greenwater | 33902 | [33902-a-chair-in-a-room-greenwater.json](./33902-a-chair-in-a-room-greenwater.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Journey With: Noelle | 383557 | [383557-a-christmas-journey-with-noelle.json](./383557-a-christmas-journey-with-noelle.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
+| A Christmas Peril | 113603 | [113603-a-christmas-peril.json](./113603-a-christmas-peril.json) |
 | A Christmassy Christmas | 283894 | [283894-a-christmassy-christmas.json](./283894-a-christmassy-christmas.json) |
 | A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
 | A Circle Among Squares | 153012 | [153012-a-circle-among-squares.json](./153012-a-circle-among-squares.json) |
@@ -743,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-7 | 98271 | [98271-a-7.json](./98271-a-7.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
+| A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Men | 8623 | [8623-a-men.json](./8623-a-men.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
@@ -953,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
+| Abrakadaboom | 113620 | [113620-abrakadaboom.json](./113620-abrakadaboom.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
 | Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | Abrapalabra: La Magia de Aprender a Leer | 307198 | [307198-abrapalabra-la-magia-de-aprender-a-leer.json](./307198-abrapalabra-la-magia-de-aprender-a-leer.json) |
@@ -4016,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
+| Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alvegia Online | 218397 | [218397-alvegia-online.json](./218397-alvegia-online.json) |
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
@@ -7560,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts and Antiquity | 223385 | [223385-artifacts-and-antiquity.json](./223385-artifacts-and-antiquity.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
+| Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
