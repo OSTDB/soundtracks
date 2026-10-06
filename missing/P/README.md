@@ -7558,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool ABC Number and Letter Puzzle Game | 88355 | [88355-preschool-abc-number-and-letter-puzzle-game.json](./88355-preschool-abc-number-and-letter-puzzle-game.json) |
 | Preschool All-In-One | 99138 | [99138-preschool-all-in-one.json](./99138-preschool-all-in-one.json) |
+| Preschool Colors Toys Train | 99719 | [99719-preschool-colors-toys-train.json](./99719-preschool-colors-toys-train.json) |
 | Preschool EduKitchen | 90799 | [90799-preschool-edukitchen.json](./90799-preschool-edukitchen.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
@@ -7679,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
+| Priest | 99688 | [99688-priest.json](./99688-priest.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
@@ -9418,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Poetic Justice | 187912 | [187912-puppetshow-poetic-justice.json](./187912-puppetshow-poetic-justice.json) |
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
+| PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
