@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11eyes: Tsumi to Batsu to Aganai no Shoujo | 5470 | [5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json](./5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
+| 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
+| 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
