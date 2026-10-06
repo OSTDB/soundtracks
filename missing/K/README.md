@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
 | Kraken Land | 116434 | [116434-kraken-land.json](./116434-kraken-land.json) |
 | Kraken Odyssey | 256215 | [256215-kraken-odyssey.json](./256215-kraken-odyssey.json) |
+| Kraken Skulls | 110228 | [110228-kraken-skulls.json](./110228-kraken-skulls.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
