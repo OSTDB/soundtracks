@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Rangers: Mending the Maniac Madness | 209406 | [209406-light-rangers-mending-the-maniac-madness.json](./209406-light-rangers-mending-the-maniac-madness.json) |
 | Light Repair Team #4 | 33498 | [33498-light-repair-team-4.json](./33498-light-repair-team-4.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
+| Light Runner | 107083 | [107083-light-runner.json](./107083-light-runner.json) |
 | Light Shinobi | 185479 | [185479-light-shinobi.json](./185479-light-shinobi.json) |
 | Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
@@ -2700,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
 | Lightning Legend: Daigo no Daibouken | 44772 | [44772-lightning-legend-daigo-no-daibouken.json](./44772-lightning-legend-daigo-no-daibouken.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
+| Lightning Magician Clicker | 107106 | [107106-lightning-magician-clicker.json](./107106-lightning-magician-clicker.json) |
 | Lightning Plan | 246344 | [246344-lightning-plan.json](./246344-lightning-plan.json) |
 | Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
 | Lightning Swords | 46757 | [46757-lightning-swords.json](./46757-lightning-swords.json) |
@@ -4918,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
 | Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
+| Loveless: A Mattlanta Story | 107093 | [107093-loveless-a-mattlanta-story.json](./107093-loveless-a-mattlanta-story.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | LoveLive! Superstar!! Memory Collect | 386836 | [386836-lovelive-superstar-memory-collect.json](./386836-lovelive-superstar-memory-collect.json) |
 | Lovelorn Sanatorium I | 220608 | [220608-lovelorn-sanatorium-i.json](./220608-lovelorn-sanatorium-i.json) |
