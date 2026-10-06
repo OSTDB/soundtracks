@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dakkan Stiletto | 376683 | [376683-dakkan-stiletto.json](./376683-dakkan-stiletto.json) |
 | Dakkoshite! Chimpanzee | 67358 | [67358-dakkoshite-chimpanzee.json](./67358-dakkoshite-chimpanzee.json) |
+| Dakota Winchester's Adventures | 90222 | [90222-dakota-winchesters-adventures.json](./90222-dakota-winchesters-adventures.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
+| Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
@@ -4616,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
 | Dick Ranger | 207722 | [207722-dick-ranger.json](./207722-dick-ranger.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
+| Dick Ricko | 90227 | [90227-dick-ricko.json](./90227-dick-ricko.json) |
 | Dick Starr: Conquers Mars | 110235 | [110235-dick-starr-conquers-mars.json](./110235-dick-starr-conquers-mars.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
