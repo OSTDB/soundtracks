@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D-100 | 250968 | [250968-d-100.json](./250968-d-100.json) |
+| D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
 | D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
@@ -1353,6 +1354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dat Boi 2048 | 202702 | [202702-dat-boi-2048.json](./202702-dat-boi-2048.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
+| Data Carddass Dragon Ball Z | 66916 | [66916-data-carddass-dragon-ball-z.json](./66916-data-carddass-dragon-ball-z.json) |
+| Data Carddass Dragon Ball Z 2 | 66915 | [66915-data-carddass-dragon-ball-z-2.json](./66915-data-carddass-dragon-ball-z-2.json) |
 | Data Defense | 104655 | [104655-data-defense.json](./104655-data-defense.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
@@ -7959,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z Life | 328039 | [328039-dragon-ball-z-life.json](./328039-dragon-ball-z-life.json) |
 | Dragon Ball Z Tournament | 141526 | [141526-dragon-ball-z-tournament.json](./141526-dragon-ball-z-tournament.json) |
 | Dragon Ball Z: Atsumare! Goku's World | 230282 | [230282-dragon-ball-z-atsumare-gokus-world.json](./230282-dragon-ball-z-atsumare-gokus-world.json) |
+| Dragon Ball Z: Bakuretsu Impact | 66917 | [66917-dragon-ball-z-bakuretsu-impact.json](./66917-dragon-ball-z-bakuretsu-impact.json) |
 | Dragon Ball Z: Budokai 2 | 2564 | [2564-dragon-ball-z-budokai-2.json](./2564-dragon-ball-z-budokai-2.json) |
 | Dragon Ball Z: Budokai 3 - Collector's Edition | 291591 | [291591-dragon-ball-z-budokai-3-collectors-edition.json](./291591-dragon-ball-z-budokai-3-collectors-edition.json) |
 | Dragon Ball Z: Budokai 3 HD | 288870 | [288870-dragon-ball-z-budokai-3-hd.json](./288870-dragon-ball-z-budokai-3-hd.json) |
@@ -7998,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
+| Dragon Ball Z: W Bakuretsu Impact | 66914 | [66914-dragon-ball-z-w-bakuretsu-impact.json](./66914-dragon-ball-z-w-bakuretsu-impact.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
