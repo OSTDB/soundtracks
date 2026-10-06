@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
+| Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
@@ -8393,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Tales | 34633 | [34633-country-tales.json](./34633-country-tales.json) |
 | Country Tales 2: New Frontiers | 337239 | [337239-country-tales-2-new-frontiers.json](./337239-country-tales-2-new-frontiers.json) |
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
+| Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
