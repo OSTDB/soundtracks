@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
+| Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 - The Swap Body Vehicle | 315608 | [315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json](./315608-emergency-call-112-the-fire-fighting-simulation-2-the-swap-body-vehicle.json) |
@@ -1717,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emperor: Rise of the Middle Kingdom | 7512 | [7512-emperor-rise-of-the-middle-kingdom.json](./7512-emperor-rise-of-the-middle-kingdom.json) |
 | Empire | 105227 | [105227-empire.json](./105227-empire.json) |
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
+| Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
@@ -3645,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdawn | 185494 | [185494-everdawn.json](./185494-everdawn.json) |
+| EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream Valley | 138613 | [138613-everdream-valley.json](./138613-everdream-valley.json) |
