@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
 | Rabbit Simulator | 143939 | [143939-rabbit-simulator.json](./143939-rabbit-simulator.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
+| Rabbit x Labyrinth | 66436 | [66436-rabbit-x-labyrinth.json](./66436-rabbit-x-labyrinth.json) |
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
+| Rescue Heroes: Hurricane Havoc | 66337 | [66337-rescue-heroes-hurricane-havoc.json](./66337-rescue-heroes-hurricane-havoc.json) |
 | Rescue Heroes: Lava Landslide | 209433 | [209433-rescue-heroes-lava-landslide.json](./209433-rescue-heroes-lava-landslide.json) |
 | Rescue Heroes: Mission Select | 209434 | [209434-rescue-heroes-mission-select.json](./209434-rescue-heroes-mission-select.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
@@ -4399,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
+| Rise of Glory | 66422 | [66422-rise-of-glory.json](./66422-rise-of-glory.json) |
 | Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Insanity | 34665 | [34665-rise-of-insanity.json](./34665-rise-of-insanity.json) |
@@ -4724,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
+| Road Racers | 66406 | [66406-road-racers.json](./66406-road-racers.json) |
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
 | Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
