@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Pioneer | 9417 | [9417-railroad-pioneer.json](./9417-railroad-pioneer.json) |
 | Railroad Rogues | 176767 | [176767-railroad-rogues.json](./176767-railroad-rogues.json) |
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
+| Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
+| Reversi | 88592 | [88592-reversi.json](./88592-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
@@ -5292,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | RocketStarz | 143344 | [143344-rocketstarz.json](./143344-rocketstarz.json) |
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
+| Rockfest | 88614 | [88614-rockfest.json](./88614-rockfest.json) |
 | Rockford: The Arcade Game | 44082 | [44082-rockford-the-arcade-game.json](./44082-rockford-the-arcade-game.json) |
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
