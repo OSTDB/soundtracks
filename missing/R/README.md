@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Rash | 221094 | [221094-reality-rash.json](./221094-reality-rash.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
+| Reality-On-The-Norm: The Affair of the Weirdo | 58048 | [58048-reality-on-the-norm-the-affair-of-the-weirdo.json](./58048-reality-on-the-norm-the-affair-of-the-weirdo.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
