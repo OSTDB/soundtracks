@@ -11345,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three Musketeers | 206631 | [206631-three-musketeers.json](./206631-three-musketeers.json) |
 | Three Nights Escape | 315589 | [315589-three-nights-escape.json](./315589-three-nights-escape.json) |
+| Three Nights Four Days! Very H Camping School With Teachers All Missing | 98499 | [98499-three-nights-four-days-very-h-camping-school-with-teachers-all-missing.json](./98499-three-nights-four-days-very-h-camping-school-with-teachers-all-missing.json) |
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
