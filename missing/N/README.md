@@ -3445,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
+| Nobunaga's Shadow | 102840 | [102840-nobunagas-shadow.json](./102840-nobunagas-shadow.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noce | 111848 | [111848-noce.json](./111848-noce.json) |
 | Noch | 139173 | [139173-noch.json](./139173-noch.json) |
