@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
+| Manic Monkey Mayhem | 68233 | [68233-manic-monkey-mayhem.json](./68233-manic-monkey-mayhem.json) |
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
@@ -4842,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
 | Memories Off | 382966 | [382966-memories-off.json](./382966-memories-off.json) |
+| Memories Off | 68243 | [68243-memories-off.json](./68243-memories-off.json) |
 | Memories Off #5: Togireta Film | 288770 | [288770-memories-off-5-togireta-film.json](./288770-memories-off-5-togireta-film.json) |
 | Memories Off 2nd | 288775 | [288775-memories-off-2nd.json](./288775-memories-off-2nd.json) |
 | Memories Off 6 Complete | 80463 | [80463-memories-off-6-complete.json](./80463-memories-off-6-complete.json) |
