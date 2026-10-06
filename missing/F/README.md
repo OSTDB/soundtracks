@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
+| Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
@@ -4609,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly Tales | 211630 | [211630-fly-tales.json](./211630-fly-tales.json) |
 | Fly the Cloud | 151137 | [151137-fly-the-cloud.json](./151137-fly-the-cloud.json) |
+| Fly the Plane | 105430 | [105430-fly-the-plane.json](./105430-fly-the-plane.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
 | Fly This!: Flight Control Tower | 222248 | [222248-fly-this-flight-control-tower.json](./222248-fly-this-flight-control-tower.json) |
 | Fly to hope | 211682 | [211682-fly-to-hope.json](./211682-fly-to-hope.json) |
@@ -6857,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
+| Frqncy | 105448 | [105448-frqncy.json](./105448-frqncy.json) |
 | Fru | 19917 | [19917-fru.json](./19917-fru.json) |
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
