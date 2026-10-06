@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
 | Garbage Truck Simulator | 80448 | [80448-garbage-truck-simulator.json](./80448-garbage-truck-simulator.json) |
+| Garbage Truck: Austin, TX | 101041 | [101041-garbage-truck-austin-tx.json](./101041-garbage-truck-austin-tx.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
 | Garbage Truck: Snow Time | 105529 | [105529-garbage-truck-snow-time.json](./105529-garbage-truck-snow-time.json) |
