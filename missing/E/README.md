@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exertainment Mountain Bike Rally / Speed Racer | 60204 | [60204-exertainment-mountain-bike-rally-speed-racer.json](./60204-exertainment-mountain-bike-rally-speed-racer.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
+| Exhaust | 80168 | [80168-exhaust.json](./80168-exhaust.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
 | Exhibitors | 235882 | [235882-exhibitors.json](./235882-exhibitors.json) |
