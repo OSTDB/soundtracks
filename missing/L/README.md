@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Sausage | 321475 | [321475-late-night-sausage.json](./321475-late-night-sausage.json) |
 | Late Night Sexy TV Show | 386395 | [386395-late-night-sexy-tv-show.json](./386395-late-night-sexy-tv-show.json) |
 | Late Night Shift | 334692 | [334692-late-night-shift.json](./334692-late-night-shift.json) |
+| Late Night Shop | 59783 | [59783-late-night-shop.json](./59783-late-night-shop.json) |
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
 | Late Order | 406926 | [406926-late-order.json](./406926-late-order.json) |
