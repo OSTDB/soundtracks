@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
+| Garden Golf | 64736 | [64736-garden-golf.json](./64736-garden-golf.json) |
 | Garden Guardian | 211109 | [211109-garden-guardian.json](./211109-garden-guardian.json) |
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
@@ -2999,6 +3000,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go West! A Lucky Luke Adventure | 345551 | [345551-go-west-a-lucky-luke-adventure.json](./345551-go-west-a-lucky-luke-adventure.json) |
 | Go with the Flow | 192165 | [192165-go-with-the-flow.json](./192165-go-with-the-flow.json) |
 | GO-4-Soldier-1 | 126400 | [126400-go-4-soldier-1.json](./126400-go-4-soldier-1.json) |
+| Go-Go Gourmet | 64717 | [64717-go-go-gourmet.json](./64717-go-go-gourmet.json) |
+| Go-Go Gourmet: Chef of the Year | 64714 | [64714-go-go-gourmet-chef-of-the-year.json](./64714-go-go-gourmet-chef-of-the-year.json) |
 | Go-Go! Nekketsu Hockey Club Slip-and-Slide Madness | 48630 | [48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json](./48630-go-go-nekketsu-hockey-club-slip-and-slide-madness.json) |
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart | 246489 | [246489-go-kart.json](./246489-go-kart.json) |
@@ -3558,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
+| Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | Golems TD | 164244 | [164244-golems-td.json](./164244-golems-td.json) |
@@ -5699,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
+| Gulclight TDF2 | 64747 | [64747-gulclight-tdf2.json](./64747-gulclight-tdf2.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
@@ -6102,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gus Goes to Cybertown | 282236 | [282236-gus-goes-to-cybertown.json](./282236-gus-goes-to-cybertown.json) |
 | Gus's Feed Sort | 246529 | [246529-guss-feed-sort.json](./246529-guss-feed-sort.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
+| Gussun Oyoyo | 64740 | [64740-gussun-oyoyo.json](./64740-gussun-oyoyo.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
 | Gustavinho em O Enigma da Esfinge | 28043 | [28043-gustavinho-em-o-enigma-da-esfinge.json](./28043-gustavinho-em-o-enigma-da-esfinge.json) |
