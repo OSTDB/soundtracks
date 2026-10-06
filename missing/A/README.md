@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
+| Adonis | 82358 | [82358-adonis.json](./82358-adonis.json) |
 | Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
 | Adopted Passion Realize Your Dream | 279849 | [279849-adopted-passion-realize-your-dream.json](./279849-adopted-passion-realize-your-dream.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
@@ -5005,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo | 373661 | [373661-angelo.json](./373661-angelo.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
+| Angelo Skate Away | 82331 | [82331-angelo-skate-away.json](./82331-angelo-skate-away.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
 | Angels Fall First | 17279 | [17279-angels-fall-first.json](./17279-angels-fall-first.json) |
