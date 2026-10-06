@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
+| Eipc Free Tetris | 68877 | [68877-eipc-free-tetris.json](./68877-eipc-free-tetris.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
 | Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
+| Excelsior Phase Two: Errondor | 68880 | [68880-excelsior-phase-two-errondor.json](./68880-excelsior-phase-two-errondor.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
 | Excessive Trim | 274438 | [274438-excessive-trim.json](./274438-excessive-trim.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
