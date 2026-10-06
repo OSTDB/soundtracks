@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Pak | 247027 | [247027-maze-pak.json](./247027-maze-pak.json) |
 | Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
+| Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
@@ -5405,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
 | Meteo Planet | 311058 | [311058-meteo-planet.json](./311058-meteo-planet.json) |
 | MeteoHeroes | 192795 | [192795-meteoheroes.json](./192795-meteoheroes.json) |
+| Meteor | 107757 | [107757-meteor.json](./107757-meteor.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
@@ -10958,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Football Game | 206770 | [206770-my-football-game.json](./206770-my-football-game.json) |
 | My Forest Spirit Girlfriend | 207205 | [207205-my-forest-spirit-girlfriend.json](./207205-my-forest-spirit-girlfriend.json) |
 | My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
+| My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
@@ -11730,6 +11733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery World Dizzy | 48890 | [48890-mystery-world-dizzy.json](./48890-mystery-world-dizzy.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | Mystery: Moscow | 146690 | [146690-mystery-moscow.json](./146690-mystery-moscow.json) |
+| MysteryHouse-fivestones- | 107778 | [107778-mysteryhouse-fivestones.json](./107778-mysteryhouse-fivestones.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
 | Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
