@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 V4.0: Japan Rail Simulator - Mega Japan Train Pack | 171908 | [171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json](./171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json) |
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
+| A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
 | A-Train HX | 21467 | [21467-a-train-hx.json](./21467-a-train-hx.json) |
 | A-Train PC Classic | 90551 | [90551-a-train-pc-classic.json](./90551-a-train-pc-classic.json) |
 | A-Train: All Aboard! Tourism - Nintendo Switch 2 Edition | 380696 | [380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json](./380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
 | Aka Ninja VR | 151087 | [151087-aka-ninja-vr.json](./151087-aka-ninja-vr.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
+| Aka to Blue | 69502 | [69502-aka-to-blue.json](./69502-aka-to-blue.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
 | Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
@@ -7442,6 +7444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Contest | 96667 | [96667-armor-contest.json](./96667-armor-contest.json) |
 | Armor Heroes | 196793 | [196793-armor-heroes.json](./196793-armor-heroes.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
+| Armor MMO | 69511 | [69511-armor-mmo.json](./69511-armor-mmo.json) |
 | Armor of Doom | 308886 | [308886-armor-of-doom.json](./308886-armor-of-doom.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
@@ -7830,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | As You Wish | 301961 | [301961-as-you-wish.json](./301961-as-you-wish.json) |
+| AS+CEND | 69521 | [69521-as-cend.json](./69521-as-cend.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
