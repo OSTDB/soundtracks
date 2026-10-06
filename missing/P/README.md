@@ -5257,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
 | PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
+| Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
@@ -8193,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
+| Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
@@ -9336,6 +9338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
+| Puella Magi Madoka Magica: The Movie - Magicard Battle | 61439 | [61439-puella-magi-madoka-magica-the-movie-magicard-battle.json](./61439-puella-magi-madoka-magica-the-movie-magicard-battle.json) |
 | Puerto Rico HD | 90795 | [90795-puerto-rico-hd.json](./90795-puerto-rico-hd.json) |
 | Puerto Rico No Está Apaga'o | 96316 | [96316-puerto-rico-no-esta-apagao.json](./96316-puerto-rico-no-esta-apagao.json) |
 | Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
