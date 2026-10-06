@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Flick Erasers | 123375 | [123375-our-flick-erasers.json](./123375-our-flick-erasers.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
+| Our Hero! Hyper Sword | 99086 | [99086-our-hero-hyper-sword.json](./99086-our-hero-hyper-sword.json) |
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
 | Our Home | 207806 | [207806-our-home.json](./207806-our-home.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
