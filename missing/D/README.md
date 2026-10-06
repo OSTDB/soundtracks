@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
+| Demon Hunter | 117579 | [117579-demon-hunter.json](./117579-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter Collection | 52892 | [52892-demon-hunter-collection.json](./52892-demon-hunter-collection.json) |
@@ -8260,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
+| Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
@@ -9742,6 +9744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Windaria | 72637 | [72637-dungeon-of-windaria.json](./72637-dungeon-of-windaria.json) |
 | Dungeon of Zaar: Explorer Edition | 238545 | [238545-dungeon-of-zaar-explorer-edition.json](./238545-dungeon-of-zaar-explorer-edition.json) |
 | Dungeon of Zolthan | 32967 | [32967-dungeon-of-zolthan.json](./32967-dungeon-of-zolthan.json) |
+| Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
@@ -10116,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
 | Dwarffarian | 191081 | [191081-dwarffarian.json](./191081-dwarffarian.json) |
+| DwarfHeim | 117584 | [117584-dwarfheim.json](./117584-dwarfheim.json) |
 | DwarfHold: Tokens & Towers | 357836 | [357836-dwarfhold-tokens-and-towers.json](./357836-dwarfhold-tokens-and-towers.json) |
 | Dwarflings | 30341 | [30341-dwarflings.json](./30341-dwarflings.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
