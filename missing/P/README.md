@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pile the Box | 246476 | [246476-pile-the-box.json](./246476-pile-the-box.json) |
 | Pile Up! | 220152 | [220152-pile-up.json](./220152-pile-up.json) |
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
+| Pile Wonder | 58617 | [58617-pile-wonder.json](./58617-pile-wonder.json) |
 | Pileus Bad Trip | 391784 | [391784-pileus-bad-trip.json](./391784-pileus-bad-trip.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
@@ -4466,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
+| Pixel Heros - Idle RPG | 58633 | [58633-pixel-heros-idle-rpg.json](./58633-pixel-heros-idle-rpg.json) |
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
@@ -4501,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Complete Edition | 246889 | [246889-pixel-paint-complete-edition.json](./246889-pixel-paint-complete-edition.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
+| Pixel Painter Story | 58618 | [58618-pixel-painter-story.json](./58618-pixel-painter-story.json) |
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
@@ -9530,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
 | Punished Talents: Seven Muses - Collector's Edition | 29063 | [29063-punished-talents-seven-muses-collectors-edition.json](./29063-punished-talents-seven-muses-collectors-edition.json) |
+| Punished Talents: Stolen Awards | 58647 | [58647-punished-talents-stolen-awards.json](./58647-punished-talents-stolen-awards.json) |
 | Punisher | 261955 | [261955-punisher.json](./261955-punisher.json) |
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
 | Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
