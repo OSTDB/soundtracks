@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q*bert: Rebooted | 17158 | [17158-q-bert-rebooted.json](./17158-q-bert-rebooted.json) |
 | Q*bert's Qubes | 281667 | [281667-q-berts-qubes.json](./281667-q-berts-qubes.json) |
 | Q*bert's Qubes | 281668 | [281668-q-berts-qubes.json](./281668-q-berts-qubes.json) |
+| Q&A: A Light-Roasted Romance | 117569 | [117569-q-and-a-a-light-roasted-romance.json](./117569-q-and-a-a-light-roasted-romance.json) |
 | Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
 | Q1K3 | 170355 | [170355-q1k3.json](./170355-q1k3.json) |
 | Q4Max | 252081 | [252081-q4max.json](./252081-q4max.json) |
