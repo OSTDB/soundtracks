@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
+| Fear of Traffic | 103564 | [103564-fear-of-traffic.json](./103564-fear-of-traffic.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
 | Fear Protocol: Shadow Paradigm | 163187 | [163187-fear-protocol-shadow-paradigm.json](./163187-fear-protocol-shadow-paradigm.json) |
 | Fear Simulator | 114897 | [114897-fear-simulator.json](./114897-fear-simulator.json) |
@@ -3540,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Maniacs 1 TD | 96735 | [96735-fishing-maniacs-1-td.json](./96735-fishing-maniacs-1-td.json) |
 | Fishing Master | 247007 | [247007-fishing-master.json](./247007-fishing-master.json) |
 | Fishing Master 2 | 68943 | [68943-fishing-master-2.json](./68943-fishing-master-2.json) |
+| Fishing Master HD | 103562 | [103562-fishing-master-hd.json](./103562-fishing-master-hd.json) |
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
 | Fishing Mates | 237960 | [237960-fishing-mates.json](./237960-fishing-mates.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
@@ -4134,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flicky | 275909 | [275909-flicky.json](./275909-flicky.json) |
 | Flicky | 275910 | [275910-flicky.json](./275910-flicky.json) |
 | Flicky | 6105 | [6105-flicky.json](./6105-flicky.json) |
+| Flicky Marble | 103374 | [103374-flicky-marble.json](./103374-flicky-marble.json) |
 | Flict | 393479 | [393479-flict.json](./393479-flict.json) |
 | Flicts | 293241 | [293241-flicts.json](./293241-flicts.json) |
 | Flies in a Jar | 229036 | [229036-flies-in-a-jar.json](./229036-flies-in-a-jar.json) |
