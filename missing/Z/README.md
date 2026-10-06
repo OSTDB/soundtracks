@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
+| Zoo Sounds: Fun Educational Games for Kids | 95654 | [95654-zoo-sounds-fun-educational-games-for-kids.json](./95654-zoo-sounds-fun-educational-games-for-kids.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
 | Zoo Time | 369685 | [369685-zoo-time.json](./369685-zoo-time.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
