@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Titans | 125849 | [125849-battle-of-titans.json](./125849-battle-of-titans.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
+| Battle of Worldviews | 105240 | [105240-battle-of-worldviews.json](./105240-battle-of-worldviews.json) |
 | Battle On! Hero Academy | 373126 | [373126-battle-on-hero-academy.json](./373126-battle-on-hero-academy.json) |
 | Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
@@ -2882,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Planet Music | 98807 | [98807-beat-planet-music.json](./98807-beat-planet-music.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rhythm Fever | 350608 | [350608-beat-rhythm-fever.json](./350608-beat-rhythm-fever.json) |
+| Beat Rush | 105409 | [105409-beat-rush.json](./105409-beat-rush.json) |
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber | 83731 | [83731-beat-saber.json](./83731-beat-saber.json) |
@@ -4139,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Baron 2 | 160225 | [160225-bike-baron-2.json](./160225-bike-baron-2.json) |
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
+| Bike Dash Excite! | 105230 | [105230-bike-dash-excite.json](./105230-bike-dash-excite.json) |
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Hike | 362423 | [362423-bike-hike.json](./362423-bike-hike.json) |
