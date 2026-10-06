@@ -2348,18 +2348,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
 | Injustice: Gods Among Us | 77354 | [77354-injustice-gods-among-us.json](./77354-injustice-gods-among-us.json) |
 | Injustice: Gods Among Us - Ame-Comi Skins | 75477 | [75477-injustice-gods-among-us-ame-comi-skins.json](./75477-injustice-gods-among-us-ame-comi-skins.json) |
+| Injustice: Gods Among Us - Arkham City Skin Pack | 75459 | [75459-injustice-gods-among-us-arkham-city-skin-pack.json](./75459-injustice-gods-among-us-arkham-city-skin-pack.json) |
+| Injustice: Gods Among Us - Bad Girls Skins | 75453 | [75453-injustice-gods-among-us-bad-girls-skins.json](./75453-injustice-gods-among-us-bad-girls-skins.json) |
+| Injustice: Gods Among Us - Batgirl | 75437 | [75437-injustice-gods-among-us-batgirl.json](./75437-injustice-gods-among-us-batgirl.json) |
 | Injustice: Gods Among Us - Blackest Night Pack 1 | 75474 | [75474-injustice-gods-among-us-blackest-night-pack-1.json](./75474-injustice-gods-among-us-blackest-night-pack-1.json) |
 | Injustice: Gods Among Us - Blackest Night Pack 2 | 75476 | [75476-injustice-gods-among-us-blackest-night-pack-2.json](./75476-injustice-gods-among-us-blackest-night-pack-2.json) |
+| Injustice: Gods Among Us - Collector's Edition | 75426 | [75426-injustice-gods-among-us-collectors-edition.json](./75426-injustice-gods-among-us-collectors-edition.json) |
 | Injustice: Gods Among Us - Flashpoint Skin Pack | 75479 | [75479-injustice-gods-among-us-flashpoint-skin-pack.json](./75479-injustice-gods-among-us-flashpoint-skin-pack.json) |
+| Injustice: Gods Among Us - General Zod | 75440 | [75440-injustice-gods-among-us-general-zod.json](./75440-injustice-gods-among-us-general-zod.json) |
 | Injustice: Gods Among Us - Killing Joke Pack | 75473 | [75473-injustice-gods-among-us-killing-joke-pack.json](./75473-injustice-gods-among-us-killing-joke-pack.json) |
+| Injustice: Gods Among Us - Lobo | 75438 | [75438-injustice-gods-among-us-lobo.json](./75438-injustice-gods-among-us-lobo.json) |
 | Injustice: Gods Among Us - Martian Manhunter | 75467 | [75467-injustice-gods-among-us-martian-manhunter.json](./75467-injustice-gods-among-us-martian-manhunter.json) |
+| Injustice: Gods Among Us - Red Son Pack | 75457 | [75457-injustice-gods-among-us-red-son-pack.json](./75457-injustice-gods-among-us-red-son-pack.json) |
 | Injustice: Gods Among Us - Red Son Pack 2 | 75480 | [75480-injustice-gods-among-us-red-son-pack-2.json](./75480-injustice-gods-among-us-red-son-pack-2.json) |
+| Injustice: Gods Among Us - Scorpion | 75439 | [75439-injustice-gods-among-us-scorpion.json](./75439-injustice-gods-among-us-scorpion.json) |
 | Injustice: Gods Among Us - Special Edition | 212252 | [212252-injustice-gods-among-us-special-edition.json](./212252-injustice-gods-among-us-special-edition.json) |
 | Injustice: Gods Among Us - Teen Titans Skins | 75469 | [75469-injustice-gods-among-us-teen-titans-skins.json](./75469-injustice-gods-among-us-teen-titans-skins.json) |
 | Injustice: Gods Among Us - The Man of Steel Pack: Superman | 75488 | [75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json](./75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json) |
 | Injustice: Gods Among Us - The Man of Steel: Zod | 75481 | [75481-injustice-gods-among-us-the-man-of-steel-zod.json](./75481-injustice-gods-among-us-the-man-of-steel-zod.json) |
 | Injustice: Gods Among Us - Ultimate Edition | 23354 | [23354-injustice-gods-among-us-ultimate-edition.json](./23354-injustice-gods-among-us-ultimate-edition.json) |
 | Injustice: Gods Among Us - Zatanna | 75465 | [75465-injustice-gods-among-us-zatanna.json](./75465-injustice-gods-among-us-zatanna.json) |
+| Injustice: Gods Among Us - Zombie Mode | 75455 | [75455-injustice-gods-among-us-zombie-mode.json](./75455-injustice-gods-among-us-zombie-mode.json) |
 | Ink | 14580 | [14580-ink.json](./14580-ink.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
