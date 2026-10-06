@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
+| DearS | 60880 | [60880-dears.json](./60880-dears.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
@@ -6736,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drown | 258098 | [258098-dont-drown.json](./258098-dont-drown.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
 | Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
+| Don't Eat Soap! | 60919 | [60919-dont-eat-soap.json](./60919-dont-eat-soap.json) |
 | Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Escape 2 | 123698 | [123698-dont-escape-2.json](./123698-dont-escape-2.json) |
@@ -9629,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due | 327285 | [327285-due.json](./327285-due.json) |
 | Due Date | 240367 | [240367-due-date.json](./240367-due-date.json) |
+| Due Process | 60900 | [60900-due-process.json](./60900-due-process.json) |
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
