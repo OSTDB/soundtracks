@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
+| Castle Slots | 58631 | [58631-castle-slots.json](./58631-castle-slots.json) |
 | Castle Solitaire | 370338 | [370338-castle-solitaire.json](./370338-castle-solitaire.json) |
 | Castle Story | 3238 | [3238-castle-story.json](./3238-castle-story.json) |
 | Castle Story | 79809 | [79809-castle-story.json](./79809-castle-story.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
+| Chess Evolved Online | 58624 | [58624-chess-evolved-online.json](./58624-chess-evolved-online.json) |
 | Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
 | Chess for Kids: Play & Learn | 90183 | [90183-chess-for-kids-play-and-learn.json](./90183-chess-for-kids-play-and-learn.json) |
 | Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
@@ -11269,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpet Graveyard | 176778 | [176778-cyberpet-graveyard.json](./176778-cyberpet-graveyard.json) |
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
+| Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
