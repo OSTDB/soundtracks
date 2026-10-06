@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teios' Journey | 347849 | [347849-teios-journey.json](./347849-teios-journey.json) |
 | Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
+| Tek-Kids Flash-Ops: Mission - Data Island | 70023 | [70023-tek-kids-flash-ops-mission-data-island.json](./70023-tek-kids-flash-ops-mission-data-island.json) |
 | Tek-Kids Flash-Ops: Mission - Sky Fortress | 69940 | [69940-tek-kids-flash-ops-mission-sky-fortress.json](./69940-tek-kids-flash-ops-mission-sky-fortress.json) |
 | Teki Paki | 175805 | [175805-teki-paki.json](./175805-teki-paki.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave Exit | 410444 | [410444-the-cave-exit.json](./410444-the-cave-exit.json) |
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
+| The Cave of Time | 70040 | [70040-the-cave-of-time.json](./70040-the-cave-of-time.json) |
 | The Caverns | 229736 | [229736-the-caverns.json](./229736-the-caverns.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
@@ -4303,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
+| The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
@@ -5678,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
+| The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
 | The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
@@ -7449,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
+| The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
 | The Lost Dog | 165631 | [165631-the-lost-dog.json](./165631-the-lost-dog.json) |
@@ -7988,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
+| The New Castle | 70067 | [70067-the-new-castle.json](./70067-the-new-castle.json) |
 | The New Denpa Men | 287886 | [287886-the-new-denpa-men.json](./287886-the-new-denpa-men.json) |
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
 | The New Girl | 96875 | [96875-the-new-girl.json](./96875-the-new-girl.json) |
@@ -8141,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Open Sky | 181135 | [181135-the-open-sky.json](./181135-the-open-sky.json) |
 | The Open World Survival Craft Hunters | 235819 | [235819-the-open-world-survival-craft-hunters.json](./235819-the-open-world-survival-craft-hunters.json) |
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
+| The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
@@ -9107,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow's Terror | 257907 | [257907-the-shadows-terror.json](./257907-the-shadows-terror.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
+| The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
 | The Shadows That Linger | 185409 | [185409-the-shadows-that-linger.json](./185409-the-shadows-that-linger.json) |
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
@@ -10404,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vast White | 325511 | [325511-the-vast-white.json](./325511-the-vast-white.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
+| The Vault of Darkness | 70058 | [70058-the-vault-of-darkness.json](./70058-the-vault-of-darkness.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
@@ -11140,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
 | They See Us | 342780 | [342780-they-see-us.json](./342780-they-see-us.json) |
+| They Sold a Million 3 | 70061 | [70061-they-sold-a-million-3.json](./70061-they-sold-a-million-3.json) |
 | They Sold a Million II | 73335 | [73335-they-sold-a-million-ii.json](./73335-they-sold-a-million-ii.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
@@ -11382,6 +11392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Days | 179024 | [179024-those-days.json](./179024-those-days.json) |
 | Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
+| Those Funny Funguloids! | 70049 | [70049-those-funny-funguloids.json](./70049-those-funny-funguloids.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
