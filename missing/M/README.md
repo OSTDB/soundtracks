@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
+| Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
 | Magic Math | 267551 | [267551-magic-math.json](./267551-magic-math.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
@@ -7109,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
+| Minitime | 99687 | [99687-minitime.json](./99687-minitime.json) |
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
 | MiniTrans | 202664 | [202664-minitrans.json](./202664-minitrans.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
