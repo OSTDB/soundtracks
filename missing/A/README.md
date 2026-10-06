@@ -6085,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
+| Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
 | Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
@@ -9605,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awolnation: Megalithic Mayhem | 174228 | [174228-awolnation-megalithic-mayhem.json](./174228-awolnation-megalithic-mayhem.json) |
 | Aworded Crack | 108602 | [108602-aworded-crack.json](./108602-aworded-crack.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
+| Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-2: Uchuu Yusousen Nostromo | 91513 | [91513-ax-2-uchuu-yusousen-nostromo.json](./91513-ax-2-uchuu-yusousen-nostromo.json) |
