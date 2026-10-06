@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vector's Adventures | 102292 | [102292-vectors-adventures.json](./102292-vectors-adventures.json) |
 | Vectorball | 13043 | [13043-vectorball.json](./13043-vectorball.json) |
+| Vectorgeddon | 64191 | [64191-vectorgeddon.json](./64191-vectorgeddon.json) |
 | Vectorial Rush | 365762 | [365762-vectorial-rush.json](./365762-vectorial-rush.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
+| Vehicle Cavalier | 64199 | [64199-vehicle-cavalier.json](./64199-vehicle-cavalier.json) |
 | Vehicular Rampage | 219520 | [219520-vehicular-rampage.json](./219520-vehicular-rampage.json) |
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
 | Veil of Ashes | 350025 | [350025-veil-of-ashes.json](./350025-veil-of-ashes.json) |
@@ -1133,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videocart-27: Pac-Man | 245385 | [245385-videocart-27-pac-man.json](./245385-videocart-27-pac-man.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | Videogame Heardle | 203193 | [203193-videogame-heardle.json](./203193-videogame-heardle.json) |
+| Videogames! The Videogame Trivia Videogame | 64217 | [64217-videogames-the-videogame-trivia-videogame.json](./64217-videogames-the-videogame-trivia-videogame.json) |
 | VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
 | VideoHole: Episode II | 235886 | [235886-videohole-episode-ii.json](./235886-videohole-episode-ii.json) |
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
@@ -1513,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pool Hall | 93142 | [93142-virtual-pool-hall.json](./93142-virtual-pool-hall.json) |
 | Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
 | Virtual Pro Wrestling 64 | 3626 | [3626-virtual-pro-wrestling-64.json](./3626-virtual-pro-wrestling-64.json) |
+| Virtual Puppet Reika | 64209 | [64209-virtual-puppet-reika.json](./64209-virtual-puppet-reika.json) |
 | Virtual Race Car Engineer 2018 | 74361 | [74361-virtual-race-car-engineer-2018.json](./74361-virtual-race-car-engineer-2018.json) |
 | Virtual Race Car Engineer 2020 | 237454 | [237454-virtual-race-car-engineer-2020.json](./237454-virtual-race-car-engineer-2020.json) |
 | Virtual Reality Studio | 131498 | [131498-virtual-reality-studio.json](./131498-virtual-reality-studio.json) |
