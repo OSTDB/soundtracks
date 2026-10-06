@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai | 386986 | [386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json](./386986-whistle-dai-37-kai-tokyo-to-chuugakkou-sougou-taiiku-soccer-taikai.json) |
 | Whistle1 | 402524 | [402524-whistle1.json](./402524-whistle1.json) |
 | WhiTaers | 113663 | [113663-whitaers.json](./113663-whitaers.json) |
+| WhiTaers: Gongren Edition | 114310 | [114310-whitaers-gongren-edition.json](./114310-whitaers-gongren-edition.json) |
 | White | 54695 | [54695-white.json](./54695-white.json) |
 | White : The Hero's Return | 216828 | [216828-white-the-heros-return.json](./216828-white-the-heros-return.json) |
 | White Album 2: Closing Chapter | 79869 | [79869-white-album-2-closing-chapter.json](./79869-white-album-2-closing-chapter.json) |
