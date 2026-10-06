@@ -7261,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
+| Funny Faces | 93209 | [93209-funny-faces.json](./93209-funny-faces.json) |
 | Funny Farm | 254459 | [254459-funny-farm.json](./254459-funny-farm.json) |
 | Funny Farm Animal Jigsaw Puzzle Game for Kids and Toddlers | 165619 | [165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json](./165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json) |
 | Funny Farm Learning Games for Toddlers and Kids | 295263 | [295263-funny-farm-learning-games-for-toddlers-and-kids.json](./295263-funny-farm-learning-games-for-toddlers-and-kids.json) |
