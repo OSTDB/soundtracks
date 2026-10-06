@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball for the Tomy Tutor | 131456 | [131456-baseball-for-the-tomy-tutor.json](./131456-baseball-for-the-tomy-tutor.json) |
 | Baseball Heroes | 342287 | [342287-baseball-heroes.json](./342287-baseball-heroes.json) |
+| Baseball Highlights 2045 | 96293 | [96293-baseball-highlights-2045.json](./96293-baseball-highlights-2045.json) |
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleDrive | 283978 | [283978-battledrive.json](./283978-battledrive.json) |
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
+| Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
@@ -7332,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Battles | 116835 | [116835-bot-battles.json](./116835-bot-battles.json) |
 | Bot Colony | 16835 | [16835-bot-colony.json](./16835-bot-colony.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
+| Bot Gaiden | 96218 | [96218-bot-gaiden.json](./96218-bot-gaiden.json) |
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
 | Bot Hunter | 330147 | [330147-bot-hunter.json](./330147-bot-hunter.json) |
 | Bot Land | 77405 | [77405-bot-land.json](./77405-bot-land.json) |
@@ -9153,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build a Game Universe | 34814 | [34814-build-a-game-universe.json](./34814-build-a-game-universe.json) |
 | Build A Queen | 389047 | [389047-build-a-queen.json](./389047-build-a-queen.json) |
 | Build A Queen: Pirate Edition | 399812 | [399812-build-a-queen-pirate-edition.json](./399812-build-a-queen-pirate-edition.json) |
+| Build A Train | 96315 | [96315-build-a-train.json](./96315-build-a-train.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
