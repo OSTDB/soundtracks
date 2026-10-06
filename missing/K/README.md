@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kanojo, Amai Kanojo | 413838 | [413838-kanojo-amai-kanojo.json](./413838-kanojo-amai-kanojo.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
+| Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kanso | 153520 | [153520-kanso.json](./153520-kanso.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinoko | 138584 | [138584-kinoko.json](./138584-kinoko.json) |
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
 | KiNoKoe: Tree's Voice | 217259 | [217259-kinokoe-trees-voice.json](./217259-kinokoe-trees-voice.json) |
+| Kinshin Ingo Doteigari | 108945 | [108945-kinshin-ingo-doteigari.json](./108945-kinshin-ingo-doteigari.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
@@ -2645,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
+| KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
 | Koala Rush | 187841 | [187841-koala-rush.json](./187841-koala-rush.json) |
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
