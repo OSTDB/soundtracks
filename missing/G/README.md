@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tree | 275231 | [275231-game-tree.json](./275231-game-tree.json) |
+| Game Tube | 76912 | [76912-game-tube.json](./76912-game-tube.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
 | Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
 | Gear of Time | 329085 | [329085-gear-of-time.json](./329085-gear-of-time.json) |
+| Gear Path | 76913 | [76913-gear-path.json](./76913-gear-path.json) |
 | Gear Planet | 266399 | [266399-gear-planet.json](./266399-gear-planet.json) |
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
@@ -1364,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geheimprojekt DMSO | 84227 | [84227-geheimprojekt-dmso.json](./84227-geheimprojekt-dmso.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
+| Gehirntrainer | 76942 | [76942-gehirntrainer.json](./76942-gehirntrainer.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geisterbahnhof | 362990 | [362990-geisterbahnhof.json](./362990-geisterbahnhof.json) |
@@ -1372,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
+| Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
 | Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
 | Gekisou TomaRunner | 70665 | [70665-gekisou-tomarunner.json](./70665-gekisou-tomarunner.json) |
 | Gekisou! Band Star | 381254 | [381254-gekisou-band-star.json](./381254-gekisou-band-star.json) |
