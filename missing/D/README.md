@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
+| Dabble: A Fast Paced Word Game | 99716 | [99716-dabble-a-fast-paced-word-game.json](./99716-dabble-a-fast-paced-word-game.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
@@ -3484,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
 | DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
+| Demonworld | 99691 | [99691-demonworld.json](./99691-demonworld.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
 | Demonworld: Hell Boss Fight | 416839 | [416839-demonworld-hell-boss-fight.json](./416839-demonworld-hell-boss-fight.json) |
 | Demos for Toby Fox | 141629 | [141629-demos-for-toby-fox.json](./141629-demos-for-toby-fox.json) |
@@ -4685,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
+| Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
