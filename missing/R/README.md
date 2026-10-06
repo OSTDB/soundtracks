@@ -5692,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll'd | 33076 | [33076-rolld.json](./33076-rolld.json) |
 | Roll+Heart | 119718 | [119718-roll-heart.json](./119718-roll-heart.json) |
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
+| Rollage | 95667 | [95667-rollage.json](./95667-rollage.json) |
 | Rollance: Adventure Balls | 224106 | [224106-rollance-adventure-balls.json](./224106-rollance-adventure-balls.json) |
 | Rollaround | 13029 | [13029-rollaround.json](./13029-rollaround.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
