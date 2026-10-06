@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
+| Element Hunters | 67640 | [67640-element-hunters.json](./67640-element-hunters.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
 | EverQuest: The Serpent's Spine | 72908 | [72908-everquest-the-serpents-spine.json](./72908-everquest-the-serpents-spine.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
+| EverQuest: Underfoot | 67713 | [67713-everquest-underfoot.json](./67713-everquest-underfoot.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
