@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolas Eymerich The Inquisitor Book II: The Village | 36332 | [36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json](./36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json) |
 | Nicolas Eymerich the Inquisitor: Book 1 - The Plague | 36410 | [36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json](./36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
+| Nicole | 62592 | [62592-nicole.json](./62592-nicole.json) |
 | Nicotine Merchant Simulator | 415193 | [415193-nicotine-merchant-simulator.json](./415193-nicotine-merchant-simulator.json) |
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
@@ -3713,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
+| Noobow | 62598 | [62598-noobow.json](./62598-noobow.json) |
 | Noodle Arm Royale | 61736 | [61736-noodle-arm-royale.json](./61736-noodle-arm-royale.json) |
 | Noodle Cable | 409706 | [409706-noodle-cable.json](./409706-noodle-cable.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
