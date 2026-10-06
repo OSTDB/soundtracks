@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
+| Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
 | Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
@@ -2938,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | ReSail | 182938 | [182938-resail.json](./182938-resail.json) |
 | Resbs | 201565 | [201565-resbs.json](./201565-resbs.json) |
+| Rescale | 108392 | [108392-rescale.json](./108392-rescale.json) |
 | ReScale | 183391 | [183391-rescale.json](./183391-rescale.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
