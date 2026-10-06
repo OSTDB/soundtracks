@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garou Sliding Simulator | 377715 | [377715-garou-sliding-simulator.json](./377715-garou-sliding-simulator.json) |
 | Garou: Mark of the Wolves | 10605 | [10605-garou-mark-of-the-wolves.json](./10605-garou-mark-of-the-wolves.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
+| Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates and Violet | 413029 | [413029-gates-and-violet.json](./413029-gates-and-violet.json) |
+| Gates of a Ruined Empire | 112230 | [112230-gates-of-a-ruined-empire.json](./112230-gates-of-a-ruined-empire.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
 | Gates of Despair | 323261 | [323261-gates-of-despair.json](./323261-gates-of-despair.json) |
