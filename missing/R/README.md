@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid of Titan | 402422 | [402422-raid-of-titan.json](./402422-raid-of-titan.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
+| Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
@@ -4320,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
+| Rise of Legions | 116249 | [116249-rise-of-legions.json](./116249-rise-of-legions.json) |
 | Rise of Lost Empires | 68027 | [68027-rise-of-lost-empires.json](./68027-rise-of-lost-empires.json) |
 | Rise of Man | 50526 | [50526-rise-of-man.json](./50526-rise-of-man.json) |
 | Rise of Man | 50529 | [50529-rise-of-man.json](./50529-rise-of-man.json) |
@@ -4922,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Invasion | 169814 | [169814-robot-invasion.json](./169814-robot-invasion.json) |
 | Robot Island | 127727 | [127727-robot-island.json](./127727-robot-island.json) |
 | Robot Junior | 70453 | [70453-robot-junior.json](./70453-robot-junior.json) |
+| Robot King Part 2: Boss Battles | 116221 | [116221-robot-king-part-2-boss-battles.json](./116221-robot-king-part-2-boss-battles.json) |
 | Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
 | Robot Legions Reborn | 21629 | [21629-robot-legions-reborn.json](./21629-robot-legions-reborn.json) |
