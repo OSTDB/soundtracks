@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-No-Watch Ball | 292075 | [292075-game-no-watch-ball.json](./292075-game-no-watch-ball.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
+| Game, Net & Match! | 85732 | [85732-game-net-and-match.json](./85732-game-net-and-match.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
+| Gas Hog | 85742 | [85742-gas-hog.json](./85742-gas-hog.json) |
 | Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
 | Gas See who likes you | 223942 | [223942-gas-see-who-likes-you.json](./223942-gas-see-who-likes-you.json) |
 | Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
