@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Canyon Band | 417441 | [417441-echo-canyon-band.json](./417441-echo-canyon-band.json) |
 | Echo Chambers | 285508 | [285508-echo-chambers.json](./285508-echo-chambers.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
+| Echo Combat | 103345 | [103345-echo-combat.json](./103345-echo-combat.json) |
 | Echo Drop! | 383482 | [383482-echo-drop.json](./383482-echo-drop.json) |
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
@@ -1485,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
+| Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
 | Elysium's Curse | 257352 | [257352-elysiums-curse.json](./257352-elysiums-curse.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
