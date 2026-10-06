@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Busters | 320225 | [320225-yokai-busters.json](./320225-yokai-busters.json) |
 | Yokai Inn | 152181 | [152181-yokai-inn.json](./152181-yokai-inn.json) |
 | Yokai Jiken Aratamegata no Kobanashi | 77369 | [77369-yokai-jiken-aratamegata-no-kobanashi.json](./77369-yokai-jiken-aratamegata-no-kobanashi.json) |
+| Yokai Mask | 110229 | [110229-yokai-mask.json](./110229-yokai-mask.json) |
 | Yokai Memory | 124584 | [124584-yokai-memory.json](./124584-yokai-memory.json) |
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
