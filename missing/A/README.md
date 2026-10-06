@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
+| A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
@@ -4833,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anett Futatabi | 5359 | [5359-anett-futatabi.json](./5359-anett-futatabi.json) |
 | Aneurism IV | 297064 | [297064-aneurism-iv.json](./297064-aneurism-iv.json) |
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
+| Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
