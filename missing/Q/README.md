@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Rooms | 129252 | [129252-quest-rooms.json](./129252-quest-rooms.json) |
+| Quest to be King | 99101 | [99101-quest-to-be-king.json](./99101-quest-to-be-king.json) |
 | Quest Together | 156696 | [156696-quest-together.json](./156696-quest-together.json) |
 | Quest: Brian's Journey | 49892 | [49892-quest-brians-journey.json](./49892-quest-brians-journey.json) |
 | Quest: Escape Room | 160180 | [160180-quest-escape-room.json](./160180-quest-escape-room.json) |
