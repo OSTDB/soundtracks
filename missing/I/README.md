@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
 | I Spy: Super Challenger! | 91739 | [91739-i-spy-super-challenger.json](./91739-i-spy-super-challenger.json) |
 | I Spy: Treasure Hunt | 91749 | [91749-i-spy-treasure-hunt.json](./91749-i-spy-treasure-hunt.json) |
+| I Suck At: Word Games | 63110 | [63110-i-suck-at-word-games.json](./63110-i-suck-at-word-games.json) |
 | I Support BCRF | 335456 | [335456-i-support-bcrf.json](./335456-i-support-bcrf.json) |
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
