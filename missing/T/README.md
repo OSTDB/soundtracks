@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
+| Tales (Tentative Title) | 86373 | [86373-tales-tentative-title.json](./86373-tales-tentative-title.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
 | The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
+| The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Broston Saga | 143932 | [143932-the-broston-saga.json](./143932-the-broston-saga.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
@@ -3996,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catch: Carp & Coarse Fishing - Jezioro Bestii | 170326 | [170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json](./170326-the-catch-carp-and-coarse-fishing-jezioro-bestii.json) |
 | The Catch: Carp & Coarse Fishing - Lake Beasts Equipment Pack | 170325 | [170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json](./170325-the-catch-carp-and-coarse-fishing-lake-beasts-equipment-pack.json) |
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
+| The Cathedral: Allison's Diary | 86423 | [86423-the-cathedral-allisons-diary.json](./86423-the-cathedral-allisons-diary.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cauldron Kids: The Summoning of Mr. Vermicelli | 270879 | [270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json](./270879-the-cauldron-kids-the-summoning-of-mr-vermicelli.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
@@ -9712,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
+| The Tavern of Magic | 86413 | [86413-the-tavern-of-magic.json](./86413-the-tavern-of-magic.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
@@ -14583,6 +14587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Grand Master Collection | 53814 | [53814-total-war-grand-master-collection.json](./53814-total-war-grand-master-collection.json) |
 | Total War Master Collection | 53813 | [53813-total-war-master-collection.json](./53813-total-war-master-collection.json) |
 | Total War Saga: Thrones of Britannia - Blood, Sweat and Spears | 167639 | [167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json](./167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json) |
+| Total War Saga: Thrones of Britannia - Limited Edition | 86390 | [86390-total-war-saga-thrones-of-britannia-limited-edition.json](./86390-total-war-saga-thrones-of-britannia-limited-edition.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
 | Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
@@ -16971,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
 | Trench Rats: The First March | 360147 | [360147-trench-rats-the-first-march.json](./360147-trench-rats-the-first-march.json) |
 | Trench Run | 30370 | [30370-trench-run.json](./30370-trench-run.json) |
+| Trench Run VR | 86422 | [86422-trench-run-vr.json](./86422-trench-run-vr.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Shooter: Warfare Tactics | 328468 | [328468-trench-shooter-warfare-tactics.json](./328468-trench-shooter-warfare-tactics.json) |
 | Trench Simulator | 156083 | [156083-trench-simulator.json](./156083-trench-simulator.json) |
