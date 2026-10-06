@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
+| Baby Redemption | 115554 | [115554-baby-redemption.json](./115554-baby-redemption.json) |
 | Baby Shaker | 256812 | [256812-baby-shaker.json](./256812-baby-shaker.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Shark | 267342 | [267342-baby-shark.json](./267342-baby-shark.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Box LSS: The Merciful Savior | 259160 | [259160-black-box-lss-the-merciful-savior.json](./259160-black-box-lss-the-merciful-savior.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Box: Hacker Day One | 406161 | [406161-black-box-hacker-day-one.json](./406161-black-box-hacker-day-one.json) |
+| Black Butler: Phantom & Ghost | 115532 | [115532-black-butler-phantom-and-ghost.json](./115532-black-butler-phantom-and-ghost.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
 | Black Cat | 144278 | [144278-black-cat.json](./144278-black-cat.json) |
 | Black Cat Adventures | 129752 | [129752-black-cat-adventures.json](./129752-black-cat-adventures.json) |
@@ -7002,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookbinding | 340592 | [340592-bookbinding.json](./340592-bookbinding.json) |
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
 | Bookbound Brigade | 121218 | [121218-bookbound-brigade.json](./121218-bookbound-brigade.json) |
+| Bookend | 115559 | [115559-bookend.json](./115559-bookend.json) |
 | Bookers: Underground Chapter | 104085 | [104085-bookers-underground-chapter.json](./104085-bookers-underground-chapter.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Booking Revolution | 76991 | [76991-booking-revolution.json](./76991-booking-revolution.json) |
