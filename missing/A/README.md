@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
+| Adrenalin | 65270 | [65270-adrenalin.json](./65270-adrenalin.json) |
 | Adrenaline | 379561 | [379561-adrenaline.json](./379561-adrenaline.json) |
 | Adrenaline Collection Pack | 312096 | [312096-adrenaline-collection-pack.json](./312096-adrenaline-collection-pack.json) |
 | Adrenaline Dungeon | 240725 | [240725-adrenaline-dungeon.json](./240725-adrenaline-dungeon.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akka Arrh | 225592 | [225592-akka-arrh.json](./225592-akka-arrh.json) |
 | Akka Arrh | 237527 | [237527-akka-arrh.json](./237527-akka-arrh.json) |
 | Akka Arrh: Special Edition | 245274 | [245274-akka-arrh-special-edition.json](./245274-akka-arrh-special-edition.json) |
+| Akko de Pon! Ikasama Hourouki | 65280 | [65280-akko-de-pon-ikasama-hourouki.json](./65280-akko-de-pon-ikasama-hourouki.json) |
 | Akko ni Omakase! Brain Shock | 269544 | [269544-akko-ni-omakase-brain-shock.json](./269544-akko-ni-omakase-brain-shock.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akogare 2 | 328074 | [328074-akogare-2.json](./328074-akogare-2.json) |
@@ -7519,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
+| Arms' Heart | 65268 | [65268-arms-heart.json](./65268-arms-heart.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
@@ -7938,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
+| ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: Redemption | 28006 | [28006-ash-of-gods-redemption.json](./28006-ash-of-gods-redemption.json) |
