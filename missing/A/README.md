@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace No.1 Fishing | 137416 | [137416-ace-no-1-fishing.json](./137416-ace-no-1-fishing.json) |
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
+| Ace of Arenas | 59820 | [59820-ace-of-arenas.json](./59820-ace-of-arenas.json) |
 | Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
@@ -5255,6 +5256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Defense Versus | 152978 | [152978-animal-defense-versus.json](./152978-animal-defense-versus.json) |
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
+| Animal Drivers | 59810 | [59810-animal-drivers.json](./59810-animal-drivers.json) |
 | Animal Drop Safari | 168658 | [168658-animal-drop-safari.json](./168658-animal-drop-safari.json) |
 | Animal Dungeon | 291177 | [291177-animal-dungeon.json](./291177-animal-dungeon.json) |
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
@@ -9495,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
 | Avatar Rockets | 77586 | [77586-avatar-rockets.json](./77586-avatar-rockets.json) |
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
+| Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
