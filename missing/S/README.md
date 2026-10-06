@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scents & Semiosis | 177432 | [177432-scents-and-semiosis.json](./177432-scents-and-semiosis.json) |
 | Scepter of Kzirgla | 356688 | [356688-scepter-of-kzirgla.json](./356688-scepter-of-kzirgla.json) |
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
+| Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
@@ -1652,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
+| Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
@@ -6560,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
+| Skateboard Kidz | 78881 | [78881-skateboard-kidz.json](./78881-skateboard-kidz.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
 | Skateboard Park Tycoon: World Tour 2003 | 111166 | [111166-skateboard-park-tycoon-world-tour-2003.json](./111166-skateboard-park-tycoon-world-tour-2003.json) |
@@ -8914,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
+| Sol Negro | 78899 | [78899-sol-negro.json](./78899-sol-negro.json) |
 | Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Rush Misadventure | 333710 | [333710-sol-rush-misadventure.json](./333710-sol-rush-misadventure.json) |
@@ -11843,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
 | Spelunker II: 23 no Kagi | 98524 | [98524-spelunker-ii-23-no-kagi.json](./98524-spelunker-ii-23-no-kagi.json) |
+| Spelunker II: Yuusha he no Chousen | 78887 | [78887-spelunker-ii-yuusha-he-no-chousen.json](./78887-spelunker-ii-yuusha-he-no-chousen.json) |
 | Spelunker Party | 68534 | [68534-spelunker-party.json](./68534-spelunker-party.json) |
 | Spelunker World | 21587 | [21587-spelunker-world.json](./21587-spelunker-world.json) |
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
@@ -12462,6 +12467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
+| Spore Origins | 78885 | [78885-spore-origins.json](./78885-spore-origins.json) |
 | Spore: Creepy and Cute | 70680 | [70680-spore-creepy-and-cute.json](./70680-spore-creepy-and-cute.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
@@ -12534,6 +12540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports! | 230334 | [230334-sports.json](./230334-sports.json) |
 | SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
+| Sportsman's Pack: Cabela's Big Game Hunter 2005 & Rapala Pro Fishing | 78930 | [78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json](./78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
@@ -12768,6 +12775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyyn | 372101 | [372101-spyyn.json](./372101-spyyn.json) |
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | SQGT | 332647 | [332647-sqgt.json](./332647-sqgt.json) |
+| Sqiek | 78903 | [78903-sqiek.json](./78903-sqiek.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
@@ -13208,6 +13216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
 | Star Dartle 2000 | 387525 | [387525-star-dartle-2000.json](./387525-star-dartle-2000.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
+| Star Defender | 78896 | [78896-star-defender.json](./78896-star-defender.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
@@ -14272,6 +14281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stationeers: Human Cosmetics Pack | 227894 | [227894-stationeers-human-cosmetics-pack.json](./227894-stationeers-human-cosmetics-pack.json) |
 | Stationeers: Zrilian Species Pack | 227892 | [227892-stationeers-zrilian-species-pack.json](./227892-stationeers-zrilian-species-pack.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
+| Statix | 78883 | [78883-statix.json](./78883-statix.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
@@ -18076,6 +18086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
@@ -19769,6 +19780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
+| SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia Collection | 83154 | [83154-syberia-collection.json](./83154-syberia-collection.json) |
 | Syberia II | 6185 | [6185-syberia-ii.json](./6185-syberia-ii.json) |
