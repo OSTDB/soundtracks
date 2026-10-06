@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
+| Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
 | Carimara: Beneath the Forlorn Limbs | 339618 | [339618-carimara-beneath-the-forlorn-limbs.json](./339618-carimara-beneath-the-forlorn-limbs.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Billiards | 6085 | [6085-champion-billiards.json](./6085-champion-billiards.json) |
 | Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
+| Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
@@ -3424,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
+| Chef Wars Journeys | 102855 | [102855-chef-wars-journeys.json](./102855-chef-wars-journeys.json) |
 | Chef Word Ardee | 187862 | [187862-chef-word-ardee.json](./187862-chef-word-ardee.json) |
 | Chef Yummy | 106366 | [106366-chef-yummy.json](./106366-chef-yummy.json) |
 | Chef: A Restaurant Tycoon Game | 107908 | [107908-chef-a-restaurant-tycoon-game.json](./107908-chef-a-restaurant-tycoon-game.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
+| City Bike Messenger 3D | 102847 | [102847-city-bike-messenger-3d.json](./102847-city-bike-messenger-3d.json) |
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
@@ -5113,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
+| Clan Senki | 102872 | [102872-clan-senki.json](./102872-clan-senki.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 212162 | [212162-clan-wars.json](./212162-clan-wars.json) |
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
