@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
+| Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
 | Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
 | Heroes of Hyrule | 215237 | [215237-heroes-of-hyrule.json](./215237-heroes-of-hyrule.json) |
+| Heroes of Infinity | 60925 | [60925-heroes-of-infinity.json](./60925-heroes-of-infinity.json) |
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Kalevala | 54095 | [54095-heroes-of-kalevala.json](./54095-heroes-of-kalevala.json) |
 | Heroes of Karn | 13876 | [13876-heroes-of-karn.json](./13876-heroes-of-karn.json) |
@@ -4654,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
 | Hitoriasobi | 398576 | [398576-hitoriasobi.json](./398576-hitoriasobi.json) |
 | Hitotsu No Mori | 120770 | [120770-hitotsu-no-mori.json](./120770-hitotsu-no-mori.json) |
+| Hitotsu Tobashi Renai | 60883 | [60883-hitotsu-tobashi-renai.json](./60883-hitotsu-tobashi-renai.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
 | Hitotsubashi Animal Chronicles | 358386 | [358386-hitotsubashi-animal-chronicles.json](./358386-hitotsubashi-animal-chronicles.json) |
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
@@ -5686,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
+| Horse Illustrated Championship Season | 60929 | [60929-horse-illustrated-championship-season.json](./60929-horse-illustrated-championship-season.json) |
 | Horse Isle | 60048 | [60048-horse-isle.json](./60048-horse-isle.json) |
 | Horse Isle 3: Infinite Wilds | 137434 | [137434-horse-isle-3-infinite-wilds.json](./137434-horse-isle-3-infinite-wilds.json) |
 | Horse Life | 47948 | [47948-horse-life.json](./47948-horse-life.json) |
