@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-jin no Furi-furi Girls | 37751 | [37751-u-jin-no-furi-furi-girls.json](./37751-u-jin-no-furi-furi-girls.json) |
 | U-jin: Janjuu Gakuen | 42210 | [42210-u-jin-janjuu-gakuen.json](./42210-u-jin-janjuu-gakuen.json) |
 | U-jin: Janjuu Gakuen 2 | 37752 | [37752-u-jin-janjuu-gakuen-2.json](./37752-u-jin-janjuu-gakuen-2.json) |
+| U-Move Super Sports | 72312 | [72312-u-move-super-sports.json](./72312-u-move-super-sports.json) |
 | U-Ropa | 89214 | [89214-u-ropa.json](./89214-u-ropa.json) |
 | U-Sing | 50600 | [50600-u-sing.json](./50600-u-sing.json) |
 | U-Sing 2 | 83635 | [83635-u-sing-2.json](./83635-u-sing-2.json) |
