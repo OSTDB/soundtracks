@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
+| Rapid Racing | 107746 | [107746-rapid-racing.json](./107746-rapid-racing.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
@@ -1366,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
 | Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
+| Raz | 107758 | [107758-raz.json](./107758-raz.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
@@ -5217,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
+| Rocket Swords | 107793 | [107793-rocket-swords.json](./107793-rocket-swords.json) |
 | Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
