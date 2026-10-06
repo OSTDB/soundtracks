@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
+| Paper Front | 108355 | [108355-paper-front.json](./108355-paper-front.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
 | Paper Ghost Stories: 7PM | 224985 | [224985-paper-ghost-stories-7pm.json](./224985-paper-ghost-stories-7pm.json) |
 | Paper Glider | 144878 | [144878-paper-glider.json](./144878-paper-glider.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Piano at 5 am | 247431 | [247431-piano-at-5-am.json](./247431-piano-at-5-am.json) |
+| Piano Bar | 108368 | [108368-piano-bar.json](./108368-piano-bar.json) |
 | Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
 | Piano Keys | 205646 | [205646-piano-keys.json](./205646-piano-keys.json) |
@@ -5156,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plat Wacky Adventure Remastered | 266184 | [266184-plat-wacky-adventure-remastered.json](./266184-plat-wacky-adventure-remastered.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
 | Plataforma branca | 153501 | [153501-plataforma-branca.json](./153501-plataforma-branca.json) |
+| PlatBall | 108340 | [108340-platball.json](./108340-platball.json) |
 | Platboarder | 253415 | [253415-platboarder.json](./253415-platboarder.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
@@ -8507,6 +8510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
 | Project Mekuru | 85587 | [85587-project-mekuru.json](./85587-project-mekuru.json) |
+| Project Méliès​​ | 108398 | [108398-project-melies.json](./108398-project-melies.json) |
 | Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
 | Project Michael: The Halloween Nightmare | 272804 | [272804-project-michael-the-halloween-nightmare.json](./272804-project-michael-the-halloween-nightmare.json) |
 | Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
@@ -9572,6 +9576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
+| Putin, Trump and Xin Jinping | 108375 | [108375-putin-trump-and-xin-jinping.json](./108375-putin-trump-and-xin-jinping.json) |
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
@@ -9775,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mania | 213913 | [213913-puzzle-mania.json](./213913-puzzle-mania.json) |
 | Puzzle Mania 2 | 213916 | [213916-puzzle-mania-2.json](./213916-puzzle-mania-2.json) |
 | Puzzle Mania: Chronicles of the Unicorn | 73523 | [73523-puzzle-mania-chronicles-of-the-unicorn.json](./73523-puzzle-mania-chronicles-of-the-unicorn.json) |
+| Puzzle Master | 108369 | [108369-puzzle-master.json](./108369-puzzle-master.json) |
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Master 3 | 209363 | [209363-puzzle-master-3.json](./209363-puzzle-master-3.json) |
@@ -9882,6 +9888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
 | Puzzle: Ultimate - Puzzle Pack: Space | 163434 | [163434-puzzle-ultimate-puzzle-pack-space.json](./163434-puzzle-ultimate-puzzle-pack-space.json) |
 | Puzzle: Ultimate - Puzzle Pack: Valley | 163431 | [163431-puzzle-ultimate-puzzle-pack-valley.json](./163431-puzzle-ultimate-puzzle-pack-valley.json) |
+| Puzzle:Traditional Chinese Paintings | 108395 | [108395-puzzle-traditional-chinese-paintings.json](./108395-puzzle-traditional-chinese-paintings.json) |
 | Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
