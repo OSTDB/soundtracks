@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
 | Killing Time: Resurrected | 304742 | [304742-killing-time-resurrected.json](./304742-killing-time-resurrected.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
+| Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
 | KillJoy | 271934 | [271934-killjoy.json](./271934-killjoy.json) |
 | Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
