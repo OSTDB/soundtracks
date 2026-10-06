@@ -10448,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
+| Murica | 114890 | [114890-murica.json](./114890-murica.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
