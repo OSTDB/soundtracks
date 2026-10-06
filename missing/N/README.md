@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative Space | 128590 | [128590-negative-space.json](./128590-negative-space.json) |
 | Negative Time | 390131 | [390131-negative-time.json](./390131-negative-time.json) |
 | Negative Type | 107910 | [107910-negative-type.json](./107910-negative-type.json) |
+| Negative World | 83845 | [83845-negative-world.json](./83845-negative-world.json) |
 | Negative_Space | 114547 | [114547-negative-space.json](./114547-negative-space.json) |
 | Negative: The Way of Shinobi | 143331 | [143331-negative-the-way-of-shinobi.json](./143331-negative-the-way-of-shinobi.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
@@ -2723,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle V: Akari | 64934 | [64934-nikoli-no-puzzle-v-akari.json](./64934-nikoli-no-puzzle-v-akari.json) |
 | Nikoli no Puzzle V: Heyawake | 64937 | [64937-nikoli-no-puzzle-v-heyawake.json](./64937-nikoli-no-puzzle-v-heyawake.json) |
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
+| Nikoli no Puzzle V: Kakuro | 83880 | [83880-nikoli-no-puzzle-v-kakuro.json](./83880-nikoli-no-puzzle-v-kakuro.json) |
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
