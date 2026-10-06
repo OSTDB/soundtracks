@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
+| H2O | 99114 | [99114-h2o.json](./99114-h2o.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
 | Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
+| Helicopter Simulator Game 2016 - Pilot Career Missions | 99093 | [99093-helicopter-simulator-game-2016-pilot-career-missions.json](./99093-helicopter-simulator-game-2016-pilot-career-missions.json) |
 | Helicopter Simulator VR 2021: Rescue Missions | 150767 | [150767-helicopter-simulator-vr-2021-rescue-missions.json](./150767-helicopter-simulator-vr-2021-rescue-missions.json) |
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
@@ -3927,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
 | Hidden objects Play peek a boo | 100015 | [100015-hidden-objects-play-peek-a-boo.json](./100015-hidden-objects-play-peek-a-boo.json) |
+| Hidden Objects Secret Places | 99092 | [99092-hidden-objects-secret-places.json](./99092-hidden-objects-secret-places.json) |
 | Hidden Objects USA - New York, Florida, Vegas, Hollywood & Puzzle Travel Games | 70901 | [70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json](./70901-hidden-objects-usa-new-york-florida-vegas-hollywood-and-puzzle-travel-games.json) |
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
@@ -4561,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
 | Hitman: Sniper | 19488 | [19488-hitman-sniper.json](./19488-hitman-sniper.json) |
+| Hitman: Sniper Assassin | 99073 | [99073-hitman-sniper-assassin.json](./99073-hitman-sniper-assassin.json) |
 | Hitman: Sniper Challenge | 5567 | [5567-hitman-sniper-challenge.json](./5567-hitman-sniper-challenge.json) |
 | Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
@@ -6299,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
+| Huckleberry Falls | 99125 | [99125-huckleberry-falls.json](./99125-huckleberry-falls.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
