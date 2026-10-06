@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
+| Kawaii Rainbow Portal | 93789 | [93789-kawaii-rainbow-portal.json](./93789-kawaii-rainbow-portal.json) |
 | Kawaii Slime | 314295 | [314295-kawaii-slime.json](./314295-kawaii-slime.json) |
 | Kawaii Slime Arena | 189969 | [189969-kawaii-slime-arena.json](./189969-kawaii-slime-arena.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
@@ -1253,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
+| Kids Alphabet Games | 93819 | [93819-kids-alphabet-games.json](./93819-kids-alphabet-games.json) |
 | Kids Animal Slide Puzzle 15 Mystic squares game | 100315 | [100315-kids-animal-slide-puzzle-15-mystic-squares-game.json](./100315-kids-animal-slide-puzzle-15-mystic-squares-game.json) |
 | Kids Box | 226783 | [226783-kids-box.json](./226783-kids-box.json) |
 | Kids Box | 280467 | [280467-kids-box.json](./280467-kids-box.json) |
@@ -2395,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Dash: Hit to Crush Pizza | 101671 | [101671-knife-dash-hit-to-crush-pizza.json](./101671-knife-dash-hit-to-crush-pizza.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife Flipping | 101334 | [101334-knife-flipping.json](./101334-knife-flipping.json) |
+| Knife Hit Dash | 93775 | [93775-knife-hit-dash.json](./93775-knife-hit-dash.json) |
 | Knife Man | 380625 | [380625-knife-man.json](./380625-knife-man.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
