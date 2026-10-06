@@ -7009,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
+| Doom II RPG | 101031 | [101031-doom-ii-rpg.json](./101031-doom-ii-rpg.json) |
 | Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
 | Doom II: Ascension | 202842 | [202842-doom-ii-ascension.json](./202842-doom-ii-ascension.json) |
 | Doom II: Bimmy's Companions - Cordie and Vivian | 202831 | [202831-doom-ii-bimmys-companions-cordie-and-vivian.json](./202831-doom-ii-bimmys-companions-cordie-and-vivian.json) |
