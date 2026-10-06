@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
+| Tales of Inca: Lost Land | 68873 | [68873-tales-of-inca-lost-land.json](./68873-tales-of-inca-lost-land.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
 | Tales of Isenberg | 375419 | [375419-tales-of-isenberg.json](./375419-tales-of-isenberg.json) |
@@ -13154,6 +13155,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tincan Race | 383560 | [383560-tincan-race.json](./383560-tincan-race.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
 | Tindark | 400436 | [400436-tindark.json](./400436-tindark.json) |
+| Tinge | 68884 | [68884-tinge.json](./68884-tinge.json) |
+| Tinge 2 | 68882 | [68882-tinge-2.json](./68882-tinge-2.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
