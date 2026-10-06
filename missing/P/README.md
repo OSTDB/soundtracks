@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
 | Pineapple 2000 | 277487 | [277487-pineapple-2000.json](./277487-pineapple-2000.json) |
+| Pineapple Arcade | 109542 | [109542-pineapple-arcade.json](./109542-pineapple-arcade.json) |
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
@@ -5628,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
+| Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
@@ -7634,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
+| Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
@@ -8915,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoViolence | 271174 | [271174-protoviolence.json](./271174-protoviolence.json) |
 | Protozed | 244350 | [244350-protozed.json](./244350-protozed.json) |
 | Protozoa | 211728 | [211728-protozoa.json](./211728-protozoa.json) |
+| Proud Dinosaurs | 109540 | [109540-proud-dinosaurs.json](./109540-proud-dinosaurs.json) |
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
 | Proun+ A Journey Through Modern Art | 246968 | [246968-proun-a-journey-through-modern-art.json](./246968-proun-a-journey-through-modern-art.json) |
@@ -9633,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Heroes | 110225 | [110225-puzzle-and-heroes.json](./110225-puzzle-and-heroes.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
+| Puzzle & Squishies | 109560 | [109560-puzzle-and-squishies.json](./109560-puzzle-and-squishies.json) |
 | Puzzle 10 | 256221 | [256221-puzzle-10.json](./256221-puzzle-10.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
