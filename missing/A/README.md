@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision | 220071 | [220071-activision.json](./220071-activision.json) |
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
+| Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
 | Activity Bingo Travel | 108908 | [108908-activity-bingo-travel.json](./108908-activity-bingo-travel.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
+| African Adventure | 80804 | [80804-african-adventure.json](./80804-african-adventure.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | African Safari Trophy Hunter 3D | 206098 | [206098-african-safari-trophy-hunter-3d.json](./206098-african-safari-trophy-hunter-3d.json) |
 | Afrika | 130826 | [130826-afrika.json](./130826-afrika.json) |
@@ -6998,6 +7000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
+| Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
 | Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
@@ -9489,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
+| Avoyd | 80807 | [80807-avoyd.json](./80807-avoyd.json) |
 | AVP: Evolution | 20087 | [20087-avp-evolution.json](./20087-avp-evolution.json) |
 | Avrach Resurrection | 137567 | [137567-avrach-resurrection.json](./137567-avrach-resurrection.json) |
 | Avril | 373011 | [373011-avril.json](./373011-avril.json) |
