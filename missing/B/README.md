@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Blade: Dash Dance | 182317 | [182317-beat-blade-dash-dance.json](./182317-beat-blade-dash-dance.json) |
 | Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
+| Beat Blocks VR | 111609 | [111609-beat-blocks-vr.json](./111609-beat-blocks-vr.json) |
 | Beat Bop: Pop Star Clicker | 243742 | [243742-beat-bop-pop-star-clicker.json](./243742-beat-bop-pop-star-clicker.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
@@ -9073,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
+| Buhoi Batya | 111594 | [111594-buhoi-batya.json](./111594-buhoi-batya.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
