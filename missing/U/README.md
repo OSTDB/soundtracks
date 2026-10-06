@@ -1508,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnatural: Land of Dead | 211263 | [211263-unnatural-land-of-dead.json](./211263-unnatural-land-of-dead.json) |
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
+| Unnecessary Roughness | 79516 | [79516-unnecessary-roughness.json](./79516-unnecessary-roughness.json) |
 | UnNethack | 351140 | [351140-unnethack.json](./351140-unnethack.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | UnnyWorld | 33438 | [33438-unnyworld.json](./33438-unnyworld.json) |
