@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
+| Racing Classics: Drag Race Simulator | 117601 | [117601-racing-classics-drag-race-simulator.json](./117601-racing-classics-drag-race-simulator.json) |
 | Racing Combat | 255040 | [255040-racing-combat.json](./255040-racing-combat.json) |
 | Racing Course | 247067 | [247067-racing-course.json](./247067-racing-course.json) |
 | Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Element | 127923 | [127923-resistance-element.json](./127923-resistance-element.json) |
 | Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
+| Resistance is Fruitile | 117621 | [117621-resistance-is-fruitile.json](./117621-resistance-is-fruitile.json) |
 | Resistance Rocks | 270711 | [270711-resistance-rocks.json](./270711-resistance-rocks.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
@@ -4883,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSnakes: Core Wars Legacy | 113160 | [113160-robosnakes-core-wars-legacy.json](./113160-robosnakes-core-wars-legacy.json) |
 | Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
+| Robosoul: From the Depths of Pax-Animi | 117603 | [117603-robosoul-from-the-depths-of-pax-animi.json](./117603-robosoul-from-the-depths-of-pax-animi.json) |
 | Robospierre | 220704 | [220704-robospierre.json](./220704-robospierre.json) |
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
@@ -6344,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
+| RPG Paper Maker | 117594 | [117594-rpg-paper-maker.json](./117594-rpg-paper-maker.json) |
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
 | RPG Quiz | 368498 | [368498-rpg-quiz.json](./368498-rpg-quiz.json) |
@@ -6754,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Infinite | 195025 | [195025-rune-infinite.json](./195025-rune-infinite.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
+| Rune Lord | 117609 | [117609-rune-lord.json](./117609-rune-lord.json) |
 | Rune of Eternity | 194372 | [194372-rune-of-eternity.json](./194372-rune-of-eternity.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
