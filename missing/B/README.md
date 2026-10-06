@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
 | Big Bang Pictures | 87616 | [87616-big-bang-pictures.json](./87616-big-bang-pictures.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
+| Big Bang Racing | 58023 | [58023-big-bang-racing.json](./58023-big-bang-racing.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
 | Big Bash Cricket | 170402 | [170402-big-bash-cricket.json](./170402-big-bash-cricket.json) |
@@ -9410,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bill Simulator | 202109 | [202109-bullet-bill-simulator.json](./202109-bullet-bill-simulator.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
+| Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Chess | 101673 | [101673-bullet-chess.json](./101673-bullet-chess.json) |
