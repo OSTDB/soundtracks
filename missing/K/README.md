@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
 | Kaite Shabette Hajimeyou! Monster Farm DS | 98248 | [98248-kaite-shabette-hajimeyou-monster-farm-ds.json](./98248-kaite-shabette-hajimeyou-monster-farm-ds.json) |
+| Kaite Tsukutte Asoberu: Dezaemon | 67611 | [67611-kaite-tsukutte-asoberu-dezaemon.json](./67611-kaite-tsukutte-asoberu-dezaemon.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
@@ -1257,11 +1258,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
 | Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
+| Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
 | Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
 | Kidou Senshi Gundam Vol. 2 Jaburo | 37369 | [37369-kidou-senshi-gundam-vol-2-jaburo.json](./37369-kidou-senshi-gundam-vol-2-jaburo.json) |
 | Kidou Senshi Gundam Vol. 3 A Baoa Qu | 37368 | [37368-kidou-senshi-gundam-vol-3-a-baoa-qu.json](./37368-kidou-senshi-gundam-vol-3-a-baoa-qu.json) |
+| Kidou Senshi Gundam: Cross Dimension 0079 | 67615 | [67615-kidou-senshi-gundam-cross-dimension-0079.json](./67615-kidou-senshi-gundam-cross-dimension-0079.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
@@ -2072,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
+| Kirakira | 67630 | [67630-kirakira.json](./67630-kirakira.json) |
 | Kirakira Monstars | 182464 | [182464-kirakira-monstars.json](./182464-kirakira-monstars.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
 | Kirakira Stars Idol Project Ai | 151604 | [151604-kirakira-stars-idol-project-ai.json](./151604-kirakira-stars-idol-project-ai.json) |
@@ -2155,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisen: Seeker of Aenjan City | 390129 | [390129-kisen-seeker-of-aenjan-city.json](./390129-kisen-seeker-of-aenjan-city.json) |
 | Kishi Fujii Souta no Shogi Training | 136830 | [136830-kishi-fujii-souta-no-shogi-training.json](./136830-kishi-fujii-souta-no-shogi-training.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
+| Kishin Douji Zenki: Battle Raiden | 67613 | [67613-kishin-douji-zenki-battle-raiden.json](./67613-kishin-douji-zenki-battle-raiden.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
@@ -3216,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubble Star | 129218 | [129218-kubble-star.json](./129218-kubble-star.json) |
 | Kube | 180095 | [180095-kube.json](./180095-kube.json) |
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
+| Kubes | 67633 | [67633-kubes.json](./67633-kubes.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
 | Kubikon 3D: Arctic DLC | 372539 | [372539-kubikon-3d-arctic-dlc.json](./372539-kubikon-3d-arctic-dlc.json) |
