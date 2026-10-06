@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
+| Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
+| Pike: Operacija Gromoverzhec | 72306 | [72306-pike-operacija-gromoverzhec.json](./72306-pike-operacija-gromoverzhec.json) |
 | Pikelets | 183947 | [183947-pikelets.json](./183947-pikelets.json) |
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Piki 2 | 291559 | [291559-piki-2.json](./291559-piki-2.json) |
