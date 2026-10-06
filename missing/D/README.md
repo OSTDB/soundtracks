@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Leaches | 403792 | [403792-dark-leaches.json](./403792-dark-leaches.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
 | Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
+| Dark Legends | 61993 | [61993-dark-legends.json](./61993-dark-legends.json) |
 | Dark Legion | 27574 | [27574-dark-legion.json](./27574-dark-legion.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Life Excalibur | 258115 | [258115-dark-life-excalibur.json](./258115-dark-life-excalibur.json) |
@@ -4242,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
+| Dethroned! | 62012 | [62012-dethroned.json](./62012-dethroned.json) |
 | Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
+| Divided Ground: Middle East Conflict | 61987 | [61987-divided-ground-middle-east-conflict.json](./61987-divided-ground-middle-east-conflict.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
 | Divided: Soul Theft | 89370 | [89370-divided-soul-theft.json](./89370-divided-soul-theft.json) |
