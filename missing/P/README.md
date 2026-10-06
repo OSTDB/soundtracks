@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickmos | 395697 | [395697-pickmos.json](./395697-pickmos.json) |
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
 | Pickup 'N' Packup! | 323260 | [323260-pickup-n-packup.json](./323260-pickup-n-packup.json) |
+| PickUp Express | 72956 | [72956-pickup-express.json](./72956-pickup-express.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
@@ -8579,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Green Beat | 36017 | [36017-project-green-beat.json](./36017-project-green-beat.json) |
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
+| Project Hacker | 72954 | [72954-project-hacker.json](./72954-project-hacker.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
 | Project Hastur | 114891 | [114891-project-hastur.json](./114891-project-hastur.json) |
