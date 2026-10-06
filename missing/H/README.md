@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
+| Heartwild Solitaire: Book Two | 96852 | [96852-heartwild-solitaire-book-two.json](./96852-heartwild-solitaire-book-two.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heat | 183400 | [183400-heat.json](./183400-heat.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helper to Hero | 271410 | [271410-helper-to-hero.json](./271410-helper-to-hero.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
+| Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helvetii | 119673 | [119673-helvetii.json](./119673-helvetii.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
