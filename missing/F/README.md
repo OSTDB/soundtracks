@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasic Tambourine | 129537 | [129537-fantasic-tambourine.json](./129537-fantasic-tambourine.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
+| FantaStep | 97526 | [97526-fantastep.json](./97526-fantastep.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
@@ -6096,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
+| Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
