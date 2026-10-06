@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Shop Simulator | 297178 | [297178-pawn-shop-simulator.json](./297178-pawn-shop-simulator.json) |
 | Pawn Shop: Simulator | 347209 | [347209-pawn-shop-simulator.json](./347209-pawn-shop-simulator.json) |
+| Pawn Stars: The Game | 62015 | [62015-pawn-stars-the-game.json](./62015-pawn-stars-the-game.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
 | Pawnchline | 292073 | [292073-pawnchline.json](./292073-pawnchline.json) |
@@ -8808,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
+| Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
@@ -9579,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
+| Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
 | Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
