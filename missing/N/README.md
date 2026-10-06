@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
 | Nellie's Nonograms | 263996 | [263996-nellies-nonograms.json](./263996-nellies-nonograms.json) |
 | Nello in Antwerp | 190093 | [190093-nello-in-antwerp.json](./190093-nello-in-antwerp.json) |
+| Nelly Cootalot: Spoonbeaks Ahoy! | 71734 | [71734-nelly-cootalot-spoonbeaks-ahoy.json](./71734-nelly-cootalot-spoonbeaks-ahoy.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
 | Nelly Cootalot: The Fowl Fleet | 18719 | [18719-nelly-cootalot-the-fowl-fleet.json](./18719-nelly-cootalot-the-fowl-fleet.json) |
 | Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
