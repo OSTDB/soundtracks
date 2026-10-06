@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
+| Factory of Monsters | 104152 | [104152-factory-of-monsters.json](./104152-factory-of-monsters.json) |
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flibble | 64125 | [64125-flibble.json](./64125-flibble.json) |
 | Flibbles | 211253 | [211253-flibbles.json](./211253-flibbles.json) |
 | Flick | 409649 | [409649-flick.json](./409649-flick.json) |
+| Flick Arena | 103998 | [103998-flick-arena.json](./103998-flick-arena.json) |
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
 | Flick Ball - Physics Game | 106776 | [106776-flick-ball-physics-game.json](./106776-flick-ball-physics-game.json) |
 | Flick Champions Classic | 86846 | [86846-flick-champions-classic.json](./86846-flick-champions-classic.json) |
