@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redfall: Steelbook Launch Edition | 350534 | [350534-redfall-steelbook-launch-edition.json](./350534-redfall-steelbook-launch-edition.json) |
 | Redfir Hills | 304116 | [304116-redfir-hills.json](./304116-redfir-hills.json) |
 | Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
+| Redhook's Revenge | 68885 | [68885-redhooks-revenge.json](./68885-redhooks-revenge.json) |
 | Redial:Conundrum | 273444 | [273444-redial-conundrum.json](./273444-redial-conundrum.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Rediscovering Earth | 183374 | [183374-rediscovering-earth.json](./183374-rediscovering-earth.json) |
