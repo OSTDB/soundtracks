@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
+| Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
 | EnviroGolf | 126377 | [126377-envirogolf.json](./126377-envirogolf.json) |
 | Environment Protection Ambassador | 385287 | [385287-environment-protection-ambassador.json](./385287-environment-protection-ambassador.json) |
+| Environmental Extremist | 70031 | [70031-environmental-extremist.json](./70031-environmental-extremist.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
 | Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
