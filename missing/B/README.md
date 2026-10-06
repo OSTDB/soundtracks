@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
+| Balloon Fiesta 3D | 114935 | [114935-balloon-fiesta-3d.json](./114935-balloon-fiesta-3d.json) |
 | Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
 | Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
@@ -9852,3 +9853,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
 | Bythzkel-Sombréa | 311820 | [311820-bythzkel-sombrea.json](./311820-bythzkel-sombrea.json) |
+| B画少说 | 114896 | [114896-b.json](./114896-b.json) |
