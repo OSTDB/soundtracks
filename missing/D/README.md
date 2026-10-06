@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend Homeland | 217397 | [217397-defend-homeland.json](./217397-defend-homeland.json) |
+| Defend London | 104722 | [104722-defend-london.json](./104722-defend-london.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend the Bits TD | 203957 | [203957-defend-the-bits-td.json](./203957-defend-the-bits-td.json) |
 | Defend the Cake Tower Defense | 175173 | [175173-defend-the-cake-tower-defense.json](./175173-defend-the-cake-tower-defense.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
 | Dirty Little Secrets | 313891 | [313891-dirty-little-secrets.json](./313891-dirty-little-secrets.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
+| Dirty Phrase Frenzy | 104718 | [104718-dirty-phrase-frenzy.json](./104718-dirty-phrase-frenzy.json) |
 | Dirty Piano Lessons | 371387 | [371387-dirty-piano-lessons.json](./371387-dirty-piano-lessons.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Streamer Puzzle | 244832 | [244832-dirty-streamer-puzzle.json](./244832-dirty-streamer-puzzle.json) |
@@ -7309,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Breakout | 57325 | [57325-double-breakout.json](./57325-double-breakout.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
+| Double Bubble Trouble | 104709 | [104709-double-bubble-trouble.json](./104709-double-bubble-trouble.json) |
 | Double Clue: Solitaire Stories | 36501 | [36501-double-clue-solitaire-stories.json](./36501-double-clue-solitaire-stories.json) |
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
@@ -9842,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Service | 118749 | [118749-dungeon-service.json](./118749-dungeon-service.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
+| Dungeon Shooter | 104715 | [104715-dungeon-shooter.json](./104715-dungeon-shooter.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
 | Dungeon Siege Collection | 154612 | [154612-dungeon-siege-collection.json](./154612-dungeon-siege-collection.json) |
 | Dungeon Siege II | 9269 | [9269-dungeon-siege-ii.json](./9269-dungeon-siege-ii.json) |
