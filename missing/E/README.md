@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
 | Elif | 186689 | [186689-elif.json](./186689-elif.json) |
+| Elifoot | 91631 | [91631-elifoot.json](./91631-elifoot.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
@@ -3354,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
+| Eumel | 91584 | [91584-eumel.json](./91584-eumel.json) |
 | Eunae Liaro in: Fowl Play | 293334 | [293334-eunae-liaro-in-fowl-play.json](./293334-eunae-liaro-in-fowl-play.json) |
 | EunHye DS | 217839 | [217839-eunhye-ds.json](./217839-eunhye-ds.json) |
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
@@ -4423,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
 | EyePet | 7303 | [7303-eyepet.json](./7303-eyepet.json) |
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
+| EyePet PSP | 91591 | [91591-eyepet-psp.json](./91591-eyepet-psp.json) |
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
 | Eyepuppet Company | 358514 | [358514-eyepuppet-company.json](./358514-eyepuppet-company.json) |
 | EyeRoll | 153321 | [153321-eyeroll.json](./153321-eyeroll.json) |
