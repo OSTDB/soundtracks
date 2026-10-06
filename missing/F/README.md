@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
+| Factory Mogul | 76148 | [76148-factory-mogul.json](./76148-factory-mogul.json) |
 | Factory of Monsters | 104152 | [104152-factory-of-monsters.json](./104152-factory-of-monsters.json) |
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
@@ -4210,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
 | Flight Fight 2s | 89699 | [89699-flight-fight-2s.json](./89699-flight-fight-2s.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
+| Flight Mania | 76147 | [76147-flight-mania.json](./76147-flight-mania.json) |
 | Flight Masters: The Horizon Chase | 322121 | [322121-flight-masters-the-horizon-chase.json](./322121-flight-masters-the-horizon-chase.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of Light | 52771 | [52771-flight-of-light.json](./52771-flight-of-light.json) |
