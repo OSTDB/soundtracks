@@ -16548,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
 | Trainz: Settle & Carlisle | 62419 | [62419-trainz-settle-and-carlisle.json](./62419-trainz-settle-and-carlisle.json) |
 | Trainz: The Complete Collection | 206077 | [206077-trainz-the-complete-collection.json](./206077-trainz-the-complete-collection.json) |
+| Trainz: Virtual Railroading on Your PC | 76125 | [76125-trainz-virtual-railroading-on-your-pc.json](./76125-trainz-virtual-railroading-on-your-pc.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
 | Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
