@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impirical Evidence | 394437 | [394437-impirical-evidence.json](./394437-impirical-evidence.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
+| Implode XL | 66418 | [66418-implode-xl.json](./66418-implode-xl.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
