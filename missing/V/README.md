@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
 | Viking Frontiers | 286113 | [286113-viking-frontiers.json](./286113-viking-frontiers.json) |
+| Viking Ghost | 62002 | [62002-viking-ghost.json](./62002-viking-ghost.json) |
 | Viking Heroes 5 | 286232 | [286232-viking-heroes-5.json](./286232-viking-heroes-5.json) |
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
