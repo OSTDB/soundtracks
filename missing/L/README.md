@@ -3956,15 +3956,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 3 | 153003 | [153003-logistical-3.json](./153003-logistical-3.json) |
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
+| Logistical: Chile | 59229 | [59229-logistical-chile.json](./59229-logistical-chile.json) |
 | Logistical: Earth | 51582 | [51582-logistical-earth.json](./51582-logistical-earth.json) |
 | Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
 | Logistical: Italy | 55263 | [55263-logistical-italy.json](./55263-logistical-italy.json) |
 | Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
+| Logistical: Norway | 59230 | [59230-logistical-norway.json](./59230-logistical-norway.json) |
 | Logistical: Russia | 74489 | [74489-logistical-russia.json](./74489-logistical-russia.json) |
 | Logistical: South Africa | 74486 | [74486-logistical-south-africa.json](./74486-logistical-south-africa.json) |
 | Logistical: Switzerland | 74487 | [74487-logistical-switzerland.json](./74487-logistical-switzerland.json) |
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
+| Logistical: USA - Oregon | 59231 | [59231-logistical-usa-oregon.json](./59231-logistical-usa-oregon.json) |
 | Logistical: USA - Wisconsin | 74488 | [74488-logistical-usa-wisconsin.json](./74488-logistical-usa-wisconsin.json) |
 | Logistics Central | 271720 | [271720-logistics-central.json](./271720-logistics-central.json) |
 | Logistics Inc | 183877 | [183877-logistics-inc.json](./183877-logistics-inc.json) |
