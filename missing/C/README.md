@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
+| Cale Quest | 90198 | [90198-cale-quest.json](./90198-cale-quest.json) |
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
+| Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Merged | 103559 | [103559-candy-merged.json](./103559-candy-merged.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
 | Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
+| Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Eats Car 2 | 227900 | [227900-car-eats-car-2.json](./227900-car-eats-car-2.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
@@ -3552,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
 | Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
+| Chess for Kids: Play & Learn | 90183 | [90183-chess-for-kids-play-and-learn.json](./90183-chess-for-kids-play-and-learn.json) |
 | Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
 | Chess For Playdate | 275684 | [275684-chess-for-playdate.json](./275684-chess-for-playdate.json) |
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
@@ -5753,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
 | Clown Theft Auto: Woke City | 222958 | [222958-clown-theft-auto-woke-city.json](./222958-clown-theft-auto-woke-city.json) |
 | Clown Thug Cop Zombies | 114927 | [114927-clown-thug-cop-zombies.json](./114927-clown-thug-cop-zombies.json) |
+| Clown's Secret | 90219 | [90219-clowns-secret.json](./90219-clowns-secret.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
@@ -7375,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
+| Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
 | Constance | 258950 | [258950-constance.json](./258950-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
@@ -9074,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Quiz! Are You Crazy Enough? | 268117 | [268117-crazy-quiz-are-you-crazy-enough.json](./268117-crazy-quiz-are-you-crazy-enough.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
+| Crazy Road | 90189 | [90189-crazy-road.json](./90189-crazy-road.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
