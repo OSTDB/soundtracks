@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Elastic Boy: Mission 1 | 85418 | [85418-tales-of-elastic-boy-mission-1.json](./85418-tales-of-elastic-boy-mission-1.json) |
 | Tales of Eldoria | 376003 | [376003-tales-of-eldoria.json](./376003-tales-of-eldoria.json) |
 | Tales of Elondria | 296996 | [296996-tales-of-elondria.json](./296996-tales-of-elondria.json) |
+| Tales of Erin | 112244 | [112244-tales-of-erin.json](./112244-tales-of-erin.json) |
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
@@ -1161,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
+| Tank Team | 112254 | [112254-tank-team.json](./112254-tank-team.json) |
 | Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Top Tactics | 212842 | [212842-tank-top-tactics.json](./212842-tank-top-tactics.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
@@ -4951,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
 | The Endless Wyrd | 133353 | [133353-the-endless-wyrd.json](./133353-the-endless-wyrd.json) |
+| The Enemies Are You | 112255 | [112255-the-enemies-are-you.json](./112255-the-enemies-are-you.json) |
 | The Enemy Approached the Walls | 224536 | [224536-the-enemy-approached-the-walls.json](./224536-the-enemy-approached-the-walls.json) |
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
 | The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
@@ -14157,6 +14160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Blast | 56586 | [56586-toon-blast.json](./56586-toon-blast.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Cup 2018 - Football Game | 112135 | [112135-toon-cup-2018-football-game.json](./112135-toon-cup-2018-football-game.json) |
+| Toon Off | 112245 | [112245-toon-off.json](./112245-toon-off.json) |
 | Toon Panic | 136860 | [136860-toon-panic.json](./136860-toon-panic.json) |
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
