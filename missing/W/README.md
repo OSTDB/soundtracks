@@ -4839,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverlan: Elnea Kingdom - Bee Apparel Set | 304808 | [304808-worldneverlan-elnea-kingdom-bee-apparel-set.json](./304808-worldneverlan-elnea-kingdom-bee-apparel-set.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Chocolate Donut Fair | 287173 | [287173-worldneverland-chocolate-donut-fair.json](./287173-worldneverland-chocolate-donut-fair.json) |
+| WorldNeverland: Daily Life in the Elnea Kingdom | 97980 | [97980-worldneverland-daily-life-in-the-elnea-kingdom.json](./97980-worldneverland-daily-life-in-the-elnea-kingdom.json) |
 | WorldNeverland: Elnea Kingdom | 84960 | [84960-worldneverland-elnea-kingdom.json](./84960-worldneverland-elnea-kingdom.json) |
 | WorldNeverland: Elnea Kingdom - Ancestral Garb Set: Berry | 316264 | [316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json](./316264-worldneverland-elnea-kingdom-ancestral-garb-set-berry.json) |
 | WorldNeverland: Elnea Kingdom - Floral Town-Wear Set: Brown | 324423 | [324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json](./324423-worldneverland-elnea-kingdom-floral-town-wear-set-brown.json) |
@@ -5329,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
+| Wyvern | 97988 | [97988-wyvern.json](./97988-wyvern.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
