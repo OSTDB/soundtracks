@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
+| MAD: Global Thermonuclear Warfare | 69534 | [69534-mad-global-thermonuclear-warfare.json](./69534-mad-global-thermonuclear-warfare.json) |
 | MAD: Mutually Assured Destruction | 101727 | [101727-mad-mutually-assured-destruction.json](./101727-mad-mutually-assured-destruction.json) |
 | Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
@@ -505,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
+| Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
 | Mage Hunters | 153315 | [153315-mage-hunters.json](./153315-mage-hunters.json) |
 | Mage Knight: Apocalypse | 20588 | [20588-mage-knight-apocalypse.json](./20588-mage-knight-apocalypse.json) |
@@ -2542,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martha Madison: Simple Machines Volume 2 | 83958 | [83958-martha-madison-simple-machines-volume-2.json](./83958-martha-madison-simple-machines-volume-2.json) |
 | Martha Madison: Waves | 83962 | [83962-martha-madison-waves.json](./83962-martha-madison-waves.json) |
 | Martha's Dolls 2 | 415990 | [415990-marthas-dolls-2.json](./415990-marthas-dolls-2.json) |
+| Martial Arts Brutality | 69499 | [69499-martial-arts-brutality.json](./69499-martial-arts-brutality.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
@@ -11969,6 +11972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
+| Mystic Nights | 69523 | [69523-mystic-nights.json](./69523-mystic-nights.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
 | Mystic Pillars: Remastered | 291150 | [291150-mystic-pillars-remastered.json](./291150-mystic-pillars-remastered.json) |
 | Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
