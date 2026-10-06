@@ -3954,6 +3954,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
 | Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
+| Pink Haze | 97995 | [97995-pink-haze.json](./97995-pink-haze.json) |
+| Pink Haze 2 | 98006 | [98006-pink-haze-2.json](./98006-pink-haze-2.json) |
 | Pink Heaven | 34289 | [34289-pink-heaven.json](./34289-pink-heaven.json) |
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
@@ -4771,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
+| Pixture | 97994 | [97994-pixture.json](./97994-pixture.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
 | Pixxle: A Pixel Puzzle Game | 91147 | [91147-pixxle-a-pixel-puzzle-game.json](./91147-pixxle-a-pixel-puzzle-game.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
@@ -5489,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
+| Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
@@ -7377,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
+| Powerboat Challenge | 97985 | [97985-powerboat-challenge.json](./97985-powerboat-challenge.json) |
 | PowerBoat Mega Ramp Racing | 105829 | [105829-powerboat-mega-ramp-racing.json](./105829-powerboat-mega-ramp-racing.json) |
 | PowerBots Builders | 222812 | [222812-powerbots-builders.json](./222812-powerbots-builders.json) |
 | PowerBots Retro | 143566 | [143566-powerbots-retro.json](./143566-powerbots-retro.json) |
