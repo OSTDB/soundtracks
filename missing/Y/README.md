@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You get Eaten by a Cute Milf | 229200 | [229200-you-get-eaten-by-a-cute-milf.json](./229200-you-get-eaten-by-a-cute-milf.json) |
 | You Go Golf | 181688 | [181688-you-go-golf.json](./181688-you-go-golf.json) |
 | You Got Crabs | 276817 | [276817-you-got-crabs.json](./276817-you-got-crabs.json) |
+| You Green Elephant | 99702 | [99702-you-green-elephant.json](./99702-you-green-elephant.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
 | You Had, Like, So Much Going On | 181751 | [181751-you-had-like-so-much-going-on.json](./181751-you-had-like-so-much-going-on.json) |
