@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
+| Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
 | Sea Fighter Poseidon | 40409 | [40409-sea-fighter-poseidon.json](./40409-sea-fighter-poseidon.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
@@ -2692,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
+| Seek 'n Spell | 90913 | [90913-seek-n-spell.json](./90913-seek-n-spell.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Find Vol 1 | 109164 | [109164-seek-and-find-vol-1.json](./109164-seek-and-find-vol-1.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
@@ -5071,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
+| Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
@@ -11364,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speak of my sin | 336648 | [336648-speak-of-my-sin.json](./336648-speak-of-my-sin.json) |
 | Speak of the Cloud | 326714 | [326714-speak-of-the-cloud.json](./326714-speak-of-the-cloud.json) |
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
+| Speak Out English | 90899 | [90899-speak-out-english.json](./90899-speak-out-english.json) |
 | Speakeasy | 253334 | [253334-speakeasy.json](./253334-speakeasy.json) |
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
@@ -13138,6 +13142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
+| Star Defense | 90910 | [90910-star-defense.json](./90910-star-defense.json) |
 | Star Destroyer | 113618 | [113618-star-destroyer.json](./113618-star-destroyer.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
@@ -16831,6 +16836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
 | Super Block Crush | 236340 | [236340-super-block-crush.json](./236340-super-block-crush.json) |
 | Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
+| Super Blockbuster | 90923 | [90923-super-blockbuster.json](./90923-super-blockbuster.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
 | Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
@@ -18622,6 +18628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar Ice Hockey | 40998 | [40998-superstar-ice-hockey.json](./40998-superstar-ice-hockey.json) |
 | Superstar Izone | 142115 | [142115-superstar-izone.json](./142115-superstar-izone.json) |
 | SuperStar JYPNation | 105971 | [105971-superstar-jypnation.json](./105971-superstar-jypnation.json) |
+| SuperStar Karaoke | 90912 | [90912-superstar-karaoke.json](./90912-superstar-karaoke.json) |
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
@@ -19191,6 +19198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swatch Out! | 132785 | [132785-swatch-out.json](./132785-swatch-out.json) |
 | Swatches | 69809 | [69809-swatches.json](./69809-swatches.json) |
 | Sway | 352196 | [352196-sway.json](./352196-sway.json) |
+| Sway | 90911 | [90911-sway.json](./90911-sway.json) |
 | SwayBods | 233233 | [233233-swaybods.json](./233233-swaybods.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
