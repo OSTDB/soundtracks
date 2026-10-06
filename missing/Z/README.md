@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Collapse | 190464 | [190464-z-collapse.json](./190464-z-collapse.json) |
+| Z-End | 74691 | [74691-z-end.json](./74691-z-end.json) |
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
 | Z-Factor | 305933 | [305933-z-factor.json](./305933-z-factor.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Ziegel: An Arcade Platformer | 96206 | [96206-ziegel-an-arcade-platformer.json](./96206-ziegel-an-arcade-platformer.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
+| Zig Zag Ball | 74720 | [74720-zig-zag-ball.json](./74720-zig-zag-ball.json) |
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
