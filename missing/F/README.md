@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Director DS | 21474 | [21474-football-director-ds.json](./21474-football-director-ds.json) |
+| Football Director II | 83202 | [83202-football-director-ii.json](./83202-football-director-ii.json) |
 | Football for the TRS-80 CoCo | 131494 | [131494-football-for-the-trs-80-coco.json](./131494-football-for-the-trs-80-coco.json) |
 | Football Fred | 104468 | [104468-football-fred.json](./104468-football-fred.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
