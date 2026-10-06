@@ -8648,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ictos | 286057 | [286057-project-ictos.json](./286057-project-ictos.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
+| Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project K1 | 264009 | [264009-project-k1.json](./264009-project-k1.json) |
