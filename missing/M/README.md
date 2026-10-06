@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
 | Mahjong Safari | 366440 | [366440-mahjong-safari.json](./366440-mahjong-safari.json) |
+| Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
+| Mahjong Unlimited | 88641 | [88641-mahjong-unlimited.json](./88641-mahjong-unlimited.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
 | Mahjong Venice Mystery Classic | 99179 | [99179-mahjong-venice-mystery-classic.json](./99179-mahjong-venice-mystery-classic.json) |
 | Mahjong Venice Mystery Puzzle | 87715 | [87715-mahjong-venice-mystery-puzzle.json](./87715-mahjong-venice-mystery-puzzle.json) |
@@ -1846,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
+| Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
@@ -5142,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin: The Game | 304206 | [304206-merlin-the-game.json](./304206-merlin-the-game.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
+| Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
 | Mermaid Castle 2 | 264560 | [264560-mermaid-castle-2.json](./264560-mermaid-castle-2.json) |
 | Mermaid Catch: Transform Sirens into Anime Girls | 409684 | [409684-mermaid-catch-transform-sirens-into-anime-girls.json](./409684-mermaid-catch-transform-sirens-into-anime-girls.json) |
 | Mermaid City | 310658 | [310658-mermaid-city.json](./310658-mermaid-city.json) |
@@ -7086,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | Minimapperz | 337302 | [337302-minimapperz.json](./337302-minimapperz.json) |
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
+| Minimize | 88665 | [88665-minimize.json](./88665-minimize.json) |
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
