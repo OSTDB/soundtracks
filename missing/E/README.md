@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
+| Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
 | Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
 | Eastern Dream | 414546 | [414546-eastern-dream.json](./414546-eastern-dream.json) |
 | Eastern Era | 374833 | [374833-eastern-era.json](./374833-eastern-era.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
+| Enter the Room | 90232 | [90232-enter-the-room.json](./90232-enter-the-room.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter the Titan | 284402 | [284402-enter-the-titan.json](./284402-enter-the-titan.json) |
 | Enter the Void to the Holy Mountain | 306970 | [306970-enter-the-void-to-the-holy-mountain.json](./306970-enter-the-void-to-the-holy-mountain.json) |
