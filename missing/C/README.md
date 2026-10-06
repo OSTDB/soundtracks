@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
 | Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
+| Cassandra's Journey: The Legacy of Nostradamus | 64725 | [64725-cassandras-journey-the-legacy-of-nostradamus.json](./64725-cassandras-journey-the-legacy-of-nostradamus.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
 | Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
@@ -3947,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
 | Chill Drive | 330387 | [330387-chill-drive.json](./330387-chill-drive.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
+| Chill Manor | 64704 | [64704-chill-manor.json](./64704-chill-manor.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 335474 | [335474-chill-out.json](./335474-chill-out.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
