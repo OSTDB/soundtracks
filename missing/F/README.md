@@ -2660,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
 | Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
 | Final Fantasy Brave Exvius Chocobo Run! | 123476 | [123476-final-fantasy-brave-exvius-chocobo-run.json](./123476-final-fantasy-brave-exvius-chocobo-run.json) |
+| Final Fantasy Digital Card Game | 113632 | [113632-final-fantasy-digital-card-game.json](./113632-final-fantasy-digital-card-game.json) |
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Froguelike | 244836 | [244836-froguelike.json](./244836-froguelike.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
+| Frogvale | 113600 | [113600-frogvale.json](./113600-frogvale.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | Frogworld | 167608 | [167608-frogworld.json](./167608-frogworld.json) |
 | Frogz | 329159 | [329159-frogz.json](./329159-frogz.json) |
