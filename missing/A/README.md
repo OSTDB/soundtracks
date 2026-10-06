@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife: The Second Dimension | 150554 | [150554-afterlife-the-second-dimension.json](./150554-afterlife-the-second-dimension.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Afterlight Catacombs | 320931 | [320931-afterlight-catacombs.json](./320931-afterlight-catacombs.json) |
+| Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
