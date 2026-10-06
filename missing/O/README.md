@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Text | 372680 | [372680-off-the-text.json](./372680-off-the-text.json) |
 | Off the Wall | 12894 | [12894-off-the-wall.json](./12894-off-the-wall.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
+| Off to Europe | 112212 | [112212-off-to-europe.json](./112212-off-to-europe.json) |
 | Off to Sleep | 222930 | [222930-off-to-sleep.json](./222930-off-to-sleep.json) |
 | Off Trail | 341500 | [341500-off-trail.json](./341500-off-trail.json) |
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh My Yokai! | 208282 | [208282-oh-my-yokai.json](./208282-oh-my-yokai.json) |
 | Oh No | 135705 | [135705-oh-no.json](./135705-oh-no.json) |
+| Oh No, Angry Emoji's are Trying to Kill Me! | 112261 | [112261-oh-no-angry-emojis-are-trying-to-kill-me.json](./112261-oh-no-angry-emojis-are-trying-to-kill-me.json) |
 | Oh No, My Moustache! | 275221 | [275221-oh-no-my-moustache.json](./275221-oh-no-my-moustache.json) |
 | Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
 | Oh No! It's An Alien Invasion: Turret Alert | 197643 | [197643-oh-no-its-an-alien-invasion-turret-alert.json](./197643-oh-no-its-an-alien-invasion-turret-alert.json) |
