@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
 | Wild Horse Racing | 275139 | [275139-wild-horse-racing.json](./275139-wild-horse-racing.json) |
 | Wild Horse Simulator | 89243 | [89243-wild-horse-simulator.json](./89243-wild-horse-simulator.json) |
+| Wild Hunger | 87809 | [87809-wild-hunger.json](./87809-wild-hunger.json) |
 | Wild Hunter: Sniper Rifle Adventures Simulator | 317439 | [317439-wild-hunter-sniper-rifle-adventures-simulator.json](./317439-wild-hunter-sniper-rifle-adventures-simulator.json) |
 | Wild Hunting | 267432 | [267432-wild-hunting.json](./267432-wild-hunting.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
