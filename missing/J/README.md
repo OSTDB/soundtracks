@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Jo's House | 177391 | [177391-jos-house.json](./177391-jos-house.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
+| Joan Mad Run | 58611 | [58611-joan-mad-run.json](./58611-joan-mad-run.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
@@ -1387,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
 | John Lowe's Ultimate Darts | 72162 | [72162-john-lowes-ultimate-darts.json](./72162-john-lowes-ultimate-darts.json) |
+| John Mad Run | 58603 | [58603-john-mad-run.json](./58603-john-mad-run.json) |
 | John Madden American Football | 45589 | [45589-john-madden-american-football.json](./45589-john-madden-american-football.json) |
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
