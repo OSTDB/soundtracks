@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
 | The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
 | The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
+| The Battle for Murk | 102884 | [102884-the-battle-for-murk.json](./102884-the-battle-for-murk.json) |
 | The Battle for Sector 219 | 33184 | [33184-the-battle-for-sector-219.json](./33184-the-battle-for-sector-219.json) |
 | The Battle for the Hut | 99671 | [99671-the-battle-for-the-hut.json](./99671-the-battle-for-the-hut.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
 | The Forest Watches | 383947 | [383947-the-forest-watches.json](./383947-the-forest-watches.json) |
+| The Forestale | 102875 | [102875-the-forestale.json](./102875-the-forestale.json) |
 | The Foretold: Exordium | 267675 | [267675-the-foretold-exordium.json](./267675-the-foretold-exordium.json) |
 | The Forever Labyrinth | 285049 | [285049-the-forever-labyrinth.json](./285049-the-forever-labyrinth.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
@@ -6165,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indestructible Moxy Boxy | 169807 | [169807-the-indestructible-moxy-boxy.json](./169807-the-indestructible-moxy-boxy.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
 | The Indie Dev | 296474 | [296474-the-indie-dev.json](./296474-the-indie-dev.json) |
+| The Indie Game Legend 3D | 102896 | [102896-the-indie-game-legend-3d.json](./102896-the-indie-game-legend-3d.json) |
 | The Indie Mixtape | 35685 | [35685-the-indie-mixtape.json](./35685-the-indie-mixtape.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
@@ -8663,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rise of the Hero | 369186 | [369186-the-rise-of-the-hero.json](./369186-the-rise-of-the-hero.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
 | The Risen Survival | 236787 | [236787-the-risen-survival.json](./236787-the-risen-survival.json) |
+| The RisenDead : VR | 102897 | [102897-the-risendead-vr.json](./102897-the-risendead-vr.json) |
 | The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
@@ -11555,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Rogue | 376103 | [376103-tic-tac-rogue.json](./376103-tic-tac-rogue.json) |
 | Tic Tac Toe | 321433 | [321433-tic-tac-toe.json](./321433-tic-tac-toe.json) |
+| Tic Tac Toe (Cellular) | 102843 | [102843-tic-tac-toe-cellular.json](./102843-tic-tac-toe-cellular.json) |
 | Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
