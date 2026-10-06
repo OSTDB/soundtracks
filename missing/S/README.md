@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
+| Sangokushi Taisen DS | 70607 | [70607-sangokushi-taisen-ds.json](./70607-sangokushi-taisen-ds.json) |
 | Sangokushi Taisen Ten | 79368 | [79368-sangokushi-taisen-ten.json](./79368-sangokushi-taisen-ten.json) |
 | Sangokushi Taisen: Battle of Three Kingdoms | 268026 | [268026-sangokushi-taisen-battle-of-three-kingdoms.json](./268026-sangokushi-taisen-battle-of-three-kingdoms.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinjuku Anomaly | 386407 | [386407-shinjuku-anomaly.json](./386407-shinjuku-anomaly.json) |
+| Shinjuku no Okami | 70573 | [70573-shinjuku-no-okami.json](./70573-shinjuku-no-okami.json) |
 | Shinjuku Soumei | 261212 | [261212-shinjuku-soumei.json](./261212-shinjuku-soumei.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinkansen 0 | 292568 | [292568-shinkansen-0.json](./292568-shinkansen-0.json) |
@@ -4917,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
 | Shissou, Yankee Damashii | 295936 | [295936-shissou-yankee-damashii.json](./295936-shissou-yankee-damashii.json) |
+| Shissou, Yankee Damashii | 70592 | [70592-shissou-yankee-damashii.json](./70592-shissou-yankee-damashii.json) |
 | Shisya | 270779 | [270779-shisya.json](./270779-shisya.json) |
 | Shisya 2: Ghost Video | 308889 | [308889-shisya-2-ghost-video.json](./308889-shisya-2-ghost-video.json) |
 | Shit Slam II | 372111 | [372111-shit-slam-ii.json](./372111-shit-slam-ii.json) |
@@ -6043,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 15: The Pachinko | 209498 | [209498-simple-1500-series-vol-15-the-pachinko.json](./209498-simple-1500-series-vol-15-the-pachinko.json) |
 | Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
 | Simple 1500 Series Vol. 17: The Bike Race | 59052 | [59052-simple-1500-series-vol-17-the-bike-race.json](./59052-simple-1500-series-vol-17-the-bike-race.json) |
+| Simple 1500 Series Vol. 2: The Shogi | 70571 | [70571-simple-1500-series-vol-2-the-shogi.json](./70571-simple-1500-series-vol-2-the-shogi.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 52: The Pro Wrestling 2 | 44754 | [44754-simple-1500-series-vol-52-the-pro-wrestling-2.json](./44754-simple-1500-series-vol-52-the-pro-wrestling-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
@@ -7930,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
+| Smashell | 70628 | [70628-smashell.json](./70628-smashell.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher | 349462 | [349462-smasher.json](./349462-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
@@ -8602,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman from Russia | 54735 | [54735-snowman-from-russia.json](./54735-snowman-from-russia.json) |
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
+| Snowman's Dilemma | 70604 | [70604-snowmans-dilemma.json](./70604-snowmans-dilemma.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | Snowmania | 81708 | [81708-snowmania.json](./81708-snowmania.json) |
 | Snowmen | 244306 | [244306-snowmen.json](./244306-snowmen.json) |
