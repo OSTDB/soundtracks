@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bam | 394448 | [394448-banana-bam.json](./394448-banana-bam.json) |
 | Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
+| Banana Boat Water Speed Race | 107071 | [107071-banana-boat-water-speed-race.json](./107071-banana-boat-water-speed-race.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Cat | 314405 | [314405-banana-cat.json](./314405-banana-cat.json) |
@@ -4140,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 234695 | [234695-bike-racing.json](./234695-bike-racing.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
+| Bike Racing: Moto 2018 | 107102 | [107102-bike-racing-moto-2018.json](./107102-bike-racing-moto-2018.json) |
 | Bike Rampage! | 313776 | [313776-bike-rampage.json](./313776-bike-rampage.json) |
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
 | Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
@@ -5622,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
+| Block 1010: Colorful | 107073 | [107073-block-1010-colorful.json](./107073-block-1010-colorful.json) |
 | Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
 | Block Amok | 62271 | [62271-block-amok.json](./62271-block-amok.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
