@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze 95 Ultimate | 406807 | [406807-maze-95-ultimate.json](./406807-maze-95-ultimate.json) |
 | Maze Ablaze | 211118 | [211118-maze-ablaze.json](./211118-maze-ablaze.json) |
 | Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
+| Maze Adventures | 94950 | [94950-maze-adventures.json](./94950-maze-adventures.json) |
 | Maze and Dagger | 103647 | [103647-maze-and-dagger.json](./103647-maze-and-dagger.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
@@ -6371,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
+| Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
@@ -7755,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mnemophobia: Deadline | 227772 | [227772-mnemophobia-deadline.json](./227772-mnemophobia-deadline.json) |
 | Mnemosyne's Cube | 395159 | [395159-mnemosynes-cube.json](./395159-mnemosynes-cube.json) |
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
+| Mó Dǎo Shèngzhàn: Fēngsè Huànxiǎng | 94939 | [94939-mo-dao-shengzhan-fengse-huanxiang.json](./94939-mo-dao-shengzhan-fengse-huanxiang.json) |
 | Mo the Frog | 111675 | [111675-mo-the-frog.json](./111675-mo-the-frog.json) |
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
