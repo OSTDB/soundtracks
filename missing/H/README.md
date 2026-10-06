@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy Machines VR | 159749 | [159749-handy-machines-vr.json](./159749-handy-machines-vr.json) |
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
+| Handyman | 117582 | [117582-handyman.json](./117582-handyman.json) |
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
 | Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
+| Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
 | Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
@@ -5054,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homeward | 271395 | [271395-homeward.json](./271395-homeward.json) |
+| Homeward Duck | 117589 | [117589-homeward-duck.json](./117589-homeward-duck.json) |
 | Homeward in the Roil | 345596 | [345596-homeward-in-the-roil.json](./345596-homeward-in-the-roil.json) |
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
