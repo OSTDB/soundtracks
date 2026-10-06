@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
+| Decker | 78254 | [78254-decker.json](./78254-decker.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
@@ -5703,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's DuckTales | 6487 | [6487-disneys-ducktales.json](./6487-disneys-ducktales.json) |
 | Disney's DuckTales 2 | 145272 | [145272-disneys-ducktales-2.json](./145272-disneys-ducktales-2.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
+| Disney's Extremely Goofy Skateboarding | 78286 | [78286-disneys-extremely-goofy-skateboarding.json](./78286-disneys-extremely-goofy-skateboarding.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
 | Disney's Herbie: Rescue Rally | 73552 | [73552-disneys-herbie-rescue-rally.json](./73552-disneys-herbie-rescue-rally.json) |
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
