@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
 | Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
+| Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line Dots | 149205 | [149205-line-dots.json](./149205-line-dots.json) |
+| Line Drop: Spirit Catcher | 63134 | [63134-line-drop-spirit-catcher.json](./63134-line-drop-spirit-catcher.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
@@ -4951,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
+| Love Sniper | 63116 | [63116-love-sniper.json](./63116-love-sniper.json) |
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
 | Love Spell: Written in the Stars | 130172 | [130172-love-spell-written-in-the-stars.json](./130172-love-spell-written-in-the-stars.json) |
 | Love Spell: Written in the Stars - Aslan's Story | 222992 | [222992-love-spell-written-in-the-stars-aslans-story.json](./222992-love-spell-written-in-the-stars-aslans-story.json) |
