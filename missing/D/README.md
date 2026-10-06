@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
+| Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
 | Dance Master | 247074 | [247074-dance-master.json](./247074-dance-master.json) |
 | Dance Mat Typing | 141118 | [141118-dance-mat-typing.json](./141118-dance-mat-typing.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
+| Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
 | Design it, Drive it: Speedboats | 32081 | [32081-design-it-drive-it-speedboats.json](./32081-design-it-drive-it-speedboats.json) |
 | Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
 | Design Your Own Railroad | 79963 | [79963-design-your-own-railroad.json](./79963-design-your-own-railroad.json) |
@@ -9682,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
+| Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
