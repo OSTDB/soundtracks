@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 80's Mania Pinball | 231321 | [231321-80s-mania-pinball.json](./231321-80s-mania-pinball.json) |
 | 80's Overdrive | 58717 | [58717-80s-overdrive.json](./58717-80s-overdrive.json) |
+| 8088 Othello | 94424 | [94424-8088-othello.json](./94424-8088-othello.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
