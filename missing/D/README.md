@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
+| Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
@@ -3528,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Dex | 229219 | [229219-demons-of-dex.json](./229219-demons-of-dex.json) |
+| Demons of Mercy | 66435 | [66435-demons-of-mercy.json](./66435-demons-of-mercy.json) |
 | Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demons of the Dread Sea | 417646 | [417646-demons-of-the-dread-sea.json](./417646-demons-of-the-dread-sea.json) |
@@ -4289,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devader | 68765 | [68765-devader.json](./68765-devader.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
+| Devastating Blow | 66346 | [66346-devastating-blow.json](./66346-devastating-blow.json) |
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
 | Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
@@ -4417,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
+| DeviousMUD | 66415 | [66415-deviousmud.json](./66415-deviousmud.json) |
 | Devive | 382367 | [382367-devive.json](./382367-devive.json) |
 | Devo Presents: Adventures of the Smart Patrol | 71739 | [71739-devo-presents-adventures-of-the-smart-patrol.json](./71739-devo-presents-adventures-of-the-smart-patrol.json) |
 | Devoid | 229212 | [229212-devoid.json](./229212-devoid.json) |
@@ -6227,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Sonic De-Cloaker | 250486 | [250486-doctor-who-sonic-de-cloaker.json](./250486-doctor-who-sonic-de-cloaker.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
+| Doctor Who: The Adventure Games - Episode 3: TARDIS | 66439 | [66439-doctor-who-the-adventure-games-episode-3-tardis.json](./66439-doctor-who-the-adventure-games-episode-3-tardis.json) |
 | Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
 | Doctor Who: The Doctor and the Dalek | 250508 | [250508-doctor-who-the-doctor-and-the-dalek.json](./250508-doctor-who-the-doctor-and-the-dalek.json) |
 | Doctor Who: The Edge of Reality - Deluxe Edition | 189946 | [189946-doctor-who-the-edge-of-reality-deluxe-edition.json](./189946-doctor-who-the-edge-of-reality-deluxe-edition.json) |
