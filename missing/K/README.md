@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P | 324418 | [324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json](./324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json) |
 | Kamitsubaki City Ensemble: Season Pass 2024 | 317292 | [317292-kamitsubaki-city-ensemble-season-pass-2024.json](./317292-kamitsubaki-city-ensemble-season-pass-2024.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
+| Kamitsure no okami | 83165 | [83165-kamitsure-no-okami.json](./83165-kamitsure-no-okami.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | Kamiwaza: Way of the Thief | 197545 | [197545-kamiwaza-way-of-the-thief.json](./197545-kamiwaza-way-of-the-thief.json) |
 | KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
+| Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
 | Killer Watt | 25864 | [25864-killer-watt.json](./25864-killer-watt.json) |
 | Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
