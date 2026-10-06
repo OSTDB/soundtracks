@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
+| Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
 | Mad Donna | 40366 | [40366-mad-donna.json](./40366-mad-donna.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
@@ -6453,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
+| Millipede / Super Breakout / Lunar Lander | 78289 | [78289-millipede-super-breakout-lunar-lander.json](./78289-millipede-super-breakout-lunar-lander.json) |
 | Millipede: Evolved | 329641 | [329641-millipede-evolved.json](./329641-millipede-evolved.json) |
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
 | Millistar Raiders | 223948 | [223948-millistar-raiders.json](./223948-millistar-raiders.json) |
@@ -8795,6 +8797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
+| Monster Rancher Hop-A-Bout | 78298 | [78298-monster-rancher-hop-a-bout.json](./78298-monster-rancher-hop-a-bout.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
 | Monster Roadtrip Hitchhiker Pack: The Color Squad | 261342 | [261342-monster-roadtrip-hitchhiker-pack-the-color-squad.json](./261342-monster-roadtrip-hitchhiker-pack-the-color-squad.json) |
@@ -10467,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
+| Munchies! | 78261 | [78261-munchies.json](./78261-munchies.json) |
 | Munchkin Digital | 220682 | [220682-munchkin-digital.json](./220682-munchkin-digital.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
 | Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
