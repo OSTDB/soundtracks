@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Speedway | 47213 | [47213-rally-speedway.json](./47213-rally-speedway.json) |
 | Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
+| Rally-X Rumble | 62035 | [62035-rally-x-rumble.json](./62035-rally-x-rumble.json) |
 | Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
 | Rallyallyally | 211136 | [211136-rallyallyally.json](./211136-rallyallyally.json) |
 | Rallycross Simulator | 75504 | [75504-rallycross-simulator.json](./75504-rallycross-simulator.json) |
@@ -6937,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
+| Runerod | 61988 | [61988-runerod.json](./61988-runerod.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
