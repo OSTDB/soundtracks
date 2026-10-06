@@ -8749,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
 | Monster Inn | 42140 | [42140-monster-inn.json](./42140-monster-inn.json) |
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
+| Monster Island | 65276 | [65276-monster-island.json](./65276-monster-island.json) |
 | Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
 | Monster Jam Battlegrounds | 53379 | [53379-monster-jam-battlegrounds.json](./53379-monster-jam-battlegrounds.json) |
 | Monster Jam Game | 260194 | [260194-monster-jam-game.json](./260194-monster-jam-game.json) |
