@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangoku Suieibu: Kyouei Mizugi ni Kuikomu Inbi na Shitai | 70652 | [70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json](./70652-kangoku-suieibu-kyouei-mizugi-ni-kuikomu-inbi-na-shitai.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
 | Kanhoji's Island | 286227 | [286227-kanhojis-island.json](./286227-kanhojis-island.json) |
+| Kaniman vs. Mecha Monkey | 74680 | [74680-kaniman-vs-mecha-monkey.json](./74680-kaniman-vs-mecha-monkey.json) |
 | Kanji Boy | 228573 | [228573-kanji-boy.json](./228573-kanji-boy.json) |
 | Kanji Boy 2 | 228574 | [228574-kanji-boy-2.json](./228574-kanji-boy-2.json) |
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
 | Kharkov: Disaster on the Donets | 59493 | [59493-kharkov-disaster-on-the-donets.json](./59493-kharkov-disaster-on-the-donets.json) |
 | Kharkov: Disaster on the Donets - Across the Dnepr: Second Edition | 281007 | [281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json](./281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json) |
+| Kharon's Crypt: Even Death May Die | 74721 | [74721-kharons-crypt-even-death-may-die.json](./74721-kharons-crypt-even-death-may-die.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
 | Kheshig Treasure Empires Fight | 240865 | [240865-kheshig-treasure-empires-fight.json](./240865-kheshig-treasure-empires-fight.json) |
@@ -1486,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
+| Killing Moon | 74725 | [74725-killing-moon.json](./74725-killing-moon.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
