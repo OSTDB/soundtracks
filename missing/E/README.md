@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein | 284575 | [284575-epstein.json](./284575-epstein.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
+| Epyx Winter Games | 78929 | [78929-epyx-winter-games.json](./78929-epyx-winter-games.json) |
 | Epyx's Impossible Mission | 118868 | [118868-epyxs-impossible-mission.json](./118868-epyxs-impossible-mission.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
 | Eqdrive.io | 195550 | [195550-eqdrive-io.json](./195550-eqdrive-io.json) |
