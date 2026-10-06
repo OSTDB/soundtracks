@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
 | Interplay Sports Baseball 2000 | 44735 | [44735-interplay-sports-baseball-2000.json](./44735-interplay-sports-baseball-2000.json) |
+| Interplay Sports Baseball 2000 | 94418 | [94418-interplay-sports-baseball-2000.json](./94418-interplay-sports-baseball-2000.json) |
 | Interplay's 10 Year Anthology: Classic Collection | 93381 | [93381-interplays-10-year-anthology-classic-collection.json](./93381-interplays-10-year-anthology-classic-collection.json) |
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
 | Interplayer | 301906 | [301906-interplayer.json](./301906-interplayer.json) |
