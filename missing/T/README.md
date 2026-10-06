@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
 | Teal'c's Revenge | 62673 | [62673-tealcs-revenge.json](./62673-tealcs-revenge.json) |
 | Tealerland | 159129 | [159129-tealerland.json](./159129-tealerland.json) |
+| Team | 93207 | [93207-team.json](./93207-team.json) |
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrigram | 195489 | [195489-tetrigram.json](./195489-tetrigram.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
+| Tetripz | 93215 | [93215-tetripz.json](./93215-tetripz.json) |
 | Tetris | 130749 | [130749-tetris.json](./130749-tetris.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
@@ -5231,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FED | 200016 | [200016-the-fed.json](./200016-the-fed.json) |
 | The Federal Rescue | 102967 | [102967-the-federal-rescue.json](./102967-the-federal-rescue.json) |
 | The Feeble Files | 12428 | [12428-the-feeble-files.json](./12428-the-feeble-files.json) |
+| The Fennels Figure Math | 93189 | [93189-the-fennels-figure-math.json](./93189-the-fennels-figure-math.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Fermi Paradox | 154094 | [154094-the-fermi-paradox.json](./154094-the-fermi-paradox.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
@@ -16827,6 +16830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
+| Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
@@ -17363,6 +17367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
+| Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Trojan | 270316 | [270316-trojan.json](./270316-trojan.json) |
@@ -17822,6 +17827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsurugihime | 228340 | [228340-tsurugihime.json](./228340-tsurugihime.json) |
 | Tsurupika Hagemaru: Mezase! Tsuruseko no Akashi | 48874 | [48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json](./48874-tsurupika-hagemaru-mezase-tsuruseko-no-akashi.json) |
+| Tsushima | 93195 | [93195-tsushima.json](./93195-tsushima.json) |
 | Tsutawaru! Manaberu! Nyanko Manga de Eikaiwa | 279199 | [279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json](./279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
 | Tsuushin Taikyoku: Hayazashi Shogi Sandan | 344460 | [344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json](./344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json) |
