@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I Opened the Walls and Found Something Beautiful | 177498 | [177498-i-opened-the-walls-and-found-something-beautiful.json](./177498-i-opened-the-walls-and-found-something-beautiful.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
+| i Play My Hawaian Drums | 99090 | [99090-i-play-my-hawaian-drums.json](./99090-i-play-my-hawaian-drums.json) |
 | I Play: 3D Tennis | 70090 | [70090-i-play-3d-tennis.json](./70090-i-play-3d-tennis.json) |
 | I Promise! | 224461 | [224461-i-promise.json](./224461-i-promise.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icecream Cone Cupcake Baking | 224041 | [224041-icecream-cone-cupcake-baking.json](./224041-icecream-cone-cupcake-baking.json) |
 | Iced Fish | 402441 | [402441-iced-fish.json](./402441-iced-fish.json) |
 | Iced In | 132120 | [132120-iced-in.json](./132120-iced-in.json) |
+| Iced VR | 99126 | [99126-iced-vr.json](./99126-iced-vr.json) |
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
 | Icefishing v | 215101 | [215101-icefishing-v.json](./215101-icefishing-v.json) |
