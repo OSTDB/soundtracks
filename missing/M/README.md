@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mensalão, O Jogo | 221252 | [221252-mensalao-o-jogo.json](./221252-mensalao-o-jogo.json) |
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
+| Mensch Ärgere Dich! | 85713 | [85713-mensch-argere-dich.json](./85713-mensch-argere-dich.json) |
 | Menseki: Area Maze Search | 247485 | [247485-menseki-area-maze-search.json](./247485-menseki-area-maze-search.json) |
 | Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
 | MicroBot | 21082 | [21082-microbot.json](./21082-microbot.json) |
 | MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
+| Microchess | 85752 | [85752-microchess.json](./85752-microchess.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcivilization | 236229 | [236229-microcivilization.json](./236229-microcivilization.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
@@ -7586,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
 | Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
+| Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
 | Mister Scary | 342222 | [342222-mister-scary.json](./342222-mister-scary.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
