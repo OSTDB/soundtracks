@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
 | Legend of Penguin | 290996 | [290996-legend-of-penguin.json](./290996-legend-of-penguin.json) |
+| Legend of Pirates:Sailing Log | 89506 | [89506-legend-of-pirates-sailing-log.json](./89506-legend-of-pirates-sailing-log.json) |
 | Legend of Pong Lonng Fighter Sunny'na | 267930 | [267930-legend-of-pong-lonng-fighter-sunnyna.json](./267930-legend-of-pong-lonng-fighter-sunnyna.json) |
 | Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
+| Let It Drop: Puzzle Game | 89546 | [89546-let-it-drop-puzzle-game.json](./89546-let-it-drop-puzzle-game.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
 | Let it Goat | 61160 | [61160-let-it-goat.json](./61160-let-it-goat.json) |
 | Let It Happen | 129663 | [129663-let-it-happen.json](./129663-let-it-happen.json) |
@@ -3279,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
 | Little Gardens | 128385 | [128385-little-gardens.json](./128385-little-gardens.json) |
+| Little Genius Kids | 89542 | [89542-little-genius-kids.json](./89542-little-genius-kids.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
