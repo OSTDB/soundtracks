@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
+| A Killer's Dream | 91625 | [91625-a-killers-dream.json](./91625-a-killers-dream.json) |
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
@@ -9330,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Aquarium | 77409 | [77409-avatar-aquarium.json](./77409-avatar-aquarium.json) |
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
+| Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
