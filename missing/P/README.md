@@ -9044,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
+| PsyOps Solutions | 114252 | [114252-psyops-solutions.json](./114252-psyops-solutions.json) |
 | PsyQik | 253882 | [253882-psyqik.json](./253882-psyqik.json) |
 | Psytraxx | 57356 | [57356-psytraxx.json](./57356-psytraxx.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
