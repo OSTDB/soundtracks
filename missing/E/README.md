@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
 | Elevator Action EX | 50017 | [50017-elevator-action-ex.json](./50017-elevator-action-ex.json) |
 | Elevator Action: Returns - S-Tribute | 226807 | [226807-elevator-action-returns-s-tribute.json](./226807-elevator-action-returns-s-tribute.json) |
+| Elevator Fight | 83200 | [83200-elevator-fight.json](./83200-elevator-fight.json) |
 | Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
