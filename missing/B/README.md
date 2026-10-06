@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
+| Battle Balls | 80793 | [80793-battle-balls.json](./80793-battle-balls.json) |
 | Battle Bands: Rock & Roll Deckbuilder | 155551 | [155551-battle-bands-rock-and-roll-deckbuilder.json](./155551-battle-bands-rock-and-roll-deckbuilder.json) |
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
@@ -5203,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
+| Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
 | Blade Symphony | 8408 | [8408-blade-symphony.json](./8408-blade-symphony.json) |
 | Blade Tempest | 372454 | [372454-blade-tempest.json](./372454-blade-tempest.json) |
