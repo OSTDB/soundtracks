@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
+| Over the Reich | 94393 | [94393-over-the-reich.json](./94393-over-the-reich.json) |
 | Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Over-Run | 220618 | [220618-over-run.json](./220618-over-run.json) |
