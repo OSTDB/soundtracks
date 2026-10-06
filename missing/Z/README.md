@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 10 | 119559 | [119559-zone-10.json](./119559-zone-10.json) |
 | Zone 13 | 312655 | [312655-zone-13.json](./312655-zone-13.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
+| Zone 4: Fight District | 102252 | [102252-zone-4-fight-district.json](./102252-zone-4-fight-district.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 404 | 388763 | [388763-zone-404.json](./388763-zone-404.json) |
 | Zone 6 | 288442 | [288442-zone-6.json](./288442-zone-6.json) |
