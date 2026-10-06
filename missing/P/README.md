@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWings | 9121 | [9121-petwings.json](./9121-petwings.json) |
+| PetWorld - WildLife America | 68919 | [68919-petworld-wildlife-america.json](./68919-petworld-wildlife-america.json) |
 | PetWorld 3D | 131405 | [131405-petworld-3d.json](./131405-petworld-3d.json) |
 | PetWorld 3D: Premium | 86845 | [86845-petworld-3d-premium.json](./86845-petworld-3d-premium.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Masters | 295324 | [295324-pinball-masters.json](./295324-pinball-masters.json) |
 | Pinball Paladins | 364703 | [364703-pinball-paladins.json](./364703-pinball-paladins.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
+| Pinball Planet | 68920 | [68920-pinball-planet.json](./68920-pinball-planet.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
