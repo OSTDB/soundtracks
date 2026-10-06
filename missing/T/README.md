@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
+| Tenya Wanya Teens | 63667 | [63667-tenya-wanya-teens.json](./63667-tenya-wanya-teens.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida | 144568 | [144568-teocida.json](./144568-teocida.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
@@ -9048,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
+| The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
 | The Segment Twins | 239782 | [239782-the-segment-twins.json](./239782-the-segment-twins.json) |
 | The Sekimeiya: Spun Glass | 141500 | [141500-the-sekimeiya-spun-glass.json](./141500-the-sekimeiya-spun-glass.json) |
@@ -9915,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Thirst of Hearts | 54343 | [54343-the-thirst-of-hearts.json](./54343-the-thirst-of-hearts.json) |
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
+| The Thirty Nine Steps | 63664 | [63664-the-thirty-nine-steps.json](./63664-the-thirty-nine-steps.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
@@ -13393,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
+| Tiny Tycoons | 63671 | [63671-tiny-tycoons.json](./63671-tiny-tycoons.json) |
 | Tiny Utopia | 390175 | [390175-tiny-utopia.json](./390175-tiny-utopia.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
@@ -14598,6 +14602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Torikago no Mukougawa | 268665 | [268665-torikago-no-mukougawa.json](./268665-torikago-no-mukougawa.json) |
+| Toriko: Gourmet ga Battle | 63650 | [63650-toriko-gourmet-ga-battle.json](./63650-toriko-gourmet-ga-battle.json) |
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
 | Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
 | Toriko: Gourmet Survival 2 | 64167 | [64167-toriko-gourmet-survival-2.json](./64167-toriko-gourmet-survival-2.json) |
@@ -15283,6 +15288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
 | Tower of Druaga: Tower of Defender | 76964 | [76964-tower-of-druaga-tower-of-defender.json](./76964-tower-of-druaga-tower-of-defender.json) |
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
+| Tower of Elements | 63682 | [63682-tower-of-elements.json](./63682-tower-of-elements.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
@@ -16970,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
 | Traverse the Void | 157473 | [157473-traverse-the-void.json](./157473-traverse-the-void.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
+| Traversia | 63669 | [63669-traversia.json](./63669-traversia.json) |
 | Traversing Traveler | 148463 | [148463-traversing-traveler.json](./148463-traversing-traveler.json) |
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
@@ -17190,6 +17197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
+| Trial of the Clone | 63670 | [63670-trial-of-the-clone.json](./63670-trial-of-the-clone.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
