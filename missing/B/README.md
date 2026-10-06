@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
+| Because I happened to know a secret of a transforming heroine... | 83177 | [83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json](./83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
@@ -6483,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
+| Board Battlefield | 83186 | [83186-board-battlefield.json](./83186-board-battlefield.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
 | Board Game Online | 60809 | [60809-board-game-online.json](./60809-board-game-online.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
 | Braains.io | 193807 | [193807-braains-io.json](./193807-braains-io.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
+| BrackenSack: A Dashkin game | 83181 | [83181-brackensack-a-dashkin-game.json](./83181-brackensack-a-dashkin-game.json) |
 | Bracket Chain | 279765 | [279765-bracket-chain.json](./279765-bracket-chain.json) |
 | Bracket City | 341031 | [341031-bracket-city.json](./341031-bracket-city.json) |
 | Brad Blasts the Galactic Barbarians | 301528 | [301528-brad-blasts-the-galactic-barbarians.json](./301528-brad-blasts-the-galactic-barbarians.json) |
