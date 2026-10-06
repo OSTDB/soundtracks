@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
 | Save the World | 259154 | [259154-save-the-world.json](./259154-save-the-world.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
+| Save Thine Kingdom | 115561 | [115561-save-thine-kingdom.json](./115561-save-thine-kingdom.json) |
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
 | Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
 | Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
+| Scorcher | 115550 | [115550-scorcher.json](./115550-scorcher.json) |
 | Scorchie Adventures | 306579 | [306579-scorchie-adventures.json](./306579-scorchie-adventures.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
@@ -4210,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
+| Shawy Adventures | 115535 | [115535-shawy-adventures.json](./115535-shawy-adventures.json) |
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
@@ -15827,6 +15830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subterranean Stryker | 13037 | [13037-subterranean-stryker.json](./13037-subterranean-stryker.json) |
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
+| Subtext | 115546 | [115546-subtext.json](./115546-subtext.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
