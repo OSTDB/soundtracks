@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairground 2 | 103532 | [103532-fairground-2.json](./103532-fairground-2.json) |
 | Fairground Online | 347225 | [347225-fairground-online.json](./347225-fairground-online.json) |
 | Fairground Power Polyp Simulator | 188927 | [188927-fairground-power-polyp-simulator.json](./188927-fairground-power-polyp-simulator.json) |
+| Fairies | 64733 | [64733-fairies.json](./64733-fairies.json) |
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
@@ -5430,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: The Wardrobe - Other Friends | 393167 | [393167-forgotten-hill-the-wardrobe-other-friends.json](./393167-forgotten-hill-the-wardrobe-other-friends.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten Land | 53096 | [53096-forgotten-land.json](./53096-forgotten-land.json) |
+| Forgotten Lands: First Colony | 64724 | [64724-forgotten-lands-first-colony.json](./64724-forgotten-lands-first-colony.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
@@ -5446,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
 | Forgotten Red Fog | 311169 | [311169-forgotten-red-fog.json](./311169-forgotten-red-fog.json) |
 | Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
+| Forgotten Riddles: The Moonlight Sonatas | 64726 | [64726-forgotten-riddles-the-moonlight-sonatas.json](./64726-forgotten-riddles-the-moonlight-sonatas.json) |
 | Forgotten Roads | 262940 | [262940-forgotten-roads.json](./262940-forgotten-roads.json) |
 | Forgotten Runiverse | 275661 | [275661-forgotten-runiverse.json](./275661-forgotten-runiverse.json) |
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
@@ -7025,10 +7028,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
+| Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
 | Fruit Ninja Kinect 2 | 20947 | [20947-fruit-ninja-kinect-2.json](./20947-fruit-ninja-kinect-2.json) |
 | Fruit Ninja VR 2 | 160150 | [160150-fruit-ninja-vr-2.json](./160150-fruit-ninja-vr-2.json) |
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
+| Fruit Ninja: Puss in Boots | 64749 | [64749-fruit-ninja-puss-in-boots.json](./64749-fruit-ninja-puss-in-boots.json) |
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
 | Fruit Panic | 56754 | [56754-fruit-panic.json](./56754-fruit-panic.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
