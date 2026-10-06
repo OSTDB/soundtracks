@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
+| Let's be architects | 81659 | [81659-lets-be-architects.json](./81659-lets-be-architects.json) |
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
+| Let's zig zag | 81655 | [81655-lets-zig-zag.json](./81655-lets-zig-zag.json) |
 | Let's! Revolution! | 242101 | [242101-lets-revolution.json](./242101-lets-revolution.json) |
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
 | Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
@@ -2330,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
+| Lexie the Takeover | 81651 | [81651-lexie-the-takeover.json](./81651-lexie-the-takeover.json) |
 | Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
 | Lexis | 379596 | [379596-lexis.json](./379596-lexis.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
@@ -3693,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
+| Loa: Me and Angel | 81643 | [81643-loa-me-and-angel.json](./81643-loa-me-and-angel.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
 | Load Slinging VR Training | 224599 | [224599-load-slinging-vr-training.json](./224599-load-slinging-vr-training.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
@@ -4249,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
+| Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
