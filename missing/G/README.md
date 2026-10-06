@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
+| Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
@@ -2504,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
+| Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
@@ -2773,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowmonkey Skateboarding | 234725 | [234725-glowmonkey-skateboarding.json](./234725-glowmonkey-skateboarding.json) |
 | Glowmonkey vs. Meltdown | 234724 | [234724-glowmonkey-vs-meltdown.json](./234724-glowmonkey-vs-meltdown.json) |
 | Glowmonkey2k | 229617 | [229617-glowmonkey2k.json](./229617-glowmonkey2k.json) |
+| glowWorm | 104576 | [104576-glowworm.json](./104576-glowworm.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Glozzle | 107122 | [107122-glozzle.json](./107122-glozzle.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
@@ -5346,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
 | Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
+| Guardian Prelude | 104580 | [104580-guardian-prelude.json](./104580-guardian-prelude.json) |
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
 | Guardian Realms TCG | 365187 | [365187-guardian-realms-tcg.json](./365187-guardian-realms-tcg.json) |
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
