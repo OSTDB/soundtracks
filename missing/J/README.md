@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's Gang | 29159 | [29159-jacks-gang.json](./29159-jacks-gang.json) |
 | Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
+| Jack*Bot | 92155 | [92155-jack-bot.json](./92155-jack-bot.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
 | Jackal Squad: Classic Shooting | 197704 | [197704-jackal-squad-classic-shooting.json](./197704-jackal-squad-classic-shooting.json) |
