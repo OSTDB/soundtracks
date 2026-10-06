@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
 | Samba Hero | 315574 | [315574-samba-hero.json](./315574-samba-hero.json) |
+| Samba Shooter | 95650 | [95650-samba-shooter.json](./95650-samba-shooter.json) |
 | Sambaquis: A Story before Brazil | 216192 | [216192-sambaquis-a-story-before-brazil.json](./216192-sambaquis-a-story-before-brazil.json) |
 | SambaSim | 299382 | [299382-sambasim.json](./299382-sambasim.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
@@ -892,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
 | Sandmade | 97924 | [97924-sandmade.json](./97924-sandmade.json) |
 | Sandman | 216305 | [216305-sandman.json](./216305-sandman.json) |
+| Sandman Academy | 95691 | [95691-sandman-academy.json](./95691-sandman-academy.json) |
 | Sandmason | 17278 | [17278-sandmason.json](./17278-sandmason.json) |
 | Sandnight Hill Revelation | 382768 | [382768-sandnight-hill-revelation.json](./382768-sandnight-hill-revelation.json) |
 | Sandoria | 241890 | [241890-sandoria.json](./241890-sandoria.json) |
@@ -1170,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satanic Panic 666 | 159779 | [159779-satanic-panic-666.json](./159779-satanic-panic-666.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
+| Satay Club mini | 95681 | [95681-satay-club-mini.json](./95681-satay-club-mini.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
@@ -3060,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible World of Soccer: European Championship Edition | 79251 | [79251-sensible-world-of-soccer-european-championship-edition.json](./79251-sensible-world-of-soccer-european-championship-edition.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensitive Data: THE Math Game | 39224 | [39224-sensitive-data-the-math-game.json](./39224-sensitive-data-the-math-game.json) |
+| Sensor 2 | 95695 | [95695-sensor-2.json](./95695-sensor-2.json) |
 | Sensorium | 138740 | [138740-sensorium.json](./138740-sensorium.json) |
 | Sensory Baby Toddler Learning Extra | 99392 | [99392-sensory-baby-toddler-learning-extra.json](./99392-sensory-baby-toddler-learning-extra.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
@@ -5025,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
 | Shooting Blaster Big Bang Boom | 143954 | [143954-shooting-blaster-big-bang-boom.json](./143954-shooting-blaster-big-bang-boom.json) |
+| Shooting Blocks | 95662 | [95662-shooting-blocks.json](./95662-shooting-blocks.json) |
 | Shooting Blocks 2 | 91340 | [91340-shooting-blocks-2.json](./91340-shooting-blocks-2.json) |
 | Shooting Bubbles | 115777 | [115777-shooting-bubbles.json](./115777-shooting-bubbles.json) |
 | Shooting Champion VR | 116913 | [116913-shooting-champion-vr.json](./116913-shooting-champion-vr.json) |
@@ -11715,6 +11720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
 | SpellMaster: The Saga | 130158 | [130158-spellmaster-the-saga.json](./130158-spellmaster-the-saga.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
+| SpellPix | 95692 | [95692-spellpix.json](./95692-spellpix.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
@@ -13332,6 +13338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
 | Star Trek - Armada | 18902 | [18902-star-trek-armada.json](./18902-star-trek-armada.json) |
+| Star Trek Adversaries | 95638 | [95638-star-trek-adversaries.json](./95638-star-trek-adversaries.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
