@@ -3899,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
 | Medieval Cop - Adam and Eva | 101751 | [101751-medieval-cop-adam-and-eva.json](./101751-medieval-cop-adam-and-eva.json) |
+| Medieval Cop: Wolf's Bane | 101693 | [101693-medieval-cop-wolfs-bane.json](./101693-medieval-cop-wolfs-bane.json) |
 | Medieval Crafter: Blacksmith | 244837 | [244837-medieval-crafter-blacksmith.json](./244837-medieval-crafter-blacksmith.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Defenders | 10545 | [10545-medieval-defenders.json](./10545-medieval-defenders.json) |
@@ -6908,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
+| Mini Healer | 101692 | [101692-mini-healer.json](./101692-mini-healer.json) |
 | Mini Hockey Champ! | 74502 | [74502-mini-hockey-champ.json](./74502-mini-hockey-champ.json) |
 | Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
@@ -10106,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
 | Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
+| Mr. Transporter - Night Driver | 101647 | [101647-mr-transporter-night-driver.json](./101647-mr-transporter-night-driver.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Walker's Basement | 155688 | [155688-mr-walkers-basement.json](./155688-mr-walkers-basement.json) |
