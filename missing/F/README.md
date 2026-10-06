@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
+| Firecracker Fight | 95689 | [95689-firecracker-fight.json](./95689-firecracker-fight.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
 | Firedog: Swooce & Rescue | 316167 | [316167-firedog-swooce-and-rescue.json](./316167-firedog-swooce-and-rescue.json) |
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
