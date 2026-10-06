@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
+| Weable 2 | 83816 | [83816-weable-2.json](./83816-weable-2.json) |
 | Weabot | 395788 | [395788-weabot.json](./395788-weabot.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
+| Witch's Cat | 83870 | [83870-witchs-cat.json](./83870-witchs-cat.json) |
 | Witch's Garden | 259534 | [259534-witchs-garden.json](./259534-witchs-garden.json) |
 | Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuhan Clan | 191080 | [191080-wuhan-clan.json](./191080-wuhan-clan.json) |
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
+| Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wukong Survivors: God Slayer | 387507 | [387507-wukong-survivors-god-slayer.json](./387507-wukong-survivors-god-slayer.json) |
