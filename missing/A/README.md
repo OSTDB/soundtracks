@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
+| Adventure Time: Heroes of Ooo | 62020 | [62020-adventure-time-heroes-of-ooo.json](./62020-adventure-time-heroes-of-ooo.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
@@ -2165,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
 | Afterward | 184986 | [184986-afterward.json](./184986-afterward.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
+| Afterworld | 62014 | [62014-afterworld.json](./62014-afterworld.json) |
 | Afterworld: The Age of Tomorrow | 141501 | [141501-afterworld-the-age-of-tomorrow.json](./141501-afterworld-the-age-of-tomorrow.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | Aftonbuilt | 204390 | [204390-aftonbuilt.json](./204390-aftonbuilt.json) |
