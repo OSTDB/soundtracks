@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
+| Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
 | Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
 | Ira | 166044 | [166044-ira.json](./166044-ira.json) |
