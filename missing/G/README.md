@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
 | Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
+| GachiTora! Abarenbou Kyoushi in High School | 58051 | [58051-gachitora-abarenbou-kyoushi-in-high-school.json](./58051-gachitora-abarenbou-kyoushi-in-high-school.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
