@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingless Dungeon | 350041 | [350041-kingless-dungeon.json](./350041-kingless-dungeon.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
+| Kingmaker | 80171 | [80171-kingmaker.json](./80171-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kingpin Bowling | 96290 | [96290-kingpin-bowling.json](./96290-kingpin-bowling.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
