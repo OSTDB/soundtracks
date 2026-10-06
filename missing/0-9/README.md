@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Bomberman Atomic | 198214 | [198214-3d-bomberman-atomic.json](./198214-3d-bomberman-atomic.json) |
 | 3D Bowling Master | 105848 | [105848-3d-bowling-master.json](./105848-3d-bowling-master.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
+| 3D Brick Breaker Revolution | 66431 | [66431-3d-brick-breaker-revolution.json](./66431-3d-brick-breaker-revolution.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
 | 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
