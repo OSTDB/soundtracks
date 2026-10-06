@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Championship Drag Racing: Speed for All - Ultimate Edition | 212791 | [212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json](./212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json) |
 | NHRA Drag Racing 2 | 78037 | [78037-nhra-drag-racing-2.json](./78037-nhra-drag-racing-2.json) |
 | NHRA Drag Racing: Countdown to the Championship | 18270 | [18270-nhra-drag-racing-countdown-to-the-championship.json](./18270-nhra-drag-racing-countdown-to-the-championship.json) |
+| NHRA Drag Racing: Main Event | 68984 | [68984-nhra-drag-racing-main-event.json](./68984-nhra-drag-racing-main-event.json) |
 | NHRA Drag Racing: Pro Stock Cars & Trucks | 210034 | [210034-nhra-drag-racing-pro-stock-cars-and-trucks.json](./210034-nhra-drag-racing-pro-stock-cars-and-trucks.json) |
 | NHRA Drag Racing: Quarter Mile Showdown | 210033 | [210033-nhra-drag-racing-quarter-mile-showdown.json](./210033-nhra-drag-racing-quarter-mile-showdown.json) |
 | Ni Hao Kai-lan: Super Game Day | 50715 | [50715-ni-hao-kai-lan-super-game-day.json](./50715-ni-hao-kai-lan-super-game-day.json) |
@@ -3543,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
 | Node: The Last Favor of the Antarii | 287726 | [287726-node-the-last-favor-of-the-antarii.json](./287726-node-the-last-favor-of-the-antarii.json) |
+| NodeBeat | 68921 | [68921-nodebeat.json](./68921-nodebeat.json) |
 | NodeCore | 396526 | [396526-nodecore.json](./396526-nodecore.json) |
 | Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
