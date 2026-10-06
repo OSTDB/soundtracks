@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joohsama no Namanikubenjo | 97502 | [97502-joohsama-no-namanikubenjo.json](./97502-joohsama-no-namanikubenjo.json) |
 | Joon Shining | 145512 | [145512-joon-shining.json](./145512-joon-shining.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
+| JoonGo Playground | 112259 | [112259-joongo-playground.json](./112259-joongo-playground.json) |
 | JoonGo Playground | 112268 | [112268-joongo-playground.json](./112268-joongo-playground.json) |
 | Jordan vs. Bird | 361785 | [361785-jordan-vs-bird.json](./361785-jordan-vs-bird.json) |
 | Jordan vs. Bird: One on One | 330926 | [330926-jordan-vs-bird-one-on-one.json](./330926-jordan-vs-bird-one-on-one.json) |
@@ -2041,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
+| Juno Markev | 112235 | [112235-juno-markev.json](./112235-juno-markev.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Juno: New Origins | 102982 | [102982-juno-new-origins.json](./102982-juno-new-origins.json) |
 | Junon.io | 176309 | [176309-junon-io.json](./176309-junon-io.json) |
