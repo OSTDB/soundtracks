@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erenshor | 245825 | [245825-erenshor.json](./245825-erenshor.json) |
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
+| Erevos | 93226 | [93226-erevos.json](./93226-erevos.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
@@ -2564,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
 | Erina to Kima no Miyako | 304137 | [304137-erina-to-kima-no-miyako.json](./304137-erina-to-kima-no-miyako.json) |
 | Erinaceinae Griminance | 309987 | [309987-erinaceinae-griminance.json](./309987-erinaceinae-griminance.json) |
+| Erinia | 93194 | [93194-erinia.json](./93194-erinia.json) |
 | Erinye | 95222 | [95222-erinye.json](./95222-erinye.json) |
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
