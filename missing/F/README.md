@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
+| Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Liberation: Warhammer Epic 40,000 | 12521 | [12521-final-liberation-warhammer-epic-40-000.json](./12521-final-liberation-warhammer-epic-40-000.json) |
 | Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
+| Final Match | 99730 | [99730-final-match.json](./99730-final-match.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
@@ -3544,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Mania | 117504 | [117504-fishing-mania.json](./117504-fishing-mania.json) |
 | Fishing Maniacs 1 TD | 96735 | [96735-fishing-maniacs-1-td.json](./96735-fishing-maniacs-1-td.json) |
 | Fishing Master | 247007 | [247007-fishing-master.json](./247007-fishing-master.json) |
+| Fishing Master | 99734 | [99734-fishing-master.json](./99734-fishing-master.json) |
 | Fishing Master 2 | 68943 | [68943-fishing-master-2.json](./68943-fishing-master-2.json) |
 | Fishing Master HD | 103562 | [103562-fishing-master-hd.json](./103562-fishing-master-hd.json) |
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
