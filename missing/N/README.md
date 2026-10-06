@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
 | Nightron Wars | 161729 | [161729-nightron-wars.json](./161729-nightron-wars.json) |
+| Nights at the Clown Maze | 111611 | [111611-nights-at-the-clown-maze.json](./111611-nights-at-the-clown-maze.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
