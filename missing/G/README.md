@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
+| Gems Kingdom | 111604 | [111604-gems-kingdom.json](./111604-gems-kingdom.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Egypt | 395773 | [395773-gems-of-egypt.json](./395773-gems-of-egypt.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
@@ -2282,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gilded Eternal | 217226 | [217226-gilded-eternal.json](./217226-gilded-eternal.json) |
+| Gilded Rails | 111572 | [111572-gilded-rails.json](./111572-gilded-rails.json) |
 | Gilgalad | 92638 | [92638-gilgalad.json](./92638-gilgalad.json) |
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | GilGul | 339990 | [339990-gilgul.json](./339990-gilgul.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
+| Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
