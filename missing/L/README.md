@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
 | Larger Than Light | 157017 | [157017-larger-than-light.json](./157017-larger-than-light.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
+| Largo Winch .// Commando SAR | 78290 | [78290-largo-winch-commando-sar.json](./78290-largo-winch-commando-sar.json) |
 | Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
 | Larn | 2889 | [2889-larn.json](./2889-larn.json) |
 | Larry and the Long Look for a Luscious Lover | 195509 | [195509-larry-and-the-long-look-for-a-luscious-lover.json](./195509-larry-and-the-long-look-for-a-luscious-lover.json) |
@@ -1698,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Undercover: Limited Edition | 83794 | [83794-lego-city-undercover-limited-edition.json](./83794-lego-city-undercover-limited-edition.json) |
 | LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
+| LEGO Creator: Harry Potter and the Chamber of Secrets | 78288 | [78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json](./78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json) |
 | LEGO DC Super-Villains: Aquaman Bundle Pack | 214483 | [214483-lego-dc-super-villains-aquaman-bundle-pack.json](./214483-lego-dc-super-villains-aquaman-bundle-pack.json) |
 | LEGO DC Super-Villains: Aquaman Movie Level Pack 1 | 207224 | [207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json](./207224-lego-dc-super-villains-aquaman-movie-level-pack-1.json) |
 | LEGO DC Super-Villains: Aquaman Pack 2 | 207239 | [207239-lego-dc-super-villains-aquaman-pack-2.json](./207239-lego-dc-super-villains-aquaman-pack-2.json) |
@@ -3003,6 +3005,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
+| Lineage M | 78248 | [78248-lineage-m.json](./78248-lineage-m.json) |
+| Lineage: The Blood Pledge | 78247 | [78247-lineage-the-blood-pledge.json](./78247-lineage-the-blood-pledge.json) |
 | Lineal Distancing | 299769 | [299769-lineal-distancing.json](./299769-lineal-distancing.json) |
 | Lineality | 286600 | [286600-lineality.json](./286600-lineality.json) |
 | Linear Calamity | 293676 | [293676-linear-calamity.json](./293676-linear-calamity.json) |
