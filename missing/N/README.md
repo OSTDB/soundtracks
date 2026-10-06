@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
 | Nameless Record | 163757 | [163757-nameless-record.json](./163757-nameless-record.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
+| Nameless Worlds | 117585 | [117585-nameless-worlds.json](./117585-nameless-worlds.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nami no Iro: The Color of the Waves | 385775 | [385775-nami-no-iro-the-color-of-the-waves.json](./385775-nami-no-iro-the-color-of-the-waves.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New FreeCell Solitaire HD | 232369 | [232369-new-freecell-solitaire-hd.json](./232369-new-freecell-solitaire-hd.json) |
 | New Frontier | 120855 | [120855-new-frontier.json](./120855-new-frontier.json) |
 | New Frontier: Zombies | 130787 | [130787-new-frontier-zombies.json](./130787-new-frontier-zombies.json) |
+| New Game! The Challenge Stage! | 117577 | [117577-new-game-the-challenge-stage.json](./117577-new-game-the-challenge-stage.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Giant Business | 119609 | [119609-new-giant-business.json](./119609-new-giant-business.json) |
