@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
+| Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
@@ -1548,6 +1549,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
 | Mamono Musume no Yakata Suiseikan Igyouroku: Ningyo no Sho | 77618 | [77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json](./77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json) |
+| Mamono Musume to no Seikatsu: Alraune no Baai | 77603 | [77603-mamono-musume-to-no-seikatsu-alraune-no-baai.json](./77603-mamono-musume-to-no-seikatsu-alraune-no-baai.json) |
+| Mamono Musume to no Seikatsu: Lamia no Baai | 77601 | [77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json](./77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json) |
+| Mamono Musume-tachi to no Rakuen: Kumo to Tori to Hitotsume to | 77605 | [77605-mamono-musume-tachi-to-no-rakuen-kumo-to-tori-to-hitotsume-to.json](./77605-mamono-musume-tachi-to-no-rakuen-kumo-to-tori-to-hitotsume-to.json) |
+| Mamono Musume-tachi to no Rakuen: Slime & Scylla | 77604 | [77604-mamono-musume-tachi-to-no-rakuen-slime-and-scylla.json](./77604-mamono-musume-tachi-to-no-rakuen-slime-and-scylla.json) |
 | Mamorukun Curse! | 7065 | [7065-mamorukun-curse.json](./7065-mamorukun-curse.json) |
 | Mamorukun ReCurse! | 342851 | [342851-mamorukun-recurse.json](./342851-mamorukun-recurse.json) |
 | Mamurius | 334331 | [334331-mamurius.json](./334331-mamurius.json) |
@@ -2352,6 +2357,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marionette | 257518 | [257518-marionette.json](./257518-marionette.json) |
 | Marionette Company | 130709 | [130709-marionette-company.json](./130709-marionette-company.json) |
 | Marionette Company 2 Chu! | 130710 | [130710-marionette-company-2-chu.json](./130710-marionette-company-2-chu.json) |
+| Marionette Handler | 77566 | [77566-marionette-handler.json](./77566-marionette-handler.json) |
+| Marionette Handler 2 | 77567 | [77567-marionette-handler-2.json](./77567-marionette-handler-2.json) |
 | Marionette lab | 152979 | [152979-marionette-lab.json](./152979-marionette-lab.json) |
 | MarionetteAI | 41970 | [41970-marionetteai.json](./41970-marionetteai.json) |
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
@@ -11650,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
 | Myeong Wol | 125894 | [125894-myeong-wol.json](./125894-myeong-wol.json) |
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
+| myFishtank | 77583 | [77583-myfishtank.json](./77583-myfishtank.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
