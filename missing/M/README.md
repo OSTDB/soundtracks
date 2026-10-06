@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Zombies Great Again | 99149 | [99149-make-zombies-great-again.json](./99149-make-zombies-great-again.json) |
 | Maken Shao: Demon Sword | 43421 | [43421-maken-shao-demon-sword.json](./43421-maken-shao-demon-sword.json) |
 | Maken-shi Sara | 189001 | [189001-maken-shi-sara.json](./189001-maken-shi-sara.json) |
+| Makenines | 110254 | [110254-makenines.json](./110254-makenines.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
@@ -1902,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
 | Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
+| MarchQuest | 110255 | [110255-marchquest.json](./110255-marchquest.json) |
 | Marcianito Go | 228470 | [228470-marcianito-go.json](./228470-marcianito-go.json) |
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
@@ -1947,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
+| Marina Militare: Italian Navy Sim | 110256 | [110256-marina-militare-italian-navy-sim.json](./110256-marina-militare-italian-navy-sim.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marinatide | 30200 | [30200-marinatide.json](./30200-marinatide.json) |
 | Marine Battle | 277530 | [277530-marine-battle.json](./277530-marine-battle.json) |
@@ -3323,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxim | 369217 | [369217-maxim.json](./369217-maxim.json) |
 | Maxima: Keepers of the 2nd Law | 348377 | [348377-maxima-keepers-of-the-2nd-law.json](./348377-maxima-keepers-of-the-2nd-law.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
+| Maximize | 110253 | [110253-maximize.json](./110253-maximize.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
@@ -3653,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
+| Mech | 110274 | [110274-mech.json](./110274-mech.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
@@ -8670,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
+| Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
