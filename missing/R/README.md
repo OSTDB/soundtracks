@@ -4613,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
+| River Simulator 2012: Inland Waterway Transport | 89510 | [89510-river-simulator-2012-inland-waterway-transport.json](./89510-river-simulator-2012-inland-waterway-transport.json) |
 | River Song | 245359 | [245359-river-song.json](./245359-river-song.json) |
 | River Striker | 175174 | [175174-river-striker.json](./175174-river-striker.json) |
 | River Tiles | 135693 | [135693-river-tiles.json](./135693-river-tiles.json) |
@@ -5731,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Riot | 132703 | [132703-roller-riot.json](./132703-roller-riot.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
+| Roller Skating Girls | 89484 | [89484-roller-skating-girls.json](./89484-roller-skating-girls.json) |
 | Roller Splat! | 116420 | [116420-roller-splat.json](./116420-roller-splat.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
