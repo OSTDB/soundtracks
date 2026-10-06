@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo | 119510 | [119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json](./119510-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
 | Enchanted in the Moonlight: Miyabi, Kyoga & Samon - Luck in Love: The Key to Happiness | 238068 | [238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json](./238068-enchanted-in-the-moonlight-miyabi-kyoga-and-samon-luck-in-love-the-key-to-happiness.json) |
+| Enchanted Katya and the Mystery of the Lost Wizard | 64708 | [64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json](./64708-enchanted-katya-and-the-mystery-of-the-lost-wizard.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
 | Enchanted Kingdom: Frost Curse - Collector's Edition | 164955 | [164955-enchanted-kingdom-frost-curse-collectors-edition.json](./164955-enchanted-kingdom-frost-curse-collectors-edition.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
 | Epic Mayhem | 29026 | [29026-epic-mayhem.json](./29026-epic-mayhem.json) |
+| Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
