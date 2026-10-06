@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagakure | 116430 | [116430-sagakure.json](./116430-sagakure.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
+| Sage 3D | 105259 | [105259-sage-3d.json](./105259-sage-3d.json) |
 | SAGE 5: Event the Game | 321469 | [321469-sage-5-event-the-game.json](./321469-sage-5-event-the-game.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seasons With Furry | 156722 | [156722-seasons-with-furry.json](./156722-seasons-with-furry.json) |
+| Seasons: Toddler learning game | 105435 | [105435-seasons-toddler-learning-game.json](./105435-seasons-toddler-learning-game.json) |
 | Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
@@ -2640,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
+| Seed of Amaranth | 105225 | [105225-seed-of-amaranth.json](./105225-seed-of-amaranth.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
 | Seed of Life | 117261 | [117261-seed-of-life.json](./117261-seed-of-life.json) |
 | Seed of Life | 225772 | [225772-seed-of-life.json](./225772-seed-of-life.json) |
@@ -4051,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
+| Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
@@ -7058,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Ninja | 147651 | [147651-slash-ninja.json](./147651-slash-ninja.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
+| Slash or Die 2 | 105258 | [105258-slash-or-die-2.json](./105258-slash-or-die-2.json) |
 | Slash Quest: The King Kabbage Mystery | 400405 | [400405-slash-quest-the-king-kabbage-mystery.json](./400405-slash-quest-the-king-kabbage-mystery.json) |
 | Slash Quest! | 171982 | [171982-slash-quest.json](./171982-slash-quest.json) |
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
@@ -8915,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
+| Soldiers Lost Forever (1914-1918) | 105256 | [105256-soldiers-lost-forever-1914-1918.json](./105256-soldiers-lost-forever-1914-1918.json) |
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
@@ -10605,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
+| Space Explorers: Reload | 105250 | [105250-space-explorers-reload.json](./105250-space-explorers-reload.json) |
 | Space Extra | 384161 | [384161-space-extra.json](./384161-space-extra.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
@@ -10686,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
+| Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
@@ -18161,6 +18169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
+| Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
 | Super Steampunk Pinball 2D | 81933 | [81933-super-steampunk-pinball-2d.json](./81933-super-steampunk-pinball-2d.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
