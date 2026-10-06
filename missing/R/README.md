@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
+| Railed | 112862 | [112862-railed.json](./112862-railed.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
+| RoboCop | 112909 | [112909-robocop.json](./112909-robocop.json) |
 | RoboCop | 198282 | [198282-robocop.json](./198282-robocop.json) |
 | RoboCop | 198283 | [198283-robocop.json](./198283-robocop.json) |
 | RoboCop | 198284 | [198284-robocop.json](./198284-robocop.json) |
@@ -5563,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
+| Roguelite | 112858 | [112858-roguelite.json](./112858-roguelite.json) |
 | Roguelite 2 | 128967 | [128967-roguelite-2.json](./128967-roguelite-2.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguely | 153519 | [153519-roguely.json](./153519-roguely.json) |
