@@ -2586,6 +2586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
 | Fighting Hero III | 48581 | [48581-fighting-hero-iii.json](./48581-fighting-hero-iii.json) |
 | Fighting Ice Hockey | 355122 | [355122-fighting-ice-hockey.json](./355122-fighting-ice-hockey.json) |
+| Fighting Illusion: K-1 GP 2000 | 61440 | [61440-fighting-illusion-k-1-gp-2000.json](./61440-fighting-illusion-k-1-gp-2000.json) |
+| Fighting Illusion: K-1 Grand Prix '98 | 61434 | [61434-fighting-illusion-k-1-grand-prix-98.json](./61434-fighting-illusion-k-1-grand-prix-98.json) |
 | Fighting in Aden Gulf | 381253 | [381253-fighting-in-aden-gulf.json](./381253-fighting-in-aden-gulf.json) |
 | Fighting in Aden Gulf: 10 Degrees Turn | 54722 | [54722-fighting-in-aden-gulf-10-degrees-turn.json](./54722-fighting-in-aden-gulf-10-degrees-turn.json) |
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
