@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Fishing | 380057 | [380057-casual-fishing.json](./380057-casual-fishing.json) |
 | Casual Games Collection | 98819 | [98819-casual-games-collection.json](./98819-casual-games-collection.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
+| Casual Romance Club | 73471 | [73471-casual-romance-club.json](./73471-casual-romance-club.json) |
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
 | Catz 3 | 71440 | [71440-catz-3.json](./71440-catz-3.json) |
 | Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
+| Catz II: Your Virtual Petz | 73463 | [73463-catz-ii-your-virtual-petz.json](./73463-catz-ii-your-virtual-petz.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
 | Caught by a Spider | 330917 | [330917-caught-by-a-spider.json](./330917-caught-by-a-spider.json) |
 | Caught Lacking: Femboy Edition | 385247 | [385247-caught-lacking-femboy-edition.json](./385247-caught-lacking-femboy-edition.json) |
@@ -7987,6 +7989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coronavirus Quarantine Simulator | 137996 | [137996-coronavirus-quarantine-simulator.json](./137996-coronavirus-quarantine-simulator.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
+| Coronel Indoor Kartracing | 73477 | [73477-coronel-indoor-kartracing.json](./73477-coronel-indoor-kartracing.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
@@ -10231,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
+| Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
@@ -10972,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
 | Cuthbert Goes Digging | 73989 | [73989-cuthbert-goes-digging.json](./73989-cuthbert-goes-digging.json) |
+| Cuthbert in the Cooler | 73472 | [73472-cuthbert-in-the-cooler.json](./73472-cuthbert-in-the-cooler.json) |
 | Cuthbert in the Jungle | 114769 | [114769-cuthbert-in-the-jungle.json](./114769-cuthbert-in-the-jungle.json) |
 | Cuthbert in the Mines | 74022 | [74022-cuthbert-in-the-mines.json](./74022-cuthbert-in-the-mines.json) |
 | Cutics | 184564 | [184564-cutics.json](./184564-cutics.json) |
