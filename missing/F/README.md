@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
+| Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
 | Fairune 2 | 57297 | [57297-fairune-2.json](./57297-fairune-2.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
@@ -6460,6 +6461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
+| Fridgy | 90905 | [90905-fridgy.json](./90905-fridgy.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
 | Fried Chicken Wings Cause Love Fires | 372084 | [372084-fried-chicken-wings-cause-love-fires.json](./372084-fried-chicken-wings-cause-love-fires.json) |
@@ -6758,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
 | Front Office Football 2004 | 68048 | [68048-front-office-football-2004.json](./68048-front-office-football-2004.json) |
+| Front Office Football 2007 | 90918 | [90918-front-office-football-2007.json](./90918-front-office-football-2007.json) |
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
