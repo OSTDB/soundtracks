@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'Rift' Electric | 323297 | [323297-rift-electric.json](./323297-rift-electric.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
+| "A" Find & Touch | 83204 | [83204-a-find-and-touch.json](./83204-a-find-and-touch.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
 | "Draw a card" Simulator | 168659 | [168659-draw-a-card-simulator.json](./168659-draw-a-card-simulator.json) |
 | "Edna & Harvey" Bundle | 271701 | [271701-edna-and-harvey-bundle.json](./271701-edna-and-harvey-bundle.json) |
