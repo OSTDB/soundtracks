@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TED Tumblewords | 322645 | [322645-ted-tumblewords.json](./322645-ted-tumblewords.json) |
 | Tedd'or | 195088 | [195088-teddor.json](./195088-teddor.json) |
 | Teddies and Rainbows | 95632 | [95632-teddies-and-rainbows.json](./95632-teddies-and-rainbows.json) |
+| Teddy | 105412 | [105412-teddy.json](./105412-teddy.json) |
 | Teddy and Bo: Search for the Dream Catcher | 98249 | [98249-teddy-and-bo-search-for-the-dream-catcher.json](./98249-teddy-and-bo-search-for-the-dream-catcher.json) |
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Bear Zombies | 120334 | [120334-teddy-bear-zombies.json](./120334-teddy-bear-zombies.json) |
@@ -4043,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of King Arthur: Episode 2 - Knights of the Round Table | 117630 | [117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json](./117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json) |
 | The Chronicles of Moses and the Exodus | 151082 | [151082-the-chronicles-of-moses-and-the-exodus.json](./151082-the-chronicles-of-moses-and-the-exodus.json) |
 | The Chronicles of Narnia: Prince Caspian | 4763 | [4763-the-chronicles-of-narnia-prince-caspian.json](./4763-the-chronicles-of-narnia-prince-caspian.json) |
+| The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
 | The Chronicles of Overlord | 219550 | [219550-the-chronicles-of-overlord.json](./219550-the-chronicles-of-overlord.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
@@ -6874,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
 | The Legend of Heroes II: Prophecy of the Moonlight Witch | 10942 | [10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json](./10942-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch.json) |
+| The Legend of Heroes III: Shiroki Majo | 105413 | [105413-the-legend-of-heroes-iii-shiroki-majo.json](./105413-the-legend-of-heroes-iii-shiroki-majo.json) |
 | The Legend of Heroes III: Song of the Ocean | 10944 | [10944-the-legend-of-heroes-iii-song-of-the-ocean.json](./10944-the-legend-of-heroes-iii-song-of-the-ocean.json) |
 | The Legend of Heroes in the Jianghu | 210864 | [210864-the-legend-of-heroes-in-the-jianghu.json](./210864-the-legend-of-heroes-in-the-jianghu.json) |
 | The Legend of Heroes: A Tear of Vermillion | 10943 | [10943-the-legend-of-heroes-a-tear-of-vermillion.json](./10943-the-legend-of-heroes-a-tear-of-vermillion.json) |
@@ -13305,6 +13308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
 | Titonic Fisherman | 176324 | [176324-titonic-fisherman.json](./176324-titonic-fisherman.json) |
 | Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
+| Tits 'N' Tanks | 105411 | [105411-tits-n-tanks.json](./105411-tits-n-tanks.json) |
 | Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | Tits Okay Tits Fine Milkshake | 379553 | [379553-tits-okay-tits-fine-milkshake.json](./379553-tits-okay-tits-fine-milkshake.json) |
