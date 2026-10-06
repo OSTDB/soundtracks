@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.H.L.E.E | 410434 | [410434-k-h-l-e-e.json](./410434-k-h-l-e-e.json) |
 | K.O. King | 66942 | [66942-k-o-king.json](./66942-k-o-king.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
+| K.O.L.M. | 68899 | [68899-k-o-l-m.json](./68899-k-o-l-m.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knot: Serpent Arena | 392923 | [392923-knot-serpent-arena.json](./392923-knot-serpent-arena.json) |
 | Knotmania | 97152 | [97152-knotmania.json](./97152-knotmania.json) |
 | Knots | 92681 | [92681-knots.json](./92681-knots.json) |
+| Knots 3D | 68912 | [68912-knots-3d.json](./68912-knots-3d.json) |
 | Know How | 343320 | [343320-know-how.json](./343320-know-how.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Know That Flag! | 351006 | [351006-know-that-flag.json](./351006-know-that-flag.json) |
