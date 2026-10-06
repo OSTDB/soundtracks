@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
 | Tantei Jinguji Saburo DS: Akai Chou | 78906 | [78906-tantei-jinguji-saburo-ds-akai-chou.json](./78906-tantei-jinguji-saburo-ds-akai-chou.json) |
 | Tantei Jinguji Saburo DS: Kienai Kokoro | 78907 | [78907-tantei-jinguji-saburo-ds-kienai-kokoro.json](./78907-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
+| Tantei Jinguji Saburo Early Collection | 78264 | [78264-tantei-jinguji-saburo-early-collection.json](./78264-tantei-jinguji-saburo-early-collection.json) |
 | Tantei Jinguji Saburo Oldies | 347278 | [347278-tantei-jinguji-saburo-oldies.json](./347278-tantei-jinguji-saburo-oldies.json) |
 | Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Jinguji Saburo Series No. 03: Kiken na Futari | 347248 | [347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json](./347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json) |
@@ -1290,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
+| Tantei Jinguji Saburo: Tomoshibi ga Kienu Ma ni | 78265 | [78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json](./78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json) |
 | Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Yokohama-ko Renzoku Satsujin Jiken | 80147 | [80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json](./80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby | 124070 | [124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json](./124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json) |
@@ -1988,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
+| Teenage Mutant Ninja Turtles: Mutant Rumble | 78281 | [78281-teenage-mutant-ninja-turtles-mutant-rumble.json](./78281-teenage-mutant-ninja-turtles-mutant-rumble.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Mutants in Manhattan | 16989 | [16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json](./16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
@@ -2004,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Tactical Takedown | 324571 | [324571-teenage-mutant-ninja-turtles-tactical-takedown.json](./324571-teenage-mutant-ninja-turtles-tactical-takedown.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
+| Teenage Mutant Ninja Turtles: The Shredder Reborn | 78280 | [78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json](./78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134080 | [134080-teenage-mutant-ninja-turtles-tournament-fighters.json](./134080-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
@@ -17136,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRIB3 | 300800 | [300800-trib3.json](./300800-trib3.json) |
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
+| Tribal Rage | 78304 | [78304-tribal-rage.json](./78304-tribal-rage.json) |
 | Tribal Towers: Siege of the Shifting Fortress | 296464 | [296464-tribal-towers-siege-of-the-shifting-fortress.json](./296464-tribal-towers-siege-of-the-shifting-fortress.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
@@ -18063,6 +18068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
+| Turbo Sliders | 78299 | [78299-turbo-sliders.json](./78299-turbo-sliders.json) |
 | Turbo Sliders Unlimited | 188595 | [188595-turbo-sliders-unlimited.json](./188595-turbo-sliders-unlimited.json) |
 | Turbo Sloths | 149199 | [149199-turbo-sloths.json](./149199-turbo-sloths.json) |
 | Turbo Soccer VR | 102131 | [102131-turbo-soccer-vr.json](./102131-turbo-soccer-vr.json) |
