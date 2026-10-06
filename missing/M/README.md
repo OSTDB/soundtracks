@@ -6593,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine of Sight | 101763 | [101763-mine-of-sight.json](./101763-mine-of-sight.json) |
+| Mine or Die | 99115 | [99115-mine-or-die.json](./99115-mine-or-die.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Searcher | 95619 | [95619-mine-searcher.json](./95619-mine-searcher.json) |
@@ -9173,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
+| More Mobile Suit Gundam Extreme Vs. 2 | 99074 | [99074-more-mobile-suit-gundam-extreme-vs-2.json](./99074-more-mobile-suit-gundam-extreme-vs-2.json) |
 | More Objects Mod | 315011 | [315011-more-objects-mod.json](./315011-more-objects-mod.json) |
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
@@ -10182,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
 | MSI Electric City | 32177 | [32177-msi-electric-city.json](./32177-msi-electric-city.json) |
 | MSI Electric City: Core Assault | 61878 | [61878-msi-electric-city-core-assault.json](./61878-msi-electric-city-core-assault.json) |
+| MSM Match it | 99106 | [99106-msm-match-it.json](./99106-msm-match-it.json) |
 | MSO FreeCell Arena | 417561 | [417561-mso-freecell-arena.json](./417561-mso-freecell-arena.json) |
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
@@ -11308,6 +11311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pretend Summer Waterpark | 299213 | [299213-my-pretend-summer-waterpark.json](./299213-my-pretend-summer-waterpark.json) |
 | My Princess Girlfriend | 228416 | [228416-my-princess-girlfriend.json](./228416-my-princess-girlfriend.json) |
 | My Protogen Engineer | 291474 | [291474-my-protogen-engineer.json](./291474-my-protogen-engineer.json) |
+| My Puppy Love | 99100 | [99100-my-puppy-love.json](./99100-my-puppy-love.json) |
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
@@ -11456,6 +11460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tiny Room | 348451 | [348451-my-tiny-room.json](./348451-my-tiny-room.json) |
 | My Tizi Town: Daycare | 299215 | [299215-my-tizi-town-daycare.json](./299215-my-tizi-town-daycare.json) |
 | My Tizi Town: Grandparents Home | 299210 | [299210-my-tizi-town-grandparents-home.json](./299210-my-tizi-town-grandparents-home.json) |
+| My Town : Home Doll House | 99098 | [99098-my-town-home-doll-house.json](./99098-my-town-home-doll-house.json) |
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
