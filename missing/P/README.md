@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patrick's Parabox | 133227 | [133227-patricks-parabox.json](./133227-patricks-parabox.json) |
+| Patriotic Missile 3D | 104720 | [104720-patriotic-missile-3d.json](./104720-patriotic-missile-3d.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
 | Photo Girls: Raw Photo | 399784 | [399784-photo-girls-raw-photo.json](./399784-photo-girls-raw-photo.json) |
+| Photo Hunt - Spot the Differences | 104727 | [104727-photo-hunt-spot-the-differences.json](./104727-photo-hunt-spot-the-differences.json) |
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
@@ -5531,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Action: Pro Football | 245423 | [245423-pocket-action-pro-football.json](./245423-pocket-action-pro-football.json) |
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
+| Pocket Aquarium | 104712 | [104712-pocket-aquarium.json](./104712-pocket-aquarium.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
 | Pocket Battles: NFT War | 237445 | [237445-pocket-battles-nft-war.json](./237445-pocket-battles-nft-war.json) |
@@ -5627,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Racer | 129150 | [129150-pocket-racer.json](./129150-pocket-racer.json) |
 | Pocket Racers | 203188 | [203188-pocket-racers.json](./203188-pocket-racers.json) |
 | Pocket Races | 153834 | [153834-pocket-races.json](./153834-pocket-races.json) |
+| Pocket Rally | 104719 | [104719-pocket-rally.json](./104719-pocket-rally.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
 | Pocket Robots | 311176 | [311176-pocket-robots.json](./311176-pocket-robots.json) |
