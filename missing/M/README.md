@@ -10583,6 +10583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
+| Mush | 92588 | [92588-mush.json](./92588-mush.json) |
 | Mush Dash | 412392 | [412392-mush-dash.json](./412392-mush-dash.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
 | Mush Work Together | 183406 | [183406-mush-work-together.json](./183406-mush-work-together.json) |
