@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of Tanks: Blitzkrieg | 288435 | [288435-war-of-tanks-blitzkrieg.json](./288435-war-of-tanks-blitzkrieg.json) |
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
+| War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
