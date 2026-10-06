@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Summer | 367578 | [367578-beautiful-summer.json](./367578-beautiful-summer.json) |
 | Beautiful Ugly | 343375 | [343375-beautiful-ugly.json](./343375-beautiful-ugly.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
+| Beautify Day | 117606 | [117606-beautify-day.json](./117606-beautify-day.json) |
 | Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
 | Beyond a Steel Sky | 116634 | [116634-beyond-a-steel-sky.json](./116634-beyond-a-steel-sky.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
+| Beyond a Total Loss | 117563 | [117563-beyond-a-total-loss.json](./117563-beyond-a-total-loss.json) |
 | Beyond Arm's Reach | 65784 | [65784-beyond-arms-reach.json](./65784-beyond-arms-reach.json) |
 | Beyond Astra | 319187 | [319187-beyond-astra.json](./319187-beyond-astra.json) |
 | Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
@@ -3824,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BFF or Die | 94044 | [94044-bff-or-die.json](./94044-bff-or-die.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
+| BH Trials | 117593 | [117593-bh-trials.json](./117593-bh-trials.json) |
 | Bhangarh: The Untold Story | 391173 | [391173-bhangarh-the-untold-story.json](./391173-bhangarh-the-untold-story.json) |
 | Bharat Police | 374770 | [374770-bharat-police.json](./374770-bharat-police.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
@@ -6531,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
 | Body Count | 273366 | [273366-body-count.json](./273366-body-count.json) |
+| Body Discovery | 117598 | [117598-body-discovery.json](./117598-body-discovery.json) |
 | Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
