@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canfield Solitaire Collection | 211769 | [211769-canfield-solitaire-collection.json](./211769-canfield-solitaire-collection.json) |
 | Canghai Zhuansheng Tan | 348917 | [348917-canghai-zhuansheng-tan.json](./348917-canghai-zhuansheng-tan.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
+| Cāngyè | 108390 | [108390-cangye.json](./108390-cangye.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Canine | 239130 | [239130-canine.json](./239130-canine.json) |
 | Canine Derby Manager | 402491 | [402491-canine-derby-manager.json](./402491-canine-derby-manager.json) |
@@ -2056,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
+| Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
 | Cat Isle | 371378 | [371378-cat-isle.json](./371378-cat-isle.json) |
 | Cat Jigsaw Puzzle Games | 241325 | [241325-cat-jigsaw-puzzle-games.json](./241325-cat-jigsaw-puzzle-games.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
@@ -5606,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
+| Closer Than You Think | 108361 | [108361-closer-than-you-think.json](./108361-closer-than-you-think.json) |
 | Closer to Home | 221122 | [221122-closer-to-home.json](./221122-closer-to-home.json) |
 | Closer to Me | 121525 | [121525-closer-to-me.json](./121525-closer-to-me.json) |
 | Closer: Anagnorisis | 171992 | [171992-closer-anagnorisis.json](./171992-closer-anagnorisis.json) |
@@ -8828,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy 8s: Card Game | 295990 | [295990-crazy-8s-card-game.json](./295990-crazy-8s-card-game.json) |
 | Crazy Addition | 246498 | [246498-crazy-addition.json](./246498-crazy-addition.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
+| Crazy Alchemist | 108352 | [108352-crazy-alchemist.json](./108352-crazy-alchemist.json) |
 | Crazy Animal Choir | 284988 | [284988-crazy-animal-choir.json](./284988-crazy-animal-choir.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
@@ -10483,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
+| Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
 | Cuppy Coffee Sim | 359620 | [359620-cuppy-coffee-sim.json](./359620-cuppy-coffee-sim.json) |
