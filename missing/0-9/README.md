@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Aztec Cats | 306020 | [306020-100-aztec-cats.json](./306020-100-aztec-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Balls: Tap to Drop in Cup | 100152 | [100152-100-balls-tap-to-drop-in-cup.json](./100152-100-balls-tap-to-drop-in-cup.json) |
+| 100 Bullets | 90935 | [90935-100-bullets.json](./90935-100-bullets.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
 | 100 Camp Cats | 351684 | [351684-100-camp-cats.json](./351684-100-camp-cats.json) |
 | 100 Candy Cats | 347753 | [347753-100-candy-cats.json](./347753-100-candy-cats.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 720 Degrees | 8580 | [8580-720-degrees.json](./8580-720-degrees.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
+| 747 Landing Simulator | 90903 | [90903-747-landing-simulator.json](./90903-747-landing-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
 | 757 Captain | 68097 | [68097-757-captain.json](./68097-757-captain.json) |
 | 76 | 179553 | [179553-76.json](./179553-76.json) |
