@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagitman | 79324 | [79324-bagitman.json](./79324-bagitman.json) |
 | Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bago | 83449 | [83449-bago.json](./83449-bago.json) |
+| Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaver Fun | 216355 | [216355-beaver-fun.json](./216355-beaver-fun.json) |
 | Beaver Fun River Run: Steam Edition | 162715 | [162715-beaver-fun-river-run-steam-edition.json](./162715-beaver-fun-river-run-steam-edition.json) |
 | Beaver Rampage | 341543 | [341543-beaver-rampage.json](./341543-beaver-rampage.json) |
+| Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
@@ -4738,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Man Clicker | 251654 | [251654-bitcoin-man-clicker.json](./251654-bitcoin-man-clicker.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
 | Bitcoin Miner Farm: Clicker Game | 118960 | [118960-bitcoin-miner-farm-clicker-game.json](./118960-bitcoin-miner-farm-clicker-game.json) |
+| Bitcoin Mining Empire Tycoon | 81658 | [81658-bitcoin-mining-empire-tycoon.json](./81658-bitcoin-mining-empire-tycoon.json) |
 | Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin Trading Master | 99777 | [99777-bitcoin-trading-master.json](./99777-bitcoin-trading-master.json) |
@@ -5859,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
+| BlockShip Wars: Roguelike | 81689 | [81689-blockship-wars-roguelike.json](./81689-blockship-wars-roguelike.json) |
 | Blockships | 27999 | [27999-blockships.json](./27999-blockships.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
 | BlockShot Champion | 56783 | [56783-blockshot-champion.json](./56783-blockshot-champion.json) |
@@ -8034,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Girl Ravens xR | 98528 | [98528-brave-girl-ravens-xr.json](./98528-brave-girl-ravens-xr.json) |
+| Brave Hand | 81690 | [81690-brave-hand.json](./81690-brave-hand.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
@@ -8169,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brazen Thief | 230882 | [230882-brazen-thief.json](./230882-brazen-thief.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
+| Brazilian Adventure | 81710 | [81710-brazilian-adventure.json](./81710-brazilian-adventure.json) |
 | Brazilian Root | 93709 | [93709-brazilian-root.json](./93709-brazilian-root.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
@@ -9023,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblets | 298725 | [298725-bubblets.json](./298725-bubblets.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
+| Bubblien Pop | 81709 | [81709-bubblien-pop.json](./81709-bubblien-pop.json) |
 | Bubbly Letters | 292058 | [292058-bubbly-letters.json](./292058-bubbly-letters.json) |
 | Bubbo: The Lost Hat | 148121 | [148121-bubbo-the-lost-hat.json](./148121-bubbo-the-lost-hat.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
