@@ -9434,6 +9434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
+| Puppis & Choler | 97522 | [97522-puppis-and-choler.json](./97522-puppis-and-choler.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
