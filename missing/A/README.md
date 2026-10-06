@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ad Victoriam | 258106 | [258106-ad-victoriam.json](./258106-ad-victoriam.json) |
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
+| AD&D Dark Sun Online: Crimson Sands | 71724 | [71724-ad-and-d-dark-sun-online-crimson-sands.json](./71724-ad-and-d-dark-sun-online-crimson-sands.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
@@ -5897,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntWar.io | 185442 | [185442-antwar-io.json](./185442-antwar-io.json) |
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
 | Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
+| Antz Racing | 71725 | [71725-antz-racing.json](./71725-antz-racing.json) |
 | Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
