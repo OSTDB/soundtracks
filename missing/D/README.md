@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
 | Deer Hunter - Big Buck Hunter | 101470 | [101470-deer-hunter-big-buck-hunter.json](./101470-deer-hunter-big-buck-hunter.json) |
 | Deer Hunter 2005 | 264 | [264-deer-hunter-2005.json](./264-deer-hunter-2005.json) |
+| Deer Hunter 2016 | 59789 | [59789-deer-hunter-2016.json](./59789-deer-hunter-2016.json) |
 | Deer Hunter 2018 | 87034 | [87034-deer-hunter-2018.json](./87034-deer-hunter-2018.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
 | Deer Hunter Companion | 64371 | [64371-deer-hunter-companion.json](./64371-deer-hunter-companion.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
+| Demon Master Chris | 59827 | [59827-demon-master-chris.json](./59827-demon-master-chris.json) |
 | Demon Night | 288368 | [288368-demon-night.json](./288368-demon-night.json) |
 | Demon of the Time | 341545 | [341545-demon-of-the-time.json](./341545-demon-of-the-time.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
