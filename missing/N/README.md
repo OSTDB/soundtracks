@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Chicken 3: The World's Hardest Game | 247433 | [247433-ninja-chicken-3-the-worlds-hardest-game.json](./247433-ninja-chicken-3-the-worlds-hardest-game.json) |
+| Ninja Chicken for Mac | 104561 | [104561-ninja-chicken-for-mac.json](./104561-ninja-chicken-for-mac.json) |
 | Ninja Chowdown: Glaze of Glory | 290513 | [290513-ninja-chowdown-glaze-of-glory.json](./290513-ninja-chowdown-glaze-of-glory.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
 | Ninja Climb | 381229 | [381229-ninja-climb.json](./381229-ninja-climb.json) |
