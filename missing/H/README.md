@@ -4869,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holes Ahead! | 109519 | [109519-holes-ahead.json](./109519-holes-ahead.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
+| Holey Moley | 58637 | [58637-holey-moley.json](./58637-holey-moley.json) |
 | Holey Ship | 408186 | [408186-holey-ship.json](./408186-holey-ship.json) |
 | Holfraine | 132157 | [132157-holfraine.json](./132157-holfraine.json) |
 | HolgiMan | 94213 | [94213-holgiman.json](./94213-holgiman.json) |
