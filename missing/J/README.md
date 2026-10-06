@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
+| Jewel Dragon | 63149 | [63149-jewel-dragon.json](./63149-jewel-dragon.json) |
 | Jewel Drop! | 209995 | [209995-jewel-drop.json](./209995-jewel-drop.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
