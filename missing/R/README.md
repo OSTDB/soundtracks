@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
+| Raildale | 101002 | [101002-raildale.json](./101002-raildale.json) |
 | Railed | 112862 | [112862-railed.json](./112862-railed.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
 | Railgun | 110250 | [110250-railgun.json](./110250-railgun.json) |
@@ -648,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
+| Rails | 101017 | [101017-rails.json](./101017-rails.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Railway | 210643 | [210643-railway.json](./210643-railway.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
+| Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
