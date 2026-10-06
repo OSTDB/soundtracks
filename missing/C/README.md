@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
 | Cars: Radiator Springs Adventures | 18251 | [18251-cars-radiator-springs-adventures.json](./18251-cars-radiator-springs-adventures.json) |
 | Cars: Rev It Up In Radiator Springs | 220100 | [220100-cars-rev-it-up-in-radiator-springs.json](./220100-cars-rev-it-up-in-radiator-springs.json) |
+| Cars! Easy Car Games For Baby Boys | 101012 | [101012-cars-easy-car-games-for-baby-boys.json](./101012-cars-easy-car-games-for-baby-boys.json) |
 | Carsick Carventure | 276692 | [276692-carsick-carventure.json](./276692-carsick-carventure.json) |
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Capers | 335393 | [335393-cart-capers.json](./335393-cart-capers.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
 | Chimeras: Price of Greed | 187910 | [187910-chimeras-price-of-greed.json](./187910-chimeras-price-of-greed.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
+| Chimeras: The Signs of Prophecy | 101011 | [101011-chimeras-the-signs-of-prophecy.json](./101011-chimeras-the-signs-of-prophecy.json) |
 | Chimeras: The Signs of Prophecy - Collector's Edition | 50755 | [50755-chimeras-the-signs-of-prophecy-collectors-edition.json](./50755-chimeras-the-signs-of-prophecy-collectors-edition.json) |
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
 | Chimeras: Tune of Revenge - Collector's Edition | 30263 | [30263-chimeras-tune-of-revenge-collectors-edition.json](./30263-chimeras-tune-of-revenge-collectors-edition.json) |
@@ -4997,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
+| City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
 | City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
 | City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
 | City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
@@ -8648,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
+| Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
