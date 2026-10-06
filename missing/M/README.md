@@ -1130,7 +1130,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Taikai | 48788 | [48788-mahjong-taikai.json](./48788-mahjong-taikai.json) |
 | Mahjong Taikai | 80797 | [80797-mahjong-taikai.json](./80797-mahjong-taikai.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
+| Mahjong Taikai II Special | 62561 | [62561-mahjong-taikai-ii-special.json](./62561-mahjong-taikai-ii-special.json) |
+| Mahjong Taikai III | 62562 | [62562-mahjong-taikai-iii.json](./62562-mahjong-taikai-iii.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
+| Mahjong Taikai Wii | 62560 | [62560-mahjong-taikai-wii.json](./62560-mahjong-taikai-wii.json) |
 | Mahjong Taisen | 48787 | [48787-mahjong-taisen.json](./48787-mahjong-taisen.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
@@ -10452,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujintou Monogatari 3: A.D.1999 Tokyo | 63666 | [63666-mujintou-monogatari-3-a-d-1999-tokyo.json](./63666-mujintou-monogatari-3-a-d-1999-tokyo.json) |
 | Mujintou Monogatari 4 | 63662 | [63662-mujintou-monogatari-4.json](./63662-mujintou-monogatari-4.json) |
 | Mujintou Monogatari Memorial Version | 58461 | [58461-mujintou-monogatari-memorial-version.json](./58461-mujintou-monogatari-memorial-version.json) |
+| Mujintou Monogatari R: Futari no Love Love Ai Land | 62545 | [62545-mujintou-monogatari-r-futari-no-love-love-ai-land.json](./62545-mujintou-monogatari-r-futari-no-love-love-ai-land.json) |
 | Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
