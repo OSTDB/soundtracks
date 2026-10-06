@@ -6100,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
 | Guts 'n Grunts Jr. | 386367 | [386367-guts-n-grunts-jr.json](./386367-guts-n-grunts-jr.json) |
 | Guts 'n Grunts Sr. | 397874 | [397874-guts-n-grunts-sr.json](./397874-guts-n-grunts-sr.json) |
+| Guts 'n' Garters in DNA Danger | 70029 | [70029-guts-n-garters-in-dna-danger.json](./70029-guts-n-garters-in-dna-danger.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
