@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mackle Story Remake | 407462 | [407462-mackle-story-remake.json](./407462-mackle-story-remake.json) |
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
+| MacNinja | 63661 | [63661-macninja.json](./63661-macninja.json) |
 | Macro Data Refinement Simulator: Shapes | 333778 | [333778-macro-data-refinement-simulator-shapes.json](./333778-macro-data-refinement-simulator-shapes.json) |
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
 | Macro-TV | 278071 | [278071-macro-tv.json](./278071-macro-tv.json) |
@@ -10443,6 +10444,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
 | Mujinkun no Chotto Arukanai? | 284449 | [284449-mujinkun-no-chotto-arukanai.json](./284449-mujinkun-no-chotto-arukanai.json) |
 | Mujintou Monogatari | 37917 | [37917-mujintou-monogatari.json](./37917-mujintou-monogatari.json) |
+| Mujintou Monogatari 2 | 63668 | [63668-mujintou-monogatari-2.json](./63668-mujintou-monogatari-2.json) |
+| Mujintou Monogatari 3: A.D.1999 Tokyo | 63666 | [63666-mujintou-monogatari-3-a-d-1999-tokyo.json](./63666-mujintou-monogatari-3-a-d-1999-tokyo.json) |
+| Mujintou Monogatari 4 | 63662 | [63662-mujintou-monogatari-4.json](./63662-mujintou-monogatari-4.json) |
 | Mujintou Monogatari Memorial Version | 58461 | [58461-mujintou-monogatari-memorial-version.json](./58461-mujintou-monogatari-memorial-version.json) |
 | Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
