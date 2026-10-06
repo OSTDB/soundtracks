@@ -336,6 +336,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin 8 | 276405 | [276405-taiko-no-tatsujin-8.json](./276405-taiko-no-tatsujin-8.json) |
 | Taiko no Tatsujin 9 | 276409 | [276409-taiko-no-tatsujin-9.json](./276409-taiko-no-tatsujin-9.json) |
 | Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
+| Taiko no Tatsujin Portable | 60365 | [60365-taiko-no-tatsujin-portable.json](./60365-taiko-no-tatsujin-portable.json) |
+| Taiko no Tatsujin Portable 2 | 60363 | [60363-taiko-no-tatsujin-portable-2.json](./60363-taiko-no-tatsujin-portable-2.json) |
 | Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
 | Taiko no Tatsujin Wii: Ketteiban | 60040 | [60040-taiko-no-tatsujin-wii-ketteiban.json](./60040-taiko-no-tatsujin-wii-ketteiban.json) |
 | Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
@@ -383,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 3 | 358954 | [358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json](./358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json) |
 | Taiko no Tatsujin: Tobikkiri! Anime Special | 123426 | [123426-taiko-no-tatsujin-tobikkiri-anime-special.json](./123426-taiko-no-tatsujin-tobikkiri-anime-special.json) |
 | Taiko no Tatsujin: Tokumori! | 78347 | [78347-taiko-no-tatsujin-tokumori.json](./78347-taiko-no-tatsujin-tokumori.json) |
+| Taiko no Tatsujin: V Version | 60366 | [60366-taiko-no-tatsujin-v-version.json](./60366-taiko-no-tatsujin-v-version.json) |
 | Taiko no Tatsujin: Wai Wai Happy! Rokudaime | 123417 | [123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json](./123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json) |
 | Taiko no Tatsujin: Wii U Version | 78345 | [78345-taiko-no-tatsujin-wii-u-version.json](./78345-taiko-no-tatsujin-wii-u-version.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
@@ -974,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
+| Tama: Adventurous Ball in Giddy Labyrinth | 60361 | [60361-tama-adventurous-ball-in-giddy-labyrinth.json](./60361-tama-adventurous-ball-in-giddy-labyrinth.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamaghost Jump! | 307681 | [307681-tamaghost-jump.json](./307681-tamaghost-jump.json) |
 | Tamaghost Jump!I Can't Believe It's Not Exorcism! | 307690 | [307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json](./307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json) |
@@ -1385,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
+| Tap Sports Baseball | 60398 | [60398-tap-sports-baseball.json](./60398-tap-sports-baseball.json) |
 | Tap Sports Baseball 2016 | 58263 | [58263-tap-sports-baseball-2016.json](./58263-tap-sports-baseball-2016.json) |
 | Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
 | Tap Sports Football 2016 | 58260 | [58260-tap-sports-football-2016.json](./58260-tap-sports-football-2016.json) |
@@ -7589,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
 | The Magic Circle: Gold Edition | 99755 | [99755-the-magic-circle-gold-edition.json](./99755-the-magic-circle-gold-edition.json) |
+| The Magic Flute | 60386 | [60386-the-magic-flute.json](./60386-the-magic-flute.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
@@ -10870,6 +10876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Magic: IMO | 57926 | [57926-the-world-of-magic-imo.json](./57926-the-world-of-magic-imo.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
+| The World of Nocrone | 60362 | [60362-the-world-of-nocrone.json](./60362-the-world-of-nocrone.json) |
+| The World of Teo | 60382 | [60382-the-world-of-teo.json](./60382-the-world-of-teo.json) |
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
 | The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
 | The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
