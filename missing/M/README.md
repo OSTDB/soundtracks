@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
+| Mars Wars | 117583 | [117583-mars-wars.json](./117583-mars-wars.json) |
 | Mars Xplorer | 239114 | [239114-mars-xplorer.json](./239114-mars-xplorer.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
@@ -5003,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Mercury: Cascade into Madness | 52257 | [52257-mercury-cascade-into-madness.json](./52257-mercury-cascade-into-madness.json) |
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
+| Mercyful Flames: The Witches | 117587 | [117587-mercyful-flames-the-witches.json](./117587-mercyful-flames-the-witches.json) |
 | Mercyrail: Havenbound | 415191 | [415191-mercyrail-havenbound.json](./415191-mercyrail-havenbound.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
@@ -10330,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
+| Muppy The Bunny: The Danger of Wishes | 117608 | [117608-muppy-the-bunny-the-danger-of-wishes.json](./117608-muppy-the-bunny-the-danger-of-wishes.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
 | Mural | 118814 | [118814-mural.json](./118814-mural.json) |
@@ -11097,6 +11100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lil Horror | 168168 | [168168-my-lil-horror.json](./168168-my-lil-horror.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
 | My Little Animal Boy | 279673 | [279673-my-little-animal-boy.json](./279673-my-little-animal-boy.json) |
+| My Little Army | 117615 | [117615-my-little-army.json](./117615-my-little-army.json) |
 | My Little Bakery | 89228 | [89228-my-little-bakery.json](./89228-my-little-bakery.json) |
 | My Little Blood Cult: Let's Summon Demons | 264791 | [264791-my-little-blood-cult-lets-summon-demons.json](./264791-my-little-blood-cult-lets-summon-demons.json) |
 | My Little Bomb | 81920 | [81920-my-little-bomb.json](./81920-my-little-bomb.json) |
