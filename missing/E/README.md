@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | E Nikki | 201836 | [201836-e-nikki.json](./201836-e-nikki.json) |
+| E Quotes Trivia: Movies, TV, Music, Books | 89521 | [89521-e-quotes-trivia-movies-tv-music-books.json](./89521-e-quotes-trivia-movies-tv-music-books.json) |
 | E-Ball | 126540 | [126540-e-ball.json](./126540-e-ball.json) |
 | E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
@@ -2418,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epic Skater 2 | 71452 | [71452-epic-skater-2.json](./71452-epic-skater-2.json) |
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
+| Epic Snowday Adventure | 89498 | [89498-epic-snowday-adventure.json](./89498-epic-snowday-adventure.json) |
 | Epic Space: Online | 36322 | [36322-epic-space-online.json](./36322-epic-space-online.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
@@ -4218,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
+| Explode Bricks | 89530 | [89530-explode-bricks.json](./89530-explode-bricks.json) |
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
 | Explodera | 388218 | [388218-explodera.json](./388218-explodera.json) |
 | Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
