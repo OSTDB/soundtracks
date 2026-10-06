@@ -6554,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skater Frog | 129048 | [129048-skater-frog.json](./129048-skater-frog.json) |
+| Skater Girl - Makeup & Dressup | 87874 | [87874-skater-girl-makeup-and-dressup.json](./87874-skater-girl-makeup-and-dressup.json) |
 | Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
 | Skater XL | 113175 | [113175-skater-xl.json](./113175-skater-xl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
@@ -6640,6 +6641,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
+| Ski Challenge 2005 | 87784 | [87784-ski-challenge-2005.json](./87784-ski-challenge-2005.json) |
+| Ski Challenge 2006 | 87785 | [87785-ski-challenge-2006.json](./87785-ski-challenge-2006.json) |
+| Ski Challenge 2007 | 87786 | [87786-ski-challenge-2007.json](./87786-ski-challenge-2007.json) |
+| Ski Challenge 2008 | 87787 | [87787-ski-challenge-2008.json](./87787-ski-challenge-2008.json) |
+| Ski Challenge 2009 | 87788 | [87788-ski-challenge-2009.json](./87788-ski-challenge-2009.json) |
+| Ski Challenge 2010 | 87789 | [87789-ski-challenge-2010.json](./87789-ski-challenge-2010.json) |
+| Ski Challenge 2011 | 87790 | [87790-ski-challenge-2011.json](./87790-ski-challenge-2011.json) |
+| Ski Challenge 2012 | 87791 | [87791-ski-challenge-2012.json](./87791-ski-challenge-2012.json) |
+| Ski Challenge 2013 | 87792 | [87792-ski-challenge-2013.json](./87792-ski-challenge-2013.json) |
+| Ski Challenge 2014 | 87793 | [87793-ski-challenge-2014.json](./87793-ski-challenge-2014.json) |
+| Ski Challenge 2015 | 87794 | [87794-ski-challenge-2015.json](./87794-ski-challenge-2015.json) |
+| Ski Challenge 2016 | 87795 | [87795-ski-challenge-2016.json](./87795-ski-challenge-2016.json) |
 | Ski Crazed | 138595 | [138595-ski-crazed.json](./138595-ski-crazed.json) |
 | Ski Doom VR | 167579 | [167579-ski-doom-vr.json](./167579-ski-doom-vr.json) |
 | Ski Drive: Biathlon | 113855 | [113855-ski-drive-biathlon.json](./113855-ski-drive-biathlon.json) |
@@ -6851,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
+| Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
@@ -8918,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
 | Solar Pall | 267443 | [267443-solar-pall.json](./267443-solar-pall.json) |
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
+| Solar Plexus | 87803 | [87803-solar-plexus.json](./87803-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
 | Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
@@ -12398,6 +12413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
 | Spookynakki | 275810 | [275810-spookynakki.json](./275810-spookynakki.json) |
 | Spookyville | 299409 | [299409-spookyville.json](./299409-spookyville.json) |
+| Spoolside | 87814 | [87814-spoolside.json](./87814-spoolside.json) |
 | Spoonman: Ballad of a Bonehead | 307708 | [307708-spoonman-ballad-of-a-bonehead.json](./307708-spoonman-ballad-of-a-bonehead.json) |
 | SPooNS | 179014 | [179014-spoons.json](./179014-spoons.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
@@ -14897,6 +14913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
 | Stock Car Racer | 279216 | [279216-stock-car-racer.json](./279216-stock-car-racer.json) |
 | Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
+| Stock Car Racing | 87867 | [87867-stock-car-racing.json](./87867-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
@@ -15747,6 +15764,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader | 964 | [964-stronghold-crusader.json](./964-stronghold-crusader.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
 | Stronghold Crusader HD | 29211 | [29211-stronghold-crusader-hd.json](./29211-stronghold-crusader-hd.json) |
+| Stronghold Crusader II: Delivering Justice mini-campaign | 87806 | [87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json](./87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json) |
+| Stronghold Crusader II: Freedom Fighters mini-campaign | 87805 | [87805-stronghold-crusader-ii-freedom-fighters-mini-campaign.json](./87805-stronghold-crusader-ii-freedom-fighters-mini-campaign.json) |
 | Stronghold Crusader II: The Emperor and The Hermit | 89218 | [89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json](./89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json) |
 | Stronghold Crusader II: The Princess and The Pig | 89217 | [89217-stronghold-crusader-ii-the-princess-and-the-pig.json](./89217-stronghold-crusader-ii-the-princess-and-the-pig.json) |
 | Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
@@ -17462,6 +17481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
 | Super Mario 64 NX | 307317 | [307317-super-mario-64-nx.json](./307317-super-mario-64-nx.json) |
 | Super Mario 64 Odyssey | 159274 | [159274-super-mario-64-odyssey.json](./159274-super-mario-64-odyssey.json) |
+| Super Mario 64 Online | 87817 | [87817-super-mario-64-online.json](./87817-super-mario-64-online.json) |
 | Super Mario 64 Peach's Memory | 135214 | [135214-super-mario-64-peachs-memory.json](./135214-super-mario-64-peachs-memory.json) |
 | Super Mario 64 Plus | 146246 | [146246-super-mario-64-plus.json](./146246-super-mario-64-plus.json) |
 | Super Mario 64 Port | 307318 | [307318-super-mario-64-port.json](./307318-super-mario-64-port.json) |
@@ -17711,6 +17731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
 | Super Mario Unlimited Deluxe | 256778 | [256778-super-mario-unlimited-deluxe.json](./256778-super-mario-unlimited-deluxe.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
+| Super Mario War | 87815 | [87815-super-mario-war.json](./87815-super-mario-war.json) |
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
