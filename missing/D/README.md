@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
+| Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
@@ -1101,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
+| Darkest Depths | 116230 | [116230-darkest-depths.json](./116230-darkest-depths.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
 | Darkest Dungeon II | 115425 | [115425-darkest-dungeon-ii.json](./115425-darkest-dungeon-ii.json) |
 | Darkest Dungeon II: Hero Origin Pack | 370240 | [370240-darkest-dungeon-ii-hero-origin-pack.json](./370240-darkest-dungeon-ii-hero-origin-pack.json) |
@@ -3091,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
+| Deleveled | 116227 | [116227-deleveled.json](./116227-deleveled.json) |
 | Delfini | 348412 | [348412-delfini.json](./348412-delfini.json) |
 | Delhanro | 131438 | [131438-delhanro.json](./131438-delhanro.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
@@ -3121,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
+| Delirium VR | 116224 | [116224-delirium-vr.json](./116224-delirium-vr.json) |
 | Delirium: Bad Trip Edition | 86570 | [86570-delirium-bad-trip-edition.json](./86570-delirium-bad-trip-edition.json) |
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
 | Delisoba Deluxe | 213864 | [213864-delisoba-deluxe.json](./213864-delisoba-deluxe.json) |
@@ -3354,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
+| Demon Queen Melissa | 116228 | [116228-demon-queen-melissa.json](./116228-demon-queen-melissa.json) |
 | Demon Raiders: Bloody Gems of Blood | 351788 | [351788-demon-raiders-bloody-gems-of-blood.json](./351788-demon-raiders-bloody-gems-of-blood.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
@@ -5966,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
 | Do It With Hay | 151084 | [151084-do-it-with-hay.json](./151084-do-it-with-hay.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
+| Do Not Believe His Lies | 116254 | [116254-do-not-believe-his-lies.json](./116254-do-not-believe-his-lies.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
@@ -6088,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge & Roll | 267327 | [267327-dodge-and-roll.json](./267327-dodge-and-roll.json) |
 | Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
+| Dodge Bubble | 116265 | [116265-dodge-bubble.json](./116265-dodge-bubble.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
@@ -8808,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
+| Drifted Tales | 116222 | [116222-drifted-tales.json](./116222-drifted-tales.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
 | Drifter | 306599 | [306599-drifter.json](./306599-drifter.json) |
@@ -10263,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 7: Xtreme Legends - Definitive Edition | 113386 | [113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json](./113386-dynasty-warriors-7-xtreme-legends-definitive-edition.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
+| Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
 | Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Empires | 139126 | [139126-dynasty-warriors-9-empires.json](./139126-dynasty-warriors-9-empires.json) |
