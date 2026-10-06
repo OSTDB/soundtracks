@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordless Forest | 413778 | [413778-wordless-forest.json](./413778-wordless-forest.json) |
 | Wordlike | 326808 | [326808-wordlike.json](./326808-wordlike.json) |
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
+| Wordmaster | 92670 | [92670-wordmaster.json](./92670-wordmaster.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
 | WordPlus: Unique Word Game | 232063 | [232063-wordplus-unique-word-game.json](./232063-wordplus-unique-word-game.json) |
