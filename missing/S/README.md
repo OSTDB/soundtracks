@@ -6455,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Meat Under | 269209 | [269209-six-meat-under.json](./269209-six-meat-under.json) |
 | Six Micro Stories | 55837 | [55837-six-micro-stories.json](./55837-six-micro-stories.json) |
 | Six Nights in Frenski's Basement | 388349 | [388349-six-nights-in-frenskis-basement.json](./388349-six-nights-in-frenskis-basement.json) |
+| Six Nights in Mystery Secret | 89489 | [89489-six-nights-in-mystery-secret.json](./89489-six-nights-in-mystery-secret.json) |
 | Six Nights to Die | 258412 | [258412-six-nights-to-die.json](./258412-six-nights-to-die.json) |
 | Six Now, Forever and Ever | 237290 | [237290-six-now-forever-and-ever.json](./237290-six-now-forever-and-ever.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
@@ -8073,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake | 377165 | [377165-snake.json](./377165-snake.json) |
+| Snake '97: retro phone classic | 89541 | [89541-snake-97-retro-phone-classic.json](./89541-snake-97-retro-phone-classic.json) |
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
 | Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
@@ -11619,6 +11621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Survival | 296616 | [296616-speedway-survival.json](./296616-speedway-survival.json) |
 | Speedway Turbo: Car Racing Challenge | 304787 | [304787-speedway-turbo-car-racing-challenge.json](./304787-speedway-turbo-car-racing-challenge.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
+| SpeedWords Arena | 89523 | [89523-speedwords-arena.json](./89523-speedwords-arena.json) |
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Bally | 25873 | [25873-speedy-bally.json](./25873-speedy-bally.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
@@ -12590,6 +12593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sprkls.exe | 393780 | [393780-sprkls-exe.json](./393780-sprkls-exe.json) |
 | Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
+| Sprocket | 89538 | [89538-sprocket.json](./89538-sprocket.json) |
 | Sprocket Junkie | 65213 | [65213-sprocket-junkie.json](./65213-sprocket-junkie.json) |
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
 | Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
