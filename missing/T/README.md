@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tacticalunderground Arcade | 154366 | [154366-tacticalunderground-arcade.json](./154366-tacticalunderground-arcade.json) |
 | Tactichord: Glam Strategy | 375435 | [375435-tactichord-glam-strategy.json](./375435-tactichord-glam-strategy.json) |
+| Tacticool | 112918 | [112918-tacticool.json](./112918-tacticool.json) |
 | Tactics & Strategy Master 2: Princess of Holy Light | 110992 | [110992-tactics-and-strategy-master-2-princess-of-holy-light.json](./110992-tactics-and-strategy-master-2-princess-of-holy-light.json) |
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
 | Tactics & Strategy Master: Joan of Arc | 96670 | [96670-tactics-and-strategy-master-joan-of-arc.json](./96670-tactics-and-strategy-master-joan-of-arc.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crawler | 304159 | [304159-the-crawler.json](./304159-the-crawler.json) |
 | The Crayon Factory | 66962 | [66962-the-crayon-factory.json](./66962-the-crayon-factory.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
+| The Crazy Cookies! | 112869 | [112869-the-crazy-cookies.json](./112869-the-crazy-cookies.json) |
 | The Crazy Hyper-Dungeon Chronicles | 266427 | [266427-the-crazy-hyper-dungeon-chronicles.json](./266427-the-crazy-hyper-dungeon-chronicles.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
@@ -6239,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
+| The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
@@ -8199,6 +8202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pilgrim's Progress | 336675 | [336675-the-pilgrims-progress.json](./336675-the-pilgrims-progress.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pilgrimage | 56436 | [56436-the-pilgrimage.json](./56436-the-pilgrimage.json) |
+| The Pilgrimage I | 112899 | [112899-the-pilgrimage-i.json](./112899-the-pilgrimage-i.json) |
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
@@ -10069,6 +10073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
+| The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
