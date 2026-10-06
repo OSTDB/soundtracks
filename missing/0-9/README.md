@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
+| 2025: Battle for Fatherland | 72917 | [72917-2025-battle-for-fatherland.json](./72917-2025-battle-for-fatherland.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
 | 203 Game Pack | 273903 | [273903-203-game-pack.json](./273903-203-game-pack.json) |
 | 2033 The Order | 308940 | [308940-2033-the-order.json](./308940-2033-the-order.json) |
