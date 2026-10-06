@@ -8421,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
+| Project Hastur | 114891 | [114891-project-hastur.json](./114891-project-hastur.json) |
 | Project Haven | 124008 | [124008-project-haven.json](./124008-project-haven.json) |
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
 | Project Hedra | 53481 | [53481-project-hedra.json](./53481-project-hedra.json) |
@@ -9974,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
+| Pylon Racer | 114886 | [114886-pylon-racer.json](./114886-pylon-racer.json) |
 | Pylon Town | 234192 | [234192-pylon-town.json](./234192-pylon-town.json) |
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
