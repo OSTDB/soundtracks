@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
+| Quirky Crystal RPG | 108379 | [108379-quirky-crystal-rpg.json](./108379-quirky-crystal-rpg.json) |
 | Quisisana | 344493 | [344493-quisisana.json](./344493-quisisana.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
