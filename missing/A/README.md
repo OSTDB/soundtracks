@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
+| ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Active Defense | 257357 | [257357-active-defense.json](./257357-active-defense.json) |
+| Active Health with Carol Vorderman | 67620 | [67620-active-health-with-carol-vorderman.json](./67620-active-health-with-carol-vorderman.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
@@ -2725,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airdrift | 203867 | [203867-airdrift.json](./203867-airdrift.json) |
 | Aireo Flight Simulator 2025 Edition | 328579 | [328579-aireo-flight-simulator-2025-edition.json](./328579-aireo-flight-simulator-2025-edition.json) |
 | Aireo FlightSimulator | 264563 | [264563-aireo-flightsimulator.json](./264563-aireo-flightsimulator.json) |
+| Airfight | 67637 | [67637-airfight.json](./67637-airfight.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
 | Airflow | 312675 | [312675-airflow.json](./312675-airflow.json) |
 | Airflow: Seattle ARTCC | 376106 | [376106-airflow-seattle-artcc.json](./376106-airflow-seattle-artcc.json) |
@@ -2879,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Aka to Blue | 69502 | [69502-aka-to-blue.json](./69502-aka-to-blue.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
+| Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
 | Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
@@ -4451,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
+| American Pool Deluxe | 67629 | [67629-american-pool-deluxe.json](./67629-american-pool-deluxe.json) |
 | American Pool II | 90932 | [90932-american-pool-ii.json](./90932-american-pool-ii.json) |
 | American Popstar: Road to Celebrity | 68234 | [68234-american-popstar-road-to-celebrity.json](./68234-american-popstar-road-to-celebrity.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
@@ -4810,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Evil: Curse of the Snake Cult | 72035 | [72035-ancient-evil-curse-of-the-snake-cult.json](./72035-ancient-evil-curse-of-the-snake-cult.json) |
 | Ancient Farm | 226223 | [226223-ancient-farm.json](./226223-ancient-farm.json) |
 | Ancient Forest Escape | 315692 | [315692-ancient-forest-escape.json](./315692-ancient-forest-escape.json) |
+| Ancient Frog | 67645 | [67645-ancient-frog.json](./67645-ancient-frog.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: Steel Shadows | 103412 | [103412-ancient-frontier-steel-shadows.json](./103412-ancient-frontier-steel-shadows.json) |
 | Ancient Frontier: Tactics | 391310 | [391310-ancient-frontier-tactics.json](./391310-ancient-frontier-tactics.json) |
@@ -8788,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
 | Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
+| Atelier Lina: The Alchemist of Strahl | 67708 | [67708-atelier-lina-the-alchemist-of-strahl.json](./67708-atelier-lina-the-alchemist-of-strahl.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
 | Atelier Lulua: The Scion of Arland - Digital Deluxe Edition | 118934 | [118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json](./118934-atelier-lulua-the-scion-of-arland-digital-deluxe-edition.json) |
