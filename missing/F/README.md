@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
 | Farm & Puzzle | 148687 | [148687-farm-and-puzzle.json](./148687-farm-and-puzzle.json) |
+| Farm 123 - Learn to count! | 99097 | [99097-farm-123-learn-to-count.json](./99097-farm-123-learn-to-count.json) |
 | Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
 | Farm Alarm | 176327 | [176327-farm-alarm.json](./176327-farm-alarm.json) |
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
