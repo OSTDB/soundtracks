@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latarnik | 352360 | [352360-latarnik.json](./352360-latarnik.json) |
 | Late Amusement | 361821 | [361821-late-amusement.json](./361821-late-amusement.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
+| Late City Riders | 117592 | [117592-late-city-riders.json](./117592-late-city-riders.json) |
 | Late Emergency | 365269 | [365269-late-emergency.json](./365269-late-emergency.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
 | Late for Class | 177287 | [177287-late-for-class.json](./177287-late-for-class.json) |
