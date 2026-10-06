@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Clone for Commodore PET | 302948 | [302948-lode-runner-clone-for-commodore-pet.json](./302948-lode-runner-clone-for-commodore-pet.json) |
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
 | Lode Runner Legacy | 37008 | [37008-lode-runner-legacy.json](./37008-lode-runner-legacy.json) |
+| Lode Runner On-Line: The Mad Monks' Revenge | 72299 | [72299-lode-runner-on-line-the-mad-monks-revenge.json](./72299-lode-runner-on-line-the-mad-monks-revenge.json) |
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
 | Lode Runner: Lost Labyrinth | 64123 | [64123-lode-runner-lost-labyrinth.json](./64123-lode-runner-lost-labyrinth.json) |
 | Lode Runner: The Dig Fight | 40371 | [40371-lode-runner-the-dig-fight.json](./40371-lode-runner-the-dig-fight.json) |
