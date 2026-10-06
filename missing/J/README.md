@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
+| Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 3 | 229584 | [229584-jikkyou-pawafuru-puroyakyu-portable-3.json](./229584-jikkyou-pawafuru-puroyakyu-portable-3.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 4 | 229585 | [229585-jikkyou-pawafuru-puroyakyu-portable-4.json](./229585-jikkyou-pawafuru-puroyakyu-portable-4.json) |
