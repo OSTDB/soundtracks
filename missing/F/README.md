@@ -6937,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
+| Frozen Depths | 67632 | [67632-frozen-depths.json](./67632-frozen-depths.json) |
 | Frozen Dragon Gems | 96849 | [96849-frozen-dragon-gems.json](./96849-frozen-dragon-gems.json) |
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
