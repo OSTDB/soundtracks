@@ -5359,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
+| Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
 | Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
 | Luna's Seek and Find | 343383 | [343383-lunas-seek-and-find.json](./343383-lunas-seek-and-find.json) |
