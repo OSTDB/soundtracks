@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am An Air Traffic Controller: Airport Hero Shinchitose | 56476 | [56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json](./56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json) |
 | I Am Bad at People, but Turns Out I’m Even Worse at Making Games | 260147 | [260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json](./260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json) |
 | I am Ball | 131973 | [131973-i-am-ball.json](./131973-i-am-ball.json) |
+| I Am Blondi | 109521 | [109521-i-am-blondi.json](./109521-i-am-blondi.json) |
 | I am Bread | 7868 | [7868-i-am-bread.json](./7868-i-am-bread.json) |
 | I Am Brewing You Alive but You Can Leave at Any Time If You Really Want To | 135669 | [135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json](./135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json) |
 | I Am Butter VR | 192236 | [192236-i-am-butter-vr.json](./192236-i-am-butter-vr.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Game 1 | 234690 | [234690-idle-game-1.json](./234690-idle-game-1.json) |
 | Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
 | Idle Game x100 | 387597 | [387597-idle-game-x100.json](./387597-idle-game-x100.json) |
+| Idle Gangsters | 109565 | [109565-idle-gangsters.json](./109565-idle-gangsters.json) |
 | Idle Garden | 390715 | [390715-idle-garden.json](./390715-idle-garden.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
@@ -1470,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
 | Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
+| Imperishable Memories | 109564 | [109564-imperishable-memories.json](./109564-imperishable-memories.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
