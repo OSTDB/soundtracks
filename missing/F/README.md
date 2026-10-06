@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
 | F-Zero: GP Legend | 3493 | [3493-f-zero-gp-legend.json](./3493-f-zero-gp-legend.json) |
 | F-Zero: GP Legend e+ Complete | 173092 | [173092-f-zero-gp-legend-e-complete.json](./173092-f-zero-gp-legend-e-complete.json) |
+| F.1 Manager | 92689 | [92689-f-1-manager.json](./92689-f-1-manager.json) |
 | F.A Cup Football | 93372 | [93372-f-a-cup-football.json](./93372-f-a-cup-football.json) |
 | F.A.C.E.S. | 57163 | [57163-f-a-c-e-s.json](./57163-f-a-c-e-s.json) |
 | F.A.G.E.N. | 413041 | [413041-f-a-g-e-n.json](./413041-f-a-g-e-n.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
 | Family Pirate Party | 50700 | [50700-family-pirate-party.json](./50700-family-pirate-party.json) |
+| Family Project | 92699 | [92699-family-project.json](./92699-family-project.json) |
 | Family Quiz | 268129 | [268129-family-quiz.json](./268129-family-quiz.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
@@ -4077,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flea!2 | 333731 | [333731-flea-2.json](./333731-flea-2.json) |
 | Fleabag vs. Mutt | 196790 | [196790-fleabag-vs-mutt.json](./196790-fleabag-vs-mutt.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
+| Fleafall Champion | 92595 | [92595-fleafall-champion.json](./92595-fleafall-champion.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
 | Fledge | 257909 | [257909-fledge.json](./257909-fledge.json) |
@@ -4932,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
+| Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
@@ -7120,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle Racing | 42594 | [42594-full-throttle-racing.json](./42594-full-throttle-racing.json) |
 | Full Throttle: All-American Racing | 159174 | [159174-full-throttle-all-american-racing.json](./159174-full-throttle-all-american-racing.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
+| Full Throttle: Payback | 92659 | [92659-full-throttle-payback.json](./92659-full-throttle-payback.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
