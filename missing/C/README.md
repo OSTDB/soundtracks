@@ -7864,6 +7864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Copa Toon: Superestrellas | 334930 | [334930-copa-toon-superestrellas.json](./334930-copa-toon-superestrellas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
+| Copernicus | 72907 | [72907-copernicus.json](./72907-copernicus.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
 | Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
@@ -8178,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Relief: Prof. Renegade to the Rescue | 12282 | [12282-cosmic-relief-prof-renegade-to-the-rescue.json](./12282-cosmic-relief-prof-renegade-to-the-rescue.json) |
+| Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
@@ -8517,6 +8519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboy Yakuza | 130240 | [130240-cowboy-yakuza.json](./130240-cowboy-yakuza.json) |
+| Cowboyana | 72896 | [72896-cowboyana.json](./72896-cowboyana.json) |
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
 | Cowboys Galaxy Adventures | 193823 | [193823-cowboys-galaxy-adventures.json](./193823-cowboys-galaxy-adventures.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
@@ -11071,6 +11074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
+| Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
