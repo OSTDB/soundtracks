@@ -5645,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gravehouse | 224569 | [224569-the-gravehouse.json](./224569-the-gravehouse.json) |
+| The Gravity Box | 113578 | [113578-the-gravity-box.json](./113578-the-gravity-box.json) |
 | The Gravity Trickster | 257328 | [257328-the-gravity-trickster.json](./257328-the-gravity-trickster.json) |
 | The Gray Cowl of Nocturnal | 320928 | [320928-the-gray-cowl-of-nocturnal.json](./320928-the-gray-cowl-of-nocturnal.json) |
 | The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
@@ -8033,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls Remaster | 310066 | [310066-the-other-side-tower-of-souls-remaster.json](./310066-the-other-side-tower-of-souls-remaster.json) |
+| The Other: Airi's Adventure | 113614 | [113614-the-other-airis-adventure.json](./113614-the-other-airis-adventure.json) |
 | The Other: Rosie's Road of Love | 147394 | [147394-the-other-rosies-road-of-love.json](./147394-the-other-rosies-road-of-love.json) |
 | The Others | 343852 | [343852-the-others.json](./343852-the-others.json) |
 | The Otherwilde | 202655 | [202655-the-otherwilde.json](./202655-the-otherwilde.json) |
@@ -17079,6 +17081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
 | Trine Trilogy | 118939 | [118939-trine-trilogy.json](./118939-trine-trilogy.json) |
 | Trine: Ultimate Collection | 115766 | [115766-trine-ultimate-collection.json](./115766-trine-ultimate-collection.json) |
+| Trinelogy | 113624 | [113624-trinelogy.json](./113624-trinelogy.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
