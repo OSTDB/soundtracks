@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brat's Journey: A Rose Playing Game | 372579 | [372579-a-brats-journey-a-rose-playing-game.json](./372579-a-brats-journey-a-rose-playing-game.json) |
 | A Break in the Road | 300000 | [300000-a-break-in-the-road.json](./300000-a-break-in-the-road.json) |
 | A Bridge Too Far | 181134 | [181134-a-bridge-too-far.json](./181134-a-bridge-too-far.json) |
+| A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
+| ACA Neo Geo: Super Sidekicks 3 - The Next Glory | 103563 | [103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json](./103563-aca-neo-geo-super-sidekicks-3-the-next-glory.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
@@ -1708,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure Mosaics: Winter Holidays | 294203 | [294203-adventure-mosaics-winter-holidays.json](./294203-adventure-mosaics-winter-holidays.json) |
+| Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
@@ -6496,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
+| Arcade Archives: Sky Skipper | 103363 | [103363-arcade-archives-sky-skipper.json](./103363-arcade-archives-sky-skipper.json) |
 | Arcade Archives: Soccer | 147640 | [147640-arcade-archives-soccer.json](./147640-arcade-archives-soccer.json) |
 | Arcade Archives: Soldam | 173133 | [173133-arcade-archives-soldam.json](./173133-arcade-archives-soldam.json) |
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
@@ -7689,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arx: End of Sun | 386114 | [386114-arx-end-of-sun.json](./386114-arx-end-of-sun.json) |
 | Arxon | 93062 | [93062-arxon.json](./93062-arxon.json) |
 | Ary and the Secret of Seasons | 54645 | [54645-ary-and-the-secret-of-seasons.json](./54645-ary-and-the-secret-of-seasons.json) |
+| ARZombi | 103569 | [103569-arzombi.json](./103569-arzombi.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
 | As Aventuras da Abelhinha Maya | 273877 | [273877-as-aventuras-da-abelhinha-maya.json](./273877-as-aventuras-da-abelhinha-maya.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
