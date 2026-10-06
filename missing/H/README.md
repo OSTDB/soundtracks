@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
+| Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
 | Handy | 120835 | [120835-handy.json](./120835-handy.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
@@ -6814,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
 | Hyke: Northern Light(s) | 339994 | [339994-hyke-northern-light-s.json](./339994-hyke-northern-light-s.json) |
+| Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
 | Hylics 2 | 98469 | [98469-hylics-2.json](./98469-hylics-2.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
