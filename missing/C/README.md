@@ -6105,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognizer | 102282 | [102282-cognizer.json](./102282-cognizer.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cogs and Cowboys | 31818 | [31818-cogs-and-cowboys.json](./31818-cogs-and-cowboys.json) |
+| Cogs Lite | 100257 | [100257-cogs-lite.json](./100257-cogs-lite.json) |
 | Cogs of Combat | 201120 | [201120-cogs-of-combat.json](./201120-cogs-of-combat.json) |
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
@@ -8007,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
+| Cosmic Bowling | 100275 | [100275-cosmic-bowling.json](./100275-cosmic-bowling.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
 | Cosmic Bugs | 72161 | [72161-cosmic-bugs.json](./72161-cosmic-bugs.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
