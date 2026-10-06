@@ -3585,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best of Microsoft Entertainment Pack | 282104 | [282104-the-best-of-microsoft-entertainment-pack.json](./282104-the-best-of-microsoft-entertainment-pack.json) |
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
+| The Best Stories, The Best Time for Us | 114297 | [114297-the-best-stories-the-best-time-for-us.json](./114297-the-best-stories-the-best-time-for-us.json) |
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
@@ -10278,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Visitors from Mir | 260896 | [260896-the-visitors-from-mir.json](./260896-the-visitors-from-mir.json) |
 | The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
+| The Voice from Heaven | 114311 | [114311-the-voice-from-heaven.json](./114311-the-voice-from-heaven.json) |
 | The Voice from the Well: The Velessar Saga | 238435 | [238435-the-voice-from-the-well-the-velessar-saga.json](./238435-the-voice-from-the-well-the-velessar-saga.json) |
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice Inside | 115486 | [115486-the-voice-inside.json](./115486-the-voice-inside.json) |
@@ -13890,6 +13892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Nightmares | 302929 | [302929-tomb-nightmares.json](./302929-tomb-nightmares.json) |
 | Tomb of Evil Avenue | 120890 | [120890-tomb-of-evil-avenue.json](./120890-tomb-of-evil-avenue.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
+| Tomb of Friends + | 114280 | [114280-tomb-of-friends.json](./114280-tomb-of-friends.json) |
 | Tomb of Horror | 356664 | [356664-tomb-of-horror.json](./356664-tomb-of-horror.json) |
 | Tomb of Pharaohs | 158140 | [158140-tomb-of-pharaohs.json](./158140-tomb-of-pharaohs.json) |
 | Tomb of Syrinx | 37292 | [37292-tomb-of-syrinx.json](./37292-tomb-of-syrinx.json) |
