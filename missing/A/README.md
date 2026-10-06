@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars 2: Black Hole Rising | 236815 | [236815-advance-wars-2-black-hole-rising.json](./236815-advance-wars-2-black-hole-rising.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
 | Advanced Basketball Simulator | 13791 | [13791-advanced-basketball-simulator.json](./13791-advanced-basketball-simulator.json) |
+| Advanced Battlegrounds: The Future of Combat | 73469 | [73469-advanced-battlegrounds-the-future-of-combat.json](./73469-advanced-battlegrounds-the-future-of-combat.json) |
 | Advanced Circuits | 84973 | [84973-advanced-circuits.json](./84973-advanced-circuits.json) |
 | Advanced Civilization | 14433 | [14433-advanced-civilization.json](./14433-advanced-civilization.json) |
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
@@ -1889,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
+| Aerial Antics | 73503 | [73503-aerial-antics.json](./73503-aerial-antics.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
@@ -2876,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
 | Akai Hitomi no Serafu | 77915 | [77915-akai-hitomi-no-serafu.json](./77915-akai-hitomi-no-serafu.json) |
+| Akai Ito | 73494 | [73494-akai-ito.json](./73494-akai-ito.json) |
 | Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
 | Akai Ito DS | 206021 | [206021-akai-ito-ds.json](./206021-akai-ito-ds.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
@@ -5239,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
+| Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
 | Animal Memory | 151591 | [151591-animal-memory.json](./151591-animal-memory.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
@@ -7127,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Story: Rouge And Princess Knight | 239792 | [239792-arena-story-rouge-and-princess-knight.json](./239792-arena-story-rouge-and-princess-knight.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
+| Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
 | Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
 | Arena: Blood on the Sand VR | 29795 | [29795-arena-blood-on-the-sand-vr.json](./29795-arena-blood-on-the-sand-vr.json) |
 | Arena: Gameboy Edition | 280296 | [280296-arena-gameboy-edition.json](./280296-arena-gameboy-edition.json) |
@@ -7412,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
+| Armor Alley | 73483 | [73483-armor-alley.json](./73483-armor-alley.json) |
 | Armor Ambush | 11126 | [11126-armor-ambush.json](./11126-armor-ambush.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
