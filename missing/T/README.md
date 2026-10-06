@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
 | Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
 | Tactical Ops: Assault on Terror | 8778 | [8778-tactical-ops-assault-on-terror.json](./8778-tactical-ops-assault-on-terror.json) |
+| Tactical Poker | 88668 | [88668-tactical-poker.json](./88668-tactical-poker.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Retreat | 180586 | [180586-tactical-retreat.json](./180586-tactical-retreat.json) |
 | Tactical Shooter | 409738 | [409738-tactical-shooter.json](./409738-tactical-shooter.json) |
@@ -5060,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Hunt | 348399 | [348399-the-eternal-hunt.json](./348399-the-eternal-hunt.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
+| The Eternal Shooter | 88638 | [88638-the-eternal-shooter.json](./88638-the-eternal-shooter.json) |
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
@@ -16421,6 +16423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: SSR Fletchers Crawfords GE C44aci Pack | 318440 | [318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json](./318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2022: Swayfield Branch | 298149 | [298149-trainz-railroad-simulator-2022-swayfield-branch.json](./298149-trainz-railroad-simulator-2022-swayfield-branch.json) |
 | Trainz Railroad Simulator 2022: The Indian Pacific | 230954 | [230954-trainz-railroad-simulator-2022-the-indian-pacific.json](./230954-trainz-railroad-simulator-2022-the-indian-pacific.json) |
+| Trainz Simulator | 88611 | [88611-trainz-simulator.json](./88611-trainz-simulator.json) |
 | Trainz Simulator 12: Aerotrain | 161737 | [161737-trainz-simulator-12-aerotrain.json](./161737-trainz-simulator-12-aerotrain.json) |
 | Trainz Simulator 12: BR Class 14 | 162700 | [162700-trainz-simulator-12-br-class-14.json](./162700-trainz-simulator-12-br-class-14.json) |
 | Trainz Simulator 12: CONTZ Pack - Basic Edition | 162693 | [162693-trainz-simulator-12-contz-pack-basic-edition.json](./162693-trainz-simulator-12-contz-pack-basic-edition.json) |
