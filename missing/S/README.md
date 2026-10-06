@@ -6708,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
+| Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullgirls: Season 1 Pass | 370325 | [370325-skullgirls-season-1-pass.json](./370325-skullgirls-season-1-pass.json) |
@@ -15363,6 +15364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
 | Street Karate Fighter 2 Online | 102827 | [102827-street-karate-fighter-2-online.json](./102827-street-karate-fighter-2-online.json) |
+| Street Kart | 110268 | [110268-street-kart.json](./110268-street-kart.json) |
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
 | Street Legal | 73757 | [73757-street-legal.json](./73757-street-legal.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
@@ -15851,6 +15853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substratum | 128432 | [128432-substratum.json](./128432-substratum.json) |
+| Substream | 110276 | [110276-substream.json](./110276-substream.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
@@ -19564,6 +19567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
+| Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
 | Symphony | 7401 | [7401-symphony.json](./7401-symphony.json) |
 | Symphony of Eternity | 59852 | [59852-symphony-of-eternity.json](./59852-symphony-of-eternity.json) |
