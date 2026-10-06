@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
+| Idle Awards 2 | 101701 | [101701-idle-awards-2.json](./101701-idle-awards-2.json) |
 | Idle Baker Boss | 211163 | [211163-idle-baker-boss.json](./211163-idle-baker-boss.json) |
 | Idle Balls | 87047 | [87047-idle-balls.json](./87047-idle-balls.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
@@ -843,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Geometry Defense | 373735 | [373735-idle-geometry-defense.json](./373735-idle-geometry-defense.json) |
 | Idle Grid | 340516 | [340516-idle-grid.json](./340516-idle-grid.json) |
 | Idle Guardians | 117816 | [117816-idle-guardians.json](./117816-idle-guardians.json) |
+| Idle Guardians: Never Die | 101670 | [101670-idle-guardians-never-die.json](./101670-idle-guardians-never-die.json) |
 | Idle Gumball Machine | 365835 | [365835-idle-gumball-machine.json](./365835-idle-gumball-machine.json) |
 | Idle Guy | 352244 | [352244-idle-guy.json](./352244-idle-guy.json) |
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
@@ -858,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
 | Idle Industries | 159115 | [159115-idle-industries.json](./159115-idle-industries.json) |
 | Idle Industries | 255701 | [255701-idle-industries.json](./255701-idle-industries.json) |
+| Idle Intelligence | 101708 | [101708-idle-intelligence.json](./101708-idle-intelligence.json) |
 | Idle Intergalactic Factory | 221127 | [221127-idle-intergalactic-factory.json](./221127-idle-intergalactic-factory.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
@@ -3491,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
+| Isle of Tune Mobile | 101665 | [101665-isle-of-tune-mobile.json](./101665-isle-of-tune-mobile.json) |
 | Isle TD | 109195 | [109195-isle-td.json](./109195-isle-td.json) |
 | Isle Vacation | 401124 | [401124-isle-vacation.json](./401124-isle-vacation.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
@@ -3635,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
+| It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
 | It's Kooky + Cyber Protocol | 231344 | [231344-its-kooky-cyber-protocol.json](./231344-its-kooky-cyber-protocol.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
