@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. D. Crew | 39864 | [39864-d-d-crew.json](./39864-d-d-crew.json) |
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
+| D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
@@ -10319,6 +10320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty of the Sands | 128949 | [128949-dynasty-of-the-sands.json](./128949-dynasty-of-the-sands.json) |
 | Dynasty Origins: Conquest | 216128 | [216128-dynasty-origins-conquest.json](./216128-dynasty-origins-conquest.json) |
+| Dynasty Warriors | 100279 | [100279-dynasty-warriors.json](./100279-dynasty-warriors.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4 | 3007 | [3007-dynasty-warriors-4.json](./3007-dynasty-warriors-4.json) |
