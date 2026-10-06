@@ -1223,9 +1223,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
+| Jissen Pachi-Slot Hisshouhou! King Camel | 82304 | [82304-jissen-pachi-slot-hisshouhou-king-camel.json](./82304-jissen-pachi-slot-hisshouhou-king-camel.json) |
+| Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
+| Jissen Pachi-Slot Hisshouhou! Mr. Magic Neo | 82310 | [82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json](./82310-jissen-pachi-slot-hisshouhou-mr-magic-neo.json) |
+| Jissen Pachi-Slot Hisshouhou! Ore no Sora | 82307 | [82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json](./82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json) |
+| Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 | 82305 | [82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json](./82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json) |
+| Jissen Pachi-Slot Hisshouhou! Savana Park | 82301 | [82301-jissen-pachi-slot-hisshouhou-savana-park.json](./82301-jissen-pachi-slot-hisshouhou-savana-park.json) |
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
+| Jissen Pachi-Slot Hisshouhou! Ultraman Club ST | 82306 | [82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json](./82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json) |
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
+| Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX | 82311 | [82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json](./82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
+| Jissen Pachinko Hisshouhou! CR Salaryman Kintarou | 82308 | [82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json](./82308-jissen-pachinko-hisshouhou-cr-salaryman-kintarou.json) |
 | Jitaku Keibiin no Oshigoto | 358485 | [358485-jitaku-keibiin-no-oshigoto.json](./358485-jitaku-keibiin-no-oshigoto.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
 | Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
@@ -1752,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: The Curse Returns - Ultimate Movie Game Bundle | 312087 | [312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json](./312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumanji: The Curse Returns - Winter Resort | 203786 | [203786-jumanji-the-curse-returns-winter-resort.json](./203786-jumanji-the-curse-returns-winter-resort.json) |
+| Jumanji: The VR Adventure | 82350 | [82350-jumanji-the-vr-adventure.json](./82350-jumanji-the-vr-adventure.json) |
 | Jumara | 393498 | [393498-jumara.json](./393498-jumara.json) |
 | Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
