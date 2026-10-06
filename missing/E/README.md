@@ -3421,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euphionia: The Tree Spirit's Curse | 330965 | [330965-euphionia-the-tree-spirits-curse.json](./330965-euphionia-the-tree-spirits-curse.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
+| Euphory | 62584 | [62584-euphory.json](./62584-euphory.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
