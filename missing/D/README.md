@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
+| Danse Macabre: Deadly Deception - Collector's Edition | 86436 | [86436-danse-macabre-deadly-deception-collectors-edition.json](./86436-danse-macabre-deadly-deception-collectors-edition.json) |
 | Danse Macabre: The Last Adagio | 139753 | [139753-danse-macabre-the-last-adagio.json](./139753-danse-macabre-the-last-adagio.json) |
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
