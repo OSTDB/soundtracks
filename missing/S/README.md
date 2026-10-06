@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sammy Jukes: Twin Lakes | 313767 | [313767-sammy-jukes-twin-lakes.json](./313767-sammy-jukes-twin-lakes.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
 | Sammy Sosa High Heat Baseball 2001: Championship Edition | 206669 | [206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json](./206669-sammy-sosa-high-heat-baseball-2001-championship-edition.json) |
+| Sammy Suricate | 61427 | [61427-sammy-suricate.json](./61427-sammy-suricate.json) |
 | Sammy The Sharky | 411081 | [411081-sammy-the-sharky.json](./411081-sammy-the-sharky.json) |
 | Sammy the Sperm | 326146 | [326146-sammy-the-sperm.json](./326146-sammy-the-sperm.json) |
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
@@ -5141,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Star Island | 194982 | [194982-shooting-star-island.json](./194982-shooting-star-island.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
 | Shooting Survival | 248149 | [248149-shooting-survival.json](./248149-shooting-survival.json) |
+| Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
@@ -8969,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | SokoMania | 76167 | [76167-sokomania.json](./76167-sokomania.json) |
+| Sokomania 2: Cool Job | 61460 | [61460-sokomania-2-cool-job.json](./61460-sokomania-2-cool-job.json) |
 | SokoMatch: Lizard Saga | 152722 | [152722-sokomatch-lizard-saga.json](./152722-sokomatch-lizard-saga.json) |
 | SokoMelody | 236956 | [236956-sokomelody.json](./236956-sokomelody.json) |
 | Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
@@ -10847,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
 | Space Fighter | 80830 | [80830-space-fighter.json](./80830-space-fighter.json) |
+| Space Fighter 4000: Training Missions | 61457 | [61457-space-fighter-4000-training-missions.json](./61457-space-fighter-4000-training-missions.json) |
 | Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
@@ -16818,6 +16822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
+| Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
@@ -16825,6 +16830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
 | Sunday Sundae | 186642 | [186642-sunday-sundae.json](./186642-sunday-sundae.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
+| Sunday x Magazine: Nettou! Dream Nine | 61451 | [61451-sunday-x-magazine-nettou-dream-nine.json](./61451-sunday-x-magazine-nettou-dream-nine.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
@@ -19335,6 +19341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
+| Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
 | Suzunaan on Fire | 127729 | [127729-suzunaan-on-fire.json](./127729-suzunaan-on-fire.json) |
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
