@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
 | Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
+| Globulos Party | 66981 | [66981-globulos-party.json](./66981-globulos-party.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
@@ -5818,6 +5819,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade NY | 39799 | [39799-gunblade-ny.json](./39799-gunblade-ny.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
+| GunBlaze | 66892 | [66892-gunblaze.json](./66892-gunblaze.json) |
+| GunBlaze S | 66888 | [66888-gunblaze-s.json](./66888-gunblaze-s.json) |
 | GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
