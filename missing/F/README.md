@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Lolita | 92144 | [92144-final-lolita.json](./92144-final-lolita.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Match | 99730 | [99730-final-match.json](./99730-final-match.json) |
+| Final Meteor | 58598 | [58598-final-meteor.json](./58598-final-meteor.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
