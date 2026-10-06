@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Lost Tomb | 165626 | [165626-secrets-of-the-lost-tomb.json](./165626-secrets-of-the-lost-tomb.json) |
 | Secrets of the Mansion | 184442 | [184442-secrets-of-the-mansion.json](./184442-secrets-of-the-mansion.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
+| Secrets of the Past: Dion | 110895 | [110895-secrets-of-the-past-dion.json](./110895-secrets-of-the-past-dion.json) |
 | Secrets of the Shore | 293839 | [293839-secrets-of-the-shore.json](./293839-secrets-of-the-shore.json) |
 | Secrets of the Temple | 193416 | [193416-secrets-of-the-temple.json](./193416-secrets-of-the-temple.json) |
 | Secrets of the Titanic 1912-2012 | 54345 | [54345-secrets-of-the-titanic-1912-2012.json](./54345-secrets-of-the-titanic-1912-2012.json) |
@@ -4372,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheol | 127871 | [127871-sheol.json](./127871-sheol.json) |
 | Sheol Inferno | 324943 | [324943-sheol-inferno.json](./324943-sheol-inferno.json) |
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
+| Shepard Fairey VR: Damaged | 110899 | [110899-shepard-fairey-vr-damaged.json](./110899-shepard-fairey-vr-damaged.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
@@ -13231,6 +13233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tap | 54540 | [54540-star-tap.json](./54540-star-tap.json) |
+| Star Thief | 110928 | [110928-star-thief.json](./110928-star-thief.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
@@ -17179,6 +17182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
+| Super Jigsaw Puzzle: Space | 110937 | [110937-super-jigsaw-puzzle-space.json](./110937-super-jigsaw-puzzle-space.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Junior Shake | 266183 | [266183-super-junior-shake.json](./266183-super-junior-shake.json) |
@@ -18633,6 +18637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
+| Survival | 110896 | [110896-survival.json](./110896-survival.json) |
 | Survival | 235263 | [235263-survival.json](./235263-survival.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
@@ -18642,6 +18647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
 | Survival Ascension | 132752 | [132752-survival-ascension.json](./132752-survival-ascension.json) |
+| Survival Ball | 110916 | [110916-survival-ball.json](./110916-survival-ball.json) |
 | Survival Bowling | 262340 | [262340-survival-bowling.json](./262340-survival-bowling.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
