@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
 | Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
+| Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
 | Grim Tales 8: The Final Suspect | 140299 | [140299-grim-tales-8-the-final-suspect.json](./140299-grim-tales-8-the-final-suspect.json) |
 | Grim Tales: All Shades of Black - Collector's Edition | 337263 | [337263-grim-tales-all-shades-of-black-collectors-edition.json](./337263-grim-tales-all-shades-of-black-collectors-edition.json) |
+| Grim Tales: Color of Fright | 83152 | [83152-grim-tales-color-of-fright.json](./83152-grim-tales-color-of-fright.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
 | Grim Tales: Echo of the Past | 188002 | [188002-grim-tales-echo-of-the-past.json](./188002-grim-tales-echo-of-the-past.json) |
@@ -5019,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
+| Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
@@ -5028,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Stone Queen - Collector's Edition | 96943 | [96943-grim-tales-the-stone-queen-collectors-edition.json](./96943-grim-tales-the-stone-queen-collectors-edition.json) |
 | Grim Tales: The Time Traveler | 258697 | [258697-grim-tales-the-time-traveler.json](./258697-grim-tales-the-time-traveler.json) |
 | Grim Tales: The Time Traveler - Collector's Edition | 231357 | [231357-grim-tales-the-time-traveler-collectors-edition.json](./231357-grim-tales-the-time-traveler-collectors-edition.json) |
+| Grim Tales: The Vengeance | 83143 | [83143-grim-tales-the-vengeance.json](./83143-grim-tales-the-vengeance.json) |
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
