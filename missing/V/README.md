@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Chess 64 | 3334 | [3334-virtual-chess-64.json](./3334-virtual-chess-64.json) |
 | Virtual City | 74325 | [74325-virtual-city.json](./74325-virtual-city.json) |
 | Virtual City 2: Paradise Resort | 74320 | [74320-virtual-city-2-paradise-resort.json](./74320-virtual-city-2-paradise-resort.json) |
+| Virtual City Playground | 88634 | [88634-virtual-city-playground.json](./88634-virtual-city-playground.json) |
 | Virtual Corporation | 94354 | [94354-virtual-corporation.json](./94354-virtual-corporation.json) |
 | Virtual Cottage 2 | 324942 | [324942-virtual-cottage-2.json](./324942-virtual-cottage-2.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
