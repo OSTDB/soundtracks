@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
+| Flan | 116263 | [116263-flan.json](./116263-flan.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
@@ -7025,6 +7026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
+| Full of Love | 116259 | [116259-full-of-love.json](./116259-full-of-love.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
