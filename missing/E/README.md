@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat Me Alive | 218584 | [218584-eat-me-alive.json](./218584-eat-me-alive.json) |
 | Eat Me! | 301896 | [301896-eat-me.json](./301896-eat-me.json) |
 | Eat More Vegetables! | 157206 | [157206-eat-more-vegetables.json](./157206-eat-more-vegetables.json) |
+| Eat my Shuriken and Die! | 105433 | [105433-eat-my-shuriken-and-die.json](./105433-eat-my-shuriken-and-die.json) |
 | Eat or Fight | 314950 | [314950-eat-or-fight.json](./314950-eat-or-fight.json) |
 | Eat Sheep & Die | 179546 | [179546-eat-sheep-and-die.json](./179546-eat-sheep-and-die.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
@@ -4357,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye 4 Eye | 249358 | [249358-eye-4-eye.json](./249358-eye-4-eye.json) |
 | Eye Can See You | 208475 | [208475-eye-can-see-you.json](./208475-eye-can-see-you.json) |
 | Eye Contact | 145920 | [145920-eye-contact.json](./145920-eye-contact.json) |
+| Eye Contact: Hanako | 105236 | [105236-eye-contact-hanako.json](./105236-eye-contact-hanako.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye of Bain | 298804 | [298804-eye-of-bain.json](./298804-eye-of-bain.json) |
