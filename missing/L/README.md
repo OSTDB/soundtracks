@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
+| Legend of the Unicorn Girl | 62567 | [62567-legend-of-the-unicorn-girl.json](./62567-legend-of-the-unicorn-girl.json) |
 | Legend of the wizard | 120856 | [120856-legend-of-the-wizard.json](./120856-legend-of-the-wizard.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
 | Legend of Towercraft | 133174 | [133174-legend-of-towercraft.json](./133174-legend-of-towercraft.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Iconoclast: Scourge of Humanity | 276383 | [276383-legends-of-iconoclast-scourge-of-humanity.json](./276383-legends-of-iconoclast-scourge-of-humanity.json) |
 | Legends of Illarion | 228438 | [228438-legends-of-illarion.json](./228438-legends-of-illarion.json) |
 | Legends of Iona RPG | 55492 | [55492-legends-of-iona-rpg.json](./55492-legends-of-iona-rpg.json) |
+| Legends of Ith | 62551 | [62551-legends-of-ith.json](./62551-legends-of-ith.json) |
 | Legends of Kingdom Rush | 159076 | [159076-legends-of-kingdom-rush.json](./159076-legends-of-kingdom-rush.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
 | Legends of Loot | 64346 | [64346-legends-of-loot.json](./64346-legends-of-loot.json) |
