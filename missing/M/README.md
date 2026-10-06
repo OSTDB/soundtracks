@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
+| Mahjongg Artifacts: Chapter 2 | 66978 | [66978-mahjongg-artifacts-chapter-2.json](./66978-mahjongg-artifacts-chapter-2.json) |
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
+| Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
 | Max and the Haunted Castle | 127150 | [127150-max-and-the-haunted-castle.json](./127150-max-and-the-haunted-castle.json) |
 | Max and the Magic Marker: Gold Edition | 52571 | [52571-max-and-the-magic-marker-gold-edition.json](./52571-max-and-the-magic-marker-gold-edition.json) |
 | Max and the Pirates | 209540 | [209540-max-and-the-pirates.json](./209540-max-and-the-pirates.json) |
@@ -5401,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Rampage Uprising | 278541 | [278541-metal-rampage-uprising.json](./278541-metal-rampage-uprising.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
+| Metal Saga: Hagane no Kisetsu | 66989 | [66989-metal-saga-hagane-no-kisetsu.json](./66989-metal-saga-hagane-no-kisetsu.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Savior | 342272 | [342272-metal-savior.json](./342272-metal-savior.json) |
 | Metal Savior Black | 297717 | [297717-metal-savior-black.json](./297717-metal-savior-black.json) |
@@ -9967,7 +9970,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
+| Mouse House | 66984 | [66984-mouse-house.json](./66984-mouse-house.json) |
 | Mouse in Lab | 29584 | [29584-mouse-in-lab.json](./29584-mouse-in-lab.json) |
+| Mouse in the Maze | 66991 | [66991-mouse-in-the-maze.json](./66991-mouse-in-the-maze.json) |
 | Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
 | Mouse Maze | 198291 | [198291-mouse-maze.json](./198291-mouse-maze.json) |
 | Mouse Maze - Top Brain Puzzle | 89274 | [89274-mouse-maze-top-brain-puzzle.json](./89274-mouse-maze-top-brain-puzzle.json) |
