@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
 | Juggling Seal | 385711 | [385711-juggling-seal.json](./385711-juggling-seal.json) |
+| Juggly | 113608 | [113608-juggly.json](./113608-juggly.json) |
 | JugiPaint | 105990 | [105990-jugipaint.json](./105990-jugipaint.json) |
 | Juglr | 382226 | [382226-juglr.json](./382226-juglr.json) |
 | Jugs Bay | 304618 | [304618-jugs-bay.json](./304618-jugs-bay.json) |
