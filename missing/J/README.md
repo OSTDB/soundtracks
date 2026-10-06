@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Combat Simulations: F-15 | 73498 | [73498-janes-combat-simulations-f-15.json](./73498-janes-combat-simulations-f-15.json) |
+| Jane's Combat Simulations: Fighters Anthology | 70020 | [70020-janes-combat-simulations-fighters-anthology.json](./70020-janes-combat-simulations-fighters-anthology.json) |
 | Jane's Combat Simulations: Israeli Air Force | 72071 | [72071-janes-combat-simulations-israeli-air-force.json](./72071-janes-combat-simulations-israeli-air-force.json) |
 | Jane's Combat Simulations: Longbow Gold | 73363 | [73363-janes-combat-simulations-longbow-gold.json](./73363-janes-combat-simulations-longbow-gold.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumble | 245461 | [245461-jumble.json](./245461-jumble.json) |
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
 | Jumble Madness | 92053 | [92053-jumble-madness.json](./92053-jumble-madness.json) |
+| Jumble: That Scrambled Word Game | 70053 | [70053-jumble-that-scrambled-word-game.json](./70053-jumble-that-scrambled-word-game.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
