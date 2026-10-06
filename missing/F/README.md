@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2011: Equipment Pack 1 | 166087 | [166087-farming-simulator-2011-equipment-pack-1.json](./166087-farming-simulator-2011-equipment-pack-1.json) |
 | Farming Simulator 2011: Equipment Pack 2 | 166088 | [166088-farming-simulator-2011-equipment-pack-2.json](./166088-farming-simulator-2011-equipment-pack-2.json) |
 | Farming Simulator 2011: Equipment Pack 3 | 166089 | [166089-farming-simulator-2011-equipment-pack-3.json](./166089-farming-simulator-2011-equipment-pack-3.json) |
+| Farming Simulator 2012 | 65282 | [65282-farming-simulator-2012.json](./65282-farming-simulator-2012.json) |
 | Farming Simulator 2013 | 3180 | [3180-farming-simulator-2013.json](./3180-farming-simulator-2013.json) |
 | Farming Simulator 2013: Classics | 166095 | [166095-farming-simulator-2013-classics.json](./166095-farming-simulator-2013-classics.json) |
 | Farming Simulator 2013: Lindner Unitrac | 166093 | [166093-farming-simulator-2013-lindner-unitrac.json](./166093-farming-simulator-2013-lindner-unitrac.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fraxy | 124574 | [124574-fraxy.json](./124574-fraxy.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
+| Fray in Magical Adventure CD: Xak Gaiden | 65273 | [65273-fray-in-magical-adventure-cd-xak-gaiden.json](./65273-fray-in-magical-adventure-cd-xak-gaiden.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
