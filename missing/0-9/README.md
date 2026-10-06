@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Spiele 1 Diskette | 130283 | [130283-4-spiele-1-diskette.json](./130283-4-spiele-1-diskette.json) |
 | 4 Stones | 117177 | [117177-4-stones.json](./117177-4-stones.json) |
 | 4 The Elements | 212898 | [212898-4-the-elements.json](./212898-4-the-elements.json) |
+| 4 Travellers: Play Spanish | 76175 | [76175-4-travellers-play-spanish.json](./76175-4-travellers-play-spanish.json) |
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4 Wheel Madness | 326748 | [326748-4-wheel-madness.json](./326748-4-wheel-madness.json) |
 | 4 Wheel Thunder | 3701 | [3701-4-wheel-thunder.json](./3701-4-wheel-thunder.json) |
