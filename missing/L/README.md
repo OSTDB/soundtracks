@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landscapes | 90390 | [90390-landscapes.json](./90390-landscapes.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
 | Landstalker | 15072 | [15072-landstalker.json](./15072-landstalker.json) |
+| Landwars | 90175 | [90175-landwars.json](./90175-landwars.json) |
 | Lane Drifter | 365901 | [365901-lane-drifter.json](./365901-lane-drifter.json) |
 | Lane Mastodon vs. the Blubbermen | 59855 | [59855-lane-mastodon-vs-the-blubbermen.json](./59855-lane-mastodon-vs-the-blubbermen.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
 | Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
+| Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
@@ -4504,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in MaLul | 219146 | [219146-lost-in-malul.json](./219146-lost-in-malul.json) |
 | Lost In Memories | 303634 | [303634-lost-in-memories.json](./303634-lost-in-memories.json) |
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
+| Lost In Night | 90202 | [90202-lost-in-night.json](./90202-lost-in-night.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
