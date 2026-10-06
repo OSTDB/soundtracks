@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
+| Infinite Chili Sauce | 115551 | [115551-infinite-chili-sauce.json](./115551-infinite-chili-sauce.json) |
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
 | Infinite Coaster | 303581 | [303581-infinite-coaster.json](./303581-infinite-coaster.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
