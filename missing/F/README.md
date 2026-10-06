@@ -7120,6 +7120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
+| Full House | 79540 | [79540-full-house.json](./79540-full-house.json) |
 | Full House Casino | 333101 | [333101-full-house-casino.json](./333101-full-house-casino.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
 | Full House Kiss 2 | 204392 | [204392-full-house-kiss-2.json](./204392-full-house-kiss-2.json) |
