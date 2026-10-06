@@ -1958,7 +1958,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
 | Scrap Race | 181331 | [181331-scrap-race.json](./181331-scrap-race.json) |
+| Scrap Rush!! | 113588 | [113588-scrap-rush.json](./113588-scrap-rush.json) |
 | Scrap Squadrons | 393459 | [393459-scrap-squadrons.json](./393459-scrap-squadrons.json) |
+| Scrap Story | 113595 | [113595-scrap-story.json](./113595-scrap-story.json) |
 | Scrap Wars: Td | 348797 | [348797-scrap-wars-td.json](./348797-scrap-wars-td.json) |
 | Scrapbook Memories | 302605 | [302605-scrapbook-memories.json](./302605-scrapbook-memories.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
@@ -1989,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream and Steel: Horror Story Shooter | 284493 | [284493-scream-and-steel-horror-story-shooter.json](./284493-scream-and-steel-horror-story-shooter.json) |
 | Scream Collector | 74450 | [74450-scream-collector.json](./74450-scream-collector.json) |
 | Scream Hero | 194000 | [194000-scream-hero.json](./194000-scream-hero.json) |
+| Scream of the Viking | 113615 | [113615-scream-of-the-viking.json](./113615-scream-of-the-viking.json) |
 | Scream of the Viking 2 | 113871 | [113871-scream-of-the-viking-2.json](./113871-scream-of-the-viking-2.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
@@ -4020,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
 | Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
+| Shaoye | 113612 | [113612-shaoye.json](./113612-shaoye.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
 | Shape Boxing 2: Wii de Enjoy Diet! | 136886 | [136886-shape-boxing-2-wii-de-enjoy-diet.json](./136886-shape-boxing-2-wii-de-enjoy-diet.json) |
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
@@ -5140,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoulder-Mounted Space Program | 373533 | [373533-shoulder-mounted-space-program.json](./373533-shoulder-mounted-space-program.json) |
 | Shouldermen | 293651 | [293651-shouldermen.json](./293651-shouldermen.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
+| Shoumetsu Toshi: Afterlost | 113589 | [113589-shoumetsu-toshi-afterlost.json](./113589-shoumetsu-toshi-afterlost.json) |
 | Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
@@ -6659,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
+| Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
@@ -7355,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
+| Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
@@ -9898,6 +9905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
+| Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
@@ -10860,6 +10868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Runaway | 236224 | [236224-space-runaway.json](./236224-space-runaway.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
+| Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
 | Space Scavengers | 278471 | [278471-space-scavengers.json](./278471-space-scavengers.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
@@ -13002,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
+| Star Destroyer | 113618 | [113618-star-destroyer.json](./113618-star-destroyer.json) |
 | Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
@@ -13231,6 +13241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Online: Awakening | 121530 | [121530-star-trek-online-awakening.json](./121530-star-trek-online-awakening.json) |
 | Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
+| Star Trek Online: Victory is Life | 113621 | [113621-star-trek-online-victory-is-life.json](./113621-star-trek-online-victory-is-life.json) |
 | Star Trek Pinball | 72149 | [72149-star-trek-pinball.json](./72149-star-trek-pinball.json) |
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Scene It? | 216322 | [216322-star-trek-scene-it.json](./216322-star-trek-scene-it.json) |
@@ -16669,6 +16680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
 | Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
 | Super Blood Hockey: Rogue Manager | 410956 | [410956-super-blood-hockey-rogue-manager.json](./410956-super-blood-hockey-rogue-manager.json) |
+| Super Blox | 113576 | [113576-super-blox.json](./113576-super-blox.json) |
 | Super Blue Fighter | 32965 | [32965-super-blue-fighter.json](./32965-super-blue-fighter.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
