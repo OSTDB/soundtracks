@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven II | 357402 | [357402-raven-ii.json](./357402-raven-ii.json) |
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
+| Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
 | Raven's Point | 156569 | [156569-ravens-point.json](./156569-ravens-point.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
+| Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Control Fun Airplanes | 104443 | [104443-remote-control-fun-airplanes.json](./104443-remote-control-fun-airplanes.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
@@ -4722,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
+| Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
