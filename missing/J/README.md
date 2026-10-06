@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | JumpStream | 107374 | [107374-jumpstream.json](./107374-jumpstream.json) |
+| Jumputi Heroes | 86425 | [86425-jumputi-heroes.json](./86425-jumputi-heroes.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
 | Jumpy 1D: Christmas Edition | 273950 | [273950-jumpy-1d-christmas-edition.json](./273950-jumpy-1d-christmas-edition.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
@@ -2380,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
+| Juuouki | 86410 | [86410-juuouki.json](./86410-juuouki.json) |
 | Juurin | 93986 | [93986-juurin.json](./93986-juurin.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
