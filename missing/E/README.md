@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engolasters January 2021 | 142111 | [142111-engolasters-january-2021.json](./142111-engolasters-january-2021.json) |
 | Engraven | 309460 | [309460-engraven.json](./309460-engraven.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
+| EnHanced | 110901 | [110901-enhanced.json](./110901-enhanced.json) |
 | Enhanced Militarized Zone | 362474 | [362474-enhanced-militarized-zone.json](./362474-enhanced-militarized-zone.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enherjar Synergy: Aplankhan & Sioykos | 192156 | [192156-enherjar-synergy-aplankhan-and-sioykos.json](./192156-enherjar-synergy-aplankhan-and-sioykos.json) |
