@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
+| Marbles Temple: Zuma Back! | 68916 | [68916-marbles-temple-zuma-back.json](./68916-marbles-temple-zuma-back.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
+| Missile Defender | 68915 | [68915-missile-defender.json](./68915-missile-defender.json) |
 | Missile Defense | 278093 | [278093-missile-defense.json](./278093-missile-defense.json) |
 | Missile Dude | 107096 | [107096-missile-dude.json](./107096-missile-dude.json) |
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
@@ -8340,10 +8342,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
+| Mondrian Provoked | 68896 | [68896-mondrian-provoked.json](./68896-mondrian-provoked.json) |
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
 | Mondschein | 122220 | [122220-mondschein.json](./122220-mondschein.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
+| Money Bags: Beat the Gnome of Zurich | 68886 | [68886-money-bags-beat-the-gnome-of-zurich.json](./68886-money-bags-beat-the-gnome-of-zurich.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
@@ -8983,6 +8987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montessori Music | 80465 | [80465-montessori-music.json](./80465-montessori-music.json) |
 | Montevisoft | 28198 | [28198-montevisoft.json](./28198-montevisoft.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
+| Montezuma Puzzle 3 | 68914 | [68914-montezuma-puzzle-3.json](./68914-montezuma-puzzle-3.json) |
+| Montezuma Puzzle 4 | 68913 | [68913-montezuma-puzzle-4.json](./68913-montezuma-puzzle-4.json) |
 | Montezuma's Quest | 146738 | [146738-montezumas-quest.json](./146738-montezumas-quest.json) |
 | Montezuma's Return! | 135103 | [135103-montezumas-return.json](./135103-montezumas-return.json) |
 | Montezuma's Return! | 36903 | [36903-montezumas-return.json](./36903-montezumas-return.json) |
