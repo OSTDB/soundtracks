@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica's Life: The Beginning | 368115 | [368115-jessicas-life-the-beginning.json](./368115-jessicas-life-the-beginning.json) |
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
+| Jessy: Ein Zirkuspferd in Not | 85736 | [85736-jessy-ein-zirkuspferd-in-not.json](./85736-jessy-ein-zirkuspferd-in-not.json) |
 | Jester | 251714 | [251714-jester.json](./251714-jester.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jester Street: Card Counting Trainer | 186029 | [186029-jester-street-card-counting-trainer.json](./186029-jester-street-card-counting-trainer.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
 | Junior Brain Trainer | 23270 | [23270-junior-brain-trainer.json](./23270-junior-brain-trainer.json) |
 | Junior Brain Trainer 2 | 210004 | [210004-junior-brain-trainer-2.json](./210004-junior-brain-trainer-2.json) |
+| Junior Classic Books and Fairytales | 85716 | [85716-junior-classic-books-and-fairytales.json](./85716-junior-classic-books-and-fairytales.json) |
 | Junior Classic Games | 338790 | [338790-junior-classic-games.json](./338790-junior-classic-games.json) |
 | Junior Classic Games 3D | 122193 | [122193-junior-classic-games-3d.json](./122193-junior-classic-games-3d.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
