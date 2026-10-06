@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Maze | 72969 | [72969-mad-maze.json](./72969-mad-maze.json) |
 | Mad Merchant | 408875 | [408875-mad-merchant.json](./408875-mad-merchant.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
+| Mad Mix 2: El Castillo de los Fantasmas | 73468 | [73468-mad-mix-2-el-castillo-de-los-fantasmas.json](./73468-mad-mix-2-el-castillo-de-los-fantasmas.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Mosh | 158091 | [158091-mad-mosh.json](./158091-mad-mosh.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
 | Magic Rush: Heroes | 57159 | [57159-magic-rush-heroes.json](./57159-magic-rush-heroes.json) |
 | Magic Sand Escape | 315593 | [315593-magic-sand-escape.json](./315593-magic-sand-escape.json) |
+| Magic School Bus Discovers Flight | 73488 | [73488-magic-school-bus-discovers-flight.json](./73488-magic-school-bus-discovers-flight.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
@@ -1976,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maria 2: Jutai Kokuchi no Nazo | 74346 | [74346-maria-2-jutai-kokuchi-no-nazo.json](./74346-maria-2-jutai-kokuchi-no-nazo.json) |
 | Maria the Witch | 33406 | [33406-maria-the-witch.json](./33406-maria-the-witch.json) |
 | Maria-sama ga Gyakuten | 97525 | [97525-maria-sama-ga-gyakuten.json](./97525-maria-sama-ga-gyakuten.json) |
+| Maria: Kimitachi ga Umareta Wake | 73496 | [73496-maria-kimitachi-ga-umareta-wake.json](./73496-maria-kimitachi-ga-umareta-wake.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariachi Legends | 252852 | [252852-mariachi-legends.json](./252852-mariachi-legends.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
@@ -3777,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Snake | 148130 | [148130-mecha-snake.json](./148130-mecha-snake.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
+| Mecha Taisen on Planet Oldskool | 73497 | [73497-mecha-taisen-on-planet-oldskool.json](./73497-mecha-taisen-on-planet-oldskool.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
 | MechaBlade Hero | 307039 | [307039-mechablade-hero.json](./307039-mechablade-hero.json) |
@@ -6341,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
+| Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
@@ -9353,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
+| Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphite | 27314 | [27314-morphite.json](./27314-morphite.json) |
