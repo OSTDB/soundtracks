@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Duel Monsters | 57150 | [57150-yu-gi-oh-duel-monsters.json](./57150-yu-gi-oh-duel-monsters.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Jonouchi Deck | 334709 | [334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json](./334709-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-jonouchi-deck.json) |
 | Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist - Kaiba Deck | 334708 | [334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json](./334708-yu-gi-oh-duel-monsters-4-battle-of-great-duelist-kaiba-deck.json) |
+| Yu-Gi-Oh! Duel Monsters Saikyo Card Battle | 58652 | [58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json](./58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json) |
 | Yu-Gi-Oh! Early Days Collection | 309038 | [309038-yu-gi-oh-early-days-collection.json](./309038-yu-gi-oh-early-days-collection.json) |
 | Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! Forbidden Memories II Ultimate | 308412 | [308412-yu-gi-oh-forbidden-memories-ii-ultimate.json](./308412-yu-gi-oh-forbidden-memories-ii-ultimate.json) |
