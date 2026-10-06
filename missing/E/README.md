@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
+| Electronic Stock Trading System | 107736 | [107736-electronic-stock-trading-system.json](./107736-electronic-stock-trading-system.json) |
 | Electronic Super Joy 2 | 120745 | [120745-electronic-super-joy-2.json](./120745-electronic-super-joy-2.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
 | Electronic Super Joy: Bonus Content Pack! | 156066 | [156066-electronic-super-joy-bonus-content-pack.json](./156066-electronic-super-joy-bonus-content-pack.json) |
