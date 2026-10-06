@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
+| Pendu | 94390 | [94390-pendu.json](./94390-pendu.json) |
 | Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
+| Premier Picks | 94407 | [94407-premier-picks.json](./94407-premier-picks.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premier Soccer | 40397 | [40397-premier-soccer.json](./40397-premier-soccer.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
@@ -8139,6 +8141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Hockey | 69368 | [69368-pro-hockey.json](./69368-pro-hockey.json) |
 | Pro Jank Footy | 376006 | [376006-pro-jank-footy.json](./376006-pro-jank-footy.json) |
 | Pro Kishi Jinsei Simulation: Shogi no Hanamichi | 37876 | [37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json](./37876-pro-kishi-jinsei-simulation-shogi-no-hanamichi.json) |
+| Pro League Baseball | 94422 | [94422-pro-league-baseball.json](./94422-pro-league-baseball.json) |
 | Pro Mahjong Kiwame | 138094 | [138094-pro-mahjong-kiwame.json](./138094-pro-mahjong-kiwame.json) |
 | Pro Mahjong Kiwame 64 | 97880 | [97880-pro-mahjong-kiwame-64.json](./97880-pro-mahjong-kiwame-64.json) |
 | Pro Mahjong Kiwame D | 97874 | [97874-pro-mahjong-kiwame-d.json](./97874-pro-mahjong-kiwame-d.json) |
@@ -8172,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
 | Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
+| Pro Rugby Manager | 94388 | [94388-pro-rugby-manager.json](./94388-pro-rugby-manager.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
