@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Named Spirit | 254567 | [254567-cat-named-spirit.json](./254567-cat-named-spirit.json) |
 | Cat Nap | 380061 | [380061-cat-nap.json](./380061-cat-nap.json) |
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
+| Cat Ninja: The Quest for Magic Energy Crystals | 74706 | [74706-cat-ninja-the-quest-for-magic-energy-crystals.json](./74706-cat-ninja-the-quest-for-magic-energy-crystals.json) |
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
@@ -2328,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
+| Caterpillar | 74708 | [74708-caterpillar.json](./74708-caterpillar.json) |
 | Caterpillar Construction Zone | 37283 | [37283-caterpillar-construction-zone.json](./37283-caterpillar-construction-zone.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
@@ -5187,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clans Logue | 259718 | [259718-clans-logue.json](./259718-clans-logue.json) |
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
+| Clapper - A rhythm and clap game! | 74697 | [74697-clapper-a-rhythm-and-clap-game.json](./74697-clapper-a-rhythm-and-clap-game.json) |
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
 | Clara Rockmore’s 105th Birthday | 375819 | [375819-clara-rockmore-s-105th-birthday.json](./375819-clara-rockmore-s-105th-birthday.json) |
 | Clara Stirzaker and the Crypt of Time | 185524 | [185524-clara-stirzaker-and-the-crypt-of-time.json](./185524-clara-stirzaker-and-the-crypt-of-time.json) |
@@ -8911,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
+| Crawl Space: The Mansion | 74674 | [74674-crawl-space-the-mansion.json](./74674-crawl-space-the-mansion.json) |
 | Crawl Tactics | 211211 | [211211-crawl-tactics.json](./211211-crawl-tactics.json) |
 | Crawl to Edge | 234621 | [234621-crawl-to-edge.json](./234621-crawl-to-edge.json) |
 | Crawlco Block Knockers | 144623 | [144623-crawlco-block-knockers.json](./144623-crawlco-block-knockers.json) |
