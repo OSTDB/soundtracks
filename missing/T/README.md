@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Angel | 229837 | [229837-tamagotchi-angel.json](./229837-tamagotchi-angel.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
 | Tamagotchi CD-ROM | 98933 | [98933-tamagotchi-cd-rom.json](./98933-tamagotchi-cd-rom.json) |
+| Tamagotchi Collection | 77579 | [77579-tamagotchi-collection.json](./77579-tamagotchi-collection.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
 | Tamagotchi Connection | 312621 | [312621-tamagotchi-connection.json](./312621-tamagotchi-connection.json) |
 | Tamagotchi Connection V2 | 229943 | [229943-tamagotchi-connection-v2.json](./229943-tamagotchi-connection-v2.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Nano Colorful Hololive Fantasitchi | 320984 | [320984-tamagotchi-nano-colorful-hololive-fantasitchi.json](./320984-tamagotchi-nano-colorful-hololive-fantasitchi.json) |
 | Tamagotchi Nano Peanuts | 348959 | [348959-tamagotchi-nano-peanuts.json](./348959-tamagotchi-nano-peanuts.json) |
 | Tamagotchi no Appare! Niji-Venture | 77623 | [77623-tamagotchi-no-appare-niji-venture.json](./77623-tamagotchi-no-appare-niji-venture.json) |
+| Tamagotchi no Doki-doki Dream Omisecchi | 77575 | [77575-tamagotchi-no-doki-doki-dream-omisecchi.json](./77575-tamagotchi-no-doki-doki-dream-omisecchi.json) |
 | Tamagotchi no Furi Furi Kagekidan! | 77620 | [77620-tamagotchi-no-furi-furi-kagekidan.json](./77620-tamagotchi-no-furi-furi-kagekidan.json) |
 | Tamagotchi no Kira-kira Omisecchi | 342891 | [342891-tamagotchi-no-kira-kira-omisecchi.json](./342891-tamagotchi-no-kira-kira-omisecchi.json) |
 | Tamagotchi no Kira-kira Omisecchi | 77625 | [77625-tamagotchi-no-kira-kira-omisecchi.json](./77625-tamagotchi-no-kira-kira-omisecchi.json) |
@@ -1001,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi no Narikiri Channel | 77624 | [77624-tamagotchi-no-narikiri-channel.json](./77624-tamagotchi-no-narikiri-channel.json) |
 | Tamagotchi no Pichi Pichi Omisecchi | 77622 | [77622-tamagotchi-no-pichi-pichi-omisecchi.json](./77622-tamagotchi-no-pichi-pichi-omisecchi.json) |
 | Tamagotchi no Pika Pika Daitouryou! | 20652 | [20652-tamagotchi-no-pika-pika-daitouryou.json](./20652-tamagotchi-no-pika-pika-daitouryou.json) |
+| Tamagotchi no Puchi Puchi Omisecchi: Ninko no Omise Atsumemashita | 77580 | [77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json](./77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json) |
 | Tamagotchi Plaza: Nintendo Switch 2 Edition | 338111 | [338111-tamagotchi-plaza-nintendo-switch-2-edition.json](./338111-tamagotchi-plaza-nintendo-switch-2-edition.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
@@ -17247,6 +17250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger | 179070 | [179070-trigger.json](./179070-trigger.json) |
 | Trigger | 63910 | [63910-trigger.json](./63910-trigger.json) |
 | Trigger Fever | 254657 | [254657-trigger-fever.json](./254657-trigger-fever.json) |
+| Trigger Finger | 77589 | [77589-trigger-finger.json](./77589-trigger-finger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
