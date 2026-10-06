@@ -204,7 +204,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
+| Hajime no Ippo: The Fighting! 2 - Victorious Road | 61450 | [61450-hajime-no-ippo-the-fighting-2-victorious-road.json](./61450-hajime-no-ippo-the-fighting-2-victorious-road.json) |
 | Hajime no Ippo: The Fighting! DS | 70566 | [70566-hajime-no-ippo-the-fighting-ds.json](./70566-hajime-no-ippo-the-fighting-ds.json) |
+| Hajime no Ippo: The Fighting! Portable - Victorious Spirits | 61447 | [61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json](./61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json) |
 | Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajimete no Eigo: Typing & Puzzle Keyboard Hairetsu mo Manaberu Youji-muke Gakushuu Benkyou Game | 274650 | [274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json](./274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
+| Hero Bank | 61446 | [61446-hero-bank.json](./61446-hero-bank.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
@@ -5217,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Hon Shogi | 228563 | [228563-hon-shogi.json](./228563-hon-shogi.json) |
 | Honcho | 303564 | [303564-honcho.json](./303564-honcho.json) |
+| Honda ATV Fever | 61461 | [61461-honda-atv-fever.json](./61461-honda-atv-fever.json) |
 | Hondune's Truck Trials | 259070 | [259070-hondunes-truck-trials.json](./259070-hondunes-truck-trials.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
@@ -6850,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
+| Hyakko: Yorozuya Jikenbo! | 61452 | [61452-hyakko-yorozuya-jikenbo.json](./61452-hyakko-yorozuya-jikenbo.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyakuretsuken: Hokuto no Ken Gekiuchi 3 | 64183 | [64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json](./64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json) |
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
