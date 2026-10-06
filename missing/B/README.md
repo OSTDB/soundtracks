@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Love Shop | 138564 | [138564-beach-love-shop.json](./138564-beach-love-shop.json) |
 | Beach Mini Golf 2 | 243740 | [243740-beach-mini-golf-2.json](./243740-beach-mini-golf-2.json) |
+| Beach Paddle | 65860 | [65860-beach-paddle.json](./65860-beach-paddle.json) |
 | Beach Ping Pong Babes VR | 311171 | [311171-beach-ping-pong-babes-vr.json](./311171-beach-ping-pong-babes-vr.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
 | Beach Relaxation VR | 160146 | [160146-beach-relaxation-vr.json](./160146-beach-relaxation-vr.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
 | Boulder Dash Construction Kit | 12943 | [12943-boulder-dash-construction-kit.json](./12943-boulder-dash-construction-kit.json) |
 | Boulder Dash EX | 78733 | [78733-boulder-dash-ex.json](./78733-boulder-dash-ex.json) |
+| Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
@@ -7752,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
+| Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
 | Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
@@ -8467,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Maker | 344515 | [344515-brick-breaker-maker.json](./344515-brick-breaker-maker.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Revolution | 383630 | [383630-brick-breaker-revolution.json](./383630-brick-breaker-revolution.json) |
+| Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
 | Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
@@ -10027,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
+| By Any Means Necessary | 65818 | [65818-by-any-means-necessary.json](./65818-by-any-means-necessary.json) |
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
 | By God Your Anger is Beautiful | 182881 | [182881-by-god-your-anger-is-beautiful.json](./182881-by-god-your-anger-is-beautiful.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
