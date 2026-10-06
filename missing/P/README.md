@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
+| Perfect Ace: Pro Tournament Tennis | 67639 | [67639-perfect-ace-pro-tournament-tennis.json](./67639-perfect-ace-pro-tournament-tennis.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoPoLoCrois Monogatari | 63015 | [63015-popolocrois-monogatari.json](./63015-popolocrois-monogatari.json) |
 | PoPoLoCrois Monogatari II | 63016 | [63016-popolocrois-monogatari-ii.json](./63016-popolocrois-monogatari-ii.json) |
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
+| PoPoLoCrois: Narcia's Tears and the Fairy's Flute | 67627 | [67627-popolocrois-narcias-tears-and-the-fairys-flute.json](./67627-popolocrois-narcias-tears-and-the-fairys-flute.json) |
 | Popologist: Camera Slinger | 252274 | [252274-popologist-camera-slinger.json](./252274-popologist-camera-slinger.json) |
 | Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
@@ -7184,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postman Pat 3: To the Rescue | 64095 | [64095-postman-pat-3-to-the-rescue.json](./64095-postman-pat-3-to-the-rescue.json) |
 | Postman Pat and the Greendale Rocket | 49477 | [49477-postman-pat-and-the-greendale-rocket.json](./49477-postman-pat-and-the-greendale-rocket.json) |
+| Postman Pat: Special Delivery Service | 67618 | [67618-postman-pat-special-delivery-service.json](./67618-postman-pat-special-delivery-service.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
@@ -9348,6 +9351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puliton | 92110 | [92110-puliton.json](./92110-puliton.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
+| Pull Dots | 67622 | [67622-pull-dots.json](./67622-pull-dots.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
 | Pull Stay | 126994 | [126994-pull-stay.json](./126994-pull-stay.json) |
@@ -9942,6 +9946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Iroiro: Gekkan Crossword House Vol.1 | 78894 | [78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json](./78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json) |
 | Puzzle Iroiro: Gekkan Crossword House Vol.2 | 78892 | [78892-puzzle-iroiro-gekkan-crossword-house-vol-2.json](./78892-puzzle-iroiro-gekkan-crossword-house-vol-2.json) |
 | Puzzle Iroiro: Gekkan Crossword House Vol.3 | 78893 | [78893-puzzle-iroiro-gekkan-crossword-house-vol-3.json](./78893-puzzle-iroiro-gekkan-crossword-house-vol-3.json) |
+| Puzzle Iroiro: Gekkan Crossword House Vol.4 | 67702 | [67702-puzzle-iroiro-gekkan-crossword-house-vol-4.json](./67702-puzzle-iroiro-gekkan-crossword-house-vol-4.json) |
 | Puzzle Island VR | 30096 | [30096-puzzle-island-vr.json](./30096-puzzle-island-vr.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
