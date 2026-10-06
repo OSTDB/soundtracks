@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtrek | 93368 | [93368-xtrek.json](./93368-xtrek.json) |
 | Xtreme Air Racing | 61165 | [61165-xtreme-air-racing.json](./61165-xtreme-air-racing.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
+| Xtreme Break Chain Rivals | 96319 | [96319-xtreme-break-chain-rivals.json](./96319-xtreme-break-chain-rivals.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xtreme Golf 2003 | 181708 | [181708-xtreme-golf-2003.json](./181708-xtreme-golf-2003.json) |
 | Xtreme Paddleball | 89394 | [89394-xtreme-paddleball.json](./89394-xtreme-paddleball.json) |
