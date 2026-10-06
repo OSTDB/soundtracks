@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
+| Venice Mystery | 64731 | [64731-venice-mystery.json](./64731-venice-mystery.json) |
 | Venice Taxi Boats | 218373 | [218373-venice-taxi-boats.json](./218373-venice-taxi-boats.json) |
 | Venison County | 387672 | [387672-venison-county.json](./387672-venison-county.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
