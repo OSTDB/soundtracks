@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Sea Wolf | 241463 | [241463-operation-sea-wolf.json](./241463-operation-sea-wolf.json) |
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
+| Operation Shadow | 72916 | [72916-operation-shadow.json](./72916-operation-shadow.json) |
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
 | Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
 | Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
