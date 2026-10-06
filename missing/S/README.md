@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
+| Savage Worlds | 58078 | [58078-savage-worlds.json](./58078-savage-worlds.json) |
 | Savage: Resurrection | 19277 | [19277-savage-resurrection.json](./19277-savage-resurrection.json) |
 | Savage: The Battle for Newerth | 2247 | [2247-savage-the-battle-for-newerth.json](./2247-savage-the-battle-for-newerth.json) |
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
@@ -2599,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
 | Secret Tea Garden | 209942 | [209942-secret-tea-garden.json](./209942-secret-tea-garden.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
+| Secret Ties | 58077 | [58077-secret-ties.json](./58077-secret-ties.json) |
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
@@ -4821,7 +4823,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinseiki Evangelion: Typing Hokan Keikaku | 209939 | [209939-shinseiki-evangelion-typing-hokan-keikaku.json](./209939-shinseiki-evangelion-typing-hokan-keikaku.json) |
+| Shinseiki GPX Cyber Formula | 58063 | [58063-shinseiki-gpx-cyber-formula.json](./58063-shinseiki-gpx-cyber-formula.json) |
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
+| Shinseiki GPX Cyber Formula Vs. | 58055 | [58055-shinseiki-gpx-cyber-formula-vs.json](./58055-shinseiki-gpx-cyber-formula-vs.json) |
+| Shinseiki GPX Cyber Formula: Road to the Infinity 2 | 58058 | [58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json](./58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json) |
+| Shinseiki GPX Cyber Formula: Road to the Infinity 3 | 58060 | [58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json](./58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json) |
+| Shinseiki GPX Cyber Formula: Road to the Infinity 4 | 58059 | [58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json](./58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
 | Shinsengumi Fukuchou no Yuuga na Hitotoki | 163348 | [163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json](./163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json) |
@@ -18875,6 +18882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
 | SuperMind | 86906 | [86906-supermind.json](./86906-supermind.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
+| SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
