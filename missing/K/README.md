@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
+| Kingdoms at War | 61455 | [61455-kingdoms-at-war.json](./61455-kingdoms-at-war.json) |
 | Kingdoms Conquer | 368054 | [368054-kingdoms-conquer.json](./368054-kingdoms-conquer.json) |
 | Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitaria Fables: Deluxe Edition | 166686 | [166686-kitaria-fables-deluxe-edition.json](./166686-kitaria-fables-deluxe-edition.json) |
 | Kitaria Fables: Digital Deluxe Edition | 167180 | [167180-kitaria-fables-digital-deluxe-edition.json](./167180-kitaria-fables-digital-deluxe-edition.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
+| Kitaru | 61428 | [61428-kitaru.json](./61428-kitaru.json) |
 | Kitbashers United | 307735 | [307735-kitbashers-united.json](./307735-kitbashers-united.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitchen Chaos | 232921 | [232921-kitchen-chaos.json](./232921-kitchen-chaos.json) |
