@@ -5920,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
 | The Hardest Game in the Universe: Kangel | 170905 | [170905-the-hardest-game-in-the-universe-kangel.json](./170905-the-hardest-game-in-the-universe-kangel.json) |
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
+| The Hardy Boys: The Perfect Crime | 66340 | [66340-the-hardy-boys-the-perfect-crime.json](./66340-the-hardy-boys-the-perfect-crime.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
 | The Harmony Chronicles: Cat Out of the Bag | 416708 | [416708-the-harmony-chronicles-cat-out-of-the-bag.json](./416708-the-harmony-chronicles-cat-out-of-the-bag.json) |
@@ -5927,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
 | The Harvest | 130220 | [130220-the-harvest.json](./130220-the-harvest.json) |
+| The Harvest | 66425 | [66425-the-harvest.json](./66425-the-harvest.json) |
 | The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hate Flow | 261454 | [261454-the-hate-flow.json](./261454-the-hate-flow.json) |
@@ -7247,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life of Saint Fiona Bianco Xena | 191748 | [191748-the-life-of-saint-fiona-bianco-xena.json](./191748-the-life-of-saint-fiona-bianco-xena.json) |
+| The Life Stage: Virtual House | 66410 | [66410-the-life-stage-virtual-house.json](./66410-the-life-stage-virtual-house.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
@@ -7895,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Demastered | 36856 | [36856-the-mummy-demastered.json](./36856-the-mummy-demastered.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
+| The Muppet CD-ROM: Muppets Inside | 66343 | [66343-the-muppet-cd-rom-muppets-inside.json](./66343-the-muppet-cd-rom-muppets-inside.json) |
 | The Muppets: On with the Show! | 49321 | [49321-the-muppets-on-with-the-show.json](./49321-the-muppets-on-with-the-show.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Murder of Ava Monroe | 377685 | [377685-the-murder-of-ava-monroe.json](./377685-the-murder-of-ava-monroe.json) |
@@ -8750,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
+| The Revenants: Corridor of Souls | 66421 | [66421-the-revenants-corridor-of-souls.json](./66421-the-revenants-corridor-of-souls.json) |
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
@@ -9177,6 +9182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
+| The Siege of Khe Sanh | 66412 | [66412-the-siege-of-khe-sanh.json](./66412-the-siege-of-khe-sanh.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
 | The Signal State | 157524 | [157524-the-signal-state.json](./157524-the-signal-state.json) |
@@ -9656,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
+| The Struggle For Russia | 66441 | [66441-the-struggle-for-russia.json](./66441-the-struggle-for-russia.json) |
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
 | The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
 | The Stubborn of WakGood | 231450 | [231450-the-stubborn-of-wakgood.json](./231450-the-stubborn-of-wakgood.json) |
@@ -15208,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
+| Tower Bloxx: New York | 66423 | [66423-tower-bloxx-new-york.json](./66423-tower-bloxx-new-york.json) |
 | Tower Boxing | 344025 | [344025-tower-boxing.json](./344025-tower-boxing.json) |
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
 | Tower Clash | 200005 | [200005-tower-clash.json](./200005-tower-clash.json) |
