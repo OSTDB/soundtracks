@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segment | 93728 | [93728-segment.json](./93728-segment.json) |
 | Sehoni Island: Monsters and Adventures | 236843 | [236843-sehoni-island-monsters-and-adventures.json](./236843-sehoni-island-monsters-and-adventures.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
+| Sei Monmusu Gakuen | 77606 | [77606-sei-monmusu-gakuen.json](./77606-sei-monmusu-gakuen.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
