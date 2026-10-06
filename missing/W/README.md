@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
+| War in the Gulf | 80823 | [80823-war-in-the-gulf.json](./80823-war-in-the-gulf.json) |
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
 | War in the Pacific: Admiral's Edition | 129538 | [129538-war-in-the-pacific-admirals-edition.json](./129538-war-in-the-pacific-admirals-edition.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War: 13th Day | 75221 | [75221-war-13th-day.json](./75221-war-13th-day.json) |
+| War: Final Assault | 80794 | [80794-war-final-assault.json](./80794-war-final-assault.json) |
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
 | War7 | 31137 | [31137-war7.json](./31137-war7.json) |
@@ -3203,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windah Horror Adventure 2 | 287698 | [287698-windah-horror-adventure-2.json](./287698-windah-horror-adventure-2.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
+| Windfall | 80785 | [80785-windfall.json](./80785-windfall.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
