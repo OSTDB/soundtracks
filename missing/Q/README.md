@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB - a cube's tale | 96911 | [96911-qb-a-cubes-tale.json](./96911-qb-a-cubes-tale.json) |
 | QB Debugger Hero | 384786 | [384786-qb-debugger-hero.json](./384786-qb-debugger-hero.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
+| QB Sim | 106501 | [106501-qb-sim.json](./106501-qb-sim.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
 | Qbio | 168653 | [168653-qbio.json](./168653-qbio.json) |
