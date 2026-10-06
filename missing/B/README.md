@@ -6842,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
+| Bomb Disposer | 59805 | [59805-bomb-disposer.json](./59805-bomb-disposer.json) |
 | Bomb Escape | 149694 | [149694-bomb-escape.json](./149694-bomb-escape.json) |
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
@@ -7450,12 +7451,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
+| Botanica: Earthbound | 59824 | [59824-botanica-earthbound.json](./59824-botanica-earthbound.json) |
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
 | Botany Manor | 225426 | [225426-botany-manor.json](./225426-botany-manor.json) |
+| Both Barrels | 59782 | [59782-both-barrels.json](./59782-both-barrels.json) |
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
@@ -9020,6 +9023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
+| Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
