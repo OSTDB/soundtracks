@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
+| Neon Krieger Yamato | 82357 | [82357-neon-krieger-yamato.json](./82357-neon-krieger-yamato.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Life | 279859 | [279859-neon-life.json](./279859-neon-life.json) |
 | Neon Little Soul | 258562 | [258562-neon-little-soul.json](./258562-neon-little-soul.json) |
