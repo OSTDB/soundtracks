@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
 | Saiyan Legends | 96781 | [96781-saiyan-legends.json](./96781-saiyan-legends.json) |
 | Saiyan Saga | 90363 | [90363-saiyan-saga.json](./90363-saiyan-saga.json) |
+| Saiyan Warriors : Heroes | 105827 | [105827-saiyan-warriors-heroes.json](./105827-saiyan-warriors-heroes.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
@@ -9043,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
 | Solitaire Victor | 107066 | [107066-solitaire-victor.json](./107066-solitaire-victor.json) |
 | Solitaire VR | 30081 | [30081-solitaire-vr.json](./30081-solitaire-vr.json) |
+| Solitaire Whizz | 106016 | [106016-solitaire-whizz.json](./106016-solitaire-whizz.json) |
 | Solitaire World: Anime Waifus | 411822 | [411822-solitaire-world-anime-waifus.json](./411822-solitaire-world-anime-waifus.json) |
 | Solitaire XP Championship | 208875 | [208875-solitaire-xp-championship.json](./208875-solitaire-xp-championship.json) |
 | Solitaire XXX | 93375 | [93375-solitaire-xxx.json](./93375-solitaire-xxx.json) |
