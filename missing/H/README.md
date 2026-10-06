@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Amazon Girls | 368011 | [368011-hentai-amazon-girls.json](./368011-hentai-amazon-girls.json) |
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
+| Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Waifu 5 | 333734 | [333734-hentai-waifu-5.json](./333734-hentai-waifu-5.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
+| Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
 | Hentai World Apocalove | 371396 | [371396-hentai-world-apocalove.json](./371396-hentai-world-apocalove.json) |
 | Hentai World Bikini | 340460 | [340460-hentai-world-bikini.json](./340460-hentai-world-bikini.json) |
@@ -5670,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Bubble | 40194 | [40194-hot-bubble.json](./40194-hot-bubble.json) |
 | Hot Cam | 212196 | [212196-hot-cam.json](./212196-hot-cam.json) |
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
+| Hot Champions: Dream Team | 111612 | [111612-hot-champions-dream-team.json](./111612-hot-champions-dream-team.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Coffe Shop | 236773 | [236773-hot-coffe-shop.json](./236773-hot-coffe-shop.json) |
