@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Base | 308336 | [308336-jade-base.json](./308336-jade-base.json) |
 | Jade Cocoon 2 | 18079 | [18079-jade-cocoon-2.json](./18079-jade-cocoon-2.json) |
 | Jade Cocoon: Story of the Tamamayu | 45000 | [45000-jade-cocoon-story-of-the-tamamayu.json](./45000-jade-cocoon-story-of-the-tamamayu.json) |
+| Jade Dynasty: Vengeance | 66443 | [66443-jade-dynasty-vengeance.json](./66443-jade-dynasty-vengeance.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
 | Just Sing! | 81460 | [81460-just-sing.json](./81460-just-sing.json) |
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
+| Just Sing! National Anthems | 66438 | [66438-just-sing-national-anthems.json](./66438-just-sing-national-anthems.json) |
 | Just Ski | 75806 | [75806-just-ski.json](./75806-just-ski.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
