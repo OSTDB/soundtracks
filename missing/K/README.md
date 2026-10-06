@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
+| Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
 | Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Krater: Shadows over Solside | 2020 | [2020-krater-shadows-over-solside.json](./2020-krater-shadows-over-solside.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
+| Kräutermännchen | 91585 | [91585-krautermannchen.json](./91585-krautermannchen.json) |
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
 | Kraven Manor | 17326 | [17326-kraven-manor.json](./17326-kraven-manor.json) |
 | Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
