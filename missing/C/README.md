@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Canyon Shooter | 158099 | [158099-canyon-shooter.json](./158099-canyon-shooter.json) |
 | Canyon Watch | 266264 | [266264-canyon-watch.json](./266264-canyon-watch.json) |
+| CanYouSurvive? | 104159 | [104159-canyousurvive.json](./104159-canyousurvive.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
+| Castaway Cove | 103999 | [103999-castaway-cove.json](./103999-castaway-cove.json) |
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
 | Castaway Hand | 326195 | [326195-castaway-hand.json](./326195-castaway-hand.json) |
 | Castaway II: Isle of the Titans | 141759 | [141759-castaway-ii-isle-of-the-titans.json](./141759-castaway-ii-isle-of-the-titans.json) |
@@ -3915,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
+| Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
 | Chimeras: Heavenfall Secrets | 187890 | [187890-chimeras-heavenfall-secrets.json](./187890-chimeras-heavenfall-secrets.json) |
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
@@ -4654,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
+| Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella Phenomenon: Evermore | 156586 | [156586-cinderella-phenomenon-evermore.json](./156586-cinderella-phenomenon-evermore.json) |
@@ -7597,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
+| Cookie Cats | 103976 | [103976-cookie-cats.json](./103976-cookie-cats.json) |
 | Cookie Champion | 175187 | [175187-cookie-champion.json](./175187-cookie-champion.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
 | Cookie Clicker Collector | 373222 | [373222-cookie-clicker-collector.json](./373222-cookie-clicker-collector.json) |
@@ -9190,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
+| Crescent Hollow | 104143 | [104143-crescent-hollow.json](./104143-crescent-hollow.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
@@ -9300,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Case: Save the World! | 262383 | [262383-criminal-case-save-the-world.json](./262383-criminal-case-save-the-world.json) |
 | Criminal Case: The Conspiracy | 262381 | [262381-criminal-case-the-conspiracy.json](./262381-criminal-case-the-conspiracy.json) |
 | Criminal Case: Travel in Time | 262388 | [262388-criminal-case-travel-in-time.json](./262388-criminal-case-travel-in-time.json) |
+| Criminal Clue: Spot the Difference | 103994 | [103994-criminal-clue-spot-the-difference.json](./103994-criminal-clue-spot-the-difference.json) |
 | Criminal Consequences | 185073 | [185073-criminal-consequences.json](./185073-criminal-consequences.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
 | Criminal Profile Who’s the Culprit?! | 403735 | [403735-criminal-profile-who-s-the-culprit.json](./403735-criminal-profile-who-s-the-culprit.json) |
@@ -9330,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
+| Crimson Light | 104141 | [104141-crimson-light.json](./104141-crimson-light.json) |
 | Crimson Mansion | 362404 | [362404-crimson-mansion.json](./362404-crimson-mansion.json) |
 | Crimson Memories | 391803 | [391803-crimson-memories.json](./391803-crimson-memories.json) |
 | Crimson Memories | 68887 | [68887-crimson-memories.json](./68887-crimson-memories.json) |
