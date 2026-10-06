@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet City of Devils | 356880 | [356880-scarlet-city-of-devils.json](./356880-scarlet-city-of-devils.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Defiance: The Wall Between Us | 291149 | [291149-scarlet-defiance-the-wall-between-us.json](./291149-scarlet-defiance-the-wall-between-us.json) |
+| Scarlet Fantasy | 111570 | [111570-scarlet-fantasy.json](./111570-scarlet-fantasy.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
@@ -5093,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit | 193440 | [193440-short-circuit.json](./193440-short-circuit.json) |
 | Short Circuit | 29035 | [29035-short-circuit.json](./29035-short-circuit.json) |
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
+| Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Short Fictions | 369103 | [369103-short-short-fictions.json](./369103-short-short-fictions.json) |
@@ -10725,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
+| Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
 | Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
 | Space Junk Rage | 180041 | [180041-space-junk-rage.json](./180041-space-junk-rage.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
@@ -11292,6 +11295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Agent CyberDuck | 199983 | [199983-special-agent-cyberduck.json](./199983-special-agent-cyberduck.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
+| Special Counter Force Attack | 111610 | [111610-special-counter-force-attack.json](./111610-special-counter-force-attack.json) |
 | Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
 | Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
@@ -17069,6 +17073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jewels Quest 2 | 90358 | [90358-super-jewels-quest-2.json](./90358-super-jewels-quest-2.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
+| Super Jigsaw Puzzle: Anime | 111622 | [111622-super-jigsaw-puzzle-anime.json](./111622-super-jigsaw-puzzle-anime.json) |
 | Super Jigsaw Puzzle: Cities | 102368 | [102368-super-jigsaw-puzzle-cities.json](./102368-super-jigsaw-puzzle-cities.json) |
 | Super Jigsaw Puzzle: Generations | 116330 | [116330-super-jigsaw-puzzle-generations.json](./116330-super-jigsaw-puzzle-generations.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places 2 | 155625 | [155625-super-jigsaw-puzzle-generations-abandoned-places-2.json](./155625-super-jigsaw-puzzle-generations-abandoned-places-2.json) |
@@ -17919,6 +17924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
+| Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
