@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
+| Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win Over the Flawed Girl | 248102 | [248102-win-over-the-flawed-girl.json](./248102-win-over-the-flawed-girl.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
+| Win the Game! | 96197 | [96197-win-the-game.json](./96197-win-the-game.json) |
 | Win the White House | 207837 | [207837-win-the-white-house.json](./207837-win-the-white-house.json) |
 | Win With Steadily | 116297 | [116297-win-with-steadily.json](./116297-win-with-steadily.json) |
 | Win, Lose or Draw | 359461 | [359461-win-lose-or-draw.json](./359461-win-lose-or-draw.json) |
@@ -4372,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | WordSpiral | 227777 | [227777-wordspiral.json](./227777-wordspiral.json) |
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
+| WordStorm | 96304 | [96304-wordstorm.json](./96304-wordstorm.json) |
 | Wordsum Blitz | 135067 | [135067-wordsum-blitz.json](./135067-wordsum-blitz.json) |
 | WordsUp! Academy | 84961 | [84961-wordsup-academy.json](./84961-wordsup-academy.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
