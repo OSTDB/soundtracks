@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
+| Madden Season 2 | 90917 | [90917-madden-season-2.json](./90917-madden-season-2.json) |
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
@@ -6435,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milo | 275846 | [275846-milo.json](./275846-milo.json) |
 | Milo | 57606 | [57606-milo.json](./57606-milo.json) |
+| Milo and Kate | 90920 | [90920-milo-and-kate.json](./90920-milo-and-kate.json) |
 | Milo and the Magpies | 139600 | [139600-milo-and-the-magpies.json](./139600-milo-and-the-magpies.json) |
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
@@ -6566,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
+| Mindbuster | 90925 | [90925-mindbuster.json](./90925-mindbuster.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
 | Mindcircus | 275644 | [275644-mindcircus.json](./275644-mindcircus.json) |
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
@@ -11053,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
+| My Friends | 90916 | [90916-my-friends.json](./90916-my-friends.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
@@ -11796,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
+| Mystery Toys: Hidden Objects | 90882 | [90882-mystery-toys-hidden-objects.json](./90882-mystery-toys-hidden-objects.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: Fall of Iron Rock - Collector's Edition | 235489 | [235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json](./235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json) |
