@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
+| C64 Classix | 93219 | [93219-c64-classix.json](./93219-c64-classix.json) |
 | C64 Direct-to-TV | 281683 | [281683-c64-direct-to-tv.json](./281683-c64-direct-to-tv.json) |
 | C64 Quiz | 134400 | [134400-c64-quiz.json](./134400-c64-quiz.json) |
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camera Lens | 291526 | [291526-camera-lens.json](./291526-camera-lens.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
+| Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
@@ -2738,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CellCraft | 132122 | [132122-cellcraft.json](./132122-cellcraft.json) |
 | Celldom Classic | 404823 | [404823-celldom-classic.json](./404823-celldom-classic.json) |
 | CellFactor: Psychokinetic Wars | 21673 | [21673-cellfactor-psychokinetic-wars.json](./21673-cellfactor-psychokinetic-wars.json) |
+| CellFighter | 93216 | [93216-cellfighter.json](./93216-cellfighter.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
 | Cellitaire | 338713 | [338713-cellitaire.json](./338713-cellitaire.json) |
 | Cellmons | 204562 | [204562-cellmons.json](./204562-cellmons.json) |
@@ -6028,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
+| Codemasters 2 in 1: Fantastic Dizzy + Cosmic Spacehead | 93188 | [93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json](./93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
@@ -10404,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubiques | 83541 | [83541-cubiques.json](./83541-cubiques.json) |
 | Cubiquity | 124721 | [124721-cubiquity.json](./124721-cubiquity.json) |
 | Cubis | 251044 | [251044-cubis.json](./251044-cubis.json) |
+| Cubis 2 | 93220 | [93220-cubis-2.json](./93220-cubis-2.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
@@ -11202,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle of Steel | 339360 | [339360-cycle-of-steel.json](./339360-cycle-of-steel.json) |
 | Cycle of the Moon | 216757 | [216757-cycle-of-the-moon.json](./216757-cycle-of-the-moon.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
+| Cycle Warz | 93204 | [93204-cycle-warz.json](./93204-cycle-warz.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
