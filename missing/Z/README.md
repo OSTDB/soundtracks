@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zee.End | 170280 | [170280-zee-end.json](./170280-zee-end.json) |
 | Zeebo F.C. Foot Camp | 91898 | [91898-zeebo-f-c-foot-camp.json](./91898-zeebo-f-c-foot-camp.json) |
 | Zeebo F.C. Super League | 91899 | [91899-zeebo-f-c-super-league.json](./91899-zeebo-f-c-super-league.json) |
+| Zeebo Family Pack | 100263 | [100263-zeebo-family-pack.json](./100263-zeebo-family-pack.json) |
 | Zeebo Sports Peteca | 91902 | [91902-zeebo-sports-peteca.json](./91902-zeebo-sports-peteca.json) |
 | Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
