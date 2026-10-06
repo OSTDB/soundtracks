@@ -8476,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Tales: The Princess of Sundara | 18457 | [18457-monkey-tales-the-princess-of-sundara.json](./18457-monkey-tales-the-princess-of-sundara.json) |
 | Monkey Tales: The Valley of the Jackal | 18461 | [18461-monkey-tales-the-valley-of-the-jackal.json](./18461-monkey-tales-the-valley-of-the-jackal.json) |
 | Monkey Time | 187300 | [187300-monkey-time.json](./187300-monkey-time.json) |
+| Monkey Turn V | 58065 | [58065-monkey-turn-v.json](./58065-monkey-turn-v.json) |
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
