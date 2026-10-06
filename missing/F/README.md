@@ -5272,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
 | Forest Legends: The Call of Love | 52217 | [52217-forest-legends-the-call-of-love.json](./52217-forest-legends-the-call-of-love.json) |
+| Forest Legends: The Call of Love - Collector's Edition | 76916 | [76916-forest-legends-the-call-of-love-collectors-edition.json](./76916-forest-legends-the-call-of-love-collectors-edition.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest Life | 234019 | [234019-forest-life.json](./234019-forest-life.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
