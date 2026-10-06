@@ -2890,6 +2890,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
+| Master of Illusion Express: Matchmaker | 84484 | [84484-master-of-illusion-express-matchmaker.json](./84484-master-of-illusion-express-matchmaker.json) |
+| Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic | 7548 | [7548-master-of-magic.json](./7548-master-of-magic.json) |
@@ -3204,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Marvel | 245449 | [245449-math-marvel.json](./245449-math-marvel.json) |
 | Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
 | Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
+| Math Missions | 84446 | [84446-math-missions.json](./84446-math-missions.json) |
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
@@ -4896,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
 | Memoryleak | 372601 | [372601-memoryleak.json](./372601-memoryleak.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
+| MemoTrimo | 84471 | [84471-memotrimo.json](./84471-memotrimo.json) |
 | Memoware | 381280 | [381280-memoware.json](./381280-memoware.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
@@ -10174,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
+| Mr. T | 84448 | [84448-mr-t.json](./84448-mr-t.json) |
 | Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Night Driver | 101647 | [101647-mr-transporter-night-driver.json](./101647-mr-transporter-night-driver.json) |
