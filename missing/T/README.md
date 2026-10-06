@@ -7928,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Necklace of Blood Part II | 109886 | [109886-the-necklace-of-blood-part-ii.json](./109886-the-necklace-of-blood-part-ii.json) |
 | The Necro-Nom-icon | 214393 | [214393-the-necro-nom-icon.json](./214393-the-necro-nom-icon.json) |
+| The Necromancer | 80856 | [80856-the-necromancer.json](./80856-the-necromancer.json) |
 | The Necromancer Cometh! | 253472 | [253472-the-necromancer-cometh.json](./253472-the-necromancer-cometh.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
@@ -13070,6 +13071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
+| Tin Toy | 80787 | [80787-tin-toy.json](./80787-tin-toy.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
 | Tina: Swordswoman of the Scarlet Prison | 115490 | [115490-tina-swordswoman-of-the-scarlet-prison.json](./115490-tina-swordswoman-of-the-scarlet-prison.json) |
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
@@ -16914,6 +16916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
+| Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
 | Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
 | Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
