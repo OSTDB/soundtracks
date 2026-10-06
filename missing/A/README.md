@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Witch | 150585 | [150585-adorable-witch.json](./150585-adorable-witch.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
+| Adore Picture Difference: Long Distance Love | 102894 | [102894-adore-picture-difference-long-distance-love.json](./102894-adore-picture-difference-long-distance-love.json) |
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
@@ -1665,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Escape: Cult Mystery | 123437 | [123437-adventure-escape-cult-mystery.json](./123437-adventure-escape-cult-mystery.json) |
 | Adventure Escape: Dark Ruins | 120262 | [120262-adventure-escape-dark-ruins.json](./120262-adventure-escape-dark-ruins.json) |
 | Adventure Escape: Framed for Murder | 123441 | [123441-adventure-escape-framed-for-murder.json](./123441-adventure-escape-framed-for-murder.json) |
+| Adventure Escape: Haunted Hunt | 102850 | [102850-adventure-escape-haunted-hunt.json](./102850-adventure-escape-haunted-hunt.json) |
 | Adventure Escape: Hidden Ruins | 123444 | [123444-adventure-escape-hidden-ruins.json](./123444-adventure-escape-hidden-ruins.json) |
 | Adventure Escape: Midnight Carnival | 123442 | [123442-adventure-escape-midnight-carnival.json](./123442-adventure-escape-midnight-carnival.json) |
 | Adventure Escape: Murder Inn | 123434 | [123434-adventure-escape-murder-inn.json](./123434-adventure-escape-murder-inn.json) |
@@ -4531,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
 | Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
+| Amora | 102876 | [102876-amora.json](./102876-amora.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
@@ -5040,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
+| Angry Granny 2-Angry Neighbor | 102852 | [102852-angry-granny-2-angry-neighbor.json](./102852-angry-granny-2-angry-neighbor.json) |
 | Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
@@ -6004,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
+| Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
@@ -6590,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
+| Arcade Islands: Volume One | 102860 | [102860-arcade-islands-volume-one.json](./102860-arcade-islands-volume-one.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
 | Arcade Land | 99543 | [99543-arcade-land.json](./99543-arcade-land.json) |
 | Arcade Legends 3D | 206138 | [206138-arcade-legends-3d.json](./206138-arcade-legends-3d.json) |
@@ -6979,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
 | Area Cooperation Economic Simulation: North Korea (ACES) | 114260 | [114260-area-cooperation-economic-simulation-north-korea-aces.json](./114260-area-cooperation-economic-simulation-north-korea-aces.json) |
+| Area D | 102870 | [102870-area-d.json](./102870-area-d.json) |
 | Area Man Lives | 130141 | [130141-area-man-lives.json](./130141-area-man-lives.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
@@ -7519,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
 | Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
+| Art Club Challenge | 102891 | [102891-art-club-challenge.json](./102891-art-club-challenge.json) |
 | Art Dash | 303678 | [303678-art-dash.json](./303678-art-dash.json) |
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
