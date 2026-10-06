@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
 | Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Hazel Hand Fracture | 106767 | [106767-baby-hazel-hand-fracture.json](./106767-baby-hazel-hand-fracture.json) |
+| Baby Jungle Animal Hair Salon | 101004 | [101004-baby-jungle-animal-hair-salon.json](./101004-baby-jungle-animal-hair-salon.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Kaizo World 2 | 328073 | [328073-baby-kaizo-world-2.json](./328073-baby-kaizo-world-2.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Class | 145246 | [145246-bass-class.json](./145246-bass-class.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
+| Bass Fishing 3D HD | 101015 | [101015-bass-fishing-3d-hd.json](./101015-bass-fishing-3d-hd.json) |
 | Bass Fishing Tatsujin Techou | 282823 | [282823-bass-fishing-tatsujin-techou.json](./282823-bass-fishing-tatsujin-techou.json) |
 | Bass Harrier | 349877 | [349877-bass-harrier.json](./349877-bass-harrier.json) |
 | Bass Invaders | 283980 | [283980-bass-invaders.json](./283980-bass-invaders.json) |
@@ -5730,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
 | Block Siege VR | 309482 | [309482-block-siege-vr.json](./309482-block-siege-vr.json) |
+| Block Slender-Man 2: The Forest of Soul Harvest Hunter - Pocket Edition | 101016 | [101016-block-slender-man-2-the-forest-of-soul-harvest-hunter-pocket-edition.json](./101016-block-slender-man-2-the-forest-of-soul-harvest-hunter-pocket-edition.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Block Slime Cave | 151563 | [151563-block-slime-cave.json](./151563-block-slime-cave.json) |
 | Block Smash | 171489 | [171489-block-smash.json](./171489-block-smash.json) |
@@ -9063,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Eyes | 15690 | [15690-bug-eyes.json](./15690-bug-eyes.json) |
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
+| Bug Heroes Quest | 101039 | [101039-bug-heroes-quest.json](./101039-bug-heroes-quest.json) |
 | Bug Heroes: Tower Defense | 266979 | [266979-bug-heroes-tower-defense.json](./266979-bug-heroes-tower-defense.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
