@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just in Time Translations | 67654 | [67654-just-in-time-translations.json](./67654-just-in-time-translations.json) |
 | Just Jammin' | 307719 | [307719-just-jammin.json](./307719-just-jammin.json) |
 | Just Jump | 81016 | [81016-just-jump.json](./81016-just-jump.json) |
+| Just Jumping | 96294 | [96294-just-jumping.json](./96294-just-jumping.json) |
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
 | Just Keep Looting | 352837 | [352837-just-keep-looting.json](./352837-just-keep-looting.json) |
 | Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
