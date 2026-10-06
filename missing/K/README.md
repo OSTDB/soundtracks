@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
 | Kyofu Hyakumonogatari | 239610 | [239610-kyofu-hyakumonogatari.json](./239610-kyofu-hyakumonogatari.json) |
+| Kyogeki Quartet Fighters | 87818 | [87818-kyogeki-quartet-fighters.json](./87818-kyogeki-quartet-fighters.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
