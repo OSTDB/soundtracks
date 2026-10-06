@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Eleven: Epic Football | 102260 | [102260-legendary-eleven-epic-football.json](./102260-legendary-eleven-epic-football.json) |
 | Legendary Fishing | 110788 | [110788-legendary-fishing.json](./110788-legendary-fishing.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
+| Legendary Heros in the Three Kingdoms | 96941 | [96941-legendary-heros-in-the-three-kingdoms.json](./96941-legendary-heros-in-the-three-kingdoms.json) |
 | Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
 | Legendary Journeys | 150281 | [150281-legendary-journeys.json](./150281-legendary-journeys.json) |
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
