@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namakorium | 363010 | [363010-namakorium.json](./363010-namakorium.json) |
 | Namariel Legends: Iron Lord | 140314 | [140314-namariel-legends-iron-lord.json](./140314-namariel-legends-iron-lord.json) |
 | Namariel Legends: Iron Lord - Premium Edition | 36273 | [36273-namariel-legends-iron-lord-premium-edition.json](./36273-namariel-legends-iron-lord-premium-edition.json) |
+| Namaste Virtual Yoga Retreat | 81684 | [81684-namaste-virtual-yoga-retreat.json](./81684-namaste-virtual-yoga-retreat.json) |
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcotics Police: Crime And Punish | 254648 | [254648-narcotics-police-crime-and-punish.json](./254648-narcotics-police-crime-and-punish.json) |
 | Naribikimura | 311114 | [311114-naribikimura.json](./311114-naribikimura.json) |
 | Narita Boy: Collector's Edition | 282052 | [282052-narita-boy-collectors-edition.json](./282052-narita-boy-collectors-edition.json) |
+| Nark the Dragon | 81693 | [81693-nark-the-dragon.json](./81693-nark-the-dragon.json) |
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Narnok | 396541 | [396541-narnok.json](./396541-narnok.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
@@ -4151,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nui | 138693 | [138693-nui.json](./138693-nui.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
+| Nuke Babysitter Simulator \| Kim Edition | 81685 | [81685-nuke-babysitter-simulator-kim-edition.json](./81685-nuke-babysitter-simulator-kim-edition.json) |
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
