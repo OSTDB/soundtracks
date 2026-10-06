@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
 | Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
+| Demon God's Tower | 102869 | [102869-demon-gods-tower.json](./102869-demon-gods-tower.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Bunny | 141127 | [141127-doctor-bunny.json](./141127-doctor-bunny.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
+| Doctor Flow | 102888 | [102888-doctor-flow.json](./102888-doctor-flow.json) |
 | Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
 | Doctor Gallagher's Residence | 374842 | [374842-doctor-gallaghers-residence.json](./374842-doctor-gallaghers-residence.json) |
 | Doctor Goo and the Samorons | 78736 | [78736-doctor-goo-and-the-samorons.json](./78736-doctor-goo-and-the-samorons.json) |
@@ -6245,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
+| Dogfighter: World War 2 | 102866 | [102866-dogfighter-world-war-2.json](./102866-dogfighter-world-war-2.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce | 128421 | [128421-dogforce.json](./128421-dogforce.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
@@ -8904,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
+| DrillsVR | 102878 | [102878-drillsvr.json](./102878-drillsvr.json) |
 | Drim | 286085 | [286085-drim.json](./286085-drim.json) |
 | Drimsley | 137526 | [137526-drimsley.json](./137526-drimsley.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
