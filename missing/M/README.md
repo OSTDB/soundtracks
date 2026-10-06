@@ -8624,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mine Clash | 390245 | [390245-monster-mine-clash.json](./390245-monster-mine-clash.json) |
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
+| Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
