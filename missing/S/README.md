@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary House | 81785 | [81785-scary-house.json](./81785-scary-house.json) |
 | Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
 | Scary Loop | 376083 | [376083-scary-loop.json](./376083-scary-loop.json) |
+| Scary Manager In Supermarket | 106657 | [106657-scary-manager-in-supermarket.json](./106657-scary-manager-in-supermarket.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
 | Scary Maze | 102955 | [102955-scary-maze.json](./102955-scary-maze.json) |
 | Scary Maze Game | 265768 | [265768-scary-maze-game.json](./265768-scary-maze-game.json) |
@@ -4087,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | ShapeShifter | 344569 | [344569-shapeshifter.json](./344569-shapeshifter.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
+| ShapeSim | 106492 | [106492-shapesim.json](./106492-shapesim.json) |
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
 | Shapeuku - Shape Puzzle Game | 108289 | [108289-shapeuku-shape-puzzle-game.json](./108289-shapeuku-shape-puzzle-game.json) |
 | Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
