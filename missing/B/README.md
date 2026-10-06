@@ -8924,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
 | BS Super Mario Collection: Dai-4-shuu | 179744 | [179744-bs-super-mario-collection-dai-4-shuu.json](./179744-bs-super-mario-collection-dai-4-shuu.json) |
+| BS Tantei Club: Yuki ni Kieta Kako | 68227 | [68227-bs-tantei-club-yuki-ni-kieta-kako.json](./68227-bs-tantei-club-yuki-ni-kieta-kako.json) |
 | BS The Legend of Zelda "MottZilla Patch" | 150080 | [150080-bs-the-legend-of-zelda-mottzilla-patch.json](./150080-bs-the-legend-of-zelda-mottzilla-patch.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
