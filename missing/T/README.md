@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
 | The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
 | The Castle of Time | 197215 | [197215-the-castle-of-time.json](./197215-the-castle-of-time.json) |
+| The Castles of Burgundy | 115539 | [115539-the-castles-of-burgundy.json](./115539-the-castles-of-burgundy.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
@@ -4580,6 +4581,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
 | The Demon Blade | 309587 | [309587-the-demon-blade.json](./309587-the-demon-blade.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
+| The Demon Crystal 2: Knither | 115534 | [115534-the-demon-crystal-2-knither.json](./115534-the-demon-crystal-2-knither.json) |
+| The Demon Crystal 3: Dark Storm | 115538 | [115538-the-demon-crystal-3-dark-storm.json](./115538-the-demon-crystal-3-dark-storm.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
@@ -5147,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
 | The Fantastic Voyage | 39145 | [39145-the-fantastic-voyage.json](./39145-the-fantastic-voyage.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
+| The Far Kingdoms: Awakening Solitaire | 115527 | [115527-the-far-kingdoms-awakening-solitaire.json](./115527-the-far-kingdoms-awakening-solitaire.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
 | The Far Kingdoms: Hidden Magic | 163889 | [163889-the-far-kingdoms-hidden-magic.json](./163889-the-far-kingdoms-hidden-magic.json) |
@@ -8322,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Protocol Directive | 323948 | [323948-the-protocol-directive.json](./323948-the-protocol-directive.json) |
 | The Protocons | 93758 | [93758-the-protocons.json](./93758-the-protocons.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
+| The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The PTSD Mod | 312622 | [312622-the-ptsd-mod.json](./312622-the-ptsd-mod.json) |
