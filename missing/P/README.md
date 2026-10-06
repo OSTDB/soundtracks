@@ -7841,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Amelia's World | 299221 | [299221-princess-amelias-world.json](./299221-princess-amelias-world.json) |
 | Princess and Fairytales Jigsaw Puzzles | 221261 | [221261-princess-and-fairytales-jigsaw-puzzles.json](./221261-princess-and-fairytales-jigsaw-puzzles.json) |
 | Princess and Frog | 42181 | [42181-princess-and-frog.json](./42181-princess-and-frog.json) |
+| Princess and Knight | 84433 | [84433-princess-and-knight.json](./84433-princess-and-knight.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
