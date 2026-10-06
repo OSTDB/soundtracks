@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
+| Big Rig | 74021 | [74021-big-rig.json](./74021-big-rig.json) |
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
 | Big Rumble Boxing: Creed Champions - Day One Edition | 153022 | [153022-big-rumble-boxing-creed-champions-day-one-edition.json](./153022-big-rumble-boxing-creed-champions-day-one-edition.json) |
@@ -6434,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
 | Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
+| Blue's Room: Blue Talks! | 74005 | [74005-blues-room-blue-talks.json](./74005-blues-room-blue-talks.json) |
 | Blue's Room: Coloring With Blue | 220077 | [220077-blues-room-coloring-with-blue.json](./220077-blues-room-coloring-with-blue.json) |
 | Blue* | 130819 | [130819-blue.json](./130819-blue.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
@@ -7330,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boris and the Dark Survival: The Unleashed | 298675 | [298675-boris-and-the-dark-survival-the-unleashed.json](./298675-boris-and-the-dark-survival-the-unleashed.json) |
 | Boris and the Dark Survival: The Wolf Trials | 298634 | [298634-boris-and-the-dark-survival-the-wolf-trials.json](./298634-boris-and-the-dark-survival-the-wolf-trials.json) |
 | Boris in the Underworld | 15684 | [15684-boris-in-the-underworld.json](./15684-boris-in-the-underworld.json) |
+| Boris the Bold | 74024 | [74024-boris-the-bold.json](./74024-boris-the-bold.json) |
 | Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
 | Boris the Sloth | 192328 | [192328-boris-the-sloth.json](./192328-boris-the-sloth.json) |
 | Born 2 Run : Legend of Destiny | 118203 | [118203-born-2-run-legend-of-destiny.json](./118203-born-2-run-legend-of-destiny.json) |
