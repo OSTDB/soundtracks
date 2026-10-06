@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
 | Dark Elves Escape | 315604 | [315604-dark-elves-escape.json](./315604-dark-elves-escape.json) |
 | Dark Elves Escape 2 | 315606 | [315606-dark-elves-escape-2.json](./315606-dark-elves-escape-2.json) |
+| Dark Empire | 83872 | [83872-dark-empire.json](./83872-dark-empire.json) |
 | Dark Energy | 285001 | [285001-dark-energy.json](./285001-dark-energy.json) |
 | Dark Engines | 398416 | [398416-dark-engines.json](./398416-dark-engines.json) |
 | Dark Era | 311596 | [311596-dark-era.json](./311596-dark-era.json) |
@@ -6193,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
+| Dodge | 83819 | [83819-dodge.json](./83819-dodge.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
 | Dodge & Roll | 267327 | [267327-dodge-and-roll.json](./267327-dodge-and-roll.json) |
 | Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
