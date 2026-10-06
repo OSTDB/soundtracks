@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numberic Puzzle 2018 | 103154 | [103154-numberic-puzzle-2018.json](./103154-numberic-puzzle-2018.json) |
 | Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
+| Numberic Puzzle Space | 106485 | [106485-numberic-puzzle-space.json](./106485-numberic-puzzle-space.json) |
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 2 | 43517 | [43517-numberline-2.json](./43517-numberline-2.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
