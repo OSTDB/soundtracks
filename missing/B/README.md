@@ -5210,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
+| Blask | 113583 | [113583-blask.json](./113583-blask.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous 2: Mea Culpa Edition | 324383 | [324383-blasphemous-2-mea-culpa-edition.json](./324383-blasphemous-2-mea-culpa-edition.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
