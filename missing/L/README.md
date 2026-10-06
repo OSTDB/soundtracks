@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
 | Lost in the Mine | 306377 | [306377-lost-in-the-mine.json](./306377-lost-in-the-mine.json) |
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
+| Lost in the Nightmare | 71719 | [71719-lost-in-the-nightmare.json](./71719-lost-in-the-nightmare.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
 | Lost in the Past: A Heart's Remembrance Labyrinth | 287210 | [287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json](./287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json) |
 | Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
