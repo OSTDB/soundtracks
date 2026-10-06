@@ -2320,9 +2320,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
+| Initial D Gaiden | 62559 | [62559-initial-d-gaiden.json](./62559-initial-d-gaiden.json) |
 | Initial D: Koudou Saisoku Densetsu | 97532 | [97532-initial-d-koudou-saisoku-densetsu.json](./97532-initial-d-koudou-saisoku-densetsu.json) |
 | Initial D: Perfect Shift Online | 85193 | [85193-initial-d-perfect-shift-online.json](./85193-initial-d-perfect-shift-online.json) |
+| Initial D: Second Stage Typing Game | 62558 | [62558-initial-d-second-stage-typing-game.json](./62558-initial-d-second-stage-typing-game.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
+| Initial D: Takahashi Ryosuke no Typing Saisoku Riron | 62557 | [62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json](./62557-initial-d-takahashi-ryosuke-no-typing-saisoku-riron.json) |
 | Initial Daydream | 272464 | [272464-initial-daydream.json](./272464-initial-daydream.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
