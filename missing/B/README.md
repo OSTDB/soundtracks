@@ -4273,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
 | Billy Hatcher and the Giant Egg | 3810 | [3810-billy-hatcher-and-the-giant-egg.json](./3810-billy-hatcher-and-the-giant-egg.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
+| Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
 | Billy the Hero | 411755 | [411755-billy-the-hero.json](./411755-billy-the-hero.json) |
@@ -5687,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breaker Deluxe | 243748 | [243748-block-breaker-deluxe.json](./243748-block-breaker-deluxe.json) |
+| Block Breaker Deluxe 2 | 85718 | [85718-block-breaker-deluxe-2.json](./85718-block-breaker-deluxe-2.json) |
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
 | Block Bros. | 240938 | [240938-block-bros.json](./240938-block-bros.json) |
 | Block Buster | 138046 | [138046-block-buster.json](./138046-block-buster.json) |
@@ -7125,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
+| Boom Chick Chick | 85714 | [85714-boom-chick-chick.json](./85714-boom-chick-chick.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
@@ -8761,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
+| Brückenbauen | 85746 | [85746-bruckenbauen.json](./85746-bruckenbauen.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
