@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Model Mysteries | 206784 | [206784-nancy-drew-the-model-mysteries.json](./206784-nancy-drew-the-model-mysteries.json) |
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
+| Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherspire | 403686 | [403686-netherspire.json](./403686-netherspire.json) |
 | Netherworld Covenant | 317973 | [317973-netherworld-covenant.json](./317973-netherworld-covenant.json) |
 | Netherworld: Beyond Time I Stand | 172507 | [172507-netherworld-beyond-time-i-stand.json](./172507-netherworld-beyond-time-i-stand.json) |
+| netKar Pro | 63099 | [63099-netkar-pro.json](./63099-netkar-pro.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
 | Netorare Osananajimi: Haruka to Chika | 82970 | [82970-netorare-osananajimi-haruka-to-chika.json](./82970-netorare-osananajimi-haruka-to-chika.json) |
