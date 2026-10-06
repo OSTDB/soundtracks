@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nayuta no Kiseki | 284431 | [284431-nayuta-no-kiseki.json](./284431-nayuta-no-kiseki.json) |
 | Nayuta no Kiseki: Limited Edition | 284434 | [284434-nayuta-no-kiseki-limited-edition.json](./284434-nayuta-no-kiseki-limited-edition.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
+| Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
@@ -1530,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerus | 141125 | [141125-nerus.json](./141125-nerus.json) |
 | Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
+| Nerved | 105226 | [105226-nerved.json](./105226-nerved.json) |
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
 | NES Classic Edition | 213361 | [213361-nes-classic-edition.json](./213361-nes-classic-edition.json) |
@@ -3277,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Register | 405713 | [405713-no-register.json](./405713-no-register.json) |
 | No Reloading: Survival Trials | 194954 | [194954-no-reloading-survival-trials.json](./194954-no-reloading-survival-trials.json) |
 | No Report | 295503 | [295503-no-report.json](./295503-no-report.json) |
+| No Response | 105405 | [105405-no-response.json](./105405-no-response.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Rest for the Living | 313179 | [313179-no-rest-for-the-living.json](./313179-no-rest-for-the-living.json) |
 | No Rest for the Weary | 334198 | [334198-no-rest-for-the-weary.json](./334198-no-rest-for-the-weary.json) |
@@ -3521,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nofrills Solitaire | 169875 | [169875-nofrills-solitaire.json](./169875-nofrills-solitaire.json) |
 | Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
 | Noga | 264703 | [264703-noga.json](./264703-noga.json) |
+| Nogalious | 105438 | [105438-nogalious.json](./105438-nogalious.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
