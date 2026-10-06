@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
+| Dab, Dance & Twerk | 83161 | [83161-dab-dance-and-twerk.json](./83161-dab-dance-and-twerk.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
 | Dabble: A Fast Paced Word Game | 99716 | [99716-dabble-a-fast-paced-word-game.json](./99716-dabble-a-fast-paced-word-game.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
 | Dashing Mariachis | 199419 | [199419-dashing-mariachis.json](./199419-dashing-mariachis.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
+| Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
@@ -1637,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Thunder: Arcade | 47436 | [47436-days-of-thunder-arcade.json](./47436-days-of-thunder-arcade.json) |
 | Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
 | Days of War | 26403 | [26403-days-of-war.json](./26403-days-of-war.json) |
+| Days of White | 83191 | [83191-days-of-white.json](./83191-days-of-white.json) |
 | Days of Wrath | 80224 | [80224-days-of-wrath.json](./80224-days-of-wrath.json) |
 | Days Under Custody | 34165 | [34165-days-under-custody.json](./34165-days-under-custody.json) |
 | Days with Evraco: The Blind witch in Blue Forest | 392944 | [392944-days-with-evraco-the-blind-witch-in-blue-forest.json](./392944-days-with-evraco-the-blind-witch-in-blue-forest.json) |
@@ -2925,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deer Napped | 93223 | [93223-deer-napped.json](./93223-deer-napped.json) |
+| Deer Simulator | 83185 | [83185-deer-simulator.json](./83185-deer-simulator.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
@@ -3666,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
+| Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
 | Der Geistermeister | 369648 | [369648-der-geistermeister.json](./369648-der-geistermeister.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Gesundheitscoach | 268139 | [268139-der-gesundheitscoach.json](./268139-der-gesundheitscoach.json) |
@@ -4034,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
 | Destiny's Princess: A War Story, A Love Story | 33395 | [33395-destinys-princess-a-war-story-a-love-story.json](./33395-destinys-princess-a-war-story-a-love-story.json) |
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
+| Destiny6 | 83184 | [83184-destiny6.json](./83184-destiny6.json) |
 | Destoria: The Withering | 207801 | [207801-destoria-the-withering.json](./207801-destoria-the-withering.json) |
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
@@ -4944,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
+| DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
