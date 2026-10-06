@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paleo Pines: Spooktacular DLC | 360598 | [360598-paleo-pines-spooktacular-dlc.json](./360598-paleo-pines-spooktacular-dlc.json) |
 | Paleo Pines: Trick or Treat DLC | 360597 | [360597-paleo-pines-trick-or-treat-dlc.json](./360597-paleo-pines-trick-or-treat-dlc.json) |
 | Paleo: Rising Town | 139820 | [139820-paleo-rising-town.json](./139820-paleo-rising-town.json) |
+| Paleocalypse | 90217 | [90217-paleocalypse.json](./90217-paleocalypse.json) |
 | Paleon | 148991 | [148991-paleon.json](./148991-paleon.json) |
 | Paletta | 133822 | [133822-paletta.json](./133822-paletta.json) |
 | Palette | 62668 | [62668-palette.json](./62668-palette.json) |
