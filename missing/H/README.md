@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harlequinade | 406863 | [406863-harlequinade.json](./406863-harlequinade.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
+| Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Quidditch Champions - Deluxe Edition | 318003 | [318003-harry-potter-quidditch-champions-deluxe-edition.json](./318003-harry-potter-quidditch-champions-deluxe-edition.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
+| Harry Potter: Spells | 66432 | [66432-harry-potter-spells.json](./66432-harry-potter-spells.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
 | Harry the Handsome Executive | 67634 | [67634-harry-the-handsome-executive.json](./67634-harry-the-handsome-executive.json) |
@@ -3311,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Forces | 126990 | [126990-heroes-forces.json](./126990-heroes-forces.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
+| Heroes in the Sky | 66440 | [66440-heroes-in-the-sky.json](./66440-heroes-in-the-sky.json) |
 | Heroes in the Sky-Origin | 114198 | [114198-heroes-in-the-sky-origin.json](./114198-heroes-in-the-sky-origin.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
