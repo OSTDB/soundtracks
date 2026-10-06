@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
+| I Wanna Be the Creator | 110912 | [110912-i-wanna-be-the-creator.json](./110912-i-wanna-be-the-creator.json) |
 | I Wanna Be the Guy | 14143 | [14143-i-wanna-be-the-guy.json](./14143-i-wanna-be-the-guy.json) |
 | I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
 | I Wanna Be the Hedgehog | 417434 | [417434-i-wanna-be-the-hedgehog.json](./417434-i-wanna-be-the-hedgehog.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
 | I'm a Side Character in a BL story! | 177877 | [177877-im-a-side-character-in-a-bl-story.json](./177877-im-a-side-character-in-a-bl-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
+| I'm an adventurer | 110946 | [110946-im-an-adventurer.json](./110946-im-an-adventurer.json) |
 | I'm Borr | 196604 | [196604-im-borr.json](./196604-im-borr.json) |
 | I'm Calling the Cops! | 128997 | [128997-im-calling-the-cops.json](./128997-im-calling-the-cops.json) |
 | I'm Caught in a Time Loop: I Need to Find a Girl as Soon as Possible | 340508 | [340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json](./340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json) |
@@ -572,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice Crystal Adventure Puzzle | 101046 | [101046-ice-crystal-adventure-puzzle.json](./101046-ice-crystal-adventure-puzzle.json) |
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
+| Ice Demon | 110898 | [110898-ice-demon.json](./110898-ice-demon.json) |
 | Ice Dig | 232491 | [232491-ice-dig.json](./232491-ice-dig.json) |
 | Ice Dodo | 358894 | [358894-ice-dodo.json](./358894-ice-dodo.json) |
 | Ice Em': Race to the Grave | 362382 | [362382-ice-em-race-to-the-grave.json](./362382-ice-em-race-to-the-grave.json) |
@@ -3399,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
 | Island Marauder | 126371 | [126371-island-marauder.json](./126371-island-marauder.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
+| Island Maze | 110918 | [110918-island-maze.json](./110918-island-maze.json) |
 | Island Mirrorge VR | 151291 | [151291-island-mirrorge-vr.json](./151291-island-mirrorge-vr.json) |
 | Island of 16 Sisters | 371864 | [371864-island-of-16-sisters.json](./371864-island-of-16-sisters.json) |
 | Island of 16 Sisters Part 2 | 371866 | [371866-island-of-16-sisters-part-2.json](./371866-island-of-16-sisters-part-2.json) |
