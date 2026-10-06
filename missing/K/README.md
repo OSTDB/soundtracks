@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klangwelt | 89207 | [89207-klangwelt.json](./89207-klangwelt.json) |
 | Klap!! Kind Love and Punish: Fun Party | 138232 | [138232-klap-kind-love-and-punish-fun-party.json](./138232-klap-kind-love-and-punish-fun-party.json) |
+| Klap!!: Kind Love and Punish | 60916 | [60916-klap-kind-love-and-punish.json](./60916-klap-kind-love-and-punish.json) |
 | Klash | 62697 | [62697-klash.json](./62697-klash.json) |
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
 | Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
+| Koisuru Otome to Shugo no Tate: The Shield of Aigis | 60877 | [60877-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.json](./60877-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.json) |
 | Koisuru Otome to Shugo no Tate: The Shield of Aigis - Koi no Theresia Box | 413708 | [413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json](./413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
