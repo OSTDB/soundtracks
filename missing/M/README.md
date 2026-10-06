@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Hopper | 180682 | [180682-map-hopper.json](./180682-map-hopper.json) |
 | Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
+| Map My Mind | 60910 | [60910-map-my-mind.json](./60910-map-my-mind.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapaboX: Trivia & Quiz game | 232045 | [232045-mapabox-trivia-and-quiz-game.json](./232045-mapabox-trivia-and-quiz-game.json) |
 | Mapas do Horizonte - Um jogo para conhecer BH | 95588 | [95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json](./95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json) |
@@ -10297,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
 | Mr. T | 84448 | [84448-mr-t.json](./84448-mr-t.json) |
 | Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
+| Mr. The Hamster's Math Class | 60918 | [60918-mr-the-hamsters-math-class.json](./60918-mr-the-hamsters-math-class.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
 | Mr. Transporter - Night Driver | 101647 | [101647-mr-transporter-night-driver.json](./101647-mr-transporter-night-driver.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
