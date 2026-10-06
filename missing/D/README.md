@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
 | Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
+| Dancing Queen: Club Puzzle | 107059 | [107059-dancing-queen-club-puzzle.json](./107059-dancing-queen-club-puzzle.json) |
 | Dancing Road: Color Ball Run! | 120309 | [120309-dancing-road-color-ball-run.json](./120309-dancing-road-color-ball-run.json) |
 | Dancing Snake | 89138 | [89138-dancing-snake.json](./89138-dancing-snake.json) |
 | Dancing Stage | 67248 | [67248-dancing-stage.json](./67248-dancing-stage.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter World: The Hunt | 175686 | [175686-deer-hunter-world-the-hunt.json](./175686-deer-hunter-world-the-hunt.json) |
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
+| Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deerlivery | 361738 | [361738-deerlivery.json](./361738-deerlivery.json) |
 | Deers and Deckards | 284400 | [284400-deers-and-deckards.json](./284400-deers-and-deckards.json) |
@@ -2901,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 1: Alien Invasion | 216151 | [216151-defcon-1-alien-invasion.json](./216151-defcon-1-alien-invasion.json) |
 | Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
+| Defcon-2: Missiles of October | 107105 | [107105-defcon-2-missiles-of-october.json](./107105-defcon-2-missiles-of-october.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
 | Defeat the Goblin King | 366366 | [366366-defeat-the-goblin-king.json](./366366-defeat-the-goblin-king.json) |
@@ -6205,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
+| Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
@@ -8965,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Home | 230245 | [230245-driving-home.json](./230245-driving-home.json) |
 | Driving Homeicide | 280864 | [280864-driving-homeicide.json](./280864-driving-homeicide.json) |
 | Driving in Tehran | 372664 | [372664-driving-in-tehran.json](./372664-driving-in-tehran.json) |
+| Driving in Traffic | 107061 | [107061-driving-in-traffic.json](./107061-driving-in-traffic.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
