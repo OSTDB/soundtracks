@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever | 246341 | [246341-jewel-fever.json](./246341-jewel-fever.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
 | Jewel Fever | 90740 | [90740-jewel-fever.json](./90740-jewel-fever.json) |
+| Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
