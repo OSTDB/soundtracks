@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
 | Cascade | 352412 | [352412-cascade.json](./352412-cascade.json) |
 | Cascade | 380053 | [380053-cascade.json](./380053-cascade.json) |
+| Cascade | 60904 | [60904-cascade.json](./60904-cascade.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Cascading Failure | 155690 | [155690-cascading-failure.json](./155690-cascading-failure.json) |
@@ -6521,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
+| Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
@@ -10127,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
+| Crypt of Baconthulhu | 60920 | [60920-crypt-of-baconthulhu.json](./60920-crypt-of-baconthulhu.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
 | Crypt of Fear | 356662 | [356662-crypt-of-fear.json](./356662-crypt-of-fear.json) |
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
