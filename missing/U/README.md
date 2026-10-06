@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Chicken Horse | 18158 | [18158-ultimate-chicken-horse.json](./18158-ultimate-chicken-horse.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
+| Ultimate Coaster X | 115536 | [115536-ultimate-coaster-x.json](./115536-ultimate-coaster-x.json) |
 | Ultimate Combat Fighting | 323317 | [323317-ultimate-combat-fighting.json](./323317-ultimate-combat-fighting.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
@@ -541,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
 | Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
+| Ultra-Gene Code | 115569 | [115569-ultra-gene-code.json](./115569-ultra-gene-code.json) |
 | Ultra-Quiz | 93145 | [93145-ultra-quiz.json](./93145-ultra-quiz.json) |
 | Ultra-Ultra Doggy Trainer!! | 368599 | [368599-ultra-ultra-doggy-trainer.json](./368599-ultra-ultra-doggy-trainer.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unifutbol | 78602 | [78602-unifutbol.json](./78602-unifutbol.json) |
 | Unify | 78760 | [78760-unify.json](./78760-unify.json) |
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
+| Uniland | 115565 | [115565-uniland.json](./115565-uniland.json) |
 | Unilateral Table Tennis | 288268 | [288268-unilateral-table-tennis.json](./288268-unilateral-table-tennis.json) |
 | Unilogue | 208226 | [208226-unilogue.json](./208226-unilogue.json) |
 | Unimersiv | 51918 | [51918-unimersiv.json](./51918-unimersiv.json) |
