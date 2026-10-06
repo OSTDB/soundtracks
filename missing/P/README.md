@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Girl | 25146 | [25146-pac-girl.json](./25146-pac-girl.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
+| Pac Mr | 100293 | [100293-pac-mr.json](./100293-pac-mr.json) |
 | Pac Pack | 68951 | [68951-pac-pack.json](./68951-pac-pack.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
 | Pachi-Slot Monogatari: Paru Kougyou Special | 37897 | [37897-pachi-slot-monogatari-paru-kougyou-special.json](./37897-pachi-slot-monogatari-paru-kougyou-special.json) |
 | Pachi-Slot Monogatari: Universal Special | 37896 | [37896-pachi-slot-monogatari-universal-special.json](./37896-pachi-slot-monogatari-universal-special.json) |
+| Pachi-Slot Teiou: Golgo 13 Las Vegas | 100262 | [100262-pachi-slot-teiou-golgo-13-las-vegas.json](./100262-pachi-slot-teiou-golgo-13-las-vegas.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
@@ -275,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packit List | 341601 | [341601-packit-list.json](./341601-packit-list.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
+| Packs Adventure | 100295 | [100295-packs-adventure.json](./100295-packs-adventure.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
@@ -730,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
+| Panther | 100285 | [100285-panther.json](./100285-panther.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Online | 145951 | [145951-panther-online.json](./145951-panther-online.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
@@ -1078,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Love | 379541 | [379541-paradise-love.json](./379541-paradise-love.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise Marsh | 173042 | [173042-paradise-marsh.json](./173042-paradise-marsh.json) |
+| Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
@@ -4929,6 +4934,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
 | Planet Coaster: Magnificent Rides Collection | 160289 | [160289-planet-coaster-magnificent-rides-collection.json](./160289-planet-coaster-magnificent-rides-collection.json) |
 | Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
+| Planet Coaster: Spooky Pack | 100303 | [100303-planet-coaster-spooky-pack.json](./100303-planet-coaster-spooky-pack.json) |
+| Planet Coaster: Studios Pack | 100304 | [100304-planet-coaster-studios-pack.json](./100304-planet-coaster-studios-pack.json) |
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
@@ -10084,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramidion | 377261 | [377261-pyramidion.json](./377261-pyramidion.json) |
 | Pyramids 2 | 85582 | [85582-pyramids-2.json](./85582-pyramids-2.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
+| Pyramids of Egypt | 100286 | [100286-pyramids-of-egypt.json](./100286-pyramids-of-egypt.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
