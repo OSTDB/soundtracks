@@ -8890,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
+| Moon Cradle | 108902 | [108902-moon-cradle.json](./108902-moon-cradle.json) |
 | Moon Cradle | 201632 | [201632-moon-cradle.json](./201632-moon-cradle.json) |
 | Moon Crashers | 384158 | [384158-moon-crashers.json](./384158-moon-crashers.json) |
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
