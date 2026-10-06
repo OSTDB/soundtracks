@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
+| Repel Aliens 3D | 114938 | [114938-repel-aliens-3d.json](./114938-repel-aliens-3d.json) |
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentance | 202326 | [202326-repentance.json](./202326-repentance.json) |
 | Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
