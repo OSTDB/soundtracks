@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
 | War of the Three Kingdoms | 369624 | [369624-war-of-the-three-kingdoms.json](./369624-war-of-the-three-kingdoms.json) |
 | War of the Twins | 156716 | [156716-war-of-the-twins.json](./156716-war-of-the-twins.json) |
+| War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are the Literature Club | 353411 | [353411-we-are-the-literature-club.json](./353411-we-are-the-literature-club.json) |
 | We are Warriors! | 322689 | [322689-we-are-warriors.json](./322689-we-are-warriors.json) |
 | We Are* | 56541 | [56541-we-are.json](./56541-we-are.json) |
+| We Bare Bears - StirFry Stunts | 112906 | [112906-we-bare-bears-stirfry-stunts.json](./112906-we-bare-bears-stirfry-stunts.json) |
 | We Bare Bears: Bearsketball | 196864 | [196864-we-bare-bears-bearsketball.json](./196864-we-bare-bears-bearsketball.json) |
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
