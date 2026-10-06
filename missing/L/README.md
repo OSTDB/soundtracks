@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Landlady: The Lions Roar | 180627 | [180627-landlady-the-lions-roar.json](./180627-landlady-the-lions-roar.json) |
+| Landleven | 115542 | [115542-landleven.json](./115542-landleven.json) |
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
@@ -4509,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Judgment: Digital Ultimate Edition | 173164 | [173164-lost-judgment-digital-ultimate-edition.json](./173164-lost-judgment-digital-ultimate-edition.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
+| Lost King's Lullaby | 115537 | [115537-lost-kings-lullaby.json](./115537-lost-kings-lullaby.json) |
 | Lost Kingdom | 269183 | [269183-lost-kingdom.json](./269183-lost-kingdom.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
@@ -5538,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
+| Luxor Solitaire | 115524 | [115524-luxor-solitaire.json](./115524-luxor-solitaire.json) |
 | Luxor: Amun Rising | 7538 | [7538-luxor-amun-rising.json](./7538-luxor-amun-rising.json) |
 | Luxor: Mah Jong | 16004 | [16004-luxor-mah-jong.json](./16004-luxor-mah-jong.json) |
 | Luxor: The Wrath of Set | 42766 | [42766-luxor-the-wrath-of-set.json](./42766-luxor-the-wrath-of-set.json) |
