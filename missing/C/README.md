@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 275028 | [275028-captain-america-and-the-avengers.json](./275028-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
+| Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
 | Captain Beeble | 294722 | [294722-captain-beeble.json](./294722-captain-beeble.json) |
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
@@ -6537,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Horses | 337633 | [337633-color-splash-horses.json](./337633-color-splash-horses.json) |
 | Color Splash: Predators | 289544 | [289544-color-splash-predators.json](./289544-color-splash-predators.json) |
 | Color Story: Pixa's Quest | 205074 | [205074-color-story-pixas-quest.json](./205074-color-story-pixas-quest.json) |
+| Color Sudoku | 65799 | [65799-color-sudoku.json](./65799-color-sudoku.json) |
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
@@ -6933,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comit in Cosmo Knight's Revenge | 112853 | [112853-comit-in-cosmo-knights-revenge.json](./112853-comit-in-cosmo-knights-revenge.json) |
 | Comit in Krater Returns | 112859 | [112859-comit-in-krater-returns.json](./112859-comit-in-krater-returns.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
+| Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
