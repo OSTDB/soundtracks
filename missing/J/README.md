@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumble Madness | 92053 | [92053-jumble-madness.json](./92053-jumble-madness.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
+| Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
