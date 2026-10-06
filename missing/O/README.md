@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceans | 224563 | [224563-oceans.json](./224563-oceans.json) |
 | Oceans Below | 37124 | [37124-oceans-below.json](./37124-oceans-below.json) |
 | Oceans We Make | 126528 | [126528-oceans-we-make.json](./126528-oceans-we-make.json) |
+| Oceans: Unlocked | 69520 | [69520-oceans-unlocked.json](./69520-oceans-unlocked.json) |
 | OceanScape | 329051 | [329051-oceanscape.json](./329051-oceanscape.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Oceanside Whispers | 390676 | [390676-oceanside-whispers.json](./390676-oceanside-whispers.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
 | Off Road Together | 411660 | [411660-off-road-together.json](./411660-off-road-together.json) |
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
+| Off Shore Warrior | 69492 | [69492-off-shore-warrior.json](./69492-off-shore-warrior.json) |
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
@@ -2917,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlanders: Hunt and Survive | 348854 | [348854-outlanders-hunt-and-survive.json](./348854-outlanders-hunt-and-survive.json) |
 | Outlanders: The Keeper's Shanty | 298174 | [298174-outlanders-the-keepers-shanty.json](./298174-outlanders-the-keepers-shanty.json) |
 | Outlandia | 192747 | [192747-outlandia.json](./192747-outlandia.json) |
+| Outlands | 69495 | [69495-outlands.json](./69495-outlands.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
