@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Journey | 58314 | [58314-dead-mans-journey.json](./58314-dead-mans-journey.json) |
 | Dead Man's Political Party | 71454 | [71454-dead-mans-political-party.json](./71454-dead-mans-political-party.json) |
 | Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
+| Dead Man's Trail | 81669 | [81669-dead-mans-trail.json](./81669-dead-mans-trail.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
