@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
+| Knights Rubbish | 112855 | [112855-knights-rubbish.json](./112855-knights-rubbish.json) |
 | Knights Together | 393812 | [393812-knights-together.json](./393812-knights-together.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Knightesses | 175202 | [175202-knights-vs-knightesses.json](./175202-knights-vs-knightesses.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobold Underground Agency | 296923 | [296923-kobold-underground-agency.json](./296923-kobold-underground-agency.json) |
 | Kobold: Chapter I | 112055 | [112055-kobold-chapter-i.json](./112055-kobold-chapter-i.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
+| Koboomballs | 112845 | [112845-koboomballs.json](./112845-koboomballs.json) |
 | Kobyashi Naru | 52204 | [52204-kobyashi-naru.json](./52204-kobyashi-naru.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
 | Kochira Katsushika-ku Kameari Kouen Mae Hashutsujo: Nakagawa Land Dai-race! no Maki | 166505 | [166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json](./166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json) |
