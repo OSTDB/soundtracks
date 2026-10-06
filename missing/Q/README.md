@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadropus Rampage | 39180 | [39180-quadropus-rampage.json](./39180-quadropus-rampage.json) |
 | QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
+| QuadSmash | 64201 | [64201-quadsmash.json](./64201-quadsmash.json) |
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
 | Quagmire | 66395 | [66395-quagmire.json](./66395-quagmire.json) |
 | Quail Crossing | 333158 | [333158-quail-crossing.json](./333158-quail-crossing.json) |
