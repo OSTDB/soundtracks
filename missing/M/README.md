@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah-Jong Club Nagata-cho: Sousaisen | 48790 | [48790-mah-jong-club-nagata-cho-sousaisen.json](./48790-mah-jong-club-nagata-cho-sousaisen.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mah~Jomino Deluxe | 146197 | [146197-mah-jomino-deluxe.json](./146197-mah-jomino-deluxe.json) |
+| Maharaja | 64197 | [64197-maharaja.json](./64197-maharaja.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxwell's Wicked Dollhouse | 215617 | [215617-maxwells-wicked-dollhouse.json](./215617-maxwells-wicked-dollhouse.json) |
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
 | Maxx GP | 94403 | [94403-maxx-gp.json](./94403-maxx-gp.json) |
+| Maxxed Out Racing | 64210 | [64210-maxxed-out-racing.json](./64210-maxxed-out-racing.json) |
 | May | 212771 | [212771-may.json](./212771-may.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniGolf Tour | 165603 | [165603-minigolf-tour.json](./165603-minigolf-tour.json) |
 | Minigolf VR | 34356 | [34356-minigolf-vr.json](./34356-minigolf-vr.json) |
 | Minigore | 76624 | [76624-minigore.json](./76624-minigore.json) |
+| Minigore 2: Zombies | 64188 | [64188-minigore-2-zombies.json](./64188-minigore-2-zombies.json) |
 | Minigun vs. Swarms of the Zombie Apocalypse Simulator | 171466 | [171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json](./171466-minigun-vs-swarms-of-the-zombie-apocalypse-simulator.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
 | MiniHunt | 296986 | [296986-minihunt.json](./296986-minihunt.json) |
