@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Bank | 364014 | [364014-central-bank.json](./364014-central-bank.json) |
 | Central de Atividades | 290098 | [290098-central-de-atividades.json](./290098-central-de-atividades.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
+| Central Intelligence | 72300 | [72300-central-intelligence.json](./72300-central-intelligence.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
+| Charlie II | 72264 | [72264-charlie-ii.json](./72264-charlie-ii.json) |
 | Charlie II: Expansion Pack | 169327 | [169327-charlie-ii-expansion-pack.json](./169327-charlie-ii-expansion-pack.json) |
 | Charlie in the Moistverse of Madness | 192257 | [192257-charlie-in-the-moistverse-of-madness.json](./192257-charlie-in-the-moistverse-of-madness.json) |
 | Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
+| Chess Kids | 72303 | [72303-chess-kids.json](./72303-chess-kids.json) |
 | Chess Knights: Eldritch Hunter | 160166 | [160166-chess-knights-eldritch-hunter.json](./160166-chess-knights-eldritch-hunter.json) |
 | Chess Knights: Shinobi | 148133 | [148133-chess-knights-shinobi.json](./148133-chess-knights-shinobi.json) |
 | Chess Knights: Viking Lands | 135662 | [135662-chess-knights-viking-lands.json](./135662-chess-knights-viking-lands.json) |
@@ -5858,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | ClueFinders: Mystery Mansion Arcade | 76183 | [76183-cluefinders-mystery-mansion-arcade.json](./76183-cluefinders-mystery-mansion-arcade.json) |
+| ClueFinders: The Incredible Toy Store Adventure | 72269 | [72269-cluefinders-the-incredible-toy-store-adventure.json](./72269-cluefinders-the-incredible-toy-store-adventure.json) |
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
@@ -6951,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
+| Command: Aces of the Deep | 72276 | [72276-command-aces-of-the-deep.json](./72276-command-aces-of-the-deep.json) |
 | Command: Modern Air / Naval Operations | 79974 | [79974-command-modern-air-naval-operations.json](./79974-command-modern-air-naval-operations.json) |
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
@@ -7140,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Physics Simulator 2023 | 221137 | [221137-computer-physics-simulator-2023.json](./221137-computer-physics-simulator-2023.json) |
 | Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
+| Computer Scrabble De Luxe | 72281 | [72281-computer-scrabble-de-luxe.json](./72281-computer-scrabble-de-luxe.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer the Golf | 112164 | [112164-computer-the-golf.json](./112164-computer-the-golf.json) |
@@ -9021,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
 | Crazy Chicken: The Winged Pharaoh | 144592 | [144592-crazy-chicken-the-winged-pharaoh.json](./144592-crazy-chicken-the-winged-pharaoh.json) |
+| Crazy Chicken: Wanted | 72268 | [72268-crazy-chicken-wanted.json](./72268-crazy-chicken-wanted.json) |
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
