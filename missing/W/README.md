@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Out | 55290 | [55290-watch-out.json](./55290-watch-out.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
+| Watch Quest! Heroes of Time | 60359 | [60359-watch-quest-heroes-of-time.json](./60359-watch-quest-heroes-of-time.json) |
 | Watch The Edge Honey | 412350 | [412350-watch-the-edge-honey.json](./412350-watch-the-edge-honey.json) |
 | Watch The Fish | 287190 | [287190-watch-the-fish.json](./287190-watch-the-fish.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
 | Whoowasit? | 381712 | [381712-whoowasit.json](./381712-whoowasit.json) |
 | Whoowasit? - Children's game of the year 2008 | 100727 | [100727-whoowasit-childrens-game-of-the-year-2008.json](./100727-whoowasit-childrens-game-of-the-year-2008.json) |
+| Whopper Chase | 60354 | [60354-whopper-chase.json](./60354-whopper-chase.json) |
 | Whore Dealer | 203916 | [203916-whore-dealer.json](./203916-whore-dealer.json) |
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
@@ -4837,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Polygon | 175693 | [175693-world-war-polygon.json](./175693-world-war-polygon.json) |
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
+| World War Toons | 60364 | [60364-world-war-toons.json](./60364-world-war-toons.json) |
 | World War Toons: Tank Arena VR | 230241 | [230241-world-war-toons-tank-arena-vr.json](./230241-world-war-toons-tank-arena-vr.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
