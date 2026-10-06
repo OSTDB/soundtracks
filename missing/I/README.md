@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In The Disorderly Courtyard | 303588 | [303588-in-the-disorderly-courtyard.json](./303588-in-the-disorderly-courtyard.json) |
+| In The Dog House | 103996 | [103996-in-the-dog-house.json](./103996-in-the-dog-house.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
 | In the End | 191044 | [191044-in-the-end.json](./191044-in-the-end.json) |
