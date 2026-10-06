@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet | 325547 | [325547-virtual-pet.json](./325547-virtual-pet.json) |
+| Virtual Pet Dinosaur: Pterodactyl | 103990 | [103990-virtual-pet-dinosaur-pterodactyl.json](./103990-virtual-pet-dinosaur-pterodactyl.json) |
 | Virtual Pet Dinosaur: Velociraptor | 106774 | [106774-virtual-pet-dinosaur-velociraptor.json](./106774-virtual-pet-dinosaur-velociraptor.json) |
 | Virtual Pet Dragon | 89687 | [89687-virtual-pet-dragon.json](./89687-virtual-pet-dragon.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vocanova | 198307 | [198307-vocanova.json](./198307-vocanova.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
+| Vogue, the Explorer | 104154 | [104154-vogue-the-explorer.json](./104154-vogue-the-explorer.json) |
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voi | 25788 | [25788-voi.json](./25788-voi.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
@@ -2092,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Fitness | 52093 | [52093-vr-fitness.json](./52093-vr-fitness.json) |
 | VR Fitness: R18 DLC | 275820 | [275820-vr-fitness-r18-dlc.json](./275820-vr-fitness-r18-dlc.json) |
+| VR Flush | 104134 | [104134-vr-flush.json](./104134-vr-flush.json) |
 | VR FlyMaster | 120226 | [120226-vr-flymaster.json](./120226-vr-flymaster.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
 | VR Fun World | 31140 | [31140-vr-fun-world.json](./31140-vr-fun-world.json) |
