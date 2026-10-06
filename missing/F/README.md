@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
 | Fantasy Mall | 74738 | [74738-fantasy-mall.json](./74738-fantasy-mall.json) |
+| Fantasy Manager: The Computer Game | 73997 | [73997-fantasy-manager-the-computer-game.json](./73997-fantasy-manager-the-computer-game.json) |
 | Fantasy Mercenary Wars | 230964 | [230964-fantasy-mercenary-wars.json](./230964-fantasy-mercenary-wars.json) |
 | Fantasy Miner: Idle Depths | 411749 | [411749-fantasy-miner-idle-depths.json](./411749-fantasy-miner-idle-depths.json) |
 | Fantasy Monarch | 119627 | [119627-fantasy-monarch.json](./119627-fantasy-monarch.json) |
@@ -4095,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flats Full of Cats: Gold & Candles | 379386 | [379386-flats-full-of-cats-gold-and-candles.json](./379386-flats-full-of-cats-gold-and-candles.json) |
 | Flats Full of Cats: Stars & Oysters | 379387 | [379387-flats-full-of-cats-stars-and-oysters.json](./379387-flats-full-of-cats-stars-and-oysters.json) |
 | Flatshot | 76588 | [76588-flatshot.json](./76588-flatshot.json) |
+| Flatspace | 73992 | [73992-flatspace.json](./73992-flatspace.json) |
 | Flatspace II | 72979 | [72979-flatspace-ii.json](./72979-flatspace-ii.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
@@ -4652,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
+| FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
 | Fly Caster VR | 265347 | [265347-fly-caster-vr.json](./265347-fly-caster-vr.json) |
@@ -5916,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
+| Fowl Words: Farm Fresh Goodness | 73990 | [73990-fowl-words-farm-fresh-goodness.json](./73990-fowl-words-farm-fresh-goodness.json) |
 | Fowling | 305453 | [305453-fowling.json](./305453-fowling.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
@@ -7663,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
 | Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
 | Fuuun Shaolin Ken | 376690 | [376690-fuuun-shaolin-ken.json](./376690-fuuun-shaolin-ken.json) |
+| Fuuun Shaolin Kyo: Ankoku no Maou | 74011 | [74011-fuuun-shaolin-kyo-ankoku-no-maou.json](./74011-fuuun-shaolin-kyo-ankoku-no-maou.json) |
 | Fuuun Shourin Ken | 375325 | [375325-fuuun-shourin-ken.json](./375325-fuuun-shourin-ken.json) |
 | Fuuun Takeshi-jou | 300010 | [300010-fuuun-takeshi-jou.json](./300010-fuuun-takeshi-jou.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
