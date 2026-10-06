@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Girl | 323243 | [323243-quest-girl.json](./323243-quest-girl.json) |
 | Quest Giver | 271917 | [271917-quest-giver.json](./271917-quest-giver.json) |
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
+| Quest II | 93202 | [93202-quest-ii.json](./93202-quest-ii.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
