@@ -5817,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
+| Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
@@ -8616,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Kid Collection | 403733 | [403733-soccer-kid-collection.json](./403733-soccer-kid-collection.json) |
+| Soccer Kids Champions | 104723 | [104723-soccer-kids-champions.json](./104723-soccer-kids-champions.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
