@@ -8009,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner | 44170 | [44170-prisoner.json](./44170-prisoner.json) |
 | Prisoner | 81185 | [81185-prisoner.json](./81185-prisoner.json) |
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
+| Prisoner 2 | 93192 | [93192-prisoner-2.json](./93192-prisoner-2.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
@@ -9026,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prune | 18134 | [18134-prune.json](./18134-prune.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
+| Prvá Akcia | 93224 | [93224-prva-akcia.json](./93224-prva-akcia.json) |
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
@@ -9347,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Pumpy | 165485 | [165485-pumpy.json](./165485-pumpy.json) |
 | Pumuckl and the Crown of the Pirate King | 361866 | [361866-pumuckl-and-the-crown-of-the-pirate-king.json](./361866-pumuckl-and-the-crown-of-the-pirate-king.json) |
+| Pumuckls Abenteuer bei den Piraten | 93124 | [93124-pumuckls-abenteuer-bei-den-piraten.json](./93124-pumuckls-abenteuer-bei-den-piraten.json) |
 | PunBall | 226779 | [226779-punball.json](./226779-punball.json) |
 | Punch & Judy | 354584 | [354584-punch-and-judy.json](./354584-punch-and-judy.json) |
 | Punch A Plant! | 306431 | [306431-punch-a-plant.json](./306431-punch-a-plant.json) |
