@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z55z | 86563 | [86563-z55z.json](./86563-z55z.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | Z9 Star | 98506 | [98506-z9-star.json](./98506-z9-star.json) |
+| Za Bee Avoid Game | 96934 | [96934-za-bee-avoid-game.json](./96934-za-bee-avoid-game.json) |
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
 | ZaaLord | 136236 | [136236-zaalord.json](./136236-zaalord.json) |
 | Zaam | 122146 | [122146-zaam.json](./122146-zaam.json) |
