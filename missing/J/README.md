@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingle | 81694 | [81694-jingle.json](./81694-jingle.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jingle Strike VR | 381764 | [381764-jingle-strike-vr.json](./381764-jingle-strike-vr.json) |
+| Jingo Jango | 76140 | [76140-jingo-jango.json](./76140-jingo-jango.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jìnjì | 129614 | [129614-jinji.json](./129614-jinji.json) |
