@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzi | 271268 | [271268-yatzi.json](./271268-yatzi.json) |
 | Yatzi 2 | 364082 | [364082-yatzi-2.json](./364082-yatzi-2.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
+| Yatzy Classic | 105836 | [105836-yatzy-classic.json](./105836-yatzy-classic.json) |
 | Yatzy for iPad | 90798 | [90798-yatzy-for-ipad.json](./90798-yatzy-for-ipad.json) |
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
