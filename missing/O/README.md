@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoidaise! Kousei Nikki Joon-chan!! | 382992 | [382992-omoidaise-kousei-nikki-joon-chan.json](./382992-omoidaise-kousei-nikki-joon-chan.json) |
 | Omoide Cafe | 390202 | [390202-omoide-cafe.json](./390202-omoide-cafe.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
+| Omoide ni Kawaru Kimi: Memories Off | 68241 | [68241-omoide-ni-kawaru-kimi-memories-off.json](./68241-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
 | OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
