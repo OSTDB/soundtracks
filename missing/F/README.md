@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
 | Face of the Killer | 289410 | [289410-face-of-the-killer.json](./289410-face-of-the-killer.json) |
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
+| Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Slash | 390785 | [390785-fatal-slash.json](./390785-fatal-slash.json) |
+| Fatal Stormer | 96210 | [96210-fatal-stormer.json](./96210-fatal-stormer.json) |
 | Fatal Theory | 34681 | [34681-fatal-theory.json](./34681-fatal-theory.json) |
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Twelve: Complete Collection | 154617 | [154617-fatal-twelve-complete-collection.json](./154617-fatal-twelve-complete-collection.json) |
@@ -1984,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Flames | 375335 | [375335-feed-the-flames.json](./375335-feed-the-flames.json) |
 | Feed The Frog King: Incremental TD | 417583 | [417583-feed-the-frog-king-incremental-td.json](./417583-feed-the-frog-king-incremental-td.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
+| Feed the Head | 96185 | [96185-feed-the-head.json](./96185-feed-the-head.json) |
 | Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
 | Feed the Pets: Fall Animals | 192373 | [192373-feed-the-pets-fall-animals.json](./192373-feed-the-pets-fall-animals.json) |
