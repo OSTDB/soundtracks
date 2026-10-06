@@ -49,6 +49,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.E.V Bloodline | 213479 | [213479-d-e-v-bloodline.json](./213479-d-e-v-bloodline.json) |
 | D.F.R.: The Light | 75801 | [75801-d-f-r-the-light.json](./75801-d-f-r-the-light.json) |
 | D.F.R.: The Light VR | 100353 | [100353-d-f-r-the-light-vr.json](./100353-d-f-r-the-light-vr.json) |
+| D.Gray-man: Kami no Shito-tachi | 68240 | [68240-d-gray-man-kami-no-shito-tachi.json](./68240-d-gray-man-kami-no-shito-tachi.json) |
+| D.Gray-man: Sousha no Shikaku | 68236 | [68236-d-gray-man-sousha-no-shikaku.json](./68236-d-gray-man-sousha-no-shikaku.json) |
 | D.H.M. | 224649 | [224649-d-h-m.json](./224649-d-h-m.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
@@ -3954,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despectum Drakone | 203952 | [203952-despectum-drakone.json](./203952-despectum-drakone.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
+| Desperados | 68252 | [68252-desperados.json](./68252-desperados.json) |
 | Desperados 2: Cooper's Revenge | 7261 | [7261-desperados-2-coopers-revenge.json](./7261-desperados-2-coopers-revenge.json) |
 | Desperados III: Money for the Vultures - Part 1: Late to the Party | 152234 | [152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json](./152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json) |
 | Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
@@ -8401,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
 | DragonShift | 249893 | [249893-dragonshift.json](./249893-dragonshift.json) |
 | DragonSky | 303178 | [303178-dragonsky.json](./303178-dragonsky.json) |
+| DragonSky | 68251 | [68251-dragonsky.json](./68251-dragonsky.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
@@ -9527,6 +9531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
+| Duck n' Dodge | 68359 | [68359-duck-n-dodge.json](./68359-duck-n-dodge.json) |
 | Duck Norris Tales | 372044 | [372044-duck-norris-tales.json](./372044-duck-norris-tales.json) |
 | Duck Nukem: Four Feathers | 230210 | [230210-duck-nukem-four-feathers.json](./230210-duck-nukem-four-feathers.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
