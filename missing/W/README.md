@@ -4457,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
+| World Clock | 90901 | [90901-world-clock.json](./90901-world-clock.json) |
 | World Club Champion Football: Intercontinental Clubs 2011-2012 | 314987 | [314987-world-club-champion-football-intercontinental-clubs-2011-2012.json](./314987-world-club-champion-football-intercontinental-clubs-2011-2012.json) |
 | World Combat | 380513 | [380513-world-combat.json](./380513-world-combat.json) |
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
