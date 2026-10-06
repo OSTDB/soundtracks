@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Memory Nature | 150780 | [150780-hidden-memory-nature.json](./150780-hidden-memory-nature.json) |
 | Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
+| Hidden Mysteries: Buckingham Palace Secrets of Kings & Queens | 66902 | [66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json](./66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json) |
 | Hidden Mysteries: Civil War | 34842 | [34842-hidden-mysteries-civil-war.json](./34842-hidden-mysteries-civil-war.json) |
 | Hidden Mysteries: Gates of Graceland | 54092 | [54092-hidden-mysteries-gates-of-graceland.json](./54092-hidden-mysteries-gates-of-graceland.json) |
 | Hidden Mysteries: Lost Secrets - A Vampires Tale, Paris Stories | 209401 | [209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json](./209401-hidden-mysteries-lost-secrets-a-vampires-tale-paris-stories.json) |
@@ -4551,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
 | History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
+| History: Ice Road Truckers | 66890 | [66890-history-ice-road-truckers.json](./66890-history-ice-road-truckers.json) |
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
