@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jinrou Senki Warwolf | 48590 | [48590-chou-jinrou-senki-warwolf.json](./48590-chou-jinrou-senki-warwolf.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Chou Jiryoku Senshi Microman Generation 2000 | 166590 | [166590-chou-jiryoku-senshi-microman-generation-2000.json](./166590-chou-jiryoku-senshi-microman-generation-2000.json) |
+| Chou Kagaku Dasshutsu: Gear Detective | 59207 | [59207-chou-kagaku-dasshutsu-gear-detective.json](./59207-chou-kagaku-dasshutsu-gear-detective.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
@@ -4679,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chunky Jump! | 347853 | [347853-chunky-jump.json](./347853-chunky-jump.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
+| Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
 | Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
 | Church Crew | 360740 | [360740-church-crew.json](./360740-church-crew.json) |
@@ -9110,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy Flies | 31058 | [31058-crazy-flies.json](./31058-crazy-flies.json) |
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
+| Crazy Flying Squirrel | 59248 | [59248-crazy-flying-squirrel.json](./59248-crazy-flying-squirrel.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
@@ -11261,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
+| Cyberoque | 59255 | [59255-cyberoque.json](./59255-cyberoque.json) |
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
 | Cyberpet Graveyard | 176778 | [176778-cyberpet-graveyard.json](./176778-cyberpet-graveyard.json) |
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
