@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail & Trails | 259525 | [259525-tail-and-trails.json](./259525-tail-and-trails.json) |
 | Tail and Сhaos | 410312 | [410312-tail-and-haos.json](./410312-tail-and-haos.json) |
 | Tail Drift | 17980 | [17980-tail-drift.json](./17980-tail-drift.json) |
+| Tail Gun Charlie | 70624 | [70624-tail-gun-charlie.json](./70624-tail-gun-charlie.json) |
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
 | Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
 | Tangram Attack | 85423 | [85423-tangram-attack.json](./85423-tangram-attack.json) |
+| Tangram Puzzle Pro | 70605 | [70605-tangram-puzzle-pro.json](./70605-tangram-puzzle-pro.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
 | Tangrams | 234157 | [234157-tangrams.json](./234157-tangrams.json) |
@@ -1401,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Revenge 2 | 92642 | [92642-tap-tap-revenge-2.json](./92642-tap-tap-revenge-2.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
 | Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
+| Tap Tap Revenge: NIN Edition | 70610 | [70610-tap-tap-revenge-nin-edition.json](./70610-tap-tap-revenge-nin-edition.json) |
 | Tap Tap Run | 193802 | [193802-tap-tap-run.json](./193802-tap-tap-run.json) |
 | Tap Tap Trillionaire: Invest! | 261353 | [261353-tap-tap-trillionaire-invest.json](./261353-tap-tap-trillionaire-invest.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
@@ -4917,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
+| The Eigyoudou | 70594 | [70594-the-eigyoudou.json](./70594-the-eigyoudou.json) |
 | The Eire Raising Adventures of Seamus O'Mally | 73860 | [73860-the-eire-raising-adventures-of-seamus-omally.json](./73860-the-eire-raising-adventures-of-seamus-omally.json) |
 | The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
