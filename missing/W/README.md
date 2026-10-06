@@ -3963,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
+| Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
 | Wolfschanze | 81168 | [81168-wolfschanze.json](./81168-wolfschanze.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
