@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
+| Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
@@ -4631,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
+| Shin XALX no Monshou 98 | 92124 | [92124-shin-xalx-no-monshou-98.json](./92124-shin-xalx-no-monshou-98.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
@@ -6381,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
 | Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
+| Sirius-1 | 92129 | [92129-sirius-1.json](./92129-sirius-1.json) |
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sirocco | 298272 | [298272-sirocco.json](./298272-sirocco.json) |
@@ -16071,6 +16074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suchawira World Traveler | 124563 | [124563-suchawira-world-traveler.json](./124563-suchawira-world-traveler.json) |
+| Suchie-Pai Adventure: Doki-doki Nightmare | 92137 | [92137-suchie-pai-adventure-doki-doki-nightmare.json](./92137-suchie-pai-adventure-doki-doki-nightmare.json) |
 | Suck It Up | 391318 | [391318-suck-it-up.json](./391318-suck-it-up.json) |
 | Suck It Up! | 403775 | [403775-suck-it-up.json](./403775-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
@@ -16354,6 +16358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
 | Suki Suki Love | 365206 | [365206-suki-suki-love.json](./365206-suki-suki-love.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
+| Suki! | 92119 | [92119-suki.json](./92119-suki.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | Sulfur | 233970 | [233970-sulfur.json](./233970-sulfur.json) |
@@ -19430,6 +19435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swinging Over It with Alin Lucian | 116415 | [116415-swinging-over-it-with-alin-lucian.json](./116415-swinging-over-it-with-alin-lucian.json) |
+| Swinging Singles | 92158 | [92158-swinging-singles.json](./92158-swinging-singles.json) |
 | Swinging-Man | 188428 | [188428-swinging-man.json](./188428-swinging-man.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
