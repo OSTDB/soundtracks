@@ -7135,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boorp's Balls | 122892 | [122892-boorps-balls.json](./122892-boorps-balls.json) |
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
 | Boost 2 | 79375 | [79375-boost-2.json](./79375-boost-2.json) |
+| Boost Arena | 103370 | [103370-boost-arena.json](./103370-boost-arena.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
 | Boost Beginner | 273035 | [273035-boost-beginner.json](./273035-boost-beginner.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
@@ -8144,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It Out | 99194 | [99194-break-it-out.json](./99194-break-it-out.json) |
 | Break It Out 2 | 196622 | [196622-break-it-out-2.json](./196622-break-it-out-2.json) |
+| Break It: Cube Smash | 103336 | [103336-break-it-cube-smash.json](./103336-break-it-cube-smash.json) |
 | Break It! | 298263 | [298263-break-it.json](./298263-break-it.json) |
 | Break Limit | 91945 | [91945-break-limit.json](./91945-break-limit.json) |
 | Break Liner | 57346 | [57346-break-liner.json](./57346-break-liner.json) |
