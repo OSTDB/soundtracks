@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaleton | 284414 | [284414-scaleton.json](./284414-scaleton.json) |
+| Scalextric | 103556 | [103556-scalextric.json](./103556-scalextric.json) |
 | Scalextric: The Computer Edition | 13032 | [13032-scalextric-the-computer-edition.json](./13032-scalextric-the-computer-edition.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
+| Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
@@ -12070,6 +12072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Chains of Promise | 59878 | [59878-spirits-of-mystery-chains-of-promise.json](./59878-spirits-of-mystery-chains-of-promise.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
+| Spirits of Mystery: Illusions | 103560 | [103560-spirits-of-mystery-illusions.json](./103560-spirits-of-mystery-illusions.json) |
 | Spirits of Mystery: Song of the Phoenix | 62822 | [62822-spirits-of-mystery-song-of-the-phoenix.json](./62822-spirits-of-mystery-song-of-the-phoenix.json) |
 | Spirits of Mystery: The Dark Minotaur | 62824 | [62824-spirits-of-mystery-the-dark-minotaur.json](./62824-spirits-of-mystery-the-dark-minotaur.json) |
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
@@ -14868,6 +14871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoneveil | 377591 | [377591-stoneveil.json](./377591-stoneveil.json) |
 | Stoneville Manor | 366262 | [366262-stoneville-manor.json](./366262-stoneville-manor.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
+| Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
