@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Lab Remnants | 188367 | [188367-lab-remnants.json](./188367-lab-remnants.json) |
 | Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
+| Lab.Gen. | 108372 | [108372-lab-gen.json](./108372-lab-gen.json) |
 | Lab47 | 407425 | [407425-lab47.json](./407425-lab47.json) |
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
 | Land of Puzzles: Castles | 108036 | [108036-land-of-puzzles-castles.json](./108036-land-of-puzzles-castles.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
+| Land of Puzzles: Knights | 108383 | [108383-land-of-puzzles-knights.json](./108383-land-of-puzzles-knights.json) |
 | Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
 | Land of Screens | 137110 | [137110-land-of-screens.json](./137110-land-of-screens.json) |
 | Land of Tales | 244736 | [244736-land-of-tales.json](./244736-land-of-tales.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log Truck | 101492 | [101492-log-truck.json](./101492-log-truck.json) |
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
+| Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
