@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
 | Nikoli no Puzzle 4: Hashi wo Kakero | 218989 | [218989-nikoli-no-puzzle-4-hashi-wo-kakero.json](./218989-nikoli-no-puzzle-4-hashi-wo-kakero.json) |
 | Nikoli no Puzzle 4: Heyawake | 218990 | [218990-nikoli-no-puzzle-4-heyawake.json](./218990-nikoli-no-puzzle-4-heyawake.json) |
+| Nikoli no Puzzle 4: Museum | 58615 | [58615-nikoli-no-puzzle-4-museum.json](./58615-nikoli-no-puzzle-4-museum.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
 | Nikoli no Puzzle 4: Slither Link | 218987 | [218987-nikoli-no-puzzle-4-slither-link.json](./218987-nikoli-no-puzzle-4-slither-link.json) |
 | Nikoli no Puzzle 4: Sudoku | 62164 | [62164-nikoli-no-puzzle-4-sudoku.json](./62164-nikoli-no-puzzle-4-sudoku.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
 | Ninja no Gakko | 290402 | [290402-ninja-no-gakko.json](./290402-ninja-no-gakko.json) |
 | Ninja Numpties | 324333 | [324333-ninja-numpties.json](./324333-ninja-numpties.json) |
+| Ninja Online | 58607 | [58607-ninja-online.json](./58607-ninja-online.json) |
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
