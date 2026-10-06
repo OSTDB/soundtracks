@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
+| Dance Summit 2001: Bust a Move | 72953 | [72953-dance-summit-2001-bust-a-move.json](./72953-dance-summit-2001-bust-a-move.json) |
 | Dance To Heck | 338863 | [338863-dance-to-heck.json](./338863-dance-to-heck.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
 | Dance Trips | 263697 | [263697-dance-trips.json](./263697-dance-trips.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dap | 143326 | [143326-dap.json](./143326-dap.json) |
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
+| Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
@@ -5479,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Kids: Dolphin Discovery | 72755 | [72755-discovery-kids-dolphin-discovery.json](./72755-discovery-kids-dolphin-discovery.json) |
 | Discovery Kids: Kitten Corner | 72957 | [72957-discovery-kids-kitten-corner.json](./72957-discovery-kids-kitten-corner.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
+| Discovery Kids: Puppy Playtime | 72894 | [72894-discovery-kids-puppy-playtime.json](./72894-discovery-kids-puppy-playtime.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
 | Discovery Tour Bundle by Assassin's Creed | 218999 | [218999-discovery-tour-bundle-by-assassins-creed.json](./218999-discovery-tour-bundle-by-assassins-creed.json) |
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
