@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
+| Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
@@ -6786,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
 | Hybrid | 178464 | [178464-hybrid.json](./178464-hybrid.json) |
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
+| Hybrid | 85739 | [85739-hybrid.json](./85739-hybrid.json) |
 | Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
