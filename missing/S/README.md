@@ -10265,6 +10265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo | 112508 | [112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json](./112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json) |
 | Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo 3 * Kono Sekai de 2 no Hatsubai Yotei wa Arimasen. | 112507 | [112507-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo-3-kono-sekai-de-2-no-hatsubai-yotei-wa-arimasen.json](./112507-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo-3-kono-sekai-de-2-no-hatsubai-yotei-wa-arimasen.json) |
 | Soucha Yi Ke | 309969 | [309969-soucha-yi-ke.json](./309969-soucha-yi-ke.json) |
+| Soudentou no Mimei | 64211 | [64211-soudentou-no-mimei.json](./64211-soudentou-no-mimei.json) |
 | Souen no Iseki | 206174 | [206174-souen-no-iseki.json](./206174-souen-no-iseki.json) |
 | Sougetsu Ninja: Kikyou | 119708 | [119708-sougetsu-ninja-kikyou.json](./119708-sougetsu-ninja-kikyou.json) |
 | Sougou Kakutougi Rings: Astral Bout 3 | 38298 | [38298-sougou-kakutougi-rings-astral-bout-3.json](./38298-sougou-kakutougi-rings-astral-bout-3.json) |
@@ -18064,6 +18065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Sonic | 310655 | [310655-super-monkey-ball-banana-rumble-sonic.json](./310655-super-monkey-ball-banana-rumble-sonic.json) |
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
+| Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
 | Super Monkie Bounce Fatal | 252809 | [252809-super-monkie-bounce-fatal.json](./252809-super-monkie-bounce-fatal.json) |
 | Super Monster | 101108 | [101108-super-monster.json](./101108-super-monster.json) |
