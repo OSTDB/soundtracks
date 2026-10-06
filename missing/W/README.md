@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
+| Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
@@ -4522,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
 | World Keepers: Last Resort | 30380 | [30380-world-keepers-last-resort.json](./30380-world-keepers-last-resort.json) |
+| World Kitchen Fever Cooking | 88635 | [88635-world-kitchen-fever-cooking.json](./88635-world-kitchen-fever-cooking.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
