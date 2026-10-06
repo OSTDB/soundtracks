@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
+| The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
@@ -14505,6 +14506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Fucking Psychopath | 346639 | [346639-total-fucking-psychopath.json](./346639-total-fucking-psychopath.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
+| Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Overdose | 6213 | [6213-total-overdose.json](./6213-total-overdose.json) |
