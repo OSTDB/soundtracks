@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Strike Bowling | 43892 | [43892-big-strike-bowling.json](./43892-big-strike-bowling.json) |
 | Big Striker | 39817 | [39817-big-striker.json](./39817-big-striker.json) |
+| Big Surprise | 99715 | [99715-big-surprise.json](./99715-big-surprise.json) |
 | Big Survivor | 235875 | [235875-big-survivor.json](./235875-big-survivor.json) |
 | Big Sword Hero | 249820 | [249820-big-sword-hero.json](./249820-big-sword-hero.json) |
 | Big Tall Small | 298793 | [298793-big-tall-small.json](./298793-big-tall-small.json) |
@@ -5683,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
+| Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
@@ -9153,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
+| Build Craft 2: Survival & Exploration | 99706 | [99706-build-craft-2-survival-and-exploration.json](./99706-build-craft-2-survival-and-exploration.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build If You Can | 23978 | [23978-build-if-you-can.json](./23978-build-if-you-can.json) |
 | Build It | 108620 | [108620-build-it.json](./108620-build-it.json) |
@@ -9169,6 +9172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
+| Build-a-lot 4: Power Source HD | 99722 | [99722-build-a-lot-4-power-source-hd.json](./99722-build-a-lot-4-power-source-hd.json) |
 | Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
 | Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
 | Build-A-Lot: Mysteries 2 | 341620 | [341620-build-a-lot-mysteries-2.json](./341620-build-a-lot-mysteries-2.json) |
