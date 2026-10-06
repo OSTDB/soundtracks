@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
 | Pea Shootin' Pete | 70481 | [70481-pea-shootin-pete.json](./70481-pea-shootin-pete.json) |
 | Peace Breaker | 270144 | [270144-peace-breaker.json](./270144-peace-breaker.json) |
+| Peace Duke | 93774 | [93774-peace-duke.json](./93774-peace-duke.json) |
 | Peace for Ukraine | 211684 | [211684-peace-for-ukraine.json](./211684-peace-for-ukraine.json) |
 | Peace Incarnate | 404987 | [404987-peace-incarnate.json](./404987-peace-incarnate.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
@@ -6336,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
 | Pokitaire | 158580 | [158580-pokitaire.json](./158580-pokitaire.json) |
+| Pokka Man | 93777 | [93777-pokka-man.json](./93777-pokka-man.json) |
 | Pokkén Tournament DX | 36794 | [36794-pokken-tournament-dx.json](./36794-pokken-tournament-dx.json) |
 | Pokkén Tournament DX + Pokkén Tournament DX: Battle Pack | 237897 | [237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json](./237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
@@ -7497,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precision of Insight | 249925 | [249925-precision-of-insight.json](./249925-precision-of-insight.json) |
 | Precision Platform Bundle | 331487 | [331487-precision-platform-bundle.json](./331487-precision-platform-bundle.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
+| Precision Sniping: Competitive | 93785 | [93785-precision-sniping-competitive.json](./93785-precision-sniping-competitive.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
@@ -7705,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
+| Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
