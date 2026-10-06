@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellyon: Boss Confrontation | 105558 | [105558-cellyon-boss-confrontation.json](./105558-cellyon-boss-confrontation.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
 | Celsius Heroes | 56566 | [56566-celsius-heroes.json](./56566-celsius-heroes.json) |
+| Celtabula | 68892 | [68892-celtabula.json](./68892-celtabula.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
 | Celtic FC Club Football | 267883 | [267883-celtic-fc-club-football.json](./267883-celtic-fc-club-football.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
 | Chou Tousouchuu & Chou Sentouchuu Double Pack | 107656 | [107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json](./107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json) |
 | Chou Yakkyou Miracle Nine | 45541 | [45541-chou-yakkyou-miracle-nine.json](./45541-chou-yakkyou-miracle-nine.json) |
+| Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
@@ -8791,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Grizzbot Assembly 2 | 180068 | [180068-crankies-workshop-grizzbot-assembly-2.json](./180068-crankies-workshop-grizzbot-assembly-2.json) |
 | Crankies Workshop: Lerpbot Assembly | 180030 | [180030-crankies-workshop-lerpbot-assembly.json](./180030-crankies-workshop-lerpbot-assembly.json) |
 | Crankies Workshop: Whirlbot Assembly | 180052 | [180052-crankies-workshop-whirlbot-assembly.json](./180052-crankies-workshop-whirlbot-assembly.json) |
+| Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
@@ -10233,6 +10236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
+| Crystal Pixels | 68904 | [68904-crystal-pixels.json](./68904-crystal-pixels.json) |
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
