@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haikyuu!! Donpisha Match!! | 196599 | [196599-haikyuu-donpisha-match.json](./196599-haikyuu-donpisha-match.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
+| Hail to the King | 114265 | [114265-hail-to-the-king.json](./114265-hail-to-the-king.json) |
 | Hailborn: UFO Stole My Egg! | 337292 | [337292-hailborn-ufo-stole-my-egg.json](./337292-hailborn-ufo-stole-my-egg.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
 | Hailey's Aesop | 303696 | [303696-haileys-aesop.json](./303696-haileys-aesop.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
+| Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
@@ -5541,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Horrors of Helmsfirth | 263701 | [263701-horrors-of-helmsfirth.json](./263701-horrors-of-helmsfirth.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
+| Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
