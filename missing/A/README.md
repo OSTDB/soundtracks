@@ -5676,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Century's Episode 2 | 9579 | [9579-another-centurys-episode-2.json](./9579-another-centurys-episode-2.json) |
 | Another Century's Episode 3: The Final | 9582 | [9582-another-centurys-episode-3-the-final.json](./9582-another-centurys-episode-3-the-final.json) |
+| Another Century's Episode Portable | 66344 | [66344-another-centurys-episode-portable.json](./66344-another-centurys-episode-portable.json) |
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
 | Another Chance | 253484 | [253484-another-chance.json](./253484-another-chance.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
@@ -7467,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor MMO | 69511 | [69511-armor-mmo.json](./69511-armor-mmo.json) |
 | Armor of Doom | 308886 | [308886-armor-of-doom.json](./308886-armor-of-doom.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
+| Armor Valley | 66430 | [66430-armor-valley.json](./66430-armor-valley.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
 | Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
@@ -7907,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascribe Imya | 382457 | [382457-ascribe-imya.json](./382457-ascribe-imya.json) |
 | ASDA Global | 82963 | [82963-asda-global.json](./82963-asda-global.json) |
 | Asda Story | 72790 | [72790-asda-story.json](./72790-asda-story.json) |
+| Asda Story Chapter 3 | 66442 | [66442-asda-story-chapter-3.json](./66442-asda-story-chapter-3.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
