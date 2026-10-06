@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakitu's Great Adventure 2 | 222974 | [222974-lakitus-great-adventure-2.json](./222974-lakitus-great-adventure-2.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
+| Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
