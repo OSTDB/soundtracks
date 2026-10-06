@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
+| Hadou no Hyouteki | 77562 | [77562-hadou-no-hyouteki.json](./77562-hadou-no-hyouteki.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadrian's Villa Reborn: Stadium Garden | 167609 | [167609-hadrians-villa-reborn-stadium-garden.json](./167609-hadrians-villa-reborn-stadium-garden.json) |
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
