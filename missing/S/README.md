@@ -5373,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
+| Shuffle Board | 74726 | [74726-shuffle-board.json](./74726-shuffle-board.json) |
 | Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
@@ -6214,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
+| Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
 | Sin | 151822 | [151822-sin.json](./151822-sin.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
@@ -6529,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
 | Skade | 258975 | [258975-skade.json](./258975-skade.json) |
 | Skader | 224626 | [224626-skader.json](./224626-skader.json) |
+| Skadonk Showdown | 74718 | [74718-skadonk-showdown.json](./74718-skadonk-showdown.json) |
 | Skala | 217395 | [217395-skala.json](./217395-skala.json) |
 | Skald: Against the Black Priory | 125250 | [125250-skald-against-the-black-priory.json](./125250-skald-against-the-black-priory.json) |
 | Skald: Against the Black Priory - Reinforcement Pack | 311994 | [311994-skald-against-the-black-priory-reinforcement-pack.json](./311994-skald-against-the-black-priory-reinforcement-pack.json) |
