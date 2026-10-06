@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative_Space | 114547 | [114547-negative-space.json](./114547-negative-space.json) |
 | Negative: The Way of Shinobi | 143331 | [143331-negative-the-way-of-shinobi.json](./143331-negative-the-way-of-shinobi.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
+| Negima!? Magister Negi Magi: Chou Mahora Taisen Cut-iin, Keiyaku Shikkou Dechai-masuu | 79524 | [79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json](./79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
