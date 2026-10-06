@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble for Game Boy | 131453 | [131453-scrabble-for-game-boy.json](./131453-scrabble-for-game-boy.json) |
+| Scrabble Interactive: 2003 Edition | 73995 | [73995-scrabble-interactive-2003-edition.json](./73995-scrabble-interactive-2003-edition.json) |
 | Scrabble Interactive: 2007 Edition | 51207 | [51207-scrabble-interactive-2007-edition.json](./51207-scrabble-interactive-2007-edition.json) |
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search & Find: Hidden Objects | 264637 | [264637-search-and-find-hidden-objects.json](./264637-search-and-find-hidden-objects.json) |
 | Search & Rescue 4: Coastal Heroes | 50114 | [50114-search-and-rescue-4-coastal-heroes.json](./50114-search-and-rescue-4-coastal-heroes.json) |
+| Search & Rescue: Vietnam Med Evac | 73994 | [73994-search-and-rescue-vietnam-med-evac.json](./73994-search-and-rescue-vietnam-med-evac.json) |
 | Search 4 Bigfoot | 213460 | [213460-search-4-bigfoot.json](./213460-search-4-bigfoot.json) |
 | Search All: Aliens | 294970 | [294970-search-all-aliens.json](./294970-search-all-aliens.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
@@ -5222,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shougi ga Tsuyokunaru: Gekisashi - Jouseki Doujou | 269528 | [269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json](./269528-shougi-ga-tsuyokunaru-gekisashi-jouseki-doujou.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
+| Shoujo Attack! | 73988 | [73988-shoujo-attack.json](./73988-shoujo-attack.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
@@ -6183,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIMT Simulator | 55118 | [55118-simt-simulator.json](./55118-simt-simulator.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
+| SimTunes | 74020 | [74020-simtunes.json](./74020-simtunes.json) |
 | Simulacra 2 | 122134 | [122134-simulacra-2.json](./122134-simulacra-2.json) |
 | Simulacra 3 | 198859 | [198859-simulacra-3.json](./198859-simulacra-3.json) |
 | Simulacra: Pipe Dreams | 110900 | [110900-simulacra-pipe-dreams.json](./110900-simulacra-pipe-dreams.json) |
@@ -8649,6 +8653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
 | Snowy: The Bear's Adventures | 73857 | [73857-snowy-the-bears-adventures.json](./73857-snowy-the-bears-adventures.json) |
 | Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
+| Snowy: Treasure Hunter | 74010 | [74010-snowy-treasure-hunter.json](./74010-snowy-treasure-hunter.json) |
 | SNS | 163881 | [163881-sns.json](./163881-sns.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
@@ -8998,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
+| Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
@@ -11494,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
+| Special Edition Pinball Dreams Pinball Fantasies | 74032 | [74032-special-edition-pinball-dreams-pinball-fantasies.json](./74032-special-edition-pinball-dreams-pinball-fantasies.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
@@ -13164,6 +13171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Castles 2 | 397259 | [397259-star-castles-2.json](./397259-star-castles-2.json) |
 | Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
+| Star Chamber | 74036 | [74036-star-chamber.json](./74036-star-chamber.json) |
 | Star Chaser in Sea World | 154073 | [154073-star-chaser-in-sea-world.json](./154073-star-chaser-in-sea-world.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chef: Cooking Game | 105517 | [105517-star-chef-cooking-game.json](./105517-star-chef-cooking-game.json) |
@@ -17200,6 +17208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
+| Super DX-Ball | 73985 | [73985-super-dx-ball.json](./73985-super-dx-ball.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
@@ -18648,6 +18657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
 | Superior: Vengeance | 256979 | [256979-superior-vengeance.json](./256979-superior-vengeance.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
+| SuperKarts | 74017 | [74017-superkarts.json](./74017-superkarts.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | SuperKraft | 255246 | [255246-superkraft.json](./255246-superkraft.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
