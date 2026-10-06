@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
 | Hacktag | 28241 | [28241-hacktag.json](./28241-hacktag.json) |
 | HackyZack | 28076 | [28076-hackyzack.json](./28076-hackyzack.json) |
+| HacX: Twitch 'n Kill | 78912 | [78912-hacx-twitch-n-kill.json](./78912-hacx-twitch-n-kill.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
+| HeadStart Fun Pac | 78891 | [78891-headstart-fun-pac.json](./78891-headstart-fun-pac.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
@@ -2150,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
 | Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
+| Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
@@ -4106,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
 | Higanbana | 308896 | [308896-higanbana.json](./308896-higanbana.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
+| Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
 | Higgs Boson: Puzzle Collection | 344492 | [344492-higgs-boson-puzzle-collection.json](./344492-higgs-boson-puzzle-collection.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
@@ -4535,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
+| Hit It! | 78918 | [78918-hit-it.json](./78918-hit-it.json) |
 | Hit Marmot | 48897 | [48897-hit-marmot.json](./48897-hit-marmot.json) |
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
