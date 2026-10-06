@@ -6136,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midna's Mario World | 282730 | [282730-midnas-mario-world.json](./282730-midnas-mario-world.json) |
 | Midnight | 312215 | [312215-midnight.json](./312215-midnight.json) |
 | Midnight | 33802 | [33802-midnight.json](./33802-midnight.json) |
+| Midnight 2 | 58602 | [58602-midnight-2.json](./58602-midnight-2.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
@@ -7899,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
+| Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 7: Mystery Coast | 171437 | [171437-moai-7-mystery-coast.json](./171437-moai-7-mystery-coast.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
 | Moai III: Trade Mission - Collector's Edition | 53382 | [53382-moai-iii-trade-mission-collectors-edition.json](./53382-moai-iii-trade-mission-collectors-edition.json) |
@@ -8704,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
+| Monster Hunter Explore | 58601 | [58601-monster-hunter-explore.json](./58601-monster-hunter-explore.json) |
 | Monster Hunter Frontier G | 5316 | [5316-monster-hunter-frontier-g.json](./5316-monster-hunter-frontier-g.json) |
 | Monster Hunter Frontier G Genuine | 78359 | [78359-monster-hunter-frontier-g-genuine.json](./78359-monster-hunter-frontier-g-genuine.json) |
 | Monster Hunter Frontier G2 | 61700 | [61700-monster-hunter-frontier-g2.json](./61700-monster-hunter-frontier-g2.json) |
@@ -9054,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument Builders: Big Ben | 294445 | [294445-monument-builders-big-ben.json](./294445-monument-builders-big-ben.json) |
 | Monument Builders: Cathedral Rising | 294444 | [294444-monument-builders-cathedral-rising.json](./294444-monument-builders-cathedral-rising.json) |
+| Monument Builders: Rushmore | 58648 | [58648-monument-builders-rushmore.json](./58648-monument-builders-rushmore.json) |
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley | 8900 | [8900-monument-valley.json](./8900-monument-valley.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
@@ -9318,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
+| Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
@@ -11057,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Caligula | 323241 | [323241-my-caligula.json](./323241-my-caligula.json) |
 | My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
+| My Candy Love | 58621 | [58621-my-candy-love.json](./58621-my-candy-love.json) |
 | My Candy Love: High School Life | 186654 | [186654-my-candy-love-high-school-life.json](./186654-my-candy-love-high-school-life.json) |
 | My Candy Love: New Gen | 227973 | [227973-my-candy-love-new-gen.json](./227973-my-candy-love-new-gen.json) |
 | My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
