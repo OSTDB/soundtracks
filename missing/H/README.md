@@ -2501,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
+| Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
