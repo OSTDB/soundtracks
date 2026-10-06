@@ -4226,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilakkuma Loop | 283825 | [283825-rilakkuma-loop.json](./283825-rilakkuma-loop.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilakkuma Rhythm: Mattari Kibun de Da Run Run Run | 284429 | [284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json](./284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json) |
+| Rilakkuma: Ojama Shitemasu 2-shuukan | 70593 | [70593-rilakkuma-ojama-shitemasu-2-shuukan.json](./70593-rilakkuma-ojama-shitemasu-2-shuukan.json) |
 | Riley & Rochelle | 210694 | [210694-riley-and-rochelle.json](./210694-riley-and-rochelle.json) |
 | Riley in the Abyss | 239704 | [239704-riley-in-the-abyss.json](./239704-riley-in-the-abyss.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
