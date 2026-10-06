@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.M.A.D. | 226135 | [226135-n-o-m-a-d.json](./226135-n-o-m-a-d.json) |
 | N.O.N.E.Z. | 376062 | [376062-n-o-n-e-z.json](./376062-n-o-n-e-z.json) |
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
+| N.O.S. Car Speedrace | 107085 | [107085-n-o-s-car-speedrace.json](./107085-n-o-s-car-speedrace.json) |
 | N.O.V.A. | 210542 | [210542-n-o-v-a.json](./210542-n-o-v-a.json) |
 | N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
