@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
 | Kanun 1919 | 396567 | [396567-kanun-1919.json](./396567-kanun-1919.json) |
+| Kanye Quest 3030 | 63104 | [63104-kanye-quest-3030.json](./63104-kanye-quest-3030.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanyu: Sword Tomb | 224033 | [224033-kanyu-sword-tomb.json](./224033-kanyu-sword-tomb.json) |
 | Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
