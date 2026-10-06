@@ -8278,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
+| Pro Wrestling Kentei DS | 66990 | [66990-pro-wrestling-kentei-ds.json](./66990-pro-wrestling-kentei-ds.json) |
 | Pro Wrestling Tycoon | 413165 | [413165-pro-wrestling-tycoon.json](./413165-pro-wrestling-tycoon.json) |
 | Pro Wrestling X | 17337 | [17337-pro-wrestling-x.json](./17337-pro-wrestling-x.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
@@ -10016,6 +10017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Room Escape | 261983 | [261983-puzzle-room-escape.json](./261983-puzzle-room-escape.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
+| Puzzle Scape Mini | 66979 | [66979-puzzle-scape-mini.json](./66979-puzzle-scape-mini.json) |
 | Puzzle Scenery | 312683 | [312683-puzzle-scenery.json](./312683-puzzle-scenery.json) |
 | Puzzle Sculpt | 313770 | [313770-puzzle-sculpt.json](./313770-puzzle-sculpt.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
