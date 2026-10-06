@@ -8463,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
+| BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
