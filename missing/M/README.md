@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Paths HD | 263584 | [263584-magic-paths-hd.json](./263584-magic-paths-hd.json) |
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
+| Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
 | Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
+| Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
@@ -8981,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
+| Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
@@ -11580,6 +11583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 340011 | [340011-myst.json](./340011-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
+| Myst 25th Anniversary Collection | 101035 | [101035-myst-25th-anniversary-collection.json](./101035-myst-25th-anniversary-collection.json) |
 | Myst Demake | 334868 | [334868-myst-demake.json](./334868-myst-demake.json) |
 | Myst III: Exile | 797 | [797-myst-iii-exile.json](./797-myst-iii-exile.json) |
 | Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
