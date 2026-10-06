@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
+| Adelanto 4 Aztec Skulls | 95643 | [95643-adelanto-4-aztec-skulls.json](./95643-adelanto-4-aztec-skulls.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adeona | 148117 | [148117-adeona.json](./148117-adeona.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
@@ -2596,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
+| Air hockey hero | 95677 | [95677-air-hockey-hero.json](./95677-air-hockey-hero.json) |
 | Air Hockey Pink | 175177 | [175177-air-hockey-pink.json](./175177-air-hockey-pink.json) |
 | Air Hockey Puzzles | 196643 | [196643-air-hockey-puzzles.json](./196643-air-hockey-puzzles.json) |
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
@@ -3222,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algor Pew Pew | 270858 | [270858-algor-pew-pew.json](./270858-algor-pew-pew.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
+| Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
 | Ali-Baba | 84339 | [84339-ali-baba.json](./84339-ali-baba.json) |
 | Alia's Carnival! Flowering Sky | 71581 | [71581-alias-carnival-flowering-sky.json](./71581-alias-carnival-flowering-sky.json) |
