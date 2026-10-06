@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
 | FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
+| FIFA Online | 66910 | [66910-fifa-online.json](./66910-fifa-online.json) |
 | FIFA Rivals | 335513 | [335513-fifa-rivals.json](./335513-fifa-rivals.json) |
 | FIFA Soccer | 21722 | [21722-fifa-soccer.json](./21722-fifa-soccer.json) |
 | FIFA Soccer 06 | 229741 | [229741-fifa-soccer-06.json](./229741-fifa-soccer-06.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
 | Flips: Terror in Cubicle Four | 66966 | [66966-flips-terror-in-cubicle-four.json](./66966-flips-terror-in-cubicle-four.json) |
+| Flips: The Bubonic Builders | 66911 | [66911-flips-the-bubonic-builders.json](./66911-flips-the-bubonic-builders.json) |
 | Flips: The Enchanted Wood | 66604 | [66604-flips-the-enchanted-wood.json](./66604-flips-the-enchanted-wood.json) |
 | Flips: The Folk of the Faraway Tree | 79866 | [79866-flips-the-folk-of-the-faraway-tree.json](./79866-flips-the-folk-of-the-faraway-tree.json) |
 | Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
@@ -4978,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Odor Girl | 288910 | [288910-foot-odor-girl.json](./288910-foot-odor-girl.json) |
 | Foot Serve | 288904 | [288904-foot-serve.json](./288904-foot-serve.json) |
 | Foot Step | 320951 | [320951-foot-step.json](./320951-foot-step.json) |
+| Foot2Rue Nicolas Anelka | 66988 | [66988-foot2rue-nicolas-anelka.json](./66988-foot2rue-nicolas-anelka.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Footage | 309453 | [309453-footage.json](./309453-footage.json) |
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
