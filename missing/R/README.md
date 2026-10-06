@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccooneering | 306601 | [306601-raccooneering.json](./306601-raccooneering.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race | 295994 | [295994-race.json](./295994-race.json) |
+| Race | 97438 | [97438-race.json](./97438-race.json) |
 | Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
 | Race 07: STCC - The Game 1 | 164387 | [164387-race-07-stcc-the-game-1.json](./164387-race-07-stcc-the-game-1.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
+| Rampage: AR Unleashed | 97528 | [97528-rampage-ar-unleashed.json](./97528-rampage-ar-unleashed.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampallians | 406854 | [406854-rampallians.json](./406854-rampallians.json) |
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
