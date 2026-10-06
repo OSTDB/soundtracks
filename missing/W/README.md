@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
 | WGRealms: Demon Throne | 151832 | [151832-wgrealms-demon-throne.json](./151832-wgrealms-demon-throne.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
+| WGT Baseball MLB | 101669 | [101669-wgt-baseball-mlb.json](./101669-wgt-baseball-mlb.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
 | WGV: Dreamcatcher | 338380 | [338380-wgv-dreamcatcher.json](./338380-wgv-dreamcatcher.json) |
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
 | World's Biggest Solitaire | 109918 | [109918-worlds-biggest-solitaire.json](./109918-worlds-biggest-solitaire.json) |
+| World's End Chapter 3 | 101707 | [101707-worlds-end-chapter-3.json](./101707-worlds-end-chapter-3.json) |
 | World's End Club | 110581 | [110581-worlds-end-club.json](./110581-worlds-end-club.json) |
 | World's End Garden | 98043 | [98043-worlds-end-garden.json](./98043-worlds-end-garden.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
