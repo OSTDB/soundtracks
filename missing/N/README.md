@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
+| No Surrender: Battle of the Bulge | 73480 | [73480-no-surrender-battle-of-the-bulge.json](./73480-no-surrender-battle-of-the-bulge.json) |
 | No Sushi, No Life | 156001 | [156001-no-sushi-no-life.json](./156001-no-sushi-no-life.json) |
 | No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
