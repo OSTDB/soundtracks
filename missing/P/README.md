@@ -1796,10 +1796,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
+| Pawapuro-kun Pocket 10 | 98516 | [98516-pawapuro-kun-pocket-10.json](./98516-pawapuro-kun-pocket-10.json) |
+| Pawapuro-kun Pocket 11 | 98517 | [98517-pawapuro-kun-pocket-11.json](./98517-pawapuro-kun-pocket-11.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
+| Pawapuro-kun Pocket 13 | 98509 | [98509-pawapuro-kun-pocket-13.json](./98509-pawapuro-kun-pocket-13.json) |
 | Pawapuro-kun Pocket 4 | 79833 | [79833-pawapuro-kun-pocket-4.json](./79833-pawapuro-kun-pocket-4.json) |
 | Pawapuro-kun Pocket 6 | 237346 | [237346-pawapuro-kun-pocket-6.json](./237346-pawapuro-kun-pocket-6.json) |
 | Pawapuro-kun Pocket 7 | 237347 | [237347-pawapuro-kun-pocket-7.json](./237347-pawapuro-kun-pocket-7.json) |
+| Pawapuro-kun Pocket 8 | 98513 | [98513-pawapuro-kun-pocket-8.json](./98513-pawapuro-kun-pocket-8.json) |
+| Pawapuro-kun Pocket 9 | 98514 | [98514-pawapuro-kun-pocket-9.json](./98514-pawapuro-kun-pocket-9.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
@@ -2522,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
 | Perncops Virtual Rig | 226707 | [226707-perncops-virtual-rig.json](./226707-perncops-virtual-rig.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
+| Peropero Seduction | 98527 | [98527-peropero-seduction.json](./98527-peropero-seduction.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
@@ -7283,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Play Pool | 78335 | [78335-power-play-pool.json](./78335-power-play-pool.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
+| Power Pocket Koushien | 98512 | [98512-power-pocket-koushien.json](./98512-power-pocket-koushien.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
 | Power Punch | 275121 | [275121-power-punch.json](./275121-power-punch.json) |
