@@ -6329,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
 | colopl Cyberpong VR | 110303 | [110303-colopl-cyberpong-vr.json](./110303-colopl-cyberpong-vr.json) |
 | Color | 90638 | [90638-color.json](./90638-color.json) |
+| Color 2018 Switch | 105828 | [105828-color-2018-switch.json](./105828-color-2018-switch.json) |
 | Color 360 | 26936 | [26936-color-360.json](./26936-color-360.json) |
 | Color a Dinosaur SNES Port | 377225 | [377225-color-a-dinosaur-snes-port.json](./377225-color-a-dinosaur-snes-port.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
@@ -8578,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Keep VR | 26932 | [26932-craft-keep-vr.json](./26932-craft-keep-vr.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
 | Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
+| Craft Shooting - no rules in war for survival! | 105833 | [105833-craft-shooting-no-rules-in-war-for-survival.json](./105833-craft-shooting-no-rules-in-war-for-survival.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
