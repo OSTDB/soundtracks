@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
+| Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
+| Gobbo Goes | 74737 | [74737-gobbo-goes.json](./74737-gobbo-goes.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
 | Gobby McGobblenutz Presents: The Art of the Dad Joke - Chapter 1 | 193179 | [193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json](./193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json) |
@@ -4209,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Lizard | 92543 | [92543-grand-lizard.json](./92543-grand-lizard.json) |
 | Grand Mall Simulator | 326231 | [326231-grand-mall-simulator.json](./326231-grand-mall-simulator.json) |
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
+| Grand Mech Shooter | 74736 | [74736-grand-mech-shooter.json](./74736-grand-mech-shooter.json) |
 | Grand Miami Mafia Crime: Fight to Survive | 96017 | [96017-grand-miami-mafia-crime-fight-to-survive.json](./96017-grand-miami-mafia-crime-fight-to-survive.json) |
 | Grand Mini Slam | 255742 | [255742-grand-mini-slam.json](./255742-grand-mini-slam.json) |
 | Grand Monster Slam | 12123 | [12123-grand-monster-slam.json](./12123-grand-monster-slam.json) |
@@ -5193,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster + Touhou All DLC Bundle | 362481 | [362481-groove-coaster-touhou-all-dlc-bundle.json](./362481-groove-coaster-touhou-all-dlc-bundle.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
 | Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
+| Groove Coaster 2 Original Style | 74693 | [74693-groove-coaster-2-original-style.json](./74693-groove-coaster-2-original-style.json) |
 | Groove Coaster 3 Link Fever | 126465 | [126465-groove-coaster-3-link-fever.json](./126465-groove-coaster-3-link-fever.json) |
 | Groove Coaster 4 Starlight Road | 126466 | [126466-groove-coaster-4-starlight-road.json](./126466-groove-coaster-4-starlight-road.json) |
 | Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
@@ -5958,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns of Icarus Alliance | 21989 | [21989-guns-of-icarus-alliance.json](./21989-guns-of-icarus-alliance.json) |
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
+| Guns of Liberty | 74715 | [74715-guns-of-liberty.json](./74715-guns-of-liberty.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
