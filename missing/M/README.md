@@ -9142,6 +9142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
 | Morgan's Skate Club | 322801 | [322801-morgans-skate-club.json](./322801-morgans-skate-club.json) |
 | Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
+| Morgenshtern: Easygame | 114295 | [114295-morgenshtern-easygame.json](./114295-morgenshtern-easygame.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
