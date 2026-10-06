@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops! Simulator | 390757 | [390757-oops-simulator.json](./390757-oops-simulator.json) |
 | Oops! You're the Hero! | 412427 | [412427-oops-youre-the-hero.json](./412427-oops-youre-the-hero.json) |
 | Oops! Zombie Swarm | 298658 | [298658-oops-zombie-swarm.json](./298658-oops-zombie-swarm.json) |
+| Oops!!! Puzzles!!! | 116262 | [116262-oops-puzzles.json](./116262-oops-puzzles.json) |
 | Oopstacles | 174648 | [174648-oopstacles.json](./174648-oopstacles.json) |
 | Oopz-Oofs | 310026 | [310026-oopz-oofs.json](./310026-oopz-oofs.json) |
 | Oort Online | 9551 | [9551-oort-online.json](./9551-oort-online.json) |
@@ -2682,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
 | Out of Control: Space Survival Bundle: Ctrl Alt Ego + Tin Can: Supporter Edition | 331483 | [331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json](./331483-out-of-control-space-survival-bundle-ctrl-alt-ego-tin-can-supporter-edition.json) |
+| Out of Coverage | 116266 | [116266-out-of-coverage.json](./116266-out-of-coverage.json) |
 | Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
 | Out of Darkness | 180088 | [180088-out-of-darkness.json](./180088-out-of-darkness.json) |
 | Out of Fix | 184978 | [184978-out-of-fix.json](./184978-out-of-fix.json) |
