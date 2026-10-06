@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
 | Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
+| Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
@@ -6287,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonies: Neociv | 311707 | [311707-colonies-neociv.json](./311707-colonies-neociv.json) |
 | Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
+| Colonization of the Moon | 111580 | [111580-colonization-of-the-moon.json](./111580-colonization-of-the-moon.json) |
 | Colonization Simulator | 292687 | [292687-colonization-simulator.json](./292687-colonization-simulator.json) |
 | Colonize | 157549 | [157549-colonize.json](./157549-colonize.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
@@ -6895,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Common Wealth | 294942 | [294942-common-wealth.json](./294942-common-wealth.json) |
+| Common'hood | 111600 | [111600-commonhood.json](./111600-commonhood.json) |
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
 | Commonwealth Games | 13705 | [13705-commonwealth-games.json](./13705-commonwealth-games.json) |
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
@@ -9509,6 +9512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
+| Cross X Carrot | 111608 | [111608-cross-x-carrot.json](./111608-cross-x-carrot.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
@@ -11079,6 +11083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
+| Cyborg_Lab | 111569 | [111569-cyborg-lab.json](./111569-cyborg-lab.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
 | Cyborg3003 | 261760 | [261760-cyborg3003.json](./261760-cyborg3003.json) |
