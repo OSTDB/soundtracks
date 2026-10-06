@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HEX Hacking Simulator | 156205 | [156205-hex-hacking-simulator.json](./156205-hex-hacking-simulator.json) |
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
+| Hex Mechs | 103555 | [103555-hex-mechs.json](./103555-hex-mechs.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
 | Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
@@ -5521,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror House | 112161 | [112161-horror-house.json](./112161-horror-house.json) |
 | Horror House | 230762 | [230762-horror-house.json](./230762-horror-house.json) |
 | Horror House Part II | 112160 | [112160-horror-house-part-ii.json](./112160-horror-house-part-ii.json) |
+| Horror House Survival | 103570 | [103570-horror-house-survival.json](./103570-horror-house-survival.json) |
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
 | Horror In Hongdae | 303570 | [303570-horror-in-hongdae.json](./303570-horror-in-hongdae.json) |
 | Horror in the Forest | 365258 | [365258-horror-in-the-forest.json](./365258-horror-in-the-forest.json) |
@@ -6486,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Burger | 222354 | [222354-hungry-burger.json](./222354-hungry-burger.json) |
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
+| Hungry Cat Picross | 103384 | [103384-hungry-cat-picross.json](./103384-hungry-cat-picross.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
@@ -6852,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Skater | 303552 | [303552-hyper-skater.json](./303552-hyper-skater.json) |
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
+| Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
 | Hyper Street Kart | 42206 | [42206-hyper-street-kart.json](./42206-hyper-street-kart.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
