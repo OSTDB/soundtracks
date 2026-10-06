@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
 | Taisen Tokkae Dama | 283394 | [283394-taisen-tokkae-dama.json](./283394-taisen-tokkae-dama.json) |
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
+| Taisen!! Ka to Chan no Kororonpe! | 72947 | [72947-taisen-ka-to-chan-no-kororonpe.json](./72947-taisen-ka-to-chan-no-kororonpe.json) |
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
 | Taisho x Alice: Episode 3 | 150505 | [150505-taisho-x-alice-episode-3.json](./150505-taisho-x-alice-episode-3.json) |
 | Taisho x Alice: Heads & Tails! | 201613 | [201613-taisho-x-alice-heads-and-tails.json](./201613-taisho-x-alice-heads-and-tails.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Memories | 69366 | [69366-taito-memories.json](./69366-taito-memories.json) |
 | Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
+| Taito Memories II Joukan | 72948 | [72948-taito-memories-ii-joukan.json](./72948-taito-memories-ii-joukan.json) |
 | Taito Memories Joukan | 72791 | [72791-taito-memories-joukan.json](./72791-taito-memories-joukan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
@@ -2397,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama Gyutto! Doki-doki Survival Umi to Yama no Love Passion | 136806 | [136806-tennis-no-ouji-sama-gyutto-doki-doki-survival-umi-to-yama-no-love-passion.json](./136806-tennis-no-ouji-sama-gyutto-doki-doki-survival-umi-to-yama-no-love-passion.json) |
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
+| Tennis no Ouji-sama: 2005 Crystal Drive | 72928 | [72928-tennis-no-ouji-sama-2005-crystal-drive.json](./72928-tennis-no-ouji-sama-2005-crystal-drive.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
 | Tennis no Ouji-sama: Saikyou Team wo Kessei seyo! | 61127 | [61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json](./61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
@@ -5262,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and The Furious | 152308 | [152308-the-fast-and-the-furious.json](./152308-the-fast-and-the-furious.json) |
 | The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
 | The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
+| The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
@@ -9330,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
 | The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
+| The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sims: Livin' Large | 5528 | [5528-the-sims-livin-large.json](./5528-the-sims-livin-large.json) |
 | The Sims: Makin' Magic | 5533 | [5533-the-sims-makin-magic.json](./5533-the-sims-makin-magic.json) |
@@ -10210,6 +10215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trickster's Domain | 282619 | [282619-the-tricksters-domain.json](./282619-the-tricksters-domain.json) |
 | The Trip | 287216 | [287216-the-trip.json](./287216-the-trip.json) |
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
+| The Tripods | 72927 | [72927-the-tripods.json](./72927-the-tripods.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll | 265623 | [265623-the-troll.json](./265623-the-troll.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
@@ -13853,6 +13859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
+| Tokyo Bus Guide | 72903 | [72903-tokyo-bus-guide.json](./72903-tokyo-bus-guide.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
@@ -17298,6 +17305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
+| Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
