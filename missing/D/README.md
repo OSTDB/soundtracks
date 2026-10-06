@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
+| Dancing Block | 90921 | [90921-dancing-block.json](./90921-dancing-block.json) |
 | Dancing Bones | 348406 | [348406-dancing-bones.json](./348406-dancing-bones.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Craze for Mac | 90836 | [90836-dancing-craze-for-mac.json](./90836-dancing-craze-for-mac.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Daze | 67945 | [67945-dog-daze.json](./67945-dog-daze.json) |
+| Dog Daze Deluxe | 90900 | [90900-dog-daze-deluxe.json](./90900-dog-daze-deluxe.json) |
 | Dog Duty | 45884 | [45884-dog-duty.json](./45884-dog-duty.json) |
 | Dog Eat Dog: Scam to Survive | 153968 | [153968-dog-eat-dog-scam-to-survive.json](./153968-dog-eat-dog-scam-to-survive.json) |
 | Dog Fight | 39768 | [39768-dog-fight.json](./39768-dog-fight.json) |
