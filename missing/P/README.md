@@ -7424,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power to the People | 145263 | [145263-power-to-the-people.json](./145263-power-to-the-people.json) |
 | Power Tools VR | 292621 | [292621-power-tools-vr.json](./292621-power-tools-vr.json) |
+| Power Tools VR | 74690 | [74690-power-tools-vr.json](./74690-power-tools-vr.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
