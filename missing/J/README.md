@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
+| Jules Verne's Return to Mysterious Island 2 - Director's Cut Lite | 103989 | [103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json](./103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json) |
 | Julia: A Science Journey | 235794 | [235794-julia-a-science-journey.json](./235794-julia-a-science-journey.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
