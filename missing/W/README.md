@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
 | Wakfu: Les Gardiens | 167643 | [167643-wakfu-les-gardiens.json](./167643-wakfu-les-gardiens.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
+| Wakfu: The Brotherhood | 109554 | [109554-wakfu-the-brotherhood.json](./109554-wakfu-the-brotherhood.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
+| Warhammer Age of Sigmar: Realm War | 109557 | [109557-warhammer-age-of-sigmar-realm-war.json](./109557-warhammer-age-of-sigmar-realm-war.json) |
 | Warhammer Age of Sigmar: Realms of Ruin | 250905 | [250905-warhammer-age-of-sigmar-realms-of-ruin.json](./250905-warhammer-age-of-sigmar-realms-of-ruin.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Gobsprakk, The Mouth of Mork Pack | 279093 | [279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json](./279093-warhammer-age-of-sigmar-realms-of-ruin-the-gobsprakk-the-mouth-of-mork-pack.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 1: Ruined - Part 2 | 265118 | [265118-world-war-1-ruined-part-2.json](./265118-world-war-1-ruined-part-2.json) |
+| World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
