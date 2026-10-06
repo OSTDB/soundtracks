@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Becher's Dream | 72292 | [72292-bechers-dream.json](./72292-bechers-dream.json) |
+| Beck: The Game | 61425 | [61425-beck-the-game.json](./61425-beck-the-game.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
@@ -7801,6 +7802,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxEngine | 90208 | [90208-boxengine.json](./90208-boxengine.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxer Rebellion | 92975 | [92975-boxer-rebellion.json](./92975-boxer-rebellion.json) |
+| Boxer's Road | 61437 | [61437-boxers-road.json](./61437-boxers-road.json) |
+| Boxer's Road 2: The Real | 61438 | [61438-boxers-road-2-the-real.json](./61438-boxers-road-2-the-real.json) |
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
