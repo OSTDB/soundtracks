@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Firelit Room | 196619 | [196619-a-firelit-room.json](./196619-a-firelit-room.json) |
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
 | A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
+| A Five-Day Tour in the Morgue | 117580 | [117580-a-five-day-tour-in-the-morgue.json](./117580-a-five-day-tour-in-the-morgue.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flicker of Light | 188449 | [188449-a-flicker-of-light.json](./188449-a-flicker-of-light.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
@@ -8984,6 +8985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
+| Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
