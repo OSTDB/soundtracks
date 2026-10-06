@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedede Daggers | 183910 | [183910-dedede-daggers.json](./183910-dedede-daggers.json) |
 | Dedede's Drum Dash Deluxe | 61319 | [61319-dededes-drum-dash-deluxe.json](./61319-dededes-drum-dash-deluxe.json) |
 | Dededeball | 395701 | [395701-dededeball.json](./395701-dededeball.json) |
+| DeDrive | 102267 | [102267-dedrive.json](./102267-dedrive.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
@@ -4491,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
 | Diaspora | 139764 | [139764-diaspora.json](./139764-diaspora.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
+| Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
@@ -7306,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots! | 171484 | [171484-dots.json](./171484-dots.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
 | Dotso | 93165 | [93165-dotso.json](./93165-dotso.json) |
+| Dotster 2 | 102234 | [102234-dotster-2.json](./102234-dotster-2.json) |
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
