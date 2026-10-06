@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
+| A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
 | a Museum of Dubious Splendors | 90075 | [90075-a-museum-of-dubious-splendors.json](./90075-a-museum-of-dubious-splendors.json) |
@@ -4585,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amortizer Off-Road | 118294 | [118294-amortizer-off-road.json](./118294-amortizer-off-road.json) |
 | Amoto's Puf | 47557 | [47557-amotos-puf.json](./47557-amotos-puf.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
+| AmourVortex | 83846 | [83846-amourvortex.json](./83846-amourvortex.json) |
 | Amparito: En Busca del Nabo Dorado | 366987 | [366987-amparito-en-busca-del-nabo-dorado.json](./366987-amparito-en-busca-del-nabo-dorado.json) |
 | Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
@@ -4642,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Archers Fate | 304635 | [304635-an-archers-fate.json](./304635-an-archers-fate.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
+| An Aspie Life | 83798 | [83798-an-aspie-life.json](./83798-an-aspie-life.json) |
 | An Aunt After My Own Heart | 314989 | [314989-an-aunt-after-my-own-heart.json](./314989-an-aunt-after-my-own-heart.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
@@ -6065,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
+| Apocalypse Rush | 83849 | [83849-apocalypse-rush.json](./83849-apocalypse-rush.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Tale | 351766 | [351766-apocalypse-tale.json](./351766-apocalypse-tale.json) |
 | Apocalypse Traffic | 245260 | [245260-apocalypse-traffic.json](./245260-apocalypse-traffic.json) |
@@ -9036,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atulos Online | 33343 | [33343-atulos-online.json](./33343-atulos-online.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
+| ATV Drift & Tricks | 83879 | [83879-atv-drift-and-tricks.json](./83879-atv-drift-and-tricks.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
