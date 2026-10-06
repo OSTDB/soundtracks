@@ -5487,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
+| Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
@@ -6357,6 +6358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million on Mars: Land Rush | 182494 | [182494-million-on-mars-land-rush.json](./182494-million-on-mars-land-rush.json) |
 | Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
+| Millionaire City | 115543 | [115543-millionaire-city.json](./115543-millionaire-city.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
