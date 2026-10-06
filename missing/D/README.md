@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilutionX | 242688 | [242688-devilutionx.json](./242688-devilutionx.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
+| Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
 | Devious Path | 317405 | [317405-devious-path.json](./317405-devious-path.json) |
 | Devive | 382367 | [382367-devive.json](./382367-devive.json) |
@@ -6186,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
 | Doctor Watson - Treasure Island | 33442 | [33442-doctor-watson-treasure-island.json](./33442-doctor-watson-treasure-island.json) |
 | Doctor Watson: The Riddle of the Catacombs | 33443 | [33443-doctor-watson-the-riddle-of-the-catacombs.json](./33443-doctor-watson-the-riddle-of-the-catacombs.json) |
+| Doctor What! | 68883 | [68883-doctor-what.json](./68883-doctor-what.json) |
 | Doctor Who and the Daleks | 218359 | [218359-doctor-who-and-the-daleks.json](./218359-doctor-who-and-the-daleks.json) |
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
