@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
+| S.P.I.C.E Arena | 96829 | [96829-s-p-i-c-e-arena.json](./96829-s-p-i-c-e-arena.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
+| Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
 | Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
@@ -7542,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slope Car | 238989 | [238989-slope-car.json](./238989-slope-car.json) |
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
+| Slopey | 96918 | [96918-slopey.json](./96918-slopey.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
@@ -8157,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
+| Snapimals | 96832 | [96832-snapimals.json](./96832-snapimals.json) |
 | Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
@@ -14226,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Granny in the House | 96910 | [96910-stealth-granny-in-the-house.json](./96910-stealth-granny-in-the-house.json) |
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
+| Stealth in the Mystery House | 96835 | [96835-stealth-in-the-mystery-house.json](./96835-stealth-in-the-mystery-house.json) |
 | Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
