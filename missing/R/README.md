@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
+| Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: VRO Mod | 360775 | [360775-ready-or-not-vro-mod.json](./360775-ready-or-not-vro-mod.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
+| Retro Royale | 112262 | [112262-retro-royale.json](./112262-retro-royale.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Run | 172003 | [172003-retro-run.json](./172003-retro-run.json) |
 | Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
@@ -5117,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
+| Rocket Boots Mania | 112218 | [112218-rocket-boots-mania.json](./112218-rocket-boots-mania.json) |
 | Rocket Brown 2 | 317342 | [317342-rocket-brown-2.json](./317342-rocket-brown-2.json) |
 | Rocket Buddies | 410356 | [410356-rocket-buddies.json](./410356-rocket-buddies.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
@@ -6624,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rumour | 350560 | [350560-rumour.json](./350560-rumour.json) |
+| Rumours From Elsewhere | 112214 | [112214-rumours-from-elsewhere.json](./112214-rumours-from-elsewhere.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
