@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
 | Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
+| Becolor | 110245 | [110245-becolor.json](./110245-becolor.json) |
 | Become a Gladiator VR | 153530 | [153530-become-a-gladiator-vr.json](./153530-become-a-gladiator-vr.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
@@ -3672,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
 | Between Stations | 177332 | [177332-between-stations.json](./177332-between-stations.json) |
 | Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
+| Between the City and the Needle | 110231 | [110231-between-the-city-and-the-needle.json](./110231-between-the-city-and-the-needle.json) |
 | Between the Lines | 380008 | [380008-between-the-lines.json](./380008-between-the-lines.json) |
 | Between the Worlds 2: The Pyramid | 175798 | [175798-between-the-worlds-2-the-pyramid.json](./175798-between-the-worlds-2-the-pyramid.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
@@ -5131,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of the Netherworld | 244911 | [244911-blade-of-the-netherworld.json](./244911-blade-of-the-netherworld.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
 | Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
+| Blade of Unagi | 110242 | [110242-blade-of-unagi.json](./110242-blade-of-unagi.json) |
 | Blade of Wiz | 358492 | [358492-blade-of-wiz.json](./358492-blade-of-wiz.json) |
 | Blade Prince Academy | 244382 | [244382-blade-prince-academy.json](./244382-blade-prince-academy.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
@@ -7632,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box-In | 290100 | [290100-box-in.json](./290100-box-in.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
 | Box's Dream | 186741 | [186741-boxs-dream.json](./186741-boxs-dream.json) |
+| Box2Glory | 110241 | [110241-box2glory.json](./110241-box2glory.json) |
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
@@ -8837,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble de House de OOO: Ofuro Maker no Showroom ga Sharehouse de... | 396487 | [396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json](./396487-bubble-de-house-de-ooo-ofuro-maker-no-showroom-ga-sharehouse-de.json) |
 | Bubble Diving | 183341 | [183341-bubble-diving.json](./183341-bubble-diving.json) |
 | Bubble Dreams 3D | 330724 | [330724-bubble-dreams-3d.json](./330724-bubble-dreams-3d.json) |
+| Bubble Escape WTH? | 110230 | [110230-bubble-escape-wth.json](./110230-bubble-escape-wth.json) |
 | Bubble Explosion Adventure | 87691 | [87691-bubble-explosion-adventure.json](./87691-bubble-explosion-adventure.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
