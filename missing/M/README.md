@@ -3232,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
 | Math Tables Mania: Learn Multiplications and Divisions | 87638 | [87638-math-tables-mania-learn-multiplications-and-divisions.json](./87638-math-tables-mania-learn-multiplications-and-divisions.json) |
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
+| Math Tile | 82352 | [82352-math-tile.json](./82352-math-tile.json) |
 | Math Workshop | 94384 | [94384-math-workshop.json](./94384-math-workshop.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
@@ -7129,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Rail Adventure | 417438 | [417438-mining-rail-adventure.json](./417438-mining-rail-adventure.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
+| Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
 | Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
 | Minion Masters: Arise! | 279249 | [279249-minion-masters-arise.json](./279249-minion-masters-arise.json) |
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
@@ -7510,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Picture | 315702 | [315702-missing-picture.json](./315702-missing-picture.json) |
 | Missing Pieces | 221124 | [221124-missing-pieces.json](./221124-missing-pieces.json) |
 | Missing Plane: Survival | 186854 | [186854-missing-plane-survival.json](./186854-missing-plane-survival.json) |
+| Missing Road | 82349 | [82349-missing-road.json](./82349-missing-road.json) |
 | Missing Stars | 266993 | [266993-missing-stars.json](./266993-missing-stars.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
@@ -10683,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
+| Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
 | Music Box | 309035 | [309035-music-box.json](./309035-music-box.json) |
 | Music Box: Electro Pop | 316232 | [316232-music-box-electro-pop.json](./316232-music-box-electro-pop.json) |
 | Music Box: Ethnic | 316268 | [316268-music-box-ethnic.json](./316268-music-box-ethnic.json) |
