@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
+| Kommersant | 81640 | [81640-kommersant.json](./81640-kommersant.json) |
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
