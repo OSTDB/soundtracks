@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
+| Pantheon: Rise of the Fallen | 75421 | [75421-pantheon-rise-of-the-fallen.json](./75421-pantheon-rise-of-the-fallen.json) |
 | Panther | 100285 | [100285-panther.json](./100285-panther.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Online | 145951 | [145951-panther-online.json](./145951-panther-online.json) |
@@ -8492,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Chernaya | 406246 | [406246-project-chernaya.json](./406246-project-chernaya.json) |
 | Project Circle | 294382 | [294382-project-circle.json](./294382-project-circle.json) |
 | Project Cobalt | 366310 | [366310-project-cobalt.json](./366310-project-cobalt.json) |
+| Project Code: Shift | 75412 | [75412-project-code-shift.json](./75412-project-code-shift.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
 | Project Combat | 125922 | [125922-project-combat.json](./125922-project-combat.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
@@ -8808,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X Zone 2 | 9721 | [9721-project-x-zone-2.json](./9721-project-x-zone-2.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
+| Project Xandata | 75405 | [75405-project-xandata.json](./75405-project-xandata.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project Xmas | 192250 | [192250-project-xmas.json](./192250-project-xmas.json) |
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
