@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heliborne | 33764 | [33764-heliborne.json](./33764-heliborne.json) |
 | Heliborne: Enhanced Edition | 248802 | [248802-heliborne-enhanced-edition.json](./248802-heliborne-enhanced-edition.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
+| Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicopter 2015: Natural Disasters | 53184 | [53184-helicopter-2015-natural-disasters.json](./53184-helicopter-2015-natural-disasters.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
 | HyperNova | 199465 | [199465-hypernova.json](./199465-hypernova.json) |
+| Hyperoid | 80121 | [80121-hyperoid.json](./80121-hyperoid.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
