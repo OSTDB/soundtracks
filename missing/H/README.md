@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
+| Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
+| Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
 | Hidden Expedition: Smithsonian Hope Diamond | 187955 | [187955-hidden-expedition-smithsonian-hope-diamond.json](./187955-hidden-expedition-smithsonian-hope-diamond.json) |
@@ -3822,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Expedition: The Pearl of Discord - Collector's Edition | 29102 | [29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json](./29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json) |
 | Hidden Expedition: The Price of Paradise | 187927 | [187927-hidden-expedition-the-price-of-paradise.json](./187927-hidden-expedition-the-price-of-paradise.json) |
+| Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
