@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance Online: Reloaded - Raven | 168750 | [168750-jagged-alliance-online-reloaded-raven.json](./168750-jagged-alliance-online-reloaded-raven.json) |
 | Jagged Alliance Online: Reloaded - Shadow | 168752 | [168752-jagged-alliance-online-reloaded-shadow.json](./168752-jagged-alliance-online-reloaded-shadow.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
+| Jagged Alliance: Complete Edition | 98495 | [98495-jagged-alliance-complete-edition.json](./98495-jagged-alliance-complete-edition.json) |
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
+| Jikkyou Pawafuru Puroyakyu 2009 | 98518 | [98518-jikkyou-pawafuru-puroyakyu-2009.json](./98518-jikkyou-pawafuru-puroyakyu-2009.json) |
 | Jikkyou Pawafuru Puroyakyu 2010 | 45286 | [45286-jikkyou-pawafuru-puroyakyu-2010.json](./45286-jikkyou-pawafuru-puroyakyu-2010.json) |
 | Jikkyou Pawafuru Puroyakyu 2011 | 124695 | [124695-jikkyou-pawafuru-puroyakyu-2011.json](./124695-jikkyou-pawafuru-puroyakyu-2011.json) |
 | Jikkyou Pawafuru Puroyakyu 2011 | 45285 | [45285-jikkyou-pawafuru-puroyakyu-2011.json](./45285-jikkyou-pawafuru-puroyakyu-2011.json) |
@@ -1112,9 +1114,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2012: Kettei-ban | 44583 | [44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json](./44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2014 | 78583 | [78583-jikkyou-pawafuru-puroyakyu-2014.json](./78583-jikkyou-pawafuru-puroyakyu-2014.json) |
 | Jikkyou Pawafuru Puroyakyu 2016 | 78582 | [78582-jikkyou-pawafuru-puroyakyu-2016.json](./78582-jikkyou-pawafuru-puroyakyu-2016.json) |
+| Jikkyou Pawafuru Puroyakyu 2018 | 98510 | [98510-jikkyou-pawafuru-puroyakyu-2018.json](./98510-jikkyou-pawafuru-puroyakyu-2018.json) |
 | Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
+| Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 3 | 229584 | [229584-jikkyou-pawafuru-puroyakyu-portable-3.json](./229584-jikkyou-pawafuru-puroyakyu-portable-3.json) |
 | Jikkyou Pawafuru Puroyakyu Portable 4 | 229585 | [229585-jikkyou-pawafuru-puroyakyu-portable-4.json](./229585-jikkyou-pawafuru-puroyakyu-portable-4.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
