@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Offline | 235313 | [235313-tetra-offline.json](./235313-tetra-offline.json) |
 | Tetra Online | 140377 | [140377-tetra-online.json](./140377-tetra-online.json) |
 | Tetra Project | 119537 | [119537-tetra-project.json](./119537-tetra-project.json) |
+| Tetra Quest | 69493 | [69493-tetra-quest.json](./69493-tetra-quest.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | Tetra's Escape 2 | 347304 | [347304-tetras-escape-2.json](./347304-tetras-escape-2.json) |
@@ -7691,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
+| The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
@@ -8266,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paradixion: Son's Room | 250493 | [250493-the-paradixion-sons-room.json](./250493-the-paradixion-sons-room.json) |
 | The Parallax Effect | 28811 | [28811-the-parallax-effect.json](./28811-the-parallax-effect.json) |
 | The Parallel Worlds | 271302 | [271302-the-parallel-worlds.json](./271302-the-parallel-worlds.json) |
+| The Paranoia Complex | 69494 | [69494-the-paranoia-complex.json](./69494-the-paranoia-complex.json) |
 | The Parasites | 211638 | [211638-the-parasites.json](./211638-the-parasites.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
 | The Parenting Simulator | 129684 | [129684-the-parenting-simulator.json](./129684-the-parenting-simulator.json) |
@@ -8723,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Resonance Initiative | 405691 | [405691-the-resonance-initiative.json](./405691-the-resonance-initiative.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
+| The Restaurant Game | 69533 | [69533-the-restaurant-game.json](./69533-the-restaurant-game.json) |
 | The Restless | 133873 | [133873-the-restless.json](./133873-the-restless.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
@@ -8962,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
 | The Search for Amelia Earhart | 29199 | [29199-the-search-for-amelia-earhart.json](./29199-the-search-for-amelia-earhart.json) |
+| The Search for Elsoliado | 69503 | [69503-the-search-for-elsoliado.json](./69503-the-search-for-elsoliado.json) |
 | The Search for Fran 2 | 203778 | [203778-the-search-for-fran-2.json](./203778-the-search-for-fran-2.json) |
 | The Search for MR Fimple | 189003 | [189003-the-search-for-mr-fimple.json](./189003-the-search-for-mr-fimple.json) |
 | The Search for Salmon | 315637 | [315637-the-search-for-salmon.json](./315637-the-search-for-salmon.json) |
@@ -9402,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaughter: Magdalene | 151272 | [151272-the-slaughter-magdalene.json](./151272-the-slaughter-magdalene.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
+| The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
 | The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
@@ -9709,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: Limited Edition | 202217 | [202217-the-surge-2-limited-edition.json](./202217-the-surge-2-limited-edition.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge 2: Public Enemy Weapon Pack | 223532 | [223532-the-surge-2-public-enemy-weapon-pack.json](./223532-the-surge-2-public-enemy-weapon-pack.json) |
+| The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
@@ -18086,6 +18093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
+| Tunnel Terror | 69514 | [69514-tunnel-terror.json](./69514-tunnel-terror.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
 | Tunnel Vision | 146523 | [146523-tunnel-vision.json](./146523-tunnel-vision.json) |
