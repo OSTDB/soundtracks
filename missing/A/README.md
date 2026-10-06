@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A la Card | 331393 | [331393-a-la-card.json](./331393-a-la-card.json) |
 | A la Fenetre | 182797 | [182797-a-la-fenetre.json](./182797-a-la-fenetre.json) |
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
+| A Labyrinth Game / Supermind | 92166 | [92166-a-labyrinth-game-supermind.json](./92166-a-labyrinth-game-supermind.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Lazy Magic Teacher | 286779 | [286779-a-lazy-magic-teacher.json](./286779-a-lazy-magic-teacher.json) |
@@ -8528,6 +8529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
+| Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
