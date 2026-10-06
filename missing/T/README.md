@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
+| Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
@@ -10240,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Trials of Olympus III: King of the World | 115794 | [115794-the-trials-of-olympus-iii-king-of-the-world.json](./115794-the-trials-of-olympus-iii-king-of-the-world.json) |
+| The Trials of Topoq | 66897 | [66897-the-trials-of-topoq.json](./66897-the-trials-of-topoq.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
@@ -10861,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The X-Com Files | 276795 | [276795-the-x-com-files.json](./276795-the-x-com-files.json) |
 | The X-Files Game | 103203 | [103203-the-x-files-game.json](./103203-the-x-files-game.json) |
+| The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yakyuken: Blonde-hen | 251083 | [251083-the-yakyuken-blonde-hen.json](./251083-the-yakyuken-blonde-hen.json) |
@@ -11311,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
+| This is Football Management | 66974 | [66974-this-is-football-management.json](./66974-this-is-football-management.json) |
 | This is hard for me | 176255 | [176255-this-is-hard-for-me.json](./176255-this-is-hard-for-me.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This is Interesting | 338943 | [338943-this-is-interesting.json](./338943-this-is-interesting.json) |
@@ -12764,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP099 | 189467 | [189467-tiger-tank-59-i-winter-assault-mp099.json](./189467-tiger-tank-59-i-winter-assault-mp099.json) |
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
+| Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
 | Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
@@ -14143,6 +14148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
+| Tomb of the TaskMaker | 66906 | [66906-tomb-of-the-taskmaker.json](./66906-tomb-of-the-taskmaker.json) |
 | Tomb of the Мask | 187314 | [187314-tomb-of-the-ask.json](./187314-tomb-of-the-ask.json) |
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
@@ -17426,6 +17432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
+| Triple Shot Sports | 66889 | [66889-triple-shot-sports.json](./66889-triple-shot-sports.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Threat Pinball | 125861 | [125861-triple-threat-pinball.json](./125861-triple-threat-pinball.json) |
 | Triple Threat: An Arcade Adventure | 206071 | [206071-triple-threat-an-arcade-adventure.json](./206071-triple-threat-an-arcade-adventure.json) |
