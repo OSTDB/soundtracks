@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
+| GeminiArms | 116242 | [116242-geminiarms.json](./116242-geminiarms.json) |
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
 | Geminism | 304816 | [304816-geminism.json](./304816-geminism.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
@@ -4008,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graduated | 117617 | [117617-graduated.json](./117617-graduated.json) |
 | Graffiti Bombing | 126973 | [126973-graffiti-bombing.json](./126973-graffiti-bombing.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
+| Graffiti Eraser | 116246 | [116246-graffiti-eraser.json](./116246-graffiti-eraser.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
@@ -4563,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Desert | 128424 | [128424-gray-desert.json](./128424-gray-desert.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Gray Matter | 3117 | [3117-gray-matter.json](./3117-gray-matter.json) |
+| Gray Memory | 116269 | [116269-gray-memory.json](./116269-gray-memory.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
