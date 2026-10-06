@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonder World Walkers | 173079 | [173079-wonder-world-walkers.json](./173079-wonder-world-walkers.json) |
+| Wonderball | 78276 | [78276-wonderball.json](./78276-wonderball.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
 | Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
 | Wonderbook: Book of Potions | 25099 | [25099-wonderbook-book-of-potions.json](./25099-wonderbook-book-of-potions.json) |
