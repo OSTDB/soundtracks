@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
+| Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
@@ -8089,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Infiltrator | 62676 | [62676-private-infiltrator.json](./62676-private-infiltrator.json) |
 | Private Lesson with My Lover Teacher | 255111 | [255111-private-lesson-with-my-lover-teacher.json](./255111-private-lesson-with-my-lover-teacher.json) |
 | Private Lesson with My Lover Teacher 2 | 382782 | [382782-private-lesson-with-my-lover-teacher-2.json](./382782-private-lesson-with-my-lover-teacher-2.json) |
+| Private Lessons | 82309 | [82309-private-lessons.json](./82309-private-lessons.json) |
 | Private Military Manager: Tactical Auto Battler | 264618 | [264618-private-military-manager-tactical-auto-battler.json](./264618-private-military-manager-tactical-auto-battler.json) |
 | Private Mining Company | 309368 | [309368-private-mining-company.json](./309368-private-mining-company.json) |
 | Private Model | 169229 | [169229-private-model.json](./169229-private-model.json) |
