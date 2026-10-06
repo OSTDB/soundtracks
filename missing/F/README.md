@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finck | 79571 | [79571-finck.json](./79571-finck.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
 | Find | 201078 | [201078-find.json](./201078-find.json) |
+| Find & Destroy: Tank Strategy | 102887 | [102887-find-and-destroy-tank-strategy.json](./102887-find-and-destroy-tank-strategy.json) |
 | Find 10 Differences | 150261 | [150261-find-10-differences.json](./150261-find-10-differences.json) |
 | Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
 | Find 100 Ducks and Blast Them! | 333916 | [333916-find-100-ducks-and-blast-them.json](./333916-find-100-ducks-and-blast-them.json) |
