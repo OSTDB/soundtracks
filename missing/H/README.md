@@ -6988,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Skate | 57755 | [57755-hyper-skate.json](./57755-hyper-skate.json) |
 | Hyper Skater | 303552 | [303552-hyper-skater.json](./303552-hyper-skater.json) |
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
+| Hyper Space | 59807 | [59807-hyper-space.json](./59807-hyper-space.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
