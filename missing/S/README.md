@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
+| Scurvy Scallywags | 63663 | [63663-scurvy-scallywags.json](./63663-scurvy-scallywags.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
 | Scythe | 133255 | [133255-scythe.json](./133255-scythe.json) |
@@ -12632,6 +12633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports! | 230334 | [230334-sports.json](./230334-sports.json) |
 | SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
 | Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
+| Sportsman's Double Play | 63648 | [63648-sportsmans-double-play.json](./63648-sportsmans-double-play.json) |
 | Sportsman's Pack: Cabela's Big Game Hunter 2005 & Rapala Pro Fishing | 78930 | [78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json](./78930-sportsmans-pack-cabelas-big-game-hunter-2005-and-rapala-pro-fishing.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
@@ -15372,6 +15374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
+| Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
@@ -17086,6 +17089,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
+| Super Brawl | 63640 | [63640-super-brawl.json](./63640-super-brawl.json) |
+| Super Brawl 2 | 63641 | [63641-super-brawl-2.json](./63641-super-brawl-2.json) |
+| Super Brawl 3: Good vs. Evil | 63643 | [63643-super-brawl-3-good-vs-evil.json](./63643-super-brawl-3-good-vs-evil.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
