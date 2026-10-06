@@ -4552,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Lab | 135116 | [135116-gravity-lab.json](./135116-gravity-lab.json) |
 | Gravity Lane 981 | 121601 | [121601-gravity-lane-981.json](./121601-gravity-lane-981.json) |
 | Gravity Leo | 108029 | [108029-gravity-leo.json](./108029-gravity-leo.json) |
+| Gravity Light | 102280 | [102280-gravity-light.json](./102280-gravity-light.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
