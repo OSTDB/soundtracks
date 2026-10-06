@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laws of Attraction | 313731 | [313731-laws-of-attraction.json](./313731-laws-of-attraction.json) |
 | Laws of Attraction 2 | 313732 | [313732-laws-of-attraction-2.json](./313732-laws-of-attraction-2.json) |
 | Laws of Machine | 96865 | [96865-laws-of-machine.json](./96865-laws-of-machine.json) |
+| Lawyer Hunt | 94377 | [94377-lawyer-hunt.json](./94377-lawyer-hunt.json) |
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
@@ -2218,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
+| Letter Targets | 94380 | [94380-letter-targets.json](./94380-letter-targets.json) |
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
@@ -3548,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | LiveMeat | 289547 | [289547-livemeat.json](./289547-livemeat.json) |
+| Liverpool | 94409 | [94409-liverpool.json](./94409-liverpool.json) |
 | Liverpool Club Football | 267878 | [267878-liverpool-club-football.json](./267878-liverpool-club-football.json) |
 | Liverpool Club Football 2005 | 267899 | [267899-liverpool-club-football-2005.json](./267899-liverpool-club-football-2005.json) |
 | Livers Ikusei Card Game | 320815 | [320815-livers-ikusei-card-game.json](./320815-livers-ikusei-card-game.json) |
@@ -5243,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
 | Luggage Lane | 314474 | [314474-luggage-lane.json](./314474-luggage-lane.json) |
 | Luhor's Memory | 393748 | [393748-luhors-memory.json](./393748-luhors-memory.json) |
+| Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
 | Luigi and the Island of Mystery | 273029 | [273029-luigi-and-the-island-of-mystery.json](./273029-luigi-and-the-island-of-mystery.json) |
 | Luigi and the Quest for Nothing | 322004 | [322004-luigi-and-the-quest-for-nothing.json](./322004-luigi-and-the-quest-for-nothing.json) |
 | Luigi and the Quest for Nothing 2 | 265883 | [265883-luigi-and-the-quest-for-nothing-2.json](./265883-luigi-and-the-quest-for-nothing-2.json) |
