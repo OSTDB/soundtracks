@@ -5657,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
+| Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
 | Pocket Witch | 223045 | [223045-pocket-witch.json](./223045-pocket-witch.json) |
