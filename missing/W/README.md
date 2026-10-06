@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight: R | 215170 | [215170-wangan-midnight-r.json](./215170-wangan-midnight-r.json) |
 | Wangan Sensen Red City | 231525 | [231525-wangan-sensen-red-city.json](./231525-wangan-sensen-red-city.json) |
 | Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
+| Wangan Trial Love | 108911 | [108911-wangan-trial-love.json](./108911-wangan-trial-love.json) |
 | Wangan Warrior X | 81883 | [81883-wangan-warrior-x.json](./81883-wangan-warrior-x.json) |
 | Wángguó de Mófǎ Zhànzhēng | 163831 | [163831-wangguo-de-mofa-zhanzheng.json](./163831-wangguo-de-mofa-zhanzheng.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
@@ -469,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
+| War Attack | 108898 | [108898-war-attack.json](./108898-war-attack.json) |
 | War Beasts | 164273 | [164273-war-beasts.json](./164273-war-beasts.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
 | War Blade | 112071 | [112071-war-blade.json](./112071-war-blade.json) |
@@ -2466,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whip Rush | 28039 | [28039-whip-rush.json](./28039-whip-rush.json) |
+| Whip Swing! | 108909 | [108909-whip-swing.json](./108909-whip-swing.json) |
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
