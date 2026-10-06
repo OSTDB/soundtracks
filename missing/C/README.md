@@ -4694,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
+| Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
@@ -6477,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Slots | 190446 | [190446-color-slots.json](./190446-color-slots.json) |
 | Color Snake | 106752 | [106752-color-snake.json](./106752-color-snake.json) |
+| Color Sol | 83159 | [83159-color-sol.json](./83159-color-sol.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
@@ -6852,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
+| Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
 | Comic Coloring Book | 147888 | [147888-comic-coloring-book.json](./147888-comic-coloring-book.json) |
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
@@ -10355,6 +10358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
+| Cube Way 2 | 83155 | [83155-cube-way-2.json](./83155-cube-way-2.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | Cube World Omega | 376012 | [376012-cube-world-omega.json](./376012-cube-world-omega.json) |
 | Cube Zoid | 176466 | [176466-cube-zoid.json](./176466-cube-zoid.json) |
