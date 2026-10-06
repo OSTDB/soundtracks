@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA Now 24 | 303180 | [303180-nba-now-24.json](./303180-nba-now-24.json) |
 | NBA Panini Dunk | 305293 | [305293-nba-panini-dunk.json](./305293-nba-panini-dunk.json) |
+| NBA Playgrounds: Enhanced Edition | 80851 | [80851-nba-playgrounds-enhanced-edition.json](./80851-nba-playgrounds-enhanced-edition.json) |
 | NBA Playgrounds: Hot 'N Frosty | 170913 | [170913-nba-playgrounds-hot-n-frosty.json](./170913-nba-playgrounds-hot-n-frosty.json) |
 | NBA ShootOut | 20260 | [20260-nba-shootout.json](./20260-nba-shootout.json) |
 | NBA ShootOut 2000 | 20263 | [20263-nba-shootout-2000.json](./20263-nba-shootout-2000.json) |
