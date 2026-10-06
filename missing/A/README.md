@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure Time: The Secret of the Nameless Kingdom | 8620 | [8620-adventure-time-the-secret-of-the-nameless-kingdom.json](./8620-adventure-time-the-secret-of-the-nameless-kingdom.json) |
+| Adventure Time: Treasure Fetch | 96186 | [96186-adventure-time-treasure-fetch.json](./96186-adventure-time-treasure-fetch.json) |
 | Adventure To Fate: Dungeons | 397826 | [397826-adventure-to-fate-dungeons.json](./397826-adventure-to-fate-dungeons.json) |
 | Adventure to Fate: Quest to the Future JRPG | 134376 | [134376-adventure-to-fate-quest-to-the-future-jrpg.json](./134376-adventure-to-fate-quest-to-the-future-jrpg.json) |
 | Adventure Trip | 128344 | [128344-adventure-trip.json](./128344-adventure-trip.json) |
@@ -9263,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV.Runner | 217218 | [217218-av-runner.json](./217218-av-runner.json) |
 | Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
+| Ava Airborne | 96207 | [96207-ava-airborne.json](./96207-ava-airborne.json) |
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
