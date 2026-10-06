@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
+| Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
 | Danger Sticks | 398488 | [398488-danger-sticks.json](./398488-danger-sticks.json) |
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
@@ -7378,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
+| Double Stretch | 108359 | [108359-double-stretch.json](./108359-double-stretch.json) |
 | Double Switch | 139169 | [139169-double-switch.json](./139169-double-switch.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
