@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
 | NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
 | NFL Football | 198836 | [198836-nfl-football.json](./198836-nfl-football.json) |
+| NFL Football | 64743 | [64743-nfl-football.json](./64743-nfl-football.json) |
 | NFL Football | 78935 | [78935-nfl-football.json](./78935-nfl-football.json) |
 | NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
@@ -3525,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Visitors | 226134 | [226134-nocturnal-visitors.json](./226134-nocturnal-visitors.json) |
 | Nocturnal Visitors: Book One | 370152 | [370152-nocturnal-visitors-book-one.json](./370152-nocturnal-visitors-book-one.json) |
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
+| Nocturnal: Boston Nightfall | 64719 | [64719-nocturnal-boston-nightfall.json](./64719-nocturnal-boston-nightfall.json) |
 | Nocturnals | 279107 | [279107-nocturnals.json](./279107-nocturnals.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
 | Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
