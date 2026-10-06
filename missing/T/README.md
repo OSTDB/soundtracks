@@ -6248,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
 | The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
+| The Inquisitor | 83820 | [83820-the-inquisitor.json](./83820-the-inquisitor.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
