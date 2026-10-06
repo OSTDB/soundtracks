@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
 | IHF Handball Challenge 12 | 10433 | [10433-ihf-handball-challenge-12.json](./10433-ihf-handball-challenge-12.json) |
+| IHF Handball Challenge 13 | 64748 | [64748-ihf-handball-challenge-13.json](./64748-ihf-handball-challenge-13.json) |
 | IHF Handball Challenge 14 | 17088 | [17088-ihf-handball-challenge-14.json](./17088-ihf-handball-challenge-14.json) |
 | Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
