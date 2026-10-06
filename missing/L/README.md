@@ -4849,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
+| Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
 | Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
