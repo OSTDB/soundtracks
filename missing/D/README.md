@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
+| Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
 | Delicious: Emily's Miracle of Life | 54527 | [54527-delicious-emilys-miracle-of-life.json](./54527-delicious-emilys-miracle-of-life.json) |
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
@@ -7026,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
+| Doom 2D | 89509 | [89509-doom-2d.json](./89509-doom-2d.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
@@ -8197,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Village X | 193844 | [193844-dragon-village-x.json](./193844-dragon-village-x.json) |
 | Dragon Vita | 243071 | [243071-dragon-vita.json](./243071-dragon-vita.json) |
 | Dragon VR | 156091 | [156091-dragon-vr.json](./156091-dragon-vr.json) |
+| Dragon vs Goblins | 89477 | [89477-dragon-vs-goblins.json](./89477-dragon-vs-goblins.json) |
 | Dragon Wang | 6097 | [6097-dragon-wang.json](./6097-dragon-wang.json) |
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
