@@ -6366,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Animals | 111173 | [111173-color-by-numbers-animals.json](./111173-color-by-numbers-animals.json) |
 | Color by Numbers - Christmas | 111174 | [111174-color-by-numbers-christmas.json](./111174-color-by-numbers-christmas.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
+| Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
@@ -6442,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
+| Color Tube | 101674 | [101674-color-tube.json](./101674-color-tube.json) |
 | Color TV-Game 15 | 220549 | [220549-color-tv-game-15.json](./220549-color-tv-game-15.json) |
 | Color TV-Game Block Kuzushi | 220551 | [220551-color-tv-game-block-kuzushi.json](./220551-color-tv-game-block-kuzushi.json) |
 | Color TV-Game Racing 112 | 220550 | [220550-color-tv-game-racing-112.json](./220550-color-tv-game-racing-112.json) |
@@ -6602,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
+| ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
 | Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
