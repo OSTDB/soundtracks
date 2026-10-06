@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quell | 15741 | [15741-quell.json](./15741-quell.json) |
 | Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
 | Quench | 106138 | [106138-quench.json](./106138-quench.json) |
+| Quento | 90205 | [90205-quento.json](./90205-quento.json) |
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Arcana | 82763 | [82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json](./82763-quest-and-quest-3d-short-short-female-adventurer-arcana.json) |
 | Quest & Quest 3D: Short Short - Female Adventurer Sina | 82762 | [82762-quest-and-quest-3d-short-short-female-adventurer-sina.json](./82762-quest-and-quest-3d-short-short-female-adventurer-sina.json) |
