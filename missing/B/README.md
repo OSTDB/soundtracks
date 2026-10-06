@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Dinosaur Island 2 | 33274 | [33274-back-to-dinosaur-island-2.json](./33274-back-to-dinosaur-island-2.json) |
 | Back to Drive | 391338 | [391338-back-to-drive.json](./391338-back-to-drive.json) |
 | Back to Dust: Hold it Together | 236939 | [236939-back-to-dust-hold-it-together.json](./236939-back-to-dust-hold-it-together.json) |
+| Back to Ebatoria | 106504 | [106504-back-to-ebatoria.json](./106504-back-to-ebatoria.json) |
 | Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
@@ -3446,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
+| Bendy Tracks | 106647 | [106647-bendy-tracks.json](./106647-bendy-tracks.json) |
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
 | Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
@@ -5696,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
 | Block Pushing Puzzle Game But You Can Time Travel | 184371 | [184371-block-pushing-puzzle-game-but-you-can-time-travel.json](./184371-block-pushing-puzzle-game-but-you-can-time-travel.json) |
+| Block Puzzle | 106661 | [106661-block-puzzle.json](./106661-block-puzzle.json) |
 | Block Puzzle | 231879 | [231879-block-puzzle.json](./231879-block-puzzle.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle | 318053 | [318053-block-puzzle.json](./318053-block-puzzle.json) |
@@ -6250,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
+| Bloxy Puzzles | 106511 | [106511-bloxy-puzzles.json](./106511-bloxy-puzzles.json) |
 | Blu Bandana | 44198 | [44198-blu-bandana.json](./44198-blu-bandana.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
@@ -6774,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
+| Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
@@ -9647,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
 | Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
+| Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
