@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wave of Enemies | 154084 | [154084-a-wave-of-enemies.json](./154084-a-wave-of-enemies.json) |
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
+| A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
 | A Week in the Life of Asocial Giraffe | 333220 | [333220-a-week-in-the-life-of-asocial-giraffe.json](./333220-a-week-in-the-life-of-asocial-giraffe.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
+| ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
@@ -1736,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
+| Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
@@ -7314,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
+| Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
