@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
+| Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
@@ -2567,6 +2568,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Classics Vol. 1 | 389081 | [389081-fighting-fantasy-classics-vol-1.json](./389081-fighting-fantasy-classics-vol-1.json) |
 | Fighting Fantasy Classics: Caverns of the Snow Witch | 170851 | [170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json](./170851-fighting-fantasy-classics-caverns-of-the-snow-witch.json) |
 | Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
+| Fighting Fantasy: Blood of the Zombies | 63680 | [63680-fighting-fantasy-blood-of-the-zombies.json](./63680-fighting-fantasy-blood-of-the-zombies.json) |
+| Fighting Fantasy: House of Hell | 63678 | [63678-fighting-fantasy-house-of-hell.json](./63678-fighting-fantasy-house-of-hell.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
 | Fighting Fantasy: The Forest of Doom | 175216 | [175216-fighting-fantasy-the-forest-of-doom.json](./175216-fighting-fantasy-the-forest-of-doom.json) |
@@ -5607,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
 | Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
+| Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
@@ -7339,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
+| Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
