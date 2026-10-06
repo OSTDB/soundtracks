@@ -3694,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Legends | 395827 | [395827-everquest-legends.json](./395827-everquest-legends.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
+| EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
 | EverQuest: Ring of Scale | 75211 | [75211-everquest-ring-of-scale.json](./75211-everquest-ring-of-scale.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everyone Sing | 45293 | [45293-everyone-sing.json](./45293-everyone-sing.json) |
 | Everyone's a Wally | 13649 | [13649-everyones-a-wally.json](./13649-everyones-a-wally.json) |
+| Everyone's A Wally: A Day in the Life of Wally | 73998 | [73998-everyones-a-wally-a-day-in-the-life-of-wally.json](./73998-everyones-a-wally-a-day-in-the-life-of-wally.json) |
 | Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
 | Everything Explosive | 137594 | [137594-everything-explosive.json](./137594-everything-explosive.json) |
