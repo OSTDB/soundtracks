@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
 | Eagle Eye Mysteries in London | 73270 | [73270-eagle-eye-mysteries-in-london.json](./73270-eagle-eye-mysteries-in-london.json) |
 | Eagle Eye: Find the Difference | 251740 | [251740-eagle-eye-find-the-difference.json](./251740-eagle-eye-find-the-difference.json) |
+| Eagle Fantasy Golf | 74705 | [74705-eagle-fantasy-golf.json](./74705-eagle-fantasy-golf.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Island Twist | 150781 | [150781-eagle-island-twist.json](./150781-eagle-island-twist.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epocria | 137409 | [137409-epocria.json](./137409-epocria.json) |
 | Epolevne | 176355 | [176355-epolevne.json](./176355-epolevne.json) |
 | Eponymous | 74257 | [74257-eponymous.json](./74257-eponymous.json) |
+| Epopy | 74733 | [74733-epopy.json](./74733-epopy.json) |
 | Epos 11 | 355525 | [355525-epos-11.json](./355525-epos-11.json) |
 | Epos Survivors | 372688 | [372688-epos-survivors.json](./372688-epos-survivors.json) |
 | EPS Series Vol. 1: Because I Love You - Yukiko Morikawa | 286507 | [286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json](./286507-eps-series-vol-1-because-i-love-you-yukiko-morikawa.json) |
