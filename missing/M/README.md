@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
 | Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
+| Majesco's Rec Room Challenge | 70601 | [70601-majescos-rec-room-challenge.json](./70601-majescos-rec-room-challenge.json) |
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Aristocrat | 294935 | [294935-majestic-aristocrat.json](./294935-majestic-aristocrat.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
