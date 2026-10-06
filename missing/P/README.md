@@ -9167,6 +9167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
 | Psycho Inn | 396477 | [396477-psycho-inn.json](./396477-psycho-inn.json) |
+| Psycho Killer | 74033 | [74033-psycho-killer.json](./74033-psycho-killer.json) |
 | Psycho on the loose | 30036 | [30036-psycho-on-the-loose.json](./30036-psycho-on-the-loose.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
@@ -9460,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
 | PunchMan Online | 182234 | [182234-punchman-online.json](./182234-punchman-online.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
+| Punchy | 74023 | [74023-punchy.json](./74023-punchy.json) |
 | Pune | 295991 | [295991-pune.json](./295991-pune.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Puni the Florist | 347831 | [347831-puni-the-florist.json](./347831-puni-the-florist.json) |
@@ -10216,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyromancer | 124580 | [124580-pyromancer.json](./124580-pyromancer.json) |
 | Pyromania | 325671 | [325671-pyromania.json](./325671-pyromania.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
+| Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
 | Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
 | PyRunner | 318517 | [318517-pyrunner.json](./318517-pyrunner.json) |
