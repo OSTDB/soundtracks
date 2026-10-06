@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame II: Crimson Butterfly Remake - Early Purchase Bonus Set | 387684 | [387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json](./387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
+| Fatal Fumes | 72273 | [72273-fatal-fumes.json](./72273-fatal-fumes.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
 | Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Federation77 | 149231 | [149231-federation77.json](./149231-federation77.json) |
+| Fedora Spade: Death Wears a Fedora | 72296 | [72296-fedora-spade-death-wears-a-fedora.json](./72296-fedora-spade-death-wears-a-fedora.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
@@ -7162,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Moon | 224989 | [224989-full-moon.json](./224989-full-moon.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
+| Full Moon in San Francisco | 72274 | [72274-full-moon-in-san-francisco.json](./72274-full-moon-in-san-francisco.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
 | Full of Love | 116259 | [116259-full-of-love.json](./116259-full-of-love.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
