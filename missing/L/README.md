@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
+| Learn Kana the Fun Way! | 65805 | [65805-learn-kana-the-fun-way.json](./65805-learn-kana-the-fun-way.json) |
 | Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
 | Learn Math | 92664 | [92664-learn-math.json](./92664-learn-math.json) |
 | Learn Programming: Python - Retro | 367998 | [367998-learn-programming-python-retro.json](./367998-learn-programming-python-retro.json) |
@@ -5089,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
+| Low Desert Punk | 65810 | [65810-low-desert-punk.json](./65810-low-desert-punk.json) |
 | Low Earth Orbit Adventures | 391168 | [391168-low-earth-orbit-adventures.json](./391168-low-earth-orbit-adventures.json) |
 | Low Fast | 219148 | [219148-low-fast.json](./219148-low-fast.json) |
 | Low Frequency | 304111 | [304111-low-frequency.json](./304111-low-frequency.json) |
