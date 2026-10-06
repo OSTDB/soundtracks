@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PersoNO | 252911 | [252911-persono.json](./252911-persono.json) |
 | PersoNO 0 | 252909 | [252909-persono-0.json](./252909-persono-0.json) |
 | Perspective | 148362 | [148362-perspective.json](./148362-perspective.json) |
+| Perspective | 80820 | [80820-perspective.json](./80820-perspective.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowBall Deluxe | 412564 | [412564-powball-deluxe.json](./412564-powball-deluxe.json) |
 | PowBall Renaissance | 54508 | [54508-powball-renaissance.json](./54508-powball-renaissance.json) |
 | Powder | 49505 | [49505-powder.json](./49505-powder.json) |
+| Powder | 80803 | [80803-powder.json](./80803-powder.json) |
 | Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power | 130818 | [130818-power.json](./130818-power.json) |
@@ -7311,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
+| Power Pegged | 80799 | [80799-power-pegged.json](./80799-power-pegged.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
@@ -7389,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Star Unleashed | 315024 | [315024-power-star-unleashed.json](./315024-power-star-unleashed.json) |
 | Power Stealers | 121392 | [121392-power-stealers.json](./121392-power-stealers.json) |
 | Power Stone Mini | 227746 | [227746-power-stone-mini.json](./227746-power-stone-mini.json) |
+| Power Strike II | 80837 | [80837-power-strike-ii.json](./80837-power-strike-ii.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
@@ -7544,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prediction Game | 255019 | [255019-prediction-game.json](./255019-prediction-game.json) |
 | Predictors | 219666 | [219666-predictors.json](./219666-predictors.json) |
 | Preekarity | 319653 | [319653-preekarity.json](./319653-preekarity.json) |
+| Pref Club | 80796 | [80796-pref-club.json](./80796-pref-club.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Emergency Surgery | 99421 | [99421-pregnant-mom-emergency-surgery.json](./99421-pregnant-mom-emergency-surgery.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
