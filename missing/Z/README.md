@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zalozhnik | 367007 | [367007-zalozhnik.json](./367007-zalozhnik.json) |
 | Zamakan | 253483 | [253483-zamakan.json](./253483-zamakan.json) |
+| Zamboni Challenge | 93814 | [93814-zamboni-challenge.json](./93814-zamboni-challenge.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
 | Zan Gear | 46553 | [46553-zan-gear.json](./46553-zan-gear.json) |
@@ -1020,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Woods | 283859 | [283859-zombie-woods.json](./283859-zombie-woods.json) |
+| Zombie World | 93791 | [93791-zombie-world.json](./93791-zombie-world.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
 | Zombie Zone | 72157 | [72157-zombie-zone.json](./72157-zombie-zone.json) |
 | Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
