@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergent-Z | 372617 | [372617-emergent-z.json](./372617-emergent-z.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
+| Emerland Solitaire Journey | 99099 | [99099-emerland-solitaire-journey.json](./99099-emerland-solitaire-journey.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
