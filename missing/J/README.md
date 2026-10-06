@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Excite Stage '94: Shimizu S-Pulse | 329712 | [329712-j-league-excite-stage-94-shimizu-s-pulse.json](./329712-j-league-excite-stage-94-shimizu-s-pulse.json) |
 | J.League Excite Stage '94: Verdy Yomiuri | 329700 | [329700-j-league-excite-stage-94-verdy-yomiuri.json](./329700-j-league-excite-stage-94-verdy-yomiuri.json) |
 | J.League Excite Stage '96 | 42657 | [42657-j-league-excite-stage-96.json](./42657-j-league-excite-stage-96.json) |
+| J.League Excite Stage GB | 65244 | [65244-j-league-excite-stage-gb.json](./65244-j-league-excite-stage-gb.json) |
 | J.League Excite Stage Tactics | 79553 | [79553-j-league-excite-stage-tactics.json](./79553-j-league-excite-stage-tactics.json) |
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
@@ -546,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff The Killer | 277513 | [277513-jeff-the-killer.json](./277513-jeff-the-killer.json) |
 | Jeff the Skinner | 348314 | [348314-jeff-the-skinner.json](./348314-jeff-the-skinner.json) |
 | Jeff Wayne's The War of the Worlds | 129581 | [129581-jeff-waynes-the-war-of-the-worlds.json](./129581-jeff-waynes-the-war-of-the-worlds.json) |
+| Jeff Wayne's The War of the Worlds | 65238 | [65238-jeff-waynes-the-war-of-the-worlds.json](./65238-jeff-waynes-the-war-of-the-worlds.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
 | Jeff's No. 1 Bass Fishing | 215763 | [215763-jeffs-no-1-bass-fishing.json](./215763-jeffs-no-1-bass-fishing.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
