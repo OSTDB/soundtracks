@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | THC: Alien Abduction | 163339 | [163339-thc-alien-abduction.json](./163339-thc-alien-abduction.json) |
+| The "A" Game | 106513 | [106513-the-a-game.json](./106513-the-a-game.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arrow Man | 71810 | [71810-the-arrow-man.json](./71810-the-arrow-man.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
+| THE ART - Puzzle | 106493 | [106493-the-art-puzzle.json](./106493-the-art-puzzle.json) |
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
 | The Art of Fight | 27415 | [27415-the-art-of-fight.json](./27415-the-art-of-fight.json) |
@@ -6922,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
+| The Legend of Monster Mountain | 106490 | [106490-the-legend-of-monster-mountain.json](./106490-the-legend-of-monster-mountain.json) |
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
 | The Legend of Mystic Zone | 274112 | [274112-the-legend-of-mystic-zone.json](./274112-the-legend-of-mystic-zone.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
@@ -7842,6 +7845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nascent Necromancer | 264586 | [264586-the-nascent-necromancer.json](./264586-the-nascent-necromancer.json) |
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
+| The Navigator | 106505 | [106505-the-navigator.json](./106505-the-navigator.json) |
 | The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Necklace of Blood Part II | 109886 | [109886-the-necklace-of-blood-part-ii.json](./109886-the-necklace-of-blood-part-ii.json) |
@@ -8360,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Protocons | 93758 | [93758-the-protocons.json](./93758-the-protocons.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
+| The Psychic | 106491 | [106491-the-psychic.json](./106491-the-psychic.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The PTSD Mod | 312622 | [312622-the-ptsd-mod.json](./312622-the-ptsd-mod.json) |
@@ -10186,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Ungrateful Son | 340593 | [340593-the-ungrateful-son.json](./340593-the-ungrateful-son.json) |
+| The Unhaunted Lolhouse | 106512 | [106512-the-unhaunted-lolhouse.json](./106512-the-unhaunted-lolhouse.json) |
 | The Unholy Society | 78751 | [78751-the-unholy-society.json](./78751-the-unholy-society.json) |
 | The Unic | 254697 | [254697-the-unic.json](./254697-the-unic.json) |
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
@@ -12669,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilt Frog | 286055 | [286055-tilt-frog.json](./286055-tilt-frog.json) |
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
+| Tilt or Die! | 106481 | [106481-tilt-or-die.json](./106481-tilt-or-die.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
 | Tilt'N'Turn | 187290 | [187290-tiltnturn.json](./187290-tiltnturn.json) |
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
