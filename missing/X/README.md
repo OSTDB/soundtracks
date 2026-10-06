@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: The Official Game | 218615 | [218615-x-men-the-official-game.json](./218615-x-men-the-official-game.json) |
 | X-Men: The Official Game | 248534 | [248534-x-men-the-official-game.json](./248534-x-men-the-official-game.json) |
 | X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
+| X-Men: The Ravages of Apocalypse | 71715 | [71715-x-men-the-ravages-of-apocalypse.json](./71715-x-men-the-ravages-of-apocalypse.json) |
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
