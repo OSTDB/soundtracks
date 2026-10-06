@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
+| Perdition's Gate | 65733 | [65733-perditions-gate.json](./65733-perditions-gate.json) |
 | Perdition's Gate Resurgence | 329215 | [329215-perditions-gate-resurgence.json](./329215-perditions-gate-resurgence.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
 | Peregrin | 29934 | [29934-peregrin.json](./29934-peregrin.json) |
@@ -4920,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placefront | 170322 | [170322-placefront.json](./170322-placefront.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
+| Placement | 65819 | [65819-placement.json](./65819-placement.json) |
 | Placid Plastic Deck: A Quiet Quest | 320718 | [320718-placid-plastic-deck-a-quiet-quest.json](./320718-placid-plastic-deck-a-quiet-quest.json) |
 | Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
