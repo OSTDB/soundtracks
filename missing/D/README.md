@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Paddle vs. Crankquet | 232463 | [232463-d-paddle-vs-crankquet.json](./232463-d-paddle-vs-crankquet.json) |
+| D-Return | 92112 | [92112-d-return.json](./92112-d-return.json) |
 | D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diadra Empty | 17133 | [17133-diadra-empty.json](./17133-diadra-empty.json) |
+| Diadrum | 92123 | [92123-diadrum.json](./92123-diadrum.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
