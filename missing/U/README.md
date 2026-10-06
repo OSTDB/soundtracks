@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta no Prince-sama: Debut for Nintendo Switch | 136962 | [136962-uta-no-prince-sama-debut-for-nintendo-switch.json](./136962-uta-no-prince-sama-debut-for-nintendo-switch.json) |
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
+| Uta no Prince-sama: Shining Live | 71192 | [71192-uta-no-prince-sama-shining-live.json](./71192-uta-no-prince-sama-shining-live.json) |
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
