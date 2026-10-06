@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite: Dangerous | 2955 | [2955-elite-dangerous.json](./2955-elite-dangerous.json) |
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elithian Races Mod | 280270 | [280270-elithian-races-mod.json](./280270-elithian-races-mod.json) |
+| Elitserien 2001 | 94376 | [94376-elitserien-2001.json](./94376-elitserien-2001.json) |
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
