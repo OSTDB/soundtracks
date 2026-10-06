@@ -5829,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Block-a-Pix Color | 102329 | [102329-block-a-pix-color.json](./102329-block-a-pix-color.json) |
+| Block-Man 1 | 64752 | [64752-block-man-1.json](./64752-block-man-1.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
 | Block: Puzzle Game | 87543 | [87543-block-puzzle-game.json](./87543-block-puzzle-game.json) |
@@ -6066,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
+| Blood Oath | 64716 | [64716-blood-oath.json](./64716-blood-oath.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
