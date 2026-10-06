@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
 | Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
 | Ilavath: Battle Arenas | 291723 | [291723-ilavath-battle-arenas.json](./291723-ilavath-battle-arenas.json) |
+| Ilbis: The Ocean of Death | 83873 | [83873-ilbis-the-ocean-of-death.json](./83873-ilbis-the-ocean-of-death.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | Ilha do Empreendedor | 257347 | [257347-ilha-do-empreendedor.json](./257347-ilha-do-empreendedor.json) |
 | Ilhumia | 111591 | [111591-ilhumia.json](./111591-ilhumia.json) |
