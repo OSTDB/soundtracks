@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
+| Tanks With Hands: Armed and Treaded | 107787 | [107787-tanks-with-hands-armed-and-treaded.json](./107787-tanks-with-hands-armed-and-treaded.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tanks! | 353523 | [353523-tanks.json](./353523-tanks.json) |
 | Tanks2.DE | 115764 | [115764-tanks2-de.json](./115764-tanks2-de.json) |
@@ -3364,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assembly / Perfect Double Pack | 145256 | [145256-the-assembly-perfect-double-pack.json](./145256-the-assembly-perfect-double-pack.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
+| The Asteroid Belt's Trial | 107744 | [107744-the-asteroid-belts-trial.json](./107744-the-asteroid-belts-trial.json) |
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astra Protocol | 409714 | [409714-the-astra-protocol.json](./409714-the-astra-protocol.json) |
@@ -3451,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball 2 | 224475 | [224475-the-ball-2.json](./224475-the-ball-2.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
+| The Ball Encounter | 107786 | [107786-the-ball-encounter.json](./107786-the-ball-encounter.json) |
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
 | The Ball Game: One Touch Arcade | 254694 | [254694-the-ball-game-one-touch-arcade.json](./254694-the-ball-game-one-touch-arcade.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
@@ -3939,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castles of Burgundy | 115539 | [115539-the-castles-of-burgundy.json](./115539-the-castles-of-burgundy.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
 | The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
+| The Cat and the Coup (4K Remaster) | 107750 | [107750-the-cat-and-the-coup-4k-remaster.json](./107750-the-cat-and-the-coup-4k-remaster.json) |
 | The Cat Games | 27977 | [27977-the-cat-games.json](./27977-the-cat-games.json) |
 | The Cat in 14a | 117805 | [117805-the-cat-in-14a.json](./117805-the-cat-in-14a.json) |
 | The Cat in the Hat By Dr Seuss | 49507 | [49507-the-cat-in-the-hat-by-dr-seuss.json](./49507-the-cat-in-the-hat-by-dr-seuss.json) |
