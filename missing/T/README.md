@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
+| Terro bot | 108360 | [108360-terro-bot.json](./108360-terro-bot.json) |
 | Terro Eliminator | 309023 | [309023-terro-eliminator.json](./309023-terro-eliminator.json) |
 | Terro Lunkka Adventures | 127022 | [127022-terro-lunkka-adventures.json](./127022-terro-lunkka-adventures.json) |
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
@@ -6930,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
 | The Legend of Prince Valiant | 48187 | [48187-the-legend-of-prince-valiant.json](./48187-the-legend-of-prince-valiant.json) |
+| The Legend of Protey | 108346 | [108346-the-legend-of-protey.json](./108346-the-legend-of-protey.json) |
 | The Legend of Ra | 78325 | [78325-the-legend-of-ra.json](./78325-the-legend-of-ra.json) |
 | The Legend of Relic | 185027 | [185027-the-legend-of-relic.json](./185027-the-legend-of-relic.json) |
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
