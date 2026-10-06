@@ -1334,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
+| Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
 | DaSi | 80637 | [80637-dasi.json](./80637-dasi.json) |
 | Dasshutsu Adventure: Akumu no Shinigami Ressha | 222386 | [222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json](./222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC Dual Force | 212690 | [212690-dc-dual-force.json](./212690-dc-dual-force.json) |
+| DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
 | DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
 | DC Universe Online: Episode 17 - Unholy Matrimony & The Flash Museum Burglary | 271163 | [271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json](./271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json) |
@@ -2698,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
 | Deckanism: Singularity Island | 373165 | [373165-deckanism-singularity-island.json](./373165-deckanism-singularity-island.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
+| Deckbound Quest | 58645 | [58645-deckbound-quest.json](./58645-deckbound-quest.json) |
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
@@ -4922,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
 | Digimon Kari and Gatomon | 203235 | [203235-digimon-kari-and-gatomon.json](./203235-digimon-kari-and-gatomon.json) |
+| Digimon Linkz | 58622 | [58622-digimon-linkz.json](./58622-digimon-linkz.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
