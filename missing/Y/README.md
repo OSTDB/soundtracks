@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Draw I Puzzle | 286770 | [286770-you-draw-i-puzzle.json](./286770-you-draw-i-puzzle.json) |
 | You Draw, I Guess | 278498 | [278498-you-draw-i-guess.json](./278498-you-draw-i-guess.json) |
 | You Experience 365 Days of Being a Girl in This Simulator Game | 98449 | [98449-you-experience-365-days-of-being-a-girl-in-this-simulator-game.json](./98449-you-experience-365-days-of-being-a-girl-in-this-simulator-game.json) |
+| You Fall You Lose | 116255 | [116255-you-fall-you-lose.json](./116255-you-fall-you-lose.json) |
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You Generation | 174664 | [174664-you-generation.json](./174664-you-generation.json) |
