@@ -7372,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Village: JiangHu | 298625 | [298625-the-lost-village-jianghu.json](./298625-the-lost-village-jianghu.json) |
 | The Lost Village: Monster Sect | 358474 | [358474-the-lost-village-monster-sect.json](./358474-the-lost-village-monster-sect.json) |
 | The Lost Village: Monster Sect Part 2 | 358475 | [358475-the-lost-village-monster-sect-part-2.json](./358475-the-lost-village-monster-sect-part-2.json) |
+| The Lost We Lost | 116910 | [116910-the-lost-we-lost.json](./116910-the-lost-we-lost.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
 | The Lost Wild | 182290 | [182290-the-lost-wild.json](./182290-the-lost-wild.json) |
 | The Lost World | 246345 | [246345-the-lost-world.json](./246345-the-lost-world.json) |
@@ -9974,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: War Combat | 157579 | [157579-the-tower-of-tigerqiuqiu-war-combat.json](./157579-the-tower-of-tigerqiuqiu-war-combat.json) |
 | The Tower of TigerQiuQiu: Warp Tiger | 157633 | [157633-the-tower-of-tigerqiuqiu-warp-tiger.json](./157633-the-tower-of-tigerqiuqiu-warp-tiger.json) |
 | The Tower of Turmoil | 195519 | [195519-the-tower-of-turmoil.json](./195519-the-tower-of-turmoil.json) |
+| The Tower of Worth | 116935 | [116935-the-tower-of-worth.json](./116935-the-tower-of-worth.json) |
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Tower Stories Green 1 | 295378 | [295378-the-tower-stories-green-1.json](./295378-the-tower-stories-green-1.json) |
