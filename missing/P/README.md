@@ -3957,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinochle Pro | 90088 | [90088-pinochle-pro.json](./90088-pinochle-pro.json) |
 | Pinono and the Magic Fiddle | 355101 | [355101-pinono-and-the-magic-fiddle.json](./355101-pinono-and-the-magic-fiddle.json) |
+| PinPin BallBall | 111605 | [111605-pinpin-ballball.json](./111605-pinpin-ballball.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
 | Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
@@ -4043,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippu: Bauble Quest | 165602 | [165602-pippu-bauble-quest.json](./165602-pippu-bauble-quest.json) |
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
 | Pipsqueak! | 304306 | [304306-pipsqueak.json](./304306-pipsqueak.json) |
+| Piquant Bathing | 111575 | [111575-piquant-bathing.json](./111575-piquant-bathing.json) |
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
@@ -8051,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Farm Manager | 75108 | [75108-pro-farm-manager.json](./75108-pro-farm-manager.json) |
 | Pro Feel Golf | 236973 | [236973-pro-feel-golf.json](./236973-pro-feel-golf.json) |
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
+| Pro Fishing Simulator | 111579 | [111579-pro-fishing-simulator.json](./111579-pro-fishing-simulator.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
 | Pro Flight Simulator New York Premium Edition | 88363 | [88363-pro-flight-simulator-new-york-premium-edition.json](./88363-pro-flight-simulator-new-york-premium-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
