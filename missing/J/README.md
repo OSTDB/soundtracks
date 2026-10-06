@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JAPP: Just Another Precise Platformer | 268984 | [268984-japp-just-another-precise-platformer.json](./268984-japp-just-another-precise-platformer.json) |
 | Jaques Roque | 35888 | [35888-jaques-roque.json](./35888-jaques-roque.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
+| Jar Battlers | 108371 | [108371-jar-battlers.json](./108371-jar-battlers.json) |
 | Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
 | Jardin | 186163 | [186163-jardin.json](./186163-jardin.json) |
 | Jargon | 390629 | [390629-jargon.json](./390629-jargon.json) |
@@ -578,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
+| Jellyfish the Ghost | 108387 | [108387-jellyfish-the-ghost.json](./108387-jellyfish-the-ghost.json) |
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jellyflug Micro Adventures | 197644 | [197644-jellyflug-micro-adventures.json](./197644-jellyflug-micro-adventures.json) |
 | JellyKing : Rule The World | 312650 | [312650-jellyking-rule-the-world.json](./312650-jellyking-rule-the-world.json) |
