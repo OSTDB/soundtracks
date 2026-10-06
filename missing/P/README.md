@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panelki | 192269 | [192269-panelki.json](./192269-panelki.json) |
 | Panels | 298248 | [298248-panels.json](./298248-panels.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
+| Panfu | 89508 | [89508-panfu.json](./89508-panfu.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
@@ -864,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
+| Paper Football | 89501 | [89501-paper-football.json](./89501-paper-football.json) |
 | Paper Front | 108355 | [108355-paper-front.json](./108355-paper-front.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
 | Paper Ghost Stories: 7PM | 224985 | [224985-paper-ghost-stories-7pm.json](./224985-paper-ghost-stories-7pm.json) |
@@ -4182,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Black Cove | 2067 | [2067-pirates-of-black-cove.json](./2067-pirates-of-black-cove.json) |
 | Pirates of Black Cove: Sink 'Em All | 120210 | [120210-pirates-of-black-cove-sink-em-all.json](./120210-pirates-of-black-cove-sink-em-all.json) |
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
+| Pirates of Everseas | 89524 | [89524-pirates-of-everseas.json](./89524-pirates-of-everseas.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
 | Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
@@ -6295,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker Extra | 130276 | [130276-poker-extra.json](./130276-poker-extra.json) |
+| Poker Fever | 89500 | [89500-poker-fever.json](./89500-poker-fever.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
@@ -10126,6 +10130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
 | Pyramid Raid | 26871 | [26871-pyramid-raid.json](./26871-pyramid-raid.json) |
 | Pyramid Schemes and Cults | 280300 | [280300-pyramid-schemes-and-cults.json](./280300-pyramid-schemes-and-cults.json) |
+| Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
 | Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
