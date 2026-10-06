@@ -2608,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares from the Deep Collection | 53419 | [53419-nightmares-from-the-deep-collection.json](./53419-nightmares-from-the-deep-collection.json) |
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
+| Nightmares of Death | 96205 | [96205-nightmares-of-death.json](./96205-nightmares-of-death.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
 | NightMaresToBe | 163824 | [163824-nightmarestobe.json](./163824-nightmarestobe.json) |
