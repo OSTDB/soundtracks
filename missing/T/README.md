@@ -6415,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
 | The Kendama Challenge: 100 Players | 389736 | [389736-the-kendama-challenge-100-players.json](./389736-the-kendama-challenge-100-players.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
+| The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Key to Forgotten Souls | 395177 | [395177-the-key-to-forgotten-souls.json](./395177-the-key-to-forgotten-souls.json) |
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
