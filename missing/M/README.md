@@ -8679,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster RPG 2 | 34312 | [34312-monster-rpg-2.json](./34312-monster-rpg-2.json) |
 | Monster RPG 3 | 97015 | [97015-monster-rpg-3.json](./97015-monster-rpg-3.json) |
 | Monster Run: Downfall of the Empire | 258524 | [258524-monster-run-downfall-of-the-empire.json](./258524-monster-run-downfall-of-the-empire.json) |
+| Monster Safari | 110924 | [110924-monster-safari.json](./110924-monster-safari.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
 | Monster School | 85881 | [85881-monster-school.json](./85881-monster-school.json) |
