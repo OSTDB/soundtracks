@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
+| Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
+| Beyblade Super Stars | 84429 | [84429-beyblade-super-stars.json](./84429-beyblade-super-stars.json) |
 | Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
 | Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
 | Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
@@ -3968,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Band Survivors | 374786 | [374786-big-band-survivors.json](./374786-big-band-survivors.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
+| Big Bang Brain Games | 84461 | [84461-big-bang-brain-games.json](./84461-big-bang-brain-games.json) |
 | Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
 | Big Bang Pictures | 87616 | [87616-big-bang-pictures.json](./87616-big-bang-pictures.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
@@ -7213,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Booze & Ooze | 327291 | [327291-booze-and-ooze.json](./327291-booze-and-ooze.json) |
+| Booze Cruise | 84462 | [84462-booze-cruise.json](./84462-booze-cruise.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 119092 | [119092-booze-masters-freezing-moonshine.json](./119092-booze-masters-freezing-moonshine.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
@@ -7804,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bozo the Brave | 15685 | [15685-bozo-the-brave.json](./15685-bozo-the-brave.json) |
 | BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
+| BPM Racing | 84465 | [84465-bpm-racing.json](./84465-bpm-racing.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | BQM: BlockQuest Maker | 102940 | [102940-bqm-blockquest-maker.json](./102940-bqm-blockquest-maker.json) |
 | BQM: BlockQuest Maker - 1st DLC: Samurai Era | 237970 | [237970-bqm-blockquest-maker-1st-dlc-samurai-era.json](./237970-bqm-blockquest-maker-1st-dlc-samurai-era.json) |
@@ -8534,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Bright Paw: Definitive Edition | 212285 | [212285-bright-paw-definitive-edition.json](./212285-bright-paw-definitive-edition.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
+| Bright Shadow | 84432 | [84432-bright-shadow.json](./84432-bright-shadow.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
