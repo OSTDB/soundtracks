@@ -4294,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
+| Word Square | 69508 | [69508-word-square.json](./69508-word-square.json) |
 | Word Stitch | 233056 | [233056-word-stitch.json](./233056-word-stitch.json) |
 | Word Strike | 232067 | [232067-word-strike.json](./232067-word-strike.json) |
 | Word Sudoku - Tapestry Twist | 89531 | [89531-word-sudoku-tapestry-twist.json](./89531-word-sudoku-tapestry-twist.json) |
