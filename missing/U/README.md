@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltiMatt | 246929 | [246929-ultimatt.json](./246929-ultimatt.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
+| Ultimuh MCMLXVII: Part 2 of the 39th Trilogy - The Quest for the Golden Amulet | 73462 | [73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json](./73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json) |
 | Ultimus | 267425 | [267425-ultimus.json](./267425-ultimus.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
