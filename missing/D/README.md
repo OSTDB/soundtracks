@@ -211,9 +211,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
 | Dai-2-ji Super Robot Taisen OG | 7264 | [7264-dai-2-ji-super-robot-taisen-og.json](./7264-dai-2-ji-super-robot-taisen-og.json) |
+| Dai-2-ji Super Robot Taisen Z: Saisei-hen | 80145 | [80145-dai-2-ji-super-robot-taisen-z-saisei-hen.json](./80145-dai-2-ji-super-robot-taisen-z-saisei-hen.json) |
 | Dai-3-ji Super Robot Taisen | 240913 | [240913-dai-3-ji-super-robot-taisen.json](./240913-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen | 42564 | [42564-dai-3-ji-super-robot-taisen.json](./42564-dai-3-ji-super-robot-taisen.json) |
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
+| Dai-3-ji Super Robot Taisen Z: Jigoku-hen | 80144 | [80144-dai-3-ji-super-robot-taisen-z-jigoku-hen.json](./80144-dai-3-ji-super-robot-taisen-z-jigoku-hen.json) |
+| Dai-3-ji Super Robot Taisen Z: Tengoku-hen | 80141 | [80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json](./80141-dai-3-ji-super-robot-taisen-z-tengoku-hen.json) |
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
@@ -9380,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
 | DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
+| DTXMania XG | 80131 | [80131-dtxmania-xg.json](./80131-dtxmania-xg.json) |
 | DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Du Lac & Fey: Dance of Death | 76211 | [76211-du-lac-and-fey-dance-of-death.json](./76211-du-lac-and-fey-dance-of-death.json) |
