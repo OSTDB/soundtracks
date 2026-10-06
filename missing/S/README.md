@@ -8867,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerboy vs. Aliens | 406229 | [406229-soccerboy-vs-aliens.json](./406229-soccerboy-vs-aliens.json) |
+| SoccerDie | 58620 | [58620-soccerdie.json](./58620-soccerdie.json) |
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
@@ -10991,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
 | Space Invasion | 279067 | [279067-space-invasion.json](./279067-space-invasion.json) |
 | Space Invasion | 293713 | [293713-space-invasion.json](./293713-space-invasion.json) |
+| Space Invasion 0 | 58635 | [58635-space-invasion-0.json](./58635-space-invasion-0.json) |
 | Space Inversion | 260762 | [260762-space-inversion.json](./260762-space-inversion.json) |
 | Space Inversion 2 HD | 174313 | [174313-space-inversion-2-hd.json](./174313-space-inversion-2-hd.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
@@ -11106,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Pong! | 178927 | [178927-space-pong.json](./178927-space-pong.json) |
 | Space Pop: Bubble Shooter | 239705 | [239705-space-pop-bubble-shooter.json](./239705-space-pop-bubble-shooter.json) |
+| Space Pope | 58613 | [58613-space-pope.json](./58613-space-pope.json) |
 | Space Postman Story | 180647 | [180647-space-postman-story.json](./180647-space-postman-story.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
@@ -12161,6 +12164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
 | Spike C64 Dislike | 71156 | [71156-spike-c64-dislike.json](./71156-spike-c64-dislike.json) |
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
+| Spike Dislike GB | 58636 | [58636-spike-dislike-gb.json](./58636-spike-dislike-gb.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
@@ -17429,6 +17433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
 | Super Greedy Cat | 216746 | [216746-super-greedy-cat.json](./216746-super-greedy-cat.json) |
 | Super Green Rally | 86546 | [86546-super-green-rally.json](./86546-super-green-rally.json) |
+| Super Grid Run | 58638 | [58638-super-grid-run.json](./58638-super-grid-run.json) |
 | Super Grid Runner | 291046 | [291046-super-grid-runner.json](./291046-super-grid-runner.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gridland | 197753 | [197753-super-gridland.json](./197753-super-gridland.json) |
