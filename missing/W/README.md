@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
+| Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
 | Winter Sports Games: 4K Edition | 192326 | [192326-winter-sports-games-4k-edition.json](./192326-winter-sports-games-4k-edition.json) |
