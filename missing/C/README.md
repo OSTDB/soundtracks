@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Fire | 83602 | [83602-cannon-fire.json](./83602-cannon-fire.json) |
+| Cannon Fire: Bloody Sea | 115568 | [115568-cannon-fire-bloody-sea.json](./115568-cannon-fire-bloody-sea.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockeyed Helicopters | 156581 | [156581-cockeyed-helicopters.json](./156581-cockeyed-helicopters.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
+| cockroach Planet Survival | 115528 | [115528-cockroach-planet-survival.json](./115528-cockroach-planet-survival.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cocktail Harmony | 60599 | [60599-cocktail-harmony.json](./60599-cocktail-harmony.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
@@ -6117,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
 | Cold Cable: Lifeshift | 115810 | [115810-cold-cable-lifeshift.json](./115810-cold-cable-lifeshift.json) |
 | Cold Call | 165989 | [165989-cold-call.json](./165989-cold-call.json) |
+| Cold Calling | 115571 | [115571-cold-calling.json](./115571-cold-calling.json) |
 | Cold Case | 413103 | [413103-cold-case.json](./413103-cold-case.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
@@ -10153,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Guardian: Tower Defender | 357841 | [357841-cube-guardian-tower-defender.json](./357841-cube-guardian-tower-defender.json) |
 | Cube Hero | 298234 | [298234-cube-hero.json](./298234-cube-hero.json) |
 | Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
+| Cube Human | 115572 | [115572-cube-human.json](./115572-cube-human.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
