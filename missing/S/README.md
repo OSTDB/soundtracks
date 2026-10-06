@@ -11305,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Space Worthy | 201593 | [201593-space-worthy.json](./201593-space-worthy.json) |
+| Space Wrangler | 59246 | [59246-space-wrangler.json](./59246-space-wrangler.json) |
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
