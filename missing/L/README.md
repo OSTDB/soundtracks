@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing Collection | 118850 | [118850-lets-sing-collection.json](./118850-lets-sing-collection.json) |
 | Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
+| Let's Split Up (A Visual Novel) | 104156 | [104156-lets-split-up-a-visual-novel.json](./104156-lets-split-up-a-visual-novel.json) |
 | Let's Spot It! | 252925 | [252925-lets-spot-it.json](./252925-lets-spot-it.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
 | Let's Talk About Me Too | 78336 | [78336-lets-talk-about-me-too.json](./78336-lets-talk-about-me-too.json) |
@@ -3577,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With Dragons | 219638 | [219638-living-with-dragons.json](./219638-living-with-dragons.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
+| Living with Jaguars VR | 104146 | [104146-living-with-jaguars-vr.json](./104146-living-with-jaguars-vr.json) |
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
 | Living with Temptation 1: Wild Weekends & Wife Gone Wilder | 234112 | [234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json](./234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json) |
@@ -4124,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
+| Looper! | 103982 | [103982-looper.json](./103982-looper.json) |
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
 | Loopers | 140632 | [140632-loopers.json](./140632-loopers.json) |
 | Loopers Plus | 280453 | [280453-loopers-plus.json](./280453-loopers-plus.json) |
