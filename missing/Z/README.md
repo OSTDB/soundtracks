@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
 | Zodiac | 337752 | [337752-zodiac.json](./337752-zodiac.json) |
+| Zodiac Axis | 66437 | [66437-zodiac-axis.json](./66437-zodiac-axis.json) |
 | Zodiac Battles | 106765 | [106765-zodiac-battles.json](./106765-zodiac-battles.json) |
 | Zodiac DX | 158514 | [158514-zodiac-dx.json](./158514-zodiac-dx.json) |
 | Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
