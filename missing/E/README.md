@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essomenic | 388369 | [388369-essomenic.json](./388369-essomenic.json) |
 | Estab Life: Unity Memories | 289563 | [289563-estab-life-unity-memories.json](./289563-estab-life-unity-memories.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
+| Estamos Pensando | 92675 | [92675-estamos-pensando.json](./92675-estamos-pensando.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
 | Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
@@ -4453,6 +4454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
+| EZ Muze: Hamst3r Edition | 92651 | [92651-ez-muze-hamst3r-edition.json](./92651-ez-muze-hamst3r-edition.json) |
 | EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
 | EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
