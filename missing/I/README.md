@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infraspace | 149691 | [149691-infraspace.json](./149691-infraspace.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
+| InGame.exe | 65817 | [65817-ingame-exe.json](./65817-ingame-exe.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
 | Ingenious Island | 226745 | [226745-ingenious-island.json](./226745-ingenious-island.json) |
 | Ingeste | 181225 | [181225-ingeste.json](./181225-ingeste.json) |
