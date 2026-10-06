@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
 | Equilibrium of Divinity | 30489 | [30489-equilibrium-of-divinity.json](./30489-equilibrium-of-divinity.json) |
 | Equilibrium Point | 388742 | [388742-equilibrium-point.json](./388742-equilibrium-point.json) |
+| Equilibrium Space | 106486 | [106486-equilibrium-space.json](./106486-equilibrium-space.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
 | EquiMagic: Galashow of Horses | 76988 | [76988-equimagic-galashow-of-horses.json](./76988-equimagic-galashow-of-horses.json) |
 | Equin 2: The Warren Peace | 153939 | [153939-equin-2-the-warren-peace.json](./153939-equin-2-the-warren-peace.json) |
