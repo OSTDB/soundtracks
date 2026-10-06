@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
+| Battle of Cubes | 90173 | [90173-battle-of-cubes.json](./90173-battle-of-cubes.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Destiny | 78601 | [78601-battle-of-destiny.json](./78601-battle-of-destiny.json) |
 | Battle of Dry Lake 24 | 26910 | [26910-battle-of-dry-lake-24.json](./26910-battle-of-dry-lake-24.json) |
@@ -4343,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Collection | 84989 | [84989-bingo-collection.json](./84989-bingo-collection.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
+| Bingo for Nintendo Switch | 90236 | [90236-bingo-for-nintendo-switch.json](./90236-bingo-for-nintendo-switch.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
@@ -6183,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
+| Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
 | Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
@@ -7711,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxed Out | 384737 | [384737-boxed-out.json](./384737-boxed-out.json) |
 | Boxed Tower: Actual Tower Defense | 251754 | [251754-boxed-tower-actual-tower-defense.json](./251754-boxed-tower-actual-tower-defense.json) |
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
+| BoxEngine | 90208 | [90208-boxengine.json](./90208-boxengine.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxer Rebellion | 92975 | [92975-boxer-rebellion.json](./92975-boxer-rebellion.json) |
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
@@ -9480,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
+| Bunny Hop | 90197 | [90197-bunny-hop.json](./90197-bunny-hop.json) |
 | Bunny Hop Hop | 345078 | [345078-bunny-hop-hop.json](./345078-bunny-hop-hop.json) |
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
