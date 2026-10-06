@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
 | Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
+| Halo Wars 2: Complete Edition | 84476 | [84476-halo-wars-2-complete-edition.json](./84476-halo-wars-2-complete-edition.json) |
 | Halo Wars 2: Operation Spearbreaker | 75417 | [75417-halo-wars-2-operation-spearbreaker.json](./75417-halo-wars-2-operation-spearbreaker.json) |
 | Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
 | Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
 | Happy Chess | 56569 | [56569-happy-chess.json](./56569-happy-chess.json) |
+| Happy Circus | 84490 | [84490-happy-circus.json](./84490-happy-circus.json) |
 | Happy Clinic | 294802 | [294802-happy-clinic.json](./294802-happy-clinic.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
@@ -2367,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
 | Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
+| Hellforces | 84469 | [84469-hellforces.json](./84469-hellforces.json) |
 | HellFull: The Last Hope | 192273 | [192273-hellfull-the-last-hope.json](./192273-hellfull-the-last-hope.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
 | Hellgate | 125403 | [125403-hellgate.json](./125403-hellgate.json) |
