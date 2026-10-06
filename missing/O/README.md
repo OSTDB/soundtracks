@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
 | OrbWars | 154051 | [154051-orbwars.json](./154051-orbwars.json) |
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
+| Orc and Hypnotized Femdogs | 98543 | [98543-orc-and-hypnotized-femdogs.json](./98543-orc-and-hypnotized-femdogs.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
