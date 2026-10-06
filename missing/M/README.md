@@ -6429,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium: A New Hope | 8178 | [8178-millennium-a-new-hope.json](./8178-millennium-a-new-hope.json) |
 | Milli & Greg | 153933 | [153933-milli-and-greg.json](./153933-milli-and-greg.json) |
 | MilliBilli Slots | 232540 | [232540-millibilli-slots.json](./232540-millibilli-slots.json) |
+| Millidor | 81670 | [81670-millidor.json](./81670-millidor.json) |
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
@@ -10490,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
 | Murasame | 195164 | [195164-murasame.json](./195164-murasame.json) |
+| Murazu | 81660 | [81660-murazu.json](./81660-murazu.json) |
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder | 226764 | [226764-murder.json](./226764-murder.json) |
