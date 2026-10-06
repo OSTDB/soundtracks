@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Dark Terms | 221134 | [221134-on-dark-terms.json](./221134-on-dark-terms.json) |
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
+| On Earth As It Is In Heaven | 75427 | [75427-on-earth-as-it-is-in-heaven.json](./75427-on-earth-as-it-is-in-heaven.json) |
 | On Guard | 185535 | [185535-on-guard.json](./185535-on-guard.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On Key Up: A Game for Keyboards | 164949 | [164949-on-key-up-a-game-for-keyboards.json](./164949-on-key-up-a-game-for-keyboards.json) |
