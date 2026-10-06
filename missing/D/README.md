@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Duelists | 272470 | [272470-dancing-duelists.json](./272470-dancing-duelists.json) |
+| Dancing Furby | 85717 | [85717-dancing-furby.json](./85717-dancing-furby.json) |
 | Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
@@ -1655,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dazzly Stories: Ambre's Secret | 346723 | [346723-dazzly-stories-ambres-secret.json](./346723-dazzly-stories-ambres-secret.json) |
 | DB2: Disco Boogie of the Dead Beats | 335499 | [335499-db2-disco-boogie-of-the-dead-beats.json](./335499-db2-disco-boogie-of-the-dead-beats.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
+| dbaza's Diabetes Education for Kids | 85731 | [85731-dbazas-diabetes-education-for-kids.json](./85731-dbazas-diabetes-education-for-kids.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
@@ -3520,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
 | Den' Rozhdeniya 2 | 336609 | [336609-den-rozhdeniya-2.json](./336609-den-rozhdeniya-2.json) |
 | Denarius | 52752 | [52752-denarius.json](./52752-denarius.json) |
+| Denarius Avaricius Sextus | 85730 | [85730-denarius-avaricius-sextus.json](./85730-denarius-avaricius-sextus.json) |
 | Denbora | 326067 | [326067-denbora.json](./326067-denbora.json) |
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Dendron 64 | 401493 | [401493-dendron-64.json](./401493-dendron-64.json) |
@@ -6503,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domain Defense VR | 33183 | [33183-domain-defense-vr.json](./33183-domain-defense-vr.json) |
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
+| Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
@@ -7658,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Pills | 96874 | [96874-dr-pills.json](./96874-dr-pills.json) |
 | Dr. Plague | 338915 | [338915-dr-plague.json](./338915-dr-plague.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
+| Dr. Popper | 85722 | [85722-dr-popper.json](./85722-dr-popper.json) |
 | Dr. Psycho: Hospital Escape | 401115 | [401115-dr-psycho-hospital-escape.json](./401115-dr-psycho-hospital-escape.json) |
 | Dr. Rabbit's Toothpaste Tower | 320989 | [320989-dr-rabbits-toothpaste-tower.json](./320989-dr-rabbits-toothpaste-tower.json) |
 | Dr. Rin ni Kiitemite! Koi no Happy Four Season | 203831 | [203831-dr-rin-ni-kiitemite-koi-no-happy-four-season.json](./203831-dr-rin-ni-kiitemite-koi-no-happy-four-season.json) |
@@ -8349,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
 | Drainus | 202389 | [202389-drainus.json](./202389-drainus.json) |
 | Draíocht | 141076 | [141076-draiocht.json](./141076-draiocht.json) |
+| Draisine | 85715 | [85715-draisine.json](./85715-draisine.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
 | Drak | 72148 | [72148-drak.json](./72148-drak.json) |
 | Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
