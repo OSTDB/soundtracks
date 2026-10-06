@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
+| Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
 | Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
