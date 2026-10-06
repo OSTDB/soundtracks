@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
+| Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
@@ -7177,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
+| Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
@@ -7620,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continental | 67396 | [67396-continental.json](./67396-continental.json) |
 | Continental Cafe | 52830 | [52830-continental-cafe.json](./52830-continental-cafe.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
+| Continental Galaxy 2020 | 59811 | [59811-continental-galaxy-2020.json](./59811-continental-galaxy-2020.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
