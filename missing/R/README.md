@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
+| Real Tennis 2018 | 99104 | [99104-real-tennis-2018.json](./99104-real-tennis-2018.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Time Battle Shogi | 119586 | [119586-real-time-battle-shogi.json](./119586-real-time-battle-shogi.json) |
@@ -4560,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
 | Rivenaar's Grove | 324038 | [324038-rivenaars-grove.json](./324038-rivenaars-grove.json) |
 | Rivengard | 142891 | [142891-rivengard.json](./142891-rivengard.json) |
+| RivenTails Defense | 99080 | [99080-riventails-defense.json](./99080-riventails-defense.json) |
 | RivenWorld: The First Era | 236937 | [236937-rivenworld-the-first-era.json](./236937-rivenworld-the-first-era.json) |
 | River and Lake Knights | 99423 | [99423-river-and-lake-knights.json](./99423-river-and-lake-knights.json) |
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
