@@ -471,8 +471,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ximen Lizhi Biography | 278639 | [278639-ximen-lizhi-biography.json](./278639-ximen-lizhi-biography.json) |
 | Xīn Jiàn Xiá Qíngyuán | 350571 | [350571-xin-jian-xia-qingyuan.json](./350571-xin-jian-xia-qingyuan.json) |
 | Xin Jianxia Qingyuan | 86014 | [86014-xin-jianxia-qingyuan.json](./86014-xin-jianxia-qingyuan.json) |
+| Xin Juedai Shuangjiao | 85726 | [85726-xin-juedai-shuangjiao.json](./85726-xin-juedai-shuangjiao.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
+| Xin Juedai Shuangjiao: Qianzhuan | 85754 | [85754-xin-juedai-shuangjiao-qianzhuan.json](./85754-xin-juedai-shuangjiao-qianzhuan.json) |
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
 | Xīn Suǒ Xiàngwǎng de Běijíxīng | 375426 | [375426-xin-suo-xiangwang-de-beijixing.json](./375426-xin-suo-xiangwang-de-beijixing.json) |
 | Xing: The Land Beyond | 36300 | [36300-xing-the-land-beyond.json](./36300-xing-the-land-beyond.json) |
@@ -599,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword VII: Limited Edition | 167135 | [167135-xuan-yuan-sword-vii-limited-edition.json](./167135-xuan-yuan-sword-vii-limited-edition.json) |
 | Xuan-Yuan Sword: Dance of the Maple Leaves | 78056 | [78056-xuan-yuan-sword-dance-of-the-maple-leaves.json](./78056-xuan-yuan-sword-dance-of-the-maple-leaves.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
+| Xuan-Yuan Sword: Mists Beyond the Mountains | 85727 | [85727-xuan-yuan-sword-mists-beyond-the-mountains.json](./85727-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
 | Xuan-Yuan Sword: The Clouds Faraway | 126038 | [126038-xuan-yuan-sword-the-clouds-faraway.json](./126038-xuan-yuan-sword-the-clouds-faraway.json) |
 | Xuan-Yuan Sword: The Han Clouds | 79218 | [79218-xuan-yuan-sword-the-han-clouds.json](./79218-xuan-yuan-sword-the-han-clouds.json) |
