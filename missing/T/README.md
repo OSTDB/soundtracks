@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
+| Taco Cat Jump Game | 96935 | [96935-taco-cat-jump-game.json](./96935-taco-cat-jump-game.json) |
 | Taco Cat Taco | 100759 | [100759-taco-cat-taco.json](./100759-taco-cat-taco.json) |
 | Taco Gun | 99152 | [99152-taco-gun.json](./99152-taco-gun.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
@@ -3623,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
 | The BFG Game | 58282 | [58282-the-bfg-game.json](./58282-the-bfg-game.json) |
+| The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
@@ -5038,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Esoteric Archive | 353501 | [353501-the-esoteric-archive.json](./353501-the-esoteric-archive.json) |
 | The Esoterica: Hollow Earth | 30382 | [30382-the-esoterica-hollow-earth.json](./30382-the-esoterica-hollow-earth.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
+| The Essence of Speed 2020 | 96925 | [96925-the-essence-of-speed-2020.json](./96925-the-essence-of-speed-2020.json) |
 | The Essence Reaper Ritual | 51412 | [51412-the-essence-reaper-ritual.json](./51412-the-essence-reaper-ritual.json) |
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
@@ -10279,6 +10282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
+| The Untold Story of Hengshui School | 96841 | [96841-the-untold-story-of-hengshui-school.json](./96841-the-untold-story-of-hengshui-school.json) |
 | The Untouchable | 62285 | [62285-the-untouchable.json](./62285-the-untouchable.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
@@ -15349,6 +15353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxin the Game | 114984 | [114984-toxin-the-game.json](./114984-toxin-the-game.json) |
 | Toxoplasma | 385339 | [385339-toxoplasma.json](./385339-toxoplasma.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
+| Toy Attack | 96915 | [96915-toy-attack.json](./96915-toy-attack.json) |
 | Toy Blast | 54986 | [54986-toy-blast.json](./54986-toy-blast.json) |
 | Toy Bot Diaries | 69260 | [69260-toy-bot-diaries.json](./69260-toy-bot-diaries.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
