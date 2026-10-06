@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vetrex | 194988 | [194988-vetrex.json](./194988-vetrex.json) |
 | VEV: Viva Ex Vivo | 19861 | [19861-vev-viva-ex-vivo.json](./19861-vev-viva-ex-vivo.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
+| Vex | 100266 | [100266-vex.json](./100266-vex.json) |
 | Vex | 32236 | [32236-vex.json](./32236-vex.json) |
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
