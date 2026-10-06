@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
+| Deep City 2030 | 110234 | [110234-deep-city-2030.json](./110234-deep-city-2030.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
+| Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
@@ -4574,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
 | Dick Ranger | 207722 | [207722-dick-ranger.json](./207722-dick-ranger.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
+| Dick Starr: Conquers Mars | 110235 | [110235-dick-starr-conquers-mars.json](./110235-dick-starr-conquers-mars.json) |
 | Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
 | Dick Tracy | 316839 | [316839-dick-tracy.json](./316839-dick-tracy.json) |
@@ -5326,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
 | Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
+| Disciples of the Storm | 110236 | [110236-disciples-of-the-storm.json](./110236-disciples-of-the-storm.json) |
 | Disciples of Varahces | 263029 | [263029-disciples-of-varahces.json](./263029-disciples-of-varahces.json) |
 | Disciples: Domination | 360140 | [360140-disciples-domination.json](./360140-disciples-domination.json) |
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
