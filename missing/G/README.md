@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Soul Saga | 292629 | [292629-grand-soul-saga.json](./292629-grand-soul-saga.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
+| Grand Strategy | 110940 | [110940-grand-strategy.json](./110940-grand-strategy.json) |
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
@@ -4550,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
 | Gravity Simulator | 101768 | [101768-gravity-simulator.json](./101768-gravity-simulator.json) |
 | Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
+| Gravity Spin | 110948 | [110948-gravity-spin.json](./110948-gravity-spin.json) |
 | Gravity Station | 382333 | [382333-gravity-station.json](./382333-gravity-station.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
