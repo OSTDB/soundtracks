@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Gun | 191092 | [191092-table-gun.json](./191092-table-gun.json) |
 | Table Ice Hockey | 64348 | [64348-table-ice-hockey.json](./64348-table-ice-hockey.json) |
 | Table Letters | 283837 | [283837-table-letters.json](./283837-table-letters.json) |
+| Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | Table Space: Board and Card Game Sandbox | 389701 | [389701-table-space-board-and-card-game-sandbox.json](./389701-table-space-board-and-card-game-sandbox.json) |
 | Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | TellTale: Casino Murder Case | 395787 | [395787-telltale-casino-murder-case.json](./395787-telltale-casino-murder-case.json) |
+| Telltale's Stranger Things Game | 103355 | [103355-telltales-stranger-things-game.json](./103355-telltales-stranger-things-game.json) |
 | Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
@@ -2872,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
+| Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texas Wildcatter Experience | 106753 | [106753-texas-wildcatter-experience.json](./106753-texas-wildcatter-experience.json) |
 | Texnoplazm | 269190 | [269190-texnoplazm.json](./269190-texnoplazm.json) |
@@ -11256,6 +11259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
 | Thousand N' Thousand: Mimico | 376665 | [376665-thousand-n-thousand-mimico.json](./376665-thousand-n-thousand-mimico.json) |
 | Thousand Week Reich | 256452 | [256452-thousand-week-reich.json](./256452-thousand-week-reich.json) |
+| Thousands | 103354 | [103354-thousands.json](./103354-thousands.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thousands Layered Edge | 142123 | [142123-thousands-layered-edge.json](./142123-thousands-layered-edge.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
@@ -13909,6 +13913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
 | Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
+| Tom Clancy's The Division: Sleeper Agent Edition | 103382 | [103382-tom-clancys-the-division-sleeper-agent-edition.json](./103382-tom-clancys-the-division-sleeper-agent-edition.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
@@ -18257,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist It | 342730 | [342730-twist-it.json](./342730-twist-it.json) |
 | Twist Logic | 369555 | [369555-twist-logic.json](./369555-twist-logic.json) |
 | Twist of Destiny | 28926 | [28926-twist-of-destiny.json](./28926-twist-of-destiny.json) |
+| Twist Up! | 103571 | [103571-twist-up.json](./103571-twist-up.json) |
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
