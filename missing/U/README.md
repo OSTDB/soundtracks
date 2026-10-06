@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultraball | 170897 | [170897-ultraball.json](./170897-ultraball.json) |
 | Ultraball | 82318 | [82318-ultraball.json](./82318-ultraball.json) |
+| Ultrabots | 68909 | [68909-ultrabots.json](./68909-ultrabots.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
