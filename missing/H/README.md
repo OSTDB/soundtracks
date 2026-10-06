@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
 | H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
+| H.E.L.M.E.T. Force: Rise of the Machines | 109552 | [109552-h-e-l-m-e-t-force-rise-of-the-machines.json](./109552-h-e-l-m-e-t-force-rise-of-the-machines.json) |
 | H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
@@ -734,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
 | Hang-On GP | 46098 | [46098-hang-on-gp.json](./46098-hang-on-gp.json) |
 | Hang-On II | 6111 | [6111-hang-on-ii.json](./6111-hang-on-ii.json) |
+| Hangame | 109567 | [109567-hangame.json](./109567-hangame.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
@@ -4576,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | HiveCorp | 239722 | [239722-hivecorp.json](./239722-hivecorp.json) |
 | Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
+| HiveFall | 109518 | [109518-hivefall.json](./109518-hivefall.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiversaires | 230239 | [230239-hiversaires.json](./230239-hiversaires.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
@@ -4745,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holedown | 105120 | [105120-holedown.json](./105120-holedown.json) |
 | HoleHole | 251717 | [251717-holehole.json](./251717-holehole.json) |
 | Holes | 373207 | [373207-holes.json](./373207-holes.json) |
+| Holes Ahead! | 109519 | [109519-holes-ahead.json](./109519-holes-ahead.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holey Ship | 408186 | [408186-holey-ship.json](./408186-holey-ship.json) |
@@ -5052,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homer's Odyssey | 123977 | [123977-homers-odyssey.json](./123977-homers-odyssey.json) |
 | Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
 | Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
+| Homerun Clash | 109568 | [109568-homerun-clash.json](./109568-homerun-clash.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
 | Homerun Hitters | 66766 | [66766-homerun-hitters.json](./66766-homerun-hitters.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
@@ -6182,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howlville | 54104 | [54104-howlville.json](./54104-howlville.json) |
 | Howlville: The Dark Past | 99084 | [99084-howlville-the-dark-past.json](./99084-howlville-the-dark-past.json) |
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
+| Howz-it! | 109520 | [109520-howz-it.json](./109520-howz-it.json) |
 | Howzat | 262008 | [262008-howzat.json](./262008-howzat.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
