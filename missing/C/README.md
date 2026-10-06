@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade 2nd Stadium: Muscle Bomber - The Body Explosion | 238104 | [238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json](./238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
+| Capcom Arcade Hits Volume 2 | 79527 | [79527-capcom-arcade-hits-volume-2.json](./79527-capcom-arcade-hits-volume-2.json) |
 | Capcom Arcade Hits Volume 3 | 64488 | [64488-capcom-arcade-hits-volume-3.json](./64488-capcom-arcade-hits-volume-3.json) |
 | Capcom Arcade Stadium | 141546 | [141546-capcom-arcade-stadium.json](./141546-capcom-arcade-stadium.json) |
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
@@ -3707,9 +3708,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Horror: The School | 156039 | [156039-chibi-horror-the-school.json](./156039-chibi-horror-the-school.json) |
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
 | Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
+| Chibi Maruko-chan 2: Deluxe Maruko World | 79543 | [79543-chibi-maruko-chan-2-deluxe-maruko-world.json](./79543-chibi-maruko-chan-2-deluxe-maruko-world.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
 | Chibi Maruko-chan no Okashi de Piihyarara | 218369 | [218369-chibi-maruko-chan-no-okashi-de-piihyarara.json](./218369-chibi-maruko-chan-no-okashi-de-piihyarara.json) |
 | Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
+| Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
@@ -5262,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Casino | 195034 | [195034-classic-casino.json](./195034-classic-casino.json) |
 | Classic Checkers | 147860 | [147860-classic-checkers.json](./147860-classic-checkers.json) |
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
+| Classic Collection: Adventure/Fantasy | 79531 | [79531-classic-collection-adventure-fantasy.json](./79531-classic-collection-adventure-fantasy.json) |
 | Classic Compendium 2 | 79364 | [79364-classic-compendium-2.json](./79364-classic-compendium-2.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic DOOM 3 | 195496 | [195496-classic-doom-3.json](./195496-classic-doom-3.json) |
@@ -5308,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Train Simulator | 202684 | [202684-classic-train-simulator.json](./202684-classic-train-simulator.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
 | Classic Us | 393463 | [393463-classic-us.json](./393463-classic-us.json) |
+| Classic Word Games | 79535 | [79535-classic-word-games.json](./79535-classic-word-games.json) |
 | Classic Words Plus | 101589 | [101589-classic-words-plus.json](./101589-classic-words-plus.json) |
 | Classic64 | 308474 | [308474-classic64.json](./308474-classic64.json) |
 | Classical Contraption | 249364 | [249364-classical-contraption.json](./249364-classical-contraption.json) |
@@ -6518,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
+| Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
@@ -7099,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compton's Interactive Encyclopedia | 306581 | [306581-comptons-interactive-encyclopedia.json](./306581-comptons-interactive-encyclopedia.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
 | CompuChess | 91563 | [91563-compuchess.json](./91563-compuchess.json) |
+| CompuChess 2004 | 79529 | [79529-compuchess-2004.json](./79529-compuchess-2004.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
@@ -10179,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
+| Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
@@ -10335,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Hero | 298234 | [298234-cube-hero.json](./298234-cube-hero.json) |
 | Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
 | Cube Human | 115572 | [115572-cube-human.json](./115572-cube-human.json) |
+| Cube Island | 79554 | [79554-cube-island.json](./79554-cube-island.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
