@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
+| Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
 | Beta Hospital | 330919 | [330919-beta-hospital.json](./330919-beta-hospital.json) |
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
