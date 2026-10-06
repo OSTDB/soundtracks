@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
+| Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
@@ -1664,6 +1665,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
+| Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
+| Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
@@ -2043,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Summer: Book 2 | 313748 | [313748-endless-summer-book-2.json](./313748-endless-summer-book-2.json) |
 | Endless Summer: Book 3 | 313749 | [313749-endless-summer-book-3.json](./313749-endless-summer-book-3.json) |
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
+| Endless Swarm | 70626 | [70626-endless-swarm.json](./70626-endless-swarm.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
