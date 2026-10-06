@@ -4696,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Outcry, Prelude | 198319 | [198319-an-outcry-prelude.json](./198319-an-outcry-prelude.json) |
 | An Un-epic story: The adventure of Enki and Tiny Freddie | 174093 | [174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json](./174093-an-un-epic-story-the-adventure-of-enki-and-tiny-freddie.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
+| An Untitled Story | 72926 | [72926-an-untitled-story.json](./72926-an-untitled-story.json) |
 | An Update is Pending | 129651 | [129651-an-update-is-pending.json](./129651-an-update-is-pending.json) |
 | Ana: The Game | 93718 | [93718-ana-the-game.json](./93718-ana-the-game.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
@@ -9418,6 +9419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
+| Avatar: Legends of the Arena | 72925 | [72925-avatar-legends-of-the-arena.json](./72925-avatar-legends-of-the-arena.json) |
 | Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
 | Avatar: Reckoning | 216279 | [216279-avatar-reckoning.json](./216279-avatar-reckoning.json) |
 | Avatar: The Last Airbender | 202100 | [202100-avatar-the-last-airbender.json](./202100-avatar-the-last-airbender.json) |
