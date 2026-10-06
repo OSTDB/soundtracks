@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
+| Magic Cube Puzzle 3D | 102268 | [102268-magic-cube-puzzle-3d.json](./102268-magic-cube-puzzle-3d.json) |
 | Magic Cubes | 246346 | [246346-magic-cubes.json](./246346-magic-cubes.json) |
 | Magic Darts | 48182 | [48182-magic-darts.json](./48182-magic-darts.json) |
 | Magic Defense | 155571 | [155571-magic-defense.json](./155571-magic-defense.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Dodging | 367631 | [367631-master-of-dodging.json](./367631-master-of-dodging.json) |
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
+| Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
@@ -3388,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
+| Maybe Drinking. Russian Style | 102298 | [102298-maybe-drinking-russian-style.json](./102298-maybe-drinking-russian-style.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
@@ -8453,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
+| Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
@@ -10621,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
+| Music vs Block: Piano Simulation Game | 102242 | [102242-music-vs-block-piano-simulation-game.json](./102242-music-vs-block-piano-simulation-game.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical Chairs | 214009 | [214009-musical-chairs.json](./214009-musical-chairs.json) |
@@ -11652,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Coin | 195557 | [195557-mystery-coin.json](./195557-mystery-coin.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
+| Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery Horror Bundle: Saint Kotar & Charon's Staircase | 380703 | [380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json](./380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json) |
 | Mystery House | 229793 | [229793-mystery-house.json](./229793-mystery-house.json) |
