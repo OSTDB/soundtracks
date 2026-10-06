@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
+| Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Toast | 56147 | [56147-tale-of-toast.json](./56147-tale-of-toast.json) |
 | Tale of Two Sardines | 219564 | [219564-tale-of-two-sardines.json](./219564-tale-of-two-sardines.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
+| Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
 | Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
@@ -1347,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
+| Tao | 58604 | [58604-tao.json](./58604-tao.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
@@ -1358,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
+| Tap Adventure | 58609 | [58609-tap-adventure.json](./58609-tap-adventure.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
 | Tap and Field | 175201 | [175201-tap-and-field.json](./175201-tap-and-field.json) |
 | Tap and Teach: The Story of Noah's Ark | 206616 | [206616-tap-and-teach-the-story-of-noahs-ark.json](./206616-tap-and-teach-the-story-of-noahs-ark.json) |
@@ -5571,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Funskin Project | 345584 | [345584-the-funskin-project.json](./345584-the-funskin-project.json) |
 | The Furniture of Self | 185626 | [185626-the-furniture-of-self.json](./185626-the-furniture-of-self.json) |
 | The Furry Protocol | 406860 | [406860-the-furry-protocol.json](./406860-the-furry-protocol.json) |
+| The Fury | 58632 | [58632-the-fury.json](./58632-the-fury.json) |
 | The Future Devil Must Work! Debt Repayment Arc | 82916 | [82916-the-future-devil-must-work-debt-repayment-arc.json](./82916-the-future-devil-must-work-debt-repayment-arc.json) |
 | The Future Is Loading... | 355174 | [355174-the-future-is-loading.json](./355174-the-future-is-loading.json) |
 | The Future Project | 190140 | [190140-the-future-project.json](./190140-the-future-project.json) |
@@ -6513,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
 | The Jungle Book 2 | 186649 | [186649-the-jungle-book-2.json](./186649-the-jungle-book-2.json) |
+| The Jungle Book: Mowgli's Run | 58644 | [58644-the-jungle-book-mowglis-run.json](./58644-the-jungle-book-mowglis-run.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Justitia Files | 232955 | [232955-the-justitia-files.json](./232955-the-justitia-files.json) |
@@ -7313,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
+| The Lion Guard | 58639 | [58639-the-lion-guard.json](./58639-the-lion-guard.json) |
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion King 1½ - Timon And Pumbaa’s Virtual Safari 1.5: The Lion King Prideland Adventure | 325091 | [325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json](./325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json) |
 | The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari | 325090 | [325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json](./325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json) |
@@ -15367,6 +15374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Offender | 177367 | [177367-tower-offender.json](./177367-tower-offender.json) |
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
+| Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
