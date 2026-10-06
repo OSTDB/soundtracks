@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Chaves | 252904 | [252904-pac-chaves.json](./252904-pac-chaves.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
+| Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
@@ -165,6 +166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
+| Paca Plus Minus | 63136 | [63136-paca-plus-minus.json](./63136-paca-plus-minus.json) |
+| Paca Plus Plus! | 63135 | [63135-paca-plus-plus.json](./63135-paca-plus-plus.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pacapong | 176335 | [176335-pacapong.json](./176335-pacapong.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
@@ -5462,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please read me | 229789 | [229789-please-read-me.json](./229789-please-read-me.json) |
 | Please Say Hi | 341568 | [341568-please-say-hi.json](./341568-please-say-hi.json) |
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
+| Please Stay Calm | 63148 | [63148-please-stay-calm.json](./63148-please-stay-calm.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
@@ -5686,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mini Golf: Hole in one | 238029 | [238029-pocket-mini-golf-hole-in-one.json](./238029-pocket-mini-golf-hole-in-one.json) |
 | Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Mirror: GoldenerTraum | 211637 | [211637-pocket-mirror-goldenertraum.json](./211637-pocket-mirror-goldenertraum.json) |
+| Pocket Mobsters | 63146 | [63146-pocket-mobsters.json](./63146-pocket-mobsters.json) |
 | Pocket Monsters Diamond & Pearl: Pokémon wo Sagase! Meiro de Daibouken! | 125325 | [125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json](./125325-pocket-monsters-diamond-and-pearl-pokemon-wo-sagase-meiro-de-daibouken.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
