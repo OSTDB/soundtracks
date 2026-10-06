@@ -13188,6 +13188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Prospector | 125178 | [125178-star-prospector.json](./125178-star-prospector.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
 | Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
+| Star Quest: TCG | 101702 | [101702-star-quest-tcg.json](./101702-star-quest-tcg.json) |
 | Star Quiz Airline Two-Choice Universe | 386376 | [386376-star-quiz-airline-two-choice-universe.json](./386376-star-quiz-airline-two-choice-universe.json) |
 | Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
@@ -16071,6 +16072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku G1 | 266910 | [266910-sudoku-g1.json](./266910-sudoku-g1.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
+| Sudoku HD for iPad | 101666 | [101666-sudoku-hd-for-ipad.json](./101666-sudoku-hd-for-ipad.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
 | Sudoku Keychain LCD Game | 233607 | [233607-sudoku-keychain-lcd-game.json](./233607-sudoku-keychain-lcd-game.json) |
 | Sudoku Killer | 103420 | [103420-sudoku-killer.json](./103420-sudoku-killer.json) |
@@ -16089,6 +16091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Minimalist Infinite | 200014 | [200014-sudoku-minimalist-infinite.json](./200014-sudoku-minimalist-infinite.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Online | 275650 | [275650-sudoku-online.json](./275650-sudoku-online.json) |
+| Sudoku Origin | 101677 | [101677-sudoku-origin.json](./101677-sudoku-origin.json) |
 | Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
 | Sudoku Party | 326814 | [326814-sudoku-party.json](./326814-sudoku-party.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
