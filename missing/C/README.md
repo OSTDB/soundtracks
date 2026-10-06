@@ -6770,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 182891 | [182891-columns.json](./182891-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
+| Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
@@ -6984,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops 2: The Cauldron Vol. 5 | 170397 | [170397-command-ops-2-the-cauldron-vol-5.json](./170397-command-ops-2-the-cauldron-vol-5.json) |
 | Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
+| Command Ops: Highway to the Reich | 63093 | [63093-command-ops-highway-to-the-reich.json](./63093-command-ops-highway-to-the-reich.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
 | Command: Aces of the Deep | 72276 | [72276-command-aces-of-the-deep.json](./72276-command-aces-of-the-deep.json) |
 | Command: Modern Air / Naval Operations | 79974 | [79974-command-modern-air-naval-operations.json](./79974-command-modern-air-naval-operations.json) |
