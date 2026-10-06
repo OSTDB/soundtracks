@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
 | West | 389685 | [389685-west.json](./389685-west.json) |
+| West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
 | Whale Trail Frenzy | 411629 | [411629-whale-trail-frenzy.json](./411629-whale-trail-frenzy.json) |
 | Whale Well | 312626 | [312626-whale-well.json](./312626-whale-well.json) |
+| Whale's Voyage II: Die Übermacht | 94397 | [94397-whales-voyage-ii-die-ubermacht.json](./94397-whales-voyage-ii-die-ubermacht.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
@@ -3499,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WisdomGems | 310091 | [310091-wisdomgems.json](./310091-wisdomgems.json) |
 | Wise Escape From Prison | 368022 | [368022-wise-escape-from-prison.json](./368022-wise-escape-from-prison.json) |
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
+| WiseBall | 94400 | [94400-wiseball.json](./94400-wiseball.json) |
 | Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
 | Wisentree Spirit | 111581 | [111581-wisentree-spirit.json](./111581-wisentree-spirit.json) |
