@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
+| SAM Simulator | 71179 | [71179-sam-simulator.json](./71179-sam-simulator.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
 | Shadows of Progakko | 325542 | [325542-shadows-of-progakko.json](./325542-shadows-of-progakko.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
+| Shadows of RON | 71167 | [71167-shadows-of-ron.json](./71167-shadows-of-ron.json) |
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
 | Shadows of Souls | 290116 | [290116-shadows-of-souls.json](./290116-shadows-of-souls.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
@@ -7630,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slitterhead: Deluxe Edition | 331846 | [331846-slitterhead-deluxe-edition.json](./331846-slitterhead-deluxe-edition.json) |
 | Slivania | 327377 | [327377-slivania.json](./327377-slivania.json) |
 | Sliver-Sclicker | 102385 | [102385-sliver-sclicker.json](./102385-sliver-sclicker.json) |
+| Slizer Battle Management System | 71188 | [71188-slizer-battle-management-system.json](./71188-slizer-battle-management-system.json) |
 | Slizza | 116993 | [116993-slizza.json](./116993-slizza.json) |
 | Sloane and MacHale's Mysterious Stories 2 | 59405 | [59405-sloane-and-machales-mysterious-stories-2.json](./59405-sloane-and-machales-mysterious-stories-2.json) |
 | Slobbish Dragon Princess | 153459 | [153459-slobbish-dragon-princess.json](./153459-slobbish-dragon-princess.json) |
@@ -12078,6 +12081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike | 174628 | [174628-spike.json](./174628-spike.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
+| Spike C64 Dislike | 71156 | [71156-spike-c64-dislike.json](./71156-spike-c64-dislike.json) |
 | Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
@@ -15005,6 +15009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch Laser Blast | 133749 | [133749-stitch-laser-blast.json](./133749-stitch-laser-blast.json) |
 | Stitch Master of Disguise | 133747 | [133747-stitch-master-of-disguise.json](./133747-stitch-master-of-disguise.json) |
 | Stitch: Hoop Pack 1 | 333196 | [333196-stitch-hoop-pack-1.json](./333196-stitch-hoop-pack-1.json) |
+| Stitch! Super Chef | 71154 | [71154-stitch-super-chef.json](./71154-stitch-super-chef.json) |
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
@@ -16535,6 +16540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
+| Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
 | Sum Zero | 407472 | [407472-sum-zero.json](./407472-sum-zero.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
@@ -16850,6 +16856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Routes | 224514 | [224514-sunset-routes.json](./224514-sunset-routes.json) |
+| Sunset Runner | 71147 | [71147-sunset-runner.json](./71147-sunset-runner.json) |
 | Sunset Shores | 294794 | [294794-sunset-shores.json](./294794-sunset-shores.json) |
 | Sunset Solitaire | 302071 | [302071-sunset-solitaire.json](./302071-sunset-solitaire.json) |
 | Sunset Sprout | 348460 | [348460-sunset-sprout.json](./348460-sunset-sprout.json) |
@@ -16987,6 +16994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
+| Super Block | 71182 | [71182-super-block.json](./71182-super-block.json) |
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
 | Super Block Crush | 236340 | [236340-super-block-crush.json](./236340-super-block-crush.json) |
 | Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
@@ -17025,6 +17033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
+| Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
