@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
 | Vacation Adventures: Park Ranger 8 | 191072 | [191072-vacation-adventures-park-ranger-8.json](./191072-vacation-adventures-park-ranger-8.json) |
+| Vacation Gone Awry | 74019 | [74019-vacation-gone-awry.json](./74019-vacation-gone-awry.json) |
 | Vacation in Paradise | 370256 | [370256-vacation-in-paradise.json](./370256-vacation-in-paradise.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Mogul | 53877 | [53877-vacation-mogul.json](./53877-vacation-mogul.json) |
