@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-52 Sea Battle | 195050 | [195050-p-52-sea-battle.json](./195050-p-52-sea-battle.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
+| P.A.S. | 105431 | [105431-p-a-s.json](./105431-p-a-s.json) |
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
 | P.Craft | 132121 | [132121-p-craft.json](./132121-p-craft.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Hideout | 195052 | [195052-penguin-hideout.json](./195052-penguin-hideout.json) |
+| Penguin Hop | 105425 | [105425-penguin-hop.json](./105425-penguin-hop.json) |
 | Penguin Hotel | 324506 | [324506-penguin-hotel.json](./324506-penguin-hotel.json) |
 | Penguin Hotel 2: Snake Penguin Ambition | 333533 | [333533-penguin-hotel-2-snake-penguin-ambition.json](./333533-penguin-hotel-2-snake-penguin-ambition.json) |
 | Penguin Hunting | 192282 | [192282-penguin-hunting.json](./192282-penguin-hunting.json) |
@@ -3648,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot Sophie | 96719 | [96719-pilot-sophie.json](./96719-pilot-sophie.json) |
+| Pilot Sports | 105426 | [105426-pilot-sports.json](./105426-pilot-sports.json) |
 | Pilot Unknown | 116284 | [116284-pilot-unknown.json](./116284-pilot-unknown.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
@@ -8389,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
+| Project Defense | 105243 | [105243-project-defense.json](./105243-project-defense.json) |
 | Project Dejavu | 391156 | [391156-project-dejavu.json](./391156-project-dejavu.json) |
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
@@ -9888,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle XP Championship 2 | 209372 | [209372-puzzle-xp-championship-2.json](./209372-puzzle-xp-championship-2.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
+| Puzzle: Cats & Dogs | 105251 | [105251-puzzle-cats-and-dogs.json](./105251-puzzle-cats-and-dogs.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Cats | 163464 | [163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json](./163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
 | Puzzle: Landscapes | 106589 | [106589-puzzle-landscapes.json](./106589-puzzle-landscapes.json) |
