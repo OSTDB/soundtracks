@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Fawn killers | 77401 | [77401-natural-fawn-killers.json](./77401-natural-fawn-killers.json) |
+| Natural Landscape: Guilin Landscape | 86416 | [86416-natural-landscape-guilin-landscape.json](./86416-natural-landscape-guilin-landscape.json) |
 | Natural Landscape: Three Gorges | 90214 | [90214-natural-landscape-three-gorges.json](./90214-natural-landscape-three-gorges.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu High School Dodgeball Club: Soccer Story | 191639 | [191639-nekketsu-high-school-dodgeball-club-soccer-story.json](./191639-nekketsu-high-school-dodgeball-club-soccer-story.json) |
 | Nekketsu Kakutou Densetsu | 191679 | [191679-nekketsu-kakutou-densetsu.json](./191679-nekketsu-kakutou-densetsu.json) |
 | Nekketsu Kouha Kunio-kun | 40969 | [40969-nekketsu-kouha-kunio-kun.json](./40969-nekketsu-kouha-kunio-kun.json) |
+| Nekketsu Kouha Kunio-kun Special | 86385 | [86385-nekketsu-kouha-kunio-kun-special.json](./86385-nekketsu-kouha-kunio-kun-special.json) |
 | Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
