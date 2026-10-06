@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
+| Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
