@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatDog: Quest for the Golden Hydrant | 7569 | [7569-catdog-quest-for-the-golden-hydrant.json](./7569-catdog-quest-for-the-golden-hydrant.json) |
 | Cate West: The Velvet Keys | 200491 | [200491-cate-west-the-velvet-keys.json](./200491-cate-west-the-velvet-keys.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
+| Catechumen | 84468 | [84468-catechumen.json](./84468-catechumen.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
 | Category I: Shisenjou no Survivor | 221682 | [221682-category-i-shisenjou-no-survivor.json](./221682-category-i-shisenjou-no-survivor.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | Cecil Run | 129007 | [129007-cecil-run.json](./129007-cecil-run.json) |
+| Cecile | 84489 | [84489-cecile.json](./84489-cecile.json) |
 | Cede | 108974 | [108974-cede.json](./108974-cede.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
@@ -6276,6 +6278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse of the Midnight Sun | 351635 | [351635-collapse-of-the-midnight-sun.json](./351635-collapse-of-the-midnight-sun.json) |
 | Collapse Relapse | 203969 | [203969-collapse-relapse.json](./203969-collapse-relapse.json) |
 | Collapse Zone | 382309 | [382309-collapse-zone.json](./382309-collapse-zone.json) |
+| Collapse! | 84439 | [84439-collapse.json](./84439-collapse.json) |
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
 | Collapsed | 118801 | [118801-collapsed.json](./118801-collapsed.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
@@ -7318,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
 | Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
+| Conquer Online | 84455 | [84455-conquer-online.json](./84455-conquer-online.json) |
 | Conquer or Die | 187289 | [187289-conquer-or-die.json](./187289-conquer-or-die.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
@@ -10253,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cu-On-Pa BS Ban | 134436 | [134436-cu-on-pa-bs-ban.json](./134436-cu-on-pa-bs-ban.json) |
 | Cu63 | 183934 | [183934-cu63.json](./183934-cu63.json) |
 | Cuadradito y Circulito: El Videojuego | 133982 | [133982-cuadradito-y-circulito-el-videojuego.json](./133982-cuadradito-y-circulito-el-videojuego.json) |
+| Cuadro | 84444 | [84444-cuadro.json](./84444-cuadro.json) |
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
