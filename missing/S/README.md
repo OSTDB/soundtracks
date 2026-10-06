@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
 | Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
 | Sakeworld | 249916 | [249916-sakeworld.json](./249916-sakeworld.json) |
+| Saki Portable | 66919 | [66919-saki-portable.json](./66919-saki-portable.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
@@ -4680,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
+| Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
 | Shin Sedai Robot Senki - Brave Saga | 137393 | [137393-shin-sedai-robot-senki-brave-saga.json](./137393-shin-sedai-robot-senki-brave-saga.json) |
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
@@ -10078,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
 | Sonnet | 402478 | [402478-sonnet.json](./402478-sonnet.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
+| Sonny with a Chance | 66903 | [66903-sonny-with-a-chance.json](./66903-sonny-with-a-chance.json) |
 | Sonny X'press! | 195057 | [195057-sonny-xpress.json](./195057-sonny-xpress.json) |
 | Sono | 130184 | [130184-sono.json](./130184-sono.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
@@ -10646,6 +10649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
+| Space Attack | 66909 | [66909-space-attack.json](./66909-space-attack.json) |
 | Space Avenger: Empire of Nexx | 133185 | [133185-space-avenger-empire-of-nexx.json](./133185-space-avenger-empire-of-nexx.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
@@ -11227,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Vortex | 297723 | [297723-space-vortex.json](./297723-space-vortex.json) |
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Voyager | 54515 | [54515-space-voyager.json](./54515-space-voyager.json) |
+| Space Vulture | 66908 | [66908-space-vulture.json](./66908-space-vulture.json) |
 | Space Wackos | 279850 | [279850-space-wackos.json](./279850-space-wackos.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
@@ -11466,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
 | Spartan | 208845 | [208845-spartan.json](./208845-spartan.json) |
+| Spartan | 66895 | [66895-spartan.json](./66895-spartan.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
