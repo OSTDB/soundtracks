@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Band Yarouze! | 175680 | [175680-band-yarouze.json](./175680-band-yarouze.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
+| Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
@@ -4096,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
 | Big Hops | 217390 | [217390-big-hops.json](./217390-big-hops.json) |
+| Big Huggin' | 63113 | [63113-big-huggin.json](./63113-big-huggin.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Hunt: Paint Town Black Red | 107009 | [107009-big-hunt-paint-town-black-red.json](./107009-big-hunt-paint-town-black-red.json) |
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
