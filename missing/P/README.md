@@ -4678,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
+| PixelRPG | 110920 | [110920-pixelrpg.json](./110920-pixelrpg.json) |
 | PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
 | Pixelry | 50848 | [50848-pixelry.json](./50848-pixelry.json) |
 | Pixels | 237448 | [237448-pixels.json](./237448-pixels.json) |
@@ -9239,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
+| Pumpkin Death Garden | 110936 | [110936-pumpkin-death-garden.json](./110936-pumpkin-death-garden.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
 | Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
