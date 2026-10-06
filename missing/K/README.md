@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Valley | 19727 | [19727-kings-valley.json](./19727-kings-valley.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
+| Kingdom Bash | 58076 | [58076-kingdom-bash.json](./58076-kingdom-bash.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
