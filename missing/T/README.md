@@ -7951,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
 | The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
+| The Nun | 105998 | [105998-the-nun.json](./105998-the-nun.json) |
 | The Nurse | 371408 | [371408-the-nurse.json](./371408-the-nurse.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
@@ -15740,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 6: Thames Valley - Windsor, Henley & Marlow Branch Lines Add-On | 412419 | [412419-train-sim-world-6-thames-valley-windsor-henley-and-marlow-branch-lines-add-on.json](./412419-train-sim-world-6-thames-valley-windsor-henley-and-marlow-branch-lines-add-on.json) |
 | Train Sim World VR: New York | 314357 | [314357-train-sim-world-vr-new-york.json](./314357-train-sim-world-vr-new-york.json) |
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
+| Train Sim World: Digital Deluxe Edition | 106008 | [106008-train-sim-world-digital-deluxe-edition.json](./106008-train-sim-world-digital-deluxe-edition.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator 2013 | 5546 | [5546-train-simulator-2013.json](./5546-train-simulator-2013.json) |
@@ -17768,6 +17770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
 | Tube Repairs | 370258 | [370258-tube-repairs.json](./370258-tube-repairs.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
+| Tube Spin | 106001 | [106001-tube-spin.json](./106001-tube-spin.json) |
 | Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tube Way Army | 80201 | [80201-tube-way-army.json](./80201-tube-way-army.json) |
 | Tube-It | 69365 | [69365-tube-it.json](./69365-tube-it.json) |
