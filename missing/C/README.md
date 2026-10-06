@@ -9516,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
+| Crimson Empire: Circumstances to Serve a Noble | 58056 | [58056-crimson-empire-circumstances-to-serve-a-noble.json](./58056-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Freedom | 381192 | [381192-crimson-freedom.json](./381192-crimson-freedom.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
@@ -11114,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
 | Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
+| Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
