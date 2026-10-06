@@ -2161,6 +2161,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 11: Platinum Edition | 118833 | [118833-lets-sing-11-platinum-edition.json](./118833-lets-sing-11-platinum-edition.json) |
 | Let's Sing 13 | 139930 | [139930-lets-sing-13.json](./139930-lets-sing-13.json) |
 | Let's Sing 16 | 53272 | [53272-lets-sing-16.json](./53272-lets-sing-16.json) |
+| Let's Sing 2014 | 60896 | [60896-lets-sing-2014.json](./60896-lets-sing-2014.json) |
+| Let's Sing 2015 | 60897 | [60897-lets-sing-2015.json](./60897-lets-sing-2015.json) |
 | Let's Sing 2016 | 34567 | [34567-lets-sing-2016.json](./34567-lets-sing-2016.json) |
 | Let's Sing 2017: Hits Francais et Internationaux | 268192 | [268192-lets-sing-2017-hits-francais-et-internationaux.json](./268192-lets-sing-2017-hits-francais-et-internationaux.json) |
 | Let's Sing 2018: Hits Francais et Internationaux | 268194 | [268194-lets-sing-2018-hits-francais-et-internationaux.json](./268194-lets-sing-2018-hits-francais-et-internationaux.json) |
