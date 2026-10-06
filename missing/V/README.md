@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
 | Veyrasol | 413754 | [413754-veyrasol.json](./413754-veyrasol.json) |
 | VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
+| VFR Real Scenery: Isle of Wight | 99698 | [99698-vfr-real-scenery-isle-of-wight.json](./99698-vfr-real-scenery-isle-of-wight.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
 | VG II: The Bout of Cabalistic Goddess | 98253 | [98253-vg-ii-the-bout-of-cabalistic-goddess.json](./98253-vg-ii-the-bout-of-cabalistic-goddess.json) |
