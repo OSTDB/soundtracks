@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
+| Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
@@ -1444,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
 | TapPlus | 384211 | [384211-tapplus.json](./384211-tapplus.json) |
+| Tappy Cat: Rhythm Collector | 74696 | [74696-tappy-cat-rhythm-collector.json](./74696-tappy-cat-rhythm-collector.json) |
 | Tappy Chicken | 344000 | [344000-tappy-chicken.json](./344000-tappy-chicken.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
@@ -10461,6 +10463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Waifu Game | 292681 | [292681-the-waifu-game.json](./292681-the-waifu-game.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
+| The Waiting Room | 74695 | [74695-the-waiting-room.json](./74695-the-waiting-room.json) |
 | The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
@@ -13692,7 +13695,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
+| Toca Lab: Elements | 74727 | [74727-toca-lab-elements.json](./74727-toca-lab-elements.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
+| Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
+| Toca Pet Doctor | 74729 | [74729-toca-pet-doctor.json](./74729-toca-pet-doctor.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
 | TOCA Race Driver 2 | 6201 | [6201-toca-race-driver-2.json](./6201-toca-race-driver-2.json) |
@@ -16060,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Wien - St. Pölten Route Add-On | 354564 | [354564-train-simulator-classic-wien-st-polten-route-add-on.json](./354564-train-simulator-classic-wien-st-polten-route-add-on.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
+| Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
 | Train Simulator: Cajon Pass Route Add-On | 156475 | [156475-train-simulator-cajon-pass-route-add-on.json](./156475-train-simulator-cajon-pass-route-add-on.json) |
 | Train Simulator: Chiltern Main Line: London - Birmingham Route Add-On | 156489 | [156489-train-simulator-chiltern-main-line-london-birmingham-route-add-on.json](./156489-train-simulator-chiltern-main-line-london-birmingham-route-add-on.json) |
 | Train Simulator: China Railways CR400BF | 253450 | [253450-train-simulator-china-railways-cr400bf.json](./253450-train-simulator-china-railways-cr400bf.json) |
