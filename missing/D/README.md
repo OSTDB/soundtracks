@@ -4236,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detrita Battlegrounds | 54494 | [54494-detrita-battlegrounds.json](./54494-detrita-battlegrounds.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
+| Detroit Metal City DS: Death Shout | 70602 | [70602-detroit-metal-city-ds-death-shout.json](./70602-detroit-metal-city-ds-death-shout.json) |
 | Detroit: Become Human - Digital Deluxe Edition | 118902 | [118902-detroit-become-human-digital-deluxe-edition.json](./118902-detroit-become-human-digital-deluxe-edition.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
@@ -6414,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
 | Dokapon?! Millennium Quest | 65546 | [65546-dokapon-millennium-quest.json](./65546-dokapon-millennium-quest.json) |
+| Dokee the Dog and the Musical Rain | 70615 | [70615-dokee-the-dog-and-the-musical-rain.json](./70615-dokee-the-dog-and-the-musical-rain.json) |
 | Doki Boki International Hentai Language School | 370255 | [370255-doki-boki-international-hentai-language-school.json](./370255-doki-boki-international-hentai-language-school.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki A Summer's Requiem | 361806 | [361806-doki-doki-a-summers-requiem.json](./361806-doki-doki-a-summers-requiem.json) |
@@ -6605,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Renaissance | 191098 | [191098-dominion-renaissance.json](./191098-dominion-renaissance.json) |
 | Dominion: Seaside | 191111 | [191111-dominion-seaside.json](./191111-dominion-seaside.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
+| Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
@@ -7670,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
+| Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
 | Dr. Brain Thinking Games: Puzzle Madness | 72141 | [72141-dr-brain-thinking-games-puzzle-madness.json](./72141-dr-brain-thinking-games-puzzle-madness.json) |
@@ -8780,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
 | Dreamer Series: Babysitter | 79532 | [79532-dreamer-series-babysitter.json](./79532-dreamer-series-babysitter.json) |
 | Dreamer Series: Horse Trainer | 79533 | [79533-dreamer-series-horse-trainer.json](./79533-dreamer-series-horse-trainer.json) |
+| Dreamer Series: Puppy Trainer | 70597 | [70597-dreamer-series-puppy-trainer.json](./70597-dreamer-series-puppy-trainer.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
