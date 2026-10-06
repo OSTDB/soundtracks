@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
+| Easy Shooter | 116912 | [116912-easy-shooter.json](./116912-easy-shooter.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
 | Easy Street: A Shopping Adventure | 336128 | [336128-easy-street-a-shopping-adventure.json](./336128-easy-street-a-shopping-adventure.json) |
 | Easy VTT | 269026 | [269026-easy-vtt.json](./269026-easy-vtt.json) |
