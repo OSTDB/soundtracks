@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
+| Carcassonne DS | 66992 | [66992-carcassonne-ds.json](./66992-carcassonne-ds.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
 | Carcassonne: The Official Board Game - The Princess & the Dragon | 155175 | [155175-carcassonne-the-official-board-game-the-princess-and-the-dragon.json](./155175-carcassonne-the-official-board-game-the-princess-and-the-dragon.json) |
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
@@ -9678,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
+| Cross Changer | 66896 | [66896-cross-changer.json](./66896-cross-changer.json) |
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
