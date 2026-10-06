@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CalQ | 61569 | [61569-calq.json](./61569-calq.json) |
 | Caltron 6-in-1 | 81250 | [81250-caltron-6-in-1.json](./81250-caltron-6-in-1.json) |
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
+| Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
 | Calvin Tucker's Farm Animal Racing | 89420 | [89420-calvin-tuckers-farm-animal-racing.json](./89420-calvin-tuckers-farm-animal-racing.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
+| Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
 | Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
 | Christmas Celebration With Sakuya Izayoi | 192698 | [192698-christmas-celebration-with-sakuya-izayoi.json](./192698-christmas-celebration-with-sakuya-izayoi.json) |
@@ -5767,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Demake Project | 181860 | [181860-club-penguin-demake-project.json](./181860-club-penguin-demake-project.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
+| Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
@@ -9087,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
 | Crazy Taxi: World Tour | 279633 | [279633-crazy-taxi-world-tour.json](./279633-crazy-taxi-world-tour.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
+| Crazy Tetris | 94934 | [94934-crazy-tetris.json](./94934-crazy-tetris.json) |
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
@@ -11036,6 +11040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
+| Cyberchess | 94930 | [94930-cyberchess.json](./94930-cyberchess.json) |
 | CyberCity | 228595 | [228595-cybercity.json](./228595-cybercity.json) |
 | Cybercity: Sex Saga | 367013 | [367013-cybercity-sex-saga.json](./367013-cybercity-sex-saga.json) |
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
