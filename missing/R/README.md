@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
+| Rogue Heist | 105233 | [105233-rogue-heist.json](./105233-rogue-heist.json) |
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Hex | 243806 | [243806-rogue-hex.json](./243806-rogue-hex.json) |
@@ -6151,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
 | Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
+| Rote | 105428 | [105428-rote.json](./105428-rote.json) |
 | Rotego | 158063 | [158063-rotego.json](./158063-rotego.json) |
 | Rotem | 372546 | [372546-rotem.json](./372546-rotem.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
