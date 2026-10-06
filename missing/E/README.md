@@ -3938,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
 | Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
+| Excellent Card Games | 100283 | [100283-excellent-card-games.json](./100283-excellent-card-games.json) |
 | Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
@@ -4267,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
 | Extirpate | 291532 | [291532-extirpate.json](./291532-extirpate.json) |
 | Extortion | 146163 | [146163-extortion.json](./146163-extortion.json) |
+| Extra Bases | 100300 | [100300-extra-bases.json](./100300-extra-bases.json) |
 | Extra Case: My Girlfriend's Secrets | 234108 | [234108-extra-case-my-girlfriends-secrets.json](./234108-extra-case-my-girlfriends-secrets.json) |
 | Extra Cream | 310134 | [310134-extra-cream.json](./310134-extra-cream.json) |
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
