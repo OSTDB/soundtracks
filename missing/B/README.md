@@ -5711,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle | 390773 | [390773-block-puzzle.json](./390773-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
+| Block Puzzle Legend | 104585 | [104585-block-puzzle-legend.json](./104585-block-puzzle-legend.json) |
 | Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
 | Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
 | Block Puzzle: Gem Legend | 232488 | [232488-block-puzzle-gem-legend.json](./232488-block-puzzle-gem-legend.json) |
@@ -7894,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Brands Hatch | 55997 | [55997-brands-hatch.json](./55997-brands-hatch.json) |
+| Brane: Prototype | 104586 | [104586-brane-prototype.json](./104586-brane-prototype.json) |
 | Branmarker | 65035 | [65035-branmarker.json](./65035-branmarker.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | BrantSteele | 56578 | [56578-brantsteele.json](./56578-brantsteele.json) |
