@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Blue | 71466 | [71466-absolute-blue.json](./71466-absolute-blue.json) |
+| Absolute BrickBuster | 76150 | [76150-absolute-brickbuster.json](./76150-absolute-brickbuster.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Doppelkopf | 79215 | [79215-absolute-doppelkopf.json](./79215-absolute-doppelkopf.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
+| Academy | 76161 | [76161-academy.json](./76161-academy.json) |
 | Academy Love Saga: Tennis Angels | 312665 | [312665-academy-love-saga-tennis-angels.json](./312665-academy-love-saga-tennis-angels.json) |
 | Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
 | Academy of Magic: A New Beginning | 365802 | [365802-academy-of-magic-a-new-beginning.json](./365802-academy-of-magic-a-new-beginning.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: The Incomplete Story | 309972 | [309972-ace-attorney-the-incomplete-story.json](./309972-ace-attorney-the-incomplete-story.json) |
 | Ace Attorney: Turnabout Of A Legend | 303001 | [303001-ace-attorney-turnabout-of-a-legend.json](./303001-ace-attorney-turnabout-of-a-legend.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
+| Ace Ball | 76162 | [76162-ace-ball.json](./76162-ace-ball.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
 | Ace Combat 04: Shattered Skies | 9763 | [9763-ace-combat-04-shattered-skies.json](./9763-ace-combat-04-shattered-skies.json) |
 | Ace Combat 3: Electrosphere | 14751 | [14751-ace-combat-3-electrosphere.json](./14751-ace-combat-3-electrosphere.json) |
@@ -1865,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
+| Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
@@ -4560,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
 | Amok! | 41531 | [41531-amok.json](./41531-amok.json) |
 | Amon | 75934 | [75934-amon.json](./75934-amon.json) |
+| Amon Amarth | 76156 | [76156-amon-amarth.json](./76156-amon-amarth.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
 | Among Ass 2: Butt Warfare | 170900 | [170900-among-ass-2-butt-warfare.json](./170900-among-ass-2-butt-warfare.json) |
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
@@ -9096,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Arena | 33141 | [33141-audio-arena.json](./33141-audio-arena.json) |
 | Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
+| Audio Factory | 76149 | [76149-audio-factory.json](./76149-audio-factory.json) |
 | Audio Forager | 83963 | [83963-audio-forager.json](./83963-audio-forager.json) |
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
