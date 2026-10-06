@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
+| Uphill Rush | 92114 | [92114-uphill-rush.json](./92114-uphill-rush.json) |
 | Upin & Ipin Universe | 347867 | [347867-upin-and-ipin-universe.json](./347867-upin-and-ipin-universe.json) |
 | Upin Dash | 174232 | [174232-upin-dash.json](./174232-upin-dash.json) |
 | Uplife | 236775 | [236775-uplife.json](./236775-uplife.json) |
