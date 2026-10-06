@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek 'n Spell | 90913 | [90913-seek-n-spell.json](./90913-seek-n-spell.json) |
+| Seek & Destroy - Steampunk Arcade | 83797 | [83797-seek-and-destroy-steampunk-arcade.json](./83797-seek-and-destroy-steampunk-arcade.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Find Vol 1 | 109164 | [109164-seek-and-find-vol-1.json](./109164-seek-and-find-vol-1.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
@@ -4010,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Blue | 340599 | [340599-shallow-blue.json](./340599-shallow-blue.json) |
 | Shallow End | 293752 | [293752-shallow-end.json](./293752-shallow-end.json) |
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
+| Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
@@ -5119,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopocalypse: Pro-Shopping Simulator | 366395 | [366395-shopocalypse-pro-shopping-simulator.json](./366395-shopocalypse-pro-shopping-simulator.json) |
 | Shoppe Keep | 18338 | [18338-shoppe-keep.json](./18338-shoppe-keep.json) |
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
+| Shoppe Keep 2 Character Creator Preview | 83799 | [83799-shoppe-keep-2-character-creator-preview.json](./83799-shoppe-keep-2-character-creator-preview.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shoppigeons | 181749 | [181749-shoppigeons.json](./181749-shoppigeons.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
@@ -11862,6 +11865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
 | Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
+| Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
