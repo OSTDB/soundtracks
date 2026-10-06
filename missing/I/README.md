@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ira | 216139 | [216139-ira.json](./216139-ira.json) |
 | iRacing | 8204 | [8204-iracing.json](./8204-iracing.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
+| iRagdoll HD | 107065 | [107065-iragdoll-hd.json](./107065-iragdoll-hd.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Irang | 304637 | [304637-irang.json](./304637-irang.json) |
 | Irang: The Last Hope | 257395 | [257395-irang-the-last-hope.json](./257395-irang-the-last-hope.json) |
