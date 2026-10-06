@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
+| Fade Away | 68888 | [68888-fade-away.json](./68888-fade-away.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
 | Flyeeex | 117619 | [117619-flyeeex.json](./117619-flyeeex.json) |
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
+| Flyff Legacy | 68901 | [68901-flyff-legacy.json](./68901-flyff-legacy.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flyhight Cloudia | 287881 | [287881-flyhight-cloudia.json](./287881-flyhight-cloudia.json) |
 | Flyhight Cloudia II | 288189 | [288189-flyhight-cloudia-ii.json](./288189-flyhight-cloudia-ii.json) |
@@ -5718,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
+| Fortuna Magus | 68989 | [68989-fortuna-magus.json](./68989-fortuna-magus.json) |
 | Fortunato | 381185 | [381185-fortunato.json](./381185-fortunato.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Gloria | 105324 | [105324-fortune-and-gloria.json](./105324-fortune-and-gloria.json) |
@@ -6429,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
+| Freshwater Fishing Simulator | 68987 | [68987-freshwater-fishing-simulator.json](./68987-freshwater-fishing-simulator.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
