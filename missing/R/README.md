@@ -4385,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
 | Rise of Prussia Gold | 36319 | [36319-rise-of-prussia-gold.json](./36319-rise-of-prussia-gold.json) |
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
+| Rise of Ragnarok - Asunder | 83884 | [83884-rise-of-ragnarok-asunder.json](./83884-rise-of-ragnarok-asunder.json) |
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
