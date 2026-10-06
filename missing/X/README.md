@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Zombie Rampage | 30079 | [30079-xmas-zombie-rampage.json](./30079-xmas-zombie-rampage.json) |
 | Xmasss Terror | 184503 | [184503-xmasss-terror.json](./184503-xmasss-terror.json) |
 | Xmax KPI | 397086 | [397086-xmax-kpi.json](./397086-xmax-kpi.json) |
+| xMoon | 116946 | [116946-xmoon.json](./116946-xmoon.json) |
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | XO | 110270 | [110270-xo.json](./110270-xo.json) |
 | XO Evolved | 368001 | [368001-xo-evolved.json](./368001-xo-evolved.json) |
