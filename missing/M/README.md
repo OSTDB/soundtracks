@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
 | Magic Paths HD | 263584 | [263584-magic-paths-hd.json](./263584-magic-paths-hd.json) |
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
+| Magic Pearls | 70059 | [70059-magic-pearls.json](./70059-magic-pearls.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
@@ -8879,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
 | Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
+| Monster Truck Fury | 70032 | [70032-monster-truck-fury.json](./70032-monster-truck-fury.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
 | Monster Truck Madness 2 | 3542 | [3542-monster-truck-madness-2.json](./3542-monster-truck-madness-2.json) |
@@ -9229,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
+| Moop and Dreadly in the Treasure on Bing Bong Island | 70035 | [70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json](./70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json) |
 | Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
 | Moorfrog | 93346 | [93346-moorfrog.json](./93346-moorfrog.json) |
 | Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
