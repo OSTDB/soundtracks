@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exocraft | 115166 | [115166-exocraft.json](./115166-exocraft.json) |
+| Exocraft.io | 86380 | [86380-exocraft-io.json](./86380-exocraft-io.json) |
 | Exodemic | 197152 | [197152-exodemic.json](./197152-exodemic.json) |
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
