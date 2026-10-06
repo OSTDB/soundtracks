@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
+| Food Bomber | 107795 | [107795-food-bomber.json](./107795-food-bomber.json) |
 | Food Cart Simulator | 346174 | [346174-food-cart-simulator.json](./346174-food-cart-simulator.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
 | Food Chain | 369644 | [369644-food-chain.json](./369644-food-chain.json) |
@@ -6530,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
 | Frog on a Log? | 103159 | [103159-frog-on-a-log.json](./103159-frog-on-a-log.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
+| Frog Out! | 107792 | [107792-frog-out.json](./107792-frog-out.json) |
 | Frog Paradise | 276800 | [276800-frog-paradise.json](./276800-frog-paradise.json) |
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
