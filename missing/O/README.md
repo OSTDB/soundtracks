@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Onimusha 3: Demon Siege | 11758 | [11758-onimusha-3-demon-siege.json](./11758-onimusha-3-demon-siege.json) |
+| Onimusha Soul | 63642 | [63642-onimusha-soul.json](./63642-onimusha-soul.json) |
 | Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz | 376127 | [376127-oz.json](./376127-oz.json) |
+| Oz no Mahoutsukai: Another World - RungRung | 63656 | [63656-oz-no-mahoutsukai-another-world-rungrung.json](./63656-oz-no-mahoutsukai-another-world-rungrung.json) |
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozeki Thrust | 92632 | [92632-ozeki-thrust.json](./92632-ozeki-thrust.json) |
