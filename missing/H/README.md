@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Nuclear | 369704 | [369704-happy-nuclear.json](./369704-happy-nuclear.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
 | Happy Orchard | 185530 | [185530-happy-orchard.json](./185530-happy-orchard.json) |
+| Happy Pairs | 71185 | [71185-happy-pairs.json](./71185-happy-pairs.json) |
 | Happy Pet Island | 322174 | [322174-happy-pet-island.json](./322174-happy-pet-island.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy Pinball | 373116 | [373116-happy-pinball.json](./373116-happy-pinball.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
 | Haruoto Alice Gram: Snow Drop | 113585 | [113585-haruoto-alice-gram-snow-drop.json](./113585-haruoto-alice-gram-snow-drop.json) |
+| Harusame Youbi | 71191 | [71191-harusame-youbi.json](./71191-harusame-youbi.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
@@ -5199,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
 | Honey and Swallowtail | 261453 | [261453-honey-and-swallowtail.json](./261453-honey-and-swallowtail.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
+| Honey Bee | 71186 | [71186-honey-bee.json](./71186-honey-bee.json) |
 | Honey Bee With Guns | 298663 | [298663-honey-bee-with-guns.json](./298663-honey-bee-with-guns.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
@@ -6307,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Classic Board Game Collection 2 | 89692 | [89692-hoyle-classic-board-game-collection-2.json](./89692-hoyle-classic-board-game-collection-2.json) |
 | Hoyle Classic Board Game Collection 3 | 90697 | [90697-hoyle-classic-board-game-collection-3.json](./90697-hoyle-classic-board-game-collection-3.json) |
 | Hoyle Classic Board Games | 131359 | [131359-hoyle-classic-board-games.json](./131359-hoyle-classic-board-games.json) |
+| Hoyle Classic Games | 71149 | [71149-hoyle-classic-games.json](./71149-hoyle-classic-games.json) |
 | Hoyle Craps and Blackjack | 210057 | [210057-hoyle-craps-and-blackjack.json](./210057-hoyle-craps-and-blackjack.json) |
 | Hoyle Crosswords & Sudoku | 210069 | [210069-hoyle-crosswords-and-sudoku.json](./210069-hoyle-crosswords-and-sudoku.json) |
 | Hoyle Friday Night Poker | 210070 | [210070-hoyle-friday-night-poker.json](./210070-hoyle-friday-night-poker.json) |
