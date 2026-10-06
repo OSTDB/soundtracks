@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
+| Pacman for GEM | 70052 | [70052-pacman-for-gem.json](./70052-pacman-for-gem.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
 | Pacmania | 41014 | [41014-pacmania.json](./41014-pacmania.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
@@ -6373,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
+| Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
 | Pokettohiro | 333063 | [333063-pokettohiro.json](./333063-pokettohiro.json) |
 | PokeVoid | 343903 | [343903-pokevoid.json](./343903-pokevoid.json) |
 | Pokéwalker | 245421 | [245421-pokewalker.json](./245421-pokewalker.json) |
@@ -7613,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
+| Premier Battle | 70038 | [70038-premier-battle.json](./70038-premier-battle.json) |
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
