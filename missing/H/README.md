@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
+| Hajime no Ippo: The Fighting! DS | 70566 | [70566-hajime-no-ippo-the-fighting-ds.json](./70566-hajime-no-ippo-the-fighting-ds.json) |
 | Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajimete no Eigo: Typing & Puzzle Keyboard Hairetsu mo Manaberu Youji-muke Gakushuu Benkyou Game | 274650 | [274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json](./274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json) |
@@ -4735,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
+| Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
 | Hockey Solitaire | 102578 | [102578-hockey-solitaire.json](./102578-hockey-solitaire.json) |
 | Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
@@ -5069,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
+| Home Maid: Owari no Tachi | 70581 | [70581-home-maid-owari-no-tachi.json](./70581-home-maid-owari-no-tachi.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
 | Home Office | 154062 | [154062-home-office.json](./154062-home-office.json) |
 | Home Office Simulator | 223391 | [223391-home-office-simulator.json](./223391-home-office-simulator.json) |
