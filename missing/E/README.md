@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epoch Cycle | 374134 | [374134-epoch-cycle.json](./374134-epoch-cycle.json) |
 | Epoch of Love | 211778 | [211778-epoch-of-love.json](./211778-epoch-of-love.json) |
 | Epoch Reset | 380414 | [380414-epoch-reset.json](./380414-epoch-reset.json) |
+| Epoch Wars | 64216 | [64216-epoch-wars.json](./64216-epoch-wars.json) |
 | Epochs of Enmity | 196012 | [196012-epochs-of-enmity.json](./196012-epochs-of-enmity.json) |
 | Epochs of Fire | 333009 | [333009-epochs-of-fire.json](./333009-epochs-of-fire.json) |
 | Epocria | 137409 | [137409-epocria.json](./137409-epocria.json) |
