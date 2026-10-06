@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
 | Gem Worlds | 190026 | [190026-gem-worlds.json](./190026-gem-worlds.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
+| Gem'X | 93210 | [93210-gemx.json](./93210-gemx.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
 | Gemalomania | 313304 | [313304-gemalomania.json](./313304-gemalomania.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
 | Get the Gems | 32093 | [32093-get-the-gems.json](./32093-get-the-gems.json) |
+| Get the Girl! | 93193 | [93193-get-the-girl.json](./93193-get-the-girl.json) |
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get the Guy | 372699 | [372699-get-the-guy.json](./372699-get-the-guy.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
@@ -2211,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters: Twisted Dreams | 3098 | [3098-giana-sisters-twisted-dreams.json](./3098-giana-sisters-twisted-dreams.json) |
 | Giana Sisters: Twisted Dreams - Director's Cut | 44541 | [44541-giana-sisters-twisted-dreams-directors-cut.json](./44541-giana-sisters-twisted-dreams-directors-cut.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
+| Gianluca Vialli's European Manager | 93211 | [93211-gianluca-viallis-european-manager.json](./93211-gianluca-viallis-european-manager.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
@@ -4888,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Masters | 33337 | [33337-grid-masters.json](./33337-grid-masters.json) |
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
+| Grid Run and Pontoon | 93203 | [93203-grid-run-and-pontoon.json](./93203-grid-run-and-pontoon.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
