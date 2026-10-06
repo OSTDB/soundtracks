@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
 | Jewel Fever | 90740 | [90740-jewel-fever.json](./90740-jewel-fever.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
+| Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
+| Johnny Turbo's Arcade: Two Crude Dudes | 104710 | [104710-johnny-turbos-arcade-two-crude-dudes.json](./104710-johnny-turbos-arcade-two-crude-dudes.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Johou Battle | 274147 | [274147-johou-battle.json](./274147-johou-battle.json) |
@@ -1950,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
 | Jumpy Paws: World Adventures | 258022 | [258022-jumpy-paws-world-adventures.json](./258022-jumpy-paws-world-adventures.json) |
+| Jumpy Penguin | 104702 | [104702-jumpy-penguin.json](./104702-jumpy-penguin.json) |
 | Jumpy Road Race | 232162 | [232162-jumpy-road-race.json](./232162-jumpy-road-race.json) |
 | Jumpy Rooftop | 242566 | [242566-jumpy-rooftop.json](./242566-jumpy-rooftop.json) |
 | Jumpy Skateboard Ninja: The Royale Sword Hero Dude Drive Adventure | 256360 | [256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json](./256360-jumpy-skateboard-ninja-the-royale-sword-hero-dude-drive-adventure.json) |
@@ -2335,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
 | Justice League: The Rescue | 245458 | [245458-justice-league-the-rescue.json](./245458-justice-league-the-rescue.json) |
+| Justice Online | 104711 | [104711-justice-online.json](./104711-justice-online.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Seeker: Unsafe Data | 236772 | [236772-justice-seeker-unsafe-data.json](./236772-justice-seeker-unsafe-data.json) |
 | Justice Strikes | 129017 | [129017-justice-strikes.json](./129017-justice-strikes.json) |
