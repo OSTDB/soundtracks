@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
+| Adventure Time: Game Wizard | 60905 | [60905-adventure-time-game-wizard.json](./60905-adventure-time-game-wizard.json) |
 | Adventure Time: Heroes of Ooo | 62020 | [62020-adventure-time-heroes-of-ooo.json](./62020-adventure-time-heroes-of-ooo.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
@@ -7129,6 +7130,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Area 51: Site 4 | 39836 | [39836-area-51-site-4.json](./39836-area-51-site-4.json) |
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
+| Area 88 ~Etranger 1995~ | 60923 | [60923-area-88-etranger-1995.json](./60923-area-88-etranger-1995.json) |
+| Area 88: Ikkakujuu no Kiseki | 60922 | [60922-area-88-ikkakujuu-no-kiseki.json](./60922-area-88-ikkakujuu-no-kiseki.json) |
 | Area Cooperation Economic Simulation: North Korea (ACES) | 114260 | [114260-area-cooperation-economic-simulation-north-korea-aces.json](./114260-area-cooperation-economic-simulation-north-korea-aces.json) |
 | Area D | 102870 | [102870-area-d.json](./102870-area-d.json) |
 | Area Man Lives | 130141 | [130141-area-man-lives.json](./130141-area-man-lives.json) |
