@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2000:1 - A Space Felony: Or How I Came to Value My Life and Murder Mercilessly | 69515 | [69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json](./69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json) |
 | 20000 Atmospheres | 44084 | [44084-20000-atmospheres.json](./44084-20000-atmospheres.json) |
 | 2001 A Space Oddysey | 377711 | [377711-2001-a-space-oddysey.json](./377711-2001-a-space-oddysey.json) |
+| 2001 Alien Combat | 71756 | [71756-2001-alien-combat.json](./71756-2001-alien-combat.json) |
 | 2001: A Space Odyssey | 238083 | [238083-2001-a-space-odyssey.json](./238083-2001-a-space-odyssey.json) |
 | 2002 FIFA World Cup | 240360 | [240360-2002-fifa-world-cup.json](./240360-2002-fifa-world-cup.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
