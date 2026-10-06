@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
+| Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
 | Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slinger VR | 29098 | [29098-slinger-vr.json](./29098-slinger-vr.json) |
 | Slingo | 198890 | [198890-slingo.json](./198890-slingo.json) |
+| Slingo | 94426 | [94426-slingo.json](./94426-slingo.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
 | Slingo Deluxe Bundle | 208921 | [208921-slingo-deluxe-bundle.json](./208921-slingo-deluxe-bundle.json) |
@@ -14015,6 +14017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Wheel | 175747 | [175747-stars-wheel.json](./175747-stars-wheel.json) |
 | Stars Without Number | 99095 | [99095-stars-without-number.json](./99095-stars-without-number.json) |
 | Stars, Stripes and Subgames: Collector's Edition | 308494 | [308494-stars-stripes-and-subgames-collectors-edition.json](./308494-stars-stripes-and-subgames-collectors-edition.json) |
+| Stars! | 94399 | [94399-stars.json](./94399-stars.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
@@ -17084,6 +17087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
+| Super Football Sunday | 94401 | [94401-super-football-sunday.json](./94401-super-football-sunday.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
