@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain 2013 | 63329 | [63329-international-cricket-captain-2013.json](./63329-international-cricket-captain-2013.json) |
 | International Cricket Captain III | 63325 | [63325-international-cricket-captain-iii.json](./63325-international-cricket-captain-iii.json) |
 | International Cup '94 | 40346 | [40346-international-cup-94.json](./40346-international-cup-94.json) |
+| International Football | 69535 | [69535-international-football.json](./69535-international-football.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
