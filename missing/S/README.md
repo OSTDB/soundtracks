@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S na Kanojo | 97425 | [97425-s-na-kanojo.json](./97425-s-na-kanojo.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
+| S-Race | 59799 | [59799-s-race.json](./59799-s-race.json) |
 | S-Tetris | 70465 | [70465-s-tetris.json](./70465-s-tetris.json) |
 | S: Lost Chapters | 260288 | [260288-s-lost-chapters.json](./260288-s-lost-chapters.json) |
 | S!Zone | 206614 | [206614-s-zone.json](./206614-s-zone.json) |
@@ -7403,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
+| Slender Man: Chapter 3 - Dreams | 59787 | [59787-slender-man-chapter-3-dreams.json](./59787-slender-man-chapter-3-dreams.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
@@ -10751,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Captain McCallery Episode 4: The Turquoise Temple | 245977 | [245977-space-captain-mccallery-episode-4-the-turquoise-temple.json](./245977-space-captain-mccallery-episode-4-the-turquoise-temple.json) |
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
 | Space Castle | 169836 | [169836-space-castle.json](./169836-space-castle.json) |
+| Space Castle | 59796 | [59796-space-castle.json](./59796-space-castle.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
@@ -11227,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survivor | 289553 | [289553-space-survivor.json](./289553-space-survivor.json) |
 | Space Survivor VR AR | 404354 | [404354-space-survivor-vr-ar.json](./404354-space-survivor-vr-ar.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
+| Space Sweeper | 59795 | [59795-space-sweeper.json](./59795-space-sweeper.json) |
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
 | Space Tail: Every Journey Leads Home | 216885 | [216885-space-tail-every-journey-leads-home.json](./216885-space-tail-every-journey-leads-home.json) |
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
@@ -12273,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
+| Spirit Lords | 59784 | [59784-spirit-lords.json](./59784-spirit-lords.json) |
 | Spirit Magician | 376663 | [376663-spirit-magician.json](./376663-spirit-magician.json) |
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
@@ -15996,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
+| StroodleDoodle | 59791 | [59791-stroodledoodle.json](./59791-stroodledoodle.json) |
 | Struckd | 22750 | [22750-struckd.json](./22750-struckd.json) |
 | Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
@@ -16568,6 +16574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
 | Suigetsu 2 | 93515 | [93515-suigetsu-2.json](./93515-suigetsu-2.json) |
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
+| Suiheisen made Nan Mile?: Deep Blue Sky & Pure White Wings | 59776 | [59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json](./59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json) |
 | Suika | 132085 | [132085-suika.json](./132085-suika.json) |
 | Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
 | Suika Dish More Plates | 276166 | [276166-suika-dish-more-plates.json](./276166-suika-dish-more-plates.json) |
@@ -17118,6 +17125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bounce Ball | 132596 | [132596-super-bounce-ball.json](./132596-super-bounce-ball.json) |
 | Super Bowl | 93128 | [93128-super-bowl.json](./93128-super-bowl.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
+| Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
 | Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
@@ -18362,6 +18370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
+| Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
@@ -19978,6 +19987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
+| Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
@@ -20036,6 +20046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of the Stars | 321464 | [321464-symphony-of-the-stars.json](./321464-symphony-of-the-stars.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
+| Symphony Worlds | 59808 | [59808-symphony-worlds.json](./59808-symphony-worlds.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 3 | 114303 | [114303-symploke-legend-of-gustavo-bueno-chapter-3.json](./114303-symploke-legend-of-gustavo-bueno-chapter-3.json) |
 | Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
