@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
+| Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | AAron | 398511 | [398511-aaron.json](./398511-aaron.json) |
@@ -2800,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airsoft Online | 297765 | [297765-airsoft-online.json](./297765-airsoft-online.json) |
 | Airsoft Range | 312192 | [312192-airsoft-range.json](./312192-airsoft-range.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
+| Airstrike | 94382 | [94382-airstrike.json](./94382-airstrike.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
 | AirStrike Command: Tactical Assault Operation | 309046 | [309046-airstrike-command-tactical-assault-operation.json](./309046-airstrike-command-tactical-assault-operation.json) |
 | AirStrike Command: Tactical Assault Operation & Helicopter Battle Arena Simulator | 395885 | [395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json](./395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json) |
@@ -4405,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
+| American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
 | American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
@@ -4580,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amshay | 199383 | [199383-amshay.json](./199383-amshay.json) |
 | Amsterdam Taxi Madness | 73746 | [73746-amsterdam-taxi-madness.json](./73746-amsterdam-taxi-madness.json) |
+| AmsterDoom | 94385 | [94385-amsterdoom.json](./94385-amsterdoom.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
 | Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
 | AMTAG: Another Medieval Themed Adventure Game | 316714 | [316714-amtag-another-medieval-themed-adventure-game.json](./316714-amtag-another-medieval-themed-adventure-game.json) |
@@ -4891,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
+| Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
@@ -6605,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
+| Arcade Force Four | 94416 | [94416-arcade-force-four.json](./94416-arcade-force-four.json) |
 | Arcade Fusion Bundle | 300764 | [300764-arcade-fusion-bundle.json](./300764-arcade-fusion-bundle.json) |
 | Arcade Galaxy | 182311 | [182311-arcade-galaxy.json](./182311-arcade-galaxy.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
