@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
 | Shadow of the Groundhog | 114304 | [114304-shadow-of-the-groundhog.json](./114304-shadow-of-the-groundhog.json) |
 | Shadow of the Guild | 188902 | [188902-shadow-of-the-guild.json](./188902-shadow-of-the-guild.json) |
+| Shadow of the Lost Citadel | 101032 | [101032-shadow-of-the-lost-citadel.json](./101032-shadow-of-the-lost-citadel.json) |
 | Shadow of the Mask | 75020 | [75020-shadow-of-the-mask.json](./75020-shadow-of-the-mask.json) |
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
@@ -7822,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmashThem | 28202 | [28202-smashthem.json](./28202-smashthem.json) |
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
+| Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
 | Solitaire: Klondike Card Game | 88833 | [88833-solitaire-klondike-card-game.json](./88833-solitaire-klondike-card-game.json) |
+| Solitaire: Klondike Pro | 100998 | [100998-solitaire-klondike-pro.json](./100998-solitaire-klondike-pro.json) |
 | Solitaire: Learn Chemistry! | 114917 | [114917-solitaire-learn-chemistry.json](./114917-solitaire-learn-chemistry.json) |
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
@@ -10464,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
 | Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
+| Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
@@ -10664,6 +10668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gears | 241497 | [241497-space-gears.json](./241497-space-gears.json) |
 | Space Genesis | 198328 | [198328-space-genesis.json](./198328-space-genesis.json) |
+| Space Girl Salon | 101001 | [101001-space-girl-salon.json](./101001-space-girl-salon.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
@@ -12291,6 +12296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
+| Spooky Lab - Creative halloween game for kids | 100999 | [100999-spooky-lab-creative-halloween-game-for-kids.json](./100999-spooky-lab-creative-halloween-game-for-kids.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Light | 180625 | [180625-spooky-light.json](./180625-spooky-light.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
@@ -16145,6 +16151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sue's Potato Farm | 293210 | [293210-sues-potato-farm.json](./293210-sues-potato-farm.json) |
 | Sue's Story | 157113 | [157113-sues-story.json](./157113-sues-story.json) |
 | Sue's Witch Magic Makeover | 293206 | [293206-sues-witch-magic-makeover.json](./293206-sues-witch-magic-makeover.json) |
+| Sueca | 101019 | [101019-sueca.json](./101019-sueca.json) |
 | Suero Zeus | 272912 | [272912-suero-zeus.json](./272912-suero-zeus.json) |
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
@@ -17875,6 +17882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
 | Super Press Space To Win Adventure RPG 2009 | 294222 | [294222-super-press-space-to-win-adventure-rpg-2009.json](./294222-super-press-space-to-win-adventure-rpg-2009.json) |
+| Super Princess - Makeup and Dressup Makeover Game | 101043 | [101043-super-princess-makeup-and-dressup-makeover-game.json](./101043-super-princess-makeup-and-dressup-makeover-game.json) |
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Pump | 369215 | [369215-super-pump.json](./369215-super-pump.json) |
