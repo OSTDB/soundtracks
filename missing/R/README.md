@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrace | 116873 | [116873-retrace.json](./116873-retrace.json) |
 | ReTrace | 401045 | [401045-retrace.json](./401045-retrace.json) |
 | Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
+| Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
@@ -3629,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive & Repeat | 391731 | [391731-revive-and-repeat.json](./391731-revive-and-repeat.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
+| Revive... Sosei | 94374 | [94374-revive-sosei.json](./94374-revive-sosei.json) |
 | Revived | 181728 | [181728-revived.json](./181728-revived.json) |
 | Revived Forest | 203806 | [203806-revived-forest.json](./203806-revived-forest.json) |
 | Revived Legends: Titan's Revenge HD | 107099 | [107099-revived-legends-titans-revenge-hd.json](./107099-revived-legends-titans-revenge-hd.json) |
@@ -3840,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Party | 370860 | [370860-rich-party.json](./370860-rich-party.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich School Girl Simulator | 300324 | [300324-rich-school-girl-simulator.json](./300324-rich-school-girl-simulator.json) |
+| Rich Tauber's Bass Champ | 94420 | [94420-rich-taubers-bass-champ.json](./94420-rich-taubers-bass-champ.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
@@ -5658,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Curse | 49023 | [49023-rolans-curse.json](./49023-rolans-curse.json) |
 | Rolan's Curse 2 | 49022 | [49022-rolans-curse-2.json](./49022-rolans-curse-2.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
+| Roland Garros French Open 2000 | 94379 | [94379-roland-garros-french-open-2000.json](./94379-roland-garros-french-open-2000.json) |
 | Roland in the Caves | 13027 | [13027-roland-in-the-caves.json](./13027-roland-in-the-caves.json) |
 | Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
