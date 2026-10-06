@@ -8831,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Animal Choir | 284988 | [284988-crazy-animal-choir.json](./284988-crazy-animal-choir.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
+| Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
 | Crazy Basket | 394473 | [394473-crazy-basket.json](./394473-crazy-basket.json) |
 | Crazy Battle Pets | 339337 | [339337-crazy-battle-pets.json](./339337-crazy-battle-pets.json) |
 | Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
