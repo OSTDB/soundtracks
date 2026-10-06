@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
+| Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
@@ -2426,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight for Gold II | 111854 | [111854-fight-for-gold-ii.json](./111854-fight-for-gold-ii.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
+| Fight for Marseille | 109522 | [109522-fight-for-marseille.json](./109522-fight-for-marseille.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
 | Fight in the Mind | 179478 | [179478-fight-in-the-mind.json](./179478-fight-in-the-mind.json) |
@@ -2624,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Clash: Buried Treasures | 109547 | [109547-final-clash-buried-treasures.json](./109547-final-clash-buried-treasures.json) |
 | Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
@@ -3567,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
+| Fishing Superstars 2 | 109548 | [109548-fishing-superstars-2.json](./109548-fishing-superstars-2.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
 | Fishing the Deep | 267565 | [267565-fishing-the-deep.json](./267565-fishing-the-deep.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
