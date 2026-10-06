@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
 | Jubeat | 79960 | [79960-jubeat.json](./79960-jubeat.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
+| Jubeat Copious | 84438 | [84438-jubeat-copious.json](./84438-jubeat-copious.json) |
 | Jubeat Knit | 92070 | [92070-jubeat-knit.json](./92070-jubeat-knit.json) |
 | Jubeat Plus | 76996 | [76996-jubeat-plus.json](./76996-jubeat-plus.json) |
 | Jubeat Prop | 268568 | [268568-jubeat-prop.json](./268568-jubeat-prop.json) |
