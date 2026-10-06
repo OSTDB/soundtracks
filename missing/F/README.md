@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
 | Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
+| Fatal Abyss | 70614 | [70614-fatal-abyss.json](./70614-fatal-abyss.json) |
 | Fatal Abyss | 78676 | [78676-fatal-abyss.json](./78676-fatal-abyss.json) |
 | Fatal Art | 74699 | [74699-fatal-art.json](./74699-fatal-art.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
@@ -6968,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
+| Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
@@ -7320,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Monkey: Time to Slack Off! | 373671 | [373671-funky-monkey-time-to-slack-off.json](./373671-funky-monkey-time-to-slack-off.json) |
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
+| Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
 | Funny Balloon | 95633 | [95633-funny-balloon.json](./95633-funny-balloon.json) |
