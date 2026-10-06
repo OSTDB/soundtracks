@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
+| Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | AGX GP | 387614 | [387614-agx-gp.json](./387614-agx-gp.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
+| Ancient Legacy 2: The Curse | 107069 | [107069-ancient-legacy-2-the-curse.json](./107069-ancient-legacy-2-the-curse.json) |
 | Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Medieval Empire | 192246 | [192246-ancient-medieval-empire.json](./192246-ancient-medieval-empire.json) |
@@ -5666,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
+| Ant War Simulator: Ant Survival Game | 107091 | [107091-ant-war-simulator-ant-survival-game.json](./107091-ant-war-simulator-ant-survival-game.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Ant Workers Simulator | 362437 | [362437-ant-workers-simulator.json](./362437-ant-workers-simulator.json) |
 | Ant: Protect The Queen | 323219 | [323219-ant-protect-the-queen.json](./323219-ant-protect-the-queen.json) |
