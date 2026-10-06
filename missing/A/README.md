@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Twisted Place | 177828 | [177828-a-twisted-place.json](./177828-a-twisted-place.json) |
 | A Twisted Tale | 190034 | [190034-a-twisted-tale.json](./190034-a-twisted-tale.json) |
+| A Typewriter's Story | 104145 | [104145-a-typewriters-story.json](./104145-a-typewriters-story.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
+| Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
@@ -1651,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
+| Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Jetpack | 235225 | [235225-adventure-escape-jetpack.json](./235225-adventure-escape-jetpack.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
@@ -2588,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Management '96 | 45431 | [45431-air-management-96.json](./45431-air-management-96.json) |
 | Air Master Hanemaru | 346747 | [346747-air-master-hanemaru.json](./346747-air-master-hanemaru.json) |
 | Air Museum VR | 195480 | [195480-air-museum-vr.json](./195480-air-museum-vr.json) |
+| Air Navy Fighters | 104135 | [104135-air-navy-fighters.json](./104135-air-navy-fighters.json) |
 | Air Nights | 145516 | [145516-air-nights.json](./145516-air-nights.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
