@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
 | Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
 | Learn Programming: Python - Retro | 367998 | [367998-learn-programming-python-retro.json](./367998-learn-programming-python-retro.json) |
+| Learn Shapes | 106006 | [106006-learn-shapes.json](./106006-learn-shapes.json) |
 | Learn Spanish VR | 292690 | [292690-learn-spanish-vr.json](./292690-learn-spanish-vr.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
 | Learn The Heart | 282818 | [282818-learn-the-heart.json](./282818-learn-the-heart.json) |
@@ -3880,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
+| Logo Quiz Club | 105849 | [105849-logo-quiz-club.json](./105849-logo-quiz-club.json) |
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
