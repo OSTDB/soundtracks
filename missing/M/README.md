@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
+| Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
@@ -7946,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
+| Mobile Suit Gundam Side Stories | 61454 | [61454-mobile-suit-gundam-side-stories.json](./61454-mobile-suit-gundam-side-stories.json) |
 | Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
@@ -11336,6 +11338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
 | My Joyful Aquarium | 330902 | [330902-my-joyful-aquarium.json](./330902-my-joyful-aquarium.json) |
 | My Jurassic Darling | 231419 | [231419-my-jurassic-darling.json](./231419-my-jurassic-darling.json) |
+| My Jurassic Farm | 61473 | [61473-my-jurassic-farm.json](./61473-my-jurassic-farm.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
@@ -11838,6 +11841,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Song | 170352 | [170352-mysterious-song.json](./170352-mysterious-song.json) |
 | Mysterious Stars 3D: A Fairy Tale | 85609 | [85609-mysterious-stars-3d-a-fairy-tale.json](./85609-mysterious-stars-3d-a-fairy-tale.json) |
+| Mysterious Stars: A Fairy Tale | 61456 | [61456-mysterious-stars-a-fairy-tale.json](./61456-mysterious-stars-a-fairy-tale.json) |
+| Mysterious Stars: The Samurai | 61458 | [61458-mysterious-stars-the-samurai.json](./61458-mysterious-stars-the-samurai.json) |
+| Mysterious Stars: The Singer | 61459 | [61459-mysterious-stars-the-singer.json](./61459-mysterious-stars-the-singer.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious Voyage: Set sail | 303069 | [303069-mysterious-voyage-set-sail.json](./303069-mysterious-voyage-set-sail.json) |
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
