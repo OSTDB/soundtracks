@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipelurker | 314297 | [314297-pipelurker.json](./314297-pipelurker.json) |
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
+| Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
@@ -6326,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
+| Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
 | Poker Superstars: Invitational Tournament | 61699 | [61699-poker-superstars-invitational-tournament.json](./61699-poker-superstars-invitational-tournament.json) |
 | Poker Supreme: Las Vegas | 174099 | [174099-poker-supreme-las-vegas.json](./174099-poker-supreme-las-vegas.json) |
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
@@ -6697,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Ponpu | 132777 | [132777-ponpu.json](./132777-ponpu.json) |
 | Pontefract | 139317 | [139317-pontefract.json](./139317-pontefract.json) |
+| Pontifex | 78898 | [78898-pontifex.json](./78898-pontifex.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
@@ -7818,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Naseem Boxing | 50024 | [50024-prince-naseem-boxing.json](./50024-prince-naseem-boxing.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
+| Prince of Evil | 78911 | [78911-prince-of-evil.json](./78911-prince-of-evil.json) |
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
 | Prince of Persia | 284774 | [284774-prince-of-persia.json](./284774-prince-of-persia.json) |
@@ -9881,6 +9885,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Heart Match-3 Adventure | 99501 | [99501-puzzle-heart-match-3-adventure.json](./99501-puzzle-heart-match-3-adventure.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
+| Puzzle Iroiro: Gekkan Crossword House Vol.1 | 78894 | [78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json](./78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json) |
+| Puzzle Iroiro: Gekkan Crossword House Vol.2 | 78892 | [78892-puzzle-iroiro-gekkan-crossword-house-vol-2.json](./78892-puzzle-iroiro-gekkan-crossword-house-vol-2.json) |
+| Puzzle Iroiro: Gekkan Crossword House Vol.3 | 78893 | [78893-puzzle-iroiro-gekkan-crossword-house-vol-3.json](./78893-puzzle-iroiro-gekkan-crossword-house-vol-3.json) |
 | Puzzle Island VR | 30096 | [30096-puzzle-island-vr.json](./30096-puzzle-island-vr.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
