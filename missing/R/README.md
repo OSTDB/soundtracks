@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
+| RBI Baseball | 100281 | [100281-rbi-baseball.json](./100281-rbi-baseball.json) |
 | RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
@@ -6766,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
+| Run! | 100256 | [100256-run.json](./100256-run.json) |
 | Run! | 219064 | [219064-run.json](./219064-run.json) |
 | Run! Bunny | 120922 | [120922-run-bunny.json](./120922-run-bunny.json) |
 | Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
