@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad animals: Rabbit | 227978 | [227978-bad-animals-rabbit.json](./227978-bad-animals-rabbit.json) |
 | Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
+| Bad Atom Episode 1 | 70622 | [70622-bad-atom-episode-1.json](./70622-bad-atom-episode-1.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazeo | 406326 | [406326-blazeo.json](./406326-blazeo.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
+| Blazer Drive | 70575 | [70575-blazer-drive.json](./70575-blazer-drive.json) |
 | BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
@@ -7915,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain on Physics Boxs Puzzles | 86990 | [86990-brain-on-physics-boxs-puzzles.json](./86990-brain-on-physics-boxs-puzzles.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
 | Brain Out: Can You Pass It? | 312644 | [312644-brain-out-can-you-pass-it.json](./312644-brain-out-can-you-pass-it.json) |
+| Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Puzzles Bundle 12 in 1 | 301533 | [301533-brain-puzzles-bundle-12-in-1.json](./301533-brain-puzzles-bundle-12-in-1.json) |
