@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: We Absolutely Meant to Go to Zee | 191788 | [191788-fallen-london-we-absolutely-meant-to-go-to-zee.json](./191788-fallen-london-we-absolutely-meant-to-go-to-zee.json) |
 | Fallen London: Where You and I Must Go | 191588 | [191588-fallen-london-where-you-and-i-must-go.json](./191588-fallen-london-where-you-and-i-must-go.json) |
 | Fallen London: Written in the Glim | 191705 | [191705-fallen-london-written-in-the-glim.json](./191705-fallen-london-written-in-the-glim.json) |
+| Fallen Lords: Condemnation | 80150 | [80150-fallen-lords-condemnation.json](./80150-fallen-lords-condemnation.json) |
 | Fallen Mage (Restocked) | 82329 | [82329-fallen-mage-restocked.json](./82329-fallen-mage-restocked.json) |
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
@@ -5726,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune's Tavern: The Fantasy Tavern Simulator - Guns and Goblins | 170812 | [170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json](./170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
+| Forumwarz | 80161 | [80161-forumwarz.json](./80161-forumwarz.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
