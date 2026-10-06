@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
+| Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Nights | 342795 | [342795-paris-nights.json](./342795-paris-nights.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
+| Paris-Dakar | 112891 | [112891-paris-dakar.json](./112891-paris-dakar.json) |
 | Paris-Dakar Rally | 43469 | [43469-paris-dakar-rally.json](./43469-paris-dakar-rally.json) |
 | Paris-Marseille Racing | 249771 | [249771-paris-marseille-racing.json](./249771-paris-marseille-racing.json) |
 | Paris-Marseille Racing II | 249772 | [249772-paris-marseille-racing-ii.json](./249772-paris-marseille-racing-ii.json) |
@@ -6322,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polemista | 404403 | [404403-polemista.json](./404403-polemista.json) |
 | Polestar | 220145 | [220145-polestar.json](./220145-polestar.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
+| Poli Díaz | 112871 | [112871-poli-diaz.json](./112871-poli-diaz.json) |
 | Poliana Cake Crush | 248801 | [248801-poliana-cake-crush.json](./248801-poliana-cake-crush.json) |
 | Polic.io | 138559 | [138559-polic-io.json](./138559-polic-io.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
