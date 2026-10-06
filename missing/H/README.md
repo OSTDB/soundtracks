@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Geography Fun | 129652 | [129652-happy-geography-fun.json](./129652-happy-geography-fun.json) |
 | Happy Girls | 338263 | [338263-happy-girls.json](./338263-happy-girls.json) |
 | Happy Grumps | 121000 | [121000-happy-grumps.json](./121000-happy-grumps.json) |
+| Happy Hacker | 78244 | [78244-happy-hacker.json](./78244-happy-hacker.json) |
 | Happy Halloween | 158604 | [158604-happy-halloween.json](./158604-happy-halloween.json) |
 | Happy Hammerin' | 50708 | [50708-happy-hammerin.json](./50708-happy-hammerin.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | Heist Simulator 2025 | 330402 | [330402-heist-simulator-2025.json](./330402-heist-simulator-2025.json) |
 | Heist: The Score | 61135 | [61135-heist-the-score.json](./61135-heist-the-score.json) |
+| Heist! | 78287 | [78287-heist.json](./78287-heist.json) |
 | HeistGeist | 211182 | [211182-heistgeist.json](./211182-heistgeist.json) |
 | Heisting | 294241 | [294241-heisting.json](./294241-heisting.json) |
 | Heisting: Arsenal | 294847 | [294847-heisting-arsenal.json](./294847-heisting-arsenal.json) |
