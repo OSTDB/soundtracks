@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
 | PC Futbol 8 | 298143 | [298143-pc-futbol-8.json](./298143-pc-futbol-8.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
+| PC Fútbol Selección Española '98 | 78273 | [78273-pc-futbol-seleccion-espanola-98.json](./78273-pc-futbol-seleccion-espanola-98.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
 | PC Futbol Stars | 130122 | [130122-pc-futbol-stars.json](./130122-pc-futbol-stars.json) |
 | PC Install Girl | 337177 | [337177-pc-install-girl.json](./337177-pc-install-girl.json) |
@@ -5301,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play Tag | 116810 | [116810-play-tag.json](./116810-play-tag.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
+| Play the Games Vol. 5 | 78309 | [78309-play-the-games-vol-5.json](./78309-play-the-games-vol-5.json) |
 | Play the Industry | 78982 | [78982-play-the-industry.json](./78982-play-the-industry.json) |
 | Play the Notes | 328685 | [328685-play-the-notes.json](./328685-play-the-notes.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
@@ -6864,12 +6866,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music 8 | 78972 | [78972-popn-music-8.json](./78972-popn-music-8.json) |
 | Pop'n music 9 | 78973 | [78973-popn-music-9.json](./78973-popn-music-9.json) |
 | Pop'n Music éclale | 124691 | [124691-popn-music-eclale.json](./124691-popn-music-eclale.json) |
+| Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
 | Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
 | Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
 | Pop'n Music Sengoku Retsuden | 67315 | [67315-popn-music-sengoku-retsuden.json](./67315-popn-music-sengoku-retsuden.json) |
+| Pop'n music Sunny Park | 78257 | [78257-popn-music-sunny-park.json](./78257-popn-music-sunny-park.json) |
 | Pop'n Music the Movie | 67316 | [67316-popn-music-the-movie.json](./67316-popn-music-the-movie.json) |
 | Pop'n Music: Mickey Tunes | 314334 | [314334-popn-music-mickey-tunes.json](./314334-popn-music-mickey-tunes.json) |
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
@@ -7887,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
+| Princess Maker Collection | 78302 | [78302-princess-maker-collection.json](./78302-princess-maker-collection.json) |
 | Princess Maker Refine | 27317 | [27317-princess-maker-refine.json](./27317-princess-maker-refine.json) |
 | Princess Maker: Children of Revelation | 316082 | [316082-princess-maker-children-of-revelation.json](./316082-princess-maker-children-of-revelation.json) |
 | Princess Maker: Faery Tales Come True | 127847 | [127847-princess-maker-faery-tales-come-true.json](./127847-princess-maker-faery-tales-come-true.json) |
@@ -9101,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSS-62 | 263676 | [263676-pss-62.json](./263676-pss-62.json) |
 | PSS-63 | 263678 | [263678-pss-63.json](./263678-pss-63.json) |
 | PSS-64 | 263679 | [263679-pss-64.json](./263679-pss-64.json) |
+| Pssst | 78275 | [78275-pssst.json](./78275-pssst.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
 | PSweet | 151078 | [151078-psweet.json](./151078-psweet.json) |
 | PSXFunkin: Lullaby Mod | 404438 | [404438-psxfunkin-lullaby-mod.json](./404438-psxfunkin-lullaby-mod.json) |
