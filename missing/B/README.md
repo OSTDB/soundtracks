@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
+| Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
 | Battle Isle 2: Scenery CD - Titan's Legacy | 11102 | [11102-battle-isle-2-scenery-cd-titans-legacy.json](./11102-battle-isle-2-scenery-cd-titans-legacy.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
 | Bazooka Cat: First Episode | 233635 | [233635-bazooka-cat-first-episode.json](./233635-bazooka-cat-first-episode.json) |
 | Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
+| Bazooka Sue | 69536 | [69536-bazooka-sue.json](./69536-bazooka-sue.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
@@ -4563,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
+| Bird Hunter 2003: Legendary Hunting | 69525 | [69525-bird-hunter-2003-legendary-hunting.json](./69525-bird-hunter-2003-legendary-hunting.json) |
 | Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
 | Bird Land | 112163 | [112163-bird-land.json](./112163-bird-land.json) |
@@ -6360,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
 | Blue Blood | 141770 | [141770-blue-blood.json](./141770-blue-blood.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
+| Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
@@ -6977,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonaparte: A Mechanized Revolution | 319762 | [319762-bonaparte-a-mechanized-revolution.json](./319762-bonaparte-a-mechanized-revolution.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
+| Bonbon Cakery | 69509 | [69509-bonbon-cakery.json](./69509-bonbon-cakery.json) |
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
@@ -7573,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
 | Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
+| Bouncy Ducks | 69476 | [69476-bouncy-ducks.json](./69476-bouncy-ducks.json) |
 | Bouncy Egg | 96287 | [96287-bouncy-egg.json](./96287-bouncy-egg.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy Goat Climb | 186688 | [186688-bouncy-goat-climb.json](./186688-bouncy-goat-climb.json) |
