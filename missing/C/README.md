@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Revolution | 252840 | [252840-clockwork-revolution.json](./252840-clockwork-revolution.json) |
 | Clockwork Survivors | 223512 | [223512-clockwork-survivors.json](./223512-clockwork-survivors.json) |
 | Clockwork Tales: Of Glass and Ink | 17141 | [17141-clockwork-tales-of-glass-and-ink.json](./17141-clockwork-tales-of-glass-and-ink.json) |
+| Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
 | Clone | 217844 | [217844-clone.json](./217844-clone.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
@@ -6882,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
+| CommunityUs | 117570 | [117570-communityus.json](./117570-communityus.json) |
 | Commutator | 393758 | [393758-commutator.json](./393758-commutator.json) |
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
