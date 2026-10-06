@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Bat Attack | 75231 | [75231-3d-bat-attack.json](./75231-3d-bat-attack.json) |
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
+| 3D Billiards & 3D MiniGolf Bundle | 99724 | [99724-3d-billiards-and-3d-minigolf-bundle.json](./99724-3d-billiards-and-3d-minigolf-bundle.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
 | 3D Block | 48905 | [48905-3d-block.json](./48905-3d-block.json) |
 | 3D Bomberman | 198218 | [198218-3d-bomberman.json](./198218-3d-bomberman.json) |
