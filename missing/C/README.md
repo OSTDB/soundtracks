@@ -2676,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
+| Celebrate | 80178 | [80178-celebrate.json](./80178-celebrate.json) |
 | Celebrating Lake Xochimilco | 250299 | [250299-celebrating-lake-xochimilco.json](./250299-celebrating-lake-xochimilco.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
 | Celebrating Pani Puri | 256370 | [256370-celebrating-pani-puri.json](./256370-celebrating-pani-puri.json) |
@@ -2948,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
+| Chalkboard Sports Baseball | 80123 | [80123-chalkboard-sports-baseball.json](./80123-chalkboard-sports-baseball.json) |
 | Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
 | Chalkship | 114924 | [114924-chalkship.json](./114924-chalkship.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
@@ -3280,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charrua Soccer: Mirror Edition | 280344 | [280344-charrua-soccer-mirror-edition.json](./280344-charrua-soccer-mirror-edition.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chart Attack | 94340 | [94340-chart-attack.json](./94340-chart-attack.json) |
+| Chart Wars | 80124 | [80124-chart-wars.json](./80124-chart-wars.json) |
 | Chart Wars 3 | 78094 | [78094-chart-wars-3.json](./78094-chart-wars-3.json) |
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
@@ -5094,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
+| CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
 | Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
 | Citywars Tower Defense | 191574 | [191574-citywars-tower-defense.json](./191574-citywars-tower-defense.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
@@ -5997,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
+| Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
@@ -6519,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
+| Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
@@ -6774,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
+| Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
 | Combat Racers | 33461 | [33461-combat-racers.json](./33461-combat-racers.json) |
 | Combat Rally | 326213 | [326213-combat-rally.json](./326213-combat-rally.json) |
 | Combat Reloaded | 98242 | [98242-combat-reloaded.json](./98242-combat-reloaded.json) |
@@ -8779,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
 | Crash Bandicoot N.Finite | 374279 | [374279-crash-bandicoot-n-finite.json](./374279-crash-bandicoot-n-finite.json) |
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
+| Crash Bandicoot Nitro Kart 3D | 80155 | [80155-crash-bandicoot-nitro-kart-3d.json](./80155-crash-bandicoot-nitro-kart-3d.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
