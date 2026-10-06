@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous Beaches VR (Lopes Mendes Beach Brazil) | 101655 | [101655-famous-beaches-vr-lopes-mendes-beach-brazil.json](./101655-famous-beaches-vr-lopes-mendes-beach-brazil.json) |
 | Famous Courses of the World: Vol. II | 71560 | [71560-famous-courses-of-the-world-vol-ii.json](./71560-famous-courses-of-the-world-vol-ii.json) |
 | Famous Crash | 257547 | [257547-famous-crash.json](./257547-famous-crash.json) |
+| Famousity | 83813 | [83813-famousity.json](./83813-famousity.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
 | Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
@@ -1230,6 +1231,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
+| Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
+| Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Limited Edition | 139867 | [139867-far-cry-6-limited-edition.json](./139867-far-cry-6-limited-edition.json) |
@@ -2097,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femme | 181745 | [181745-femme.json](./181745-femme.json) |
 | Femme Fatality | 406911 | [406911-femme-fatality.json](./406911-femme-fatality.json) |
 | Fen | 82028 | [82028-fen.json](./82028-fen.json) |
+| FEN: Prologue | 83812 | [83812-fen-prologue.json](./83812-fen-prologue.json) |
 | Fenakkumura Monogatari | 166145 | [166145-fenakkumura-monogatari.json](./166145-fenakkumura-monogatari.json) |
 | Fence | 270169 | [270169-fence.json](./270169-fence.json) |
 | Fencing | 169743 | [169743-fencing.json](./169743-fencing.json) |
