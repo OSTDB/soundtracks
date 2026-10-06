@@ -5452,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleurghburg: Dark Ages | 79805 | [79805-pleurghburg-dark-ages.json](./79805-pleurghburg-dark-ages.json) |
 | Plexar | 84322 | [84322-plexar.json](./84322-plexar.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
+| Plight | 86370 | [86370-plight.json](./86370-plight.json) |
 | Plighters | 386386 | [386386-plighters.json](./386386-plighters.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
 | Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
@@ -8131,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2017 | 22753 | [22753-pro-evolution-soccer-2017.json](./22753-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
+| Pro Evolution Soccer 2018 Lite | 86384 | [86384-pro-evolution-soccer-2018-lite.json](./86384-pro-evolution-soccer-2018-lite.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019: Legend Edition | 118879 | [118879-pro-evolution-soccer-2019-legend-edition.json](./118879-pro-evolution-soccer-2019-legend-edition.json) |
@@ -9465,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
+| Puppies vs Undead | 86359 | [86359-puppies-vs-undead.json](./86359-puppies-vs-undead.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Puppis & Choler | 97522 | [97522-puppis-and-choler.json](./97522-puppis-and-choler.json) |
 | Pupple Pop | 390192 | [390192-pupple-pop.json](./390192-pupple-pop.json) |
@@ -10009,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
+| Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
 | Puzzles Dino | 414501 | [414501-puzzles-dino.json](./414501-puzzles-dino.json) |
 | Puzzles for kids - Animal Puzzles | 93702 | [93702-puzzles-for-kids-animal-puzzles.json](./93702-puzzles-for-kids-animal-puzzles.json) |
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
