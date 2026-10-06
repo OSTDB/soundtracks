@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
+| Epic Idle Quest | 96187 | [96187-epic-idle-quest.json](./96187-epic-idle-quest.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
