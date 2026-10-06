@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
+| Ultraman Fighting Evolution 0 | 64212 | [64212-ultraman-fighting-evolution-0.json](./64212-ultraman-fighting-evolution-0.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultraman Fighting Evolution 3 | 72605 | [72605-ultraman-fighting-evolution-3.json](./72605-ultraman-fighting-evolution-3.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultraman: Oide yo! Ultra Youchien | 63947 | [63947-ultraman-oide-yo-ultra-youchien.json](./63947-ultraman-oide-yo-ultra-youchien.json) |
 | Ultraman: Suuji de Asobou Ultra Land | 63940 | [63940-ultraman-suuji-de-asobou-ultra-land.json](./63940-ultraman-suuji-de-asobou-ultra-land.json) |
+| Ultraman: The Ultimate Fighting | 64213 | [64213-ultraman-the-ultimate-fighting.json](./64213-ultraman-the-ultimate-fighting.json) |
 | Ultraman: Ultraman Chinou UP Dai Sakusen | 63941 | [63941-ultraman-ultraman-chinou-up-dai-sakusen.json](./63941-ultraman-ultraman-chinou-up-dai-sakusen.json) |
 | Ultramarine | 270843 | [270843-ultramarine.json](./270843-ultramarine.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
