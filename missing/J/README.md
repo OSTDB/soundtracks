@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jojo no Kimyou na Bouken | 80625 | [80625-jojo-no-kimyou-na-bouken.json](./80625-jojo-no-kimyou-na-bouken.json) |
 | JoJo no Kimyou na Bouken | 221257 | [221257-jojo-no-kimyou-na-bouken.json](./221257-jojo-no-kimyou-na-bouken.json) |
 | JoJo no Kimyou na Bouken: Ougon no Kaze | 43465 | [43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json](./43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json) |
+| JoJo no Kimyou na Hana Battle | 80127 | [80127-jojo-no-kimyou-na-hana-battle.json](./80127-jojo-no-kimyou-na-hana-battle.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | JoJo the Sheep | 233487 | [233487-jojo-the-sheep.json](./233487-jojo-the-sheep.json) |
 | JoJo's Bizarre Adventure HD | 47433 | [47433-jojos-bizarre-adventure-hd.json](./47433-jojos-bizarre-adventure-hd.json) |
