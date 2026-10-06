@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
+| Where Are My Pipes? | 89476 | [89476-where-are-my-pipes.json](./89476-where-are-my-pipes.json) |
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
@@ -4275,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Stitch | 233056 | [233056-word-stitch.json](./233056-word-stitch.json) |
 | Word Strike | 232067 | [232067-word-strike.json](./232067-word-strike.json) |
+| Word Sudoku - Tapestry Twist | 89531 | [89531-word-sudoku-tapestry-twist.json](./89531-word-sudoku-tapestry-twist.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
 | Word Tango | 383550 | [383550-word-tango.json](./383550-word-tango.json) |
