@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
 | Of Light & Shadow | 166509 | [166509-of-light-and-shadow.json](./166509-of-light-and-shadow.json) |
+| Of Light and Darkness: The Prophecy - Premonitions | 79564 | [79564-of-light-and-darkness-the-prophecy-premonitions.json](./79564-of-light-and-darkness-the-prophecy-premonitions.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
+| OpenGeneral | 79518 | [79518-opengeneral.json](./79518-opengeneral.json) |
 | OpenGoal: Jak and Daxter - The Precursor Legacy | 206008 | [206008-opengoal-jak-and-daxter-the-precursor-legacy.json](./206008-opengoal-jak-and-daxter-the-precursor-legacy.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
