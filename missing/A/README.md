@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaric | 312679 | [312679-alaric.json](./312679-alaric.json) |
 | Alaric's Quest | 254029 | [254029-alarics-quest.json](./254029-alarics-quest.json) |
 | Alaris | 211113 | [211113-alaris.json](./211113-alaris.json) |
+| Alarm for Cobra 11: Hot Pursuit | 68263 | [68263-alarm-for-cobra-11-hot-pursuit.json](./68263-alarm-for-cobra-11-hot-pursuit.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alarm für Cobra 11: Vol. III | 81170 | [81170-alarm-fur-cobra-11-vol-iii.json](./81170-alarm-fur-cobra-11-vol-iii.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
@@ -4030,7 +4031,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer | 38526 | [38526-alpine-racer.json](./38526-alpine-racer.json) |
 | Alpine Racer 2 | 38525 | [38525-alpine-racer-2.json](./38525-alpine-racer-2.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
+| Alpine Ski Racing 2007 | 68266 | [68266-alpine-ski-racing-2007.json](./68266-alpine-ski-racing-2007.json) |
 | Alpine Skiing | 41532 | [41532-alpine-skiing.json](./41532-alpine-skiing.json) |
+| Alpine Skiing 2005 | 68265 | [68265-alpine-skiing-2005.json](./68265-alpine-skiing-2005.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
 | Alpine Surfer | 90915 | [90915-alpine-surfer.json](./90915-alpine-surfer.json) |
 | Alpine Trail | 87608 | [87608-alpine-trail.json](./87608-alpine-trail.json) |
@@ -4174,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaginu Kanojo: Side A | 369142 | [369142-amaginu-kanojo-side-a.json](./369142-amaginu-kanojo-side-a.json) |
 | Amaginu Kanojo: Side B | 369143 | [369143-amaginu-kanojo-side-b.json](./369143-amaginu-kanojo-side-b.json) |
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
+| Amagoushi no Yakata | 68264 | [68264-amagoushi-no-yakata.json](./68264-amagoushi-no-yakata.json) |
 | Amairo Chocolate | 130138 | [130138-amairo-chocolate.json](./130138-amairo-chocolate.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
@@ -4448,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
 | American Pool II | 90932 | [90932-american-pool-ii.json](./90932-american-pool-ii.json) |
+| American Popstar: Road to Celebrity | 68234 | [68234-american-popstar-road-to-celebrity.json](./68234-american-popstar-road-to-celebrity.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
@@ -4664,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
 | An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
+| An American Tail | 68257 | [68257-an-american-tail.json](./68257-an-american-tail.json) |
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
@@ -4976,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Poring | 74326 | [74326-angel-poring.json](./74326-angel-poring.json) |
 | Angel Precario | 90132 | [90132-angel-precario.json](./90132-angel-precario.json) |
 | Angel Present | 267405 | [267405-angel-present.json](./267405-angel-present.json) |
+| Angel Profile | 68256 | [68256-angel-profile.json](./68256-angel-profile.json) |
 | Angel Rhapsody | 397871 | [397871-angel-rhapsody.json](./397871-angel-rhapsody.json) |
 | Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
@@ -4987,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel Wings | 307047 | [307047-angel-wings.json](./307047-angel-wings.json) |
+| Angel Wish: Kimi no Egao ni Chu! | 68259 | [68259-angel-wish-kimi-no-egao-ni-chu.json](./68259-angel-wish-kimi-no-egao-ni-chu.json) |
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
@@ -5958,6 +5966,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
+| Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
+| Aoitenryuu: The Arcade | 68258 | [68258-aoitenryuu-the-arcade.json](./68258-aoitenryuu-the-arcade.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
 | Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
@@ -6496,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Circus Charlie | 145250 | [145250-arcade-archives-circus-charlie.json](./145250-arcade-archives-circus-charlie.json) |
 | Arcade Archives: City Bomber | 324979 | [324979-arcade-archives-city-bomber.json](./324979-arcade-archives-city-bomber.json) |
 | Arcade Archives: City Connection | 99558 | [99558-arcade-archives-city-connection.json](./99558-arcade-archives-city-connection.json) |
+| Arcade Archives: Clu Clu Land | 68356 | [68356-arcade-archives-clu-clu-land.json](./68356-arcade-archives-clu-clu-land.json) |
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
@@ -6572,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Pettan Pyuu | 147115 | [147115-arcade-archives-pettan-pyuu.json](./147115-arcade-archives-pettan-pyuu.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
+| Arcade Archives: Pinball | 68354 | [68354-arcade-archives-pinball.json](./68354-arcade-archives-pinball.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Plus Alpha | 147626 | [147626-arcade-archives-plus-alpha.json](./147626-arcade-archives-plus-alpha.json) |
