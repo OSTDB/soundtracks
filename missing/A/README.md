@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
+| A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
+| Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
@@ -1743,6 +1745,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
+| AdventureQuest Dragons | 112229 | [112229-adventurequest-dragons.json](./112229-adventurequest-dragons.json) |
+| AdventureQuest Undead Assault | 112227 | [112227-adventurequest-undead-assault.json](./112227-adventurequest-undead-assault.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
@@ -8965,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Empire | 27984 | [27984-augmented-empire.json](./27984-augmented-empire.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
+| Augmentors | 112252 | [112252-augmentors.json](./112252-augmentors.json) |
 | Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
 | Augury Point | 280298 | [280298-augury-point.json](./280298-augury-point.json) |
