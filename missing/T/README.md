@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
 | T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
 | T-Rex Simulator | 96299 | [96299-t-rex-simulator.json](./96299-t-rex-simulator.json) |
+| T-Rex Time Machine | 76919 | [76919-t-rex-time-machine.json](./76919-t-rex-time-machine.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
@@ -3198,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
+| The Adventures of Sam Carlisle: The Hunt for the L | 76876 | [76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json](./76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json) |
 | The Adventures of Sam Carlisle: The Hunt for the Lost Treasure | 75011 | [75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json](./75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
 | The Adventures of Sherlock Holmes | 72319 | [72319-the-adventures-of-sherlock-holmes.json](./72319-the-adventures-of-sherlock-holmes.json) |
@@ -6347,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
+| The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Jeffy Game | 244891 | [244891-the-jeffy-game.json](./244891-the-jeffy-game.json) |
 | The Jelly Bean Factory | 62672 | [62672-the-jelly-bean-factory.json](./62672-the-jelly-bean-factory.json) |
@@ -7793,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon 2044 | 282043 | [282043-the-moon-2044.json](./282043-the-moon-2044.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
+| The Moon Fields | 76944 | [76944-the-moon-fields.json](./76944-the-moon-fields.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
 | The Moon Looks Beautiful Tonight: Definitive Edition | 383600 | [383600-the-moon-looks-beautiful-tonight-definitive-edition.json](./383600-the-moon-looks-beautiful-tonight-definitive-edition.json) |
@@ -9127,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
+| The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
@@ -10258,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
+| The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
