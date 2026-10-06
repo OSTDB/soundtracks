@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
+| Becher's Dream | 72292 | [72292-bechers-dream.json](./72292-bechers-dream.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
@@ -8490,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricks of Atlantis | 70108 | [70108-bricks-of-atlantis.json](./70108-bricks-of-atlantis.json) |
+| Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
@@ -9492,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
+| Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
