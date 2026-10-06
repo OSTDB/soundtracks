@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
+| Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
@@ -565,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser 77: Virtual Lab | 280419 | [280419-laser-77-virtual-lab.json](./280419-laser-77-virtual-lab.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Attraction | 144762 | [144762-laser-attraction.json](./144762-laser-attraction.json) |
+| Laser Ball | 95664 | [95664-laser-ball.json](./95664-laser-ball.json) |
 | Laser Battle Cats: Travel & Destroy! | 364058 | [364058-laser-battle-cats-travel-and-destroy.json](./364058-laser-battle-cats-travel-and-destroy.json) |
 | Laser Blast | 18034 | [18034-laser-blast.json](./18034-laser-blast.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
@@ -4659,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
+| Lost Worlds Prophecy | 95666 | [95666-lost-worlds-prophecy.json](./95666-lost-worlds-prophecy.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
