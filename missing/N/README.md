@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
 | Neon Inferno | 322701 | [322701-neon-inferno.json](./322701-neon-inferno.json) |
+| Neon Infinity | 114931 | [114931-neon-infinity.json](./114931-neon-infinity.json) |
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
