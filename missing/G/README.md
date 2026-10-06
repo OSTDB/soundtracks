@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Princess Zorana | 327953 | [327953-galaxy-princess-zorana.json](./327953-galaxy-princess-zorana.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Quest | 294393 | [294393-galaxy-quest.json](./294393-galaxy-quest.json) |
+| Galaxy Racers | 76130 | [76130-galaxy-racers.json](./76130-galaxy-racers.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
@@ -4597,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
+| Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
 | Gravity Jump | 102950 | [102950-gravity-jump.json](./102950-gravity-jump.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
