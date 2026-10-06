@@ -4772,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | Cipher | 274123 | [274123-cipher.json](./274123-cipher.json) |
 | Cipher 61 | 156192 | [156192-cipher-61.json](./156192-cipher-61.json) |
+| Cipher for Windows | 61453 | [61453-cipher-for-windows.json](./61453-cipher-for-windows.json) |
 | Cipher Island | 238088 | [238088-cipher-island.json](./238088-cipher-island.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
