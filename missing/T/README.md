@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
+| Temptation | 93800 | [93800-temptation.json](./93800-temptation.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
 | The Flock | 19968 | [19968-the-flock.json](./19968-the-flock.json) |
+| The Flood | 93780 | [93780-the-flood.json](./93780-the-flood.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Lava | 88478 | [88478-the-floor-is-lava.json](./88478-the-floor-is-lava.json) |
@@ -6835,6 +6837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
 | The Last Tinker: City of Colors | 2346 | [2346-the-last-tinker-city-of-colors.json](./2346-the-last-tinker-city-of-colors.json) |
+| The Last Tower | 93798 | [93798-the-last-tower.json](./93798-the-last-tower.json) |
 | The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
@@ -17329,6 +17332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
+| Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
