@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bentley Bear’s Crystal Quest | 314440 | [314440-bentley-bear-s-crystal-quest.json](./314440-bentley-bear-s-crystal-quest.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
+| BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
 | Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond-Human | 56598 | [56598-beyond-human.json](./56598-beyond-human.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent - Collector's Edition | 36464 | [36464-beyond-light-advent-collectors-edition.json](./36464-beyond-light-advent-collectors-edition.json) |
+| Beyond: The Static | 108901 | [108901-beyond-the-static.json](./108901-beyond-the-static.json) |
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
@@ -4407,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Commando Rearmed 2 | 15858 | [15858-bionic-commando-rearmed-2.json](./15858-bionic-commando-rearmed-2.json) |
 | Bionic Commando: Elite Forces | 44077 | [44077-bionic-commando-elite-forces.json](./44077-bionic-commando-elite-forces.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
+| Bionic Fighters | 108931 | [108931-bionic-fighters.json](./108931-bionic-fighters.json) |
 | Bionic Girl | 9896 | [9896-bionic-girl.json](./9896-bionic-girl.json) |
 | Bionic Granny | 13880 | [13880-bionic-granny.json](./13880-bionic-granny.json) |
 | Bionic Heart | 9782 | [9782-bionic-heart.json](./9782-bionic-heart.json) |
@@ -4867,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
+| Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
 | Black Knight: Marine Strike Fighter | 71051 | [71051-black-knight-marine-strike-fighter.json](./71051-black-knight-marine-strike-fighter.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
@@ -6391,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
+| Blym | 108914 | [108914-blym.json](./108914-blym.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
@@ -9098,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
 | Build and Play 3D: Rockets, Helicopters, Submarines and More | 109214 | [109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json](./109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json) |
+| Build and Play: Planes | 108912 | [108912-build-and-play-planes.json](./108912-build-and-play-planes.json) |
 | Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
@@ -9799,6 +9805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
+| Buzama ni! Gehin ni! Tsugou yoku! Kyokon Suuhai! Haramase Onaho Gakuen | 108915 | [108915-buzama-ni-gehin-ni-tsugou-yoku-kyokon-suuhai-haramase-onaho-gakuen.json](./108915-buzama-ni-gehin-ni-tsugou-yoku-kyokon-suuhai-haramase-onaho-gakuen.json) |
 | Buzludzha Evil | 328094 | [328094-buzludzha-evil.json](./328094-buzludzha-evil.json) |
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
