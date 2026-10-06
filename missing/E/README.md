@@ -3997,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibots | 135712 | [135712-excalibots.json](./135712-excalibots.json) |
+| ExcaliBug | 71155 | [71155-excalibug.json](./71155-excalibug.json) |
 | Excalibur | 23951 | [23951-excalibur.json](./23951-excalibur.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
 | Excalibur Mobile | 86204 | [86204-excalibur-mobile.json](./86204-excalibur-mobile.json) |
