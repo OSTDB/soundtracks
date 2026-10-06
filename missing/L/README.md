@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
+| Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
 | Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le Morte D'Arthur | 338944 | [338944-le-morte-darthur.json](./338944-le-morte-darthur.json) |
@@ -1887,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
+| Leisure Suit Larry: Pocket Party | 65289 | [65289-leisure-suit-larry-pocket-party.json](./65289-leisure-suit-larry-pocket-party.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Dry Twice | 138756 | [138756-leisure-suit-larry-wet-dreams-dry-twice.json](./138756-leisure-suit-larry-wet-dreams-dry-twice.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
