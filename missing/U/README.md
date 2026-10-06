@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultramarine | 270843 | [270843-ultramarine.json](./270843-ultramarine.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
+| Ultranium 4 - Breakout Shooter | 89527 | [89527-ultranium-4-breakout-shooter.json](./89527-ultranium-4-breakout-shooter.json) |
 | Ultranium 5 | 99988 | [99988-ultranium-5.json](./99988-ultranium-5.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
