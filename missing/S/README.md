@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
+| Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
@@ -5024,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
+| Shopkeeper Simulator | 117613 | [117613-shopkeeper-simulator.json](./117613-shopkeeper-simulator.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
@@ -5486,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
+| Siege Machines Builder | 117596 | [117596-siege-machines-builder.json](./117596-siege-machines-builder.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
 | Siege of Darkwood | 139162 | [139162-siege-of-darkwood.json](./139162-siege-of-darkwood.json) |
@@ -14903,6 +14906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
 | Story of Nararale | 173026 | [173026-story-of-nararale.json](./173026-story-of-nararale.json) |
+| Story of one night | 117581 | [117581-story-of-one-night.json](./117581-story-of-one-night.json) |
 | Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
