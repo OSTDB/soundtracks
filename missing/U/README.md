@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shooting Collection | 5253 | [5253-ultimate-shooting-collection.json](./5253-ultimate-shooting-collection.json) |
 | Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
+| Ultimate Shotgun Championship | 117602 | [117602-ultimate-shotgun-championship.json](./117602-ultimate-shotgun-championship.json) |
 | Ultimate Sim | 91425 | [91425-ultimate-sim.json](./91425-ultimate-sim.json) |
 | Ultimate Simplicity | 256815 | [256815-ultimate-simplicity.json](./256815-ultimate-simplicity.json) |
 | Ultimate Ski Jumping 2020 | 131979 | [131979-ultimate-ski-jumping-2020.json](./131979-ultimate-ski-jumping-2020.json) |
