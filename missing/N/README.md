@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Legends | 18268 | [18268-new-legends.json](./18268-new-legends.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
+| New LovePlus | 92165 | [92165-new-loveplus.json](./92165-new-loveplus.json) |
 | New LovePlus: Manaka Complete Set | 89886 | [89886-new-loveplus-manaka-complete-set.json](./89886-new-loveplus-manaka-complete-set.json) |
 | New LovePlus: Nene Complete Set | 89885 | [89885-new-loveplus-nene-complete-set.json](./89885-new-loveplus-nene-complete-set.json) |
 | New LovePlus: New Manaka Deluxe | 89884 | [89884-new-loveplus-new-manaka-deluxe.json](./89884-new-loveplus-new-manaka-deluxe.json) |
