@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wise in the Heights | 358330 | [358330-wise-in-the-heights.json](./358330-wise-in-the-heights.json) |
 | Wisegal | 9366 | [9366-wisegal.json](./9366-wisegal.json) |
 | Wiseguys | 123538 | [123538-wiseguys.json](./123538-wiseguys.json) |
+| Wisentree Spirit | 111581 | [111581-wisentree-spirit.json](./111581-wisentree-spirit.json) |
 | Wish | 196225 | [196225-wish.json](./196225-wish.json) |
 | Wish - Israfil Saga | 94897 | [94897-wish-israfil-saga.json](./94897-wish-israfil-saga.json) |
 | Wish -tale of the sixteenth night of lunar month- | 34684 | [34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json](./34684-wish-tale-of-the-sixteenth-night-of-lunar-month.json) |
@@ -3574,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
+| WitchAction | 111614 | [111614-witchaction.json](./111614-witchaction.json) |
 | Witcharoo | 271423 | [271423-witcharoo.json](./271423-witcharoo.json) |
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
 | Witchaven II: Blood Vengeance | 8688 | [8688-witchaven-ii-blood-vengeance.json](./8688-witchaven-ii-blood-vengeance.json) |
@@ -3670,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without Judgement | 216824 | [216824-without-judgement.json](./216824-without-judgement.json) |
 | Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
+| Without Kungfu Shut Up | 111578 | [111578-without-kungfu-shut-up.json](./111578-without-kungfu-shut-up.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
