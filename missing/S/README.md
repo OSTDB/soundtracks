@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
+| Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
@@ -6567,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
+| Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
@@ -10470,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
 | Space Captain McCallery Episode 1: Crash Landing | 99160 | [99160-space-captain-mccallery-episode-1-crash-landing.json](./99160-space-captain-mccallery-episode-1-crash-landing.json) |
+| Space Captain McCallery Episode 2: Pilgrims in Purple Moss | 112842 | [112842-space-captain-mccallery-episode-2-pilgrims-in-purple-moss.json](./112842-space-captain-mccallery-episode-2-pilgrims-in-purple-moss.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Captain McCallery Episode 4: The Turquoise Temple | 245977 | [245977-space-captain-mccallery-episode-4-the-turquoise-temple.json](./245977-space-captain-mccallery-episode-4-the-turquoise-temple.json) |
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
@@ -11896,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
+| Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
@@ -15854,6 +15858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterror | 291576 | [291576-subterror.json](./291576-subterror.json) |
 | Subtext | 115546 | [115546-subtext.json](./115546-subtext.json) |
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
+| Subtyrannya - A story-driven merchant game | 112898 | [112898-subtyrannya-a-story-driven-merchant-game.json](./112898-subtyrannya-a-story-driven-merchant-game.json) |
 | Subuccus | 211656 | [211656-subuccus.json](./211656-subuccus.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
@@ -18363,6 +18368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
+| Superman: World's Finest | 112876 | [112876-superman-worlds-finest.json](./112876-superman-worlds-finest.json) |
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
 | Supermarket & Clothing Store Simulator | 404258 | [404258-supermarket-and-clothing-store-simulator.json](./404258-supermarket-and-clothing-store-simulator.json) |
@@ -18870,6 +18876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume Tactics | 193724 | [193724-susume-tactics.json](./193724-susume-tactics.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
+| Susume!! Mamotte Knight: Hime no Totsugeki Serenade | 112887 | [112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json](./112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json) |
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
