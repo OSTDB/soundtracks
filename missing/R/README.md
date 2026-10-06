@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
+| Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
+| Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
@@ -5106,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots vs. Zombies: Transform to Race and Fight | 105842 | [105842-robots-vs-zombies-transform-to-race-and-fight.json](./105842-robots-vs-zombies-transform-to-race-and-fight.json) |
 | Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
+| Robots: create AI | 65831 | [65831-robots-create-ai.json](./65831-robots-create-ai.json) |
 | Robotville: Dawn of Robot AI | 327961 | [327961-robotville-dawn-of-robot-ai.json](./327961-robotville-dawn-of-robot-ai.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
