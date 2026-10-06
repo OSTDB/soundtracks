@@ -5365,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blau | 402453 | [402453-blau.json](./402453-blau.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
 | BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
+| BlazBlue (Tentative Title) | 86364 | [86364-blazblue-tentative-title.json](./86364-blazblue-tentative-title.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
@@ -7140,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! | 203894 | [203894-boom.json](./203894-boom.json) |
 | Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
+| Boom! Maze | 86421 | [86421-boom-maze.json](./86421-boom-maze.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
 | BoomBang | 135676 | [135676-boombang.json](./135676-boombang.json) |
@@ -9472,6 +9474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
 | Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
+| Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Bounce | 33450 | [33450-bunny-bounce.json](./33450-bunny-bounce.json) |
