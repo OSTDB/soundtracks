@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
 | A Beauty Cold and Austere | 138140 | [138140-a-beauty-cold-and-austere.json](./138140-a-beauty-cold-and-austere.json) |
 | A Beaver's Tale | 312657 | [312657-a-beavers-tale.json](./312657-a-beavers-tale.json) |
+| A Better Mouse Trap | 71170 | [71170-a-better-mouse-trap.json](./71170-a-better-mouse-trap.json) |
 | A Better Schlo Dating Simulation | 298788 | [298788-a-better-schlo-dating-simulation.json](./298788-a-better-schlo-dating-simulation.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
@@ -5062,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anglerfish | 190954 | [190954-anglerfish.json](./190954-anglerfish.json) |
 | Angles | 89390 | [89390-angles.json](./89390-angles.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
+| angoo Inc. | 71164 | [71164-angoo-inc.json](./71164-angoo-inc.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
@@ -6095,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
+| Apocalypse Meow: Chapter One - Gatitos: The Paws of Fate | 71172 | [71172-apocalypse-meow-chapter-one-gatitos-the-paws-of-fate.json](./71172-apocalypse-meow-chapter-one-gatitos-the-paws-of-fate.json) |
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
