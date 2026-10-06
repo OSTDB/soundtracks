@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiner Knizia's Kingdoms | 224994 | [224994-reiner-knizias-kingdoms.json](./224994-reiner-knizias-kingdoms.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
+| Reiner Knizia's Ra | 103566 | [103566-reiner-knizias-ra.json](./103566-reiner-knizias-ra.json) |
 | Reiner Knizia's: The Confrontation | 34650 | [34650-reiner-knizias-the-confrontation.json](./34650-reiner-knizias-the-confrontation.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
@@ -3814,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
+| Rich Girl Fashion Mall | 103561 | [103561-rich-girl-fashion-mall.json](./103561-rich-girl-fashion-mall.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
@@ -5092,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
 | Rock n' Roll Racing | 6564 | [6564-rock-n-roll-racing.json](./6564-rock-n-roll-racing.json) |
 | Rock n' Roll Racing Hack v16 | 270219 | [270219-rock-n-roll-racing-hack-v16.json](./270219-rock-n-roll-racing-hack-v16.json) |
+| Rock n' Rush Battle Racing | 103348 | [103348-rock-n-rush-battle-racing.json](./103348-rock-n-rush-battle-racing.json) |
 | Rock of Ages 2: Complete Bundle | 118905 | [118905-rock-of-ages-2-complete-bundle.json](./118905-rock-of-ages-2-complete-bundle.json) |
 | Rock of Ages 3: Make & Break | 121714 | [121714-rock-of-ages-3-make-and-break.json](./121714-rock-of-ages-3-make-and-break.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
