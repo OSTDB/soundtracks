@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Kindergarten | 212881 | [212881-jumpstart-kindergarten.json](./212881-jumpstart-kindergarten.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
+| JumpStart Music | 72290 | [72290-jumpstart-music.json](./72290-jumpstart-music.json) |
 | JumpStart Numbers | 159196 | [159196-jumpstart-numbers.json](./159196-jumpstart-numbers.json) |
 | JumpStart Phonics | 358412 | [358412-jumpstart-phonics.json](./358412-jumpstart-phonics.json) |
 | JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
