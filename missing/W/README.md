@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Neverland 2: Pluto Kyouwakoku Monogatari - Experience of Fiction Life | 297750 | [297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json](./297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json) |
 | World of Anikids | 52123 | [52123-world-of-anikids.json](./52123-world-of-anikids.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
+| World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
 | World of bombs | 163802 | [163802-world-of-bombs.json](./163802-world-of-bombs.json) |
