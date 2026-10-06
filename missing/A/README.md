@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
 | ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
+| ACA Neo Geo: Cyber-Lip | 112912 | [112912-aca-neo-geo-cyber-lip.json](./112912-aca-neo-geo-cyber-lip.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
@@ -9234,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
+| Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
 | Avatar: Reckoning | 216279 | [216279-avatar-reckoning.json](./216279-avatar-reckoning.json) |
 | Avatar: The Last Airbender | 202100 | [202100-avatar-the-last-airbender.json](./202100-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 202168 | [202168-avatar-the-last-airbender.json](./202168-avatar-the-last-airbender.json) |
