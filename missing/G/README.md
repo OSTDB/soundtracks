@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Pinball | 157575 | [157575-girls-pinball.json](./157575-girls-pinball.json) |
 | Girls Pinball: DLC1 | 157576 | [157576-girls-pinball-dlc1.json](./157576-girls-pinball-dlc1.json) |
 | Girls Pinball: DLC2 | 157577 | [157577-girls-pinball-dlc2.json](./157577-girls-pinball-dlc2.json) |
+| Girls PJ Party | 87869 | [87869-girls-pj-party.json](./87869-girls-pj-party.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
 | Girls Tank Battle | 165605 | [165605-girls-tank-battle.json](./165605-girls-tank-battle.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
+| Gunner 3 | 87808 | [87808-gunner-3.json](./87808-gunner-3.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
