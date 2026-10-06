@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
+| 10 Crowns | 86424 | [86424-10-crowns.json](./86424-10-crowns.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
 | 10 Gnomes 1: The Rooftops | 306567 | [306567-10-gnomes-1-the-rooftops.json](./306567-10-gnomes-1-the-rooftops.json) |
