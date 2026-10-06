@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
 | Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
+| Fantasia Sango 2 | 85747 | [85747-fantasia-sango-2.json](./85747-fantasia-sango-2.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
 | Fantasia Sango 5 | 107868 | [107868-fantasia-sango-5.json](./107868-fantasia-sango-5.json) |
