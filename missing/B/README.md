@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bem Feito: Legacy Edition | 140328 | [140328-bem-feito-legacy-edition.json](./140328-bem-feito-legacy-edition.json) |
 | Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
+| Ben 10 | 100278 | [100278-ben-10.json](./100278-ben-10.json) |
 | Ben 10 | 247451 | [247451-ben-10.json](./247451-ben-10.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
@@ -4167,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bike Xtreme | 101680 | [101680-bike-xtreme.json](./101680-bike-xtreme.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
@@ -5537,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindy | 125187 | [125187-blindy.json](./125187-blindy.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
+| Blink | 100297 | [100297-blink.json](./100297-blink.json) |
 | Blink | 27800 | [27800-blink.json](./27800-blink.json) |
 | Blink | 413761 | [413761-blink.json](./413761-blink.json) |
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
@@ -8654,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
+| Brookelle's FreeCell | 100274 | [100274-brookelles-freecell.json](./100274-brookelles-freecell.json) |
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
