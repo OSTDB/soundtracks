@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Return | 364016 | [364016-dark-return.json](./364016-dark-return.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
+| Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
@@ -1560,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day: 40 | 116915 | [116915-day-40.json](./116915-day-40.json) |
 | Daybreak | 217245 | [217245-daybreak.json](./217245-daybreak.json) |
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
+| DayBreak Online | 112867 | [112867-daybreak-online.json](./112867-daybreak-online.json) |
 | Daybreaker VR | 208833 | [208833-daybreaker-vr.json](./208833-daybreaker-vr.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
@@ -4661,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Rave | 245904 | [245904-die-rave.json](./245904-die-rave.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
+| Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
