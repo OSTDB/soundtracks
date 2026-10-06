@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuria | 204433 | [204433-zuria.json](./204433-zuria.json) |
 | Zurviv.io | 351253 | [351253-zurviv-io.json](./351253-zurviv-io.json) |
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
+| Zusi 3 Hobby | 112236 | [112236-zusi-3-hobby.json](./112236-zusi-3-hobby.json) |
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
