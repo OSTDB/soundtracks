@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma 19 | 213480 | [213480-gamma-19.json](./213480-gamma-19.json) |
 | Gamma Blast | 86412 | [86412-gamma-blast.json](./86412-gamma-blast.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
+| Gamma Collexion | 80129 | [80129-gamma-collexion.json](./80129-gamma-collexion.json) |
 | Gamma Force in Pit of a Thousand Screams | 59854 | [59854-gamma-force-in-pit-of-a-thousand-screams.json](./59854-gamma-force-in-pit-of-a-thousand-screams.json) |
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Trastevere | 372652 | [372652-ghosts-of-trastevere.json](./372652-ghosts-of-trastevere.json) |
 | Ghosts of War | 174822 | [174822-ghosts-of-war.json](./174822-ghosts-of-war.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
+| Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire | 91724 | [91724-ghostwire.json](./91724-ghostwire.json) |
@@ -2614,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
+| Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
@@ -4116,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
 | Gran Turismo 7: Power Pack | 377243 | [377243-gran-turismo-7-power-pack.json](./377243-gran-turismo-7-power-pack.json) |
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
+| Gran Turismo Concept: 2001 Tokyo | 80163 | [80163-gran-turismo-concept-2001-tokyo.json](./80163-gran-turismo-concept-2001-tokyo.json) |
 | Gran Turismo Concept: 2002 Tokyo-Geneva | 22061 | [22061-gran-turismo-concept-2002-tokyo-geneva.json](./22061-gran-turismo-concept-2002-tokyo-geneva.json) |
 | Gran Turismo Sport | 14363 | [14363-gran-turismo-sport.json](./14363-gran-turismo-sport.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
