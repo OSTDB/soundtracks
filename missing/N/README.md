@@ -3276,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
+| No Prospect Company | 99087 | [99087-no-prospect-company.json](./99087-no-prospect-company.json) |
 | No Random Novels | 226127 | [226127-no-random-novels.json](./226127-no-random-novels.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
 | No Recollection | 270075 | [270075-no-recollection.json](./270075-no-recollection.json) |
