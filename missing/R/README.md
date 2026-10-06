@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
+| Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
