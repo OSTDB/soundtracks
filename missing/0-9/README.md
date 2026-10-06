@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Minutes in Space | 311679 | [311679-2-minutes-in-space.json](./311679-2-minutes-in-space.json) |
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
+| 2 Pak Special | 97513 | [97513-2-pak-special.json](./97513-2-pak-special.json) |
 | 2 Pak Special: Star Warrior/Frogger | 130281 | [130281-2-pak-special-star-warrior-frogger.json](./130281-2-pak-special-star-warrior-frogger.json) |
 | 2 Pattern | 219507 | [219507-2-pattern.json](./219507-2-pattern.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
