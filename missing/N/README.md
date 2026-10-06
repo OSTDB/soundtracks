@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
 | No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
+| No Frills Sudoku | 70619 | [70619-no-frills-sudoku.json](./70619-no-frills-sudoku.json) |
 | No Fuel Odyssey | 178983 | [178983-no-fuel-odyssey.json](./178983-no-fuel-odyssey.json) |
 | No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
