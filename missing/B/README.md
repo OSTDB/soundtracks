@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Santa 64 | 281041 | [281041-battle-santa-64.json](./281041-battle-santa-64.json) |
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
+| Battle Shapes | 58614 | [58614-battle-shapes.json](./58614-battle-shapes.json) |
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
 | Battle Ships | 13869 | [13869-battle-ships.json](./13869-battle-ships.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
+| Battleborn Tap | 58610 | [58610-battleborn-tap.json](./58610-battleborn-tap.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
 | Battleborn: Oscar Mike vs. The Battle School | 403138 | [403138-battleborn-oscar-mike-vs-the-battle-school.json](./403138-battleborn-oscar-mike-vs-the-battle-school.json) |
