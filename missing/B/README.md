@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Roller | 384713 | [384713-ball-roller.json](./384713-ball-roller.json) |
 | Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
+| Ball Run and Rush | 108384 | [108384-ball-run-and-rush.json](./108384-ball-run-and-rush.json) |
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
@@ -5907,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Brothers 2 | 59504 | [59504-blood-brothers-2.json](./59504-blood-brothers-2.json) |
 | Blood Bullets & Ballet | 135075 | [135075-blood-bullets-and-ballet.json](./135075-blood-bullets-and-ballet.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
+| Blood City | 108386 | [108386-blood-city.json](./108386-blood-city.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
