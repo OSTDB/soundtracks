@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Fukkatsu! | 98061 | [98061-tenchi-fukkatsu.json](./98061-tenchi-fukkatsu.json) |
+| Tenchi Muyo! Game-hen | 84452 | [84452-tenchi-muyo-game-hen.json](./84452-tenchi-muyo-game-hen.json) |
 | Tenchi Muyo! Rensa Hitsuyou | 69329 | [69329-tenchi-muyo-rensa-hitsuyou.json](./69329-tenchi-muyo-rensa-hitsuyou.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
@@ -3121,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures in Carnal Hell | 293201 | [293201-the-adventures-in-carnal-hell.json](./293201-the-adventures-in-carnal-hell.json) |
 | The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
 | The Adventures of a Legend - Beyond Survival | 27702 | [27702-the-adventures-of-a-legend-beyond-survival.json](./27702-the-adventures-of-a-legend-beyond-survival.json) |
+| The Adventures of Alice who Went Through the Looking-Glass and Came Back Though Not Much Changed | 84467 | [84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json](./84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
@@ -3538,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
+| The Batman | 84447 | [84447-the-batman.json](./84447-the-batman.json) |
 | The Batman: Multiply, Divide and Conquer | 230421 | [230421-the-batman-multiply-divide-and-conquer.json](./230421-the-batman-multiply-divide-and-conquer.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
@@ -7540,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
 | The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
+| The Mahjong | 84459 | [84459-the-mahjong.json](./84459-the-mahjong.json) |
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
@@ -10724,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
+| The World Begins With You | 84474 | [84474-the-world-begins-with-you.json](./84474-the-world-begins-with-you.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
 | The World Ends in Ohio | 333146 | [333146-the-world-ends-in-ohio.json](./333146-the-world-ends-in-ohio.json) |
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
@@ -12823,6 +12828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
+| Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
@@ -13836,6 +13842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
 | Tokyo Necro | 60484 | [60484-tokyo-necro.json](./60484-tokyo-necro.json) |
+| Tokyo Ogre Gate | 84488 | [84488-tokyo-ogre-gate.json](./84488-tokyo-ogre-gate.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
@@ -16769,6 +16776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Epuru | 309012 | [309012-travel-epuru.json](./309012-travel-epuru.json) |
+| Travel Games for Dummies | 84458 | [84458-travel-games-for-dummies.json](./84458-travel-games-for-dummies.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
 | Travel Mosaics 11: Christmas Sleigh Ride | 284459 | [284459-travel-mosaics-11-christmas-sleigh-ride.json](./284459-travel-mosaics-11-christmas-sleigh-ride.json) |
@@ -17657,6 +17665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
+| True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
 | True Tree | 357414 | [357414-true-tree.json](./357414-true-tree.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
