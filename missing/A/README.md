@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Vic in the Wall | 83267 | [83267-another-vic-in-the-wall.json](./83267-another-vic-in-the-wall.json) |
+| Another War | 68992 | [68992-another-war.json](./68992-another-war.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Another Way | 202239 | [202239-another-way.json](./202239-another-way.json) |
 | Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
@@ -7695,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
 | ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
+| Artelius | 68893 | [68893-artelius.json](./68893-artelius.json) |
 | Artemis | 185542 | [185542-artemis.json](./185542-artemis.json) |
 | Artemis Blue | 321543 | [321543-artemis-blue.json](./321543-artemis-blue.json) |
 | Artemis Cosmos | 254019 | [254019-artemis-cosmos.json](./254019-artemis-cosmos.json) |
@@ -7717,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
+| Arthur's Quest: Battle for the Kingdom | 68902 | [68902-arthurs-quest-battle-for-the-kingdom.json](./68902-arthurs-quest-battle-for-the-kingdom.json) |
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
