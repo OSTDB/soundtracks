@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
 | Kaepernick Football | 234007 | [234007-kaepernick-football.json](./234007-kaepernick-football.json) |
+| Kaerazu no Mori | 98523 | [98523-kaerazu-no-mori.json](./98523-kaerazu-no-mori.json) |
 | Kaerimichi | 308892 | [308892-kaerimichi.json](./308892-kaerimichi.json) |
 | Kaeru Batake DE Tsukamaete | 218510 | [218510-kaeru-batake-de-tsukamaete.json](./218510-kaeru-batake-de-tsukamaete.json) |
 | Kaeru Batake DE Tsukamaete Portable | 218505 | [218505-kaeru-batake-de-tsukamaete-portable.json](./218505-kaeru-batake-de-tsukamaete-portable.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
 | Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
 | Kamihi yori: Tokiori-hen | 288827 | [288827-kamihi-yori-tokiori-hen.json](./288827-kamihi-yori-tokiori-hen.json) |
+| Kamihime Project R | 98529 | [98529-kamihime-project-r.json](./98529-kamihime-project-r.json) |
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
 | Kamikakushi | 133395 | [133395-kamikakushi.json](./133395-kamikakushi.json) |
 | Kamikaze | 328057 | [328057-kamikaze.json](./328057-kamikaze.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
 | Kyoutabi | 236776 | [236776-kyoutabi.json](./236776-kyoutabi.json) |
+| Kyoutei Wars Makuru 6 | 98530 | [98530-kyoutei-wars-makuru-6.json](./98530-kyoutei-wars-makuru-6.json) |
 | Kyoutou Kotoba RPG: Kotodaman | 208239 | [208239-kyoutou-kotoba-rpg-kotodaman.json](./208239-kyoutou-kotoba-rpg-kotodaman.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
 | Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
