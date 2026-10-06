@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape again | 120721 | [120721-escape-again.json](./120721-escape-again.json) |
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
+| Escape Asylum | 96936 | [96936-escape-asylum.json](./96936-escape-asylum.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eva Reynes | 116841 | [116841-eva-reynes.json](./116841-eva-reynes.json) |
 | Eva Reynes: Redemption | 185407 | [185407-eva-reynes-redemption.json](./185407-eva-reynes-redemption.json) |
 | Eva: Final Mission | 220548 | [220548-eva-final-mission.json](./220548-eva-final-mission.json) |
+| Evac | 96923 | [96923-evac.json](./96923-evac.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
@@ -4206,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
+| Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
