@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports College Football 27 | 400601 | [400601-ea-sports-college-football-27.json](./400601-ea-sports-college-football-27.json) |
 | EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
+| EA Sports Fantasy Football Live Score Tracker | 90929 | [90929-ea-sports-fantasy-football-live-score-tracker.json](./90929-ea-sports-fantasy-football-live-score-tracker.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 25: Ultimate Edition | 309043 | [309043-ea-sports-fc-25-ultimate-edition.json](./309043-ea-sports-fc-25-ultimate-edition.json) |
 | EA Sports FC 26: Icons Edition | 397889 | [397889-ea-sports-fc-26-icons-edition.json](./397889-ea-sports-fc-26-icons-edition.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Survival | 272268 | [272268-edge-of-survival.json](./272268-edge-of-survival.json) |
 | Edge of the Abyss Awaken | 152895 | [152895-edge-of-the-abyss-awaken.json](./152895-edge-of-the-abyss-awaken.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
+| Edge Out : Escape Game | 90891 | [90891-edge-out-escape-game.json](./90891-edge-out-escape-game.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
@@ -3183,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
+| Eternal City | 90889 | [90889-eternal-city.json](./90889-eternal-city.json) |
 | Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
@@ -3461,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
+| European War 2 | 90887 | [90887-european-war-2.json](./90887-european-war-2.json) |
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
