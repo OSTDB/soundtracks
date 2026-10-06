@@ -3406,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
+| Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
