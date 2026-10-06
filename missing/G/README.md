@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
 | Germline | 258601 | [258601-germline.json](./258601-germline.json) |
+| GermNation | 94941 | [94941-germnation.json](./94941-germnation.json) |
 | Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
 | Gero-Gero | 295844 | [295844-gero-gero.json](./295844-gero-gero.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria in Somnium | 308426 | [308426-gloria-in-somnium.json](./308426-gloria-in-somnium.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
 | Gloria Union: Twin Fates in Blue Ocean | 66057 | [66057-gloria-union-twin-fates-in-blue-ocean.json](./66057-gloria-union-twin-fates-in-blue-ocean.json) |
+| Gloria: Kindan no Ketsuzoku | 94940 | [94940-gloria-kindan-no-ketsuzoku.json](./94940-gloria-kindan-no-ketsuzoku.json) |
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
 | Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
@@ -5453,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
 | Guessr.tv | 268667 | [268667-guessr-tv.json](./268667-guessr-tv.json) |
+| GuessWhat | 94931 | [94931-guesswhat.json](./94931-guesswhat.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
