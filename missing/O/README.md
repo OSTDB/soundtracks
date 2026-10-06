@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
 | On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
+| On the Alert | 117588 | [117588-on-the-alert.json](./117588-on-the-alert.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On the Fly | 100560 | [100560-on-the-fly.json](./100560-on-the-fly.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
