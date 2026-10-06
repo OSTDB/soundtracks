@@ -8558,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
 | Snowman Saves Christmas | 169853 | [169853-snowman-saves-christmas.json](./169853-snowman-saves-christmas.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
+| Snowmania | 81708 | [81708-snowmania.json](./81708-snowmania.json) |
 | Snowmen | 244306 | [244306-snowmen.json](./244306-snowmen.json) |
 | Snowmobile Championship 2000 | 70325 | [70325-snowmobile-championship-2000.json](./70325-snowmobile-championship-2000.json) |
 | Snowmobile Racing | 208902 | [208902-snowmobile-racing.json](./208902-snowmobile-racing.json) |
@@ -10221,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Falchion | 271791 | [271791-soul-falchion.json](./271791-soul-falchion.json) |
 | Soul Fantasy | 191079 | [191079-soul-fantasy.json](./191079-soul-fantasy.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
+| Soul for two | 81637 | [81637-soul-for-two.json](./81637-soul-for-two.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
 | Soul Gather | 372012 | [372012-soul-gather.json](./372012-soul-gather.json) |
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
@@ -13375,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
+| Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
 | Star Singularity | 104857 | [104857-star-singularity.json](./104857-star-singularity.json) |
@@ -14732,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
+| Stick Adventures: Wizard Madness - Chapter 1 | 81644 | [81644-stick-adventures-wizard-madness-chapter-1.json](./81644-stick-adventures-wizard-madness-chapter-1.json) |
 | Stick and Stack | 344541 | [344541-stick-and-stack.json](./344541-stick-and-stack.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick Battle: Warriors Fight | 208950 | [208950-stick-battle-warriors-fight.json](./208950-stick-battle-warriors-fight.json) |
@@ -14802,6 +14806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
+| Stickman Destruction 2 | 81677 | [81677-stickman-destruction-2.json](./81677-stickman-destruction-2.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
@@ -14812,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman in the portal | 108401 | [108401-stickman-in-the-portal.json](./108401-stickman-in-the-portal.json) |
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
+| Stickman Jetpack | 81701 | [81701-stickman-jetpack.json](./81701-stickman-jetpack.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
@@ -15316,6 +15322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
+| Stratený v Európe | 81661 | [81661-strateny-v-europe.json](./81661-strateny-v-europe.json) |
 | Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
@@ -19837,6 +19844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
 | SYNC: Since You Never Came | 301950 | [301950-sync-since-you-never-came.json](./301950-sync-since-you-never-came.json) |
 | Synced | 121751 | [121751-synced.json](./121751-synced.json) |
+| Synced Warriors | 81700 | [81700-synced-warriors.json](./81700-synced-warriors.json) |
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
 | Synced: Winterfest Pack | 289461 | [289461-synced-winterfest-pack.json](./289461-synced-winterfest-pack.json) |
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
