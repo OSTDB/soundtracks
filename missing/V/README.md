@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
 | VR World of Pandas | 224651 | [224651-vr-world-of-pandas.json](./224651-vr-world-of-pandas.json) |
+| VR_PlayRoom : Episode1(Escape Room - Horror) | 83805 | [83805-vr-playroom-episode1-escape-room-horror.json](./83805-vr-playroom-episode1-escape-room-horror.json) |
 | VR-Xterminator | 32992 | [32992-vr-xterminator.json](./32992-vr-xterminator.json) |
 | VR: Killing Town | 94767 | [94767-vr-killing-town.json](./94767-vr-killing-town.json) |
 | VR: The Puzzle Room | 29909 | [29909-vr-the-puzzle-room.json](./29909-vr-the-puzzle-room.json) |
