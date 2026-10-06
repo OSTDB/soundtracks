@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Grand Prix Challenge | 48290 | [48290-ferrari-grand-prix-challenge.json](./48290-ferrari-grand-prix-challenge.json) |
 | Ferrari GT: Evolution | 66696 | [66696-ferrari-gt-evolution.json](./66696-ferrari-gt-evolution.json) |
 | Ferrari Racing | 218421 | [218421-ferrari-racing.json](./218421-ferrari-racing.json) |
+| Ferrari Virtual Academy | 63100 | [63100-ferrari-virtual-academy.json](./63100-ferrari-virtual-academy.json) |
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
+| Firefly Online | 63131 | [63131-firefly-online.json](./63131-firefly-online.json) |
 | Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
@@ -6847,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Baseball Pro '96 Season | 81468 | [81468-front-page-sports-baseball-pro-96-season.json](./81468-front-page-sports-baseball-pro-96-season.json) |
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
 | Front Page Sports: Golf | 71046 | [71046-front-page-sports-golf.json](./71046-front-page-sports-golf.json) |
+| Front Page Sports: Ski Racing | 63115 | [63115-front-page-sports-ski-racing.json](./63115-front-page-sports-ski-racing.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
@@ -7057,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
+| Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
 | Fruits | 314413 | [314413-fruits.json](./314413-fruits.json) |
