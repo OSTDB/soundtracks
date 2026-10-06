@@ -9003,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Hero | 26831 | [26831-audio-hero.json](./26831-audio-hero.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
+| AudioBat | 102256 | [102256-audiobat.json](./102256-audiobat.json) |
 | Audioclash: Battle of the Bands | 211083 | [211083-audioclash-battle-of-the-bands.json](./211083-audioclash-battle-of-the-bands.json) |
 | Audioglide | 334343 | [334343-audioglide.json](./334343-audioglide.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
