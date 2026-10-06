@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
+| Defender Chronicles: Legend of the Desert King | 65856 | [65856-defender-chronicles-legend-of-the-desert-king.json](./65856-defender-chronicles-legend-of-the-desert-king.json) |
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
 | Defender II | 281044 | [281044-defender-ii.json](./281044-defender-ii.json) |
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
@@ -6738,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall Asleep | 149192 | [149192-dont-fall-asleep.json](./149192-dont-fall-asleep.json) |
 | Don't Fall: Aleph | 209919 | [209919-dont-fall-aleph.json](./209919-dont-fall-aleph.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
+| Don't Feed | 65794 | [65794-dont-feed.json](./65794-dont-feed.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Feed the Cat | 373144 | [373144-dont-feed-the-cat.json](./373144-dont-feed-the-cat.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
@@ -8481,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
+| Dramatic Dungeon: Sakura Taisen - Kimi Arugatame | 65843 | [65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json](./65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
@@ -8515,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Nine | 135613 | [135613-draw-nine.json](./135613-draw-nine.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
+| Draw Race 2: Racing Evolved | 65859 | [65859-draw-race-2-racing-evolved.json](./65859-draw-race-2-racing-evolved.json) |
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
 | Draw Rider 2 Plus | 197236 | [197236-draw-rider-2-plus.json](./197236-draw-rider-2-plus.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
@@ -9373,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Twilight Force - 'Twilight Force' | 296422 | [296422-drums-rock-twilight-force-twilight-force.json](./296422-drums-rock-twilight-force-twilight-force.json) |
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
+| DrumSim | 65814 | [65814-drumsim.json](./65814-drumsim.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
 | Drunk | 184963 | [184963-drunk.json](./184963-drunk.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
