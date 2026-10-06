@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
+| Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
@@ -5946,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House | 342712 | [342712-house.json](./342712-house.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
+| House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
@@ -6935,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
 | Hyperdrive | 309051 | [309051-hyperdrive.json](./309051-hyperdrive.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
+| Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
 | HyperFatal | 303553 | [303553-hyperfatal.json](./303553-hyperfatal.json) |
 | HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
