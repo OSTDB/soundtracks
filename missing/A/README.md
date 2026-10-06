@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Memory: Dinosaurs | 81934 | [81934-animals-memory-dinosaurs.json](./81934-animals-memory-dinosaurs.json) |
 | Animals Memory: Monkeys | 364050 | [364050-animals-memory-monkeys.json](./364050-animals-memory-monkeys.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
+| Animals Puzzles for toddler: Learning kids games | 93816 | [93816-animals-puzzles-for-toddler-learning-kids-games.json](./93816-animals-puzzles-for-toddler-learning-kids-games.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Moto Racing 3D | 78741 | [78741-aqua-moto-racing-3d.json](./78741-aqua-moto-racing-3d.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
+| Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Racer | 293247 | [293247-aqua-racer.json](./293247-aqua-racer.json) |
 | Aqua Rush | 66736 | [66736-aqua-rush.json](./66736-aqua-rush.json) |
