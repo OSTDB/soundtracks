@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Tenshi | 364030 | [364030-yume-tenshi.json](./364030-yume-tenshi.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
+| Yume wo Kanaeru Zou | 64198 | [64198-yume-wo-kanaeru-zou.json](./64198-yume-wo-kanaeru-zou.json) |
 | Yume wo Mita | 210533 | [210533-yume-wo-mita.json](./210533-yume-wo-mita.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
 | Yume-Iroiro | 166153 | [166153-yume-iroiro.json](./166153-yume-iroiro.json) |
