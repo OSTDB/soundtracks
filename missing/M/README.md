@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Kuru Jidai: AV Gal Seifukuhen | 254452 | [254452-mahjong-kuru-jidai-av-gal-seifukuhen.json](./254452-mahjong-kuru-jidai-av-gal-seifukuhen.json) |
+| Mahjong Kyo Retsuden | 75450 | [75450-mahjong-kyo-retsuden.json](./75450-mahjong-kyo-retsuden.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Lonely Island: Majong Star Tower Deluxe | 232387 | [232387-mahjong-lonely-island-majong-star-tower-deluxe.json](./232387-mahjong-lonely-island-majong-star-tower-deluxe.json) |
 | Mahjong Magic Islands | 74386 | [74386-mahjong-magic-islands.json](./74386-mahjong-magic-islands.json) |
@@ -2990,6 +2991,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Skills | 193862 | [193862-master-of-skills.json](./193862-master-of-skills.json) |
 | Master of Squad | 223382 | [223382-master-of-squad.json](./223382-master-of-squad.json) |
 | Master of Survival Bundle | 213333 | [213333-master-of-survival-bundle.json](./213333-master-of-survival-bundle.json) |
+| Master of Syougi | 75451 | [75451-master-of-syougi.json](./75451-master-of-syougi.json) |
+| Master of Syougi Color | 75452 | [75452-master-of-syougi-color.json](./75452-master-of-syougi-color.json) |
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Grid | 122923 | [122923-master-of-the-grid.json](./122923-master-of-the-grid.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
@@ -4809,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
+| Memories | 75428 | [75428-memories.json](./75428-memories.json) |
 | Memories Fade | 170348 | [170348-memories-fade.json](./170348-memories-fade.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
@@ -8182,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molewack | 294815 | [294815-molewack.json](./294815-molewack.json) |
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
+| MoleZ | 75411 | [75411-molez.json](./75411-molez.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
 | Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
@@ -11625,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Virtual Tutor: Reading Kindergarten to First Grade | 67665 | [67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json](./67665-my-virtual-tutor-reading-kindergarten-to-first-grade.json) |
 | My Virtual Tutor: Reading Pre-K to Kindergarten | 67664 | [67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json](./67664-my-virtual-tutor-reading-pre-k-to-kindergarten.json) |
 | My Waifu Is A Tank Girl! | 391043 | [391043-my-waifu-is-a-tank-girl.json](./391043-my-waifu-is-a-tank-girl.json) |
+| My Way VR | 75406 | [75406-my-way-vr.json](./75406-my-way-vr.json) |
 | My Wedding and 7 Rings | 238423 | [238423-my-wedding-and-7-rings.json](./238423-my-wedding-and-7-rings.json) |
 | My Wet Leto Comic | 129118 | [129118-my-wet-leto-comic.json](./129118-my-wet-leto-comic.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
