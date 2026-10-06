@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
+| Onager! | 59235 | [59235-onager.json](./59235-onager.json) |
 | OnAir Airline Manager | 327816 | [327816-onair-airline-manager.json](./327816-onair-airline-manager.json) |
 | Onaji | 174335 | [174335-onaji.json](./174335-onaji.json) |
 | Onamae Battle | 331886 | [331886-onamae-battle.json](./331886-onamae-battle.json) |
