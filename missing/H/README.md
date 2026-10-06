@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hotel | 322132 | [322132-happy-hotel.json](./322132-happy-hotel.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
+| Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
 | Happy Marriage Project: Starting from 9 Years Old | 151095 | [151095-happy-marriage-project-starting-from-9-years-old.json](./151095-happy-marriage-project-starting-from-9-years-old.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Shape Blast | 241343 | [241343-happy-shape-blast.json](./241343-happy-shape-blast.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
+| Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
@@ -5379,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppy Woods | 184424 | [184424-hoppy-woods.json](./184424-hoppy-woods.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
+| Hopscotch: Are You Ready for Hardcore? | 112903 | [112903-hopscotch-are-you-ready-for-hardcore.json](./112903-hopscotch-are-you-ready-for-hardcore.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | HopSquash! | 115806 | [115806-hopsquash.json](./115806-hopsquash.json) |
 | Hoptale | 369762 | [369762-hoptale.json](./369762-hoptale.json) |
