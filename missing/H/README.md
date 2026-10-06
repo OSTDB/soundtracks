@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
+| Harakuju Tantei Gakuen: Steel Wood | 58054 | [58054-harakuju-tantei-gakuen-steel-wood.json](./58054-harakuju-tantei-gakuen-steel-wood.json) |
 | Harald | 72347 | [72347-harald.json](./72347-harald.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
@@ -1164,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
+| Harobots Action!! | 58061 | [58061-harobots-action.json](./58061-harobots-action.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
