@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
+| Peach Blood | 112239 | [112239-peach-blood.json](./112239-peach-blood.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Hills Division | 297179 | [297179-peach-hills-division.json](./297179-peach-hills-division.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
@@ -5654,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poe | 227889 | [227889-poe.json](./227889-poe.json) |
 | Poe | 293362 | [293362-poe.json](./293362-poe.json) |
 | Poem Ex Machina | 333106 | [333106-poem-ex-machina.json](./333106-poem-ex-machina.json) |
+| Poem, Poem! | 112220 | [112220-poem-poem.json](./112220-poem-poem.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
 | Poena | 202237 | [202237-poena.json](./202237-poena.json) |
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
@@ -9455,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
 | Purrfect Pet Shop | 209376 | [209376-purrfect-pet-shop.json](./209376-purrfect-pet-shop.json) |
 | Purrfect Rescue | 279259 | [279259-purrfect-rescue.json](./279259-purrfect-rescue.json) |
+| Purrfect Spirits | 112249 | [112249-purrfect-spirits.json](./112249-purrfect-spirits.json) |
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
