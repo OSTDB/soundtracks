@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat-L-Blocks | 92616 | [92616-bat-l-blocks.json](./92616-bat-l-blocks.json) |
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
 | Batalia | 145247 | [145247-batalia.json](./145247-batalia.json) |
+| Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
 | Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
@@ -3331,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belloncho Body Inspection | 264657 | [264657-belloncho-body-inspection.json](./264657-belloncho-body-inspection.json) |
 | Bells & Whistles | 39878 | [39878-bells-and-whistles.json](./39878-bells-and-whistles.json) |
 | Bellular Hexatosis | 181793 | [181793-bellular-hexatosis.json](./181793-bellular-hexatosis.json) |
+| Bellum: Stellae | 112242 | [112242-bellum-stellae.json](./112242-bellum-stellae.json) |
 | Bellum.io | 57347 | [57347-bellum-io.json](./57347-bellum-io.json) |
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
 | Bellumentum | 310098 | [310098-bellumentum.json](./310098-bellumentum.json) |
@@ -4344,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio-Ship Paladin | 39877 | [39877-bio-ship-paladin.json](./39877-bio-ship-paladin.json) |
 | Bio-Submariner DX | 404980 | [404980-bio-submariner-dx.json](./404980-bio-submariner-dx.json) |
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
+| BioBeasts | 112226 | [112226-biobeasts.json](./112226-biobeasts.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
