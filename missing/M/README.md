@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
+| Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
@@ -11982,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
+| myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
 | MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
