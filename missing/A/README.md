@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
+| Abronium Party | 79570 | [79570-abronium-party.json](./79570-abronium-party.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
