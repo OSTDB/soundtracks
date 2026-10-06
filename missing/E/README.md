@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat, Sleep, Bet, Repeat | 68167 | [68167-eat-sleep-bet-repeat.json](./68167-eat-sleep-bet-repeat.json) |
 | Eat, Sleep, Repeat | 179008 | [179008-eat-sleep-repeat.json](./179008-eat-sleep-repeat.json) |
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
+| Eat'em All : Bite the Fruit! | 102290 | [102290-eatem-all-bite-the-fruit.json](./102290-eatem-all-bite-the-fruit.json) |
 | Eaten by Darkness | 235747 | [235747-eaten-by-darkness.json](./235747-eaten-by-darkness.json) |
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Shell: The Loop | 302365 | [302365-empty-shell-the-loop.json](./302365-empty-shell-the-loop.json) |
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
+| Empty Town | 102293 | [102293-empty-town.json](./102293-empty-town.json) |
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
@@ -2803,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
 | Escape from the Dungeon | 332009 | [332009-escape-from-the-dungeon.json](./332009-escape-from-the-dungeon.json) |
+| Escape from the escape-game | 102247 | [102247-escape-from-the-escape-game.json](./102247-escape-from-the-escape-game.json) |
 | Escape From the Grim | 129004 | [129004-escape-from-the-grim.json](./129004-escape-from-the-grim.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
@@ -3118,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence | 383502 | [383502-essence.json](./383502-essence.json) |
 | Essence Bloom | 290644 | [290644-essence-bloom.json](./290644-essence-bloom.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
+| Essence Defenders | 102288 | [102288-essence-defenders.json](./102288-essence-defenders.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Illumination: The Beginning | 89672 | [89672-essence-of-illumination-the-beginning.json](./89672-essence-of-illumination-the-beginning.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
