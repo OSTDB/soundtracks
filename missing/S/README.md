@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen | 132067 | [132067-sakura-taisen.json](./132067-sakura-taisen.json) |
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
+| Sakura Taisen 3: Paris ha Moeteiru ka? | 80143 | [80143-sakura-taisen-3-paris-ha-moeteiru-ka.json](./80143-sakura-taisen-3-paris-ha-moeteiru-ka.json) |
 | Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
 | Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
 | Sakura Taisen Online: Paris no Yuuga na Hibi | 221783 | [221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json](./221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json) |
@@ -650,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salve a Fantasia | 387619 | [387619-salve-a-fantasia.json](./387619-salve-a-fantasia.json) |
 | Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
+| Salzburg no Majo: The Witch of Salzburg | 80148 | [80148-salzburg-no-majo-the-witch-of-salzburg.json](./80148-salzburg-no-majo-the-witch-of-salzburg.json) |
 | Sam & MaRU | 158079 | [158079-sam-and-maru.json](./158079-sam-and-maru.json) |
 | Sam & Max Plunge Through Space | 131364 | [131364-sam-and-max-plunge-through-space.json](./131364-sam-and-max-plunge-through-space.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
@@ -3989,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaky Grounds: Epicenter | 270654 | [270654-shaky-grounds-epicenter.json](./270654-shaky-grounds-epicenter.json) |
 | Shaky Grounds: Tragedy | 270653 | [270653-shaky-grounds-tragedy.json](./270653-shaky-grounds-tragedy.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
+| Shaky Summit | 80179 | [80179-shaky-summit.json](./80179-shaky-summit.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
 | Shall we date? Sengoku Darling: Choose your Destination | 219134 | [219134-shall-we-date-sengoku-darling-choose-your-destination.json](./219134-shall-we-date-sengoku-darling-choose-your-destination.json) |
@@ -5482,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
+| Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
 | Sid Classic | 158145 | [158145-sid-classic.json](./158145-sid-classic.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
 | Sid Meier's Antietam! | 864 | [864-sid-meiers-antietam.json](./864-sid-meiers-antietam.json) |
@@ -6688,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
+| Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
@@ -9052,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
+| Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
@@ -11511,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
+| Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
@@ -12452,6 +12459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
+| Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
 | Spore: Creepy and Cute | 70680 | [70680-spore-creepy-and-cute.json](./70680-spore-creepy-and-cute.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
@@ -18129,6 +18137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
+| Super Robot Wars OG: The Moon Dwellers | 80139 | [80139-super-robot-wars-og-the-moon-dwellers.json](./80139-super-robot-wars-og-the-moon-dwellers.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars Y: Deluxe Edition | 356809 | [356809-super-robot-wars-y-deluxe-edition.json](./356809-super-robot-wars-y-deluxe-edition.json) |
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
