@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
+| Zockbox | 91610 | [91610-zockbox.json](./91610-zockbox.json) |
 | Zoda's Revenge: StarTropics II | 48062 | [48062-zodas-revenge-startropics-ii.json](./48062-zodas-revenge-startropics-ii.json) |
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
