@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon III | 130798 | [130798-harpoon-iii.json](./130798-harpoon-iii.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
+| Harpooned | 94936 | [94936-harpooned.json](./94936-harpooned.json) |
 | Harpooneer | 400323 | [400323-harpooneer.json](./400323-harpooneer.json) |
 | Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
