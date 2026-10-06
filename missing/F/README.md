@@ -1127,6 +1127,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics | 57350 | [57350-fantasy-mosaics.json](./57350-fantasy-mosaics.json) |
 | Fantasy Mosaics 13: Unexpected Visitor | 95579 | [95579-fantasy-mosaics-13-unexpected-visitor.json](./95579-fantasy-mosaics-13-unexpected-visitor.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
+| Fantasy Mosaics 21: On the Movie Set | 86398 | [86398-fantasy-mosaics-21-on-the-movie-set.json](./86398-fantasy-mosaics-21-on-the-movie-set.json) |
+| Fantasy Mosaics 22: Summer Vacation | 86399 | [86399-fantasy-mosaics-22-summer-vacation.json](./86399-fantasy-mosaics-22-summer-vacation.json) |
+| Fantasy Mosaics 23: Magic Forest | 86400 | [86400-fantasy-mosaics-23-magic-forest.json](./86400-fantasy-mosaics-23-magic-forest.json) |
+| Fantasy Mosaics 24: Deserted Island | 86401 | [86401-fantasy-mosaics-24-deserted-island.json](./86401-fantasy-mosaics-24-deserted-island.json) |
+| Fantasy Mosaics 25: Wedding Ceremony | 86402 | [86402-fantasy-mosaics-25-wedding-ceremony.json](./86402-fantasy-mosaics-25-wedding-ceremony.json) |
+| Fantasy Mosaics 26: Fairytale Garden | 86406 | [86406-fantasy-mosaics-26-fairytale-garden.json](./86406-fantasy-mosaics-26-fairytale-garden.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
 | Fantasy Mosaics 35: Day at the Museum | 188525 | [188525-fantasy-mosaics-35-day-at-the-museum.json](./188525-fantasy-mosaics-35-day-at-the-museum.json) |
@@ -3605,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
 | Fishing Simulator 2025 | 345120 | [345120-fishing-simulator-2025.json](./345120-fishing-simulator-2025.json) |
 | Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
+| Fishing Star | 86356 | [86356-fishing-star.json](./86356-fishing-star.json) |
 | Fishing Stories | 244219 | [244219-fishing-stories.json](./244219-fishing-stories.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing Superstars 2 | 109548 | [109548-fishing-superstars-2.json](./109548-fishing-superstars-2.json) |
@@ -3734,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
 | Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
+| Five Keys to Exit | 86433 | [86433-five-keys-to-exit.json](./86433-five-keys-to-exit.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
