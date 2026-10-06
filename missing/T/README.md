@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Simulator in City | 263702 | [263702-taxi-simulator-in-city.json](./263702-taxi-simulator-in-city.json) |
 | Taxi Xtreme Urban Racer | 320368 | [320368-taxi-xtreme-urban-racer.json](./320368-taxi-xtreme-urban-racer.json) |
 | Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
+| Taxi3: Extreme Rush | 94928 | [94928-taxi3-extreme-rush.json](./94928-taxi3-extreme-rush.json) |
 | Taxidermy | 127828 | [127828-taxidermy.json](./127828-taxidermy.json) |
 | TaxingTiles | 277937 | [277937-taxingtiles.json](./277937-taxingtiles.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
@@ -9812,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
 | The Three Stooges | 8670 | [8670-the-three-stooges.json](./8670-the-three-stooges.json) |
+| The Three Stooges: Digitally Remastered Edition | 94927 | [94927-the-three-stooges-digitally-remastered-edition.json](./94927-the-three-stooges-digitally-remastered-edition.json) |
 | The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
 | The Three Vegan Entrepreneurs | 376142 | [376142-the-three-vegan-entrepreneurs.json](./376142-the-three-vegan-entrepreneurs.json) |
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
@@ -12866,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ramesside (A New Reckoning) | 36351 | [36351-time-ramesside-a-new-reckoning.json](./36351-time-ramesside-a-new-reckoning.json) |
 | Time Re:Quest | 329083 | [329083-time-re-quest.json](./329083-time-re-quest.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
+| Time Runner | 94955 | [94955-time-runner.json](./94955-time-runner.json) |
 | Time Sail Entanglement | 392377 | [392377-time-sail-entanglement.json](./392377-time-sail-entanglement.json) |
 | Time Scanner | 12865 | [12865-time-scanner.json](./12865-time-scanner.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
@@ -17994,6 +17997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tunnel | 102348 | [102348-turbo-tunnel.json](./102348-turbo-tunnel.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
 | Turbo-Trex By Orazio Cacciola | 267562 | [267562-turbo-trex-by-orazio-cacciola.json](./267562-turbo-trex-by-orazio-cacciola.json) |
+| Turboat | 94942 | [94942-turboat.json](./94942-turboat.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
