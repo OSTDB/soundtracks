@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Digger | 359468 | [359468-web-digger.json](./359468-web-digger.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
+| Web Koihime Musou | 64169 | [64169-web-koihime-musou.json](./64169-web-koihime-musou.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Power Dolls | 228983 | [228983-web-power-dolls.json](./228983-web-power-dolls.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
 | WWE Undefeated | 140927 | [140927-wwe-undefeated.json](./140927-wwe-undefeated.json) |
+| WWE With Authority! | 64173 | [64173-wwe-with-authority.json](./64173-wwe-with-authority.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
