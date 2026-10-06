@@ -935,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
+| 2DGameManias Taken | 109652 | [109652-2dgamemanias-taken.json](./109652-2dgamemanias-taken.json) |
 | 2do Arukotoha Sand-R | 45451 | [45451-2do-arukotoha-sand-r.json](./45451-2do-arukotoha-sand-r.json) |
 | 2econds to Starlivht: Forever My Diamond | 144193 | [144193-2econds-to-starlivht-forever-my-diamond.json](./144193-2econds-to-starlivht-forever-my-diamond.json) |
 | 2econds to Starlivht: My Heart's Reflection | 144194 | [144194-2econds-to-starlivht-my-hearts-reflection.json](./144194-2econds-to-starlivht-my-hearts-reflection.json) |
