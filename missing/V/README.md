@@ -578,6 +578,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
+| VBS1 | 94962 | [94962-vbs1.json](./94962-vbs1.json) |
+| VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
@@ -920,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
+| Vertrix2 | 94943 | [94943-vertrix2.json](./94943-vertrix2.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
