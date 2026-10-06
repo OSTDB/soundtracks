@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
 | 1942 Mobile | 220562 | [220562-1942-mobile.json](./220562-1942-mobile.json) |
+| 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1942: Joint Strike | 21346 | [21346-1942-joint-strike.json](./21346-1942-joint-strike.json) |
 | 1942: Joint Strike Elefunk | 99980 | [99980-1942-joint-strike-elefunk.json](./99980-1942-joint-strike-elefunk.json) |
 | 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
