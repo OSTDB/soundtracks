@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
+| 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 on 1 Government | 39809 | [39809-1-on-1-government.json](./39809-1-on-1-government.json) |
