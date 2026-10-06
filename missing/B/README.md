@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Being Stronger While Playing! SilverStar Go DX | 135635 | [135635-being-stronger-while-playing-silverstar-go-dx.json](./135635-being-stronger-while-playing-silverstar-go-dx.json) |
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
+| Bejazzled | 94977 | [94977-bejazzled.json](./94977-bejazzled.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
 | Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
 | Bejeweled 2 | 614 | [614-bejeweled-2.json](./614-bejeweled-2.json) |
