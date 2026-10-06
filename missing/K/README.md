@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KawaiiNihongo | 225620 | [225620-kawaiinihongo.json](./225620-kawaiinihongo.json) |
 | Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
+| Kawanakajima no Kassen | 76948 | [76948-kawanakajima-no-kassen.json](./76948-kawanakajima-no-kassen.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
 | Kaxuki: Hope for Peace | 329044 | [329044-kaxuki-hope-for-peace.json](./329044-kaxuki-hope-for-peace.json) |
@@ -2440,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Guy: The Curse of the Seriously Evil, Evil Doers | 28816 | [28816-knight-guy-the-curse-of-the-seriously-evil-evil-doers.json](./28816-knight-guy-the-curse-of-the-seriously-evil-evil-doers.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
 | Knight Hero Adventure idle RPG | 248099 | [248099-knight-hero-adventure-idle-rpg.json](./248099-knight-hero-adventure-idle-rpg.json) |
+| Knight Hunter | 76908 | [76908-knight-hunter.json](./76908-knight-hunter.json) |
 | Knight in the Maze | 276235 | [276235-knight-in-the-maze.json](./276235-knight-in-the-maze.json) |
 | Knight in Time | 356114 | [356114-knight-in-time.json](./356114-knight-in-time.json) |
 | Knight Island | 295898 | [295898-knight-island.json](./295898-knight-island.json) |
