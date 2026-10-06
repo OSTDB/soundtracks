@@ -6241,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
 | Mighty Heroes | 125995 | [125995-mighty-heroes.json](./125995-mighty-heroes.json) |
+| Mighty Hits Special | 80172 | [80172-mighty-hits-special.json](./80172-mighty-hits-special.json) |
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
 | Mighty Kingdom | 360638 | [360638-mighty-kingdom.json](./360638-mighty-kingdom.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
@@ -6480,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
+| Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
 | Mimesis Online | 23453 | [23453-mimesis-online.json](./23453-mimesis-online.json) |
 | Mimetic Love | 215595 | [215595-mimetic-love.json](./215595-mimetic-love.json) |
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
@@ -7680,6 +7682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
 | Mixed Feelings 2: Elysium | 266913 | [266913-mixed-feelings-2-elysium.json](./266913-mixed-feelings-2-elysium.json) |
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
+| Mixed Messages | 80175 | [80175-mixed-messages.json](./80175-mixed-messages.json) |
 | Mixed Spirits | 366957 | [366957-mixed-spirits.json](./366957-mixed-spirits.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | Mixee Labs | 120221 | [120221-mixee-labs.json](./120221-mixee-labs.json) |
