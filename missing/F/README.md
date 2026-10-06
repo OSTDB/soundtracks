@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Ball 2018 | 103160 | [103160-falling-ball-2018.json](./103160-falling-ball-2018.json) |
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
+| Falling Ball Space | 106488 | [106488-falling-ball-space.json](./106488-falling-ball-space.json) |
 | Falling Ballz | 214404 | [214404-falling-ballz.json](./214404-falling-ballz.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
@@ -1650,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
+| Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
 | Fatal Abyss | 78676 | [78676-fatal-abyss.json](./78676-fatal-abyss.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
@@ -4574,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Games: Couch Party Pack | 311049 | [311049-flux-games-couch-party-pack.json](./311049-flux-games-couch-party-pack.json) |
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
+| Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
 | Fly Caster VR | 265347 | [265347-fly-caster-vr.json](./265347-fly-caster-vr.json) |
@@ -5230,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
+| Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
@@ -5481,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
 | Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
+| Fort | 106499 | [106499-fort.json](./106499-fort.json) |
 | Fort | 120142 | [120142-fort.json](./120142-fort.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
