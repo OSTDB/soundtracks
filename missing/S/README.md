@@ -5752,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
+| Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
@@ -7420,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendrina: The Forest | 102235 | [102235-slendrina-the-forest.json](./102235-slendrina-the-forest.json) |
 | Slendrina's Freakish Friends and Family Night | 282801 | [282801-slendrinas-freakish-friends-and-family-night.json](./282801-slendrinas-freakish-friends-and-family-night.json) |
+| Slendy! | 61992 | [61992-slendy.json](./61992-slendy.json) |
 | Slendyjan | 393760 | [393760-slendyjan.json](./393760-slendyjan.json) |
 | Slendytubbies II | 214423 | [214423-slendytubbies-ii.json](./214423-slendytubbies-ii.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
@@ -10409,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Wars | 112228 | [112228-soul-wars.json](./112228-soul-wars.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
+| Soul-Arena | 61985 | [61985-soul-arena.json](./61985-soul-arena.json) |
 | Soul-Ivy: C0 | 110517 | [110517-soul-ivy-c0.json](./110517-soul-ivy-c0.json) |
 | Soul's Remnant | 278614 | [278614-souls-remnant.json](./278614-souls-remnant.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
