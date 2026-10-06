@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
+| Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
 | Impossible Date: Tricky Riddle | 208924 | [208924-impossible-date-tricky-riddle.json](./208924-impossible-date-tricky-riddle.json) |
