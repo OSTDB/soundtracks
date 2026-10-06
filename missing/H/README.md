@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
 | Hands of the Sovereign | 372062 | [372062-hands-of-the-sovereign.json](./372062-hands-of-the-sovereign.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
+| Hands On! Pattern Blocks | 92156 | [92156-hands-on-pattern-blocks.json](./92156-hands-on-pattern-blocks.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
 | Hands up | 395149 | [395149-hands-up.json](./395149-hands-up.json) |
