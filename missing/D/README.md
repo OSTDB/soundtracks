@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decision Point | 373148 | [373148-decision-point.json](./373148-decision-point.json) |
 | Decision: Red Daze | 152780 | [152780-decision-red-daze.json](./152780-decision-red-daze.json) |
+| Decisions | 114879 | [114879-decisions.json](./114879-decisions.json) |
 | Decisive Battles of the American Civil War, Volume One | 54516 | [54516-decisive-battles-of-the-american-civil-war-volume-one.json](./54516-decisive-battles-of-the-american-civil-war-volume-one.json) |
 | Decisive Battles of the American Civil War, Volume Three | 54518 | [54518-decisive-battles-of-the-american-civil-war-volume-three.json](./54518-decisive-battles-of-the-american-civil-war-volume-three.json) |
 | Decisive Battles of the American Civil War, Volume Two | 54517 | [54517-decisive-battles-of-the-american-civil-war-volume-two.json](./54517-decisive-battles-of-the-american-civil-war-volume-two.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Bubble Shooter: Reflex Challenge | 385862 | [385862-deep-sea-bubble-shooter-reflex-challenge.json](./385862-deep-sea-bubble-shooter-reflex-challenge.json) |
+| Deep Sea Endurance | 114894 | [114894-deep-sea-endurance.json](./114894-deep-sea-endurance.json) |
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
@@ -5442,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Dismal Passages | 229221 | [229221-dismal-passages.json](./229221-dismal-passages.json) |
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
+| Dismantle: Construct Carnage | 114882 | [114882-dismantle-construct-carnage.json](./114882-dismantle-construct-carnage.json) |
 | Dismantled Director's Cut | 201695 | [201695-dismantled-directors-cut.json](./201695-dismantled-directors-cut.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
 | Dismember Mind 2 | 177300 | [177300-dismember-mind-2.json](./177300-dismember-mind-2.json) |
@@ -8453,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eater | 410960 | [410960-dream-eater.json](./410960-dream-eater.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
+| Dream Enders | 114878 | [114878-dream-enders.json](./114878-dream-enders.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
 | Dream Engines: Nomad Cities | 118281 | [118281-dream-engines-nomad-cities.json](./118281-dream-engines-nomad-cities.json) |
 | Dream Enkoure | 316157 | [316157-dream-enkoure.json](./316157-dream-enkoure.json) |
