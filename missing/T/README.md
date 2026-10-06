@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Tanuki Forest | 62027 | [62027-tanuki-forest.json](./62027-tanuki-forest.json) |
 | Tanuki Justice | 139832 | [139832-tanuki-justice.json](./139832-tanuki-justice.json) |
 | Tanuki No Tabi | 307133 | [307133-tanuki-no-tabi.json](./307133-tanuki-no-tabi.json) |
 | Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
@@ -3092,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Annual Vanilla Level Design Contest: Collaboration Hack | 228392 | [228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json](./228392-the-7th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 7th Circle: Endless Nightmare | 99081 | [99081-the-7th-circle-endless-nightmare.json](./99081-the-7th-circle-endless-nightmare.json) |
 | The 7th Circle: Endless Nightmare Update | 289590 | [289590-the-7th-circle-endless-nightmare-update.json](./289590-the-7th-circle-endless-nightmare-update.json) |
+| The 7th Guest 3: The Collector | 62000 | [62000-the-7th-guest-3-the-collector.json](./62000-the-7th-guest-3-the-collector.json) |
 | The 7th Guest VR | 251565 | [251565-the-7th-guest-vr.json](./251565-the-7th-guest-vr.json) |
 | The 7th Guest: 25th Anniversary Edition | 116545 | [116545-the-7th-guest-25th-anniversary-edition.json](./116545-the-7th-guest-25th-anniversary-edition.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
@@ -3739,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
+| The Biz | 62023 | [62023-the-biz.json](./62023-the-biz.json) |
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
 | The Bizarre Creations of Keith the Magnificent | 34691 | [34691-the-bizarre-creations-of-keith-the-magnificent.json](./34691-the-bizarre-creations-of-keith-the-magnificent.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
@@ -7659,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
 | The Mark of Kri | 9120 | [9120-the-mark-of-kri.json](./9120-the-mark-of-kri.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
+| The Market Place | 62024 | [62024-the-market-place.json](./62024-the-market-place.json) |
 | The Mars Agenda | 113508 | [113508-the-mars-agenda.json](./113508-the-mars-agenda.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
@@ -9680,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Strongholds of Silberland | 183446 | [183446-the-strongholds-of-silberland.json](./183446-the-strongholds-of-silberland.json) |
+| The Struggle | 62022 | [62022-the-struggle.json](./62022-the-struggle.json) |
 | The Struggle For Russia | 66441 | [66441-the-struggle-for-russia.json](./66441-the-struggle-for-russia.json) |
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
 | The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
@@ -16864,6 +16869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
 | Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
 | Trash | 94319 | [94319-trash.json](./94319-trash.json) |
