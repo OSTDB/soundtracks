@@ -6180,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Quiz 2 | 61548 | [61548-the-impossible-quiz-2.json](./61548-the-impossible-quiz-2.json) |
 | The Impossible Quiz Book | 61549 | [61549-the-impossible-quiz-book.json](./61549-the-impossible-quiz-book.json) |
 | The Impossible Quiz! for iPad | 88394 | [88394-the-impossible-quiz-for-ipad.json](./88394-the-impossible-quiz-for-ipad.json) |
+| The Impossible Quizmas | 83180 | [83180-the-impossible-quizmas.json](./83180-the-impossible-quizmas.json) |
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
 | The Impossible Tower | 264589 | [264589-the-impossible-tower.json](./264589-the-impossible-tower.json) |
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
@@ -6739,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
+| The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
@@ -11266,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This too | 183940 | [183940-this-too.json](./183940-this-too.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
+| This Village Girl Turned Out to Be Under a Lewdification Curse! | 83189 | [83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json](./83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
@@ -12809,6 +12812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberjack | 215063 | [215063-timberjack.json](./215063-timberjack.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
+| Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
