@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
+| Oil Platform Simulator | 65265 | [65265-oil-platform-simulator.json](./65265-oil-platform-simulator.json) |
 | Oil Rush: Tower Defense Map Pack | 226120 | [226120-oil-rush-tower-defense-map-pack.json](./226120-oil-rush-tower-defense-map-pack.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Town | 342825 | [342825-oil-town.json](./342825-oil-town.json) |
