@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search | 250425 | [250425-search.json](./250425-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search & Find: Hidden Objects | 264637 | [264637-search-and-find-hidden-objects.json](./264637-search-and-find-hidden-objects.json) |
+| Search & Rescue 2 | 71735 | [71735-search-and-rescue-2.json](./71735-search-and-rescue-2.json) |
 | Search & Rescue 4: Coastal Heroes | 50114 | [50114-search-and-rescue-4-coastal-heroes.json](./50114-search-and-rescue-4-coastal-heroes.json) |
 | Search & Rescue: Vietnam Med Evac | 73994 | [73994-search-and-rescue-vietnam-med-evac.json](./73994-search-and-rescue-vietnam-med-evac.json) |
 | Search 4 Bigfoot | 213460 | [213460-search-4-bigfoot.json](./213460-search-4-bigfoot.json) |
@@ -4640,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
+| Shin Megami Tensei: Devil Children - Shiro no Sho | 71717 | [71717-shin-megami-tensei-devil-children-shiro-no-sho.json](./71717-shin-megami-tensei-devil-children-shiro-no-sho.json) |
 | Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
@@ -5298,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | SHPDMBGWL4 Sunshine | 323292 | [323292-shpdmbgwl4-sunshine.json](./323292-shpdmbgwl4-sunshine.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
+| Shrak for Quake | 71748 | [71748-shrak-for-quake.json](./71748-shrak-for-quake.json) |
 | Shrapnel | 270306 | [270306-shrapnel.json](./270306-shrapnel.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
 | Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
@@ -10657,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
+| Space Bucks | 71731 | [71731-space-bucks.json](./71731-space-bucks.json) |
 | Space Bugger | 281028 | [281028-space-bugger.json](./281028-space-bugger.json) |
 | Space Bugs | 110544 | [110544-space-bugs.json](./110544-space-bugs.json) |
 | Space Bunnies Must Die! | 51371 | [51371-space-bunnies-must-die.json](./51371-space-bunnies-must-die.json) |
@@ -14286,6 +14290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
+| States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static | 179570 | [179570-static.json](./179570-static.json) |
@@ -15391,6 +15396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
 | Strategy Challenges Collection 2 | 80846 | [80846-strategy-challenges-collection-2.json](./80846-strategy-challenges-collection-2.json) |
+| Strategy Game Pack Volume 1 | 71718 | [71718-strategy-game-pack-volume-1.json](./71718-strategy-game-pack-volume-1.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
@@ -17508,6 +17514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
+| Super Kreml Kart Super Rally | 71705 | [71705-super-kreml-kart-super-rally.json](./71705-super-kreml-kart-super-rally.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Laser: The Alien Fighter | 66190 | [66190-super-laser-the-alien-fighter.json](./66190-super-laser-the-alien-fighter.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
