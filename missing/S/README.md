@@ -3313,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Horns From Tilt | 143973 | [143973-seven-horns-from-tilt.json](./143973-seven-horns-from-tilt.json) |
+| Seven Idle Dwarf | 107094 | [107094-seven-idle-dwarf.json](./107094-seven-idle-dwarf.json) |
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
@@ -4947,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
 | Shoot Giant Robots and Wallrun | 293688 | [293688-shoot-giant-robots-and-wallrun.json](./293688-shoot-giant-robots-and-wallrun.json) |
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
+| Shoot Hit | 107103 | [107103-shoot-hit.json](./107103-shoot-hit.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
@@ -5316,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
+| Shukkou!! Container-maru | 107070 | [107070-shukkou-container-maru.json](./107070-shukkou-container-maru.json) |
 | Shukuchi Ninja | 213457 | [213457-shukuchi-ninja.json](./213457-shukuchi-ninja.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
@@ -9036,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Ultra | 55520 | [55520-solitaire-ultra.json](./55520-solitaire-ultra.json) |
 | Solitaire Unlimited Platinum | 208880 | [208880-solitaire-unlimited-platinum.json](./208880-solitaire-unlimited-platinum.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
+| Solitaire Victor | 107066 | [107066-solitaire-victor.json](./107066-solitaire-victor.json) |
 | Solitaire VR | 30081 | [30081-solitaire-vr.json](./30081-solitaire-vr.json) |
 | Solitaire World: Anime Waifus | 411822 | [411822-solitaire-world-anime-waifus.json](./411822-solitaire-world-anime-waifus.json) |
 | Solitaire XP Championship | 208875 | [208875-solitaire-xp-championship.json](./208875-solitaire-xp-championship.json) |
@@ -11294,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
 | Speard | 257322 | [257322-speard.json](./257322-speard.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
+| Spearfishing - Deep Sea Scuba | 107088 | [107088-spearfishing-deep-sea-scuba.json](./107088-spearfishing-deep-sea-scuba.json) |
 | Spearhead | 200494 | [200494-spearhead.json](./200494-spearhead.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
@@ -12094,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
 | Splashy Sharky | 97147 | [97147-splashy-sharky.json](./97147-splashy-sharky.json) |
+| Splat | 107064 | [107064-splat.json](./107064-splat.json) |
 | Splat Arena | 275829 | [275829-splat-arena.json](./275829-splat-arena.json) |
 | Splat Death Salad | 238077 | [238077-splat-death-salad.json](./238077-splat-death-salad.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
