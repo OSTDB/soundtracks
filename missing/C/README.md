@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
+| Car vs Bike Racing | 104717 | [104717-car-vs-bike-racing.json](./104717-car-vs-bike-racing.json) |
 | Car vs. Cops | 90288 | [90288-car-vs-cops.json](./90288-car-vs-cops.json) |
 | Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
@@ -6470,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book | 338878 | [338878-coloring-book.json](./338878-coloring-book.json) |
+| Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book Series: Aquarium | 283280 | [283280-coloring-book-series-aquarium.json](./283280-coloring-book-series-aquarium.json) |
@@ -6675,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
+| Combat Martial Boss Edition | 104573 | [104573-combat-martial-boss-edition.json](./104573-combat-martial-boss-edition.json) |
 | Combat Master | 248376 | [248376-combat-master.json](./248376-combat-master.json) |
 | Combat Master: Battle to Death | 344555 | [344555-combat-master-battle-to-death.json](./344555-combat-master-battle-to-death.json) |
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
