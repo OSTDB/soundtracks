@@ -1134,8 +1134,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Magic Chips | 119619 | [119619-mahjong-magic-chips.json](./119619-mahjong-magic-chips.json) |
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
+| Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
+| Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
+| Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
 | Mahjongg The Ultimate Collection 2 | 108027 | [108027-mahjongg-the-ultimate-collection-2.json](./108027-mahjongg-the-ultimate-collection-2.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
@@ -3312,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
 | Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
 | Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
+| Max im All | 91589 | [91589-max-im-all.json](./91589-max-im-all.json) |
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
 | Max Jefht: Ace Attorney | 309986 | [309986-max-jefht-ace-attorney.json](./309986-max-jefht-ace-attorney.json) |
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
@@ -5487,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
 | Metric Racer | 133427 | [133427-metric-racer.json](./133427-metric-racer.json) |
 | Metris | 91515 | [91515-metris.json](./91515-metris.json) |
+| Metris & Co | 91606 | [91606-metris-and-co.json](./91606-metris-and-co.json) |
 | Metris 4 | 91521 | [91521-metris-4.json](./91521-metris-4.json) |
 | Metris Soccer | 33295 | [33295-metris-soccer.json](./33295-metris-soccer.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
