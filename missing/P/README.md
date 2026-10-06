@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
+| P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
@@ -7522,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prank Call 2 | 77584 | [77584-prank-call-2.json](./77584-prank-call-2.json) |
 | Prank Heart | 287754 | [287754-prank-heart.json](./287754-prank-heart.json) |
 | Prank Masters | 108030 | [108030-prank-masters.json](./108030-prank-masters.json) |
+| Prank TV | 73502 | [73502-prank-tv.json](./73502-prank-tv.json) |
 | Prank Your Neighbor | 68076 | [68076-prank-your-neighbor.json](./68076-prank-your-neighbor.json) |
 | Prank'd: Prank Your Way Around the World | 209928 | [209928-prankd-prank-your-way-around-the-world.json](./209928-prankd-prank-your-way-around-the-world.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
@@ -7609,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
 | Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
+| Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
 | Premier Picks | 94407 | [94407-premier-picks.json](./94407-premier-picks.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premier Soccer | 40397 | [40397-premier-soccer.json](./40397-premier-soccer.json) |
@@ -9046,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protoshock | 258442 | [258442-protoshock.json](./258442-protoshock.json) |
 | Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
 | Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
+| Protostar: War on the Frontier | 73495 | [73495-protostar-war-on-the-frontier.json](./73495-protostar-war-on-the-frontier.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
