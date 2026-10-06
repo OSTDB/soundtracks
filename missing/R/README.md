@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
+| Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
@@ -6464,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
 | Ruby Journey | 337734 | [337734-ruby-journey.json](./337734-ruby-journey.json) |
+| Ruby Rei | 109514 | [109514-ruby-rei.json](./109514-ruby-rei.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | Ruby Square: logical puzzle game | 96741 | [96741-ruby-square-logical-puzzle-game.json](./96741-ruby-square-logical-puzzle-game.json) |
 | Ruby: Huntress of Vale | 257333 | [257333-ruby-huntress-of-vale.json](./257333-ruby-huntress-of-vale.json) |
@@ -6640,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
 | Run | 85867 | [85867-run.json](./85867-run.json) |
 | Run 'n Gun: Deluxe | 266757 | [266757-run-n-gun-deluxe.json](./266757-run-n-gun-deluxe.json) |
+| Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
@@ -6659,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
+| Run Die Retry | 109512 | [109512-run-die-retry.json](./109512-run-die-retry.json) |
 | Run Dorothy Run | 89380 | [89380-run-dorothy-run.json](./89380-run-dorothy-run.json) |
 | Run Elephant Run | 280847 | [280847-run-elephant-run.json](./280847-run-elephant-run.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
