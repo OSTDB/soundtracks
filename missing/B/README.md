@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
+| Battle Mech Frontier | 116278 | [116278-battle-mech-frontier.json](./116278-battle-mech-frontier.json) |
 | Battle Mine Sweeper | 144136 | [144136-battle-mine-sweeper.json](./144136-battle-mine-sweeper.json) |
 | Battle Minesweeper Online | 300772 | [300772-battle-minesweeper-online.json](./300772-battle-minesweeper-online.json) |
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
 | Becoming | 163804 | [163804-becoming.json](./163804-becoming.json) |
+| Becoming a Dandelion Spore | 116275 | [116275-becoming-a-dandelion-spore.json](./116275-becoming-a-dandelion-spore.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
 | Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
@@ -8851,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
+| Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
 | Bubble Tanks TD 2 | 342251 | [342251-bubble-tanks-td-2.json](./342251-bubble-tanks-td-2.json) |
@@ -9641,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
+| Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
