@@ -9367,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
+| The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
@@ -11128,6 +11129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Ship Goes Brrr | 366339 | [366339-this-ship-goes-brrr.json](./366339-this-ship-goes-brrr.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
+| This Side | 116279 | [116279-this-side.json](./116279-this-side.json) |
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
 | This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
@@ -12817,6 +12819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
+| TimeFall | 116272 | [116272-timefall.json](./116272-timefall.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
 | TimeK | 244179 | [244179-timek.json](./244179-timek.json) |
@@ -17539,6 +17542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
+| Trysaria | 116273 | [116273-trysaria.json](./116273-trysaria.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
 | Ts Fantasy | 192247 | [192247-ts-fantasy.json](./192247-ts-fantasy.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
