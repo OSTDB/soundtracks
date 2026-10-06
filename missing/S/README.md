@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
+| Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
 | Sepium | 390240 | [390240-sepium.json](./390240-sepium.json) |
 | Sept Jours, Sept Lieux, Sept Vies | 151284 | [151284-sept-jours-sept-lieux-sept-vies.json](./151284-sept-jours-sept-lieux-sept-vies.json) |
@@ -4505,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shìjiè Zhīwài de Yúrén Chuán | 373700 | [373700-shijie-zhiwai-de-yuren-chuan.json](./373700-shijie-zhiwai-de-yuren-chuan.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
+| Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
 | Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
 | Shikari Rising | 142949 | [142949-shikari-rising.json](./142949-shikari-rising.json) |
@@ -13157,6 +13159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Legacy | 351693 | [351693-star-legacy.json](./351693-star-legacy.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Legends Pro (Dreamsky) | 97168 | [97168-star-legends-pro-dreamsky.json](./97168-star-legends-pro-dreamsky.json) |
+| Star Light | 100271 | [100271-star-light.json](./100271-star-light.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
 | Star Made | 50812 | [50812-star-made.json](./50812-star-made.json) |
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
@@ -18259,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
+| Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
