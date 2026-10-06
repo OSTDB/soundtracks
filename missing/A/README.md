@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
+| Afterpulse | 58625 | [58625-afterpulse.json](./58625-afterpulse.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
 | Afterschool! Survival Club | 193798 | [193798-afterschool-survival-club.json](./193798-afterschool-survival-club.json) |
@@ -4572,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
+| Amir Khan Khanage | 58599 | [58599-amir-khan-khanage.json](./58599-amir-khan-khanage.json) |
 | Amira | 169857 | [169857-amira.json](./169857-amira.json) |
 | Amit the Paperman | 417681 | [417681-amit-the-paperman.json](./417681-amit-the-paperman.json) |
 | AmiWordle | 304190 | [304190-amiwordle.json](./304190-amiwordle.json) |
@@ -6454,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
+| Arbalest 3035 | 58651 | [58651-arbalest-3035.json](./58651-arbalest-3035.json) |
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
