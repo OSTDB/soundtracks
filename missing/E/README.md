@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggy | 91413 | [91413-eggy.json](./91413-eggy.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
 | Eggy Space | 292162 | [292162-eggy-space.json](./292162-eggy-space.json) |
+| Eggys Games Flash Collection | 114299 | [114299-eggys-games-flash-collection.json](./114299-eggys-games-flash-collection.json) |
 | Eggz: Collectible Eggs Clicker | 314253 | [314253-eggz-collectible-eggs-clicker.json](./314253-eggz-collectible-eggs-clicker.json) |
 | Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | EpicRecovery | 202721 | [202721-epicrecovery.json](./202721-epicrecovery.json) |
 | Epics of Distant Realm 2: Holy Return | 189950 | [189950-epics-of-distant-realm-2-holy-return.json](./189950-epics-of-distant-realm-2-holy-return.json) |
+| Epics of Distant Realm: Remastered Edition | 114266 | [114266-epics-of-distant-realm-remastered-edition.json](./114266-epics-of-distant-realm-remastered-edition.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
@@ -2735,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
 | Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
+| Escape from police | 114294 | [114294-escape-from-police.json](./114294-escape-from-police.json) |
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape from Rhetundo Island | 336061 | [336061-escape-from-rhetundo-island.json](./336061-escape-from-rhetundo-island.json) |
@@ -3501,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
+| Evening Star 2 | 114296 | [114296-evening-star-2.json](./114296-evening-star-2.json) |
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
