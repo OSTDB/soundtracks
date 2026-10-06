@@ -7332,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Froglins | 401070 | [401070-the-lost-froglins.json](./401070-the-lost-froglins.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
+| The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
 | The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
 | The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
@@ -15278,6 +15279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
+| Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy RollerCoaster 3D | 87544 | [87544-toy-rollercoaster-3d.json](./87544-toy-rollercoaster-3d.json) |
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
