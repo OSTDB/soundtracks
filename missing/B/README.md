@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
 | Bird Game III | 381008 | [381008-bird-game-iii.json](./381008-bird-game-iii.json) |
 | Bird Hunter | 246433 | [246433-bird-hunter.json](./246433-bird-hunter.json) |
+| Bird Hunter: Wild Wings Edition | 73491 | [73491-bird-hunter-wild-wings-edition.json](./73491-bird-hunter-wild-wings-edition.json) |
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
 | Bird Land | 112163 | [112163-bird-land.json](./112163-bird-land.json) |
 | Bird Legend | 260771 | [260771-bird-legend.json](./260771-bird-legend.json) |
@@ -8764,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
+| Brother Adventure | 73508 | [73508-brother-adventure.json](./73508-brother-adventure.json) |
 | Brother Against Brother | 59494 | [59494-brother-against-brother.json](./59494-brother-against-brother.json) |
 | Brother Cat: The Legend of Super Cat | 98500 | [98500-brother-cat-the-legend-of-super-cat.json](./98500-brother-cat-the-legend-of-super-cat.json) |
 | Brother Perro | 96867 | [96867-brother-perro.json](./96867-brother-perro.json) |
