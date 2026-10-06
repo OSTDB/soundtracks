@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikenbo Vol. 13 - Tasogare ha Ruri no Tsuioki | 279118 | [279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json](./279118-g-mode-archives-tantei-kibukawa-ryousuke-jikenbo-vol-13-tasogare-ha-ruri-no-tsuioki.json) |
 | G-Mode Archives+: Tantei Kibukawa Ryousuke Jikentan Vol. 17 - Midoumaru-tei Jiken | 413150 | [413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json](./413150-g-mode-archives-tantei-kibukawa-ryousuke-jikentan-vol-17-midoumaru-tei-jiken.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
+| G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
 | G-Switch 4: Creator | 321440 | [321440-g-switch-4-creator.json](./321440-g-switch-4-creator.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Galaxy 2 | 66946 | [66946-games-galaxy-2.json](./66946-games-galaxy-2.json) |
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
+| Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
