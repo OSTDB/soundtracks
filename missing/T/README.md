@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
+| Talion | 109508 | [109508-talion.json](./109508-talion.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technobog | 199445 | [199445-technobog.json](./199445-technobog.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
+| Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
@@ -6165,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infirmity | 267428 | [267428-the-infirmity.json](./267428-the-infirmity.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
+| The Initiate: The First Interviews | 109555 | [109555-the-initiate-the-first-interviews.json](./109555-the-initiate-the-first-interviews.json) |
 | The Initiation | 345128 | [345128-the-initiation.json](./345128-the-initiation.json) |
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
@@ -13202,6 +13205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tippy Putts | 401120 | [401120-tippy-putts.json](./401120-tippy-putts.json) |
 | Tippy Train | 245262 | [245262-tippy-train.json](./245262-tippy-train.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
+| Tippy Tree: A Christmas Puzzle | 109530 | [109530-tippy-tree-a-christmas-puzzle.json](./109530-tippy-tree-a-christmas-puzzle.json) |
 | Tipston Salvage | 184482 | [184482-tipston-salvage.json](./184482-tipston-salvage.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
@@ -14154,6 +14158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
+| Toodle's Toboggan: Wintery Slopes | 109517 | [109517-toodles-toboggan-wintery-slopes.json](./109517-toodles-toboggan-wintery-slopes.json) |
 | Toodles & Toddlers | 144570 | [144570-toodles-and-toddlers.json](./144570-toodles-and-toddlers.json) |
 | Toofan AlAqsa | 289938 | [289938-toofan-alaqsa.json](./289938-toofan-alaqsa.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
@@ -15508,6 +15513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
+| Trailbreaker: Jupiter Edition | 109516 | [109516-trailbreaker-jupiter-edition.json](./109516-trailbreaker-jupiter-edition.json) |
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
@@ -16799,6 +16805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
+| Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
@@ -16856,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
+| Trending Pharaoh | 109515 | [109515-trending-pharaoh.json](./109515-trending-pharaoh.json) |
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
@@ -17187,6 +17195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
 | Trireme Commander | 81738 | [81738-trireme-commander.json](./81738-trireme-commander.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
+| Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
