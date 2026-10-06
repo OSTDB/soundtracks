@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
 | Take-Out Weight Curling 2 | 206617 | [206617-take-out-weight-curling-2.json](./206617-take-out-weight-curling-2.json) |
+| Takeda | 71714 | [71714-takeda.json](./71714-takeda.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
 | Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
 | Takeda Shingen | 37729 | [37729-takeda-shingen.json](./37729-takeda-shingen.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terrovox | 197254 | [197254-terrovox.json](./197254-terrovox.json) |
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
+| Terry's Big Adventure | 71732 | [71732-terrys-big-adventure.json](./71732-terrys-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | TerTD | 120731 | [120731-tertd.json](./120731-tertd.json) |
@@ -5314,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Battle: Adventure | 216224 | [216224-the-final-battle-adventure.json](./216224-the-final-battle-adventure.json) |
 | The Final Boss | 119458 | [119458-the-final-boss.json](./119458-the-final-boss.json) |
 | The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
+| The Final Conflict | 71745 | [71745-the-final-conflict.json](./71745-the-final-conflict.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Day of Spring | 183408 | [183408-the-final-day-of-spring.json](./183408-the-final-day-of-spring.json) |
 | The Final Days of Olin Earl | 399750 | [399750-the-final-days-of-olin-earl.json](./399750-the-final-days-of-olin-earl.json) |
@@ -5663,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
+| The Gladiators: Galactic Circus Games | 71740 | [71740-the-gladiators-galactic-circus-games.json](./71740-the-gladiators-galactic-circus-games.json) |
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
@@ -6875,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
 | The Last Star Walker: Season 1 | 385793 | [385793-the-last-star-walker-season-1.json](./385793-the-last-star-walker-season-1.json) |
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
+| The Last Starfighter | 71759 | [71759-the-last-starfighter.json](./71759-the-last-starfighter.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
@@ -13433,6 +13438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
+| Titanic: Challenge of Discovery | 71720 | [71720-titanic-challenge-of-discovery.json](./71720-titanic-challenge-of-discovery.json) |
 | Titanic: Fall of a Legend | 190455 | [190455-titanic-fall-of-a-legend.json](./190455-titanic-fall-of-a-legend.json) |
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
@@ -18420,6 +18426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinBee Da!! | 282567 | [282567-twinbee-da.json](./282567-twinbee-da.json) |
 | TwinBee Portable | 42767 | [42767-twinbee-portable.json](./42767-twinbee-portable.json) |
 | TwinBee RPG | 149977 | [149977-twinbee-rpg.json](./149977-twinbee-rpg.json) |
+| TwinBee Taisen Puzzle-Dama | 71701 | [71701-twinbee-taisen-puzzle-dama.json](./71701-twinbee-taisen-puzzle-dama.json) |
 | TwinBee Yahho!: Fushigi no Kuni de Ooabare!! | 137420 | [137420-twinbee-yahho-fushigi-no-kuni-de-ooabare.json](./137420-twinbee-yahho-fushigi-no-kuni-de-ooabare.json) |
 | TwinBlok | 73984 | [73984-twinblok.json](./73984-twinblok.json) |
 | Twincantation | 355017 | [355017-twincantation.json](./355017-twincantation.json) |
