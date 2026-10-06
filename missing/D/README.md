@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Kingdom | 41972 | [41972-defend-your-kingdom.json](./41972-defend-your-kingdom.json) |
 | Defend Your Life: TD | 9882 | [9882-defend-your-life-td.json](./9882-defend-your-life-td.json) |
+| Defend Your Motti | 108943 | [108943-defend-your-motti.json](./108943-defend-your-motti.json) |
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Driver: The Simulation | 217248 | [217248-delivery-driver-the-simulation.json](./217248-delivery-driver-the-simulation.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
+| Delivery from the Pain | 108905 | [108905-delivery-from-the-pain.json](./108905-delivery-from-the-pain.json) |
 | Delivery Hot | 351125 | [351125-delivery-hot.json](./351125-delivery-hot.json) |
 | Delivery Impossible | 244191 | [244191-delivery-impossible.json](./244191-delivery-impossible.json) |
 | Delivery in Space | 200519 | [200519-delivery-in-space.json](./200519-delivery-in-space.json) |
@@ -3674,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
 | Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
 | Derpy's Fun House | 312712 | [312712-derpys-fun-house.json](./312712-derpys-fun-house.json) |
+| Derrat Sorcerum | 108918 | [108918-derrat-sorcerum.json](./108918-derrat-sorcerum.json) |
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Derringer | 230213 | [230213-derringer.json](./230213-derringer.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
@@ -4444,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
 | Diamond Hollow | 286649 | [286649-diamond-hollow.json](./286649-diamond-hollow.json) |
 | Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
+| Diamond Hunt | 108926 | [108926-diamond-hunt.json](./108926-diamond-hunt.json) |
 | Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
@@ -4813,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon T.K. and Patamon | 203237 | [203237-digimon-t-k-and-patamon.json](./203237-digimon-t-k-and-patamon.json) |
 | Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
 | Digimon Tamers: Battle Spirit Ver 1.5 | 63935 | [63935-digimon-tamers-battle-spirit-ver-1-5.json](./63935-digimon-tamers-battle-spirit-ver-1-5.json) |
+| Digimon Tamers: Pocket Culumon | 108939 | [108939-digimon-tamers-pocket-culumon.json](./108939-digimon-tamers-pocket-culumon.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World 2 Alternative | 322120 | [322120-digimon-world-2-alternative.json](./322120-digimon-world-2-alternative.json) |
@@ -5357,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
+| Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
 | Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
@@ -6016,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You See Sparky? | 242484 | [242484-do-you-see-sparky.json](./242484-do-you-see-sparky.json) |
 | Do You Want More!? | 203938 | [203938-do-you-want-more.json](./203938-do-you-want-more.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
+| Do-M Imouto O-nedari Kojin Lesson: Watashi no Sex Katei-kyoushi Oniichan | 108917 | [108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json](./108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json) |
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
