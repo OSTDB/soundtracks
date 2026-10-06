@@ -6851,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
+| Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
