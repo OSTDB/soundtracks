@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Match Connect Classic | 235231 | [235231-warriors-match-connect-classic.json](./235231-warriors-match-connect-classic.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
+| Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
 | Warriors of Releyne | 12820 | [12820-warriors-of-releyne.json](./12820-warriors-of-releyne.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warriors of the Lost Empire | 42839 | [42839-warriors-of-the-lost-empire.json](./42839-warriors-of-the-lost-empire.json) |
@@ -5123,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckin' Raccoon | 371475 | [371475-wreckin-raccoon.json](./371475-wreckin-raccoon.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
+| Wrecking Towers | 68876 | [68876-wrecking-towers.json](./68876-wrecking-towers.json) |
 | Wreckman | 268516 | [268516-wreckman.json](./268516-wreckman.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
