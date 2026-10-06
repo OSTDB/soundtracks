@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
+| Gassy Mob | 59816 | [59816-gassy-mob.json](./59816-gassy-mob.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
 | GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
 | Go Bananas! | 365801 | [365801-go-bananas.json](./365801-go-bananas.json) |
 | Go Bang | 246335 | [246335-go-bang.json](./246335-go-bang.json) |
+| Go Bang! | 59814 | [59814-go-bang.json](./59814-go-bang.json) |
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
 | Go Beryllium! | 124658 | [124658-go-beryllium.json](./124658-go-beryllium.json) |
 | Go Bhop | 174751 | [174751-go-bhop.json](./174751-go-bhop.json) |
