@@ -7365,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies: Super Scary Halloween Spooky Times | 130284 | [130284-furries-and-scalies-super-scary-halloween-spooky-times.json](./130284-furries-and-scalies-super-scary-halloween-spooky-times.json) |
 | Furries & Scalies: Super Scary Halloween Spooky Times Part II - Richard III's Tiny Terrors | 226186 | [226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json](./226186-furries-and-scalies-super-scary-halloween-spooky-times-part-ii-richard-iiis-tiny-terrors.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
+| Furry 2 | 87807 | [87807-furry-2.json](./87807-furry-2.json) |
 | Furry Adventure Club and the Holy Grail | 312742 | [312742-furry-adventure-club-and-the-holy-grail.json](./312742-furry-adventure-club-and-the-holy-grail.json) |
 | Furry Adventure! | 417388 | [417388-furry-adventure.json](./417388-furry-adventure.json) |
 | Furry Aim Trainer | 326741 | [326741-furry-aim-trainer.json](./326741-furry-aim-trainer.json) |
