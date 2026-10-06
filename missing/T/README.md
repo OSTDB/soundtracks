@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
+| Tank 51 | 81649 | [81649-tank-51.json](./81649-tank-51.json) |
 | Tank Arena: Total Operation | 326208 | [326208-tank-arena-total-operation.json](./326208-tank-arena-total-operation.json) |
 | Tank Arkade | 24849 | [24849-tank-arkade.json](./24849-tank-arkade.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
+| Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
@@ -1616,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Revisited | 308871 | [308871-tavern-revisited.json](./308871-tavern-revisited.json) |
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
+| Tavern Table Tactics | 81646 | [81646-tavern-table-tactics.json](./81646-tavern-table-tactics.json) |
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
@@ -4576,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day They Came | 169832 | [169832-the-day-they-came.json](./169832-the-day-they-came.json) |
+| The Day They Landed | 81681 | [81681-the-day-they-landed.json](./81681-the-day-they-landed.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
@@ -4761,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door in the Basement | 146206 | [146206-the-door-in-the-basement.json](./146206-the-door-in-the-basement.json) |
 | The Door in The Skybox | 400977 | [400977-the-door-in-the-skybox.json](./400977-the-door-in-the-skybox.json) |
 | The Door Museum | 177483 | [177483-the-door-museum.json](./177483-the-door-museum.json) |
+| The Door of Ice | 81692 | [81692-the-door-of-ice.json](./81692-the-door-of-ice.json) |
 | The Door of Redemption | 148972 | [148972-the-door-of-redemption.json](./148972-the-door-of-redemption.json) |
 | The Door of thoughts | 212777 | [212777-the-door-of-thoughts.json](./212777-the-door-of-thoughts.json) |
 | The Door You Can Never Open | 360726 | [360726-the-door-you-can-never-open.json](./360726-the-door-you-can-never-open.json) |
@@ -7803,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
 | The Most Boring Game Ever | 150751 | [150751-the-most-boring-game-ever.json](./150751-the-most-boring-game-ever.json) |
 | The Most Boring Life Ever | 161758 | [161758-the-most-boring-life-ever.json](./161758-the-most-boring-life-ever.json) |
+| The Most Challenging Game | 81683 | [81683-the-most-challenging-game.json](./81683-the-most-challenging-game.json) |
 | The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
 | The Most Difficult Ball Game | 387617 | [387617-the-most-difficult-ball-game.json](./387617-the-most-difficult-ball-game.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
@@ -9015,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Deadly Sins: Grand Cross | 131768 | [131768-the-seven-deadly-sins-grand-cross.json](./131768-the-seven-deadly-sins-grand-cross.json) |
 | The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
 | The Seven Deadly Sins: Knights of Britannia | 41058 | [41058-the-seven-deadly-sins-knights-of-britannia.json](./41058-the-seven-deadly-sins-knights-of-britannia.json) |
+| The Seven Districts of Sin: The Tail Makes the Fox - Episode 1 | 81645 | [81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json](./81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json) |
 | The Seven Elemental Vases | 326166 | [326166-the-seven-elemental-vases.json](./326166-the-seven-elemental-vases.json) |
 | The Seven Games of the Soul | 13775 | [13775-the-seven-games-of-the-soul.json](./13775-the-seven-games-of-the-soul.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
@@ -12740,6 +12747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
+| Tile Typer | 81673 | [81673-tile-typer.json](./81673-tile-typer.json) |
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
 | Tilebreaker | 368615 | [368615-tilebreaker.json](./368615-tilebreaker.json) |
@@ -13075,6 +13083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
+| Tinja | 81647 | [81647-tinja.json](./81647-tinja.json) |
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
