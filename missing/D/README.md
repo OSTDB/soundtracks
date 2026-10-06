@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
+| Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
@@ -833,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
+| Dark Elf Historia | 69505 | [69505-dark-elf-historia.json](./69505-dark-elf-historia.json) |
 | Dark Elves Escape | 315604 | [315604-dark-elves-escape.json](./315604-dark-elves-escape.json) |
 | Dark Elves Escape 2 | 315606 | [315606-dark-elves-escape-2.json](./315606-dark-elves-escape-2.json) |
 | Dark Empire | 83872 | [83872-dark-empire.json](./83872-dark-empire.json) |
@@ -3461,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Turf: Queen's Edition | 341624 | [341624-demon-turf-queens-edition.json](./341624-demon-turf-queens-edition.json) |
 | Demon Turf: The Tower | 280851 | [280851-demon-turf-the-tower.json](./280851-demon-turf-the-tower.json) |
+| Demon Venture #1: Reign of the Red Dragon | 69513 | [69513-demon-venture-1-reign-of-the-red-dragon.json](./69513-demon-venture-1-reign-of-the-red-dragon.json) |
 | Demon Waltz | 398594 | [398594-demon-waltz.json](./398594-demon-waltz.json) |
 | Demon War: Idle Rebellion | 101765 | [101765-demon-war-idle-rebellion.json](./101765-demon-war-idle-rebellion.json) |
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
