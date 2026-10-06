@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankalot | 96240 | [96240-tankalot.json](./96240-tankalot.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
+| TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
 | Tankex | 117436 | [117436-tankex.json](./117436-tankex.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Heart Love Dude | 56148 | [56148-the-adventures-of-heart-love-dude.json](./56148-the-adventures-of-heart-love-dude.json) |
 | The Adventures of Hori | 392285 | [392285-the-adventures-of-hori.json](./392285-the-adventures-of-hori.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
+| The Adventures of Jason and the Argonauts | 114926 | [114926-the-adventures-of-jason-and-the-argonauts.json](./114926-the-adventures-of-jason-and-the-argonauts.json) |
 | The Adventures of Jerry Mouse: The Rescue of Nibbles | 233613 | [233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json](./233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
@@ -3250,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
 | The Angel's Tears | 383663 | [383663-the-angels-tears.json](./383663-the-angels-tears.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
+| The Angry Banana | 114918 | [114918-the-angry-banana.json](./114918-the-angry-banana.json) |
 | The Angry Beavers: Match-Master | 273882 | [273882-the-angry-beavers-match-master.json](./273882-the-angry-beavers-match-master.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
@@ -13055,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Life | 142348 | [142348-tiny-life.json](./142348-tiny-life.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
+| Tiny Love | 114880 | [114880-tiny-love.json](./114880-tiny-love.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
@@ -13706,6 +13710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Rogue | 153977 | [153977-tokyo-rogue.json](./153977-tokyo-rogue.json) |
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
+| Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
 | Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
@@ -14311,6 +14316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
 | Toridama 2: Brave Challenge | 300841 | [300841-toridama-2-brave-challenge.json](./300841-toridama-2-brave-challenge.json) |
+| Toridama: Brave Challenge | 114887 | [114887-toridama-brave-challenge.json](./114887-toridama-brave-challenge.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | ToriDori | 211825 | [211825-toridori.json](./211825-toridori.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
