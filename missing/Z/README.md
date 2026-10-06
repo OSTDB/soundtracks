@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zig Zag Flag Shag | 84470 | [84470-zig-zag-flag-shag.json](./84470-zig-zag-flag-shag.json) |
 | Zig Zag Game | 88216 | [88216-zig-zag-game.json](./88216-zig-zag-game.json) |
 | Zig Zag Go | 84933 | [84933-zig-zag-go.json](./84933-zig-zag-go.json) |
+| Ziggi's First ABCs | 70044 | [70044-ziggis-first-abcs.json](./70044-ziggis-first-abcs.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
 | Ziggurat | 23876 | [23876-ziggurat.json](./23876-ziggurat.json) |
 | Ziggurat 3D Chess | 52088 | [52088-ziggurat-3d-chess.json](./52088-ziggurat-3d-chess.json) |
