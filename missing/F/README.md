@@ -5464,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Portals | 164258 | [164258-forsaken-portals.json](./164258-forsaken-portals.json) |
 | Forsaken Realm | 130124 | [130124-forsaken-realm.json](./130124-forsaken-realm.json) |
+| Forsaken Realms: Vahrin's Call | 110939 | [110939-forsaken-realms-vahrins-call.json](./110939-forsaken-realms-vahrins-call.json) |
 | Forsaken Shadows | 306419 | [306419-forsaken-shadows.json](./306419-forsaken-shadows.json) |
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
@@ -5775,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
+| Four Kings One War | 110903 | [110903-four-kings-one-war.json](./110903-four-kings-one-war.json) |
 | Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
 | Four Legerior | 118878 | [118878-four-legerior.json](./118878-four-legerior.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
