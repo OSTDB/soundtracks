@@ -6232,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
+| FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
 | Freed Software | 220024 | [220024-freed-software.json](./220024-freed-software.json) |
 | FreeDiver: Triton Down | 117797 | [117797-freediver-triton-down.json](./117797-freediver-triton-down.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
@@ -6513,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
+| Frog | 100997 | [100997-frog.json](./100997-frog.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
