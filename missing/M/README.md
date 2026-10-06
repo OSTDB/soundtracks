@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
+| Malody | 76901 | [76901-malody.json](./76901-malody.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
 | Malone In Nightmares | 159737 | [159737-malone-in-nightmares.json](./159737-malone-in-nightmares.json) |
@@ -1773,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactory | 184414 | [184414-manufactory.json](./184414-manufactory.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
+| Manufactured Beauty | 76872 | [76872-manufactured-beauty.json](./76872-manufactured-beauty.json) |
 | Manuganu | 175908 | [175908-manuganu.json](./175908-manuganu.json) |
 | Manuganu 2 | 175909 | [175909-manuganu-2.json](./175909-manuganu-2.json) |
 | Manus Dei | 269226 | [269226-manus-dei.json](./269226-manus-dei.json) |
@@ -7303,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
 | Mirage | 410391 | [410391-mirage.json](./410391-mirage.json) |
+| Mirage | 76903 | [76903-mirage.json](./76903-mirage.json) |
 | Mirage 7 | 316728 | [316728-mirage-7.json](./316728-mirage-7.json) |
 | Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
