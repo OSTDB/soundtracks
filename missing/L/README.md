@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
+| Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layered Ordeal | 356803 | [356803-layered-ordeal.json](./356803-layered-ordeal.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Monsters | 149945 | [149945-little-big-monsters.json](./149945-little-big-monsters.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
+| Little Big Snake | 108928 | [108928-little-big-snake.json](./108928-little-big-snake.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Big Workshop: The Evil | 155170 | [155170-little-big-workshop-the-evil.json](./155170-little-big-workshop-the-evil.json) |
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
@@ -4822,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
+| Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
