@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
+| Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
 | Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
@@ -3425,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club: Saving Alfea | 61159 | [61159-winx-club-saving-alfea.json](./61159-winx-club-saving-alfea.json) |
 | Winx Club: The Magic Is Back | 381167 | [381167-winx-club-the-magic-is-back.json](./381167-winx-club-the-magic-is-back.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
+| Winx Club: Your Magic Universe | 116965 | [116965-winx-club-your-magic-universe.json](./116965-winx-club-your-magic-universe.json) |
 | Winx Sirenix Power | 63387 | [63387-winx-sirenix-power.json](./63387-winx-sirenix-power.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipe Factor | 233558 | [233558-wipe-factor.json](./233558-wipe-factor.json) |
