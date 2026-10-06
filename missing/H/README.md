@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang Line | 52747 | [52747-hang-line.json](./52747-hang-line.json) |
 | Hang Man | 83451 | [83451-hang-man.json](./83451-hang-man.json) |
 | Hang On | 169892 | [169892-hang-on.json](./169892-hang-on.json) |
+| Hang On & Safari Hunt: The Combo Cartridge | 68907 | [68907-hang-on-and-safari-hunt-the-combo-cartridge.json](./68907-hang-on-and-safari-hunt-the-combo-cartridge.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
 | Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Bar Simulator | 407489 | [407489-haunted-bar-simulator.json](./407489-haunted-bar-simulator.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
+| Haunted Casino | 68900 | [68900-haunted-casino.json](./68900-haunted-casino.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Dawn: The Zombie Apocalypse | 150267 | [150267-haunted-dawn-the-zombie-apocalypse.json](./150267-haunted-dawn-the-zombie-apocalypse.json) |
