@@ -1596,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
+| Fast & Furious 6: The Game | 61990 | [61990-fast-and-furious-6-the-game.json](./61990-fast-and-furious-6-the-game.json) |
 | Fast & Furious: Adrenaline | 66427 | [66427-fast-and-furious-adrenaline.json](./66427-fast-and-furious-adrenaline.json) |
 | Fast & Furious: Crossroads - Season Pass | 293726 | [293726-fast-and-furious-crossroads-season-pass.json](./293726-fast-and-furious-crossroads-season-pass.json) |
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
@@ -5614,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
 | Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
+| Fort Defense: North Menace | 62011 | [62011-fort-defense-north-menace.json](./62011-fort-defense-north-menace.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
