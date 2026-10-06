@@ -10423,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cuckold Sex: Episode 5 | 339353 | [339353-cuckold-sex-episode-5.json](./339353-cuckold-sex-episode-5.json) |
 | Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
+| Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
 | Cuckoo Mask | 253983 | [253983-cuckoo-mask.json](./253983-cuckoo-mask.json) |
 | CuckTales | 309448 | [309448-cucktales.json](./309448-cucktales.json) |
