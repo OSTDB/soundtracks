@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessarama | 202691 | [202691-chessarama.json](./202691-chessarama.json) |
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
 | ChessBlaze | 337281 | [337281-chessblaze.json](./337281-chessblaze.json) |
+| Chessboard Kingdoms | 109556 | [109556-chessboard-kingdoms.json](./109556-chessboard-kingdoms.json) |
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
 | Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
@@ -6392,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
+| Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
 | Color Shooter | 290094 | [290094-color-shooter.json](./290094-color-shooter.json) |
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
@@ -8076,6 +8078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | CosmicBreak Universal: Sylvia | 196090 | [196090-cosmicbreak-universal-sylvia.json](./196090-cosmicbreak-universal-sylvia.json) |
 | Cosmik Battle | 260883 | [260883-cosmik-battle.json](./260883-cosmik-battle.json) |
+| Cosmik Block | 109529 | [109529-cosmik-block.json](./109529-cosmik-block.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosminomy | 357364 | [357364-cosminomy.json](./357364-cosminomy.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
@@ -8544,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle | 271719 | [271719-cradle.json](./271719-cradle.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
+| Cradle of Links VR | 109527 | [109527-cradle-of-links-vr.json](./109527-cradle-of-links-vr.json) |
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Cradle of Rome 2 HD | 102101 | [102101-cradle-of-rome-2-hd.json](./102101-cradle-of-rome-2-hd.json) |
@@ -9629,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossPlanet | 165433 | [165433-crossplanet.json](./165433-crossplanet.json) |
 | Crossquare | 175241 | [175241-crossquare.json](./175241-crossquare.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
+| Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars | 417711 | [417711-crossroad-of-worlds-magic-stars.json](./417711-crossroad-of-worlds-magic-stars.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
