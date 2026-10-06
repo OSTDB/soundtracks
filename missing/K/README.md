@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Can Cook | 373162 | [373162-kitty-can-cook.json](./373162-kitty-can-cook.json) |
 | Kitty Cat Love | 106655 | [106655-kitty-cat-love.json](./106655-kitty-cat-love.json) |
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
+| Kitty Catsanova | 101694 | [101694-kitty-catsanova.json](./101694-kitty-catsanova.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
 | Knife Dash | 87055 | [87055-knife-dash.json](./87055-knife-dash.json) |
+| Knife Dash: Hit to Crush Pizza | 101671 | [101671-knife-dash-hit-to-crush-pizza.json](./101671-knife-dash-hit-to-crush-pizza.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
 | Knife Flipping | 101334 | [101334-knife-flipping.json](./101334-knife-flipping.json) |
 | Knife Man | 380625 | [380625-knife-man.json](./380625-knife-man.json) |
@@ -3143,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
 | Krystal the Adventurer | 102900 | [102900-krystal-the-adventurer.json](./102900-krystal-the-adventurer.json) |
 | Krystals of Zong | 73879 | [73879-krystals-of-zong.json](./73879-krystals-of-zong.json) |
+| Krystine and the children in chains | 101696 | [101696-krystine-and-the-children-in-chains.json](./101696-krystine-and-the-children-in-chains.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
