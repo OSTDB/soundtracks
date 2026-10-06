@@ -5021,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
+| Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
 | Dino Land | 386929 | [386929-dino-land.json](./386929-dino-land.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Market | 312710 | [312710-dino-market.json](./312710-dino-market.json) |
