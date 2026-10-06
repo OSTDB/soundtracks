@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
 | Sakura Taisen 3: Paris ha Moeteiru ka? | 80143 | [80143-sakura-taisen-3-paris-ha-moeteiru-ka.json](./80143-sakura-taisen-3-paris-ha-moeteiru-ka.json) |
+| Sakura Taisen GB2 | 65844 | [65844-sakura-taisen-gb2.json](./65844-sakura-taisen-gb2.json) |
 | Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
 | Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
 | Sakura Taisen Online: Paris no Yuuga na Hibi | 221783 | [221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json](./221783-sakura-taisen-online-paris-no-yuuga-na-hibi.json) |
@@ -12902,6 +12903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
 | Square Game | 373742 | [373742-square-game.json](./373742-square-game.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
+| Square Head Zombies | 65796 | [65796-square-head-zombies.json](./65796-square-head-zombies.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
@@ -13767,6 +13769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: X-Wing vs. TIE Fighter | 170 | [170-star-wars-x-wing-vs-tie-fighter.json](./170-star-wars-x-wing-vs-tie-fighter.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
+| Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
@@ -18142,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
 | Super Peko 35 | 266904 | [266904-super-peko-35.json](./266904-super-peko-35.json) |
 | Super Penguin Ball & Chain | 343433 | [343433-super-penguin-ball-and-chain.json](./343433-super-penguin-ball-and-chain.json) |
+| Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
 | Super Pig X | 119623 | [119623-super-pig-x.json](./119623-super-pig-x.json) |
