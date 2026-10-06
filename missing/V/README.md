@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
 | Victory At Sea Pacific | 104004 | [104004-victory-at-sea-pacific.json](./104004-victory-at-sea-pacific.json) |
 | Victory Banner | 361819 | [361819-victory-banner.json](./361819-victory-banner.json) |
+| Victory Bubbles | 106662 | [106662-victory-bubbles.json](./106662-victory-bubbles.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
@@ -1445,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Gunman | 355117 | [355117-virtual-gunman.json](./355117-virtual-gunman.json) |
 | Virtual Happy Land | 329231 | [329231-virtual-happy-land.json](./329231-virtual-happy-land.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
+| Virtual High School Girl Game | 106654 | [106654-virtual-high-school-girl-game.json](./106654-virtual-high-school-girl-game.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
