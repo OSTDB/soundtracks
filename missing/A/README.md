@@ -4403,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
+| American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
 | American Truck Car Transport | 231981 | [231981-american-truck-car-transport.json](./231981-american-truck-car-transport.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
