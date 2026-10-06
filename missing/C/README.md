@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleBoy | 144370 | [144370-castleboy.json](./144370-castleboy.json) |
 | Castleclysm TD | 200066 | [200066-castleclysm-td.json](./200066-castleclysm-td.json) |
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
+| CastleDay's WarHill | 112873 | [112873-castledays-warhill.json](./112873-castledays-warhill.json) |
 | CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
 | Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
 | Castlemancer | 258610 | [258610-castlemancer.json](./258610-castlemancer.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
 | Chaomin | 281014 | [281014-chaomin.json](./281014-chaomin.json) |
+| Chaordic | 112860 | [112860-chaordic.json](./112860-chaordic.json) |
 | Chaos | 156546 | [156546-chaos.json](./156546-chaos.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
@@ -4332,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
 | Christmas With My Family: Jigsaw Puzzle | 384063 | [384063-christmas-with-my-family-jigsaw-puzzle.json](./384063-christmas-with-my-family-jigsaw-puzzle.json) |
 | Christmas with Weezer | 70426 | [70426-christmas-with-weezer.json](./70426-christmas-with-weezer.json) |
+| Christmas Wonderland | 112901 | [112901-christmas-wonderland.json](./112901-christmas-wonderland.json) |
 | Christmas Wonderland | 79873 | [79873-christmas-wonderland.json](./79873-christmas-wonderland.json) |
 | Christmas Wonderland 10 | 417589 | [417589-christmas-wonderland-10.json](./417589-christmas-wonderland-10.json) |
 | Christmas Wonderland 10: Collector's Edition | 417588 | [417588-christmas-wonderland-10-collectors-edition.json](./417588-christmas-wonderland-10-collectors-edition.json) |
@@ -5022,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
 | CityDriver: Moruga Turbo | 315619 | [315619-citydriver-moruga-turbo.json](./315619-citydriver-moruga-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
+| CityLights - San Francisco | 112904 | [112904-citylights-san-francisco.json](./112904-citylights-san-francisco.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
@@ -6216,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collection Pocket | 228493 | [228493-collection-pocket.json](./228493-collection-pocket.json) |
+| Collective Card Game | 112877 | [112877-collective-card-game.json](./112877-collective-card-game.json) |
 | Collective Unconscious | 301431 | [301431-collective-unconscious.json](./301431-collective-unconscious.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
 | Collector D | 299822 | [299822-collector-d.json](./299822-collector-d.json) |
@@ -6771,6 +6776,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coming Out on Top | 36928 | [36928-coming-out-on-top.json](./36928-coming-out-on-top.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Comish Clicker - Idle Tycoon | 95822 | [95822-comish-clicker-idle-tycoon.json](./95822-comish-clicker-idle-tycoon.json) |
+| Comit in Cosmo Knight's Revenge | 112853 | [112853-comit-in-cosmo-knights-revenge.json](./112853-comit-in-cosmo-knights-revenge.json) |
+| Comit in Krater Returns | 112859 | [112859-comit-in-krater-returns.json](./112859-comit-in-krater-returns.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
