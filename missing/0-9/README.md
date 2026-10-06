@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
+| 10 Count Boxer | 85719 | [85719-10-count-boxer.json](./85719-10-count-boxer.json) |
 | 10 Crowns | 86424 | [86424-10-crowns.json](./86424-10-crowns.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 21 Steps to Soul | 27115 | [27115-21-steps-to-soul.json](./27115-21-steps-to-soul.json) |
+| 21-en | 85744 | [85744-21-en.json](./85744-21-en.json) |
 | 21: Blackjack | 65554 | [65554-21-blackjack.json](./65554-21-blackjack.json) |
 | 21: Two One | 283250 | [283250-21-two-one.json](./283250-21-two-one.json) |
 | 21: Two One | 394433 | [394433-21-two-one.json](./394433-21-two-one.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Elements II | 64131 | [64131-4-elements-ii.json](./64131-4-elements-ii.json) |
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
+| 4 Gewinnt | 85728 | [85728-4-gewinnt.json](./85728-4-gewinnt.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 in 1 | 80870 | [80870-4-in-1.json](./80870-4-in-1.json) |
 | 4 in 1 | 80871 | [80871-4-in-1.json](./80871-4-in-1.json) |
