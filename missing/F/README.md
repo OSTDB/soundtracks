@@ -3861,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
+| Fix Race | 90187 | [90187-fix-race.json](./90187-fix-race.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
 | Fix This House | 319060 | [319060-fix-this-house.json](./319060-fix-this-house.json) |
 | Fix und Foxi Adventskalender | 91550 | [91550-fix-und-foxi-adventskalender.json](./91550-fix-und-foxi-adventskalender.json) |
@@ -3975,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
+| Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Golf Party | 372089 | [372089-flappy-golf-party.json](./372089-flappy-golf-party.json) |
