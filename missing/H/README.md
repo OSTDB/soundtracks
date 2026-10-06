@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Death | 191653 | [191653-heat-death.json](./191653-heat-death.json) |
 | Heat Game Network | 94421 | [94421-heat-game-network.json](./94421-heat-game-network.json) |
 | Heat Gear: Race & Drift World | 193847 | [193847-heat-gear-race-and-drift-world.json](./193847-heat-gear-race-and-drift-world.json) |
+| Heat Guardian | 83859 | [83859-heat-guardian.json](./83859-heat-guardian.json) |
 | Heat Incremental | 366965 | [366965-heat-incremental.json](./366965-heat-incremental.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Me Up! | 378385 | [378385-heat-me-up.json](./378385-heat-me-up.json) |
