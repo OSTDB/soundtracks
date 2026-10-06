@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astra Protocol | 409714 | [409714-the-astra-protocol.json](./409714-the-astra-protocol.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
+| The Astronomy Quiz | 73479 | [73479-the-astronomy-quiz.json](./73479-the-astronomy-quiz.json) |
 | The Asylum Closed Ward | 331523 | [331523-the-asylum-closed-ward.json](./331523-the-asylum-closed-ward.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
@@ -7553,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magic School Bus Explores the Rainforest | 66752 | [66752-the-magic-school-bus-explores-the-rainforest.json](./66752-the-magic-school-bus-explores-the-rainforest.json) |
 | The Magic School Bus Explores the Solar System | 67659 | [67659-the-magic-school-bus-explores-the-solar-system.json](./67659-the-magic-school-bus-explores-the-solar-system.json) |
+| The Magic School Bus Explores the World of Animals | 73464 | [73464-the-magic-school-bus-explores-the-world-of-animals.json](./73464-the-magic-school-bus-explores-the-world-of-animals.json) |
 | The Magic School Bus: Dino Shuffle | 230388 | [230388-the-magic-school-bus-dino-shuffle.json](./230388-the-magic-school-bus-dino-shuffle.json) |
 | The Magic School Bus: Dinosaurs | 230387 | [230387-the-magic-school-bus-dinosaurs.json](./230387-the-magic-school-bus-dinosaurs.json) |
 | The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
