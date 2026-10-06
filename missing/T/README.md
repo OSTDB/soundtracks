@@ -3486,6 +3486,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Balls | 280256 | [280256-the-balls.json](./280256-the-balls.json) |
 | The Ballz are Lava! | 225695 | [225695-the-ballz-are-lava.json](./225695-the-ballz-are-lava.json) |
 | The Balrog and the Cat | 58857 | [58857-the-balrog-and-the-cat.json](./58857-the-balrog-and-the-cat.json) |
+| The Bananatree Brothers | 97455 | [97455-the-bananatree-brothers.json](./97455-the-bananatree-brothers.json) |
+| The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
@@ -6103,6 +6105,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Aka-ban | 149988 | [149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json](./149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json) |
 | The Idolmaster Tours | 241446 | [241446-the-idolmaster-tours.json](./241446-the-idolmaster-tours.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol. 1 | 97428 | [97428-the-idolmaster-cinderella-girls-gravure-for-you-vol-1.json](./97428-the-idolmaster-cinderella-girls-gravure-for-you-vol-1.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol. 2 | 97429 | [97429-the-idolmaster-cinderella-girls-gravure-for-you-vol-2.json](./97429-the-idolmaster-cinderella-girls-gravure-for-you-vol-2.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.3 | 97430 | [97430-the-idolmaster-cinderella-girls-gravure-for-you-vol-3.json](./97430-the-idolmaster-cinderella-girls-gravure-for-you-vol-3.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.4 | 97431 | [97431-the-idolmaster-cinderella-girls-gravure-for-you-vol-4.json](./97431-the-idolmaster-cinderella-girls-gravure-for-you-vol-4.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.5 | 97432 | [97432-the-idolmaster-cinderella-girls-gravure-for-you-vol-5.json](./97432-the-idolmaster-cinderella-girls-gravure-for-you-vol-5.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.6 | 97433 | [97433-the-idolmaster-cinderella-girls-gravure-for-you-vol-6.json](./97433-the-idolmaster-cinderella-girls-gravure-for-you-vol-6.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.7 | 97434 | [97434-the-idolmaster-cinderella-girls-gravure-for-you-vol-7.json](./97434-the-idolmaster-cinderella-girls-gravure-for-you-vol-7.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.8 | 97435 | [97435-the-idolmaster-cinderella-girls-gravure-for-you-vol-8.json](./97435-the-idolmaster-cinderella-girls-gravure-for-you-vol-8.json) |
+| The Idolmaster: Cinderella Girls - Gravure for You! Vol.9 | 97436 | [97436-the-idolmaster-cinderella-girls-gravure-for-you-vol-9.json](./97436-the-idolmaster-cinderella-girls-gravure-for-you-vol-9.json) |
 | The Idolmaster: Gravure for You! - Vol. 1 | 79980 | [79980-the-idolmaster-gravure-for-you-vol-1.json](./79980-the-idolmaster-gravure-for-you-vol-1.json) |
 | The Idolmaster: Gravure for You! Vol. 2 | 79977 | [79977-the-idolmaster-gravure-for-you-vol-2.json](./79977-the-idolmaster-gravure-for-you-vol-2.json) |
 | The Idolmaster: Gravure for You! Vol. 3 | 79979 | [79979-the-idolmaster-gravure-for-you-vol-3.json](./79979-the-idolmaster-gravure-for-you-vol-3.json) |
@@ -17127,6 +17138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
 | Triclinium | 189046 | [189046-triclinium.json](./189046-triclinium.json) |
+| Tricolor | 97514 | [97514-tricolor.json](./97514-tricolor.json) |
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
