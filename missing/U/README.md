@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
+| Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
 | Ultimate Anime Jigsaw Puzzle | 242015 | [242015-ultimate-anime-jigsaw-puzzle.json](./242015-ultimate-anime-jigsaw-puzzle.json) |
 | Ultimate Apocalypse | 252841 | [252841-ultimate-apocalypse.json](./252841-ultimate-apocalypse.json) |
@@ -857,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
 | Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
 | Undead Knights | 23358 | [23358-undead-knights.json](./23358-undead-knights.json) |
+| Undead Legion | 110246 | [110246-undead-legion.json](./110246-undead-legion.json) |
 | Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
 | Undead Line | 46178 | [46178-undead-line.json](./46178-undead-line.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
