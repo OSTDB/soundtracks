@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
+| Gaelic Games: Hurling | 73465 | [73465-gaelic-games-hurling.json](./73465-gaelic-games-hurling.json) |
 | Gage | 264809 | [264809-gage.json](./264809-gage.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaggl | 306442 | [306442-gaggl.json](./306442-gaggl.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
+| Genetic Species | 73458 | [73458-genetic-species.json](./73458-genetic-species.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genewars | 14455 | [14455-genewars.json](./14455-genewars.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
+| Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
 | Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
