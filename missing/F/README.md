@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faria: Ghosts of the Stream | 32149 | [32149-faria-ghosts-of-the-stream.json](./32149-faria-ghosts-of-the-stream.json) |
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
+| Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
@@ -3245,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
+| Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
@@ -4310,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipped On | 81811 | [81811-flipped-on.json](./81811-flipped-on.json) |
 | Flippen Run Mike | 158689 | [158689-flippen-run-mike.json](./158689-flippen-run-mike.json) |
 | Flipper | 209454 | [209454-flipper.json](./209454-flipper.json) |
+| Flipper | 80795 | [80795-flipper.json](./80795-flipper.json) |
 | Flipper & Lopaka | 50031 | [50031-flipper-and-lopaka.json](./50031-flipper-and-lopaka.json) |
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
