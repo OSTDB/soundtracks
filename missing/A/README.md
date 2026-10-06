@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent | 283400 | [283400-agent.json](./283400-agent.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
+| Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
 | Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
@@ -7671,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
+| Art Camion Sugorokuden | 64200 | [64200-art-camion-sugorokuden.json](./64200-art-camion-sugorokuden.json) |
 | Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
 | Art Club Challenge | 102891 | [102891-art-club-challenge.json](./102891-art-club-challenge.json) |
 | Art Dash | 303678 | [303678-art-dash.json](./303678-art-dash.json) |
@@ -8219,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
+| Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
