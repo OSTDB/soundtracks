@@ -2041,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
 | Junior MithulBlox | 318495 | [318495-junior-mithulblox.json](./318495-junior-mithulblox.json) |
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
+| Junior Sudoku (Easy Fun Puzzles) | 90200 | [90200-junior-sudoku-easy-fun-puzzles.json](./90200-junior-sudoku-easy-fun-puzzles.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
