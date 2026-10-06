@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
 | Deluxe Ski Jump 2 | 11676 | [11676-deluxe-ski-jump-2.json](./11676-deluxe-ski-jump-2.json) |
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
+| Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
 | Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
 | Delve | 361676 | [361676-delve.json](./361676-delve.json) |
@@ -4144,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective School Club | 304597 | [304597-detective-school-club.json](./304597-detective-school-club.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
+| Detective Sherlock Holmes - Hidden Object Games | 88662 | [88662-detective-sherlock-holmes-hidden-object-games.json](./88662-detective-sherlock-holmes-hidden-object-games.json) |
 | Detective Sherlock Pug | 111976 | [111976-detective-sherlock-pug.json](./111976-detective-sherlock-pug.json) |
 | Detective Sherlock: Shadow Stalker | 361844 | [361844-detective-sherlock-shadow-stalker.json](./361844-detective-sherlock-shadow-stalker.json) |
 | Detective Sherlock: Shadow Stalker | 413113 | [413113-detective-sherlock-shadow-stalker.json](./413113-detective-sherlock-shadow-stalker.json) |
