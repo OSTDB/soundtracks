@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp Up Dungeon | 358426 | [358426-pimp-up-dungeon.json](./358426-pimp-up-dungeon.json) |
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
+| Pin Ball | 59809 | [59809-pin-ball.json](./59809-pin-ball.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
 | Pin City | 236344 | [236344-pin-city.json](./236344-pin-city.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
@@ -9320,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pucca, Let’s Cook! | 263689 | [263689-pucca-let-s-cook.json](./263689-pucca-let-s-cook.json) |
 | Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Puchi Carat | 37322 | [37322-puchi-carat.json](./37322-puchi-carat.json) |
+| Puchi Eva: Evangelion@Game | 59826 | [59826-puchi-eva-evangelion-game.json](./59826-puchi-eva-evangelion-game.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
 | Puchi Novel: Kongi No Rokugatsu | 222299 | [222299-puchi-novel-kongi-no-rokugatsu.json](./222299-puchi-novel-kongi-no-rokugatsu.json) |
 | Puchi Puchi Virus | 21053 | [21053-puchi-puchi-virus.json](./21053-puchi-puchi-virus.json) |
