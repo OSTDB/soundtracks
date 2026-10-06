@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
 | Go! Go! Kokopolo Anniversary Collection | 203793 | [203793-go-go-kokopolo-anniversary-collection.json](./203793-go-go-kokopolo-anniversary-collection.json) |
+| Go! Go! Kokopolo: Harmonious Forest Revenge | 65247 | [65247-go-go-kokopolo-harmonious-forest-revenge.json](./65247-go-go-kokopolo-harmonious-forest-revenge.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
 | Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
