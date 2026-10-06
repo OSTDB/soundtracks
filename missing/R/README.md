@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
+| Reel Fishing: The Great Outdoors | 74717 | [74717-reel-fishing-the-great-outdoors.json](./74717-reel-fishing-the-great-outdoors.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel Greed | 401749 | [401749-reel-greed.json](./401749-reel-greed.json) |
 | Reel Horror | 386387 | [386387-reel-horror.json](./386387-reel-horror.json) |
@@ -2822,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
+| Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Rename the History | 334326 | [334326-rename-the-history.json](./334326-rename-the-history.json) |
@@ -3227,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
+| Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoration Master | 158095 | [158095-restoration-master.json](./158095-restoration-master.json) |
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
@@ -5370,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
+| RockShot | 74731 | [74731-rockshot.json](./74731-rockshot.json) |
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
 | Rocksmith | 2697 | [2697-rocksmith.json](./2697-rocksmith.json) |
 | Rocksmith 2014 Edition: Remastered - 3 Doors Down: Song Pack II | 225021 | [225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json](./225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json) |
