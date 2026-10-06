@@ -8633,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
 | Brilliance: Catch the light | 205012 | [205012-brilliance-catch-the-light.json](./205012-brilliance-catch-the-light.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
+| Brilliant Hamsters! | 62569 | [62569-brilliant-hamsters.json](./62569-brilliant-hamsters.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brimstone | 25894 | [25894-brimstone.json](./25894-brimstone.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
