@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
 | Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
+| Japanese Prime Minister: Yamato Soichiro | 97535 | [97535-japanese-prime-minister-yamato-soichiro.json](./97535-japanese-prime-minister-yamato-soichiro.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Puzzle | 152874 | [152874-japanese-puzzle.json](./152874-japanese-puzzle.json) |
 | Japanese Rail Sim 3D Journey in suburbs #1 Vol.2 | 85198 | [85198-japanese-rail-sim-3d-journey-in-suburbs-1-vol-2.json](./85198-japanese-rail-sim-3d-journey-in-suburbs-1-vol-2.json) |
