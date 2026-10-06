@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
+| Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Caine Plus | 257550 | [257550-tailor-tales-caine-plus.json](./257550-tailor-tales-caine-plus.json) |
 | Tailor Tales: Eeyok Plus | 399054 | [399054-tailor-tales-eeyok-plus.json](./399054-tailor-tales-eeyok-plus.json) |
@@ -5945,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horny Maid and the Daughter are Futanari | 98038 | [98038-the-horny-maid-and-the-daughter-are-futanari.json](./98038-the-horny-maid-and-the-daughter-are-futanari.json) |
+| The Horologist's Legacy | 110954 | [110954-the-horologists-legacy.json](./110954-the-horologists-legacy.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
@@ -5964,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
+| The Hour Has Come | 110951 | [110951-the-hour-has-come.json](./110951-the-hour-has-come.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
@@ -6848,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
 | The Legend of Elrian | 290002 | [290002-the-legend-of-elrian.json](./290002-the-legend-of-elrian.json) |
 | The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
+| The Legend of Evil | 110892 | [110892-the-legend-of-evil.json](./110892-the-legend-of-evil.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
@@ -7516,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask Reveals Disgusting Face | 143479 | [143479-the-mask-reveals-disgusting-face.json](./143479-the-mask-reveals-disgusting-face.json) |
 | The Mask: From Zero to Hero | 218429 | [218429-the-mask-from-zero-to-hero.json](./218429-the-mask-from-zero-to-hero.json) |
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
+| The Masked Mage | 110947 | [110947-the-masked-mage.json](./110947-the-masked-mage.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
