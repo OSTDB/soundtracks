@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Savana Park | 82301 | [82301-jissen-pachi-slot-hisshouhou-savana-park.json](./82301-jissen-pachi-slot-hisshouhou-savana-park.json) |
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
 | Jissen Pachi-Slot Hisshouhou! Ultraman Club ST | 82306 | [82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json](./82306-jissen-pachi-slot-hisshouhou-ultraman-club-st.json) |
+| Jissen Pachi-Slot Hisshouhou! Yamasa Densetsu | 67711 | [67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json](./67711-jissen-pachi-slot-hisshouhou-yamasa-densetsu.json) |
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
 | Jissen Pachinko Hisshouhou! CR Aladdin Destiny EX | 82311 | [82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json](./82311-jissen-pachinko-hisshouhou-cr-aladdin-destiny-ex.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
