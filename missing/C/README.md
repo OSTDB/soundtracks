@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
+| Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardlings | 118787 | [118787-cardlings.json](./118787-cardlings.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
+| CardMatch | 116951 | [116951-cardmatch.json](./116951-cardmatch.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
@@ -2008,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
+| Cat Defense | 116940 | [116940-cat-defense.json](./116940-cat-defense.json) |
 | Cat Demon Island | 109903 | [109903-cat-demon-island.json](./109903-cat-demon-island.json) |
 | Cat Designer Mocha | 152192 | [152192-cat-designer-mocha.json](./152192-cat-designer-mocha.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
@@ -3313,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
+| Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
@@ -3371,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
 | Cheesy Munch | 260200 | [260200-cheesy-munch.json](./260200-cheesy-munch.json) |
+| Cheesy Pursuit | 116953 | [116953-cheesy-pursuit.json](./116953-cheesy-pursuit.json) |
 | Cheesy Trials | 281529 | [281529-cheesy-trials.json](./281529-cheesy-trials.json) |
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetah Simulator | 88155 | [88155-cheetah-simulator.json](./88155-cheetah-simulator.json) |
@@ -7763,6 +7768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
+| Core Meltdown | 116954 | [116954-core-meltdown.json](./116954-core-meltdown.json) |
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
 | Core MUD | 229773 | [229773-core-mud.json](./229773-core-mud.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
@@ -8434,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
 | Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
+| CPU Architecture Sim | 116930 | [116930-cpu-architecture-sim.json](./116930-cpu-architecture-sim.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
@@ -9921,6 +9928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
+| Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
@@ -10154,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
 | Cube Link | 51966 | [51966-cube-link.json](./51966-cube-link.json) |
+| Cube Master | 116966 | [116966-cube-master.json](./116966-cube-master.json) |
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
 | Cube Master: Light Adventure | 408975 | [408975-cube-master-light-adventure.json](./408975-cube-master-light-adventure.json) |
 | Cube Matching King | 108495 | [108495-cube-matching-king.json](./108495-cube-matching-king.json) |
