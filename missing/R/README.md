@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rename the History | 334326 | [334326-rename-the-history.json](./334326-rename-the-history.json) |
 | Renard's Skin Care Routine | 378901 | [378901-renards-skin-care-routine.json](./378901-renards-skin-care-routine.json) |
 | Renascor | 389677 | [389677-renascor.json](./389677-renascor.json) |
+| Renations | 64214 | [64214-renations.json](./64214-renations.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
 | Rend | 27770 | [27770-rend.json](./27770-rend.json) |
 | Rendagor | 372058 | [372058-rendagor.json](./372058-rendagor.json) |
