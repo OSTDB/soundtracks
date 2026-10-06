@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
+| Infommi | 108363 | [108363-infommi.json](./108363-infommi.json) |
 | Informal Detective | 119661 | [119661-informal-detective.json](./119661-informal-detective.json) |
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
