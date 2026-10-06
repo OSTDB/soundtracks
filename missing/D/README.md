@@ -7725,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Kyanta | 372649 | [372649-dr-kyanta.json](./372649-dr-kyanta.json) |
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
+| Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
