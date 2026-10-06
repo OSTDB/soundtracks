@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
 | Haunted Hotel: Eclipse | 139200 | [139200-haunted-hotel-eclipse.json](./139200-haunted-hotel-eclipse.json) |
 | Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
+| Haunted Hotel: Eternity | 99723 | [99723-haunted-hotel-eternity.json](./99723-haunted-hotel-eternity.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
 | Haunted Hotel: Lost Dreams | 182388 | [182388-haunted-hotel-lost-dreams.json](./182388-haunted-hotel-lost-dreams.json) |
 | Haunted Hotel: Personal Nightmare | 182282 | [182282-haunted-hotel-personal-nightmare.json](./182282-haunted-hotel-personal-nightmare.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroxTrio | 183027 | [183027-heroxtrio.json](./183027-heroxtrio.json) |
 | Herpit | 385749 | [385749-herpit.json](./385749-herpit.json) |
 | HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
+| Herrscher der Meere | 99697 | [99697-herrscher-der-meere.json](./99697-herrscher-der-meere.json) |
 | HerSalon | 401077 | [401077-hersalon.json](./401077-hersalon.json) |
 | Herschel Spaceport | 262995 | [262995-herschel-spaceport.json](./262995-herschel-spaceport.json) |
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
@@ -7025,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
+| Hypnosis Lite: mind-blowing adventure | 99713 | [99713-hypnosis-lite-mind-blowing-adventure.json](./99713-hypnosis-lite-mind-blowing-adventure.json) |
 | Hypnosis Mic: Alternative Rap Battle 1st Period | 287897 | [287897-hypnosis-mic-alternative-rap-battle-1st-period.json](./287897-hypnosis-mic-alternative-rap-battle-1st-period.json) |
 | Hypnosis Mic: Alternative Rap Battle 2nd Period | 287898 | [287898-hypnosis-mic-alternative-rap-battle-2nd-period.json](./287898-hypnosis-mic-alternative-rap-battle-2nd-period.json) |
 | Hypnosis Microphone: Alternative Rap Battle | 132016 | [132016-hypnosis-microphone-alternative-rap-battle.json](./132016-hypnosis-microphone-alternative-rap-battle.json) |
