@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
 | OshiRabu: Waifus Over Husbandos - Love or Die | 150239 | [150239-oshirabu-waifus-over-husbandos-love-or-die.json](./150239-oshirabu-waifus-over-husbandos-love-or-die.json) |
+| Oshiri Princess | 90936 | [90936-oshiri-princess.json](./90936-oshiri-princess.json) |
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
