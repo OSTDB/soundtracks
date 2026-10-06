@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
+| Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
+| Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
 | Comet Crusher: Block Breaker | 169829 | [169829-comet-crusher-block-breaker.json](./169829-comet-crusher-block-breaker.json) |
@@ -10969,7 +10971,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
+| Cuthbert Goes Digging | 73989 | [73989-cuthbert-goes-digging.json](./73989-cuthbert-goes-digging.json) |
 | Cuthbert in the Jungle | 114769 | [114769-cuthbert-in-the-jungle.json](./114769-cuthbert-in-the-jungle.json) |
+| Cuthbert in the Mines | 74022 | [74022-cuthbert-in-the-mines.json](./74022-cuthbert-in-the-mines.json) |
 | Cutics | 184564 | [184564-cutics.json](./184564-cutics.json) |
 | Cutie Clash | 85071 | [85071-cutie-clash.json](./85071-cutie-clash.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
@@ -11155,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberflight | 152497 | [152497-cyberflight.json](./152497-cyberflight.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
+| Cybergenic Ranger: Secret of the 7th Planet | 74000 | [74000-cybergenic-ranger-secret-of-the-7th-planet.json](./74000-cybergenic-ranger-secret-of-the-7th-planet.json) |
 | CyberGladiators | 50149 | [50149-cybergladiators.json](./50149-cybergladiators.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
