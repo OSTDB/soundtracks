@@ -5243,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
+| Classic Arcadia & Baby Arcadia | 85735 | [85735-classic-arcadia-and-baby-arcadia.json](./85735-classic-arcadia-and-baby-arcadia.json) |
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Board Game Bundle: Ticket to Ride, Cluedo, Mouse Trap, Battleship and The Game of Life 2 | 328543 | [328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json](./328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json) |
@@ -9671,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossFire | 138120 | [138120-crossfire.json](./138120-crossfire.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | Crossfire 2 | 76994 | [76994-crossfire-2.json](./76994-crossfire-2.json) |
+| CrossFire HD | 85740 | [85740-crossfire-hd.json](./85740-crossfire-hd.json) |
 | Crossfire II | 170284 | [170284-crossfire-ii.json](./170284-crossfire-ii.json) |
 | Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
@@ -10558,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
+| Cultures: Die Abenteuerbox | 85764 | [85764-cultures-die-abenteuerbox.json](./85764-cultures-die-abenteuerbox.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
 | Cultures: Northland | 11381 | [11381-cultures-northland.json](./11381-cultures-northland.json) |
 | Cultures: Northland + 8th Wonder of the World | 154437 | [154437-cultures-northland-8th-wonder-of-the-world.json](./154437-cultures-northland-8th-wonder-of-the-world.json) |
