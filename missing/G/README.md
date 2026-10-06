@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Pocket Billiards | 75936 | [75936-galactic-pocket-billiards.json](./75936-galactic-pocket-billiards.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
+| Galactic Reign | 63665 | [63665-galactic-reign.json](./63665-galactic-reign.json) |
 | Galactic Revolution | 125315 | [125315-galactic-revolution.json](./125315-galactic-revolution.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins | 307805 | [307805-ghosts-n-goblins.json](./307805-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
+| Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
@@ -3401,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
+| Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
 | Gokujou!! Mecha Mote Iinchou: Girls Motekawa Box | 130713 | [130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json](./130713-gokujou-mecha-mote-iinchou-girls-motekawa-box.json) |
