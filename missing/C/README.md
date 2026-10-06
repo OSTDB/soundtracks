@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
 | Car Racing Game | 288265 | [288265-car-racing-game.json](./288265-car-racing-game.json) |
+| Car Racing Game for Toddlers and Kids | 99695 | [99695-car-racing-game-for-toddlers-and-kids.json](./99695-car-racing-game-for-toddlers-and-kids.json) |
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing Master: Car Game 3D | 288982 | [288982-car-racing-master-car-game-3d.json](./288982-car-racing-master-car-game-3d.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
@@ -6637,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosse | 19036 | [19036-colosse.json](./19036-colosse.json) |
 | Colosseum | 320834 | [320834-colosseum.json](./320834-colosseum.json) |
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
+| Colosso Crystal Skulls | 99727 | [99727-colosso-crystal-skulls.json](./99727-colosso-crystal-skulls.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
@@ -7201,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
 | Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
+| Congo the Movie: Descent into Zinj | 99690 | [99690-congo-the-movie-descent-into-zinj.json](./99690-congo-the-movie-descent-into-zinj.json) |
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Congo: The Movie | 217940 | [217940-congo-the-movie.json](./217940-congo-the-movie.json) |
@@ -7980,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cortex Chronicles 2: The Ride of Jax Riven | 290988 | [290988-cortex-chronicles-2-the-ride-of-jax-riven.json](./290988-cortex-chronicles-2-the-ride-of-jax-riven.json) |
 | Cortex Chronicles 3: The Escape of Rowan Reed | 290989 | [290989-cortex-chronicles-3-the-escape-of-rowan-reed.json](./290989-cortex-chronicles-3-the-escape-of-rowan-reed.json) |
 | Cortex Chronicles 6: The Infiltration of Nyx Sterling | 290986 | [290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json](./290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json) |
+| Cortex Protocol | 99689 | [99689-cortex-protocol.json](./99689-cortex-protocol.json) |
 | Corum II: Dark Lord | 146209 | [146209-corum-ii-dark-lord.json](./146209-corum-ii-dark-lord.json) |
 | Corum III: Chaotic Magic | 146210 | [146210-corum-iii-chaotic-magic.json](./146210-corum-iii-chaotic-magic.json) |
 | Corum Online | 124615 | [124615-corum-online.json](./124615-corum-online.json) |
