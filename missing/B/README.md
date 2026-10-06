@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
 | Baby Panda World | 231968 | [231968-baby-panda-world.json](./231968-baby-panda-world.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
+| Baby Panda's Forest Feast: Party Fun | 105846 | [105846-baby-pandas-forest-feast-party-fun.json](./105846-baby-pandas-forest-feast-party-fun.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
 | Baby Redemption | 115554 | [115554-baby-redemption.json](./115554-baby-redemption.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
 | Baby Shark VR Dancing | 132590 | [132590-baby-shark-vr-dancing.json](./132590-baby-shark-vr-dancing.json) |
 | Baby Shark: ABC Phonics | 207236 | [207236-baby-shark-abc-phonics.json](./207236-baby-shark-abc-phonics.json) |
+| Baby Tiger Care: My Cute Virtual Pet Friend | 105840 | [105840-baby-tiger-care-my-cute-virtual-pet-friend.json](./105840-baby-tiger-care-my-cute-virtual-pet-friend.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
@@ -4007,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
+| Big Craft Exploration 2 | 105839 | [105839-big-craft-exploration-2.json](./105839-big-craft-exploration-2.json) |
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
@@ -9364,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungee Run | 295472 | [295472-bungee-run.json](./295472-bungee-run.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
+| Bungo Stray Dogs: Tales of the Lost | 105830 | [105830-bungo-stray-dogs-tales-of-the-lost.json](./105830-bungo-stray-dogs-tales-of-the-lost.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
 | Bunk.Town | 185446 | [185446-bunk-town.json](./185446-bunk-town.json) |
 | Bunker | 170332 | [170332-bunker.json](./170332-bunker.json) |
