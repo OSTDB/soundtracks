@@ -3081,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invocation: The Festival of Souls | 221084 | [221084-invocation-the-festival-of-souls.json](./221084-invocation-the-festival-of-souls.json) |
 | Invokers Tournament | 60781 | [60781-invokers-tournament.json](./60781-invokers-tournament.json) |
 | Involved | 124649 | [124649-involved.json](./124649-involved.json) |
+| Inwai Kyoudan: Kegarenaki Joseito o Okasu Tame no Seiiki | 108941 | [108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json](./108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json) |
 | Inyoku Shoujo | 385275 | [385275-inyoku-shoujo.json](./385275-inyoku-shoujo.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
