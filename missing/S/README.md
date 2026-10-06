@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
 | Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sanguo Warriors VR2 | 110534 | [110534-sanguo-warriors-vr2.json](./110534-sanguo-warriors-vr2.json) |
+| Sānguó Yōngbīng Chuánqí | 114316 | [114316-sanguo-yongbing-chuanqi.json](./114316-sanguo-yongbing-chuanqi.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó Zhì: Qúnxióng Zhēngbà | 350017 | [350017-sanguo-zhi-qunxiong-zhengba.json](./350017-sanguo-zhi-qunxiong-zhengba.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
 | Sānguózhì: Chìbì zhī Zhàn | 48289 | [48289-sanguozhi-chibi-zhi-zhan.json](./48289-sanguozhi-chibi-zhi-zhan.json) |
 | Sangwich | 186069 | [186069-sangwich.json](./186069-sangwich.json) |
+| Sānhé Dàshén | 114279 | [114279-sanhe-dashen.json](./114279-sanhe-dashen.json) |
 | Sani Yang's Laboratory | 330229 | [330229-sani-yangs-laboratory.json](./330229-sani-yangs-laboratory.json) |
 | Sanic Ball | 136820 | [136820-sanic-ball.json](./136820-sanic-ball.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
@@ -3694,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of The Forerunner | 379567 | [379567-shadow-of-the-forerunner.json](./379567-shadow-of-the-forerunner.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
+| Shadow of the Groundhog | 114304 | [114304-shadow-of-the-groundhog.json](./114304-shadow-of-the-groundhog.json) |
 | Shadow of the Guild | 188902 | [188902-shadow-of-the-guild.json](./188902-shadow-of-the-guild.json) |
 | Shadow of the Mask | 75020 | [75020-shadow-of-the-mask.json](./75020-shadow-of-the-mask.json) |
 | Shadow of the Moonlight | 384232 | [384232-shadow-of-the-moonlight.json](./384232-shadow-of-the-moonlight.json) |
@@ -10112,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Riders | 211672 | [211672-soul-riders.json](./211672-soul-riders.json) |
+| Soul Room | 114271 | [114271-soul-room.json](./114271-soul-room.json) |
 | Soul Runner | 285563 | [285563-soul-runner.json](./285563-soul-runner.json) |
 | Soul Rush | 120231 | [120231-soul-rush.json](./120231-soul-rush.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
@@ -18206,6 +18210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
+| Super Versus | 114291 | [114291-super-versus.json](./114291-super-versus.json) |
 | Super Video Golf | 249343 | [249343-super-video-golf.json](./249343-super-video-golf.json) |
 | Super Vili | 160167 | [160167-super-vili.json](./160167-super-vili.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
@@ -19529,12 +19534,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of Eternity | 59852 | [59852-symphony-of-eternity.json](./59852-symphony-of-eternity.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
+| Symphony of Stars | 114255 | [114255-symphony-of-stars.json](./114255-symphony-of-stars.json) |
 | Symphony of the Night | 181156 | [181156-symphony-of-the-night.json](./181156-symphony-of-the-night.json) |
 | Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
 | Symphony of the Stars | 321464 | [321464-symphony-of-the-stars.json](./321464-symphony-of-the-stars.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
+| Symploke: Legend of Gustavo Bueno - Chapter 3 | 114303 | [114303-symploke-legend-of-gustavo-bueno-chapter-3.json](./114303-symploke-legend-of-gustavo-bueno-chapter-3.json) |
 | Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
 | Symptoms of Deceit | 323729 | [323729-symptoms-of-deceit.json](./323729-symptoms-of-deceit.json) |
 | Symptoms of Infection | 406211 | [406211-symptoms-of-infection.json](./406211-symptoms-of-infection.json) |
