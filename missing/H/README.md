@@ -4475,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
 | Hit 'N Miss | 40349 | [40349-hit-n-miss.json](./40349-hit-n-miss.json) |
+| Hit & Knock down | 107076 | [107076-hit-and-knock-down.json](./107076-hit-and-knock-down.json) |
 | Hit & Run VR | 116828 | [116828-hit-and-run-vr.json](./116828-hit-and-run-vr.json) |
 | Hit & Run: Solo Leveling | 208922 | [208922-hit-and-run-solo-leveling.json](./208922-hit-and-run-solo-leveling.json) |
 | Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
