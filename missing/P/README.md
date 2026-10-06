@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain-T | 361288 | [361288-pain-t.json](./361288-pain-t.json) |
 | Pain: Movie Studio | 21612 | [21612-pain-movie-studio.json](./21612-pain-movie-studio.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
+| Painball | 70618 | [70618-painball.json](./70618-painball.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
 | Painkiller: Hell & Damnation: Collector's Edition | 25046 | [25046-painkiller-hell-and-damnation-collectors-edition.json](./25046-painkiller-hell-and-damnation-collectors-edition.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pamina vs. Slimes | 341598 | [341598-pamina-vs-slimes.json](./341598-pamina-vs-slimes.json) |
+| Pamoja Mtaani | 70565 | [70565-pamoja-mtaani.json](./70565-pamoja-mtaani.json) |
 | Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
@@ -1143,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel | 259643 | [259643-parallel.json](./259643-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
 | Parallel Arena | 105134 | [105134-parallel-arena.json](./105134-parallel-arena.json) |
+| Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
