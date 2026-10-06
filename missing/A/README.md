@@ -9505,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
 | Ayoub: Episode 2 | 166173 | [166173-ayoub-episode-2.json](./166173-ayoub-episode-2.json) |
 | Ayre | 185026 | [185026-ayre.json](./185026-ayre.json) |
+| Ayre and the Crystal Comet | 116260 | [116260-ayre-and-the-crystal-comet.json](./116260-ayre-and-the-crystal-comet.json) |
 | Ayrton Senna Kart Duel Special | 285994 | [285994-ayrton-senna-kart-duel-special.json](./285994-ayrton-senna-kart-duel-special.json) |
 | Ayrton Senna Racing | 265881 | [265881-ayrton-senna-racing.json](./265881-ayrton-senna-racing.json) |
 | Ayse Hairdresser | 293212 | [293212-ayse-hairdresser.json](./293212-ayse-hairdresser.json) |
