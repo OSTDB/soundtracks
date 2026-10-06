@@ -3097,9 +3097,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links Puzzle | 283377 | [283377-links-puzzle.json](./283377-links-puzzle.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
 | Links: Championship Course - Castlepines | 93225 | [93225-links-championship-course-castlepines.json](./93225-links-championship-course-castlepines.json) |
+| Links: Championship Course - Firestone Country Club | 73485 | [73485-links-championship-course-firestone-country-club.json](./73485-links-championship-course-firestone-country-club.json) |
 | Links: Championship Course - Hyatt Dorado Beach Resort | 77911 | [77911-links-championship-course-hyatt-dorado-beach-resort.json](./77911-links-championship-course-hyatt-dorado-beach-resort.json) |
 | Links: Championship Course - Mauna Kea | 71555 | [71555-links-championship-course-mauna-kea.json](./71555-links-championship-course-mauna-kea.json) |
+| Links: Championship Course - Pinehurst Country Club | 73461 | [73461-links-championship-course-pinehurst-country-club.json](./73461-links-championship-course-pinehurst-country-club.json) |
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
+| Links: Championship Course: Innisbrook - Copperhead | 73481 | [73481-links-championship-course-innisbrook-copperhead.json](./73481-links-championship-course-innisbrook-copperhead.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
 | Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
@@ -5469,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Ball | 92281 | [92281-lunar-ball.json](./92281-lunar-ball.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
+| Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
