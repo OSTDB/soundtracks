@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Effect | 321508 | [321508-rage-effect.json](./321508-rage-effect.json) |
 | Rage Fishing | 373656 | [373656-rage-fishing.json](./373656-rage-fishing.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
+| Rage Hard | 67636 | [67636-rage-hard.json](./67636-rage-hard.json) |
 | Rage Jump | 141019 | [141019-rage-jump.json](./141019-rage-jump.json) |
 | Rage Multiplayer | 212734 | [212734-rage-multiplayer.json](./212734-rage-multiplayer.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
@@ -955,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Ramp Bike Racing | 322072 | [322072-ramp-bike-racing.json](./322072-ramp-bike-racing.json) |
 | Ramp Car Jumping | 147852 | [147852-ramp-car-jumping.json](./147852-ramp-car-jumping.json) |
+| Ramp Champ | 67621 | [67621-ramp-champ.json](./67621-ramp-champ.json) |
 | Rampage | 198874 | [198874-rampage.json](./198874-rampage.json) |
 | Rampage | 278053 | [278053-rampage.json](./278053-rampage.json) |
 | Rampage | 278055 | [278055-rampage.json](./278055-rampage.json) |
@@ -4816,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
 | Roarr! | 96870 | [96870-roarr.json](./96870-roarr.json) |
 | Roarr!: Jurassic Edition | 111909 | [111909-roarr-jurassic-edition.json](./111909-roarr-jurassic-edition.json) |
+| Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
