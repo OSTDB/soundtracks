@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
 | MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
+| Mazekko Tower | 83814 | [83814-mazekko-tower.json](./83814-mazekko-tower.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
 | Mazeman | 174276 | [174276-mazeman.json](./174276-mazeman.json) |
 | MazeMaze | 253478 | [253478-mazemaze.json](./253478-mazemaze.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
 | Mechsprofit | 96842 | [96842-mechsprofit.json](./96842-mechsprofit.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
+| MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
@@ -3888,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 4: Kabuto Version | 91532 | [91532-medarot-4-kabuto-version.json](./91532-medarot-4-kabuto-version.json) |
 | Medarot 5: Susutake-mura no Tenkousei - Kuwagata Version | 91534 | [91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json](./91534-medarot-5-susutake-mura-no-tenkousei-kuwagata-version.json) |
 | Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
+| Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
 | Medarot Classics | 71577 | [71577-medarot-classics.json](./71577-medarot-classics.json) |
@@ -6984,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
+| Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
@@ -8891,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
 | Monstopia: Chronicle of Jade's | 201076 | [201076-monstopia-chronicle-of-jades.json](./201076-monstopia-chronicle-of-jades.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
+| Monstress Academy | 83802 | [83802-monstress-academy.json](./83802-monstress-academy.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
 | Monstrocity | 179554 | [179554-monstrocity.json](./179554-monstrocity.json) |
@@ -9051,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
+| MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
