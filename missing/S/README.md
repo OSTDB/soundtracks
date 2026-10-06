@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Score Gun | 225603 | [225603-score-gun.json](./225603-score-gun.json) |
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
+| Score Rush | 76168 | [76168-score-rush.json](./76168-score-rush.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
 | Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
@@ -8892,6 +8893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
+| SokoMania | 76167 | [76167-sokomania.json](./76167-sokomania.json) |
 | SokoMatch: Lizard Saga | 152722 | [152722-sokomatch-lizard-saga.json](./152722-sokomatch-lizard-saga.json) |
 | SokoMelody | 236956 | [236956-sokomelody.json](./236956-sokomelody.json) |
 | Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
@@ -9082,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsis | 391885 | [391885-solipsis.json](./391885-solipsis.json) |
 | Solipsism Reigns | 183434 | [183434-solipsism-reigns.json](./183434-solipsism-reigns.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
+| Solipskier | 76132 | [76132-solipskier.json](./76132-solipskier.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
@@ -10210,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukyuu Guren-tai | 44759 | [44759-soukyuu-guren-tai.json](./44759-soukyuu-guren-tai.json) |
 | Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
+| Soul | 76174 | [76174-soul.json](./76174-soul.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
@@ -14973,6 +14977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitched | 28121 | [28121-stitched.json](./28121-stitched.json) |
 | Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
+| StixWorld | 76141 | [76141-stixworld.json](./76141-stixworld.json) |
 | STLD Redux: Episode 02 | 34895 | [34895-stld-redux-episode-02.json](./34895-stld-redux-episode-02.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
 | Stock Car Crash | 43523 | [43523-stock-car-crash.json](./43523-stock-car-crash.json) |
@@ -14981,6 +14986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
 | Stock Car Racing | 87867 | [87867-stock-car-racing.json](./87867-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
+| Stock Exchange Kabutore Next | 76136 | [76136-stock-exchange-kabutore-next.json](./76136-stock-exchange-kabutore-next.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
 | Stock Stack | 312205 | [312205-stock-stack.json](./312205-stock-stack.json) |
@@ -15118,6 +15124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
+| Storm Lover | 76133 | [76133-storm-lover.json](./76133-storm-lover.json) |
 | Storm Lover 2nd | 132071 | [132071-storm-lover-2nd.json](./132071-storm-lover-2nd.json) |
 | Storm Lover 2nd V | 132073 | [132073-storm-lover-2nd-v.json](./132073-storm-lover-2nd-v.json) |
 | Storm Lover Natsu Koi!! | 132070 | [132070-storm-lover-natsu-koi.json](./132070-storm-lover-natsu-koi.json) |
@@ -15146,6 +15153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbane | 258956 | [258956-stormbane.json](./258956-stormbane.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
+| Stormbirds | 76134 | [76134-stormbirds.json](./76134-stormbirds.json) |
 | Stormblades | 158028 | [158028-stormblades.json](./158028-stormblades.json) |
 | StormBorn: War of Legends | 83917 | [83917-stormborn-war-of-legends.json](./83917-stormborn-war-of-legends.json) |
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
