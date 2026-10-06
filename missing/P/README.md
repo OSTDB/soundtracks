@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
 | Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
+| Pazzon | 92649 | [92649-pazzon.json](./92649-pazzon.json) |
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
 | Playroom Racer 2 | 259028 | [259028-playroom-racer-2.json](./259028-playroom-racer-2.json) |
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
+| Playshake | 92678 | [92678-playshake.json](./92678-playshake.json) |
 | Playskool Puzzles | 209361 | [209361-playskool-puzzles.json](./209361-playskool-puzzles.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
