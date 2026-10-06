@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
+| Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
@@ -1568,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
+| Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
@@ -4975,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meor | 144609 | [144609-meor.json](./144609-meor.json) |
 | Meow | 183951 | [183951-meow.json](./183951-meow.json) |
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
+| Meow | 83171 | [83171-meow.json](./83171-meow.json) |
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
@@ -6397,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkTea Time | 373150 | [373150-milktea-time.json](./373150-milktea-time.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
+| Milky Princess | 83199 | [83199-milky-princess.json](./83199-milky-princess.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Milky Season | 166582 | [166582-milky-season.json](./166582-milky-season.json) |
 | Milky Shaky Lab | 282648 | [282648-milky-shaky-lab.json](./282648-milky-shaky-lab.json) |
