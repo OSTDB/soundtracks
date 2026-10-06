@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
+| Ignis - Brain Teasing Puzzle Game | 105843 | [105843-ignis-brain-teasing-puzzle-game.json](./105843-ignis-brain-teasing-puzzle-game.json) |
 | Ignis Avis Venatio | 89417 | [89417-ignis-avis-venatio.json](./89417-ignis-avis-venatio.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignis Universia: Awakening of the Erudite Empress | 171380 | [171380-ignis-universia-awakening-of-the-erudite-empress.json](./171380-ignis-universia-awakening-of-the-erudite-empress.json) |
