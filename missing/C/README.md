@@ -4817,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Racer 2: Race and Chase | 88499 | [88499-circuit-racer-2-race-and-chase.json](./88499-circuit-racer-2-race-and-chase.json) |
 | Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
+| Circuit Strike.One | 68244 | [68244-circuit-strike-one.json](./68244-circuit-strike-one.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuit: Laser Maze | 190460 | [190460-circuit-laser-maze.json](./190460-circuit-laser-maze.json) |
@@ -9027,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cheebo: Puzzle Party | 85552 | [85552-crazy-cheebo-puzzle-party.json](./85552-crazy-cheebo-puzzle-party.json) |
 | Crazy Chewy | 305436 | [305436-crazy-chewy.json](./305436-crazy-chewy.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
+| Crazy Chicken Adventure: Pharaoh's Treasure | 68235 | [68235-crazy-chicken-adventure-pharaohs-treasure.json](./68235-crazy-chicken-adventure-pharaohs-treasure.json) |
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Carnival | 268116 | [268116-crazy-chicken-carnival.json](./268116-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
