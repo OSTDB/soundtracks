@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pear Potion | 142726 | [142726-pear-potion.json](./142726-pear-potion.json) |
 | Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
+| Pearl Harbor Attack! Attack! | 71730 | [71730-pearl-harbor-attack-attack.json](./71730-pearl-harbor-attack-attack.json) |
 | Pearl Harbor: Defend the Fleet | 69574 | [69574-pearl-harbor-defend-the-fleet.json](./69574-pearl-harbor-defend-the-fleet.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
