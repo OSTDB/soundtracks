@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
 | Family Land: Farmer Simulator | 244331 | [244331-family-land-farmer-simulator.json](./244331-family-land-farmer-simulator.json) |
+| Family Life | 98001 | [98001-family-life.json](./98001-family-life.json) |
 | Family Mahjong | 48769 | [48769-family-mahjong.json](./48769-family-mahjong.json) |
 | Family Mahjong II: Shanghai he no Michi | 48768 | [48768-family-mahjong-ii-shanghai-he-no-michi.json](./48768-family-mahjong-ii-shanghai-he-no-michi.json) |
 | Family Man | 107416 | [107416-family-man.json](./107416-family-man.json) |
