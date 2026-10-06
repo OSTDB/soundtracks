@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
 | Kawaii Koneko DS 3 | 130728 | [130728-kawaii-koneko-ds-3.json](./130728-kawaii-koneko-ds-3.json) |
 | Kawaii Memory | 158138 | [158138-kawaii-memory.json](./158138-kawaii-memory.json) |
+| Kawaii Panda | 95673 | [95673-kawaii-panda.json](./95673-kawaii-panda.json) |
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshmar: The Last Reverie | 397836 | [397836-koshmar-the-last-reverie.json](./397836-koshmar-the-last-reverie.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
+| Kosmo & Klax: Treehouse-Party | 95693 | [95693-kosmo-and-klax-treehouse-party.json](./95693-kosmo-and-klax-treehouse-party.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
