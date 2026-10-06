@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Champions League Season 2000/2001 | 389035 | [389035-uefa-champions-league-season-2000-2001.json](./389035-uefa-champions-league-season-2000-2001.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
+| UemeU | 63133 | [63133-uemeu.json](./63133-uemeu.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
