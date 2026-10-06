@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
+| Zeddas: Servant of Sheol | 74003 | [74003-zeddas-servant-of-sheol.json](./74003-zeddas-servant-of-sheol.json) |
 | Zeddytron 2081 | 293360 | [293360-zeddytron-2081.json](./293360-zeddytron-2081.json) |
 | Zedipede | 279732 | [279732-zedipede.json](./279732-zedipede.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
