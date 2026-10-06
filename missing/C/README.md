@@ -8408,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
+| Cow Defender | 97441 | [97441-cow-defender.json](./97441-cow-defender.json) |
 | Cow Evolution | 203205 | [203205-cow-evolution.json](./203205-cow-evolution.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cow V: The Great Egg Quest | 71060 | [71060-cow-v-the-great-egg-quest.json](./71060-cow-v-the-great-egg-quest.json) |
@@ -9919,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
 | Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
+| Crush Them All | 97523 | [97523-crush-them-all.json](./97523-crush-them-all.json) |
 | Crush Them! | 203780 | [203780-crush-them.json](./203780-crush-them.json) |
 | Crush Your Enemies | 17027 | [17027-crush-your-enemies.json](./17027-crush-your-enemies.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
