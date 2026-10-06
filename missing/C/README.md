@@ -7317,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
 | Conor Origins: T Trilogy | 292751 | [292751-conor-origins-t-trilogy.json](./292751-conor-origins-t-trilogy.json) |
 | Conquela | 286605 | [286605-conquela.json](./286605-conquela.json) |
+| Conquer | 83821 | [83821-conquer.json](./83821-conquer.json) |
 | Conquer City Wars | 100333 | [100333-conquer-city-wars.json](./100333-conquer-city-wars.json) |
 | Conquer Humanity | 225687 | [225687-conquer-humanity.json](./225687-conquer-humanity.json) |
 | Conquer II | 193841 | [193841-conquer-ii.json](./193841-conquer-ii.json) |
@@ -9569,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crome: Before Purgatory | 112764 | [112764-crome-before-purgatory.json](./112764-crome-before-purgatory.json) |
 | Cromwell | 134614 | [134614-cromwell.json](./134614-cromwell.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
+| Croneworld | 83815 | [83815-croneworld.json](./83815-croneworld.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
 | Cronos: Lazarus | 404917 | [404917-cronos-lazarus.json](./404917-cronos-lazarus.json) |
