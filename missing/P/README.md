@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
+| Parashoot Stan | 64196 | [64196-parashoot-stan.json](./64196-parashoot-stan.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
@@ -7826,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
+| Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
 | Prime Monster | 391820 | [391820-prime-monster.json](./391820-prime-monster.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
@@ -9473,6 +9475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
+| Punch Mania Hokuto no Ken 2: Gekitou Shura no Kuni Hen | 64166 | [64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json](./64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json) |
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
