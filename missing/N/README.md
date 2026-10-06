@@ -3455,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
+| Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
