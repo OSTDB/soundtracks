@@ -4036,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
+| Altar of Gems | 80167 | [80167-altar-of-gems.json](./80167-altar-of-gems.json) |
 | Altar War | 218585 | [218585-altar-war.json](./218585-altar-war.json) |
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
 | Altarays | 161165 | [161165-altarays.json](./161165-altarays.json) |
@@ -7286,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
+| Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
@@ -7302,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
 | Arkwhale | 303681 | [303681-arkwhale.json](./303681-arkwhale.json) |
+| ArkX | 80170 | [80170-arkx.json](./80170-arkx.json) |
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
