@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
 | Realm of Virtuals | 116823 | [116823-realm-of-virtuals.json](./116823-realm-of-virtuals.json) |
+| Realm Quest | 59256 | [59256-realm-quest.json](./59256-realm-quest.json) |
 | Realm Racer | 382379 | [382379-realm-racer.json](./382379-realm-racer.json) |
 | Realm Revolutions | 81696 | [81696-realm-revolutions.json](./81696-realm-revolutions.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
