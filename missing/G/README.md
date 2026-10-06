@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Online | 199503 | [199503-gnome-online.json](./199503-gnome-online.json) |
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnome Tournament | 149680 | [149680-gnome-tournament.json](./149680-gnome-tournament.json) |
+| Gnome Valley | 69485 | [69485-gnome-valley.json](./69485-gnome-valley.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
 | Gnomes 'n Giants | 303706 | [303706-gnomes-n-giants.json](./303706-gnomes-n-giants.json) |
@@ -5807,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | GunBang | 336677 | [336677-gunbang.json](./336677-gunbang.json) |
 | Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
+| Gunbee F-99: The Kidnapping of Lady Akiko | 69527 | [69527-gunbee-f-99-the-kidnapping-of-lady-akiko.json](./69527-gunbee-f-99-the-kidnapping-of-lady-akiko.json) |
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
 | Gunbird | 39352 | [39352-gunbird.json](./39352-gunbird.json) |
 | Gunbird 2 | 40150 | [40150-gunbird-2.json](./40150-gunbird-2.json) |
@@ -5818,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
+| GunboundM | 69500 | [69500-gunboundm.json](./69500-gunboundm.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
 | Gunbrella | 200900 | [200900-gunbrella.json](./200900-gunbrella.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
