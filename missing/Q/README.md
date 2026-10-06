@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
+| Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
 | Quarantine | 295910 | [295910-quarantine.json](./295910-quarantine.json) |
 | Quarantine Area: Zombie Attack | 370791 | [370791-quarantine-area-zombie-attack.json](./370791-quarantine-area-zombie-attack.json) |
 | Quarantine Circular | 102119 | [102119-quarantine-circular.json](./102119-quarantine-circular.json) |
