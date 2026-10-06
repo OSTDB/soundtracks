@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
+| Incrediblock: Brick-Breaker | 59203 | [59203-incrediblock-brick-breaker.json](./59203-incrediblock-brick-breaker.json) |
 | Incredibous Shells | 328060 | [328060-incredibous-shells.json](./328060-incredibous-shells.json) |
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
 | Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
 | Iron Overlord | 419834 | [419834-iron-overlord.json](./419834-iron-overlord.json) |
+| Iron Power | 59251 | [59251-iron-power.json](./59251-iron-power.json) |
 | Iron Quest | 57754 | [57754-iron-quest.json](./57754-iron-quest.json) |
 | Iron Rails | 179588 | [179588-iron-rails.json](./179588-iron-rails.json) |
 | Iron Rain | 346591 | [346591-iron-rain.json](./346591-iron-rain.json) |
