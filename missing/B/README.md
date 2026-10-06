@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
 | BaconBaconBacon | 58296 | [58296-baconbaconbacon.json](./58296-baconbaconbacon.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
+| Bacta 2: The Resurrection of Bacta | 66899 | [66899-bacta-2-the-resurrection-of-bacta.json](./66899-bacta-2-the-resurrection-of-bacta.json) |
 | Bacteria | 33386 | [33386-bacteria.json](./33386-bacteria.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
@@ -2206,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
+| Battle of Giants: Dinosaurs - Fight For Survival | 66885 | [66885-battle-of-giants-dinosaurs-fight-for-survival.json](./66885-battle-of-giants-dinosaurs-fight-for-survival.json) |
 | Battle of Giants: Dinosaurs Strike | 7907 | [7907-battle-of-giants-dinosaurs-strike.json](./7907-battle-of-giants-dinosaurs-strike.json) |
 | Battle of Giants: Dragons | 7908 | [7908-battle-of-giants-dragons.json](./7908-battle-of-giants-dragons.json) |
 | Battle of Giants: Mutant Insects | 7909 | [7909-battle-of-giants-mutant-insects.json](./7909-battle-of-giants-mutant-insects.json) |
@@ -9632,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
+| Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
@@ -9667,6 +9670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
 | Burger Zombies | 253502 | [253502-burger-zombies.json](./253502-burger-zombies.json) |
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
+| Burgerkill | 66987 | [66987-burgerkill.json](./66987-burgerkill.json) |
 | Burgers | 18912 | [18912-burgers.json](./18912-burgers.json) |
 | BurgerTime | 199462 | [199462-burgertime.json](./199462-burgertime.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
