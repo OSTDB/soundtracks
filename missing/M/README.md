@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
+| Mancala | 89473 | [89473-mancala.json](./89473-mancala.json) |
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
 | Math Fight: Multiplayer Game | 251531 | [251531-math-fight-multiplayer-game.json](./251531-math-fight-multiplayer-game.json) |
+| Math for Kids | 89519 | [89519-math-for-kids.json](./89519-math-for-kids.json) |
 | Math for the Real World | 301358 | [301358-math-for-the-real-world.json](./301358-math-for-the-real-world.json) |
 | Math Game | 188491 | [188491-math-game.json](./188491-math-game.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
@@ -8889,6 +8891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
 | Montana | 404424 | [404424-montana.json](./404424-montana.json) |
 | Montana Jones | 246423 | [246423-montana-jones.json](./246423-montana-jones.json) |
+| Montana Solitaire | 89470 | [89470-montana-solitaire.json](./89470-montana-solitaire.json) |
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
@@ -10378,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
+| Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multishot | 258107 | [258107-multishot.json](./258107-multishot.json) |
@@ -12000,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
 | Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
+| Myths of the World: Olympus | 89486 | [89486-myths-of-the-world-olympus.json](./89486-myths-of-the-world-olympus.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
