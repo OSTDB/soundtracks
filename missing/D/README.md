@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
+| D.C. II: Da Capo II - Dearest Marriage | 60356 | [60356-d-c-ii-da-capo-ii-dearest-marriage.json](./60356-d-c-ii-da-capo-ii-dearest-marriage.json) |
 | D.C. III PS: Da Coda III - Plus Story | 259595 | [259595-d-c-iii-ps-da-coda-iii-plus-story.json](./259595-d-c-iii-ps-da-coda-iii-plus-story.json) |
 | D.C. Re:tune | 327964 | [327964-d-c-re-tune.json](./327964-d-c-re-tune.json) |
 | D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
@@ -343,6 +344,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
+| Damatte Watashi no Muko ni Nare! | 60369 | [60369-damatte-watashi-no-muko-ni-nare.json](./60369-damatte-watashi-no-muko-ni-nare.json) |
+| Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
@@ -6601,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | Domestic Defense | 158113 | [158113-domestic-defense.json](./158113-domestic-defense.json) |
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
+| Domestic Dog Simulator | 60358 | [60358-domestic-dog-simulator.json](./60358-domestic-dog-simulator.json) |
 | Domestic Elementalism | 207217 | [207217-domestic-elementalism.json](./207217-domestic-elementalism.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
 | DomiDo | 118144 | [118144-domido.json](./118144-domido.json) |
