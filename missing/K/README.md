@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
 | Kero Blaster | 10255 | [10255-kero-blaster.json](./10255-kero-blaster.json) |
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
+| Kero Kero 7 | 72284 | [72284-kero-kero-7.json](./72284-kero-kero-7.json) |
 | Kero Kero Cowboy | 341144 | [341144-kero-kero-cowboy.json](./341144-kero-kero-cowboy.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
 | Kero Kero Keroppi no Mahou no Kuni Densetsu | 230327 | [230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json](./230327-kero-kero-keroppi-no-mahou-no-kuni-densetsu.json) |
@@ -1739,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
+| King of the Hill | 72285 | [72285-king-of-the-hill.json](./72285-king-of-the-hill.json) |
 | King of The Hill | 290519 | [290519-king-of-the-hill.json](./290519-king-of-the-hill.json) |
 | King of the Hill Classic | 256234 | [256234-king-of-the-hill-classic.json](./256234-king-of-the-hill-classic.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
@@ -3447,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
 | Kyofu Hyakumonogatari | 239610 | [239610-kyofu-hyakumonogatari.json](./239610-kyofu-hyakumonogatari.json) |
 | Kyogeki Quartet Fighters | 87818 | [87818-kyogeki-quartet-fighters.json](./87818-kyogeki-quartet-fighters.json) |
+| Kyojin no Doshin Kaihou Sensen Chibikko Chikko Daishuugou | 72278 | [72278-kyojin-no-doshin-kaihou-sensen-chibikko-chikko-daishuugou.json](./72278-kyojin-no-doshin-kaihou-sensen-chibikko-chikko-daishuugou.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
