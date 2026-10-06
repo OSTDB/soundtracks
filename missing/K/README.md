@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
 | Kotoba no Puzzle Mojipittan Wii | 68081 | [68081-kotoba-no-puzzle-mojipittan-wii.json](./68081-kotoba-no-puzzle-mojipittan-wii.json) |
+| Kotoba no Puzzle: Mojipittan | 80798 | [80798-kotoba-no-puzzle-mojipittan.json](./80798-kotoba-no-puzzle-mojipittan.json) |
 | Kotoba no Puzzle: Mojipittan DS | 68083 | [68083-kotoba-no-puzzle-mojipittan-ds.json](./68083-kotoba-no-puzzle-mojipittan-ds.json) |
 | Kotoba no Puzzle: Mojipittan Encore | 122292 | [122292-kotoba-no-puzzle-mojipittan-encore.json](./122292-kotoba-no-puzzle-mojipittan-encore.json) |
 | Kotoba no Puzzle: Mojipittan Wii Deluxe | 68080 | [68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json](./68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json) |
