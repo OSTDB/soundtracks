@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3 Lost Challenges | 309018 | [309018-the-3-lost-challenges.json](./309018-the-3-lost-challenges.json) |
 | The 37th Week | 75823 | [75823-the-37th-week.json](./75823-the-37th-week.json) |
 | The 39 Steps | 10985 | [10985-the-39-steps.json](./10985-the-39-steps.json) |
+| The 3D Adventures of Sailor Moon | 71148 | [71148-the-3d-adventures-of-sailor-moon.json](./71148-the-3d-adventures-of-sailor-moon.json) |
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
 | The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
 | The First Step | 215745 | [215745-the-first-step.json](./215745-the-first-step.json) |
+| The First Stitch | 71176 | [71176-the-first-stitch.json](./71176-the-first-stitch.json) |
 | The First Templar | 6994 | [6994-the-first-templar.json](./6994-the-first-templar.json) |
 | The First Templar: Special Edition | 154539 | [154539-the-first-templar-special-edition.json](./154539-the-first-templar-special-edition.json) |
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
@@ -8325,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
+| The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
 | The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
@@ -8499,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
 | The Purification | 164892 | [164892-the-purification.json](./164892-the-purification.json) |
+| The Purity of the Surf | 71173 | [71173-the-purity-of-the-surf.json](./71173-the-purity-of-the-surf.json) |
 | The Purple Coin: Club Saturn Edition | 381765 | [381765-the-purple-coin-club-saturn-edition.json](./381765-the-purple-coin-club-saturn-edition.json) |
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
 | The Purrfect Valentine | 177957 | [177957-the-purrfect-valentine.json](./177957-the-purrfect-valentine.json) |
@@ -8693,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
+| The Reposessor | 71161 | [71161-the-reposessor.json](./71161-the-reposessor.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Requiem of Shadows | 347855 | [347855-the-requiem-of-shadows.json](./347855-the-requiem-of-shadows.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
@@ -10311,6 +10316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
+| The Underworld | 71175 | [71175-the-underworld.json](./71175-the-underworld.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
@@ -10348,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unnamed Game | 152983 | [152983-the-unnamed-game.json](./152983-the-unnamed-game.json) |
 | The Unofficial Squaresoft MUD | 228483 | [228483-the-unofficial-squaresoft-mud.json](./228483-the-unofficial-squaresoft-mud.json) |
 | The Unplace | 373191 | [373191-the-unplace.json](./373191-the-unplace.json) |
+| The Unraveling | 71169 | [71169-the-unraveling.json](./71169-the-unraveling.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unrested | 334297 | [334297-the-unrested.json](./334297-the-unrested.json) |
 | The Unseen | 180565 | [180565-the-unseen.json](./180565-the-unseen.json) |
@@ -14195,6 +14202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomika Town o Tsukurou! | 376536 | [376536-tomika-town-o-tsukurou.json](./376536-tomika-town-o-tsukurou.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
+| Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
