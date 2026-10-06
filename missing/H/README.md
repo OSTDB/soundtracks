@@ -6868,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
+| Hyper Button | 76180 | [76180-hyper-button.json](./76180-hyper-button.json) |
 | Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
