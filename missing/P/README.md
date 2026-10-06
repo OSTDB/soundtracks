@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
+| Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
@@ -9223,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff Up: Minigames Pack 2 | 345700 | [345700-puff-up-minigames-pack-2.json](./345700-puff-up-minigames-pack-2.json) |
 | Puff Up: Playful Edition | 364095 | [364095-puff-up-playful-edition.json](./364095-puff-up-playful-edition.json) |
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
+| Puffer Fish | 95555 | [95555-puffer-fish.json](./95555-puffer-fish.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
