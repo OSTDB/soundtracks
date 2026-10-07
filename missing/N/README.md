@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
+| Necromasser | 56311 | [56311-necromasser.json](./56311-necromasser.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
 | Necromunda: Hired Gun - Gang Wars Cosmetics Bundle | 223535 | [223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json](./223535-necromunda-hired-gun-gang-wars-cosmetics-bundle.json) |
@@ -3671,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonet Concerto Distortion | 137992 | [137992-nonet-concerto-distortion.json](./137992-nonet-concerto-distortion.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
 | Nonetheless | 294362 | [294362-nonetheless.json](./294362-nonetheless.json) |
+| Nongon Alpha | 56305 | [56305-nongon-alpha.json](./56305-nongon-alpha.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
@@ -4185,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
 | Nuclecard | 380538 | [380538-nuclecard.json](./380538-nuclecard.json) |
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
+| Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
