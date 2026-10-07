@@ -5746,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Clonk Planet | 70474 | [70474-clonk-planet.json](./70474-clonk-planet.json) |
+| Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
 | Close Castles | 61157 | [61157-close-castles.json](./61157-close-castles.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
