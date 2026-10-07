@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagyan Land 3 | 48548 | [48548-wagyan-land-3.json](./48548-wagyan-land-3.json) |
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
+| Wai Wai Mahjong | 37652 | [37652-wai-wai-mahjong.json](./37652-wai-wai-mahjong.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
 | Wai-wai Check 11/15 | 345493 | [345493-wai-wai-check-11-15.json](./345493-wai-wai-check-11-15.json) |
 | Wai-wai Check 11/22 Saihousou | 341149 | [341149-wai-wai-check-11-22-saihousou.json](./341149-wai-wai-check-11-22-saihousou.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
+| World Jockey | 37650 | [37650-world-jockey.json](./37650-world-jockey.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
 | World Keepers: Last Resort | 30380 | [30380-world-keepers-last-resort.json](./30380-world-keepers-last-resort.json) |
 | World Kitchen Fever Cooking | 88635 | [88635-world-kitchen-fever-cooking.json](./88635-world-kitchen-fever-cooking.json) |
