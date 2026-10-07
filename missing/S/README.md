@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
+| SaGa Frontier | 11310 | [11310-saga-frontier.json](./11310-saga-frontier.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
 | Saga of Lucimia | 71020 | [71020-saga-of-lucimia.json](./71020-saga-of-lucimia.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max Hit the Road | 202 | [202-sam-and-max-hit-the-road.json](./202-sam-and-max-hit-the-road.json) |
 | Sam & Max Plunge Through Space | 131364 | [131364-sam-and-max-plunge-through-space.json](./131364-sam-and-max-plunge-through-space.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
+| Sam & Max: Beyond Time and Space | 185631 | [185631-sam-and-max-beyond-time-and-space.json](./185631-sam-and-max-beyond-time-and-space.json) |
 | Sam & Max: Beyond Time and Space | 854 | [854-sam-and-max-beyond-time-and-space.json](./854-sam-and-max-beyond-time-and-space.json) |
 | Sam & Max: Beyond Time and Space - Episode 1: Ice Station Santa | 27835 | [27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json](./27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json) |
 | Sam & Max: Beyond Time and Space - Episode 2: Moai Better Blues | 27836 | [27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json](./27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json) |
@@ -3354,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: Kamikaze Attack | 28077 | [28077-serious-sam-kamikaze-attack.json](./28077-serious-sam-kamikaze-attack.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
+| Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: The Second Encounter | 858 | [858-serious-sam-the-second-encounter.json](./858-serious-sam-the-second-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
@@ -5093,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiver: Vanishing Hitchhiker - Collector's Edition | 32791 | [32791-shiver-vanishing-hitchhiker-collectors-edition.json](./32791-shiver-vanishing-hitchhiker-collectors-edition.json) |
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
+| Shivers | 12477 | [12477-shivers.json](./12477-shivers.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
 | Shizue: Innocent Curse | 117086 | [117086-shizue-innocent-curse.json](./117086-shizue-innocent-curse.json) |
 | Shizuku: Japanese myth | 219610 | [219610-shizuku-japanese-myth.json](./219610-shizuku-japanese-myth.json) |
@@ -9702,6 +9706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror: One Shot Challenge | 273565 | [273565-song-of-horror-one-shot-challenge.json](./273565-song-of-horror-one-shot-challenge.json) |
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
+| Song of Nunu: A League of Legends Story | 182190 | [182190-song-of-nunu-a-league-of-legends-story.json](./182190-song-of-nunu-a-league-of-legends-story.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
 | Song of Swords | 56302 | [56302-song-of-swords.json](./56302-song-of-swords.json) |
@@ -19424,6 +19429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
 | SuperTux: Octo's Levels | 230761 | [230761-supertux-octos-levels.json](./230761-supertux-octos-levels.json) |
+| SuperTuxKart | 10763 | [10763-supertuxkart.json](./10763-supertuxkart.json) |
 | Supertype | 99180 | [99180-supertype.json](./99180-supertype.json) |
 | SuperVHS | 213268 | [213268-supervhs.json](./213268-supervhs.json) |
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
@@ -20453,6 +20459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
+| Swords & Soldiers | 10783 | [10783-swords-and-soldiers.json](./10783-swords-and-soldiers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
@@ -20625,6 +20632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate Wars | 51 | [51-syndicate-wars.json](./51-syndicate-wars.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
 | Syndoy | 251064 | [251064-syndoy.json](./251064-syndoy.json) |
+| Syndrome | 13366 | [13366-syndrome.json](./13366-syndrome.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
