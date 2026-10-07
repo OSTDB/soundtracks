@@ -7081,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
+| The Legend of Damon and the Ongoing Infection | 28728 | [28728-the-legend-of-damon-and-the-ongoing-infection.json](./28728-the-legend-of-damon-and-the-ongoing-infection.json) |
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
@@ -14849,6 +14850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
 | Tortured Souls | 293224 | [293224-tortured-souls.json](./293224-tortured-souls.json) |
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
+| Torus Trooper | 28718 | [28718-torus-trooper.json](./28718-torus-trooper.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
 | Toryumon | 266284 | [266284-toryumon.json](./266284-toryumon.json) |
 | ToSaVa | 409721 | [409721-tosava.json](./409721-tosava.json) |
@@ -17575,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Spree | 195623 | [195623-trigger-spree.json](./195623-trigger-spree.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Tennis | 255698 | [255698-trigger-tennis.json](./255698-trigger-tennis.json) |
+| Trigger Time | 28750 | [28750-trigger-time.json](./28750-trigger-time.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
 | Triggered: Assault | 110493 | [110493-triggered-assault.json](./110493-triggered-assault.json) |
