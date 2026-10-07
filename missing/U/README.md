@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
 | Ultimate Tennis: Revolution | 174841 | [174841-ultimate-tennis-revolution.json](./174841-ultimate-tennis-revolution.json) |
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
+| Ultimate Tic-Tac-Toe | 35501 | [35501-ultimate-tic-tac-toe.json](./35501-ultimate-tic-tac-toe.json) |
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trainz Collection | 206168 | [206168-ultimate-trainz-collection.json](./206168-ultimate-trainz-collection.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
