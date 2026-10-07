@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
+| Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delaware St. John: Volume 2 - The Town with No Name | 71043 | [71043-delaware-st-john-volume-2-the-town-with-no-name.json](./71043-delaware-st-john-volume-2-the-town-with-no-name.json) |
 | Delaweare | 255883 | [255883-delaweare.json](./255883-delaweare.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
+| Delay Reducer | 50447 | [50447-delay-reducer.json](./50447-delay-reducer.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
 | Delbo | 85567 | [85567-delbo.json](./85567-delbo.json) |
 | Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
@@ -4604,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaspora | 139764 | [139764-diaspora.json](./139764-diaspora.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
+| Diaspora: Shattered Armistice | 50396 | [50396-diaspora-shattered-armistice.json](./50396-diaspora-shattered-armistice.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
@@ -5684,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess: Majestic Quest | 138680 | [138680-disney-princess-majestic-quest.json](./138680-disney-princess-majestic-quest.json) |
 | Disney Princess: Pop-Up Story Adventures | 230373 | [230373-disney-princess-pop-up-story-adventures.json](./230373-disney-princess-pop-up-story-adventures.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
+| Disney Princess: Royal Horse Show | 50426 | [50426-disney-princess-royal-horse-show.json](./50426-disney-princess-royal-horse-show.json) |
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
 | Disney Princess: The Little Mermaid - Ariel's Princess Adventures | 137563 | [137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json](./137563-disney-princess-the-little-mermaid-ariels-princess-adventures.json) |
 | Disney Princess: The Princess and the Frog | 230374 | [230374-disney-princess-the-princess-and-the-frog.json](./230374-disney-princess-the-princess-and-the-frog.json) |
@@ -7876,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
+| Dracula: The Path of the Dragon | 50431 | [50431-dracula-the-path-of-the-dragon.json](./50431-dracula-the-path-of-the-dragon.json) |
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Dracula's Castle | 170341 | [170341-draculas-castle.json](./170341-draculas-castle.json) |
