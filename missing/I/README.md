@@ -3054,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
 | Invasion | 320342 | [320342-invasion.json](./320342-invasion.json) |
+| Invasion | 47145 | [47145-invasion.json](./47145-invasion.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
 | Invasion 360 | 333665 | [333665-invasion-360.json](./333665-invasion-360.json) |
