@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
+| Tech Support: Error Unknown | 87975 | [87975-tech-support-error-unknown.json](./87975-tech-support-error-unknown.json) |
 | Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Tech-Heresy | 272497 | [272497-tech-heresy.json](./272497-tech-heresy.json) |
@@ -8425,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
+| The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
@@ -10984,6 +10986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way We All Go | 345102 | [345102-the-way-we-all-go.json](./345102-the-way-we-all-go.json) |
 | The Way We ALL GO | 35683 | [35683-the-way-we-all-go.json](./35683-the-way-we-all-go.json) |
 | The Wayfarer | 144261 | [144261-the-wayfarer.json](./144261-the-wayfarer.json) |
+| The Wayhaven Chronicles: Book One | 88043 | [88043-the-wayhaven-chronicles-book-one.json](./88043-the-wayhaven-chronicles-book-one.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
 | The Wayhaven Chronicles: Book Two | 130146 | [130146-the-wayhaven-chronicles-book-two.json](./130146-the-wayhaven-chronicles-book-two.json) |
 | The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
