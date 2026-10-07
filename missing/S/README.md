@@ -12345,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
+| Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
