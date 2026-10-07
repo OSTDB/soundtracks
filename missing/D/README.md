@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Sword: Senkou | 49252 | [49252-dancing-sword-senkou.json](./49252-dancing-sword-senkou.json) |
 | Dancing Wings: The Aerobatic Simulator | 347249 | [347249-dancing-wings-the-aerobatic-simulator.json](./347249-dancing-wings-the-aerobatic-simulator.json) |
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
+| Dancingcats | 22371 | [22371-dancingcats.json](./22371-dancingcats.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | DanDan | 258038 | [258038-dandan.json](./258038-dandan.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
+| Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
@@ -8619,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic Dungeon: Sakura Taisen - Kimi Arugatame | 65843 | [65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json](./65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
+| Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
@@ -8869,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Mirror Online | 36108 | [36108-dream-of-mirror-online.json](./36108-dream-of-mirror-online.json) |
+| Dream of Pixels | 22203 | [22203-dream-of-pixels.json](./22203-dream-of-pixels.json) |
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
