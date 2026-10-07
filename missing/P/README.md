@@ -8285,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
 | Pro Backgammon | 97484 | [97484-pro-backgammon.json](./97484-pro-backgammon.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
+| Pro Basketball Manager 2016: US Edition | 34160 | [34160-pro-basketball-manager-2016-us-edition.json](./34160-pro-basketball-manager-2016-us-edition.json) |
 | Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
