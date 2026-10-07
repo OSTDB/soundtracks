@@ -1837,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pauli's Adventure Island | 264101 | [264101-paulis-adventure-island.json](./264101-paulis-adventure-island.json) |
 | Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | PaulPaul - Act 1 | 105142 | [105142-paulpaul-act-1.json](./105142-paulpaul-act-1.json) |
+| Paunch | 127002 | [127002-paunch.json](./127002-paunch.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
 | Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
@@ -4432,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall | 139891 | [139891-pitfall.json](./139891-pitfall.json) |
+| Pitfall 3D: Beyond the Jungle | 44980 | [44980-pitfall-3d-beyond-the-jungle.json](./44980-pitfall-3d-beyond-the-jungle.json) |
 | Pitfall II: Lost Caverns | 39509 | [39509-pitfall-ii-lost-caverns.json](./39509-pitfall-ii-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 282072 | [282072-pitfall-ii-the-lost-caverns.json](./282072-pitfall-ii-the-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
@@ -6424,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
+| Pokémon Sword Expansion Pass | 128071 | [128071-pokemon-sword-expansion-pass.json](./128071-pokemon-sword-expansion-pass.json) |
 | Pokémon Sword: The Crown Tundra | 139186 | [139186-pokemon-sword-the-crown-tundra.json](./139186-pokemon-sword-the-crown-tundra.json) |
 | Pokémon Sword: The Isle of Armor | 135164 | [135164-pokemon-sword-the-isle-of-armor.json](./135164-pokemon-sword-the-isle-of-armor.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
@@ -6498,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
+| PokéOne | 127982 | [127982-pokeone.json](./127982-pokeone.json) |
 | PokéPark 2: Wonders Beyond | 4559 | [4559-pokepark-2-wonders-beyond.json](./4559-pokepark-2-wonders-beyond.json) |
 | PokéPark Wii: Pikachu's Adventure | 4558 | [4558-pokepark-wii-pikachus-adventure.json](./4558-pokepark-wii-pikachus-adventure.json) |
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
