@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 2005 | 4033 | [4033-nba-live-2005.json](./4033-nba-live-2005.json) |
 | NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
+| NBA Live 99 | 811 | [811-nba-live-99.json](./811-nba-live-99.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 248205 | [248205-need-for-speed-most-wanted.json](./248205-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
+| Need for Speed: Nitro | 103 | [103-need-for-speed-nitro.json](./103-need-for-speed-nitro.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
 | Need for Speed: Porsche Unleashed | 248143 | [248143-need-for-speed-porsche-unleashed.json](./248143-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
@@ -2124,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL 2K1 | 8843 | [8843-nfl-2k1.json](./8843-nfl-2k1.json) |
 | NFL Blitz | 19807 | [19807-nfl-blitz.json](./19807-nfl-blitz.json) |
 | NFL Blitz | 249135 | [249135-nfl-blitz.json](./249135-nfl-blitz.json) |
+| NFL Blitz | 812 | [812-nfl-blitz.json](./812-nfl-blitz.json) |
 | NFL Blitz 2000 | 217934 | [217934-nfl-blitz-2000.json](./217934-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
@@ -2206,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
 | NHL 2002 | 248585 | [248585-nhl-2002.json](./248585-nhl-2002.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
+| NHL 2004 | 816 | [816-nhl-2004.json](./816-nhl-2004.json) |
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 21: Deluxe Edition | 140900 | [140900-nhl-21-deluxe-edition.json](./140900-nhl-21-deluxe-edition.json) |
 | NHL 21: Great Eight Edition | 140901 | [140901-nhl-21-great-eight-edition.json](./140901-nhl-21-great-eight-edition.json) |
@@ -3118,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintama Rantarou: Hajimete Oboeru Chishiki-hen | 63937 | [63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json](./63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json) |
 | Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
+| Nintendo Badge Arcade | 24957 | [24957-nintendo-badge-arcade.json](./24957-nintendo-badge-arcade.json) |
 | Nintendo Campus Challenge 1991 | 94180 | [94180-nintendo-campus-challenge-1991.json](./94180-nintendo-campus-challenge-1991.json) |
 | Nintendo Classic Mini Double Pack | 215662 | [215662-nintendo-classic-mini-double-pack.json](./215662-nintendo-classic-mini-double-pack.json) |
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
