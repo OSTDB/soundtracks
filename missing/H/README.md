@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
+| Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Car Battle: Demolition Derby | 276957 | [276957-heavy-car-battle-demolition-derby.json](./276957-heavy-car-battle-demolition-derby.json) |
@@ -6017,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Monster Trucks: Stunt Mayhem - Deluxe Edition | 317910 | [317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json](./317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Stunt Track Driver | 249155 | [249155-hot-wheels-stunt-track-driver.json](./249155-hot-wheels-stunt-track-driver.json) |
+| Hot Wheels Stunt Track Driver | 26688 | [26688-hot-wheels-stunt-track-driver.json](./26688-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed | 144072 | [144072-hot-wheels-unleashed.json](./144072-hot-wheels-unleashed.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
