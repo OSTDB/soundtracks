@@ -6978,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
+| The Last Gas Station | 354933 | [354933-the-last-gas-station.json](./354933-the-last-gas-station.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Castle | 70067 | [70067-the-new-castle.json](./70067-the-new-castle.json) |
 | The New Denpa Men | 287886 | [287886-the-new-denpa-men.json](./287886-the-new-denpa-men.json) |
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
+| The New Flesh | 344057 | [344057-the-new-flesh.json](./344057-the-new-flesh.json) |
 | The New Girl | 96875 | [96875-the-new-girl.json](./96875-the-new-girl.json) |
 | The New Order Victoria 3 | 356270 | [356270-the-new-order-victoria-3.json](./356270-the-new-order-victoria-3.json) |
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
@@ -10992,6 +10994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
 | The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
+| The Westport Independent | 9106 | [9106-the-westport-independent.json](./9106-the-westport-independent.json) |
 | The Wheel | 185439 | [185439-the-wheel.json](./185439-the-wheel.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
 | The Whims of the Gods | 300785 | [300785-the-whims-of-the-gods.json](./300785-the-whims-of-the-gods.json) |
@@ -17394,6 +17397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
 | Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
+| Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
