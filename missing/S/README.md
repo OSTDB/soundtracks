@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Sai | 251071 | [251071-sai.json](./251071-sai.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
+| Saibara Rieko no Dendou Mahjong | 49794 | [49794-saibara-rieko-no-dendou-mahjong.json](./49794-saibara-rieko-no-dendou-mahjong.json) |
 | Saibara Rieko no Mahjong Hourouki | 37866 | [37866-saibara-rieko-no-mahjong-hourouki.json](./37866-saibara-rieko-no-mahjong-hourouki.json) |
 | SaiBorRai | 292674 | [292674-saiborrai.json](./292674-saiborrai.json) |
 | Saier's Light | 103177 | [103177-saiers-light.json](./103177-saiers-light.json) |
@@ -4693,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
+| Shin Megami Tensei: Devil Children - Puzzle de Call! | 49821 | [49821-shin-megami-tensei-devil-children-puzzle-de-call.json](./49821-shin-megami-tensei-devil-children-puzzle-de-call.json) |
 | Shin Megami Tensei: Devil Children - Shiro no Sho | 71717 | [71717-shin-megami-tensei-devil-children-shiro-no-sho.json](./71717-shin-megami-tensei-devil-children-shiro-no-sho.json) |
 | Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
@@ -4749,6 +4751,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shingakkou Banchou | 330276 | [330276-shingakkou-banchou.json](./330276-shingakkou-banchou.json) |
 | Shingakkou The Gift | 330274 | [330274-shingakkou-the-gift.json](./330274-shingakkou-the-gift.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
+| Shingata Medarot: Kabuto Version | 49823 | [49823-shingata-medarot-kabuto-version.json](./49823-shingata-medarot-kabuto-version.json) |
+| Shingata Medarot: Kuwagata Version | 49822 | [49822-shingata-medarot-kuwagata-version.json](./49822-shingata-medarot-kuwagata-version.json) |
 | Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
 | Shingeki No Unity Chan | 297634 | [297634-shingeki-no-unity-chan.json](./297634-shingeki-no-unity-chan.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
@@ -5948,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
+| Silk to Cotton | 49820 | [49820-silk-to-cotton.json](./49820-silk-to-cotton.json) |
 | Silk Worm | 12224 | [12224-silk-worm.json](./12224-silk-worm.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
 | Silke, Pixelines Lillesøster: Hønsefødder Og Gulerødder | 349490 | [349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json](./349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json) |
@@ -6191,6 +6196,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
 | Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 | 203397 | [203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json](./203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json) |
 | Simple 2500 Series Portable Vol. 9: The My Taxi! | 203398 | [203398-simple-2500-series-portable-vol-9-the-my-taxi.json](./203398-simple-2500-series-portable-vol-9-the-my-taxi.json) |
+| Simple 2960 Tomodachi Series Vol. 1: The Table Game Collection | 49818 | [49818-simple-2960-tomodachi-series-vol-1-the-table-game-collection.json](./49818-simple-2960-tomodachi-series-vol-1-the-table-game-collection.json) |
+| Simple 2960 Tomodachi Series Vol. 2: The Block Kuzushi | 49819 | [49819-simple-2960-tomodachi-series-vol-2-the-block-kuzushi.json](./49819-simple-2960-tomodachi-series-vol-2-the-block-kuzushi.json) |
+| Simple 2960 Tomodachi Series Vol. 3: The Itsudemo Puzzle - Massugu Soroete Straws | 49817 | [49817-simple-2960-tomodachi-series-vol-3-the-itsudemo-puzzle-massugu-soroete-straws.json](./49817-simple-2960-tomodachi-series-vol-3-the-itsudemo-puzzle-massugu-soroete-straws.json) |
+| Simple 2960 Tomodachi Series Vol. 4: The Trump - Minna de Asoberu 12 Shurui no Trump Game | 49816 | [49816-simple-2960-tomodachi-series-vol-4-the-trump-minna-de-asoberu-12-shurui-no-trump-game.json](./49816-simple-2960-tomodachi-series-vol-4-the-trump-minna-de-asoberu-12-shurui-no-trump-game.json) |
 | Simple 500 Series Vol. 1: The Mahjong | 66093 | [66093-simple-500-series-vol-1-the-mahjong.json](./66093-simple-500-series-vol-1-the-mahjong.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
@@ -6520,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
+| Sister Princess: Re Pure | 49815 | [49815-sister-princess-re-pure.json](./49815-sister-princess-re-pure.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
@@ -7747,6 +7757,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Shots Pinball: Ultimate Edition | 276969 | [276969-slot-shots-pinball-ultimate-edition.json](./276969-slot-shots-pinball-ultimate-edition.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
+| Slot! Pro 2 Advance: Go Go Juggler & New Tairyou | 49814 | [49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json](./49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json) |
+| Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
@@ -8353,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
 | Snapimals | 96832 | [96832-snapimals.json](./96832-snapimals.json) |
+| Snapkid's | 49812 | [49812-snapkids.json](./49812-snapkids.json) |
 | Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
@@ -10970,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
+| Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
@@ -16596,6 +16610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
+| Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
 | Sugarbunnies Wii: Youkoso Bunnies Field he | 409015 | [409015-sugarbunnies-wii-youkoso-bunnies-field-he.json](./409015-sugarbunnies-wii-youkoso-bunnies-field-he.json) |
@@ -16838,6 +16853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
 | Summon Night 6: Lost Borders - Amu Edition | 167110 | [167110-summon-night-6-lost-borders-amu-edition.json](./167110-summon-night-6-lost-borders-amu-edition.json) |
+| Summon Night Craft Sword Monogatari: Hajimari no Ishi | 49810 | [49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json](./49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
 | Summon Night Gran-These: Horobi no Tsurugi to Yakusoku no Kishi | 43267 | [43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json](./43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json) |
 | Summon Night: Swordcraft Story | 6615 | [6615-summon-night-swordcraft-story.json](./6615-summon-night-swordcraft-story.json) |
@@ -18362,6 +18378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Fishing | 282663 | [282663-super-real-fishing.json](./282663-super-real-fishing.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong | 75408 | [75408-super-real-mahjong.json](./75408-super-real-mahjong.json) |
+| Super Real Mahjong Dousoukai | 49809 | [49809-super-real-mahjong-dousoukai.json](./49809-super-real-mahjong-dousoukai.json) |
 | Super Real Mahjong Graffiti | 122965 | [122965-super-real-mahjong-graffiti.json](./122965-super-real-mahjong-graffiti.json) |
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
@@ -19443,6 +19460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
 | Susume!! Mamotte Knight: Hime no Totsugeki Serenade | 112887 | [112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json](./112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json) |
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
+| Sutakomi: Star Communicator | 49804 | [49804-sutakomi-star-communicator.json](./49804-sutakomi-star-communicator.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
@@ -19644,6 +19662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cinema | 339468 | [339468-sweet-cinema.json](./339468-sweet-cinema.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
 | Sweet Collector | 188497 | [188497-sweet-collector.json](./188497-sweet-collector.json) |
+| Sweet Cookie Pie | 49803 | [49803-sweet-cookie-pie.json](./49803-sweet-cookie-pie.json) |
 | Sweet Cruise | 339467 | [339467-sweet-cruise.json](./339467-sweet-cruise.json) |
 | Sweet Dance | 182249 | [182249-sweet-dance.json](./182249-sweet-dance.json) |
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
@@ -20099,6 +20118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvan Meadows | 136983 | [136983-sylvan-meadows.json](./136983-sylvan-meadows.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
+| Sylvania Families: Fashion Designer ni Naritai! Kurumi Risu no Onna no Ko | 49802 | [49802-sylvania-families-fashion-designer-ni-naritai-kurumi-risu-no-onna-no-ko.json](./49802-sylvania-families-fashion-designer-ni-naritai-kurumi-risu-no-onna-no-ko.json) |
 | Sylvania Melody | 50555 | [50555-sylvania-melody.json](./50555-sylvania-melody.json) |
 | Sylvanian Families 2: Irozuku Mori no Fantasy | 83228 | [83228-sylvanian-families-2-irozuku-mori-no-fantasy.json](./83228-sylvanian-families-2-irozuku-mori-no-fantasy.json) |
 | Sylvanian Families 3: Hoshifuru Yoru no Sunadokei | 83226 | [83226-sylvanian-families-3-hoshifuru-yoru-no-sunadokei.json](./83226-sylvanian-families-3-hoshifuru-yoru-no-sunadokei.json) |
