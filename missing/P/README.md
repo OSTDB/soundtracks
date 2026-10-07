@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
 | Packs Adventure | 100295 | [100295-packs-adventure.json](./100295-packs-adventure.json) |
+| Packy & Marlon | 42475 | [42475-packy-and-marlon.json](./42475-packy-and-marlon.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre Hotel | 310637 | [310637-pierre-hotel.json](./310637-pierre-hotel.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
+| Pierre le Chef is... Out to Lunch | 42476 | [42476-pierre-le-chef-is-out-to-lunch.json](./42476-pierre-le-chef-is-out-to-lunch.json) |
 | Pierre's Adventures in French | 221784 | [221784-pierres-adventures-in-french.json](./221784-pierres-adventures-in-french.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pierrot’s Pilgrimage | 336097 | [336097-pierrot-s-pilgrimage.json](./336097-pierrot-s-pilgrimage.json) |
@@ -4045,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
 | Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
+| Pink Goes to Hollywood | 42474 | [42474-pink-goes-to-hollywood.json](./42474-pink-goes-to-hollywood.json) |
 | Pink Haze | 97995 | [97995-pink-haze.json](./97995-pink-haze.json) |
 | Pink Haze 2 | 98006 | [98006-pink-haze-2.json](./98006-pink-haze-2.json) |
 | Pink Heaven | 34289 | [34289-pink-heaven.json](./34289-pink-heaven.json) |
@@ -6981,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
+| Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
 | Pop's Pop's | 254593 | [254593-pops-pops.json](./254593-pops-pops.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
@@ -7077,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porklike: Wurst Comes to Worst Gameboy | 311700 | [311700-porklike-wurst-comes-to-worst-gameboy.json](./311700-porklike-wurst-comes-to-worst-gameboy.json) |
 | Porkotyler's Captain Dodger | 241434 | [241434-porkotylers-captain-dodger.json](./241434-porkotylers-captain-dodger.json) |
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
+| Porky Pig's Haunted Holiday | 42472 | [42472-porky-pigs-haunted-holiday.json](./42472-porky-pigs-haunted-holiday.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
