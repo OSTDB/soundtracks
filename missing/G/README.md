@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
+| Goblin Keeper | 23558 | [23558-goblin-keeper.json](./23558-goblin-keeper.json) |
 | Goblin Museum | 404346 | [404346-goblin-museum.json](./404346-goblin-museum.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
