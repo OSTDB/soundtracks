@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
 | A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
+| A Mini Falafel Adventure | 56880 | [56880-a-mini-falafel-adventure.json](./56880-a-mini-falafel-adventure.json) |
 | A Mining Game | 120861 | [120861-a-mining-game.json](./120861-a-mining-game.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ananas | 142134 | [142134-ananas.json](./142134-ananas.json) |
 | Ananas: Pineapple Idle Game | 337815 | [337815-ananas-pineapple-idle-game.json](./337815-ananas-pineapple-idle-game.json) |
 | Anandala | 303159 | [303159-anandala.json](./303159-anandala.json) |
+| Ananias | 56898 | [56898-ananias.json](./56898-ananias.json) |
 | Ananke | 221293 | [221293-ananke.json](./221293-ananke.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
