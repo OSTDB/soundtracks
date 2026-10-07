@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos League | 50120 | [50120-chaos-league.json](./50120-chaos-league.json) |
 | Chaos League: Sudden Death | 70068 | [70068-chaos-league-sudden-death.json](./70068-chaos-league-sudden-death.json) |
+| Chaos Legion | 2917 | [2917-chaos-legion.json](./2917-chaos-legion.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
 | Chaos Maker | 113033 | [113033-chaos-maker.json](./113033-chaos-maker.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
@@ -7082,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
+| Command & Conquer: Red Alert - The Aftermath | 652 | [652-command-and-conquer-red-alert-the-aftermath.json](./652-command-and-conquer-red-alert-the-aftermath.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command & Conquer: Red Alert 3 | 959 | [959-command-and-conquer-red-alert-3.json](./959-command-and-conquer-red-alert-3.json) |
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
@@ -7898,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
+| Cookie Run: Kingdom | 142737 | [142737-cookie-run-kingdom.json](./142737-cookie-run-kingdom.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
 | Cookie Run: Puzzle World | 198315 | [198315-cookie-run-puzzle-world.json](./198315-cookie-run-puzzle-world.json) |
@@ -9381,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
 | Crazy Taxi | 39191 | [39191-crazy-taxi.json](./39191-crazy-taxi.json) |
 | Crazy Taxi 2 | 1806 | [1806-crazy-taxi-2.json](./1806-crazy-taxi-2.json) |
+| Crazy Taxi 3: High Roller | 1807 | [1807-crazy-taxi-3-high-roller.json](./1807-crazy-taxi-3-high-roller.json) |
 | Crazy Taxi: Catch a Ride | 1808 | [1808-crazy-taxi-catch-a-ride.json](./1808-crazy-taxi-catch-a-ride.json) |
 | Crazy Taxi: City Rush | 61989 | [61989-crazy-taxi-city-rush.json](./61989-crazy-taxi-city-rush.json) |
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
@@ -9521,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Shift: Roadside Diner | 319869 | [319869-creepy-shift-roadside-diner.json](./319869-creepy-shift-roadside-diner.json) |
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
+| Creepy Tale | 128252 | [128252-creepy-tale.json](./128252-creepy-tale.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
 | Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
@@ -10228,6 +10233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Wards & Wardens | 292107 | [292107-crusader-kings-iii-wards-and-wardens.json](./292107-crusader-kings-iii-wards-and-wardens.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
+| Crusader: No Regret | 656 | [656-crusader-no-regret.json](./656-crusader-no-regret.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
