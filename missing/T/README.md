@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
+| Tank Command | 12342 | [12342-tank-command.json](./12342-tank-command.json) |
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
@@ -6194,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel | 360649 | [360649-the-hotel.json](./360649-the-hotel.json) |
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
+| The Hound of Shadow | 12147 | [12147-the-hound-of-shadow.json](./12147-the-hound-of-shadow.json) |
 | The Hour Has Come | 110951 | [110951-the-hour-has-come.json](./110951-the-hour-has-come.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
@@ -13735,6 +13737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
+| Title Match Pro Wrestling | 12343 | [12343-title-match-pro-wrestling.json](./12343-title-match-pro-wrestling.json) |
 | Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
 | Titonic Fisherman | 176324 | [176324-titonic-fisherman.json](./176324-titonic-fisherman.json) |
@@ -15165,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
 | Touchdown | 346102 | [346102-touchdown.json](./346102-touchdown.json) |
 | Touchdown Fever II | 293316 | [293316-touchdown-fever-ii.json](./293316-touchdown-fever-ii.json) |
+| Touchdown Football | 12345 | [12345-touchdown-football.json](./12345-touchdown-football.json) |
 | Touchdown Hero: New Season | 90886 | [90886-touchdown-hero-new-season.json](./90886-touchdown-hero-new-season.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
