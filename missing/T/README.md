@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
+| Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
 | Tainted Keep | 39782 | [39782-tainted-keep.json](./39782-tainted-keep.json) |
@@ -4229,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of King Arthur: Episode 2 - Knights of the Round Table | 117630 | [117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json](./117630-the-chronicles-of-king-arthur-episode-2-knights-of-the-round-table.json) |
 | The Chronicles of Moses and the Exodus | 151082 | [151082-the-chronicles-of-moses-and-the-exodus.json](./151082-the-chronicles-of-moses-and-the-exodus.json) |
 | The Chronicles of Narnia: Prince Caspian | 4763 | [4763-the-chronicles-of-narnia-prince-caspian.json](./4763-the-chronicles-of-narnia-prince-caspian.json) |
+| The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | 3857 | [3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json](./3857-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.json) |
 | The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
 | The Chronicles of Overlord | 219550 | [219550-the-chronicles-of-overlord.json](./219550-the-chronicles-of-overlord.json) |
@@ -5900,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
+| The Great Ace Attorney Chronicles | 146075 | [146075-the-great-ace-attorney-chronicles.json](./146075-the-great-ace-attorney-chronicles.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
 | The Great Adventures of Nedmapagmahal | 305984 | [305984-the-great-adventures-of-nedmapagmahal.json](./305984-the-great-adventures-of-nedmapagmahal.json) |
 | The Great Art Race | 10690 | [10690-the-great-art-race.json](./10690-the-great-art-race.json) |
@@ -6519,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
+| The Jackbox Party Pack 5 | 96213 | [96213-the-jackbox-party-pack-5.json](./96213-the-jackbox-party-pack-5.json) |
 | The Jackbox Party Pack 6 | 125021 | [125021-the-jackbox-party-pack-6.json](./125021-the-jackbox-party-pack-6.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
@@ -6692,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 02/03 | 78379 | [78379-the-king-of-fighters-02-03.json](./78379-the-king-of-fighters-02-03.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
+| The King of Fighters 2002 | 5884 | [5884-the-king-of-fighters-2002.json](./5884-the-king-of-fighters-2002.json) |
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
@@ -9268,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
+| The Settlers II: Veni, Vidi, Vici | 2596 | [2596-the-settlers-ii-veni-vidi-vici.json](./2596-the-settlers-ii-veni-vidi-vici.json) |
 | The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers III: Ultimate Collection | 154448 | [154448-the-settlers-iii-ultimate-collection.json](./154448-the-settlers-iii-ultimate-collection.json) |
@@ -10914,6 +10920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whiskey Story | 208383 | [208383-the-whiskey-story.json](./208383-the-whiskey-story.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
+| The Whispered World | 7145 | [7145-the-whispered-world.json](./7145-the-whispered-world.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
@@ -14236,6 +14243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Majin Gakuen: Oboro-Kitan | 100261 | [100261-tokyo-majin-gakuen-oboro-kitan.json](./100261-tokyo-majin-gakuen-oboro-kitan.json) |
 | Tokyo Mew Mew: Toujou Shin Mew Mew! - Minna Issho ni Gohoushi Suru Nyan | 56483 | [56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json](./56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
+| Tokyo Mirage Sessions #FE | 5321 | [5321-tokyo-mirage-sessions-fe.json](./5321-tokyo-mirage-sessions-fe.json) |
 | Tokyo Mirage Sessions #FE: 3 Support Quest Set | 333630 | [333630-tokyo-mirage-sessions-fe-3-support-quest-set.json](./333630-tokyo-mirage-sessions-fe-3-support-quest-set.json) |
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
 | Tokyo Nampa Street | 66132 | [66132-tokyo-nampa-street.json](./66132-tokyo-nampa-street.json) |
@@ -17932,6 +17940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
+| Tron 2.0 | 6217 | [6217-tron-2-0.json](./6217-tron-2-0.json) |
 | Tron 2.0: Discs of Tron | 23604 | [23604-tron-2-0-discs-of-tron.json](./23604-tron-2-0-discs-of-tron.json) |
 | Tron 2.0: Killer App | 79835 | [79835-tron-2-0-killer-app.json](./79835-tron-2-0-killer-app.json) |
 | Tron 2.0: Killer App Mod | 327416 | [327416-tron-2-0-killer-app-mod.json](./327416-tron-2-0-killer-app-mod.json) |
@@ -18909,9 +18918,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Lines | 175365 | [175365-twisted-lines.json](./175365-twisted-lines.json) |
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
 | Twisted Metal | 256773 | [256773-twisted-metal.json](./256773-twisted-metal.json) |
+| Twisted Metal | 5416 | [5416-twisted-metal.json](./5416-twisted-metal.json) |
 | Twisted Metal 2 | 256777 | [256777-twisted-metal-2.json](./256777-twisted-metal-2.json) |
 | Twisted Metal 4 | 347127 | [347127-twisted-metal-4.json](./347127-twisted-metal-4.json) |
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
+| Twisted Metal: Black | 5413 | [5413-twisted-metal-black.json](./5413-twisted-metal-black.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
 | Twisted Metal: Head-On | 5414 | [5414-twisted-metal-head-on.json](./5414-twisted-metal-head-on.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
