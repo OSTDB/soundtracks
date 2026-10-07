@@ -11356,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Bridge | 141552 | [141552-third-bridge.json](./141552-third-bridge.json) |
 | Third Crisis | 187542 | [187542-third-crisis.json](./187542-third-crisis.json) |
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
+| Third Exit | 53094 | [53094-third-exit.json](./53094-third-exit.json) |
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
