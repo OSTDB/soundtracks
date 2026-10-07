@@ -5700,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luthier | 336651 | [336651-luthier.json](./336651-luthier.json) |
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
 | Lutte | 97508 | [97508-lutte.json](./97508-lutte.json) |
+| Lutter | 41299 | [41299-lutter.json](./41299-lutter.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
