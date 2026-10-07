@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
 | Gall Force - Eternal Story | 230225 | [230225-gall-force-eternal-story.json](./230225-gall-force-eternal-story.json) |
+| Gall Force: Eternal Story | 41285 | [41285-gall-force-eternal-story.json](./41285-gall-force-eternal-story.json) |
 | Gall Force: Sousei no Jokyoku | 107627 | [107627-gall-force-sousei-no-jokyoku.json](./107627-gall-force-sousei-no-jokyoku.json) |
 | Gallag | 232392 | [232392-gallag.json](./232392-gallag.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GINAB: Logic and Puzzle Collection in a 3D Style | 83863 | [83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json](./83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json) |
 | Gincana | 286059 | [286059-gincana.json](./286059-gincana.json) |
 | Gindama Oyakata no Jissen Pachinko Hisshouhou | 65199 | [65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json](./65199-gindama-oyakata-no-jissen-pachinko-hisshouhou.json) |
+| Ginga Denshou: Galaxy Odyssey | 41301 | [41301-ginga-denshou-galaxy-odyssey.json](./41301-ginga-denshou-galaxy-odyssey.json) |
 | Ginga Eiyuu Densetsu: Senjutsu Simulation | 80806 | [80806-ginga-eiyuu-densetsu-senjutsu-simulation.json](./80806-ginga-eiyuu-densetsu-senjutsu-simulation.json) |
 | Ginga Kagekidan | 121391 | [121391-ginga-kagekidan.json](./121391-ginga-kagekidan.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
