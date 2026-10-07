@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Danse Macabre: Deadly Deception - Collector's Edition | 86436 | [86436-danse-macabre-deadly-deception-collectors-edition.json](./86436-danse-macabre-deadly-deception-collectors-edition.json) |
 | Danse Macabre: The Last Adagio | 139753 | [139753-danse-macabre-the-last-adagio.json](./139753-danse-macabre-the-last-adagio.json) |
+| Danse Macabre: The Last Adagio - Collector's Edition | 30680 | [30680-danse-macabre-the-last-adagio-collectors-edition.json](./30680-danse-macabre-the-last-adagio-collectors-edition.json) |
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Burial: Enhanced Edition | 238617 | [238617-dark-burial-enhanced-edition.json](./238617-dark-burial-enhanced-edition.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Canvas: A Brush With Death | 139756 | [139756-dark-canvas-a-brush-with-death.json](./139756-dark-canvas-a-brush-with-death.json) |
+| Dark Canvas: A Brush With Death - Collector's Edition | 30718 | [30718-dark-canvas-a-brush-with-death-collectors-edition.json](./30718-dark-canvas-a-brush-with-death-collectors-edition.json) |
 | Dark Canvas: A Murder Exposed | 139757 | [139757-dark-canvas-a-murder-exposed.json](./139757-dark-canvas-a-murder-exposed.json) |
 | Dark Canvas: A Murder Exposed - Collector's Edition | 95240 | [95240-dark-canvas-a-murder-exposed-collectors-edition.json](./95240-dark-canvas-a-murder-exposed-collectors-edition.json) |
 | Dark Canvas: Blood and Stone | 139758 | [139758-dark-canvas-blood-and-stone.json](./139758-dark-canvas-blood-and-stone.json) |
@@ -849,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
 | Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
 | Dark Eclipse | 76515 | [76515-dark-eclipse.json](./76515-dark-eclipse.json) |
+| Dark Eden | 30713 | [30713-dark-eden.json](./30713-dark-eden.json) |
 | Dark Eden Umbra | 359526 | [359526-dark-eden-umbra.json](./359526-dark-eden-umbra.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
@@ -4043,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dessert DIY: Premium Edition | 288298 | [288298-dessert-diy-premium-edition.json](./288298-dessert-diy-premium-edition.json) |
 | Dessert Love: Kare to no Hajimari | 219167 | [219167-dessert-love-kare-to-no-hajimari.json](./219167-dessert-love-kare-to-no-hajimari.json) |
 | Dessert Love: Sweet Plus | 219168 | [219168-dessert-love-sweet-plus.json](./219168-dessert-love-sweet-plus.json) |
+| Dessert Storm | 30740 | [30740-dessert-storm.json](./30740-dessert-storm.json) |
 | Dessert Storm Girls | 337838 | [337838-dessert-storm-girls.json](./337838-dessert-storm-girls.json) |
 | Desserted | 373127 | [373127-desserted.json](./373127-desserted.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
@@ -9119,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
+| Drift Gear Racing Free | 30745 | [30745-drift-gear-racing-free.json](./30745-drift-gear-racing-free.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
 | Drift Go | 211770 | [211770-drift-go.json](./211770-drift-go.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
@@ -10700,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopia | 108428 | [108428-dystopia.json](./108428-dystopia.json) |
 | Dystopia RPG | 376132 | [376132-dystopia-rpg.json](./376132-dystopia-rpg.json) |
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
+| Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
