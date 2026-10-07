@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
+| Kakugo no Susume | 43830 | [43830-kakugo-no-susume.json](./43830-kakugo-no-susume.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakuriyo Village: Moratorium of Adolescence | 240730 | [240730-kakuriyo-village-moratorium-of-adolescence.json](./240730-kakuriyo-village-moratorium-of-adolescence.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
@@ -1268,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
+| Kidou Keisatsu Patlabor: Game Edition | 43814 | [43814-kidou-keisatsu-patlabor-game-edition.json](./43814-kidou-keisatsu-patlabor-game-edition.json) |
 | Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
@@ -3112,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koutetsu no Kishi | 37949 | [37949-koutetsu-no-kishi.json](./37949-koutetsu-no-kishi.json) |
 | Koutetsu no Kishi 2: Sabaku no Rommel Gundan | 37948 | [37948-koutetsu-no-kishi-2-sabaku-no-rommel-gundan.json](./37948-koutetsu-no-kishi-2-sabaku-no-rommel-gundan.json) |
 | Koutetsu no Kishi 3: Gekitotsu Europe Sensen | 37947 | [37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json](./37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json) |
+| Koutetsu Reiiki: Steeldom | 43813 | [43813-koutetsu-reiiki-steeldom.json](./43813-koutetsu-reiiki-steeldom.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
