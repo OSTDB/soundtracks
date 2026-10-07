@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Haven | 24072 | [24072-fallen-haven.json](./24072-fallen-haven.json) |
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
+| Fallen Heroes: Uro's Tale | 22129 | [22129-fallen-heroes-uros-tale.json](./22129-fallen-heroes-uros-tale.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
 | Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
@@ -2409,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
 | Fierce Tales: Marcus' Memory | 139776 | [139776-fierce-tales-marcus-memory.json](./139776-fierce-tales-marcus-memory.json) |
 | Fierce Tales: The Dog's Heart | 139777 | [139777-fierce-tales-the-dogs-heart.json](./139777-fierce-tales-the-dogs-heart.json) |
+| Fierce Tales: The Dog's Heart - Collector's Edition | 22135 | [22135-fierce-tales-the-dogs-heart-collectors-edition.json](./22135-fierce-tales-the-dogs-heart-collectors-edition.json) |
 | Fierce Tide | 188405 | [188405-fierce-tide.json](./188405-fierce-tide.json) |
 | Fiery Melody | 180094 | [180094-fiery-melody.json](./180094-fiery-melody.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
