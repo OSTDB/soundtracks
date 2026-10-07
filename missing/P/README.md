@@ -4974,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza City | 225591 | [225591-pizza-city.json](./225591-pizza-city.json) |
 | Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
+| Pizza Connection 2 | 27590 | [27590-pizza-connection-2.json](./27590-pizza-connection-2.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
