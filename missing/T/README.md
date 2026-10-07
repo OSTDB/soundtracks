@@ -4613,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cyber Masquerade: Summer Beach Reverie | 295340 | [295340-the-cyber-masquerade-summer-beach-reverie.json](./295340-the-cyber-masquerade-summer-beach-reverie.json) |
 | The Cycle | 105482 | [105482-the-cycle.json](./105482-the-cycle.json) |
+| The Cycle: Frontier | 174521 | [174521-the-cycle-frontier.json](./174521-the-cycle-frontier.json) |
 | The Cycle: Frontier - Breakthrough | 243632 | [243632-the-cycle-frontier-breakthrough.json](./243632-the-cycle-frontier-breakthrough.json) |
 | The Cycle: Season 3 | 137010 | [137010-the-cycle-season-3.json](./137010-the-cycle-season-3.json) |
 | The Cycling Games | 405100 | [405100-the-cycling-games.json](./405100-the-cycling-games.json) |
@@ -5726,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
+| The Game of Life 2 | 141523 | [141523-the-game-of-life-2.json](./141523-the-game-of-life-2.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
 | The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
@@ -13880,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT: Splintered Fate Heroes Bundle | 370828 | [370828-tmnt-splintered-fate-heroes-bundle.json](./370828-tmnt-splintered-fate-heroes-bundle.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
+| TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
