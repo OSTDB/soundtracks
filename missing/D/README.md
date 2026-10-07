@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
+| Dariusburst: Chronicle Saviours | 20090 | [20090-dariusburst-chronicle-saviours.json](./20090-dariusburst-chronicle-saviours.json) |
 | Dariusburst: Chronicle Saviours - Battle Garegga | 168180 | [168180-dariusburst-chronicle-saviours-battle-garegga.json](./168180-dariusburst-chronicle-saviours-battle-garegga.json) |
 | Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
 | Dariusburst: Chronicle Saviours - Deathsmiles | 168182 | [168182-dariusburst-chronicle-saviours-deathsmiles.json](./168182-dariusburst-chronicle-saviours-deathsmiles.json) |
@@ -5309,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
+| Dino Dini's Kick Off Revival | 19591 | [19591-dino-dinis-kick-off-revival.json](./19591-dino-dinis-kick-off-revival.json) |
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
