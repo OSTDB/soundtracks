@@ -5228,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Ages 3: Make & Break | 121714 | [121714-rock-of-ages-3-make-and-break.json](./121714-rock-of-ages-3-make-and-break.json) |
 | Rock of Destruction! | 104114 | [104114-rock-of-destruction.json](./104114-rock-of-destruction.json) |
 | Rock of the Dead | 7163 | [7163-rock-of-the-dead.json](./7163-rock-of-the-dead.json) |
+| Rock On | 37658 | [37658-rock-on.json](./37658-rock-on.json) |
 | Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
 | Rock Paper Kill | 412545 | [412545-rock-paper-kill.json](./412545-rock-paper-kill.json) |
@@ -5266,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
+| Rockaroids Remix | 37703 | [37703-rockaroids-remix.json](./37703-rockaroids-remix.json) |
 | Rockbot | 39199 | [39199-rockbot.json](./39199-rockbot.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
@@ -7328,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
 | Ryu ga Gotoku 1&2 HD Edition | 26603 | [26603-ryu-ga-gotoku-1-and-2-hd-edition.json](./26603-ryu-ga-gotoku-1-and-2-hd-edition.json) |
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
+| Ryu Kyu | 37657 | [37657-ryu-kyu.json](./37657-ryu-kyu.json) |
 | Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
 | Ryuu ga Gotoku Kizuna | 305994 | [305994-ryuu-ga-gotoku-kizuna.json](./305994-ryuu-ga-gotoku-kizuna.json) |
