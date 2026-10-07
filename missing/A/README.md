@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Valentine's Day Quizzle | 232506 | [232506-a-valentines-day-quizzle.json](./232506-a-valentines-day-quizzle.json) |
 | A Valiant Story | 108484 | [108484-a-valiant-story.json](./108484-a-valiant-story.json) |
+| A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Week of Circus Terror | 32169 | [32169-a-week-of-circus-terror.json](./32169-a-week-of-circus-terror.json) |
 | A Weekend at Villa Apate | 177893 | [177893-a-weekend-at-villa-apate.json](./177893-a-weekend-at-villa-apate.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
+| A Weird Game About Sausage | 405185 | [405185-a-weird-game-about-sausage.json](./405185-a-weird-game-about-sausage.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
 | A Whale's Journey | 314383 | [314383-a-whales-journey.json](./314383-a-whales-journey.json) |
 | A Wheel Without a View | 177319 | [177319-a-wheel-without-a-view.json](./177319-a-wheel-without-a-view.json) |
@@ -4268,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterworld | 312173 | [312173-alterworld.json](./312173-alterworld.json) |
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
+| Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
 | Altitude Adjustment | 279077 | [279077-altitude-adjustment.json](./279077-altitude-adjustment.json) |
 | Altitudes | 141173 | [141173-altitudes.json](./141173-altitudes.json) |
 | Altiverse | 266809 | [266809-altiverse.json](./266809-altiverse.json) |
@@ -8215,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
+| Asheron's Call | 603 | [603-asherons-call.json](./603-asherons-call.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
 | Ashes | 386932 | [386932-ashes.json](./386932-ashes.json) |
