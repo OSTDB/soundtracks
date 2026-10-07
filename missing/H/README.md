@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
 | HamsterVeRse | 153887 | [153887-hamsterverse.json](./153887-hamsterverse.json) |
+| Hamsterz Life | 9248 | [9248-hamsterz-life.json](./9248-hamsterz-life.json) |
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
@@ -6625,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanities Legend: Dark Horizon | 217225 | [217225-humanities-legend-dark-horizon.json](./217225-humanities-legend-dark-horizon.json) |
 | Humanities Legend: Hollow Ascending | 183868 | [183868-humanities-legend-hollow-ascending.json](./183868-humanities-legend-hollow-ascending.json) |
+| Humanity Asset | 8952 | [8952-humanity-asset.json](./8952-humanity-asset.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity Must Perish | 68323 | [68323-humanity-must-perish.json](./68323-humanity-must-perish.json) |
