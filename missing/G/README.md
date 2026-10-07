@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
+| GO Series: Picdun | 56903 | [56903-go-series-picdun.json](./56903-go-series-picdun.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
@@ -5574,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
+| Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Hall Adventures | 152803 | [152803-guild-hall-adventures.json](./152803-guild-hall-adventures.json) |
 | Guild Loot | 120239 | [120239-guild-loot.json](./120239-guild-loot.json) |
@@ -5938,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
+| Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungnir | 42882 | [42882-gungnir.json](./42882-gungnir.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
