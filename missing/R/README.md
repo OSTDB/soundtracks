@@ -4661,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
+| Ristar | 7431 | [7431-ristar.json](./7431-ristar.json) |
 | Ristorante Amore | 57173 | [57173-ristorante-amore.json](./57173-ristorante-amore.json) |
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
 | Rita | 302037 | [302037-rita.json](./302037-rita.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockShot | 74731 | [74731-rockshot.json](./74731-rockshot.json) |
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
 | Rocksmith | 2697 | [2697-rocksmith.json](./2697-rocksmith.json) |
+| Rocksmith 2014 | 3088 | [3088-rocksmith-2014.json](./3088-rocksmith-2014.json) |
 | Rocksmith 2014 Edition: Remastered - 3 Doors Down: Song Pack II | 225021 | [225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json](./225021-rocksmith-2014-edition-remastered-3-doors-down-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Alice in Chains: Song Pack II | 225016 | [225016-rocksmith-2014-edition-remastered-alice-in-chains-song-pack-ii.json](./225016-rocksmith-2014-edition-remastered-alice-in-chains-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Amon Amarth: Song Pack | 225012 | [225012-rocksmith-2014-edition-remastered-amon-amarth-song-pack.json](./225012-rocksmith-2014-edition-remastered-amon-amarth-song-pack.json) |
