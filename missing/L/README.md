@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
+| Le Mans Ultimate | 253412 | [253412-le-mans-ultimate.json](./253412-le-mans-ultimate.json) |
 | Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le Morte D'Arthur | 338944 | [338944-le-morte-darthur.json](./338944-le-morte-darthur.json) |
@@ -1193,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Blower Sim | 276272 | [276272-leaf-blower-sim.json](./276272-leaf-blower-sim.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
+| Leaf It Alone | 376206 | [376206-leaf-it-alone.json](./376206-leaf-it-alone.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | Leaf Town | 302075 | [302075-leaf-town.json](./302075-leaf-town.json) |
@@ -5669,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunicus | 79597 | [79597-lunicus.json](./79597-lunicus.json) |
 | Lunistice | 139168 | [139168-lunistice.json](./139168-lunistice.json) |
+| Lunistice | 165287 | [165287-lunistice.json](./165287-lunistice.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
