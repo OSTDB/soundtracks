@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
+| F-1 Dream | 39482 | [39482-f-1-dream.json](./39482-f-1-dream.json) |
 | F-1 Drive | 347815 | [347815-f-1-drive.json](./347815-f-1-drive.json) |
 | F-1 Grand Prix | 46837 | [46837-f-1-grand-prix.json](./46837-f-1-grand-prix.json) |
 | F-1 Grand Prix 1996: Team Unei Simulation | 382916 | [382916-f-1-grand-prix-1996-team-unei-simulation.json](./382916-f-1-grand-prix-1996-team-unei-simulation.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
 | Fawe: Enchanted Forest | 193212 | [193212-fawe-enchanted-forest.json](./193212-fawe-enchanted-forest.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
+| Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
 | Fay's Factory | 199440 | [199440-fays-factory.json](./199440-fays-factory.json) |
@@ -3319,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Jump | 390807 | [390807-fire-jump.json](./390807-fire-jump.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
+| Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
@@ -3982,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix und Foxi Spielzeugfabrik | 81402 | [81402-fix-und-foxi-spielzeugfabrik.json](./81402-fix-und-foxi-spielzeugfabrik.json) |
 | Fix-it Felix Jr. | 256301 | [256301-fix-it-felix-jr.json](./256301-fix-it-felix-jr.json) |
 | Fix-It Felix Jr. | 250928 | [250928-fix-it-felix-jr.json](./250928-fix-it-felix-jr.json) |
+| Fix-It Felix Jr. | 39486 | [39486-fix-it-felix-jr.json](./39486-fix-it-felix-jr.json) |
 | Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixation | 316811 | [316811-fixation.json](./316811-fixation.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
@@ -5083,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Chairman Pro 2 | 370322 | [370322-football-chairman-pro-2.json](./370322-football-chairman-pro-2.json) |
 | Football Challenges | 233459 | [233459-football-challenges.json](./233459-football-challenges.json) |
+| Football Champ | 39481 | [39481-football-champ.json](./39481-football-champ.json) |
 | Football City | 260624 | [260624-football-city.json](./260624-football-city.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
