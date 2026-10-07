@@ -6060,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
 | Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
+| Cocona World | 41257 | [41257-cocona-world.json](./41257-cocona-world.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
 | Coconut CEO Idle | 387629 | [387629-coconut-ceo-idle.json](./387629-coconut-ceo-idle.json) |
