@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Words 2 | 232066 | [232066-war-of-words-2.json](./232066-war-of-words-2.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
+| War Party | 81634 | [81634-war-party.json](./81634-war-party.json) |
 | War Pawns | 413204 | [413204-war-pawns.json](./413204-war-pawns.json) |
 | WAR Pig - Big Bang | 75003 | [75003-war-pig-big-bang.json](./75003-war-pig-big-bang.json) |
 | War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
@@ -4516,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words with AI | 233057 | [233057-words-with-ai.json](./233057-words-with-ai.json) |
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
+| Words With Friends Classic | 87350 | [87350-words-with-friends-classic.json](./87350-words-with-friends-classic.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
