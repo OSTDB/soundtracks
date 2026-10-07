@@ -6103,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut CEO Idle | 387629 | [387629-coconut-ceo-idle.json](./387629-coconut-ceo-idle.json) |
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
+| Cocoon | 204627 | [204627-cocoon.json](./204627-cocoon.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally | 7967 | [7967-colin-mcrae-rally.json](./7967-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
+| Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
 | Colin McRae Rally 2005 Plus | 44470 | [44470-colin-mcrae-rally-2005-plus.json](./44470-colin-mcrae-rally-2005-plus.json) |
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
@@ -8981,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
+| Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
 | Crash Bandicoot N.Finite | 374279 | [374279-crash-bandicoot-n-finite.json](./374279-crash-bandicoot-n-finite.json) |
