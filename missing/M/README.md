@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
+| Menace Beach | 11167 | [11167-menace-beach.json](./11167-menace-beach.json) |
 | Menace from the Deep: Complete Edition | 401133 | [401133-menace-from-the-deep-complete-edition.json](./401133-menace-from-the-deep-complete-edition.json) |
 | Menace from the Deep: The Rift of Sanity | 350548 | [350548-menace-from-the-deep-the-rift-of-sanity.json](./350548-menace-from-the-deep-the-rift-of-sanity.json) |
 | Menace Labs | 199401 | [199401-menace-labs.json](./199401-menace-labs.json) |
