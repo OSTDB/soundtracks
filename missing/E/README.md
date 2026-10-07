@@ -2141,6 +2141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Territory Fortress | 273010 | [273010-enemy-territory-fortress.json](./273010-enemy-territory-fortress.json) |
 | Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
+| Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
+| Ener-G Gym Rockets | 47912 | [47912-ener-g-gym-rockets.json](./47912-ener-g-gym-rockets.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
