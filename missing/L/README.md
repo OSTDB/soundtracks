@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy's Allure | 264199 | [264199-legacys-allure.json](./264199-legacys-allure.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
+| Legal Crime | 36988 | [36988-legal-crime.json](./36988-legal-crime.json) |
 | Legal Dungeon | 115004 | [115004-legal-dungeon.json](./115004-legal-dungeon.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Legally Distinct, Planetary Based, Suika Game Clone | 292091 | [292091-legally-distinct-planetary-based-suika-game-clone.json](./292091-legally-distinct-planetary-based-suika-game-clone.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
+| Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
