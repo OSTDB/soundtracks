@@ -207,7 +207,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
 | Nancy Drew: The Ghost of Thornton Hall | 16451 | [16451-nancy-drew-the-ghost-of-thornton-hall.json](./16451-nancy-drew-the-ghost-of-thornton-hall.json) |
 | Nancy Drew: The Haunted Carousel | 10586 | [10586-nancy-drew-the-haunted-carousel.json](./10586-nancy-drew-the-haunted-carousel.json) |
+| Nancy Drew: The Hidden Staircase | 47916 | [47916-nancy-drew-the-hidden-staircase.json](./47916-nancy-drew-the-hidden-staircase.json) |
 | Nancy Drew: The Model Mysteries | 206784 | [206784-nancy-drew-the-model-mysteries.json](./206784-nancy-drew-the-model-mysteries.json) |
+| Nancy Drew: The Mystery of the Clue Bender Society | 47907 | [47907-nancy-drew-the-mystery-of-the-clue-bender-society.json](./47907-nancy-drew-the-mystery-of-the-clue-bender-society.json) |
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
