@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaraDedeler 1989 | 165712 | [165712-karadedeler-1989.json](./165712-karadedeler-1989.json) |
 | Karagon | 190048 | [190048-karagon.json](./190048-karagon.json) |
 | Karakai Simuation Game | 133248 | [133248-karakai-simuation-game.json](./133248-karakai-simuation-game.json) |
+| Karakara | 19811 | [19811-karakara.json](./19811-karakara.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
 | Karakuri Colosseum | 276216 | [276216-karakuri-colosseum.json](./276216-karakuri-colosseum.json) |
 | Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
@@ -683,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katarina's Farm | 254619 | [254619-katarinas-farm.json](./254619-katarinas-farm.json) |
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
 | Katawa Crash | 251077 | [251077-katawa-crash.json](./251077-katawa-crash.json) |
+| Katawa Shoujo | 310603 | [310603-katawa-shoujo.json](./310603-katawa-shoujo.json) |
 | KatchFoundry | 397209 | [397209-katchfoundry.json](./397209-katchfoundry.json) |
 | Kate Don't Wait | 180018 | [180018-kate-dont-wait.json](./180018-kate-dont-wait.json) |
 | Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
