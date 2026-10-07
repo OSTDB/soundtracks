@@ -782,6 +782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblinking | 330921 | [330921-unblinking.json](./330921-unblinking.json) |
 | Unblock Ball | 353493 | [353493-unblock-ball.json](./353493-unblock-ball.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
+| Unblock Gem | 36930 | [36930-unblock-gem.json](./36930-unblock-gem.json) |
+| Unblock Hex | 36940 | [36940-unblock-hex.json](./36940-unblock-hex.json) |
 | Unblock Me | 87174 | [87174-unblock-me.json](./87174-unblock-me.json) |
 | Unblock Me Car | 148921 | [148921-unblock-me-car.json](./148921-unblock-me-car.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
