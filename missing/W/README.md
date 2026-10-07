@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Linus Bruckman Sees When His Eyes Are Closed | 73346 | [73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json](./73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
 | What Makes Us Special | 203213 | [203213-what-makes-us-special.json](./203213-what-makes-us-special.json) |
+| What makes you tick: A stitch in time | 22501 | [22501-what-makes-you-tick-a-stitch-in-time.json](./22501-what-makes-you-tick-a-stitch-in-time.json) |
 | What Misaki holds in her hand is her deduction | 401725 | [401725-what-misaki-holds-in-her-hand-is-her-deduction.json](./401725-what-misaki-holds-in-her-hand-is-her-deduction.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
