@@ -5901,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miaow.Emma | 296977 | [296977-miaow-emma.json](./296977-miaow-emma.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
+| Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
