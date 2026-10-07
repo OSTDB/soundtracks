@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whites This | 320262 | [320262-whites-this.json](./320262-whites-this.json) |
 | Whiteside | 69339 | [69339-whiteside.json](./69339-whiteside.json) |
 | Whitestone | 263534 | [263534-whitestone.json](./263534-whitestone.json) |
+| Whitetail Challenge | 32862 | [32862-whitetail-challenge.json](./32862-whitetail-challenge.json) |
 | Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | Whitewash | 62005 | [62005-whitewash.json](./62005-whitewash.json) |
@@ -3700,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: Lair of the Witch Queen - Collector's Edition | 110374 | [110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json](./110374-witches-legacy-lair-of-the-witch-queen-collectors-edition.json) |
 | Witches' Legacy: Lair of the Witch Queen & Witches' Legacy: Hunter and the Hunted | 201072 | [201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json](./201072-witches-legacy-lair-of-the-witch-queen-and-witches-legacy-hunter-and-the-hunted.json) |
 | Witches' Legacy: The City That Isn't There | 415976 | [415976-witches-legacy-the-city-that-isnt-there.json](./415976-witches-legacy-the-city-that-isnt-there.json) |
+| Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
