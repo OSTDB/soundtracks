@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Football | 402377 | [402377-global-football.json](./402377-global-football.json) |
 | Global Fortune | 119604 | [119604-global-fortune.json](./119604-global-fortune.json) |
+| Global Gladiators | 6828 | [6828-global-gladiators.json](./6828-global-gladiators.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
@@ -5529,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Up | 155796 | [155796-growing-up.json](./155796-growing-up.json) |
 | Growing Up | 376045 | [376045-growing-up.json](./376045-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
+| Growl | 6813 | [6813-growl.json](./6813-growl.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
@@ -5603,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
+| Guard Duty | 6741 | [6741-guard-duty.json](./6741-guard-duty.json) |
 | Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
 | Guard the Future | 117574 | [117574-guard-the-future.json](./117574-guard-the-future.json) |
