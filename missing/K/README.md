@@ -1864,9 +1864,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
 | King's Quest III Redux: To Heir is Human | 132066 | [132066-kings-quest-iii-redux-to-heir-is-human.json](./132066-kings-quest-iii-redux-to-heir-is-human.json) |
+| King's Quest IV: The Perils of Rosella | 744 | [744-kings-quest-iv-the-perils-of-rosella.json](./744-kings-quest-iv-the-perils-of-rosella.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest V: Absence Makes The Heart Go Yonder! | 322088 | [322088-kings-quest-v-absence-makes-the-heart-go-yonder.json](./322088-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
+| King's Quest VIII: The Mask of Eternity | 7528 | [7528-kings-quest-viii-the-mask-of-eternity.json](./7528-kings-quest-viii-the-mask-of-eternity.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
 | King's Raid | 79372 | [79372-kings-raid.json](./79372-kings-raid.json) |
 | King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
@@ -2831,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
 | Koh-Lanta: Survie Dans La Jungle! | 340586 | [340586-koh-lanta-survie-dans-la-jungle.json](./340586-koh-lanta-survie-dans-la-jungle.json) |
+| Kohan II: Kings of War | 766 | [766-kohan-ii-kings-of-war.json](./766-kohan-ii-kings-of-war.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
