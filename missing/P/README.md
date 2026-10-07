@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasie II | 14424 | [14424-phantasie-ii.json](./14424-phantasie-ii.json) |
 | Phantasie IV: Birth of Heroes | 14425 | [14425-phantasie-iv-birth-of-heroes.json](./14425-phantasie-iv-birth-of-heroes.json) |
 | Phantasie Memorial Set | 279038 | [279038-phantasie-memorial-set.json](./279038-phantasie-memorial-set.json) |
+| Phantasm | 12924 | [12924-phantasm.json](./12924-phantasm.json) |
 | Phantasm | 308357 | [308357-phantasm.json](./308357-phantasm.json) |
 | Phantasma | 90642 | [90642-phantasma.json](./90642-phantasma.json) |
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
@@ -9178,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protection Civile Simulator 2013 | 50822 | [50822-protection-civile-simulator-2013.json](./50822-protection-civile-simulator-2013.json) |
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
 | Protecto | 285520 | [285520-protecto.json](./285520-protecto.json) |
+| Protector | 13075 | [13075-protector.json](./13075-protector.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector II | 18571 | [18571-protector-ii.json](./18571-protector-ii.json) |
 | Protector Yasi | 46510 | [46510-protector-yasi.json](./46510-protector-yasi.json) |
