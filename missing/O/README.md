@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One By One | 181139 | [181139-one-by-one.json](./181139-one-by-one.json) |
 | One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Card One Shot: Mafia | 244359 | [244359-one-card-one-shot-mafia.json](./244359-one-card-one-shot-mafia.json) |
+| One Chance | 63130 | [63130-one-chance.json](./63130-one-chance.json) |
 | One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
 | One Clone Left | 33270 | [33270-one-clone-left.json](./33270-one-clone-left.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
