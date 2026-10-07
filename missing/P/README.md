@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
+| Pac-Man: Special Color Edition | 49833 | [49833-pac-man-special-color-edition.json](./49833-pac-man-special-color-edition.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Mania | 174623 | [174623-pac-mania.json](./174623-pac-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
@@ -8809,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Runway | 25171 | [25171-project-runway.json](./25171-project-runway.json) |
 | Project RyMe | 271936 | [271936-project-ryme.json](./271936-project-ryme.json) |
 | Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
+| Project S-11 | 49831 | [49831-project-s-11.json](./49831-project-s-11.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
 | Project Sail | 231367 | [231367-project-sail.json](./231367-project-sail.json) |
 | Project Sang | 176338 | [176338-project-sang.json](./176338-project-sang.json) |
@@ -9893,6 +9895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
 | Puzzle & Squishies | 109560 | [109560-puzzle-and-squishies.json](./109560-puzzle-and-squishies.json) |
+| Puzzle & Tantei Collection | 49798 | [49798-puzzle-and-tantei-collection.json](./49798-puzzle-and-tantei-collection.json) |
 | Puzzle 10 | 256221 | [256221-puzzle-10.json](./256221-puzzle-10.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
@@ -10333,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
 | Pythonisa | 352336 | [352336-pythonisa.json](./352336-pythonisa.json) |
 | Pythonmancer | 298161 | [298161-pythonmancer.json](./298161-pythonmancer.json) |
+| Pyuu to Fuku! Jaguar Byuu to Deru! Megane-Kun | 49797 | [49797-pyuu-to-fuku-jaguar-byuu-to-deru-megane-kun.json](./49797-pyuu-to-fuku-jaguar-byuu-to-deru-megane-kun.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
 | Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
 | Pyxel Knight - Engagement Quest | 22348 | [22348-pyxel-knight-engagement-quest.json](./22348-pyxel-knight-engagement-quest.json) |
