@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
+| Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rara Magic | 298790 | [298790-rara-magic.json](./298790-rara-magic.json) |
 | Rare Collection 1 | 365170 | [365170-rare-collection-1.json](./365170-rare-collection-1.json) |
@@ -2254,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ruin | 120826 | [120826-red-ruin.json](./120826-red-ruin.json) |
 | Red Runner | 184938 | [184938-red-runner.json](./184938-red-runner.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
+| Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
@@ -3906,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Tauber's Bass Champ | 94420 | [94420-rich-taubers-bass-champ.json](./94420-rich-taubers-bass-champ.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
+| Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard Scarry's Best Reading Program Ever | 384182 | [384182-richard-scarrys-best-reading-program-ever.json](./384182-richard-scarrys-best-reading-program-ever.json) |
 | Richard Scarry's Busytown | 132142 | [132142-richard-scarrys-busytown.json](./132142-richard-scarrys-busytown.json) |
@@ -5338,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
+| Rocketball | 47184 | [47184-rocketball.json](./47184-rocketball.json) |
 | Rocketball: Championship Cup | 175706 | [175706-rocketball-championship-cup.json](./175706-rocketball-championship-cup.json) |
 | RocketBallZ | 188454 | [188454-rocketballz.json](./188454-rocketballz.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
