@@ -4888,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memo Box - Memory Challenges | 108625 | [108625-memo-box-memory-challenges.json](./108625-memo-box-memory-challenges.json) |
 | Memo R.I.P. | 400411 | [400411-memo-r-i-p.json](./400411-memo-r-i-p.json) |
+| Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
@@ -5816,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| Miami Vice | 28703 | [28703-miami-vice.json](./28703-miami-vice.json) |
 | Miami Vice | 77244 | [77244-miami-vice.json](./77244-miami-vice.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
 | Miao and the Friendmily Journal: Miao | 183974 | [183974-miao-and-the-friendmily-journal-miao.json](./183974-miao-and-the-friendmily-journal-miao.json) |
@@ -7727,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission of Hero | 89424 | [89424-mission-of-hero.json](./89424-mission-of-hero.json) |
 | Mission Omega | 31183 | [31183-mission-omega.json](./31183-mission-omega.json) |
 | Mission on the Planet | 360725 | [360725-mission-on-the-planet.json](./360725-mission-on-the-planet.json) |
+| Mission on Thunderhead | 28714 | [28714-mission-on-thunderhead.json](./28714-mission-on-thunderhead.json) |
 | Mission Pom-Bär: The Snack'N Run Game | 330359 | [330359-mission-pom-bar-the-snackn-run-game.json](./330359-mission-pom-bar-the-snackn-run-game.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
@@ -8236,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Witch's Garden Pack | 162929 | [162929-moe-jigsaw-witchs-garden-pack.json](./162929-moe-jigsaw-witchs-garden-pack.json) |
 | Moe Jigsaw: Witch's Garden vol.2 Pack | 162917 | [162917-moe-jigsaw-witchs-garden-vol-2-pack.json](./162917-moe-jigsaw-witchs-garden-vol-2-pack.json) |
 | Moe Jigsaw: Wizards Complex Pack | 162930 | [162930-moe-jigsaw-wizards-complex-pack.json](./162930-moe-jigsaw-wizards-complex-pack.json) |
+| Moe Mekuri SP | 28693 | [28693-moe-mekuri-sp.json](./28693-moe-mekuri-sp.json) |
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
@@ -12334,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Olympus | 89486 | [89486-myths-of-the-world-olympus.json](./89486-myths-of-the-world-olympus.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
+| Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
