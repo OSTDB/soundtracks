@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm a Side Character in a BL story! | 177877 | [177877-im-a-side-character-in-a-bl-story.json](./177877-im-a-side-character-in-a-bl-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
 | I'm an adventurer | 110946 | [110946-im-an-adventurer.json](./110946-im-an-adventurer.json) |
+| I'm Awesome | 40148 | [40148-im-awesome.json](./40148-im-awesome.json) |
 | I'm Borr | 196604 | [196604-im-borr.json](./196604-im-borr.json) |
 | I'm Calling the Cops! | 128997 | [128997-im-calling-the-cops.json](./128997-im-calling-the-cops.json) |
 | I'm Caught in a Time Loop: I Need to Find a Girl as Soon as Possible | 340508 | [340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json](./340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json) |
