@@ -8567,6 +8567,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2: Kill Hitler | 10878 | [10878-sniper-elite-v2-kill-hitler.json](./10878-sniper-elite-v2-kill-hitler.json) |
 | Sniper Elite V2: Silver Star Edition | 136223 | [136223-sniper-elite-v2-silver-star-edition.json](./136223-sniper-elite-v2-silver-star-edition.json) |
 | Sniper Elite V2: The Landwehr Canal | 10879 | [10879-sniper-elite-v2-the-landwehr-canal.json](./10879-sniper-elite-v2-the-landwehr-canal.json) |
+| Sniper Elite V2: The Neudorf Outpost | 10880 | [10880-sniper-elite-v2-the-neudorf-outpost.json](./10880-sniper-elite-v2-the-neudorf-outpost.json) |
+| Sniper Elite V2: The St Pierre | 10881 | [10881-sniper-elite-v2-the-st-pierre.json](./10881-sniper-elite-v2-the-st-pierre.json) |
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
@@ -10774,6 +10776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Scrimshaw, Part Two | 285550 | [285550-south-scrimshaw-part-two.json](./285550-south-scrimshaw-part-two.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
+| Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
 | Southern Command | 24796 | [24796-southern-command.json](./24796-southern-command.json) |
 | Southern Legends: The Temple Defenders | 236382 | [236382-southern-legends-the-temple-defenders.json](./236382-southern-legends-the-temple-defenders.json) |
 | Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
@@ -13302,6 +13305,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sssnake | 195058 | [195058-sssnake.json](./195058-sssnake.json) |
 | SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
+| SSV8 Superstar V8 Racing | 10884 | [10884-ssv8-superstar-v8-racing.json](./10884-ssv8-superstar-v8-racing.json) |
+| SSV8NC Superstar V8 Next Challenge | 10883 | [10883-ssv8nc-superstar-v8-next-challenge.json](./10883-ssv8nc-superstar-v8-next-challenge.json) |
 | SSWK: Valentine's Day Special | 184966 | [184966-sswk-valentines-day-special.json](./184966-sswk-valentines-day-special.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
@@ -13448,6 +13453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standing Together | 374807 | [374807-standing-together.json](./374807-standing-together.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
+| Standpoint | 10885 | [10885-standpoint.json](./10885-standpoint.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
@@ -13661,6 +13667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Nomad Elite | 175236 | [175236-star-nomad-elite.json](./175236-star-nomad-elite.json) |
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
+| Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
@@ -14536,6 +14543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
 | Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
+| Starsiege | 11228 | [11228-starsiege.json](./11228-starsiege.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | StarSim | 238094 | [238094-starsim.json](./238094-starsim.json) |
@@ -14674,6 +14682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
+| Stay Dead | 10895 | [10895-stay-dead.json](./10895-stay-dead.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
 | Stay Focus | 296992 | [296992-stay-focus.json](./296992-stay-focus.json) |
@@ -17128,6 +17137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
+| Sunday Funday: The Ride | 11166 | [11166-sunday-funday-the-ride.json](./11166-sunday-funday-the-ride.json) |
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
@@ -20347,6 +20357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
+| Sylia | 10893 | [10893-sylia.json](./10893-sylia.json) |
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
 | Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
