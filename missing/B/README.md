@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon Grease | 277492 | [277492-bacon-grease.json](./277492-bacon-grease.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
 | Bacon Man: An Adventure | 36218 | [36218-bacon-man-an-adventure.json](./36218-bacon-man-an-adventure.json) |
+| Bacon Rebellion | 34121 | [34121-bacon-rebellion.json](./34121-bacon-rebellion.json) |
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Kapura Adventures | 195049 | [195049-bionicle-kapura-adventures.json](./195049-bionicle-kapura-adventures.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
+| Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
@@ -9392,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
+| Bugspeed Collider | 34127 | [34127-bugspeed-collider.json](./34127-bugspeed-collider.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
