@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
 | Cheetah Simulator | 88155 | [88155-cheetah-simulator.json](./88155-cheetah-simulator.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
+| Cheetahmen II | 8062 | [8062-cheetahmen-ii.json](./8062-cheetahmen-ii.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
 | Comanche 4 | 4203 | [4203-comanche-4.json](./4203-comanche-4.json) |
 | Comanche CD | 94326 | [94326-comanche-cd.json](./94326-comanche-cd.json) |
+| Comanche: Maximum Overkill | 7494 | [7494-comanche-maximum-overkill.json](./7494-comanche-maximum-overkill.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
@@ -9007,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
 | Crash Drive 2 | 35904 | [35904-crash-drive-2.json](./35904-crash-drive-2.json) |
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
+| Crash Drive 3D | 8038 | [8038-crash-drive-3d.json](./8038-crash-drive-3d.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
 | Crash Fever | 57178 | [57178-crash-fever.json](./57178-crash-fever.json) |
