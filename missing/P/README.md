@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Basket 4.0 | 320947 | [320947-pc-basket-4-0.json](./320947-pc-basket-4-0.json) |
 | Pc Building Empire | 357424 | [357424-pc-building-empire.json](./357424-pc-building-empire.json) |
 | PC Building Nightmare | 389603 | [389603-pc-building-nightmare.json](./389603-pc-building-nightmare.json) |
+| PC Building Simulator | 27792 | [27792-pc-building-simulator.json](./27792-pc-building-simulator.json) |
 | PC Building Simulator 2 | 194247 | [194247-pc-building-simulator-2.json](./194247-pc-building-simulator-2.json) |
 | PC Building Simulator: Deadstick Case | 124783 | [124783-pc-building-simulator-deadstick-case.json](./124783-pc-building-simulator-deadstick-case.json) |
 | PC Building Simulator: Fractal Workshop | 159688 | [159688-pc-building-simulator-fractal-workshop.json](./159688-pc-building-simulator-fractal-workshop.json) |
@@ -5191,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet X3 | 103211 | [103211-planet-x3.json](./103211-planet-x3.json) |
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
+| Planet Zoo | 117717 | [117717-planet-zoo.json](./117717-planet-zoo.json) |
 | Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
@@ -6278,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
 | Pokémon Mystery Dungeon: Explorers of Hell | 255898 | [255898-pokemon-mystery-dungeon-explorers-of-hell.json](./255898-pokemon-mystery-dungeon-explorers-of-hell.json) |
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
+| Pokémon Mystery Dungeon: Explorers of Sky | 2323 | [2323-pokemon-mystery-dungeon-explorers-of-sky.json](./2323-pokemon-mystery-dungeon-explorers-of-sky.json) |
 | Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
@@ -8355,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Deer Hunting: Out West | 194361 | [194361-pro-deer-hunting-out-west.json](./194361-pro-deer-hunting-out-west.json) |
 | Pro Evolution Soccer | 240457 | [240457-pro-evolution-soccer.json](./240457-pro-evolution-soccer.json) |
 | Pro Evolution Soccer 2 | 220944 | [220944-pro-evolution-soccer-2.json](./220944-pro-evolution-soccer-2.json) |
+| Pro Evolution Soccer 2009 | 4648 | [4648-pro-evolution-soccer-2009.json](./4648-pro-evolution-soccer-2009.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 240463 | [240463-pro-evolution-soccer-2011.json](./240463-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 240464 | [240464-pro-evolution-soccer-2011.json](./240464-pro-evolution-soccer-2011.json) |
@@ -8367,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2017 | 240468 | [240468-pro-evolution-soccer-2017.json](./240468-pro-evolution-soccer-2017.json) |
 | Pro Evolution Soccer 2018 | 28862 | [28862-pro-evolution-soccer-2018.json](./28862-pro-evolution-soccer-2018.json) |
 | Pro Evolution Soccer 2018 Lite | 86384 | [86384-pro-evolution-soccer-2018-lite.json](./86384-pro-evolution-soccer-2018-lite.json) |
+| Pro Evolution Soccer 2019 | 100359 | [100359-pro-evolution-soccer-2019.json](./100359-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019: Legend Edition | 118879 | [118879-pro-evolution-soccer-2019-legend-edition.json](./118879-pro-evolution-soccer-2019-legend-edition.json) |
