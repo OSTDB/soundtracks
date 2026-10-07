@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
+| Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidi's Legacy: Mountains Calling | 347825 | [347825-heidis-legacy-mountains-calling.json](./347825-heidis-legacy-mountains-calling.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
+| Heileen: Sail Away | 50442 | [50442-heileen-sail-away.json](./50442-heileen-sail-away.json) |
 | Heim | 131959 | [131959-heim.json](./131959-heim.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
