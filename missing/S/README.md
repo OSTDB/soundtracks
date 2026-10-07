@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
+| Sellsword VR | 55686 | [55686-sellsword-vr.json](./55686-sellsword-vr.json) |
 | Selsoviet | 411699 | [411699-selsoviet.json](./411699-selsoviet.json) |
 | Selve | 369109 | [369109-selve.json](./369109-selve.json) |
 | Sem % | 176816 | [176816-sem.json](./176816-sem.json) |
@@ -4195,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes! Toddler Kids Games,Baby Boys Learning Free | 86806 | [86806-shapes-toddler-kids-games-baby-boys-learning-free.json](./86806-shapes-toddler-kids-games-baby-boys-learning-free.json) |
 | Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
+| Shapes5 | 55682 | [55682-shapes5.json](./55682-shapes5.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | ShapeShifter | 344569 | [344569-shapeshifter.json](./344569-shapeshifter.json) |
@@ -6704,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
+| Skeleton Sprint | 55675 | [55675-skeleton-sprint.json](./55675-skeleton-sprint.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton Village | 298644 | [298644-skeleton-village.json](./298644-skeleton-village.json) |
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
@@ -7259,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Roll | 132081 | [132081-slash-roll.json](./132081-slash-roll.json) |
 | Slash Them All | 239626 | [239626-slash-them-all.json](./239626-slash-them-all.json) |
 | Slash'EM Extended | 351135 | [351135-slashem-extended.json](./351135-slashem-extended.json) |
+| Slash/Dots. | 55653 | [55653-slash-dots.json](./55653-slash-dots.json) |
 | Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slasher | 251048 | [251048-slasher.json](./251048-slasher.json) |
@@ -7452,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Sleuth | 94909 | [94909-sleuth.json](./94909-sleuth.json) |
 | SLG Remix | 33428 | [33428-slg-remix.json](./33428-slg-remix.json) |
+| SLI-FI: 2D Planet Platformer | 55694 | [55694-sli-fi-2d-planet-platformer.json](./55694-sli-fi-2d-planet-platformer.json) |
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
@@ -7663,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot Trip | 245935 | [245935-slingshot-trip.json](./245935-slingshot-trip.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
+| SlingSkull Zombies: The Dawn | 55665 | [55665-slingskull-zombies-the-dawn.json](./55665-slingskull-zombies-the-dawn.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
@@ -10879,6 +10885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fight | 216763 | [216763-space-fight.json](./216763-space-fight.json) |
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
+| Space Fighter | 55674 | [55674-space-fighter.json](./55674-space-fighter.json) |
 | Space Fighter | 80830 | [80830-space-fighter.json](./80830-space-fighter.json) |
 | Space Fighter 4000: Training Missions | 61457 | [61457-space-fighter-4000-training-missions.json](./61457-space-fighter-4000-training-missions.json) |
 | Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
@@ -11415,6 +11422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
 | Spacemen | 15696 | [15696-spacemen.json](./15696-spacemen.json) |
+| SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | Spaceport Assault | 336667 | [336667-spaceport-assault.json](./336667-spaceport-assault.json) |
@@ -19042,6 +19050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Game of Gods | 139746 | [139746-surface-game-of-gods.json](./139746-surface-game-of-gods.json) |
+| Surface: Game of Gods - Collector's Edition | 55661 | [55661-surface-game-of-gods-collectors-edition.json](./55661-surface-game-of-gods-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Reel Life | 139747 | [139747-surface-reel-life.json](./139747-surface-reel-life.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
