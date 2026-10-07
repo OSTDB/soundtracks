@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
 | Black Sheep Town | 217805 | [217805-black-sheep-town.json](./217805-black-sheep-town.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
+| Black Skylands | 122132 | [122132-black-skylands.json](./122132-black-skylands.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
 | Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
