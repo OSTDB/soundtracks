@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Laika: Space and Beyond | 164247 | [164247-kosmo-laika-space-and-beyond.json](./164247-kosmo-laika-space-and-beyond.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
+| Kosmo Spin | 6208 | [6208-kosmo-spin.json](./6208-kosmo-spin.json) |
 | Kosmobreak | 285518 | [285518-kosmobreak.json](./285518-kosmobreak.json) |
 | Kosmocean: The Endless Sea | 266985 | [266985-kosmocean-the-endless-sea.json](./266985-kosmocean-the-endless-sea.json) |
 | Kosmonavtes: Academy Escape | 163752 | [163752-kosmonavtes-academy-escape.json](./163752-kosmonavtes-academy-escape.json) |
