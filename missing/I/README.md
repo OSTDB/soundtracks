@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
+| Icewind Dale: Heart of Winter - Trials of the Luremaster | 8829 | [8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json](./8829-icewind-dale-heart-of-winter-trials-of-the-luremaster.json) |
 | Icey: Ucey's Awakening | 171943 | [171943-icey-uceys-awakening.json](./171943-icey-uceys-awakening.json) |
 | Ichido ha Yonde Okitai: Nihon Bungaku 100-sen | 269639 | [269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json](./269639-ichido-ha-yonde-okitai-nihon-bungaku-100-sen.json) |
 | Ichigeki: Hagane No Hito | 174632 | [174632-ichigeki-hagane-no-hito.json](./174632-ichigeki-hagane-no-hito.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
+| Incubation: Time Is Running Out | 9033 | [9033-incubation-time-is-running-out.json](./9033-incubation-time-is-running-out.json) |
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
@@ -2932,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intersolar Overdrive | 111676 | [111676-intersolar-overdrive.json](./111676-intersolar-overdrive.json) |
 | InterSpace | 258209 | [258209-interspace.json](./258209-interspace.json) |
 | Interstate '76 | 760 | [760-interstate-76.json](./760-interstate-76.json) |
+| Interstate '82 | 8788 | [8788-interstate-82.json](./8788-interstate-82.json) |
 | Interstate 35 | 322155 | [322155-interstate-35.json](./322155-interstate-35.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
@@ -3344,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
+| Iron Grip: Warlord | 8720 | [8720-iron-grip-warlord.json](./8720-iron-grip-warlord.json) |
 | Iron Guard | 226148 | [226148-iron-guard.json](./226148-iron-guard.json) |
 | Iron Guard VR | 127726 | [127726-iron-guard-vr.json](./127726-iron-guard-vr.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
