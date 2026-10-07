@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic II: Desecrated Lands | 223031 | [223031-heroes-of-might-and-magic-ii-desecrated-lands.json](./223031-heroes-of-might-and-magic-ii-desecrated-lands.json) |
 | Heroes of Might and Magic II: Gold | 51821 | [51821-heroes-of-might-and-magic-ii-gold.json](./51821-heroes-of-might-and-magic-ii-gold.json) |
 | Heroes of Might and Magic II: The Price of Loyalty | 7742 | [7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json](./7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json) |
+| Heroes of Might and Magic III: Armageddon's Blade | 365 | [365-heroes-of-might-and-magic-iii-armageddons-blade.json](./365-heroes-of-might-and-magic-iii-armageddons-blade.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
