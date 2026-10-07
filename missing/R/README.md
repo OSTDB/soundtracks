@@ -5098,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboPhobik | 138534 | [138534-robophobik.json](./138534-robophobik.json) |
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
+| Roboquest | 137894 | [137894-roboquest.json](./137894-roboquest.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
 | RoboRancher | 259182 | [259182-roborancher.json](./259182-roborancher.json) |
@@ -5272,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
 | Rock Band 2 | 2692 | [2692-rock-band-2.json](./2692-rock-band-2.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
+| Rock Band 3 | 2691 | [2691-rock-band-3.json](./2691-rock-band-3.json) |
 | Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
