@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
 | Uchusen: Ultimate Ploid Battle | 159709 | [159709-uchusen-ultimate-ploid-battle.json](./159709-uchusen-ultimate-ploid-battle.json) |
 | Uchuu Bouken Shoujo Nami: Davie Jones - Umi no Akuma | 400501 | [400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json](./400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json) |
+| Uchuu Keibitai SDF | 48560 | [48560-uchuu-keibitai-sdf.json](./48560-uchuu-keibitai-sdf.json) |
 | Uchuu no Kishi: Tekkaman Blade | 68070 | [68070-uchuu-no-kishi-tekkaman-blade.json](./68070-uchuu-no-kishi-tekkaman-blade.json) |
 | Uchuu Senkan Yamato | 255870 | [255870-uchuu-senkan-yamato.json](./255870-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato | 255875 | [255875-uchuu-senkan-yamato.json](./255875-uchuu-senkan-yamato.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Senkan Yamato | 37350 | [37350-uchuu-senkan-yamato.json](./37350-uchuu-senkan-yamato.json) |
 | Uchuu Senkan Yamato HD Remaster | 255871 | [255871-uchuu-senkan-yamato-hd-remaster.json](./255871-uchuu-senkan-yamato-hd-remaster.json) |
 | Uchuu Senkan Yamato: Kanketsu-hen | 385807 | [385807-uchuu-senkan-yamato-kanketsu-hen.json](./385807-uchuu-senkan-yamato-kanketsu-hen.json) |
+| Uchuusen Cosmo Carrier | 48559 | [48559-uchuusen-cosmo-carrier.json](./48559-uchuusen-cosmo-carrier.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
@@ -589,6 +591,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman 2: Shutsugeki Katoku Tai | 41323 | [41323-ultraman-2-shutsugeki-katoku-tai.json](./41323-ultraman-2-shutsugeki-katoku-tai.json) |
 | Ultraman All-Star Chronicle | 59362 | [59362-ultraman-all-star-chronicle.json](./59362-ultraman-all-star-chronicle.json) |
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
+| Ultraman Club 2: Kaette Kita Ultraman Club | 48557 | [48557-ultraman-club-2-kaette-kita-ultraman-club.json](./48557-ultraman-club-2-kaette-kita-ultraman-club.json) |
+| Ultraman Club 3: Mata Mata Shiyutsugeki!! Ultra Kyoudai | 48556 | [48556-ultraman-club-3-mata-mata-shiyutsugeki-ultra-kyoudai.json](./48556-ultraman-club-3-mata-mata-shiyutsugeki-ultra-kyoudai.json) |
+| Ultraman Club: Kaijuu Daikessen!! | 48558 | [48558-ultraman-club-kaijuu-daikessen.json](./48558-ultraman-club-kaijuu-daikessen.json) |
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
 | Ultraman Fighting Evolution 0 | 64212 | [64212-ultraman-fighting-evolution-0.json](./64212-ultraman-fighting-evolution-0.json) |
@@ -1986,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urusei Yatsura CG Puzzle | 138521 | [138521-urusei-yatsura-cg-puzzle.json](./138521-urusei-yatsura-cg-puzzle.json) |
 | Urusei Yatsura: Endless Summer | 72697 | [72697-urusei-yatsura-endless-summer.json](./72697-urusei-yatsura-endless-summer.json) |
 | Urusei Yatsura: Koi no Survival Party | 66194 | [66194-urusei-yatsura-koi-no-survival-party.json](./66194-urusei-yatsura-koi-no-survival-party.json) |
+| Urusei Yatsura: Lum no Wedding Bell | 48555 | [48555-urusei-yatsura-lum-no-wedding-bell.json](./48555-urusei-yatsura-lum-no-wedding-bell.json) |
 | Urusei Yatsura: Miss Tomobiki wo Sagase! | 66195 | [66195-urusei-yatsura-miss-tomobiki-wo-sagase.json](./66195-urusei-yatsura-miss-tomobiki-wo-sagase.json) |
 | Urusei Yatsura: Stay With You | 66196 | [66196-urusei-yatsura-stay-with-you.json](./66196-urusei-yatsura-stay-with-you.json) |
 | Uruz: Return of the Er Kishi | 122162 | [122162-uruz-return-of-the-er-kishi.json](./122162-uruz-return-of-the-er-kishi.json) |
@@ -2031,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
 | Ushinawareta Mirai wo Motomete | 76601 | [76601-ushinawareta-mirai-wo-motomete.json](./76601-ushinawareta-mirai-wo-motomete.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
+| Ushio to Tora: Shinen no Daiyou | 48554 | [48554-ushio-to-tora-shinen-no-daiyou.json](./48554-ushio-to-tora-shinen-no-daiyou.json) |
 | Ushiro | 92685 | [92685-ushiro.json](./92685-ushiro.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
@@ -2087,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsukushii Nihongo no Kakikata Hanashikata DS | 124114 | [124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json](./124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
+| Utsurun Desu: Kawauso Hawaii he Iku!!! | 48553 | [48553-utsurun-desu-kawauso-hawaii-he-iku.json](./48553-utsurun-desu-kawauso-hawaii-he-iku.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utter a Name | 326216 | [326216-utter-a-name.json](./326216-utter-a-name.json) |
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
