@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
+| Othello | 54937 | [54937-othello.json](./54937-othello.json) |
 | Othello 2018 | 104147 | [104147-othello-2018.json](./104147-othello-2018.json) |
 | Othello 3 | 93019 | [93019-othello-3.json](./93019-othello-3.json) |
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
 | Outside the home | 176249 | [176249-outside-the-home.json](./176249-outside-the-home.json) |
+| Outside World | 54906 | [54906-outside-world.json](./54906-outside-world.json) |
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
