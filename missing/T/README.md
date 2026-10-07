@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tail Tale | 73338 | [73338-tail-tale.json](./73338-tail-tale.json) |
+| Tail to Nose | 39505 | [39505-tail-to-nose.json](./39505-tail-to-nose.json) |
 | Tail-Tale | 194300 | [194300-tail-tale.json](./194300-tail-tale.json) |
 | Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
+| Tank Force | 39504 | [39504-tank-force.json](./39504-tank-force.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Frenzy | 288374 | [288374-tank-frenzy.json](./288374-tank-frenzy.json) |
 | Tank Frenzy Survivor | 339419 | [339419-tank-frenzy-survivor.json](./339419-tank-frenzy-survivor.json) |
@@ -2071,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenyshire | 274004 | [274004-teenyshire.json](./274004-teenyshire.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeter | 324975 | [324975-teeter.json](./324975-teeter.json) |
+| Teeter Torture | 39513 | [39513-teeter-torture.json](./39513-teeter-torture.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
@@ -2078,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
 | Tegra: Post Apocalypse Survival | 231886 | [231886-tegra-post-apocalypse-survival.json](./231886-tegra-post-apocalypse-survival.json) |
 | Teh Scrunglybois: Working Title | 382920 | [382920-teh-scrunglybois-working-title.json](./382920-teh-scrunglybois-working-title.json) |
+| Tehkan World Cup | 39502 | [39502-tehkan-world-cup.json](./39502-tehkan-world-cup.json) |
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
 | Teigeki Graph in Sakura Wars | 62124 | [62124-teigeki-graph-in-sakura-wars.json](./62124-teigeki-graph-in-sakura-wars.json) |
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
@@ -4468,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
 | The Crystal Maze | 13247 | [13247-the-crystal-maze.json](./13247-the-crystal-maze.json) |
 | The Crystal Nebula | 31963 | [31963-the-crystal-nebula.json](./31963-the-crystal-nebula.json) |
+| The Crystal of Kings | 39487 | [39487-the-crystal-of-kings.json](./39487-the-crystal-of-kings.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
@@ -7703,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Mailroom | 365273 | [365273-the-mailroom.json](./365273-the-mailroom.json) |
 | The Maimed God's Saga | 348380 | [348380-the-maimed-gods-saga.json](./348380-the-maimed-gods-saga.json) |
+| The Main Event | 39499 | [39499-the-main-event.json](./39499-the-main-event.json) |
 | The Main Menu | 418516 | [418516-the-main-menu.json](./418516-the-main-menu.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
@@ -8202,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
+| The Ocean Hunter | 39475 | [39475-the-ocean-hunter.json](./39475-the-ocean-hunter.json) |
 | The Ocean Will Have Us All | 220695 | [220695-the-ocean-will-have-us-all.json](./220695-the-ocean-will-have-us-all.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Battle | 108026 | [108026-the-odd-battle.json](./108026-the-odd-battle.json) |
@@ -10429,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Christmas Sweater Game | 126995 | [126995-the-ugly-christmas-sweater-game.json](./126995-the-ugly-christmas-sweater-game.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
+| The Ultimate 11: SNK Football Championship | 39537 | [39537-the-ultimate-11-snk-football-championship.json](./39537-the-ultimate-11-snk-football-championship.json) |
 | The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
