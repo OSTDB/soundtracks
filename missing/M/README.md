@@ -6372,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | MiedoW | 195510 | [195510-miedow.json](./195510-miedow.json) |
+| Miegakure | 9729 | [9729-miegakure.json](./9729-miegakure.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
@@ -8703,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
+| Monopoly Tycoon | 9710 | [9710-monopoly-tycoon.json](./9710-monopoly-tycoon.json) |
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
 | Monopoly: Here & Now Worldwide Edition | 84305 | [84305-monopoly-here-and-now-worldwide-edition.json](./84305-monopoly-here-and-now-worldwide-edition.json) |
 | Monopoly: SpongeBob SquarePants Edition | 68109 | [68109-monopoly-spongebob-squarepants-edition.json](./68109-monopoly-spongebob-squarepants-edition.json) |
