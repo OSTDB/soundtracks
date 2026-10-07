@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP Slime | 369726 | [369726-xp-slime.json](./369726-xp-slime.json) |
 | XP Soccer | 207754 | [207754-xp-soccer.json](./207754-xp-soccer.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
+| Xpand Rally | 8034 | [8034-xpand-rally.json](./8034-xpand-rally.json) |
 | Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
 | XPilot | 142943 | [142943-xpilot.json](./142943-xpilot.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
