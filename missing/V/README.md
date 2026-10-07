@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Animation | 1548 | [1548-virtua-fighter-animation.json](./1548-virtua-fighter-animation.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
+| Virtua Fighter PC | 1546 | [1546-virtua-fighter-pc.json](./1546-virtua-fighter-pc.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
 | Virtua Golf | 131345 | [131345-virtua-golf.json](./131345-virtua-golf.json) |
