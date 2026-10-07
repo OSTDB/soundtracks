@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Life | 34119 | [34119-rite-of-life.json](./34119-rite-of-life.json) |
 | Rite of Passage | 57496 | [57496-rite-of-passage.json](./57496-rite-of-passage.json) |
 | Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
+| Rite of Passage: Child of the Forest - Collector's Edition | 28743 | [28743-rite-of-passage-child-of-the-forest-collectors-edition.json](./28743-rite-of-passage-child-of-the-forest-collectors-edition.json) |
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
 | Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
@@ -5114,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Rage Rearmed | 123392 | [123392-robot-rage-rearmed.json](./123392-robot-rage-rearmed.json) |
 | Robot Rampage | 343366 | [343366-robot-rampage.json](./343366-robot-rampage.json) |
+| Robot Rascals | 28709 | [28709-robot-rascals.json](./28709-robot-rascals.json) |
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
 | Robot Rescue | 84844 | [84844-robot-rescue.json](./84844-robot-rescue.json) |
