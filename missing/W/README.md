@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: End Times - Vermintide Schluesselschloss | 148708 | [148708-warhammer-end-times-vermintide-schluesselschloss.json](./148708-warhammer-end-times-vermintide-schluesselschloss.json) |
 | Warhammer: End Times - Vermintide Sigmar's Blessing | 148710 | [148710-warhammer-end-times-vermintide-sigmars-blessing.json](./148710-warhammer-end-times-vermintide-sigmars-blessing.json) |
 | Warhammer: End Times - Vermintide Stromdorf | 148713 | [148713-warhammer-end-times-vermintide-stromdorf.json](./148713-warhammer-end-times-vermintide-stromdorf.json) |
+| Warhammer: Mark of Chaos - Battle March | 20785 | [20785-warhammer-mark-of-chaos-battle-march.json](./20785-warhammer-mark-of-chaos-battle-march.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Knight Chronicles: International Edition | 21761 | [21761-white-knight-chronicles-international-edition.json](./21761-white-knight-chronicles-international-edition.json) |
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
 | White Knight Chronicles: Origins | 42811 | [42811-white-knight-chronicles-origins.json](./42811-white-knight-chronicles-origins.json) |
+| White Knuckle | 320734 | [320734-white-knuckle.json](./320734-white-knuckle.json) |
 | White lady | 201689 | [201689-white-lady.json](./201689-white-lady.json) |
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Nightmare | 151554 | [151554-worst-nightmare.json](./151554-worst-nightmare.json) |
 | Worst Shop in Town | 405073 | [405073-worst-shop-in-town.json](./405073-worst-shop-in-town.json) |
 | Worst World | 186608 | [186608-worst-world.json](./186608-worst-world.json) |
+| Wortgewandt | 339152 | [339152-wortgewandt.json](./339152-wortgewandt.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | Worth Waiting | 177364 | [177364-worth-waiting.json](./177364-worth-waiting.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
@@ -5196,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
 | Wrangler | 259185 | [259185-wrangler.json](./259185-wrangler.json) |
 | Wrangler | 94540 | [94540-wrangler.json](./94540-wrangler.json) |
+| Wrap House Simulator | 333294 | [333294-wrap-house-simulator.json](./333294-wrap-house-simulator.json) |
 | Wrap It! | 164442 | [164442-wrap-it.json](./164442-wrap-it.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrassling | 96922 | [96922-wrassling.json](./96922-wrassling.json) |
