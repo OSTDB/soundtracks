@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Goddess of Destruction | 339364 | [339364-dark-goddess-of-destruction.json](./339364-dark-goddess-of-destruction.json) |
 | Dark Gravity | 128311 | [128311-dark-gravity.json](./128311-dark-gravity.json) |
 | Dark Grid | 373014 | [373014-dark-grid.json](./373014-dark-grid.json) |
+| Dark Guardians | 38881 | [38881-dark-guardians.json](./38881-dark-guardians.json) |
 | Dark Half | 42562 | [42562-dark-half.json](./42562-dark-half.json) |
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
 | Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
