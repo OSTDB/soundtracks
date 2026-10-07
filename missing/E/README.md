@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchant Farm | 287329 | [287329-enchant-farm.json](./287329-enchant-farm.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
+| Enchanted Arms | 6988 | [6988-enchanted-arms.json](./6988-enchanted-arms.json) |
 | Enchanted Broom | 384071 | [384071-enchanted-broom.json](./384071-enchanted-broom.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
@@ -2463,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
 | Epic Mayhem | 29026 | [29026-epic-mayhem.json](./29026-epic-mayhem.json) |
 | Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
+| Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
@@ -2984,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: R00m 02 | 334094 | [334094-escape-game-r00m-02.json](./334094-escape-game-r00m-02.json) |
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
+| Escape Goat | 7590 | [7590-escape-goat.json](./7590-escape-goat.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
@@ -4091,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exanimate | 311189 | [311189-exanimate.json](./311189-exanimate.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
+| Exapunks | 106122 | [106122-exapunks.json](./106122-exapunks.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
