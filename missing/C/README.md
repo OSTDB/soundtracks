@@ -7318,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Genie | 75238 | [75238-concrete-genie.json](./75238-concrete-genie.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
+| Concrete Sky | 36967 | [36967-concrete-sky.json](./36967-concrete-sky.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concrete Tremor | 234033 | [234033-concrete-tremor.json](./234033-concrete-tremor.json) |
 | Concrete Visions | 282816 | [282816-concrete-visions.json](./282816-concrete-visions.json) |
@@ -11163,6 +11164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
 | Cuzuco | 373185 | [373185-cuzuco.json](./373185-cuzuco.json) |
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
+| CW: Chaco War | 37009 | [37009-cw-chaco-war.json](./37009-cw-chaco-war.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan | 169808 | [169808-cyan.json](./169808-cyan.json) |
