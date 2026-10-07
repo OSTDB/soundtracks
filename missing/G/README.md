@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaiares | 280324 | [280324-gaiares.json](./280324-gaiares.json) |
 | Gaiares | 93373 | [93373-gaiares.json](./93373-gaiares.json) |
 | Gaias Lord | 92292 | [92292-gaias-lord.json](./92292-gaias-lord.json) |
+| Gaiflame | 43189 | [43189-gaiflame.json](./43189-gaiflame.json) |
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gailardia 2: The One That Survived | 376696 | [376696-gailardia-2-the-one-that-survived.json](./376696-gailardia-2-the-one-that-survived.json) |
 | Gailardia 3: Eternal Peace | 376698 | [376698-gailardia-3-eternal-peace.json](./376698-gailardia-3-eternal-peace.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Dice | 58898 | [58898-game-of-dice.json](./58898-game-of-dice.json) |
 | Game of Dragons | 218973 | [218973-game-of-dragons.json](./218973-game-of-dragons.json) |
+| Game of Dragons | 43179 | [43179-game-of-dragons.json](./43179-game-of-dragons.json) |
 | Game of Earth: Build Your City | 243073 | [243073-game-of-earth-build-your-city.json](./243073-game-of-earth-build-your-city.json) |
 | Game of Emperors | 47166 | [47166-game-of-emperors.json](./47166-game-of-emperors.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
@@ -1399,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Atsu!! Pachige Damashii Vol.2: Evangelion - Shinjitsu no Tsubasa | 178404 | [178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json](./178404-geki-atsu-pachige-damashii-vol-2-evangelion-shinjitsu-no-tsubasa.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
+| Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
@@ -1794,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoGuess | 142736 | [142736-geoguess.json](./142736-geoguess.json) |
 | GeoGuessr: Steam Edition | 336739 | [336739-geoguessr-steam-edition.json](./336739-geoguessr-steam-edition.json) |
 | GeoHub | 268109 | [268109-geohub.json](./268109-geohub.json) |
+| Geoid | 43214 | [43214-geoid.json](./43214-geoid.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
