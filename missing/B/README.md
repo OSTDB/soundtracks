@@ -6286,6 +6286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
 | Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
+| Blood West | 188555 | [188555-blood-west.json](./188555-blood-west.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
 | Blood Within: Path of Vengeance | 337833 | [337833-blood-within-path-of-vengeance.json](./337833-blood-within-path-of-vengeance.json) |
 | Blood Within: Star's Shadow Armor | 323244 | [323244-blood-within-stars-shadow-armor.json](./323244-blood-within-stars-shadow-armor.json) |
