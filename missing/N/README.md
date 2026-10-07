@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: Legends - Collector's Edition | 76513 | [76513-nevertales-legends-collectors-edition.json](./76513-nevertales-legends-collectors-edition.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
 | Nevertales: The Abomination | 187941 | [187941-nevertales-the-abomination.json](./187941-nevertales-the-abomination.json) |
+| Nevertales: The Beauty Within - Collector's Edition | 32786 | [32786-nevertales-the-beauty-within-collectors-edition.json](./32786-nevertales-the-beauty-within-collectors-edition.json) |
 | Neverwards | 342159 | [342159-neverwards.json](./342159-neverwards.json) |
 | Neverwinter Nights | 216 | [216-neverwinter-nights.json](./216-neverwinter-nights.json) |
 | Neverwinter Nights | 96492 | [96492-neverwinter-nights.json](./96492-neverwinter-nights.json) |
