@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-Bot The Robot | 336608 | [336608-o-bot-the-robot.json](./336608-o-bot-the-robot.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O-Bot The Robot: Re-Botted | 418740 | [418740-o-bot-the-robot-re-botted.json](./418740-o-bot-the-robot-re-botted.json) |
+| O-Box: Ball Shooter | 47170 | [47170-o-box-ball-shooter.json](./47170-o-box-ball-shooter.json) |
 | O-chan no Oekaki Logic | 186657 | [186657-o-chan-no-oekaki-logic.json](./186657-o-chan-no-oekaki-logic.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
