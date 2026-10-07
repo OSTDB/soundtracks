@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-mas Lamers | 72320 | [72320-x-mas-lamers.json](./72320-x-mas-lamers.json) |
 | X-Men | 202167 | [202167-x-men.json](./202167-x-men.json) |
 | X-Men | 363894 | [363894-x-men.json](./363894-x-men.json) |
+| X-Men | 4531 | [4531-x-men.json](./4531-x-men.json) |
 | X-Men | 80408 | [80408-x-men.json](./80408-x-men.json) |
 | X-Men | 81251 | [81251-x-men.json](./81251-x-men.json) |
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
@@ -400,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
 | Xenosaga Episode I: Der Wille zur Macht - Reloaded | 221670 | [221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json](./221670-xenosaga-episode-i-der-wille-zur-macht-reloaded.json) |
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
+| Xenosaga Episode III: Also sprach Zarathustra | 1229 | [1229-xenosaga-episode-iii-also-sprach-zarathustra.json](./1229-xenosaga-episode-iii-also-sprach-zarathustra.json) |
 | Xenosaga Freaks | 25021 | [25021-xenosaga-freaks.json](./25021-xenosaga-freaks.json) |
 | Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
