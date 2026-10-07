@@ -3346,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
+| The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
 | The Ambassador: Fractured Timelines | 128228 | [128228-the-ambassador-fractured-timelines.json](./128228-the-ambassador-fractured-timelines.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
@@ -10794,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
 | The Wiki Game | 130699 | [130699-the-wiki-game.json](./130699-the-wiki-game.json) |
+| The Wild | 49282 | [49282-the-wild.json](./49282-the-wild.json) |
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
 | The Wild at Heart | 116522 | [116522-the-wild-at-heart.json](./116522-the-wild-at-heart.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
@@ -11762,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
+| Thunderbirds International Rescue | 49255 | [49255-thunderbirds-international-rescue.json](./49255-thunderbirds-international-rescue.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Thunderbolt | 88236 | [88236-thunderbolt.json](./88236-thunderbolt.json) |
 | Thunderbolt Boxing | 208336 | [208336-thunderbolt-boxing.json](./208336-thunderbolt-boxing.json) |
