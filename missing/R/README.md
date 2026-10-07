@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
+| R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
 | R.A.S.P. Mobility-Unit | 359023 | [359023-r-a-s-p-mobility-unit.json](./359023-r-a-s-p-mobility-unit.json) |
 | R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Award - More Corridor 1 | 191074 | [191074-re-award-more-corridor-1.json](./191074-re-award-more-corridor-1.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
 | Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
+| Re:Birthday Song - Koi wo Utau Shinigami | 54920 | [54920-re-birthday-song-koi-wo-utau-shinigami.json](./54920-re-birthday-song-koi-wo-utau-shinigami.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
 | Reversi | 88592 | [88592-reversi.json](./88592-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
+| Reversi also known as Othello | 54948 | [54948-reversi-also-known-as-othello.json](./54948-reversi-also-known-as-othello.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
@@ -5754,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
 | Rolie Polie Olie: The Search for Spot | 209366 | [209366-rolie-polie-olie-the-search-for-spot.json](./209366-rolie-polie-olie-the-search-for-spot.json) |
+| Rolisteam | 54897 | [54897-rolisteam.json](./54897-rolisteam.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
