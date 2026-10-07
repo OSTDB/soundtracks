@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
 | Black River | 29661 | [29661-black-river.json](./29661-black-river.json) |
 | Black Robinia | 59420 | [59420-black-robinia.json](./59420-black-robinia.json) |
+| Black Rock City | 57517 | [57517-black-rock-city.json](./57517-black-rock-city.json) |
 | Black Rock Shooter: Fragment | 193806 | [193806-black-rock-shooter-fragment.json](./193806-black-rock-shooter-fragment.json) |
 | Black Room | 188989 | [188989-black-room.json](./188989-black-room.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
@@ -9901,6 +9902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
+| Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
