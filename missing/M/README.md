@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mancala Pro | 87863 | [87863-mancala-pro.json](./87863-mancala-pro.json) |
 | Mancala Snails | 321617 | [321617-mancala-snails.json](./321617-mancala-snails.json) |
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
+| Manchester United Championship Soccer | 42503 | [42503-manchester-united-championship-soccer.json](./42503-manchester-united-championship-soccer.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
 | Manchester United Premier League Champions | 72271 | [72271-manchester-united-premier-league-champions.json](./72271-manchester-united-premier-league-champions.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Deadly Flight | 323183 | [323183-marios-deadly-flight.json](./323183-marios-deadly-flight.json) |
 | Mario's Deadly Flight 2 | 323184 | [323184-marios-deadly-flight-2.json](./323184-marios-deadly-flight-2.json) |
 | Mario's Early Years! Fun with Letters | 42502 | [42502-marios-early-years-fun-with-letters.json](./42502-marios-early-years-fun-with-letters.json) |
+| Mario's Early Years! Fun with Numbers | 42501 | [42501-marios-early-years-fun-with-numbers.json](./42501-marios-early-years-fun-with-numbers.json) |
 | Mario's Early Years! Preschool Fun | 42500 | [42500-marios-early-years-preschool-fun.json](./42500-marios-early-years-preschool-fun.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Final Adventure Wii | 294772 | [294772-marios-final-adventure-wii.json](./294772-marios-final-adventure-wii.json) |
@@ -2420,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
+| Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
@@ -3784,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
+| Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech | 110274 | [110274-mech.json](./110274-mech.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
@@ -4740,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
 | Meld | 33330 | [33330-meld.json](./33330-meld.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
+| Melfand Stories | 42526 | [42526-melfand-stories.json](./42526-melfand-stories.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
 | Melia Keys In... Quantum Decade | 280414 | [280414-melia-keys-in-quantum-decade.json](./280414-melia-keys-in-quantum-decade.json) |
@@ -5799,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
 | Mice Tea | 223528 | [223528-mice-tea.json](./223528-mice-tea.json) |
 | Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
+| Michael Andretti's Indy Car Challenge | 42496 | [42496-michael-andrettis-indy-car-challenge.json](./42496-michael-andrettis-indy-car-challenge.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
 | Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
@@ -5846,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Apple Cart | 246511 | [246511-mickeys-apple-cart.json](./246511-mickeys-apple-cart.json) |
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
+| Mickey's Playtown Adventure: A Day of Discovery! | 42488 | [42488-mickeys-playtown-adventure-a-day-of-discovery.json](./42488-mickeys-playtown-adventure-a-day-of-discovery.json) |
 | Mickey's Robot Laboratory | 320330 | [320330-mickeys-robot-laboratory.json](./320330-mickeys-robot-laboratory.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
@@ -8234,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
 | MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
+| Mohawk & Headphone Jack | 42487 | [42487-mohawk-and-headphone-jack.json](./42487-mohawk-and-headphone-jack.json) |
 | Mohism | 152378 | [152378-mohism.json](./152378-mohism.json) |
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
 | Mohrta | 298795 | [298795-mohrta.json](./298795-mohrta.json) |
@@ -10048,6 +10056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bicycle Rider Simulator | 264779 | [264779-mountain-bicycle-rider-simulator.json](./264779-mountain-bicycle-rider-simulator.json) |
 | Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
+| Mountain Bike Rally | 42485 | [42485-mountain-bike-rally.json](./42485-mountain-bike-rally.json) |
 | Mountain Bike Xtreme | 369170 | [369170-mountain-bike-xtreme.json](./369170-mountain-bike-xtreme.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
@@ -12104,6 +12113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystia2 | 292090 | [292090-mystia2.json](./292090-mystia2.json) |
 | Mystia3 | 381723 | [381723-mystia3.json](./381723-mystia3.json) |
 | Mystic | 371370 | [371370-mystic.json](./371370-mystic.json) |
+| Mystic Ark | 42484 | [42484-mystic-ark.json](./42484-mystic-ark.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
