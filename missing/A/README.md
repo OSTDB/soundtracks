@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of JQ Jones: "Isle of the Serpent Empress" | 132676 | [132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json](./132676-adventures-of-jq-jones-isle-of-the-serpent-empress.json) |
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
+| Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
@@ -7535,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid vs. Space Invaders | 56018 | [56018-arkanoid-vs-space-invaders.json](./56018-arkanoid-vs-space-invaders.json) |
 | Arkanoid: Amiga Alternate Levels | 268492 | [268492-arkanoid-amiga-alternate-levels.json](./268492-arkanoid-amiga-alternate-levels.json) |
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
+| Arkanoid: Doh It Again | 42636 | [42636-arkanoid-doh-it-again.json](./42636-arkanoid-doh-it-again.json) |
 | Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
@@ -9037,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
 | Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
+| Atelier Ayesha: The Alchemist of Dusk | 7278 | [7278-atelier-ayesha-the-alchemist-of-dusk.json](./7278-atelier-ayesha-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk DX | 122748 | [122748-atelier-ayesha-the-alchemist-of-dusk-dx.json](./122748-atelier-ayesha-the-alchemist-of-dusk-dx.json) |
 | Atelier Dusk Trilogy Deluxe Pack | 125186 | [125186-atelier-dusk-trilogy-deluxe-pack.json](./125186-atelier-dusk-trilogy-deluxe-pack.json) |
 | Atelier Dusk Trilogy Deluxe Pack: Limited Premium Box Set | 136825 | [136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json](./136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json) |
