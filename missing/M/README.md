@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Survivors | 355198 | [355198-magic-survivors.json](./355198-magic-survivors.json) |
 | Magic Survivors | 359539 | [359539-magic-survivors.json](./359539-magic-survivors.json) |
 | Magic Sword | 71549 | [71549-magic-sword.json](./71549-magic-sword.json) |
+| Magic Sword: Heroic Fantasy | 39500 | [39500-magic-sword-heroic-fantasy.json](./39500-magic-sword-heroic-fantasy.json) |
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Tales: Baba Yaga and the Magic Geese | 297654 | [297654-magic-tales-baba-yaga-and-the-magic-geese.json](./297654-magic-tales-baba-yaga-and-the-magic-geese.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Tetris Challenge | 3398 | [3398-magical-tetris-challenge.json](./3398-magical-tetris-challenge.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
+| Magical Truck Adventure | 39477 | [39477-magical-truck-adventure.json](./39477-magical-truck-adventure.json) |
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
@@ -12174,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
 | Mystic Warriors Battleground | 245269 | [245269-mystic-warriors-battleground.json](./245269-mystic-warriors-battleground.json) |
+| Mystic Warriors: Wrath of the Ninjas | 39519 | [39519-mystic-warriors-wrath-of-the-ninjas.json](./39519-mystic-warriors-wrath-of-the-ninjas.json) |
 | Mystica | 230921 | [230921-mystica.json](./230921-mystica.json) |
 | Mystica: The Ninth Society | 33377 | [33377-mystica-the-ninth-society.json](./33377-mystica-the-ninth-society.json) |
 | Mystical | 34821 | [34821-mystical.json](./34821-mystical.json) |
