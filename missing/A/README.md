@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou: Je lis, je calcule 4-5 ans | 242527 | [242527-adibou-je-lis-je-calcule-4-5-ans.json](./242527-adibou-je-lis-je-calcule-4-5-ans.json) |
 | Adibou: Je lis, je calcule 5-6 ans | 242528 | [242528-adibou-je-lis-je-calcule-5-6-ans.json](./242528-adibou-je-lis-je-calcule-5-6-ans.json) |
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
+| Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
 | Agatha Christie: Murder on the Orient Express - Deluxe Edition | 249719 | [249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json](./249719-agatha-christie-murder-on-the-orient-express-deluxe-edition.json) |
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
+| Agatha Christie: The ABC Murders | 19657 | [19657-agatha-christie-the-abc-murders.json](./19657-agatha-christie-the-abc-murders.json) |
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
@@ -6599,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR-K: The Great Escape | 24334 | [24334-ar-k-the-great-escape.json](./24334-ar-k-the-great-escape.json) |
 | Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
+| Ara Fell | 19406 | [19406-ara-fell.json](./19406-ara-fell.json) |
 | Ara Fell & Rise of the Third Power | 272453 | [272453-ara-fell-and-rise-of-the-third-power.json](./272453-ara-fell-and-rise-of-the-third-power.json) |
 | Ara Fell: Enhanced Edition | 131981 | [131981-ara-fell-enhanced-edition.json](./131981-ara-fell-enhanced-edition.json) |
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
@@ -7604,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
+| Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
@@ -9385,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan: Burning Bright in the Forests of the Night | 200576 | [200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json](./200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json) |
 | Attack on Titan: Episode 2 | 169780 | [169780-attack-on-titan-episode-2.json](./169780-attack-on-titan-episode-2.json) |
 | Attack on Titan: Episode 3 | 169781 | [169781-attack-on-titan-episode-3.json](./169781-attack-on-titan-episode-3.json) |
+| Attack on Titan: Humanity in Chains | 20040 | [20040-attack-on-titan-humanity-in-chains.json](./20040-attack-on-titan-humanity-in-chains.json) |
 | Attack on Titan: Lost in the Cruel World | 200586 | [200586-attack-on-titan-lost-in-the-cruel-world.json](./200586-attack-on-titan-lost-in-the-cruel-world.json) |
 | Attack on Titan: Wall Sina, Goodbye | 200587 | [200587-attack-on-titan-wall-sina-goodbye.json](./200587-attack-on-titan-wall-sina-goodbye.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
