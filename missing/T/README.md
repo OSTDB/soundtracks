@@ -3703,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bendy Strawmen Inc. Team Bonding Beach Volley Bonanza | 183911 | [183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json](./183911-the-bendy-strawmen-inc-team-bonding-beach-volley-bonanza.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
+| The Berenstain Bears: Camping Adventure | 46539 | [46539-the-berenstain-bears-camping-adventure.json](./46539-the-berenstain-bears-camping-adventure.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
 | The Berks Trilogy | 60517 | [60517-the-berks-trilogy.json](./60517-the-berks-trilogy.json) |
 | The Berlin Apartment | 290052 | [290052-the-berlin-apartment.json](./290052-the-berlin-apartment.json) |
@@ -8567,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
 | The Pro Yakyuu | 132129 | [132129-the-pro-yakyuu.json](./132129-the-pro-yakyuu.json) |
+| The Pro Yakyuu '91 | 46527 | [46527-the-pro-yakyuu-91.json](./46527-the-pro-yakyuu-91.json) |
 | The Pro Yakyuu Super '94 | 307092 | [307092-the-pro-yakyuu-super-94.json](./307092-the-pro-yakyuu-super-94.json) |
 | The Pro Yakyuu: Pennant race | 271377 | [271377-the-pro-yakyuu-pennant-race.json](./271377-the-pro-yakyuu-pennant-race.json) |
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
@@ -11550,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands Layered Edge | 142123 | [142123-thousands-layered-edge.json](./142123-thousands-layered-edge.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
+| Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
@@ -13624,6 +13627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
+| Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
 | Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Title_Pending | 144909 | [144909-title-pending.json](./144909-title-pending.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
@@ -16994,6 +16998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Horror Collection 3 | 242674 | [242674-trash-horror-collection-3.json](./242674-trash-horror-collection-3.json) |
 | Trash Invasion: Waste Recycle | 183905 | [183905-trash-invasion-waste-recycle.json](./183905-trash-invasion-waste-recycle.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
+| Trash It | 46492 | [46492-trash-it.json](./46492-trash-it.json) |
 | Trash Magnate | 217318 | [217318-trash-magnate.json](./217318-trash-magnate.json) |
 | Trash Panda | 191056 | [191056-trash-panda.json](./191056-trash-panda.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
@@ -17216,6 +17221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Deep | 206072 | [206072-treasures-of-the-deep.json](./206072-treasures-of-the-deep.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
+| Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
 | Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
@@ -17690,6 +17696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trizzle | 355007 | [355007-trizzle.json](./355007-trizzle.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
+| Trog | 46505 | [46505-trog.json](./46505-trog.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
