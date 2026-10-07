@@ -3561,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
 | Returns Outlet Simulator | 361272 | [361272-returns-outlet-simulator.json](./361272-returns-outlet-simulator.json) |
+| ReTux | 22181 | [22181-retux.json](./22181-retux.json) |
 | Retwined | 178945 | [178945-retwined.json](./178945-retwined.json) |
 | Reunion | 12471 | [12471-reunion.json](./12471-reunion.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
