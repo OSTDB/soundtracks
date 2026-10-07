@@ -2432,10 +2432,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
+| FIFA 21 | 134101 | [134101-fifa-21.json](./134101-fifa-21.json) |
 | FIFA 21: Legacy Edition | 136335 | [136335-fifa-21-legacy-edition.json](./136335-fifa-21-legacy-edition.json) |
+| FIFA 22 | 154986 | [154986-fifa-22.json](./154986-fifa-22.json) |
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
 | FIFA 22: Legacy Edition | 155102 | [155102-fifa-22-legacy-edition.json](./155102-fifa-22-legacy-edition.json) |
 | FIFA 22: Ultimate Edition | 155101 | [155101-fifa-22-ultimate-edition.json](./155101-fifa-22-ultimate-edition.json) |
+| FIFA 23 | 205780 | [205780-fifa-23.json](./205780-fifa-23.json) |
 | FIFA 23 | 240456 | [240456-fifa-23.json](./240456-fifa-23.json) |
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
 | FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
@@ -2881,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
 | Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
 | Final Fantasy X: Fantasy War | 266285 | [266285-final-fantasy-x-fantasy-war.json](./266285-final-fantasy-x-fantasy-war.json) |
+| Final Fantasy X/X-2 HD Remaster | 14144 | [14144-final-fantasy-x-x-2-hd-remaster.json](./14144-final-fantasy-x-x-2-hd-remaster.json) |
 | Final Fantasy X/X-2 HD Remaster: Collector's Edition | 147086 | [147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json](./147086-final-fantasy-x-x-2-hd-remaster-collectors-edition.json) |
 | Final Fantasy X/X-2 Ultimate Box | 301388 | [301388-final-fantasy-x-x-2-ultimate-box.json](./301388-final-fantasy-x-x-2-ultimate-box.json) |
 | Final Fantasy XI Braver | 176843 | [176843-final-fantasy-xi-braver.json](./176843-final-fantasy-xi-braver.json) |
