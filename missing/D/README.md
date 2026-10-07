@@ -8201,6 +8201,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Super Butouden 3 | 2550 | [2550-dragon-ball-z-super-butouden-3.json](./2550-dragon-ball-z-super-butouden-3.json) |
 | Dragon Ball Z: Super Goku-den - Kakusei-hen | 74038 | [74038-dragon-ball-z-super-goku-den-kakusei-hen.json](./74038-dragon-ball-z-super-goku-den-kakusei-hen.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
+| Dragon Ball Z: Supersonic Warriors | 2576 | [2576-dragon-ball-z-supersonic-warriors.json](./2576-dragon-ball-z-supersonic-warriors.json) |
+| Dragon Ball Z: Supersonic Warriors 2 | 2577 | [2577-dragon-ball-z-supersonic-warriors-2.json](./2577-dragon-ball-z-supersonic-warriors-2.json) |
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
 | Dragon Ball Z: Team Training | 203292 | [203292-dragon-ball-z-team-training.json](./203292-dragon-ball-z-team-training.json) |
 | Dragon Ball Z: The Legacy of Goku | 6387 | [6387-dragon-ball-z-the-legacy-of-goku.json](./6387-dragon-ball-z-the-legacy-of-goku.json) |
@@ -8412,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
+| Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Additional DLC Sets | 388942 | [388942-dragon-quest-vii-reimagined-additional-dlc-sets.json](./388942-dragon-quest-vii-reimagined-additional-dlc-sets.json) |
 | Dragon Quest VII Reimagined: Jam-Packed Swag Bag | 375183 | [375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json](./375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json) |
