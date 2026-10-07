@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
+| Zombidle: Remonstered | 36968 | [36968-zombidle-remonstered.json](./36968-zombidle-remonstered.json) |
 | Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
 | Zombie 2018 | 87634 | [87634-zombie-2018.json](./87634-zombie-2018.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
