@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Clash | 54738 | [54738-fantasy-clash.json](./54738-fantasy-clash.json) |
 | Fantasy Clicker of Cute Cocoa | 197748 | [197748-fantasy-clicker-of-cute-cocoa.json](./197748-fantasy-clicker-of-cute-cocoa.json) |
 | Fantasy Climber: Fun Adventure | 213322 | [213322-fantasy-climber-fun-adventure.json](./213322-fantasy-climber-fun-adventure.json) |
+| Fantasy Conquest Tactics | 25559 | [25559-fantasy-conquest-tactics.json](./25559-fantasy-conquest-tactics.json) |
 | Fantasy Creature Jigsaws | 292257 | [292257-fantasy-creature-jigsaws.json](./292257-fantasy-creature-jigsaws.json) |
 | Fantasy Dash | 188027 | [188027-fantasy-dash.json](./188027-fantasy-dash.json) |
 | Fantasy Dynasty: Le Château Deretic | 99639 | [99639-fantasy-dynasty-le-chateau-deretic.json](./99639-fantasy-dynasty-le-chateau-deretic.json) |
