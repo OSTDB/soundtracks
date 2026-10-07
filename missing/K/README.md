@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
+| Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
 | Killer Watt | 25864 | [25864-killer-watt.json](./25864-killer-watt.json) |
 | Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
@@ -1526,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor: PostMortem Character Pack | 161759 | [161759-killing-floor-postmortem-character-pack.json](./161759-killing-floor-postmortem-character-pack.json) |
 | Killing Floor: Steampunk Character Pack | 162709 | [162709-killing-floor-steampunk-character-pack.json](./162709-killing-floor-steampunk-character-pack.json) |
 | Killing Floor: Steampunk Character Pack 2 | 162711 | [162711-killing-floor-steampunk-character-pack-2.json](./162711-killing-floor-steampunk-character-pack-2.json) |
+| Killing Floor: Toy Master | 17912 | [17912-killing-floor-toy-master.json](./17912-killing-floor-toy-master.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
@@ -1988,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms | 259165 | [259165-kingdoms.json](./259165-kingdoms.json) |
 | Kingdoms and Slaves | 201713 | [201713-kingdoms-and-slaves.json](./201713-kingdoms-and-slaves.json) |
 | Kingdoms at War | 61455 | [61455-kingdoms-at-war.json](./61455-kingdoms-at-war.json) |
+| Kingdoms CCG | 17970 | [17970-kingdoms-ccg.json](./17970-kingdoms-ccg.json) |
 | Kingdoms Conquer | 368054 | [368054-kingdoms-conquer.json](./368054-kingdoms-conquer.json) |
 | Kingdoms Fall | 41489 | [41489-kingdoms-fall.json](./41489-kingdoms-fall.json) |
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
@@ -2525,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Exile | 171421 | [171421-knight-of-exile.json](./171421-knight-of-exile.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
+| Knight of the Hamsters | 17939 | [17939-knight-of-the-hamsters.json](./17939-knight-of-the-hamsters.json) |
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
 | Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight of the Parking Lot | 158123 | [158123-knight-of-the-parking-lot.json](./158123-knight-of-the-parking-lot.json) |
@@ -3160,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
+| Koya Rift | 17953 | [17953-koya-rift.json](./17953-koya-rift.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
 | Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
@@ -3249,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
+| Krosmaster Arena | 17964 | [17964-krosmaster-arena.json](./17964-krosmaster-arena.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
