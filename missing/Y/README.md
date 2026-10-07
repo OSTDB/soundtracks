@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
 | Yoshi's Adventure 128: Attack of the Factory | 397262 | [397262-yoshis-adventure-128-attack-of-the-factory.json](./397262-yoshis-adventure-128-attack-of-the-factory.json) |
 | Yoshi's Adventure 96: Puzzles for Yoshis | 294776 | [294776-yoshis-adventure-96-puzzles-for-yoshis.json](./294776-yoshis-adventure-96-puzzles-for-yoshis.json) |
+| Yoshi's Cookie | 18657 | [18657-yoshis-cookie.json](./18657-yoshis-cookie.json) |
 | Yoshi's Crafted World | 37135 | [37135-yoshis-crafted-world.json](./37135-yoshis-crafted-world.json) |
 | Yoshi's Dreamer | 323351 | [323351-yoshis-dreamer.json](./323351-yoshis-dreamer.json) |
 | Yoshi's Egg Toss | 231529 | [231529-yoshis-egg-toss.json](./231529-yoshis-egg-toss.json) |
