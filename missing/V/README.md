@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Troopers | 199017 | [199017-vr-troopers.json](./199017-vr-troopers.json) |
 | VR Troopers: When Worlds Collide | 198952 | [198952-vr-troopers-when-worlds-collide.json](./198952-vr-troopers-when-worlds-collide.json) |
 | VR UAV Attack | 162847 | [162847-vr-uav-attack.json](./162847-vr-uav-attack.json) |
+| VR Ultimate Paintball: Heartbreak, Regret & Paintbots | 31754 | [31754-vr-ultimate-paintball-heartbreak-regret-and-paintbots.json](./31754-vr-ultimate-paintball-heartbreak-regret-and-paintbots.json) |
 | VR Waifu: MuChan | 277843 | [277843-vr-waifu-muchan.json](./277843-vr-waifu-muchan.json) |
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
