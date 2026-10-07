@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 4197 | [4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
@@ -3320,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Sam Carlisle: The Hunt for the Lost Treasure | 75011 | [75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json](./75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
 | The Adventures of Sherlock Holmes | 72319 | [72319-the-adventures-of-sherlock-holmes.json](./72319-the-adventures-of-sherlock-holmes.json) |
+| The Adventures of Shuggy | 11084 | [11084-the-adventures-of-shuggy.json](./11084-the-adventures-of-shuggy.json) |
 | The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
 | The Adventures of Sir Kicksalot | 270172 | [270172-the-adventures-of-sir-kicksalot.json](./270172-the-adventures-of-sir-kicksalot.json) |
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
@@ -3395,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
 | The Amazing Spider-Man | 1376 | [1376-the-amazing-spider-man.json](./1376-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203136 | [203136-the-amazing-spider-man.json](./203136-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203138 | [203138-the-amazing-spider-man.json](./203138-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203140 | [203140-the-amazing-spider-man.json](./203140-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
@@ -4226,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
+| The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Chipmunks | 217948 | [217948-the-chipmunks.json](./217948-the-chipmunks.json) |
@@ -4336,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collector’s Curio Cabinet: Toy Soldiers | 416776 | [416776-the-collector-s-curio-cabinet-toy-soldiers.json](./416776-the-collector-s-curio-cabinet-toy-soldiers.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
+| The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
@@ -9505,6 +9510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
+| The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
@@ -9522,6 +9528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Lucky Palms | 14577 | [14577-the-sims-3-lucky-palms.json](./14577-the-sims-3-lucky-palms.json) |
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
+| The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
 | The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
@@ -17401,6 +17408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure | 358936 | [358936-treasure.json](./358936-treasure.json) |
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
+| Treasure Adventure Game | 11837 | [11837-treasure-adventure-game.json](./11837-treasure-adventure-game.json) |
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
