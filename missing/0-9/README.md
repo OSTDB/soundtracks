@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
+| 15-in-1 Mega Collection: Backtracking Ten Years | 37643 | [37643-15-in-1-mega-collection-backtracking-ten-years.json](./37643-15-in-1-mega-collection-backtracking-ten-years.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 1500 DS Spirits Vol. 5: Hanafuda | 79546 | [79546-1500-ds-spirits-vol-5-hanafuda.json](./79546-1500-ds-spirits-vol-5-hanafuda.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
+| 5-in-1 Fami Collection: NES Collection Nr 1 | 37644 | [37644-5-in-1-fami-collection-nes-collection-nr-1.json](./37644-5-in-1-fami-collection-nes-collection-nr-1.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
@@ -1481,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Pack of Craft Games | 194386 | [194386-6-pack-of-craft-games.json](./194386-6-pack-of-craft-games.json) |
 | 6-7 | 386391 | [386391-6-7.json](./386391-6-7.json) |
 | 6-gatsu no Kimi to Boku | 412403 | [412403-6-gatsu-no-kimi-to-boku.json](./412403-6-gatsu-no-kimi-to-boku.json) |
+| 6-in-1 Fami Collection: NES Collection Nr 2 | 37642 | [37642-6-in-1-fami-collection-nes-collection-nr-2.json](./37642-6-in-1-fami-collection-nes-collection-nr-2.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
 | 6-in-1 IQ Scale Bundle: Starships | 170806 | [170806-6-in-1-iq-scale-bundle-starships.json](./170806-6-in-1-iq-scale-bundle-starships.json) |
 | 6-nen 1-gumi | 294246 | [294246-6-nen-1-gumi.json](./294246-6-nen-1-gumi.json) |
