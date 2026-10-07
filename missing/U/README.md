@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
+| Urban Rivals World | 64821 | [64821-urban-rivals-world.json](./64821-urban-rivals-world.json) |
 | Urban Runner | 13789 | [13789-urban-runner.json](./13789-urban-runner.json) |
 | Urban Shadows Racing Tokyo | 371905 | [371905-urban-shadows-racing-tokyo.json](./371905-urban-shadows-racing-tokyo.json) |
 | Urban Showdown | 342217 | [342217-urban-showdown.json](./342217-urban-showdown.json) |
