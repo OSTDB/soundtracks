@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth | 313840 | [313840-earth.json](./313840-earth.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
+| Earth 2140 Trilogy | 51765 | [51765-earth-2140-trilogy.json](./51765-earth-2140-trilogy.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven City Simulator | 231851 | [231851-elven-city-simulator.json](./231851-elven-city-simulator.json) |
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
 | Elven Forest | 369767 | [369767-elven-forest.json](./369767-elven-forest.json) |
+| Elven Legacy Collection | 51764 | [51764-elven-legacy-collection.json](./51764-elven-legacy-collection.json) |
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
