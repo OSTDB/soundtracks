@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
+| Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
@@ -5658,7 +5659,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
 | The Games You Make | 314395 | [314395-the-games-you-make.json](./314395-the-games-you-make.json) |
+| The Games: Summer Edition | 47197 | [47197-the-games-summer-edition.json](./47197-the-games-summer-edition.json) |
 | The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
+| The Games: Winter Edition | 47196 | [47196-the-games-winter-edition.json](./47196-the-games-winter-edition.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
@@ -6301,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
 | The Impossible Turnabout | 309989 | [309989-the-impossible-turnabout.json](./309989-the-impossible-turnabout.json) |
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
+| The In Crowd | 47195 | [47195-the-in-crowd.json](./47195-the-in-crowd.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
 | The Incident | 266825 | [266825-the-incident.json](./266825-the-incident.json) |
@@ -6994,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Warlock | 34881 | [34881-the-last-warlock.json](./34881-the-last-warlock.json) |
 | The Last Warmage | 298631 | [298631-the-last-warmage.json](./298631-the-last-warmage.json) |
 | The Last Warrior | 148981 | [148981-the-last-warrior.json](./148981-the-last-warrior.json) |
+| The Last Warrior | 47150 | [47150-the-last-warrior.json](./47150-the-last-warrior.json) |
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
@@ -9826,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
+| The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
 | The Suspense | 333070 | [333070-the-suspense.json](./333070-the-suspense.json) |
@@ -10303,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Train | 50065 | [50065-the-train.json](./50065-the-train.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
+| The Train: Escape to Normandy | 47183 | [47183-the-train-escape-to-normandy.json](./47183-the-train-escape-to-normandy.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
@@ -10364,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tubby Custard Bubble Game | 307841 | [307841-the-tubby-custard-bubble-game.json](./307841-the-tubby-custard-bubble-game.json) |
+| The Tube | 47148 | [47148-the-tube.json](./47148-the-tube.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
 | The Tumor | 348448 | [348448-the-tumor.json](./348448-the-tumor.json) |
@@ -13083,6 +13091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
+| Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
 | Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
@@ -18370,6 +18379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil | 18559 | [18559-turmoil.json](./18559-turmoil.json) |
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
+| Turmoil | 47153 | [47153-turmoil.json](./47153-turmoil.json) |
 | Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
