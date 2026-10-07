@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi wo Kurau | 298800 | [298800-tenchi-wo-kurau.json](./298800-tenchi-wo-kurau.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
+| Tenchu 2: Birth of the Stealth Assassins | 4114 | [4114-tenchu-2-birth-of-the-stealth-assassins.json](./4114-tenchu-2-birth-of-the-stealth-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
+| The Artful Escape | 25935 | [25935-the-artful-escape.json](./25935-the-artful-escape.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
@@ -8489,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
+| The Pedestrian | 25837 | [25837-the-pedestrian.json](./25837-the-pedestrian.json) |
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
 | The Penguin Factory | 118790 | [118790-the-penguin-factory.json](./118790-the-penguin-factory.json) |
@@ -10004,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
+| The Talos Principle II | 79864 | [79864-the-talos-principle-ii.json](./79864-the-talos-principle-ii.json) |
 | The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
@@ -14296,6 +14300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon 2: 2007 - First Contact | 77977 | [77977-tom-clancys-ghost-recon-2-2007-first-contact.json](./77977-tom-clancys-ghost-recon-2-2007-first-contact.json) |
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
 | Tom Clancy's Ghost Recon 2: Summit Strike | 1299 | [1299-tom-clancys-ghost-recon-2-summit-strike.json](./1299-tom-clancys-ghost-recon-2-summit-strike.json) |
+| Tom Clancy's Ghost Recon Advanced Warfighter 2 | 1301 | [1301-tom-clancys-ghost-recon-advanced-warfighter-2.json](./1301-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
 | Tom Clancy's Ghost Recon Predator | 1302 | [1302-tom-clancys-ghost-recon-predator.json](./1302-tom-clancys-ghost-recon-predator.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
@@ -17715,6 +17720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
+| Trine Enchanted Edition | 51800 | [51800-trine-enchanted-edition.json](./51800-trine-enchanted-edition.json) |
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
 | Trine Trilogy | 118939 | [118939-trine-trilogy.json](./118939-trine-trilogy.json) |
 | Trine: Ultimate Collection | 115766 | [115766-trine-ultimate-collection.json](./115766-trine-ultimate-collection.json) |
