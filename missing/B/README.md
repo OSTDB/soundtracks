@@ -5261,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade and Madness | 349996 | [349996-blade-and-madness.json](./349996-blade-and-madness.json) |
 | Blade and Wings: Future Fantasy 3D Anime MMORPG Game | 110819 | [110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json](./110819-blade-and-wings-future-fantasy-3d-anime-mmorpg-game.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
+| Blade Arts: Tasogare no Miyako R'lyeh | 43855 | [43855-blade-arts-tasogare-no-miyako-rlyeh.json](./43855-blade-arts-tasogare-no-miyako-rlyeh.json) |
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Blitz | 345057 | [345057-blade-blitz.json](./345057-blade-blitz.json) |
@@ -6450,6 +6451,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
+| Blue Breaker Burst: Bishou o Anata to | 43816 | [43816-blue-breaker-burst-bishou-o-anata-to.json](./43816-blue-breaker-burst-bishou-o-anata-to.json) |
+| Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
@@ -7561,6 +7564,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
+| Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
+| Bottom of the 9th '99 | 43856 | [43856-bottom-of-the-9th-99.json](./43856-bottom-of-the-9th-99.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
@@ -10105,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buttons and Scissors | 74711 | [74711-buttons-and-scissors.json](./74711-buttons-and-scissors.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
+| Buttsubushi | 43800 | [43800-buttsubushi.json](./43800-buttsubushi.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
 | Buy Hyacinths | 214008 | [214008-buy-hyacinths.json](./214008-buy-hyacinths.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
