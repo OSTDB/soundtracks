@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
+| Zookeeper Battle | 22189 | [22189-zookeeper-battle.json](./22189-zookeeper-battle.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
