@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
 | Geometry Dash SubZero | 87023 | [87023-geometry-dash-subzero.json](./87023-geometry-dash-subzero.json) |
+| Geometry Dash World | 79044 | [79044-geometry-dash-world.json](./79044-geometry-dash-world.json) |
 | Geometry Dash: 1.9 Update | 374299 | [374299-geometry-dash-1-9-update.json](./374299-geometry-dash-1-9-update.json) |
 | Geometry Dash: 2.0 Update | 374301 | [374301-geometry-dash-2-0-update.json](./374301-geometry-dash-2-0-update.json) |
 | Geometry Dash: 2.1 Update | 374302 | [374302-geometry-dash-2-1-update.json](./374302-geometry-dash-2-1-update.json) |
@@ -3242,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Summer Camp | 130132 | [130132-goblin-summer-camp.json](./130132-goblin-summer-camp.json) |
 | Goblin Survivors | 261783 | [261783-goblin-survivors.json](./261783-goblin-survivors.json) |
 | Goblin Sushi | 361792 | [361792-goblin-sushi.json](./361792-goblin-sushi.json) |
+| Goblin Sword | 88973 | [88973-goblin-sword.json](./88973-goblin-sword.json) |
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
