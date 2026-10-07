@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
 | Rap Attack: 2pacalypse Now | 92683 | [92683-rap-attack-2pacalypse-now.json](./92683-rap-attack-2pacalypse-now.json) |
 | Rap Basketball | 37870 | [37870-rap-basketball.json](./37870-rap-basketball.json) |
+| Rap Jam: Volume One | 44458 | [44458-rap-jam-volume-one.json](./44458-rap-jam-volume-one.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
@@ -1758,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
+| Realm | 44457 | [44457-realm.json](./44457-realm.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
@@ -7073,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
 | Rurouni Kenshin: Meiji Kenkaku Roman-tan - Ishin Gekitou-hen | 44771 | [44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json](./44771-rurouni-kenshin-meiji-kenkaku-roman-tan-ishin-gekitou-hen.json) |
+| Rurouni Kenshin: Meiji Kenkaku Romantan - Kansen | 44492 | [44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json](./44492-rurouni-kenshin-meiji-kenkaku-romantan-kansen.json) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Saisen | 42838 | [42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json](./42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rusa Odyssey | 159783 | [159783-rusa-odyssey.json](./159783-rusa-odyssey.json) |
