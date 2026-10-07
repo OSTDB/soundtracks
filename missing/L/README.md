@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
+| Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
 | Last Knight | 177847 | [177847-last-knight.json](./177847-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
+| Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
 | Learn Kana the Fun Way! | 65805 | [65805-learn-kana-the-fun-way.json](./65805-learn-kana-the-fun-way.json) |
 | Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
@@ -5084,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
+| Lovely Lisa and Friends | 47911 | [47911-lovely-lisa-and-friends.json](./47911-lovely-lisa-and-friends.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
 | Lovely Moments: Dad and Daughter | 203802 | [203802-lovely-moments-dad-and-daughter.json](./203802-lovely-moments-dad-and-daughter.json) |
