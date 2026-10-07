@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
+| Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakuchou Retrieve Master | 228490 | [228490-bakuchou-retrieve-master.json](./228490-bakuchou-retrieve-master.json) |
@@ -7175,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
 | Bomberman Land Touch! | 20612 | [20612-bomberman-land-touch.json](./20612-bomberman-land-touch.json) |
+| Bomberman Land Touch! 2 | 20774 | [20774-bomberman-land-touch-2.json](./20774-bomberman-land-touch-2.json) |
 | Bomberman Legends | 198215 | [198215-bomberman-legends.json](./198215-bomberman-legends.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
@@ -7839,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
+| Bouncy Bread | 338014 | [338014-bouncy-bread.json](./338014-bouncy-bread.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
@@ -8487,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
 | Brazilian Adventure | 81710 | [81710-brazilian-adventure.json](./81710-brazilian-adventure.json) |
+| Brazilian Drug Dealer 3: I Opened a Portal to Hell in the Favela Trying To Revive Mit Aia I Need to Close It | 317175 | [317175-brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive-mit-aia-i-need-to-close-it.json](./317175-brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive-mit-aia-i-need-to-close-it.json) |
 | Brazilian Root | 93709 | [93709-brazilian-root.json](./93709-brazilian-root.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
