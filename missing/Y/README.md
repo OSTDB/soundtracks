@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
 | Yet Another World | 34190 | [34190-yet-another-world.json](./34190-yet-another-world.json) |
 | Yet Another Zombie Defense | 9201 | [9201-yet-another-zombie-defense.json](./9201-yet-another-zombie-defense.json) |
+| Yet Another Zombie Survivors | 224692 | [224692-yet-another-zombie-survivors.json](./224692-yet-another-zombie-survivors.json) |
 | Yet, I Despise Him | 140543 | [140543-yet-i-despise-him.json](./140543-yet-i-despise-him.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
 | Yeti | 68350 | [68350-yeti.json](./68350-yeti.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshi's New Island | 4591 | [4591-yoshis-new-island.json](./4591-yoshis-new-island.json) |
 | Yoshi's Racing Story | 195026 | [195026-yoshis-racing-story.json](./195026-yoshis-racing-story.json) |
+| Yoshi's Safari | 11604 | [11604-yoshis-safari.json](./11604-yoshis-safari.json) |
 | Yoshi's Story | 3213 | [3213-yoshis-story.json](./3213-yoshis-story.json) |
 | Yoshi's Strange Quest | 38305 | [38305-yoshis-strange-quest.json](./38305-yoshis-strange-quest.json) |
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
@@ -763,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
+| Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
