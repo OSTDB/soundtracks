@@ -8135,6 +8135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
+| Core | 131411 | [131411-core.json](./131411-core.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
 | Core Awakening | 290504 | [290504-core-awakening.json](./290504-core-awakening.json) |
@@ -8617,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countermark Saga: The Tale of Fariz | 326209 | [326209-countermark-saga-the-tale-of-fariz.json](./326209-countermark-saga-the-tale-of-fariz.json) |
 | Countermeasure | 12306 | [12306-countermeasure.json](./12306-countermeasure.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
+| CounterSide | 132648 | [132648-counterside.json](./132648-counterside.json) |
 | Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
 | CounterSpy | 7612 | [7612-counterspy.json](./7612-counterspy.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
