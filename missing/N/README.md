@@ -2194,6 +2194,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 08 | 875 | [875-nhl-08.json](./875-nhl-08.json) |
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
+| NHL 11 | 954 | [954-nhl-11.json](./954-nhl-11.json) |
+| NHL 12 | 952 | [952-nhl-12.json](./952-nhl-12.json) |
 | NHL 17: Deluxe Edition | 173114 | [173114-nhl-17-deluxe-edition.json](./173114-nhl-17-deluxe-edition.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
@@ -3379,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 820 | [820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json](./820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
+| No One Lives Under the Lighthouse | 131660 | [131660-no-one-lives-under-the-lighthouse.json](./131660-no-one-lives-under-the-lighthouse.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
 | No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
