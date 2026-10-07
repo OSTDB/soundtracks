@@ -5939,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
+| The Green Myste | 23549 | [23549-the-green-myste.json](./23549-the-green-myste.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
@@ -7692,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
 | The Madness of Roland | 172036 | [172036-the-madness-of-roland.json](./172036-the-madness-of-roland.json) |
+| The Maestros | 23940 | [23940-the-maestros.json](./23940-the-maestros.json) |
 | The Mafat Conspiracy | 48057 | [48057-the-mafat-conspiracy.json](./48057-the-mafat-conspiracy.json) |
 | The Mage | 368590 | [368590-the-mage.json](./368590-the-mage.json) |
 | The Mage's Tale | 36893 | [36893-the-mages-tale.json](./36893-the-mages-tale.json) |
@@ -9934,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
+| The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
@@ -11869,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThunderDome | 132170 | [132170-thunderdome.json](./132170-thunderdome.json) |
 | Thunderflash | 127230 | [127230-thunderflash.json](./127230-thunderflash.json) |
 | ThunderGod | 118985 | [118985-thundergod.json](./118985-thundergod.json) |
+| Thunderground | 23853 | [23853-thunderground.json](./23853-thunderground.json) |
 | ThunderGun: The Cybwar Mission | 206786 | [206786-thundergun-the-cybwar-mission.json](./206786-thundergun-the-cybwar-mission.json) |
 | Thunderhawk | 12913 | [12913-thunderhawk.json](./12913-thunderhawk.json) |
 | Thunderhawk AH-73M | 12929 | [12929-thunderhawk-ah-73m.json](./12929-thunderhawk-ah-73m.json) |
@@ -18296,6 +18300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TubeDudeMan | 342244 | [342244-tubedudeman.json](./342244-tubedudeman.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
+| Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
