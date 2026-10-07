@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 on 3 Super Robot Hockey | 115805 | [115805-3-on-3-super-robot-hockey.json](./115805-3-on-3-super-robot-hockey.json) |
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
 | 3 out of 10: EP 3 - "Pivot Like A Champion" | 138118 | [138118-3-out-of-10-ep-3-pivot-like-a-champion.json](./138118-3-out-of-10-ep-3-pivot-like-a-champion.json) |
+| 3 out of 10: Season Two | 145349 | [145349-3-out-of-10-season-two.json](./145349-3-out-of-10-season-two.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Scary Games | 254035 | [254035-3-scary-games.json](./254035-3-scary-games.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
