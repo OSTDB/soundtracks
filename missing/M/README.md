@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
 | Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
+| Marwin and the Evolution Stone | 31745 | [31745-marwin-and-the-evolution-stone.json](./31745-marwin-and-the-evolution-stone.json) |
 | Mary Had a Little Lamb | 241458 | [241458-mary-had-a-little-lamb.json](./241458-mary-had-a-little-lamb.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
 | Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
+| Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
 | Maximum Entertainment Horror Bundle | 313209 | [313209-maximum-entertainment-horror-bundle.json](./313209-maximum-entertainment-horror-bundle.json) |
 | Maximum Entertainment Puzzle Platformer Bundle | 313208 | [313208-maximum-entertainment-puzzle-platformer-bundle.json](./313208-maximum-entertainment-puzzle-platformer-bundle.json) |
@@ -5385,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bringer | 265327 | [265327-metal-bringer.json](./265327-metal-bringer.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
+| Metal Carnage | 31765 | [31765-metal-carnage.json](./31765-metal-carnage.json) |
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
