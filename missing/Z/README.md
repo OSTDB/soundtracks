@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zookoban | 184365 | [184365-zookoban.json](./184365-zookoban.json) |
+| Zool: Ninja of the Nth Dimension | 2547 | [2547-zool-ninja-of-the-nth-dimension.json](./2547-zool-ninja-of-the-nth-dimension.json) |
 | Zoolax Nights: Evil Clowns | 69356 | [69356-zoolax-nights-evil-clowns.json](./69356-zoolax-nights-evil-clowns.json) |
 | Zoological Era | 110546 | [110546-zoological-era.json](./110546-zoological-era.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
