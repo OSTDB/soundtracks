@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Cosmos | 27180 | [27180-tales-of-cosmos.json](./27180-tales-of-cosmos.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
+| Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
 | Tales of Dungeon | 193809 | [193809-tales-of-dungeon.json](./193809-tales-of-dungeon.json) |
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
@@ -7060,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
 | The Last Starfighter | 71759 | [71759-the-last-starfighter.json](./71759-the-last-starfighter.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
+| The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
@@ -7206,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
+| The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
@@ -7329,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
 | The Legend of Zelda: Ocarina of Time - Crystal Clocks | 313092 | [313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json](./313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json) |
 | The Legend of Zelda: Ocarina of Time - Expansion Disk | 204383 | [204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json](./204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json) |
+| The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
@@ -9445,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Trivia | 221270 | [221270-the-simpsons-trivia.json](./221270-the-simpsons-trivia.json) |
 | The Simpsons: Bart & the Beanstalk | 2837 | [2837-the-simpsons-bart-and-the-beanstalk.json](./2837-the-simpsons-bart-and-the-beanstalk.json) |
 | The Simpsons: Bart vs. The Juggernauts | 2831 | [2831-the-simpsons-bart-vs-the-juggernauts.json](./2831-the-simpsons-bart-vs-the-juggernauts.json) |
+| The Simpsons: Bart vs. The Space Mutants | 2827 | [2827-the-simpsons-bart-vs-the-space-mutants.json](./2827-the-simpsons-bart-vs-the-space-mutants.json) |
 | The Simpsons: Bart vs. the World | 2830 | [2830-the-simpsons-bart-vs-the-world.json](./2830-the-simpsons-bart-vs-the-world.json) |
 | The Simpsons: Bart's House of Weirdness | 2828 | [2828-the-simpsons-barts-house-of-weirdness.json](./2828-the-simpsons-barts-house-of-weirdness.json) |
 | The Simpsons: Bartman Meets Radioactive Man | 2832 | [2832-the-simpsons-bartman-meets-radioactive-man.json](./2832-the-simpsons-bartman-meets-radioactive-man.json) |
@@ -10085,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The TET Offensive | 323804 | [323804-the-tet-offensive.json](./323804-the-tet-offensive.json) |
+| The Texas Chain Saw Massacre | 185238 | [185238-the-texas-chain-saw-massacre.json](./185238-the-texas-chain-saw-massacre.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
 | The Texas Chain Saw Massacre: Ana Outfit Pack 2 | 298252 | [298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json](./298252-the-texas-chain-saw-massacre-ana-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
@@ -18658,6 +18664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurnSkull | 280436 | [280436-turnskull.json](./280436-turnskull.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok | 1330 | [1330-turok.json](./1330-turok.json) |
+| Turok | 26701 | [26701-turok.json](./26701-turok.json) |
 | Turok | 308368 | [308368-turok.json](./308368-turok.json) |
 | Turok 2 | 146729 | [146729-turok-2.json](./146729-turok-2.json) |
 | Turok 2 | 308370 | [308370-turok-2.json](./308370-turok-2.json) |
