@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
+| Kingdom Hearts χ[chi] | 20287 | [20287-kingdom-hearts-chi.json](./20287-kingdom-hearts-chi.json) |
 | Kingdom Hearts: Union x Dark Road | 135639 | [135639-kingdom-hearts-union-x-dark-road.json](./135639-kingdom-hearts-union-x-dark-road.json) |
 | Kingdom Heroes | 389713 | [389713-kingdom-heroes.json](./389713-kingdom-heroes.json) |
 | Kingdom Heroes 2 | 68091 | [68091-kingdom-heroes-2.json](./68091-kingdom-heroes-2.json) |
@@ -2499,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knack | 2957 | [2957-knack.json](./2957-knack.json) |
 | Knack! | 88474 | [88474-knack.json](./88474-knack.json) |
 | Knack' den Code | 78097 | [78097-knack-den-code.json](./78097-knack-den-code.json) |
+| Knee Deep | 19089 | [19089-knee-deep.json](./19089-knee-deep.json) |
 | Knee-deep in 2023 | 261822 | [261822-knee-deep-in-2023.json](./261822-knee-deep-in-2023.json) |
 | Knee-Deep in Kdizd | 260668 | [260668-knee-deep-in-kdizd.json](./260668-knee-deep-in-kdizd.json) |
 | Kneedle Knight | 291531 | [291531-kneedle-knight.json](./291531-kneedle-knight.json) |
