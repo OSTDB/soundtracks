@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz VS! | 361230 | [361230-quiz-vs.json](./361230-quiz-vs.json) |
 | Quiz Wiz: Cyber Trivia | 199432 | [199432-quiz-wiz-cyber-trivia.json](./199432-quiz-wiz-cyber-trivia.json) |
 | Quiz: Don’t Lose to a Kid! | 399786 | [399786-quiz-don-t-lose-to-a-kid.json](./399786-quiz-don-t-lose-to-a-kid.json) |
+| Quiz: Toukou Shashin | 37659 | [37659-quiz-toukou-shashin.json](./37659-quiz-toukou-shashin.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizality | 30199 | [30199-quizality.json](./30199-quizality.json) |
 | Quizania | 62704 | [62704-quizania.json](./62704-quizania.json) |
