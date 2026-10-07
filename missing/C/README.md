@@ -8350,7 +8350,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
+| Cossacks 3: Guardians of the Highlands | 51763 | [51763-cossacks-3-guardians-of-the-highlands.json](./51763-cossacks-3-guardians-of-the-highlands.json) |
+| Cossacks 3: Path to Grandeur | 51762 | [51762-cossacks-3-path-to-grandeur.json](./51762-cossacks-3-path-to-grandeur.json) |
+| Cossacks 3: Rise to Glory | 51761 | [51761-cossacks-3-rise-to-glory.json](./51761-cossacks-3-rise-to-glory.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
+| Cossacks Anthology | 51760 | [51760-cossacks-anthology.json](./51760-cossacks-anthology.json) |
+| Cossacks II Anthology | 51759 | [51759-cossacks-ii-anthology.json](./51759-cossacks-ii-anthology.json) |
 | Cossacks II: Napoleonic Wars | 305 | [305-cossacks-ii-napoleonic-wars.json](./305-cossacks-ii-napoleonic-wars.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
 | Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
@@ -8773,10 +8778,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Shooting - no rules in war for survival! | 105833 | [105833-craft-shooting-no-rules-in-war-for-survival.json](./105833-craft-shooting-no-rules-in-war-for-survival.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
+| Craft the World: Dig with Friends | 51758 | [51758-craft-the-world-dig-with-friends.json](./51758-craft-the-world-dig-with-friends.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
 | Craft the World: Lonely Mountain | 133892 | [133892-craft-the-world-lonely-mountain.json](./133892-craft-the-world-lonely-mountain.json) |
 | Craft the World: Pocket Edition | 87877 | [87877-craft-the-world-pocket-edition.json](./87877-craft-the-world-pocket-edition.json) |
+| Craft the World: Sisters in Arms | 51757 | [51757-craft-the-world-sisters-in-arms.json](./51757-craft-the-world-sisters-in-arms.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
