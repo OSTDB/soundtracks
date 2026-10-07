@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
+| Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase | 317902 | [317902-chase.json](./317902-chase.json) |
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
+| Chase Bombers | 39490 | [39490-chase-bombers.json](./39490-chase-bombers.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | Chase H.Q. | 6802 | [6802-chase-h-q.json](./6802-chase-h-q.json) |
 | Chase H.Q. 2 | 307661 | [307661-chase-h-q-2.json](./307661-chase-h-q-2.json) |
@@ -8422,6 +8424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
 | Cotton 16Bit Tribute | 212332 | [212332-cotton-16bit-tribute.json](./212332-cotton-16bit-tribute.json) |
 | Cotton 16Bit Tribute: Special Pack - Limited Edition | 212321 | [212321-cotton-16bit-tribute-special-pack-limited-edition.json](./212321-cotton-16bit-tribute-special-pack-limited-edition.json) |
+| Cotton 2: Magical Night Dreams | 39489 | [39489-cotton-2-magical-night-dreams.json](./39489-cotton-2-magical-night-dreams.json) |
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang | 39830 | [39830-cotton-boomerang.json](./39830-cotton-boomerang.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
@@ -8429,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
 | Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
+| Cotton: Fantastic Night Dreams | 39488 | [39488-cotton-fantastic-night-dreams.json](./39488-cotton-fantastic-night-dreams.json) |
 | Cottonville | 346242 | [346242-cottonville.json](./346242-cottonville.json) |
 | Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
@@ -8918,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
 | CrapsVR | 31932 | [31932-crapsvr.json](./31932-crapsvr.json) |
+| Crash | 39514 | [39514-crash.json](./39514-crash.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
