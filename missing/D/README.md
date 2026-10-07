@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
+| Darkest Dungeon: The Musketeer | 124890 | [124890-darkest-dungeon-the-musketeer.json](./124890-darkest-dungeon-the-musketeer.json) |
 | Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
 | Darkest Fear | 223004 | [223004-darkest-fear.json](./223004-darkest-fear.json) |
 | Darkest Fear 2: Grim Oak | 223005 | [223005-darkest-fear-2-grim-oak.json](./223005-darkest-fear-2-grim-oak.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
+| Deep Sleep Trilogy | 123695 | [123695-deep-sleep-trilogy.json](./123695-deep-sleep-trilogy.json) |
 | Deep Snow Delivery | 320396 | [320396-deep-snow-delivery.json](./320396-deep-snow-delivery.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
 | Deep Space | 108405 | [108405-deep-space.json](./108405-deep-space.json) |
@@ -3484,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
+| Democratic Socialism Simulator | 131780 | [131780-democratic-socialism-simulator.json](./131780-democratic-socialism-simulator.json) |
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
@@ -6939,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
 | Don't Eat Soap! | 60919 | [60919-dont-eat-soap.json](./60919-dont-eat-soap.json) |
 | Don’t Eat the Cashier! | 392432 | [392432-don-t-eat-the-cashier.json](./392432-don-t-eat-the-cashier.json) |
+| Don't Escape | 123697 | [123697-dont-escape.json](./123697-dont-escape.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Escape 2 | 123698 | [123698-dont-escape-2.json](./123698-dont-escape-2.json) |
 | Don't Escape 3 | 123699 | [123699-dont-escape-3.json](./123699-dont-escape-3.json) |
