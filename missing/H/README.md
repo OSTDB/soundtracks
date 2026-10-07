@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
+| Harvest Moon | 3376 | [3376-harvest-moon.json](./3376-harvest-moon.json) |
 | Harvest Moon 3 GBC | 3381 | [3381-harvest-moon-3-gbc.json](./3381-harvest-moon-3-gbc.json) |
 | Harvest Moon 64 | 3378 | [3378-harvest-moon-64.json](./3378-harvest-moon-64.json) |
 | Harvest Moon Cozy Bundle | 329763 | [329763-harvest-moon-cozy-bundle.json](./329763-harvest-moon-cozy-bundle.json) |
@@ -5995,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Stunt Track Driver | 249155 | [249155-hot-wheels-stunt-track-driver.json](./249155-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
+| Hot Wheels Unleashed | 144072 | [144072-hot-wheels-unleashed.json](./144072-hot-wheels-unleashed.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 3 | 304810 | [304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json](./304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json) |
 | Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
