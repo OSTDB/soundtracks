@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
 | Only You Can Prevent Containment Breaches | 271242 | [271242-only-you-can-prevent-containment-breaches.json](./271242-only-you-can-prevent-containment-breaches.json) |
 | Only You: Re-Cross | 269643 | [269643-only-you-re-cross.json](./269643-only-you-re-cross.json) |
+| OnlyCans: Thirst Date | 142461 | [142461-onlycans-thirst-date.json](./142461-onlycans-thirst-date.json) |
 | OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operasyon: Pars | 391294 | [391294-operasyon-pars.json](./391294-operasyon-pars.json) |
 | Operate Now: Hospital | 87022 | [87022-operate-now-hospital.json](./87022-operate-now-hospital.json) |
 | Operation | 94216 | [94216-operation.json](./94216-operation.json) |
+| Operation Abyss: New Tokyo Legacy | 20021 | [20021-operation-abyss-new-tokyo-legacy.json](./20021-operation-abyss-new-tokyo-legacy.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
 | Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
@@ -3174,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
+| Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
 | Overcooked! 2: Too Many Cooks Pack | 151307 | [151307-overcooked-2-too-many-cooks-pack.json](./151307-overcooked-2-too-many-cooks-pack.json) |
 | Overcooked! All You Can Eat | 135915 | [135915-overcooked-all-you-can-eat.json](./135915-overcooked-all-you-can-eat.json) |
