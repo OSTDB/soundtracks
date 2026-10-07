@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CargoRun | 237328 | [237328-cargorun.json](./237328-cargorun.json) |
 | Caribbean Disaster | 74056 | [74056-caribbean-disaster.json](./74056-caribbean-disaster.json) |
 | Caribbean Jigsaw | 102892 | [102892-caribbean-jigsaw.json](./102892-caribbean-jigsaw.json) |
+| Caribbean Odyssey | 34132 | [34132-caribbean-odyssey.json](./34132-caribbean-odyssey.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
 | Carimara: Beneath the Forlorn Limbs | 339618 | [339618-carimara-beneath-the-forlorn-limbs.json](./339618-carimara-beneath-the-forlorn-limbs.json) |
