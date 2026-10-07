@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsought | 303073 | [303073-unsought.json](./303073-unsought.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
+| Unspottable | 129693 | [129693-unspottable.json](./129693-unspottable.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
@@ -1743,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
 | Until They Burn | 400949 | [400949-until-they-burn.json](./400949-until-they-burn.json) |
+| Until We Die | 127240 | [127240-until-we-die.json](./127240-until-we-die.json) |
 | Until You Return to the Earth | 339430 | [339430-until-you-return-to-the-earth.json](./339430-until-you-return-to-the-earth.json) |
 | UntilZombieDown | 287759 | [287759-untilzombiedown.json](./287759-untilzombiedown.json) |
 | Untime | 372040 | [372040-untime.json](./372040-untime.json) |
