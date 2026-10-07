@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Solitude | 369692 | [369692-deep-space-solitude.json](./369692-deep-space-solitude.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
+| Deep Space Waifu: Flat Justice | 77086 | [77086-deep-space-waifu-flat-justice.json](./77086-deep-space-waifu-flat-justice.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
@@ -4118,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Despotik Design | 13591 | [13591-despotik-design.json](./13591-despotik-design.json) |
+| Despotism 3k | 75056 | [75056-despotism-3k.json](./75056-despotism-3k.json) |
 | Dessert DIY | 247588 | [247588-dessert-diy.json](./247588-dessert-diy.json) |
 | Dessert DIY: Complete Edition | 251668 | [251668-dessert-diy-complete-edition.json](./251668-dessert-diy-complete-edition.json) |
 | Dessert DIY: Premium Edition | 288298 | [288298-dessert-diy-premium-edition.json](./288298-dessert-diy-premium-edition.json) |
@@ -10065,6 +10067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
+| Dune: The Battle for Arrakis | 77207 | [77207-dune-the-battle-for-arrakis.json](./77207-dune-the-battle-for-arrakis.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | DuneCrawl | 318505 | [318505-dunecrawl.json](./318505-dunecrawl.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
