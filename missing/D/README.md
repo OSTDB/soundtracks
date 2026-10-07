@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls Trilogy Box | 81201 | [81201-dark-souls-trilogy-box.json](./81201-dark-souls-trilogy-box.json) |
 | Dark Souls Trilogy: Collector's Edition | 114144 | [114144-dark-souls-trilogy-collectors-edition.json](./114144-dark-souls-trilogy-collectors-edition.json) |
 | Dark Souls: Archthrones | 292062 | [292062-dark-souls-archthrones.json](./292062-dark-souls-archthrones.json) |
+| Dark Souls: Artorias of the Abyss | 21988 | [21988-dark-souls-artorias-of-the-abyss.json](./21988-dark-souls-artorias-of-the-abyss.json) |
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
 | DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
+| DC Universe Online | 576 | [576-dc-universe-online.json](./576-dc-universe-online.json) |
 | DC Universe Online: Episode 17 - Unholy Matrimony & The Flash Museum Burglary | 271163 | [271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json](./271163-dc-universe-online-episode-17-unholy-matrimony-and-the-flash-museum-burglary.json) |
 | DC Universe Online: Episode 18 - The Demon's Pit and Blackest Day | 271164 | [271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json](./271164-dc-universe-online-episode-18-the-demons-pit-and-blackest-day.json) |
 | DC Universe Online: Episode 19 - The Demon's Plan and Deep Desires | 271165 | [271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json](./271165-dc-universe-online-episode-19-the-demons-plan-and-deep-desires.json) |
@@ -5913,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Timon & Pumbaa's Jungle Games | 72032 | [72032-disneys-timon-and-pumbaas-jungle-games.json](./72032-disneys-timon-and-pumbaas-jungle-games.json) |
 | Disney's Toy Story | 198945 | [198945-disneys-toy-story.json](./198945-disneys-toy-story.json) |
 | Disney's Toy Story | 228497 | [228497-disneys-toy-story.json](./228497-disneys-toy-story.json) |
+| Disney's Toy Story | 8020 | [8020-disneys-toy-story.json](./8020-disneys-toy-story.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
@@ -7282,6 +7285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom | 341698 | [341698-doom.json](./341698-doom.json) |
+| Doom | 76217 | [76217-doom.json](./76217-doom.json) |
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
@@ -8195,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: W Bakuretsu Impact | 66914 | [66914-dragon-ball-z-w-bakuretsu-impact.json](./66914-dragon-ball-z-w-bakuretsu-impact.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
+| Dragon Ball: Advanced Adventure | 6386 | [6386-dragon-ball-advanced-adventure.json](./6386-dragon-ball-advanced-adventure.json) |
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Pilaf no Gyakushuu | 346785 | [346785-dragon-ball-pilaf-no-gyakushuu.json](./346785-dragon-ball-pilaf-no-gyakushuu.json) |
@@ -9975,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunderbeck | 303497 | [303497-dunderbeck.json](./303497-dunderbeck.json) |
 | DunDun VR | 160148 | [160148-dundun-vr.json](./160148-dundun-vr.json) |
 | Dune | 282716 | [282716-dune.json](./282716-dune.json) |
+| Dune | 85 | [85-dune.json](./85-dune.json) |
 | Dune 2000 | 87 | [87-dune-2000.json](./87-dune-2000.json) |
 | Dune Dasher | 299377 | [299377-dune-dasher.json](./299377-dune-dasher.json) |
 | Dune Dynasty | 134529 | [134529-dune-dynasty.json](./134529-dune-dynasty.json) |
@@ -10204,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
+| Dungeon of the Endless | 9683 | [9683-dungeon-of-the-endless.json](./9683-dungeon-of-the-endless.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
