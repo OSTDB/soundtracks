@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Cop 2 | 2470 | [2470-virtua-cop-2.json](./2470-virtua-cop-2.json) |
 | Virtua Fighter | 19734 | [19734-virtua-fighter.json](./19734-virtua-fighter.json) |
 | Virtua Fighter | 199019 | [199019-virtua-fighter.json](./199019-virtua-fighter.json) |
+| Virtua Fighter 10th Anniversary | 1553 | [1553-virtua-fighter-10th-anniversary.json](./1553-virtua-fighter-10th-anniversary.json) |
 | Virtua Fighter 2 | 199020 | [199020-virtua-fighter-2.json](./199020-virtua-fighter-2.json) |
 | Virtua Fighter 2 | 225566 | [225566-virtua-fighter-2.json](./225566-virtua-fighter-2.json) |
 | Virtua Fighter 2 vs. Tekken 2 | 143507 | [143507-virtua-fighter-2-vs-tekken-2.json](./143507-virtua-fighter-2-vs-tekken-2.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R | 94701 | [94701-virtua-fighter-5-r.json](./94701-virtua-fighter-5-r.json) |
 | Virtua Fighter 5 R.E.V.O. | 322751 | [322751-virtua-fighter-5-r-e-v-o.json](./322751-virtua-fighter-5-r-e-v-o.json) |
 | Virtua Fighter 5 R.E.V.O. World Stage | 358822 | [358822-virtua-fighter-5-r-e-v-o-world-stage.json](./358822-virtua-fighter-5-r-e-v-o-world-stage.json) |
+| Virtua Fighter Animation | 1548 | [1548-virtua-fighter-animation.json](./1548-virtua-fighter-animation.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
