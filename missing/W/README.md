@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
+| Warhammer 40,000: Chaos Gate - Daemonhunters | 152266 | [152266-warhammer-40-000-chaos-gate-daemonhunters.json](./152266-warhammer-40-000-chaos-gate-daemonhunters.json) |
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Hunt Them in the Dark | 356693 | [356693-we-hunt-them-in-the-dark.json](./356693-we-hunt-them-in-the-dark.json) |
 | We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
 | We Kill Monsters | 255092 | [255092-we-kill-monsters.json](./255092-we-kill-monsters.json) |
+| We Know the Devil | 27870 | [27870-we-know-the-devil.json](./27870-we-know-the-devil.json) |
 | We Lost Our Human | 256874 | [256874-we-lost-our-human.json](./256874-we-lost-our-human.json) |
 | We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
 | We Love Juggler | 59361 | [59361-we-love-juggler.json](./59361-we-love-juggler.json) |
@@ -3990,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Construction! | 327448 | [327448-wobbly-construction.json](./327448-wobbly-construction.json) |
 | Wobbly Heights | 311197 | [311197-wobbly-heights.json](./311197-wobbly-heights.json) |
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
+| Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woeful Woebots | 37019 | [37019-woeful-woebots.json](./37019-woeful-woebots.json) |
@@ -5089,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
+| Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
