@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Success Joe | 47580 | [47580-legend-of-success-joe.json](./47580-legend-of-success-joe.json) |
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
+| Legend of the Amazon Women | 13800 | [13800-legend-of-the-amazon-women.json](./13800-legend-of-the-amazon-women.json) |
 | Legend of the Ancient Dragon | 73249 | [73249-legend-of-the-ancient-dragon.json](./73249-legend-of-the-ancient-dragon.json) |
 | Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
