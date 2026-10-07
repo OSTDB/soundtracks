@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Mecha: Shepherd Jaeger | 168212 | [168212-hardcore-mecha-shepherd-jaeger.json](./168212-hardcore-mecha-shepherd-jaeger.json) |
 | Hardcore Mecha: Thunderbolt Otome | 168210 | [168210-hardcore-mecha-thunderbolt-otome.json](./168210-hardcore-mecha-thunderbolt-otome.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
+| Hardcore Pinball | 49296 | [49296-hardcore-pinball.json](./49296-hardcore-pinball.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
@@ -5962,8 +5963,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
+| Hot Wheels: All Out | 49283 | [49283-hot-wheels-all-out.json](./49283-hot-wheels-all-out.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Beat That! | 4916 | [4916-hot-wheels-beat-that.json](./4916-hot-wheels-beat-that.json) |
+| Hot Wheels: Burnin' Rubber | 49295 | [49295-hot-wheels-burnin-rubber.json](./49295-hot-wheels-burnin-rubber.json) |
 | Hot Wheels: Crash! | 74090 | [74090-hot-wheels-crash.json](./74090-hot-wheels-crash.json) |
 | Hot Wheels: Custom Car Designer | 313290 | [313290-hot-wheels-custom-car-designer.json](./313290-hot-wheels-custom-car-designer.json) |
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
