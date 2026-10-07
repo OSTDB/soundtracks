@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
 | Kingdom Hearts Birth by Sleep: Special Edition | 44469 | [44469-kingdom-hearts-birth-by-sleep-special-edition.json](./44469-kingdom-hearts-birth-by-sleep-special-edition.json) |
 | Kingdom Hearts coded | 20285 | [20285-kingdom-hearts-coded.json](./20285-kingdom-hearts-coded.json) |
+| Kingdom Hearts Dark Road | 130408 | [130408-kingdom-hearts-dark-road.json](./130408-kingdom-hearts-dark-road.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
 | Kingdom Hearts Final Mix | 212758 | [212758-kingdom-hearts-final-mix.json](./212758-kingdom-hearts-final-mix.json) |
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
