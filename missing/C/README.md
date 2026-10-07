@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
 | Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
 | Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
+| Cactus Blue Motel | 57515 | [57515-cactus-blue-motel.json](./57515-cactus-blue-motel.json) |
 | Cactus Canyon | 88479 | [88479-cactus-canyon.json](./88479-cactus-canyon.json) |
 | Cactus Clicker | 380667 | [380667-cactus-clicker.json](./380667-cactus-clicker.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
+| Cinnamon Tea | 57513 | [57513-cinnamon-tea.json](./57513-cinnamon-tea.json) |
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
@@ -6559,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
+| Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Tube | 101674 | [101674-color-tube.json](./101674-color-tube.json) |
