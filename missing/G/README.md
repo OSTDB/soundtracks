@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Flagman | 84554 | [84554-game-and-watch-flagman.json](./84554-game-and-watch-flagman.json) |
 | Game & Watch Gallery 3 | 77907 | [77907-game-and-watch-gallery-3.json](./77907-game-and-watch-gallery-3.json) |
+| Game & Watch Gallery 4 | 81497 | [81497-game-and-watch-gallery-4.json](./81497-game-and-watch-gallery-4.json) |
 | Game & Watch Helmet | 84550 | [84550-game-and-watch-helmet.json](./84550-game-and-watch-helmet.json) |
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
+| Game Room | 91353 | [91353-game-room.json](./91353-game-room.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
@@ -3712,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
+| Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
@@ -5516,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Heroes Vip | 107108 | [107108-grow-heroes-vip.json](./107108-grow-heroes-vip.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
+| Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
