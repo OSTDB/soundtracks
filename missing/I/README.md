@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am a Fish Online | 276239 | [276239-i-am-a-fish-online.json](./276239-i-am-a-fish-online.json) |
 | I Am A I | 188597 | [188597-i-am-a-i.json](./188597-i-am-a-i.json) |
 | I am a Man | 135120 | [135120-i-am-a-man.json](./135120-i-am-a-man.json) |
+| I Am a Teacher: Super Mario Sweater | 41246 | [41246-i-am-a-teacher-super-mario-sweater.json](./41246-i-am-a-teacher-super-mario-sweater.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I Am a Worm | 323341 | [323341-i-am-a-worm.json](./323341-i-am-a-worm.json) |
 | I Am Alone Too | 179116 | [179116-i-am-alone-too.json](./179116-i-am-alone-too.json) |
