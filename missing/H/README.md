@@ -4852,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogogeist | 157005 | [157005-hogogeist.json](./157005-hogogeist.json) |
+| Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
 | Hogwarts Legacy: Digital Deluxe Edition | 214440 | [214440-hogwarts-legacy-digital-deluxe-edition.json](./214440-hogwarts-legacy-digital-deluxe-edition.json) |
