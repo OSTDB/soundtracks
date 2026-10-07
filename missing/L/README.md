@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
+| Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
@@ -5430,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Ludwig | 9239 | [9239-ludwig.json](./9239-ludwig.json) |
+| Lufia: Curse of the Sinistrals | 1181 | [1181-lufia-curse-of-the-sinistrals.json](./1181-lufia-curse-of-the-sinistrals.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
