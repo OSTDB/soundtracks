@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
+| KickBeat | 7683 | [7683-kickbeat.json](./7683-kickbeat.json) |
 | KickBeat: Special Edition | 20059 | [20059-kickbeat-special-edition.json](./20059-kickbeat-special-edition.json) |
 | Kickboxer | 336156 | [336156-kickboxer.json](./336156-kickboxer.json) |
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
