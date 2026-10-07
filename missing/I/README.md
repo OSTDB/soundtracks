@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection Maze | 146771 | [146771-infection-maze.json](./146771-infection-maze.json) |
 | Infection of the dead | 107274 | [107274-infection-of-the-dead.json](./107274-infection-of-the-dead.json) |
 | Infection Outbreak | 130174 | [130174-infection-outbreak.json](./130174-infection-outbreak.json) |
+| Infection Rate | 55677 | [55677-infection-rate.json](./55677-infection-rate.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
 | Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
