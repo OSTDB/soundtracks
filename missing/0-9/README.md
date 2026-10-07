@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Lives | 251003 | [251003-9-lives.json](./251003-9-lives.json) |
 | 9 Lives to Defend | 250947 | [250947-9-lives-to-defend.json](./250947-9-lives-to-defend.json) |
 | 9 Maker | 240352 | [240352-9-maker.json](./240352-9-maker.json) |
+| 9 Monkeys of Shaolin | 94078 | [94078-9-monkeys-of-shaolin.json](./94078-9-monkeys-of-shaolin.json) |
 | 9 R.I.P. | 241526 | [241526-9-r-i-p.json](./241526-9-r-i-p.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
