@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
 | Knight Fortix 2 | 42770 | [42770-knight-fortix-2.json](./42770-knight-fortix-2.json) |
+| Knight Games | 26437 | [26437-knight-games.json](./26437-knight-games.json) |
 | Knight Ghost | 46740 | [46740-knight-ghost.json](./46740-knight-ghost.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
