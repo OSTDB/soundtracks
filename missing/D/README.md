@@ -8164,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
+| Dragon Ball Z: Kakarot | 114009 | [114009-dragon-ball-z-kakarot.json](./114009-dragon-ball-z-kakarot.json) |
 | Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Bonus Pack | 333619 | [333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json](./333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
@@ -9976,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune 2000 | 87 | [87-dune-2000.json](./87-dune-2000.json) |
 | Dune Dasher | 299377 | [299377-dune-dasher.json](./299377-dune-dasher.json) |
 | Dune Dynasty | 134529 | [134529-dune-dynasty.json](./134529-dune-dynasty.json) |
+| Dune II: The Building of a Dynasty | 86 | [86-dune-ii-the-building-of-a-dynasty.json](./86-dune-ii-the-building-of-a-dynasty.json) |
 | Dune Legacy | 134535 | [134535-dune-legacy.json](./134535-dune-legacy.json) |
 | Dune Raider | 377839 | [377839-dune-raider.json](./377839-dune-raider.json) |
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
