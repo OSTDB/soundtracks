@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault Cracker: The Last Safe | 61575 | [61575-vault-cracker-the-last-safe.json](./61575-vault-cracker-the-last-safe.json) |
 | Vault Hunters | 345548 | [345548-vault-hunters.json](./345548-vault-hunters.json) |
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
+| Vault of Honor | 43187 | [43187-vault-of-honor.json](./43187-vault-of-honor.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
