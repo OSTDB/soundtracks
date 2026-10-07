@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3d Inside 2: Hell | 143938 | [143938-d3d-inside-2-hell.json](./143938-d3d-inside-2-hell.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
+| D4: Dark Dreams Don't Die - Season 1 | 4758 | [4758-d4-dark-dreams-dont-die-season-1.json](./4758-d4-dark-dreams-dont-die-season-1.json) |
 | D4: Dark Dreams Don't Die - Season 1: Deluxe Edition | 51756 | [51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json](./51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json) |
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
@@ -7323,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
+| Doom II | 121503 | [121503-doom-ii.json](./121503-doom-ii.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
 | Doom II RPG | 101031 | [101031-doom-ii-rpg.json](./101031-doom-ii-rpg.json) |
 | Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
@@ -8174,6 +8176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Hyper Dimension | 270755 | [270755-dragon-ball-z-hyper-dimension.json](./270755-dragon-ball-z-hyper-dimension.json) |
+| Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
 | Dragon Ball Z: Kakarot | 114009 | [114009-dragon-ball-z-kakarot.json](./114009-dragon-ball-z-kakarot.json) |
 | Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Bonus Pack | 333619 | [333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json](./333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json) |
