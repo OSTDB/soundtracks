@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Hurk Deluxe Pack | 109553 | [109553-far-cry-4-hurk-deluxe-pack.json](./109553-far-cry-4-hurk-deluxe-pack.json) |
 | Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
+| Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV: Deluxe Edition | 38492 | [38492-final-fantasy-xv-deluxe-edition.json](./38492-final-fantasy-xv-deluxe-edition.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
+| Final Fantasy XV: Episode Ignis | 37291 | [37291-final-fantasy-xv-episode-ignis.json](./37291-final-fantasy-xv-episode-ignis.json) |
 | Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
 | Final Fantasy XV: Holiday Pack | 350499 | [350499-final-fantasy-xv-holiday-pack.json](./350499-final-fantasy-xv-holiday-pack.json) |
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
@@ -6138,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
+| Foxhole | 27091 | [27091-foxhole.json](./27091-foxhole.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | Foxingdale: The Magical Stones of Kentaroo | 273492 | [273492-foxingdale-the-magical-stones-of-kentaroo.json](./273492-foxingdale-the-magical-stones-of-kentaroo.json) |
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
