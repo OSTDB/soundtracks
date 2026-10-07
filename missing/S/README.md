@@ -14714,6 +14714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Enchanted Books | 91088 | [91088-start-the-enchanted-books.json](./91088-start-the-enchanted-books.json) |
+| Start the Party! | 20407 | [20407-start-the-party.json](./20407-start-the-party.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start with no dice | 184440 | [184440-start-with-no-dice.json](./184440-start-with-no-dice.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
@@ -17746,6 +17747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
 | Super Cursor | 304286 | [304286-super-cursor.json](./304286-super-cursor.json) |
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
+| Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
