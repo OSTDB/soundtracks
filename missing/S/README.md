@@ -8867,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Kid Collection | 403733 | [403733-soccer-kid-collection.json](./403733-soccer-kid-collection.json) |
 | Soccer Kids Champions | 104723 | [104723-soccer-kids-champions.json](./104723-soccer-kids-champions.json) |
+| Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
@@ -15827,6 +15828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
+| Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
@@ -17334,6 +17336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
 | Super Contra | 4622 | [4622-super-contra.json](./4622-super-contra.json) |
+| Super Contra 7 | 48566 | [48566-super-contra-7.json](./48566-super-contra-7.json) |
 | Super Contra Hot | 289031 | [289031-super-contra-hot.json](./289031-super-contra-hot.json) |
 | Super Contra X | 48892 | [48892-super-contra-x.json](./48892-super-contra-x.json) |
 | Super Contraption 3D | 255048 | [255048-super-contraption-3d.json](./255048-super-contraption-3d.json) |
