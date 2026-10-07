@@ -6228,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Skyline | 116426 | [116426-fractured-skyline.json](./116426-fractured-skyline.json) |
+| Fractured Space | 9815 | [9815-fractured-space.json](./9815-fractured-space.json) |
 | Fractured Voyage | 150787 | [150787-fractured-voyage.json](./150787-fractured-voyage.json) |
 | Fracturefront | 374774 | [374774-fracturefront.json](./374774-fracturefront.json) |
 | Fractus | 75072 | [75072-fractus.json](./75072-fractus.json) |
@@ -6990,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
+| From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
