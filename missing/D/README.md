@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
+| DaGeDar | 47924 | [47924-dagedar.json](./47924-dagedar.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
 | Dagger Directive | 264207 | [264207-dagger-directive.json](./264207-dagger-directive.json) |
 | Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
+| Dance Floor | 47937 | [47937-dance-floor.json](./47937-dance-floor.json) |
 | Dance Gangnam Style | 310669 | [310669-dance-gangnam-style.json](./310669-dance-gangnam-style.json) |
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
@@ -3326,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltatraveler: Section 2 | 307811 | [307811-deltatraveler-section-2.json](./307811-deltatraveler-section-2.json) |
 | Deltatraveler: Section 3 | 307815 | [307815-deltatraveler-section-3.json](./307815-deltatraveler-section-3.json) |
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
+| Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
@@ -7592,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
+| Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
@@ -8111,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
+| Dragon Booster | 47891 | [47891-dragon-booster.json](./47891-dragon-booster.json) |
 | Dragon Bowl | 37344 | [37344-dragon-bowl.json](./37344-dragon-bowl.json) |
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
 | Dragon Break Classic | 151850 | [151850-dragon-break-classic.json](./151850-dragon-break-classic.json) |
@@ -8867,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
 | Dreamer Series: Babysitter | 79532 | [79532-dreamer-series-babysitter.json](./79532-dreamer-series-babysitter.json) |
 | Dreamer Series: Horse Trainer | 79533 | [79533-dreamer-series-horse-trainer.json](./79533-dreamer-series-horse-trainer.json) |
+| Dreamer Series: Pop Star | 47906 | [47906-dreamer-series-pop-star.json](./47906-dreamer-series-pop-star.json) |
 | Dreamer Series: Puppy Trainer | 70597 | [70597-dreamer-series-puppy-trainer.json](./70597-dreamer-series-puppy-trainer.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
