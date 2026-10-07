@@ -3966,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
 | Evolution & Climate Bundle | 238043 | [238043-evolution-and-climate-bundle.json](./238043-evolution-and-climate-bundle.json) |
+| Evolution 2: Far Off Promise | 45858 | [45858-evolution-2-far-off-promise.json](./45858-evolution-2-far-off-promise.json) |
 | Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
