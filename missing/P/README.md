@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
+| Paperboy | 19370 | [19370-paperboy.json](./19370-paperboy.json) |
 | Paperboy | 198844 | [198844-paperboy.json](./198844-paperboy.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
@@ -6300,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
 | Pokémon Infinite Heardle | 283399 | [283399-pokemon-infinite-heardle.json](./283399-pokemon-infinite-heardle.json) |
 | Pokémon Infinity | 186130 | [186130-pokemon-infinity.json](./186130-pokemon-infinity.json) |
+| Pokémon Insurgence | 18989 | [18989-pokemon-insurgence.json](./18989-pokemon-insurgence.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
