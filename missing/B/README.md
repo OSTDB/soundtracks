@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 2042: Gold Edition | 169199 | [169199-battlefield-2042-gold-edition.json](./169199-battlefield-2042-gold-edition.json) |
 | Battlefield 2042: Ultimate Edition | 169198 | [169198-battlefield-2042-ultimate-edition.json](./169198-battlefield-2042-ultimate-edition.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
+| Battlefield 2142 | 349 | [349-battlefield-2142.json](./349-battlefield-2142.json) |
 | Battlefield 2142: Deluxe Edition | 41886 | [41886-battlefield-2142-deluxe-edition.json](./41886-battlefield-2142-deluxe-edition.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
+| Battlefield Vietnam | 335 | [335-battlefield-vietnam.json](./335-battlefield-vietnam.json) |
 | Battlefield World War Bundle | 112914 | [112914-battlefield-world-war-bundle.json](./112914-battlefield-world-war-bundle.json) |
 | Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
 | Battlefield: Bad Company 2 - Limited Edition | 41890 | [41890-battlefield-bad-company-2-limited-edition.json](./41890-battlefield-bad-company-2-limited-edition.json) |
@@ -3613,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath & Beyond | 273367 | [273367-beneath-and-beyond.json](./273367-beneath-and-beyond.json) |
 | Beneath a Dead City | 327406 | [327406-beneath-a-dead-city.json](./327406-beneath-a-dead-city.json) |
+| Beneath a Steel Sky | 612 | [612-beneath-a-steel-sky.json](./612-beneath-a-steel-sky.json) |
 | Beneath Folly | 229214 | [229214-beneath-folly.json](./229214-beneath-folly.json) |
 | Beneath Oresa | 182191 | [182191-beneath-oresa.json](./182191-beneath-oresa.json) |
 | Beneath Paris | 406793 | [406793-beneath-paris.json](./406793-beneath-paris.json) |
@@ -6298,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne 2 | 28734 | [28734-bloodborne-2.json](./28734-bloodborne-2.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
+| Bloodborne: Game of the Year Edition | 42931 | [42931-bloodborne-game-of-the-year-edition.json](./42931-bloodborne-game-of-the-year-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
 | Bloodborne: The Old Hunters | 14647 | [14647-bloodborne-the-old-hunters.json](./14647-bloodborne-the-old-hunters.json) |
