@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
+| B-12: Brantisky Mk. 12 | 28949 | [28949-b-12-brantisky-mk-12.json](./28949-b-12-brantisky-mk-12.json) |
 | B-17 Bomber | 5660 | [5660-b-17-bomber.json](./5660-b-17-bomber.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
 | B-17 Flying Fortress: The Mighty 8th Redux | 226242 | [226242-b-17-flying-fortress-the-mighty-8th-redux.json](./226242-b-17-flying-fortress-the-mighty-8th-redux.json) |
@@ -2479,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
+| Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
@@ -6173,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
+| Blood of Old | 28759 | [28759-blood-of-old.json](./28759-blood-of-old.json) |
 | Blood of Old: The Rise To Greatness | 307570 | [307570-blood-of-old-the-rise-to-greatness.json](./307570-blood-of-old-the-rise-to-greatness.json) |
 | Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
 | Blood of Rations | 408031 | [408031-blood-of-rations.json](./408031-blood-of-rations.json) |
@@ -6246,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbeard's Revenge | 176301 | [176301-bloodbeards-revenge.json](./176301-bloodbeards-revenge.json) |
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
 | BloodBoarderz | 307867 | [307867-bloodboarderz.json](./307867-bloodboarderz.json) |
+| Bloodborne 2 | 28734 | [28734-bloodborne-2.json](./28734-bloodborne-2.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
@@ -8450,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
+| Breakers | 28707 | [28707-breakers.json](./28707-breakers.json) |
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
