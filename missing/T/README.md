@@ -3279,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of El Ballo | 146189 | [146189-the-adventures-of-el-ballo.json](./146189-the-adventures-of-el-ballo.json) |
+| The Adventures of Elliot: The Millennium Tales | 358534 | [358534-the-adventures-of-elliot-the-millennium-tales.json](./358534-the-adventures-of-elliot-the-millennium-tales.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
 | The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
@@ -5311,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expanse: A Telltale Series - Episode 5: Europa's Folly | 265834 | [265834-the-expanse-a-telltale-series-episode-5-europas-folly.json](./265834-the-expanse-a-telltale-series-episode-5-europas-folly.json) |
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
+| The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experience | 13651 | [13651-the-experience.json](./13651-the-experience.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
@@ -13733,6 +13735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
+| Tiny Troopers | 11619 | [11619-tiny-troopers.json](./11619-tiny-troopers.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Bundle | 242677 | [242677-tiny-troopers-global-ops-digital-deluxe-bundle.json](./242677-tiny-troopers-global-ops-digital-deluxe-bundle.json) |
