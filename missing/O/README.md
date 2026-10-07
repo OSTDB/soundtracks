@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Othello Millennium | 50552 | [50552-othello-millennium.json](./50552-othello-millennium.json) |
+| Othello World | 42515 | [42515-othello-world.json](./42515-othello-world.json) |
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other Side | 126455 | [126455-other-side.json](./126455-other-side.json) |
