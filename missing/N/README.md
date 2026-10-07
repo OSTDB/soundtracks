@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
+| NBA Live 06 | 4034 | [4034-nba-live-06.json](./4034-nba-live-06.json) |
 | NBA Live 07 | 248770 | [248770-nba-live-07.json](./248770-nba-live-07.json) |
 | NBA Live 07 | 248771 | [248771-nba-live-07.json](./248771-nba-live-07.json) |
 | NBA Live 07 | 248772 | [248772-nba-live-07.json](./248772-nba-live-07.json) |
