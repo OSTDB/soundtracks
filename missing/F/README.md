@@ -5281,6 +5281,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
+| Forced Showdown: Deluxe Content | 51810 | [51810-forced-showdown-deluxe-content.json](./51810-forced-showdown-deluxe-content.json) |
+| Forced Showdown: Drone Invasion | 51809 | [51809-forced-showdown-drone-invasion.json](./51809-forced-showdown-drone-invasion.json) |
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
 | Forceline | 63579 | [63579-forceline.json](./63579-forceline.json) |
 | Forces of Ether | 312137 | [312137-forces-of-ether.json](./312137-forces-of-ether.json) |
@@ -5490,6 +5492,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Realms: Demon Stone | 356895 | [356895-forgotten-realms-demon-stone.json](./356895-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Demon Stone | 5839 | [5839-forgotten-realms-demon-stone.json](./5839-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
+| Forgotten Realms: The Archives - Collection One | 51808 | [51808-forgotten-realms-the-archives-collection-one.json](./51808-forgotten-realms-the-archives-collection-one.json) |
+| Forgotten Realms: The Archives - Collection Three | 51807 | [51807-forgotten-realms-the-archives-collection-three.json](./51807-forgotten-realms-the-archives-collection-three.json) |
+| Forgotten Realms: The Archives - Collection Two | 51806 | [51806-forgotten-realms-the-archives-collection-two.json](./51806-forgotten-realms-the-archives-collection-two.json) |
 | Forgotten Red Fog | 311169 | [311169-forgotten-red-fog.json](./311169-forgotten-red-fog.json) |
 | Forgotten Riddles: The Mayan Princess | 209562 | [209562-forgotten-riddles-the-mayan-princess.json](./209562-forgotten-riddles-the-mayan-princess.json) |
 | Forgotten Riddles: The Moonlight Sonatas | 64726 | [64726-forgotten-riddles-the-moonlight-sonatas.json](./64726-forgotten-riddles-the-moonlight-sonatas.json) |
@@ -7032,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Synapse | 259532 | [259532-frozen-synapse.json](./259532-frozen-synapse.json) |
 | Frozen Synapse 2 | 18435 | [18435-frozen-synapse-2.json](./18435-frozen-synapse-2.json) |
 | Frozen Synapse: Prime Soundtrack Edition | 118844 | [118844-frozen-synapse-prime-soundtrack-edition.json](./118844-frozen-synapse-prime-soundtrack-edition.json) |
+| Frozen Synapse: Red | 51805 | [51805-frozen-synapse-red.json](./51805-frozen-synapse-red.json) |
 | Frozen Synapse: Tactics | 52228 | [52228-frozen-synapse-tactics.json](./52228-frozen-synapse-tactics.json) |
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | Frozen Way Tri-Bundle | 342237 | [342237-frozen-way-tri-bundle.json](./342237-frozen-way-tri-bundle.json) |
