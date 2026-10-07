@@ -800,9 +800,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Steel Reign | 152310 | [152310-fallout-76-steel-reign.json](./152310-fallout-76-steel-reign.json) |
 | Fallout 76: The Pitt | 217785 | [217785-fallout-76-the-pitt.json](./217785-fallout-76-the-pitt.json) |
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
+| Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
+| Fallout Shelter Online | 131851 | [131851-fallout-shelter-online.json](./131851-fallout-shelter-online.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
@@ -5875,7 +5877,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Sapphire Hagiri Quest Pack | 254501 | [254501-fortnite-sapphire-hagiri-quest-pack.json](./254501-fortnite-sapphire-hagiri-quest-pack.json) |
 | Fortnite: Save the World | 395833 | [395833-fortnite-save-the-world.json](./395833-fortnite-save-the-world.json) |
 | Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
+| Fortnite: Season 2 | 129878 | [129878-fortnite-season-2.json](./129878-fortnite-season-2.json) |
 | Fortnite: Season 4 | 129876 | [129876-fortnite-season-4.json](./129876-fortnite-season-4.json) |
+| Fortnite: Season 8 | 129872 | [129872-fortnite-season-8.json](./129872-fortnite-season-8.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
@@ -6840,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Finder | 181798 | [181798-frog-finder.json](./181798-frog-finder.json) |
 | Frog Folding Simulator | 350436 | [350436-frog-folding-simulator.json](./350436-frog-folding-simulator.json) |
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
+| Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
@@ -7387,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
 | Full Kiss: Limited Edition | 167133 | [167133-full-kiss-limited-edition.json](./167133-full-kiss-limited-edition.json) |
 | Full Metal Coffin | 410265 | [410265-full-metal-coffin.json](./410265-full-metal-coffin.json) |
+| Full Metal Daemon Muramasa | 132817 | [132817-full-metal-daemon-muramasa.json](./132817-full-metal-daemon-muramasa.json) |
 | Full Metal Jackpot | 106772 | [106772-full-metal-jackpot.json](./106772-full-metal-jackpot.json) |
 | Full Metal Monsters | 119648 | [119648-full-metal-monsters.json](./119648-full-metal-monsters.json) |
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
