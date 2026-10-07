@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
+| Kamen Rider: Battride War Genesis | 13559 | [13559-kamen-rider-battride-war-genesis.json](./13559-kamen-rider-battride-war-genesis.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Climax Heroes W | 50731 | [50731-kamen-rider-climax-heroes-w.json](./50731-kamen-rider-climax-heroes-w.json) |
 | Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
