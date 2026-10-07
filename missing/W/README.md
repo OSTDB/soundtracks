@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
+| WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
