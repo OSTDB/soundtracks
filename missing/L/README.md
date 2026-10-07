@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
 | Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
+| Lothar Matthäus Super Soccer | 42491 | [42491-lothar-matthaus-super-soccer.json](./42491-lothar-matthaus-super-soccer.json) |
 | Lothgar Online | 56315 | [56315-lothgar-online.json](./56315-lothgar-online.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
