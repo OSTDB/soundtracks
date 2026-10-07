@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
+| Dead Estate | 141453 | [141453-dead-estate.json](./141453-dead-estate.json) |
 | Dead Estate: Axe to Grind | 367002 | [367002-dead-estate-axe-to-grind.json](./367002-dead-estate-axe-to-grind.json) |
 | Dead Estate: Bombs Away | 366970 | [366970-dead-estate-bombs-away.json](./366970-dead-estate-bombs-away.json) |
 | Dead Estate: Good Night | 367006 | [367006-dead-estate-good-night.json](./367006-dead-estate-good-night.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
+| Dead Island: Epidemic | 2902 | [2902-dead-island-epidemic.json](./2902-dead-island-epidemic.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Island: Riptide | 1833 | [1833-dead-island-riptide.json](./1833-dead-island-riptide.json) |
 | Dead Island: Riptide - Complete Edition | 99809 | [99809-dead-island-riptide-complete-edition.json](./99809-dead-island-riptide-complete-edition.json) |
@@ -2668,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
+| DeathSpank: Thongs of Virtue | 2250 | [2250-deathspank-thongs-of-virtue.json](./2250-deathspank-thongs-of-virtue.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
 | Deathsville | 13582 | [13582-deathsville.json](./13582-deathsville.json) |
@@ -4188,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! 2 | 2652 | [2652-destroy-all-humans-2.json](./2652-destroy-all-humans-2.json) |
+| Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
 | Destroy All Humans! Big Willy Unleashed | 2716 | [2716-destroy-all-humans-big-willy-unleashed.json](./2716-destroy-all-humans-big-willy-unleashed.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
@@ -7717,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
+| Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
 | Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
@@ -8172,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball Z | 220086 | [220086-dragon-ball-z.json](./220086-dragon-ball-z.json) |
 | Dragon Ball Z 5 | 242098 | [242098-dragon-ball-z-5.json](./242098-dragon-ball-z-5.json) |
+| Dragon Ball Z For Kinect | 2575 | [2575-dragon-ball-z-for-kinect.json](./2575-dragon-ball-z-for-kinect.json) |
 | Dragon Ball Z Gaiden: Shin Saiya-jin Zetsumetsu Keikaku - Uchou-hen | 63360 | [63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json](./63360-dragon-ball-z-gaiden-shin-saiya-jin-zetsumetsu-keikaku-uchou-hen.json) |
 | Dragon Ball Z II: Gekishin Frieza!! | 48682 | [48682-dragon-ball-z-ii-gekishin-frieza.json](./48682-dragon-ball-z-ii-gekishin-frieza.json) |
 | Dragon Ball Z III: Ressen Jinzou Ningen | 48680 | [48680-dragon-ball-z-iii-ressen-jinzou-ningen.json](./48680-dragon-ball-z-iii-ressen-jinzou-ningen.json) |
@@ -9535,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
+| Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
 | Drown in Yesterday's Sea | 411780 | [411780-drown-in-yesterdays-sea.json](./411780-drown-in-yesterdays-sea.json) |
 | Drown Rabbit | 397937 | [397937-drown-rabbit.json](./397937-drown-rabbit.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
