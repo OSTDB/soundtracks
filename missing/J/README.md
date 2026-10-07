@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
+| Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
 | Jurassic Park: Operation Genesis | 5871 | [5871-jurassic-park-operation-genesis.json](./5871-jurassic-park-operation-genesis.json) |
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
