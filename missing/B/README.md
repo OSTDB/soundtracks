@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Bomber | 5660 | [5660-b-17-bomber.json](./5660-b-17-bomber.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
 | B-17 Flying Fortress: The Mighty 8th Redux | 226242 | [226242-b-17-flying-fortress-the-mighty-8th-redux.json](./226242-b-17-flying-fortress-the-mighty-8th-redux.json) |
+| B-17 Fortress in the Sky | 47933 | [47933-b-17-fortress-in-the-sky.json](./47933-b-17-fortress-in-the-sky.json) |
 | B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
@@ -3705,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Poker | 23803 | [23803-best-of-poker.json](./23803-best-of-poker.json) |
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
+| Best of Tests DS | 47930 | [47930-best-of-tests-ds.json](./47930-best-of-tests-ds.json) |
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
 | Best of Tilted Mill | 52466 | [52466-best-of-tilted-mill.json](./52466-best-of-tilted-mill.json) |
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
@@ -9390,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Your Palace | 134398 | [134398-build-your-palace.json](./134398-build-your-palace.json) |
 | Build Your Simspolis | 98780 | [98780-build-your-simspolis.json](./98780-build-your-simspolis.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
+| Build-a-Bear Workshop: Welcome to Hugsville | 47913 | [47913-build-a-bear-workshop-welcome-to-hugsville.json](./47913-build-a-bear-workshop-welcome-to-hugsville.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
 | Build-a-lot 4: Power Source HD | 99722 | [99722-build-a-lot-4-power-source-hd.json](./99722-build-a-lot-4-power-source-hd.json) |
