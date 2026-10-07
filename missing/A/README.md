@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing I: Jikai Saku made Matemasen | 267382 | [267382-aero-dancing-i-jikai-saku-made-matemasen.json](./267382-aero-dancing-i-jikai-saku-made-matemasen.json) |
 | Aero Effect | 134378 | [134378-aero-effect.json](./134378-aero-effect.json) |
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
+| Aero Fighters | 3147 | [3147-aero-fighters.json](./3147-aero-fighters.json) |
 | Aero Guitar | 84466 | [84466-aero-guitar.json](./84466-aero-guitar.json) |
 | Aero Porter | 21017 | [21017-aero-porter.json](./21017-aero-porter.json) |
 | Aero Racer | 42833 | [42833-aero-racer.json](./42833-aero-racer.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires IV: Dynasties of the East | 361886 | [361886-age-of-empires-iv-dynasties-of-the-east.json](./361886-age-of-empires-iv-dynasties-of-the-east.json) |
 | Age of Empires IV: Raiders of the North | 405077 | [405077-age-of-empires-iv-raiders-of-the-north.json](./405077-age-of-empires-iv-raiders-of-the-north.json) |
 | Age of Empires Mobile | 280839 | [280839-age-of-empires-mobile.json](./280839-age-of-empires-mobile.json) |
+| Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
 | Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
 | Age of Empires: The Rise of Rome | 291 | [291-age-of-empires-the-rise-of-rome.json](./291-age-of-empires-the-rise-of-rome.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
@@ -2383,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders: Planetfall - Invasions | 132166 | [132166-age-of-wonders-planetfall-invasions.json](./132166-age-of-wonders-planetfall-invasions.json) |
 | Age of Wonders: Planetfall - Premium Edition | 154527 | [154527-age-of-wonders-planetfall-premium-edition.json](./154527-age-of-wonders-planetfall-premium-edition.json) |
 | Age of Wonders: Planetfall - Star Kings | 148927 | [148927-age-of-wonders-planetfall-star-kings.json](./148927-age-of-wonders-planetfall-star-kings.json) |
+| Age of Wonders: Shadow Magic | 591 | [591-age-of-wonders-shadow-magic.json](./591-age-of-wonders-shadow-magic.json) |
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
 | Age of Wushu Dynasty | 23661 | [23661-age-of-wushu-dynasty.json](./23661-age-of-wushu-dynasty.json) |
 | Age of Zombies | 8628 | [8628-age-of-zombies.json](./8628-age-of-zombies.json) |
@@ -3309,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd in Mushroom World | 413221 | [413221-alex-kidd-in-mushroom-world.json](./413221-alex-kidd-in-mushroom-world.json) |
 | Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
 | Alex Kidd in Radaxian Rumble | 173107 | [173107-alex-kidd-in-radaxian-rumble.json](./173107-alex-kidd-in-radaxian-rumble.json) |
+| Alex Kidd in the Enchanted Castle | 3217 | [3217-alex-kidd-in-the-enchanted-castle.json](./3217-alex-kidd-in-the-enchanted-castle.json) |
 | Alex Kidd: BMX Trial | 37174 | [37174-alex-kidd-bmx-trial.json](./37174-alex-kidd-bmx-trial.json) |
 | Alex Kidd: Fall of Radaxian | 173113 | [173113-alex-kidd-fall-of-radaxian.json](./173113-alex-kidd-fall-of-radaxian.json) |
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
@@ -8479,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assessment Examination | 216284 | [216284-assessment-examination.json](./216284-assessment-examination.json) |
 | Assetto Corsa | 5597 | [5597-assetto-corsa.json](./5597-assetto-corsa.json) |
 | Assetto Corsa Competizione | 171274 | [171274-assetto-corsa-competizione.json](./171274-assetto-corsa-competizione.json) |
+| Assetto Corsa Competizione | 89444 | [89444-assetto-corsa-competizione.json](./89444-assetto-corsa-competizione.json) |
 | Assetto Corsa Competizione DLC Pack | 266247 | [266247-assetto-corsa-competizione-dlc-pack.json](./266247-assetto-corsa-competizione-dlc-pack.json) |
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
