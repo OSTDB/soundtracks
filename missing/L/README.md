@@ -4902,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hell | 303635 | [303635-love-hell.json](./303635-love-hell.json) |
 | Love Hentai: Fap Fast, Die Young | 367021 | [367021-love-hentai-fap-fast-die-young.json](./367021-love-hentai-fap-fast-die-young.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
+| Love Hina 2: Kotoba wa Konayuki no You ni | 43837 | [43837-love-hina-2-kotoba-wa-konayuki-no-you-ni.json](./43837-love-hina-2-kotoba-wa-konayuki-no-you-ni.json) |
 | Love Hina Advance ~Shukufuku no Kane wa Naru kana~ | 49416 | [49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json](./49416-love-hina-advance-shukufuku-no-kane-wa-naru-kana.json) |
 | Love Hina Party | 50063 | [50063-love-hina-party.json](./50063-love-hina-party.json) |
 | Love Hina Pocket | 50064 | [50064-love-hina-pocket.json](./50064-love-hina-pocket.json) |
