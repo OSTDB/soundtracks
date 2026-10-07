@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
+| Martha Is Dead | 90714 | [90714-martha-is-dead.json](./90714-martha-is-dead.json) |
 | Martha Is Dead: Digital Deluxe | 192310 | [192310-martha-is-dead-digital-deluxe.json](./192310-martha-is-dead-digital-deluxe.json) |
 | Martha Madison: Electricity | 83960 | [83960-martha-madison-electricity.json](./83960-martha-madison-electricity.json) |
 | Martha Madison: Energy | 83961 | [83961-martha-madison-energy.json](./83961-martha-madison-energy.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
 | Mega Man X6: Recompiled | 409014 | [409014-mega-man-x6-recompiled.json](./409014-mega-man-x6-recompiled.json) |
+| Mega Man X7 | 1747 | [1747-mega-man-x7.json](./1747-mega-man-x7.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
@@ -7471,6 +7473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
+| Mir Tankov | 252168 | [252168-mir-tankov.json](./252168-mir-tankov.json) |
 | Mir-Mahna | 191668 | [191668-mir-mahna.json](./191668-mir-mahna.json) |
 | Mira and the Legend of the Djinns | 197172 | [197172-mira-and-the-legend-of-the-djinns.json](./197172-mira-and-the-legend-of-the-djinns.json) |
 | Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
@@ -9062,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Safari | 110924 | [110924-monster-safari.json](./110924-monster-safari.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
+| Monster Sanctuary | 89594 | [89594-monster-sanctuary.json](./89594-monster-sanctuary.json) |
 | Monster School | 85881 | [85881-monster-school.json](./85881-monster-school.json) |
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
@@ -10107,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
+| MotorStorm: Apocalypse | 2555 | [2555-motorstorm-apocalypse.json](./2555-motorstorm-apocalypse.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
