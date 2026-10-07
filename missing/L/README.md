@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
+| Little League Baseball 2002 | 49286 | [49286-little-league-baseball-2002.json](./49286-little-league-baseball-2002.json) |
 | Little League Baseball: Championship Series | 48283 | [48283-little-league-baseball-championship-series.json](./48283-little-league-baseball-championship-series.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2009 | 51067 | [51067-little-league-world-series-baseball-2009.json](./51067-little-league-world-series-baseball-2009.json) |
