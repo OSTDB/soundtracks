@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Curse of the Were-Rabbit | 6227 | [6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json](./6227-wallace-and-gromit-the-curse-of-the-were-rabbit.json) |
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
+| Wallace & Gromit's Grand Adventures: Episode 2 - The Last Resort | 127032 | [127032-wallace-and-gromits-grand-adventures-episode-2-the-last-resort.json](./127032-wallace-and-gromits-grand-adventures-episode-2-the-last-resort.json) |
 | Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome to Elderfield | 319629 | [319629-welcome-to-elderfield.json](./319629-welcome-to-elderfield.json) |
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
+| Welcome to Elk | 131566 | [131566-welcome-to-elk.json](./131566-welcome-to-elk.json) |
 | Welcome to Emba | 150624 | [150624-welcome-to-emba.json](./150624-welcome-to-emba.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
@@ -3716,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Cat | 83870 | [83870-witchs-cat.json](./83870-witchs-cat.json) |
 | Witch's Garden | 259534 | [259534-witchs-garden.json](./259534-witchs-garden.json) |
 | Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
+| Witch's Heart | 124353 | [124353-witchs-heart.json](./124353-witchs-heart.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch's Heart: Shirarezaru Kako Majo Dorothy no Himitsu - Kanketsu-hen | 259742 | [259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json](./259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
