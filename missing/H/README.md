@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
 | Hannah Montana: Pop Tour | 221686 | [221686-hannah-montana-pop-tour.json](./221686-hannah-montana-pop-tour.json) |
+| Hannah Montana: Rock out the Show | 44487 | [44487-hannah-montana-rock-out-the-show.json](./44487-hannah-montana-rock-out-the-show.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
+| Hi no Ouji: Yamato Takeru | 44438 | [44438-hi-no-ouji-yamato-takeru.json](./44438-hi-no-ouji-yamato-takeru.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
 | Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
 | Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
@@ -5833,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely: Seduction | 366336 | [366336-hot-and-lovely-seduction.json](./366336-hot-and-lovely-seduction.json) |
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
+| Hot Brain | 44483 | [44483-hot-brain.json](./44483-hot-brain.json) |
 | Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
 | Hot Bubble | 40194 | [40194-hot-bubble.json](./40194-hot-bubble.json) |
@@ -5978,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
+| Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
