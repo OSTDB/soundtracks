@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
+| Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
 | Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
 | Galactic Empire | 13065 | [13065-galactic-empire.json](./13065-galactic-empire.json) |
@@ -662,6 +663,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
+| Game Boy Wars | 1687 | [1687-game-boy-wars.json](./1687-game-boy-wars.json) |
+| Game Boy Wars 2 | 1689 | [1689-game-boy-wars-2.json](./1689-game-boy-wars-2.json) |
+| Game Boy Wars 3 | 1690 | [1690-game-boy-wars-3.json](./1690-game-boy-wars-3.json) |
+| Game Boy Wars Turbo | 1688 | [1688-game-boy-wars-turbo.json](./1688-game-boy-wars-turbo.json) |
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
@@ -889,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
+| Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
@@ -1765,6 +1771,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Genso Skydrift Reborn | 114541 | [114541-genso-skydrift-reborn.json](./114541-genso-skydrift-reborn.json) |
+| Genso Suikoden Card Stories | 1451 | [1451-genso-suikoden-card-stories.json](./1451-genso-suikoden-card-stories.json) |
+| Genso Suikoden: Tsumugareshi Hyaku-nen no Toki | 1453 | [1453-genso-suikoden-tsumugareshi-hyaku-nen-no-toki.json](./1453-genso-suikoden-tsumugareshi-hyaku-nen-no-toki.json) |
+| Genso Suikogaiden Volume 1: Swordsman of Harmonia | 1455 | [1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json](./1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json) |
+| Genso Suikogaiden Volume 2: Duel at the Crystal Valley | 1457 | [1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json](./1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
@@ -2563,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Life: Beauty Experience | 68072 | [68072-girls-life-beauty-experience.json](./68072-girls-life-beauty-experience.json) |
 | Girls Life: Sleepover Party | 50592 | [50592-girls-life-sleepover-party.json](./50592-girls-life-sleepover-party.json) |
 | Girls Life: Strass & Diamonds | 68073 | [68073-girls-life-strass-and-diamonds.json](./68073-girls-life-strass-and-diamonds.json) |
+| Girls of DOA Blackjack: The Kasumi Version | 1394 | [1394-girls-of-doa-blackjack-the-kasumi-version.json](./1394-girls-of-doa-blackjack-the-kasumi-version.json) |
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
@@ -4215,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
+| Gradius Gaiden | 1484 | [1484-gradius-gaiden.json](./1484-gradius-gaiden.json) |
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
 | Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
