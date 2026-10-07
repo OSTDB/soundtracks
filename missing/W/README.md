@@ -1998,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
 | Werewolves 2: Pack Mentality | 130116 | [130116-werewolves-2-pack-mentality.json](./130116-werewolves-2-pack-mentality.json) |
 | Werewolves 3: Evolution's End | 282224 | [282224-werewolves-3-evolutions-end.json](./282224-werewolves-3-evolutions-end.json) |
+| Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz | 47151 | [47151-wiz.json](./47151-wiz.json) |
+| Wiz Biz | 13047 | [13047-wiz-biz.json](./13047-wiz-biz.json) |
 | Wiz Brochure | 403769 | [403769-wiz-brochure.json](./403769-wiz-brochure.json) |
 | Wiz Hunter | 385264 | [385264-wiz-hunter.json](./385264-wiz-hunter.json) |
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
