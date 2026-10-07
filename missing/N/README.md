@@ -3415,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
 | No Tomorrow | 297162 | [297162-no-tomorrow.json](./297162-no-tomorrow.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
+| No Turning Back: The Pixel Art Action-Adventure Roguelike | 35547 | [35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json](./35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json) |
 | No Umbrellas Allowed | 137436 | [137436-no-umbrellas-allowed.json](./137436-no-umbrellas-allowed.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
 | No Walking, No Problem! | 286574 | [286574-no-walking-no-problem.json](./286574-no-walking-no-problem.json) |
