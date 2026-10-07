@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsunoko Fight | 43811 | [43811-tatsunoko-fight.json](./43811-tatsunoko-fight.json) |
 | Tatsunoko vs. Capcom: Cross Generation of Heroes | 341102 | [341102-tatsunoko-vs-capcom-cross-generation-of-heroes.json](./341102-tatsunoko-vs-capcom-cross-generation-of-heroes.json) |
 | Tatsunoko vs. Capcom: Cross Generation of Heroes | 50726 | [50726-tatsunoko-vs-capcom-cross-generation-of-heroes.json](./50726-tatsunoko-vs-capcom-cross-generation-of-heroes.json) |
+| Tatsunoko vs. Capcom: Ultimate All Stars | 2275 | [2275-tatsunoko-vs-capcom-ultimate-all-stars.json](./2275-tatsunoko-vs-capcom-ultimate-all-stars.json) |
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
 | Tattoo Artist 3: On The Job | 331459 | [331459-tattoo-artist-3-on-the-job.json](./331459-tattoo-artist-3-on-the-job.json) |
@@ -5188,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enthralling Realms: Curse of Darkness | 104806 | [104806-the-enthralling-realms-curse-of-darkness.json](./104806-the-enthralling-realms-curse-of-darkness.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
 | The Entity: Returning Home | 170366 | [170366-the-entity-returning-home.json](./170366-the-entity-returning-home.json) |
+| The Entropy Centre | 204543 | [204543-the-entropy-centre.json](./204543-the-entropy-centre.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
 | The Epic and Amazing Adventure of GleepglorrpgilliandoohiggintilliousMMDCCXXXIX the Adventure Where GleepglorrpgilliandoohiggintilliousMMDCCXXXIX Lives and Becomes King GleepglorrpgilliandoohiggintilliousMMDCCXXXIX | 410947 | [410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json](./410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json) |
@@ -5940,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
+| The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
 | The Great Hatch | 348915 | [348915-the-great-hatch.json](./348915-the-great-hatch.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
@@ -6251,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
 | The House of the Dead 4 | 21721 | [21721-the-house-of-the-dead-4.json](./21721-the-house-of-the-dead-4.json) |
+| The House of the Dead III | 5863 | [5863-the-house-of-the-dead-iii.json](./5863-the-house-of-the-dead-iii.json) |
 | The House of the Dead: Nightmare | 125149 | [125149-the-house-of-the-dead-nightmare.json](./125149-the-house-of-the-dead-nightmare.json) |
 | The House of the Dead: Overkill - Extended Cut | 44614 | [44614-the-house-of-the-dead-overkill-extended-cut.json](./44614-the-house-of-the-dead-overkill-extended-cut.json) |
 | The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
@@ -6407,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 94829 | [94829-the-incredible-hulk.json](./94829-the-incredible-hulk.json) |
 | The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
+| The Incredible Hulk: Ultimate Destruction | 3954 | [3954-the-incredible-hulk-ultimate-destruction.json](./3954-the-incredible-hulk-ultimate-destruction.json) |
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
 | The Incredible Machine 3 | 9263 | [9263-the-incredible-machine-3.json](./9263-the-incredible-machine-3.json) |
 | The Incredible Toon Machine | 13778 | [13778-the-incredible-toon-machine.json](./13778-the-incredible-toon-machine.json) |
@@ -9289,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers Online | 23606 | [23606-the-settlers-online.json](./23606-the-settlers-online.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: Fourth Edition | 3697 | [3697-the-settlers-fourth-edition.json](./3697-the-settlers-fourth-edition.json) |
+| The Settlers: Heritage of Kings | 3698 | [3698-the-settlers-heritage-of-kings.json](./3698-the-settlers-heritage-of-kings.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
@@ -9452,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Bart vs. The Space Mutants | 2827 | [2827-the-simpsons-bart-vs-the-space-mutants.json](./2827-the-simpsons-bart-vs-the-space-mutants.json) |
 | The Simpsons: Bart vs. the World | 2830 | [2830-the-simpsons-bart-vs-the-world.json](./2830-the-simpsons-bart-vs-the-world.json) |
 | The Simpsons: Bart's House of Weirdness | 2828 | [2828-the-simpsons-barts-house-of-weirdness.json](./2828-the-simpsons-barts-house-of-weirdness.json) |
+| The Simpsons: Bart's Nightmare | 2833 | [2833-the-simpsons-barts-nightmare.json](./2833-the-simpsons-barts-nightmare.json) |
 | The Simpsons: Bartman Meets Radioactive Man | 2832 | [2832-the-simpsons-bartman-meets-radioactive-man.json](./2832-the-simpsons-bartman-meets-radioactive-man.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
@@ -14067,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
 | TOCA Race Driver 2 | 6201 | [6201-toca-race-driver-2.json](./6201-toca-race-driver-2.json) |
+| TOCA Race Driver 3 | 907 | [907-toca-race-driver-3.json](./907-toca-race-driver-3.json) |
 | TOCA Race Driver 3 Challenge | 42849 | [42849-toca-race-driver-3-challenge.json](./42849-toca-race-driver-3-challenge.json) |
 | TOCA Touring Car Championship | 201751 | [201751-toca-touring-car-championship.json](./201751-toca-touring-car-championship.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
