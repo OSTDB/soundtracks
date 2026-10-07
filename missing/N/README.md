@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Legend of the Crystal Skull | 7629 | [7629-nancy-drew-legend-of-the-crystal-skull.json](./7629-nancy-drew-legend-of-the-crystal-skull.json) |
 | Nancy Drew: Message in a Haunted Mansion | 248638 | [248638-nancy-drew-message-in-a-haunted-mansion.json](./248638-nancy-drew-message-in-a-haunted-mansion.json) |
 | Nancy Drew: Message in a Haunted Mansion | 6522 | [6522-nancy-drew-message-in-a-haunted-mansion.json](./6522-nancy-drew-message-in-a-haunted-mansion.json) |
+| Nancy Drew: Midnight in Salem | 124420 | [124420-nancy-drew-midnight-in-salem.json](./124420-nancy-drew-midnight-in-salem.json) |
 | Nancy Drew: Mystery in the Hollywood Hills | 230315 | [230315-nancy-drew-mystery-in-the-hollywood-hills.json](./230315-nancy-drew-mystery-in-the-hollywood-hills.json) |
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
 | Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
