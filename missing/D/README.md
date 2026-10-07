@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
 | Deluxe Scrabble for Windows | 78722 | [78722-deluxe-scrabble-for-windows.json](./78722-deluxe-scrabble-for-windows.json) |
 | Deluxe Ski Jump 2 | 11676 | [11676-deluxe-ski-jump-2.json](./11676-deluxe-ski-jump-2.json) |
+| Deluxe Ski Jump 3 | 56910 | [56910-deluxe-ski-jump-3.json](./56910-deluxe-ski-jump-3.json) |
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
 | Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
 | Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
@@ -7075,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Cats | 320325 | [320325-doodle-cats.json](./320325-doodle-cats.json) |
 | Doodle Champs | 211629 | [211629-doodle-champs.json](./211629-doodle-champs.json) |
+| Doodle Creatures | 56900 | [56900-doodle-creatures.json](./56900-doodle-creatures.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Dash | 85096 | [85096-doodle-dash.json](./85096-doodle-dash.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
@@ -7453,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | Dot Pop! | 99184 | [99184-dot-pop.json](./99184-dot-pop.json) |
 | Dot Pull | 71153 | [71153-dot-pull.json](./71153-dot-pull.json) |
+| Dot Runner: Complete Edition | 56907 | [56907-dot-runner-complete-edition.json](./56907-dot-runner-complete-edition.json) |
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
