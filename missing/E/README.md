@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
 | Earthquake Escape | 193229 | [193229-earthquake-escape.json](./193229-earthquake-escape.json) |
+| Earthquake San Francisco 1906 | 25590 | [25590-earthquake-san-francisco-1906.json](./25590-earthquake-san-francisco-1906.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
 | Earthshine | 117799 | [117799-earthshine.json](./117799-earthshine.json) |
@@ -2933,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Timokha 2: Army | 334199 | [334199-escape-from-timokha-2-army.json](./334199-escape-from-timokha-2-army.json) |
 | Escape from Toilets | 265769 | [265769-escape-from-toilets.json](./265769-escape-from-toilets.json) |
 | Escape from Tokat Dungeon | 289577 | [289577-escape-from-tokat-dungeon.json](./289577-escape-from-tokat-dungeon.json) |
+| Escape from Traam | 25591 | [25591-escape-from-traam.json](./25591-escape-from-traam.json) |
 | Escape From Twump Tower | 179492 | [179492-escape-from-twump-tower.json](./179492-escape-from-twump-tower.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
