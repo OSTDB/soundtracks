@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
+| Fade to Black | 12427 | [12427-fade-to-black.json](./12427-fade-to-black.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
 | Fade^2 | 279889 | [279889-fade-2.json](./279889-fade-2.json) |
 | Faded | 290525 | [290525-faded.json](./290525-faded.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FAU-G: Fearless and United Guards | 138668 | [138668-fau-g-fearless-and-united-guards.json](./138668-fau-g-fearless-and-united-guards.json) |
 | Faucet VR | 89269 | [89269-faucet-vr.json](./89269-faucet-vr.json) |
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
+| Fault Milestone One | 10528 | [10528-fault-milestone-one.json](./10528-fault-milestone-one.json) |
 | Fault Milestone Two Side: Above | 35883 | [35883-fault-milestone-two-side-above.json](./35883-fault-milestone-two-side-above.json) |
 | Fault: Broken Promises | 336619 | [336619-fault-broken-promises.json](./336619-fault-broken-promises.json) |
 | Faun Air | 151279 | [151279-faun-air.json](./151279-faun-air.json) |
