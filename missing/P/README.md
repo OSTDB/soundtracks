@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PancitoMerge | 347847 | [347847-pancitomerge.json](./347847-pancitomerge.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
 | Panda & Crow: A Paraglide Adventure | 267438 | [267438-panda-and-crow-a-paraglide-adventure.json](./267438-panda-and-crow-a-paraglide-adventure.json) |
+| Panda Adventures | 48571 | [48571-panda-adventures.json](./48571-panda-adventures.json) |
 | Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
 | Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
+| Parody World: Monster Party | 48570 | [48570-parody-world-monster-party.json](./48570-parody-world-monster-party.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parry Counter | 414476 | [414476-parry-counter.json](./414476-parry-counter.json) |
@@ -2070,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
 | Peacemaker: Protect, Search & Destroy | 382364 | [382364-peacemaker-protect-search-and-destroy.json](./382364-peacemaker-protect-search-and-destroy.json) |
 | Peacequarium | 312707 | [312707-peacequarium.json](./312707-peacequarium.json) |
+| Peach & Daisy: The Royal Games | 48569 | [48569-peach-and-daisy-the-royal-games.json](./48569-peach-and-daisy-the-royal-games.json) |
 | Peach Blood | 112239 | [112239-peach-blood.json](./112239-peach-blood.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Hills Division | 297179 | [297179-peach-hills-division.json](./297179-peach-hills-division.json) |
@@ -7355,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
+| Power Blazer | 48568 | [48568-power-blazer.json](./48568-power-blazer.json) |
 | Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
 | Power Brain Trainer | 118760 | [118760-power-brain-trainer.json](./118760-power-brain-trainer.json) |
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
@@ -7406,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
+| Power Peach Sis. | 48562 | [48562-power-peach-sis.json](./48562-power-peach-sis.json) |
 | Power Pegged | 80799 | [80799-power-pegged.json](./80799-power-pegged.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
