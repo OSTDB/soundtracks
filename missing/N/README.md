@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
+| Nekketsu! Street Basketball All-Out Dunk Heroes | 48572 | [48572-nekketsu-street-basketball-all-out-dunk-heroes.json](./48572-nekketsu-street-basketball-all-out-dunk-heroes.json) |
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
 | Neko Album | 174704 | [174704-neko-album.json](./174704-neko-album.json) |
