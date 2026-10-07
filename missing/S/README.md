@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sai | 133880 | [133880-sai.json](./133880-sai.json) |
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Sai | 251071 | [251071-sai.json](./251071-sai.json) |
+| Sai Combat | 26435 | [26435-sai-combat.json](./26435-sai-combat.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
 | Saibara Rieko no Dendou Mahjong | 49794 | [49794-saibara-rieko-no-dendou-mahjong.json](./49794-saibara-rieko-no-dendou-mahjong.json) |
 | Saibara Rieko no Mahjong Hourouki | 37866 | [37866-saibara-rieko-no-mahjong-hourouki.json](./37866-saibara-rieko-no-mahjong-hourouki.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: The Pillar | 113988 | [113988-shadow-of-the-tomb-raider-the-pillar.json](./113988-shadow-of-the-tomb-raider-the-pillar.json) |
 | Shadow of the Tomb Raider: The Serpent's Heart | 116003 | [116003-shadow-of-the-tomb-raider-the-serpents-heart.json](./116003-shadow-of-the-tomb-raider-the-serpents-heart.json) |
 | Shadow of the Tomb Raider: Ultimate Edition | 99123 | [99123-shadow-of-the-tomb-raider-ultimate-edition.json](./99123-shadow-of-the-tomb-raider-ultimate-edition.json) |
+| Shadow of the Unicorn | 26417 | [26417-shadow-of-the-unicorn.json](./26417-shadow-of-the-unicorn.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
@@ -10941,6 +10943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
+| Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
@@ -11081,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
@@ -15602,6 +15606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
+| Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
 | Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
