@@ -11658,6 +11658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cyphen | 339361 | [339361-cyphen.json](./339361-cyphen.json) |
+| Cypher | 86479 | [86479-cypher.json](./86479-cypher.json) |
 | Cypher 007 | 265647 | [265647-cypher-007.json](./265647-cypher-007.json) |
 | Cypher Override | 417490 | [417490-cypher-override.json](./417490-cypher-override.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
