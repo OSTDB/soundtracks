@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Simulator VR 2021: Rescue Missions | 150767 | [150767-helicopter-simulator-vr-2021-rescue-missions.json](./150767-helicopter-simulator-vr-2021-rescue-missions.json) |
 | Helicopter Simulator: Rescue Sim | 288302 | [288302-helicopter-simulator-rescue-sim.json](./288302-helicopter-simulator-rescue-sim.json) |
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
+| Helicopter Strike Force | 27538 | [27538-helicopter-strike-force.json](./27538-helicopter-strike-force.json) |
 | Helidroid 2: Helicopter R/C | 197642 | [197642-helidroid-2-helicopter-r-c.json](./197642-helidroid-2-helicopter-r-c.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing 3D 2015 | 88452 | [88452-horse-racing-3d-2015.json](./88452-horse-racing-3d-2015.json) |
+| Horse Racing Manager | 27539 | [27539-horse-racing-manager.json](./27539-horse-racing-manager.json) |
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
