@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
 | Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
 | Painterboy | 47198 | [47198-painterboy.json](./47198-painterboy.json) |
+| Painters Guild | 20345 | [20345-painters-guild.json](./20345-painters-guild.json) |
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
@@ -863,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
+| Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
@@ -4963,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
+| Pixross | 142195 | [142195-pixross.json](./142195-pixross.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
@@ -5543,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing History 2 - Slave Trade | 12073 | [12073-playing-history-2-slave-trade.json](./12073-playing-history-2-slave-trade.json) |
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
+| Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
@@ -8101,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Limited Edition | 45292 | [45292-prince-of-persia-limited-edition.json](./45292-prince-of-persia-limited-edition.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
+| Prince of Persia: The Forgotten Sands | 142710 | [142710-prince-of-persia-the-forgotten-sands.json](./142710-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 142712 | [142712-prince-of-persia-the-forgotten-sands.json](./142712-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Lost Crown - Complete Edition | 317240 | [317240-prince-of-persia-the-lost-crown-complete-edition.json](./317240-prince-of-persia-the-lost-crown-complete-edition.json) |
@@ -9344,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Textures II | 300703 | [300703-prototype-textures-ii.json](./300703-prototype-textures-ii.json) |
 | Prototype X1 | 25707 | [25707-prototype-x1.json](./25707-prototype-x1.json) |
 | Prototype-Cube | 118330 | [118330-prototype-cube.json](./118330-prototype-cube.json) |
+| Prototype: Biohazard Bundle | 19611 | [19611-prototype-biohazard-bundle.json](./19611-prototype-biohazard-bundle.json) |
 | ProtoViolence | 271174 | [271174-protoviolence.json](./271174-protoviolence.json) |
 | Protozed | 244350 | [244350-protozed.json](./244350-protozed.json) |
 | Protozoa | 211728 | [211728-protozoa.json](./211728-protozoa.json) |
@@ -9560,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
+| Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
