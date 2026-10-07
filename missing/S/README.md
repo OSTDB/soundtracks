@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapyard Simulator | 157544 | [157544-scrapyard-simulator.json](./157544-scrapyard-simulator.json) |
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
+| Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
@@ -10932,6 +10933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Freeks | 60060 | [60060-space-freeks.json](./60060-space-freeks.json) |
+| Space Frenzy | 46511 | [46511-space-frenzy.json](./46511-space-frenzy.json) |
 | Space Frog! | 177350 | [177350-space-frog.json](./177350-space-frog.json) |
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
@@ -11761,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
+| Speed Busters: American Highways | 46531 | [46531-speed-busters-american-highways.json](./46531-speed-busters-american-highways.json) |
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
@@ -12233,6 +12236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Match | 369748 | [369748-spike-match.json](./369748-spike-match.json) |
 | Spike the Hedgehog | 91555 | [91555-spike-the-hedgehog.json](./91555-spike-the-hedgehog.json) |
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
+| Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
 | Spikeball Smash | 314980 | [314980-spikeball-smash.json](./314980-spikeball-smash.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
@@ -12735,6 +12739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Sports | 366371 | [366371-sports-sports.json](./366371-sports-sports.json) |
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
+| Sports Trivia: Championship Edition | 46541 | [46541-sports-trivia-championship-edition.json](./46541-sports-trivia-championship-edition.json) |
 | Sports World Tour: Penalty Challenge | 60389 | [60389-sports-world-tour-penalty-challenge.json](./60389-sports-world-tour-penalty-challenge.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | Sports! | 230334 | [230334-sports.json](./230334-sports.json) |
