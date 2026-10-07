@@ -9272,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
+| Bug Blasters: The Exterminators | 46550 | [46550-bug-blasters-the-exterminators.json](./46550-bug-blasters-the-exterminators.json) |
 | Bug Blazer | 270166 | [270166-bug-blazer.json](./270166-bug-blazer.json) |
 | Bug Bomb | 15689 | [15689-bug-bomb.json](./15689-bug-bomb.json) |
 | Bug Bomber | 14351 | [14351-bug-bomber.json](./14351-bug-bomber.json) |
@@ -9449,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bulk | 390638 | [390638-bulk.json](./390638-bulk.json) |
 | Bulk Dominoes VR: Kinetic Rush | 160141 | [160141-bulk-dominoes-vr-kinetic-rush.json](./160141-bulk-dominoes-vr-kinetic-rush.json) |
+| Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
