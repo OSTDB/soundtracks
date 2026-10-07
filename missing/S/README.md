@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacramento | 126448 | [126448-sacramento.json](./126448-sacramento.json) |
 | Sacred | 328 | [328-sacred.json](./328-sacred.json) |
 | Sacred | 330355 | [330355-sacred.json](./330355-sacred.json) |
+| Sacred 2 Gold | 28234 | [28234-sacred-2-gold.json](./28234-sacred-2-gold.json) |
 | Sacred 2: Fallen Angel | 1043 | [1043-sacred-2-fallen-angel.json](./1043-sacred-2-fallen-angel.json) |
 | Sacred 2: Ice and Blood | 8891 | [8891-sacred-2-ice-and-blood.json](./8891-sacred-2-ice-and-blood.json) |
 | Sacred 3 | 5615 | [5615-sacred-3.json](./5615-sacred-3.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite Engineer | 292259 | [292259-satellite-engineer.json](./292259-satellite-engineer.json) |
 | Satellite Odyssey: Jupiter | 383033 | [383033-satellite-odyssey-jupiter.json](./383033-satellite-odyssey-jupiter.json) |
 | Satellite Odyssey: Prologue | 266748 | [266748-satellite-odyssey-prologue.json](./266748-satellite-odyssey-prologue.json) |
+| Satellite Reign | 11577 | [11577-satellite-reign.json](./11577-satellite-reign.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
@@ -6158,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
+| SimCity 3000 Unlimited | 28955 | [28955-simcity-3000-unlimited.json](./28955-simcity-3000-unlimited.json) |
 | SimCity 4 | 1275 | [1275-simcity-4.json](./1275-simcity-4.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
@@ -7214,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky: Children of the Light - Season of Rhythm | 388395 | [388395-sky-children-of-the-light-season-of-rhythm.json](./388395-sky-children-of-the-light-season-of-rhythm.json) |
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
+| Skyblazer | 42581 | [42581-skyblazer.json](./42581-skyblazer.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
 | Skyblock Chaos | 301347 | [301347-skyblock-chaos.json](./301347-skyblock-chaos.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
@@ -9124,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Software House Simulator | 149728 | [149728-software-house-simulator.json](./149728-software-house-simulator.json) |
+| Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
@@ -16037,6 +16042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Collection | 45193 | [45193-street-fighter-collection.json](./45193-street-fighter-collection.json) |
 | Street Fighter Collection 2 | 44911 | [44911-street-fighter-collection-2.json](./44911-street-fighter-collection-2.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
+| Street Fighter EX plus Alpha | 38297 | [38297-street-fighter-ex-plus-alpha.json](./38297-street-fighter-ex-plus-alpha.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
 | Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
