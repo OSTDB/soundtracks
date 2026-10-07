@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
 | Sacramento | 126448 | [126448-sacramento.json](./126448-sacramento.json) |
+| Sacred | 328 | [328-sacred.json](./328-sacred.json) |
 | Sacred | 330355 | [330355-sacred.json](./330355-sacred.json) |
 | Sacred 2: Fallen Angel | 1043 | [1043-sacred-2-fallen-angel.json](./1043-sacred-2-fallen-angel.json) |
 | Sacred 2: Ice and Blood | 8891 | [8891-sacred-2-ice-and-blood.json](./8891-sacred-2-ice-and-blood.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai.EXE: Genso Network | 142121 | [142121-shanghai-exe-genso-network.json](./142121-shanghai-exe-genso-network.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
+| Shank | 7518 | [7518-shank.json](./7518-shank.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shanky: The Vegan's Nightmare | 114906 | [114906-shanky-the-vegans-nightmare.json](./114906-shanky-the-vegans-nightmare.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanshui | 178485 | [178485-shanshui.json](./178485-shanshui.json) |
 | Shanshui Haven | 273347 | [273347-shanshui-haven.json](./273347-shanshui-haven.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
+| Shantae and the Pirate's Curse | 8430 | [8430-shantae-and-the-pirates-curse.json](./8430-shantae-and-the-pirates-curse.json) |
 | Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
 | Shantae and the Seven Sirens | 116589 | [116589-shantae-and-the-seven-sirens.json](./116589-shantae-and-the-seven-sirens.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
@@ -8625,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
+| Sniper: Ghost Warrior | 1367 | [1367-sniper-ghost-warrior.json](./1367-sniper-ghost-warrior.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
@@ -9833,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
 | Sonic Color Cursed | 337168 | [337168-sonic-color-cursed.json](./337168-sonic-color-cursed.json) |
+| Sonic Colors | 2267 | [2267-sonic-colors.json](./2267-sonic-colors.json) |
 | Sonic Colors Demastered | 265222 | [265222-sonic-colors-demastered.json](./265222-sonic-colors-demastered.json) |
 | Sonic Colors DX | 280937 | [280937-sonic-colors-dx.json](./280937-sonic-colors-dx.json) |
 | Sonic Colors VN | 265223 | [265223-sonic-colors-vn.json](./265223-sonic-colors-vn.json) |
@@ -12717,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom | 133910 | [133910-spongebob-squarepants-battle-for-bikini-bottom.json](./133910-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
+| SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | 119239 | [119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json](./119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
@@ -14015,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Challenges | 75089 | [75089-star-wars-jedi-challenges.json](./75089-star-wars-jedi-challenges.json) |
+| Star Wars: Jedi Knight - Dark Forces II | 150 | [150-star-wars-jedi-knight-dark-forces-ii.json](./150-star-wars-jedi-knight-dark-forces-ii.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Jedi Power Battles | 301489 | [301489-star-wars-jedi-power-battles.json](./301489-star-wars-jedi-power-battles.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
@@ -19168,6 +19175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
+| SuperHot: Mind Control Delete | 27448 | [27448-superhot-mind-control-delete.json](./27448-superhot-mind-control-delete.json) |
 | Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
