@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
+| Operation Hongkong | 28698 | [28698-operation-hongkong.json](./28698-operation-hongkong.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
 | Operation K.A.T.B. | 225713 | [225713-operation-k-a-t-b.json](./225713-operation-k-a-t-b.json) |
