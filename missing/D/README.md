@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
+| Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
+| Defender Chronicles | 19200 | [19200-defender-chronicles.json](./19200-defender-chronicles.json) |
 | Defender Chronicles: Legend of the Desert King | 65856 | [65856-defender-chronicles-legend-of-the-desert-king.json](./65856-defender-chronicles-legend-of-the-desert-king.json) |
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
 | Defender II | 281044 | [281044-defender-ii.json](./281044-defender-ii.json) |
@@ -3068,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender X | 275665 | [275665-defender-x.json](./275665-defender-x.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
+| Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
 | Defenders of Ardania: The Conjurer's Tricks | 52862 | [52862-defenders-of-ardania-the-conjurers-tricks.json](./52862-defenders-of-ardania-the-conjurers-tricks.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
@@ -4037,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate Escape | 282830 | [282830-desperate-escape.json](./282830-desperate-escape.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
+| Desperate Housewives: The Game | 18516 | [18516-desperate-housewives-the-game.json](./18516-desperate-housewives-the-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
 | Desperate Survival | 239712 | [239712-desperate-survival.json](./239712-desperate-survival.json) |
@@ -4973,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging for Dinosaurs | 48045 | [48045-digging-for-dinosaurs.json](./48045-digging-for-dinosaurs.json) |
 | Digging for Worms | 317443 | [317443-digging-for-worms.json](./317443-digging-for-worms.json) |
 | Digging Hours | 342749 | [342749-digging-hours.json](./342749-digging-hours.json) |
+| Digging Jim | 19222 | [19222-digging-jim.json](./19222-digging-jim.json) |
 | Digging the Forgotten Cave | 365828 | [365828-digging-the-forgotten-cave.json](./365828-digging-the-forgotten-cave.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
@@ -5715,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Fireworks | 85089 | [85089-disney-fireworks.json](./85089-disney-fireworks.json) |
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
+| Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
@@ -9581,6 +9587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
+| Dstroy | 19223 | [19223-dstroy.json](./19223-dstroy.json) |
 | Dsync | 103361 | [103361-dsync.json](./103361-dsync.json) |
 | DT Racer | 44709 | [44709-dt-racer.json](./44709-dt-racer.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
