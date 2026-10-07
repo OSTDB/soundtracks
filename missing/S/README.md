@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiver: Poltergeist | 139739 | [139739-shiver-poltergeist.json](./139739-shiver-poltergeist.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shiver: The Lily's Requiem | 139740 | [139740-shiver-the-lilys-requiem.json](./139740-shiver-the-lilys-requiem.json) |
+| Shiver: Vanishing Hitchhiker - Collector's Edition | 32791 | [32791-shiver-vanishing-hitchhiker-collectors-edition.json](./32791-shiver-vanishing-hitchhiker-collectors-edition.json) |
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
@@ -5354,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen Ninja Sasuke | 38232 | [38232-shounen-ninja-sasuke.json](./38232-shounen-ninja-sasuke.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
+| Shout of Survival | 32857 | [32857-shout-of-survival.json](./32857-shout-of-survival.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
@@ -10762,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Sp!te | 108070 | [108070-sp-te.json](./108070-sp-te.json) |
 | Sp(l/r)ite | 277510 | [277510-sp-l-r-ite.json](./277510-sp-l-r-ite.json) |
+| Spa Mania | 32733 | [32733-spa-mania.json](./32733-spa-mania.json) |
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
@@ -13697,6 +13700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
 | Star Striker | 384151 | [384151-star-striker.json](./384151-star-striker.json) |
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
+| Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star System Battle | 309463 | [309463-star-system-battle.json](./309463-star-system-battle.json) |
@@ -17455,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crown Land | 318548 | [318548-super-crown-land.json](./318548-super-crown-land.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
+| Super Cube Smash | 32741 | [32741-super-cube-smash.json](./32741-super-cube-smash.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
@@ -19238,6 +19243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: The Pantheon | 139748 | [139748-surface-the-pantheon.json](./139748-surface-the-pantheon.json) |
+| Surface: The Pantheon - Collector's Edition | 32734 | [32734-surface-the-pantheon-collectors-edition.json](./32734-surface-the-pantheon-collectors-edition.json) |
 | Surface: The Soaring City | 139749 | [139749-surface-the-soaring-city.json](./139749-surface-the-soaring-city.json) |
 | Surface: The Soaring City - Collector's Edition | 116921 | [116921-surface-the-soaring-city-collectors-edition.json](./116921-surface-the-soaring-city-collectors-edition.json) |
 | Surface: Virtual Detective | 187925 | [187925-surface-virtual-detective.json](./187925-surface-virtual-detective.json) |
