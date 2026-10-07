@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
+| Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
+| Alpha Version.0 | 35483 | [35483-alpha-version-0.json](./35483-alpha-version-0.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
@@ -7180,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Kidding Me? | 324922 | [324922-are-you-kidding-me.json](./324922-are-you-kidding-me.json) |
 | Are You Ok? | 179054 | [179054-are-you-ok.json](./179054-are-you-ok.json) |
 | Are you Ready VR | 143955 | [143955-are-you-ready-vr.json](./143955-are-you-ready-vr.json) |
+| Are You Smarter Than a 5th Grader | 35440 | [35440-are-you-smarter-than-a-5th-grader.json](./35440-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
@@ -8021,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASDA Global | 82963 | [82963-asda-global.json](./82963-asda-global.json) |
 | Asda Story | 72790 | [72790-asda-story.json](./72790-asda-story.json) |
 | Asda Story Chapter 3 | 66442 | [66442-asda-story-chapter-3.json](./66442-asda-story-chapter-3.json) |
+| ASDAD: All-Stars Dungeons and Diamonds | 35571 | [35571-asdad-all-stars-dungeons-and-diamonds.json](./35571-asdad-all-stars-dungeons-and-diamonds.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
 | Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
@@ -8089,6 +8093,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: The Pirate Pack | 361897 | [361897-ashes-of-arcanum-the-pirate-pack.json](./361897-ashes-of-arcanum-the-pirate-pack.json) |
 | Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
+| Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
+| Ashes of Immortality II: Bad Blood | 35457 | [35457-ashes-of-immortality-ii-bad-blood.json](./35457-ashes-of-immortality-ii-bad-blood.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
 | Ashes of Morgravia | 345083 | [345083-ashes-of-morgravia.json](./345083-ashes-of-morgravia.json) |
