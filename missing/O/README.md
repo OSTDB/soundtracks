@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Here Alone | 235757 | [235757-out-here-alone.json](./235757-out-here-alone.json) |
 | Out in Space | 218472 | [218472-out-in-space.json](./218472-out-in-space.json) |
 | Out in Space Bundle: Tin Can & Orbit.Industries | 266246 | [266246-out-in-space-bundle-tin-can-and-orbit-industries.json](./266246-out-in-space-bundle-tin-can-and-orbit-industries.json) |
+| Out Live: It's Far a Future on Planet | 37666 | [37666-out-live-its-far-a-future-on-planet.json](./37666-out-live-its-far-a-future-on-planet.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
