@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Sport | 72179 | [72179-action-sport.json](./72179-action-sport.json) |
 | Action Stations! | 12387 | [12387-action-stations.json](./12387-action-stations.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
+| Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
@@ -7450,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
+| Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
 | Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
