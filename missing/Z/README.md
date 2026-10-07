@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
+| Zarlor Mercenary | 12371 | [12371-zarlor-mercenary.json](./12371-zarlor-mercenary.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
 | ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
+| Zomon: The Path of Heroes | 19208 | [19208-zomon-the-path-of-heroes.json](./19208-zomon-the-path-of-heroes.json) |
 | Zompell | 357439 | [357439-zompell.json](./357439-zompell.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
