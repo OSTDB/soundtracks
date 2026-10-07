@@ -6209,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Jr. | 38225 | [38225-simcity-jr.json](./38225-simcity-jr.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
 | SimCity Societies | 1491 | [1491-simcity-societies.json](./1491-simcity-societies.json) |
+| SimCity Societies: Destinations | 20181 | [20181-simcity-societies-destinations.json](./20181-simcity-societies-destinations.json) |
 | SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
 | SimCity: Enhanced CD-Rom | 208991 | [208991-simcity-enhanced-cd-rom.json](./208991-simcity-enhanced-cd-rom.json) |
 | SimCity: Limited Edition | 50870 | [50870-simcity-limited-edition.json](./50870-simcity-limited-edition.json) |
@@ -9298,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Empire | 255848 | [255848-solar-empire.json](./255848-solar-empire.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
+| Solar Fox | 18708 | [18708-solar-fox.json](./18708-solar-fox.json) |
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
@@ -12136,6 +12138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
 | Speedy Bally | 25873 | [25873-speedy-bally.json](./25873-speedy-bally.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
+| Speedy Eggbert | 18729 | [18729-speedy-eggbert.json](./18729-speedy-eggbert.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
 | Speedy Golf | 90843 | [90843-speedy-golf.json](./90843-speedy-golf.json) |
 | Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
@@ -20155,6 +20158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
+| Sweet Fuse: At Your Side | 20103 | [20103-sweet-fuse-at-your-side.json](./20103-sweet-fuse-at-your-side.json) |
 | Sweet Galaxy Adventure! | 118227 | [118227-sweet-galaxy-adventure.json](./118227-sweet-galaxy-adventure.json) |
 | Sweet Girl Adventure 2 | 106151 | [106151-sweet-girl-adventure-2.json](./106151-sweet-girl-adventure-2.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
