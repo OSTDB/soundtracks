@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
 | Viking Rush: Clan Defenders' Glory Clash Chronicle | 235147 | [235147-viking-rush-clan-defenders-glory-clash-chronicle.json](./235147-viking-rush-clan-defenders-glory-clash-chronicle.json) |
+| Viking Saga: The Cursed Ring | 34113 | [34113-viking-saga-the-cursed-ring.json](./34113-viking-saga-the-cursed-ring.json) |
 | Viking Sisters | 117812 | [117812-viking-sisters.json](./117812-viking-sisters.json) |
 | Viking Squad | 24837 | [24837-viking-squad.json](./24837-viking-squad.json) |
 | Viking Story | 158512 | [158512-viking-story.json](./158512-viking-story.json) |
