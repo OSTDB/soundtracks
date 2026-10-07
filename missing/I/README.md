@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am not legend | 192790 | [192790-i-am-not-legend.json](./192790-i-am-not-legend.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I Am Overburdened | 74212 | [74212-i-am-overburdened.json](./74212-i-am-overburdened.json) |
+| I Am Part-time Worker!! | 303549 | [303549-i-am-part-time-worker.json](./303549-i-am-part-time-worker.json) |
 | I Am Reptile | 345086 | [345086-i-am-reptile.json](./345086-i-am-reptile.json) |
 | I Am Ripper | 342772 | [342772-i-am-ripper.json](./342772-i-am-ripper.json) |
 | I Am Robot | 340499 | [340499-i-am-robot.json](./340499-i-am-robot.json) |
@@ -2481,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
+| Inkonbini: One Store. Many Stories | 294592 | [294592-inkonbini-one-store-many-stories.json](./294592-inkonbini-one-store-many-stories.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
 | Inkression | 303583 | [303583-inkression.json](./303583-inkression.json) |
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
