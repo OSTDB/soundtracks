@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
+| Paradise Cracked | 71647 | [71647-paradise-cracked.json](./71647-paradise-cracked.json) |
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Duty | 185498 | [185498-paradise-duty.json](./185498-paradise-duty.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Tails Collaboration Pack | 143580 | [143580-phantasy-star-online-2-tails-collaboration-pack.json](./143580-phantasy-star-online-2-tails-collaboration-pack.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
+| Phantasy Star Online Episode I & II Plus | 79149 | [79149-phantasy-star-online-episode-i-and-ii-plus.json](./79149-phantasy-star-online-episode-i-and-ii-plus.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
 | Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
 | Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
@@ -3442,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
+| PickCrafter | 76537 | [76537-pickcrafter.json](./76537-pickcrafter.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
 | Pickers | 10572 | [10572-pickers.json](./10572-pickers.json) |
 | Pickers: Adventures in Rust | 209967 | [209967-pickers-adventures-in-rust.json](./209967-pickers-adventures-in-rust.json) |
@@ -3798,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
+| Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
 | Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
@@ -4354,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
+| Pirates of the Caribbean Online | 81226 | [81226-pirates-of-the-caribbean-online.json](./81226-pirates-of-the-caribbean-online.json) |
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
@@ -6607,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
 | Polda 4 | 64598 | [64598-polda-4.json](./64598-polda-4.json) |
+| Polda 5 | 64590 | [64590-polda-5.json](./64590-polda-5.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
