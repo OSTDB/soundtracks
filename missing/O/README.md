@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
 | Off-Score: A Game of Songs | 334159 | [334159-off-score-a-game-of-songs.json](./334159-off-score-a-game-of-songs.json) |
 | Off-the-Ground Survival | 364081 | [364081-off-the-ground-survival.json](./364081-off-the-ground-survival.json) |
+| Off-World Interceptor | 4294 | [4294-off-world-interceptor.json](./4294-off-world-interceptor.json) |
 | Off-world Prospecting | 347365 | [347365-off-world-prospecting.json](./347365-off-world-prospecting.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
+| Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
