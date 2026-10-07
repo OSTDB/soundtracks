@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
+| DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
 | Das Auge des Horus | 77248 | [77248-das-auge-des-horus.json](./77248-das-auge-des-horus.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
@@ -2393,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Box | 160302 | [160302-death-box.json](./160302-death-box.json) |
+| Death Bringer | 45869 | [45869-death-bringer.json](./45869-death-bringer.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
 | Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
+| Dimo's Quest | 45892 | [45892-dimos-quest.json](./45892-dimos-quest.json) |
 | Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
@@ -9582,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubz.hu | 416019 | [416019-dubz-hu.json](./416019-dubz-hu.json) |
 | Ducati Challenge | 118892 | [118892-ducati-challenge.json](./118892-ducati-challenge.json) |
 | Ducati World Championship | 19353 | [19353-ducati-world-championship.json](./19353-ducati-world-championship.json) |
+| Ducati World: Racing Challenge | 45856 | [45856-ducati-world-racing-challenge.json](./45856-ducati-world-racing-challenge.json) |
 | Duck 'n' Cover | 75869 | [75869-duck-n-cover.json](./75869-duck-n-cover.json) |
 | Duck Adventure | 210646 | [210646-duck-adventure.json](./210646-duck-adventure.json) |
 | Duck and the Land of Flightless Birds | 189932 | [189932-duck-and-the-land-of-flightless-birds.json](./189932-duck-and-the-land-of-flightless-birds.json) |
@@ -10557,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
 | Dynamic Chord feat. Rêve Parfait | 140304 | [140304-dynamic-chord-feat-reve-parfait.json](./140304-dynamic-chord-feat-reve-parfait.json) |
 | Dynamic Chord feat.Liar-s Remaster Edition | 363031 | [363031-dynamic-chord-feat-liar-s-remaster-edition.json](./363031-dynamic-chord-feat-liar-s-remaster-edition.json) |
+| Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
