@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Galaxy | 115681 | [115681-edge-of-galaxy.json](./115681-edge-of-galaxy.json) |
 | Edge of Galaxy | 344574 | [344574-edge-of-galaxy.json](./344574-edge-of-galaxy.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
+| Edge of Insanity | 40709 | [40709-edge-of-insanity.json](./40709-edge-of-insanity.json) |
 | Edge of Memories | 333201 | [333201-edge-of-memories.json](./333201-edge-of-memories.json) |
 | Edge of Nowhere | 11159 | [11159-edge-of-nowhere.json](./11159-edge-of-nowhere.json) |
 | Edge of Reality: Call of the Hills - Collector's Edition | 397149 | [397149-edge-of-reality-call-of-the-hills-collectors-edition.json](./397149-edge-of-reality-call-of-the-hills-collectors-edition.json) |
@@ -1893,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore! | 372557 | [372557-encore.json](./372557-encore.json) |
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
+| Encounter At L5 | 40673 | [40673-encounter-at-l5.json](./40673-encounter-at-l5.json) |
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
