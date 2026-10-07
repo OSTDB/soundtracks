@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
 | Cart To The End | 306598 | [306598-cart-to-the-end.json](./306598-cart-to-the-end.json) |
+| Cart World Series | 43834 | [43834-cart-world-series.json](./43834-cart-world-series.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
