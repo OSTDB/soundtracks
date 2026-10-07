@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake of Creatures | 190990 | [190990-lake-of-creatures.json](./190990-lake-of-creatures.json) |
 | Lake of Darkness | 351116 | [351116-lake-of-darkness.json](./351116-lake-of-darkness.json) |
 | Lake of Shadows | 165548 | [165548-lake-of-shadows.json](./165548-lake-of-shadows.json) |
+| Lake of Voices | 84020 | [84020-lake-of-voices.json](./84020-lake-of-voices.json) |
 | Lake Ridden | 27943 | [27943-lake-ridden.json](./27943-lake-ridden.json) |
 | Lake Road | 173242 | [173242-lake-road.json](./173242-lake-road.json) |
 | Lake Stillwater | 404442 | [404442-lake-stillwater.json](./404442-lake-stillwater.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | LEGO: Nexo Knights - Merlok 2.0 | 101021 | [101021-lego-nexo-knights-merlok-2-0.json](./101021-lego-nexo-knights-merlok-2-0.json) |
 | Legofaction | 305288 | [305288-legofaction.json](./305288-legofaction.json) |
+| Legoland | 78777 | [78777-legoland.json](./78777-legoland.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm - Bonus Episode: Farewell | 91247 | [91247-life-is-strange-before-the-storm-bonus-episode-farewell.json](./91247-life-is-strange-before-the-storm-bonus-episode-farewell.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
 | Life is Strange: Before the Storm - Episode 2: Brave New World | 81105 | [81105-life-is-strange-before-the-storm-episode-2-brave-new-world.json](./81105-life-is-strange-before-the-storm-episode-2-brave-new-world.json) |
+| Life is Strange: Before the Storm - Episode 3: Hell Is Empty | 81106 | [81106-life-is-strange-before-the-storm-episode-3-hell-is-empty.json](./81106-life-is-strange-before-the-storm-episode-3-hell-is-empty.json) |
 | Life is Strange: Before the Storm - Limited Edition | 82432 | [82432-life-is-strange-before-the-storm-limited-edition.json](./82432-life-is-strange-before-the-storm-limited-edition.json) |
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
