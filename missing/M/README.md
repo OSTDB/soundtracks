@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
+| Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
@@ -1633,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of Law \| Judge simulator | 81165 | [81165-man-of-law-judge-simulator.json](./81165-man-of-law-judge-simulator.json) |
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
+| Man of the House | 127792 | [127792-man-of-the-house.json](./127792-man-of-the-house.json) |
 | Man of the World | 156074 | [156074-man-of-the-world.json](./156074-man-of-the-world.json) |
 | Man of War | 62287 | [62287-man-of-war.json](./62287-man-of-war.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
@@ -6292,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
+| MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
@@ -7059,6 +7062,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Episode 3: The Last Place You Look | 91296 | [91296-minecraft-story-mode-episode-3-the-last-place-you-look.json](./91296-minecraft-story-mode-episode-3-the-last-place-you-look.json) |
 | Minecraft: Story Mode - Episode 4: A Block and a Hard Place | 91297 | [91297-minecraft-story-mode-episode-4-a-block-and-a-hard-place.json](./91297-minecraft-story-mode-episode-4-a-block-and-a-hard-place.json) |
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
+| Minecraft: Story Mode - Episode 6: A Portal to Mystery | 127054 | [127054-minecraft-story-mode-episode-6-a-portal-to-mystery.json](./127054-minecraft-story-mode-episode-6-a-portal-to-mystery.json) |
+| Minecraft: Story Mode - Episode 7: Access Denied | 127055 | [127055-minecraft-story-mode-episode-7-access-denied.json](./127055-minecraft-story-mode-episode-7-access-denied.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
@@ -9656,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moribund Gold: A Pirate Adventure | 401054 | [401054-moribund-gold-a-pirate-adventure.json](./401054-moribund-gold-a-pirate-adventure.json) |
 | Moribunderland | 183964 | [183964-moribunderland.json](./183964-moribunderland.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
+| Morimiya Middle School Shooting | 134131 | [134131-morimiya-middle-school-shooting.json](./134131-morimiya-middle-school-shooting.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
@@ -10439,6 +10445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bean: Flying Teddy | 112139 | [112139-mr-bean-flying-teddy.json](./112139-mr-bean-flying-teddy.json) |
 | Mr Blaster | 41942 | [41942-mr-blaster.json](./41942-mr-blaster.json) |
 | Mr Boom's Firework Factory | 114504 | [114504-mr-booms-firework-factory.json](./114504-mr-booms-firework-factory.json) |
+| Mr Bullet | 130292 | [130292-mr-bullet.json](./130292-mr-bullet.json) |
 | Mr Bullet 3D | 217769 | [217769-mr-bullet-3d.json](./217769-mr-bullet-3d.json) |
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
@@ -10659,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
+| Ms. Pac-Man | 131815 | [131815-ms-pac-man.json](./131815-ms-pac-man.json) |
 | Ms. Pac-Man | 198832 | [198832-ms-pac-man.json](./198832-ms-pac-man.json) |
 | Ms. Pac-Man | 213870 | [213870-ms-pac-man.json](./213870-ms-pac-man.json) |
 | Ms. Pac-Man | 213871 | [213871-ms-pac-man.json](./213871-ms-pac-man.json) |
