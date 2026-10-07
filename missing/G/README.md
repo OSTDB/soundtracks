@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Dice | 58898 | [58898-game-of-dice.json](./58898-game-of-dice.json) |
 | Game of Dragons | 218973 | [218973-game-of-dragons.json](./218973-game-of-dragons.json) |
 | Game of Earth: Build Your City | 243073 | [243073-game-of-earth-build-your-city.json](./243073-game-of-earth-build-your-city.json) |
+| Game of Emperors | 47166 | [47166-game-of-emperors.json](./47166-game-of-emperors.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Evolution | 310024 | [310024-game-of-evolution.json](./310024-game-of-evolution.json) |
 | Game of Fate | 319669 | [319669-game-of-fate.json](./319669-game-of-fate.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrett the Slug | 70613 | [70613-garrett-the-slug.json](./70613-garrett-the-slug.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
+| Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunter | 294162 | [294162-ghost-hunter.json](./294162-ghost-hunter.json) |
 | Ghost Hunter | 307685 | [307685-ghost-hunter.json](./307685-ghost-hunter.json) |
 | Ghost Hunter | 321359 | [321359-ghost-hunter.json](./321359-ghost-hunter.json) |
+| Ghost Hunters | 47149 | [47149-ghost-hunters.json](./47149-ghost-hunters.json) |
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost Hunters: Collector's Edition | 341021 | [341021-ghost-hunters-collectors-edition.json](./341021-ghost-hunters-collectors-edition.json) |
 | Ghost Hunting Journal | 399212 | [399212-ghost-hunting-journal.json](./399212-ghost-hunting-journal.json) |
@@ -4987,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
+| Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
