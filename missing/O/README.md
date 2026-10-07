@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
 | One Last Try | 219627 | [219627-one-last-try.json](./219627-one-last-try.json) |
+| One Late Night | 61397 | [61397-one-late-night.json](./61397-one-late-night.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
