@@ -8583,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
 | Dragonstomper | 18568 | [18568-dragonstomper.json](./18568-dragonstomper.json) |
+| Dragonstone | 13048 | [13048-dragonstone.json](./13048-dragonstone.json) |
 | Dragonstone: Kingdoms | 255056 | [255056-dragonstone-kingdoms.json](./255056-dragonstone-kingdoms.json) |
 | DragonStrike | 5467 | [5467-dragonstrike.json](./5467-dragonstrike.json) |
 | Dragonsweeper | 328076 | [328076-dragonsweeper.json](./328076-dragonsweeper.json) |
