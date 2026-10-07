@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacks or Better: Video Poker | 147855 | [147855-jacks-or-better-video-poker.json](./147855-jacks-or-better-video-poker.json) |
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
+| Jacksmith | 141340 | [141340-jacksmith.json](./141340-jacksmith.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
 | Jacktus Green: The Fluffy, the Spiky and the Spicy | 208826 | [208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json](./208826-jacktus-green-the-fluffy-the-spiky-and-the-spicy.json) |
