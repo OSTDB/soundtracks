@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstrayed | 289924 | [289924-unstrayed.json](./289924-unstrayed.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
+| UnSummoning: the Spectral Horde | 34058 | [34058-unsummoning-the-spectral-horde.json](./34058-unsummoning-the-spectral-horde.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
 | Unsung Escape | 356830 | [356830-unsung-escape.json](./356830-unsung-escape.json) |
 | Unsung Heroes 1898 | 352886 | [352886-unsung-heroes-1898.json](./352886-unsung-heroes-1898.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
+| Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
 | Upwords | 78356 | [78356-upwords.json](./78356-upwords.json) |
 | UpWords, Boggle, Hangman & Word Hunter Collection | 84291 | [84291-upwords-boggle-hangman-and-word-hunter-collection.json](./84291-upwords-boggle-hangman-and-word-hunter-collection.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
