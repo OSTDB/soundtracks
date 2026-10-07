@@ -5605,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
+| Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
