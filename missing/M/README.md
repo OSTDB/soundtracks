@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
 | Magician's Apprentice | 34587 | [34587-magicians-apprentice.json](./34587-magicians-apprentice.json) |
+| Magician's Saga | 54902 | [54902-magicians-saga.json](./54902-magicians-saga.json) |
 | Magicians & Looters | 17132 | [17132-magicians-and-looters.json](./17132-magicians-and-looters.json) |
 | Magicians Dead | 76544 | [76544-magicians-dead.json](./76544-magicians-dead.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
