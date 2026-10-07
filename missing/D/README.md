@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
+| Death Pirate | 35521 | [35521-death-pirate.json](./35521-death-pirate.json) |
 | Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
 | Death Plunder | 311174 | [311174-death-plunder.json](./311174-death-plunder.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
+| Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
 | Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
@@ -6392,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Daze Deluxe | 90900 | [90900-dog-daze-deluxe.json](./90900-dog-daze-deluxe.json) |
 | Dog Duty | 45884 | [45884-dog-duty.json](./45884-dog-duty.json) |
 | Dog Eat Dog: Scam to Survive | 153968 | [153968-dog-eat-dog-scam-to-survive.json](./153968-dog-eat-dog-scam-to-survive.json) |
+| Dog Fight | 35460 | [35460-dog-fight.json](./35460-dog-fight.json) |
 | Dog Fight | 39768 | [39768-dog-fight.json](./39768-dog-fight.json) |
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
@@ -9344,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Drone Wars VR | 163801 | [163801-drone-wars-vr.json](./163801-drone-wars-vr.json) |
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
+| Drone Zero Gravity | 35495 | [35495-drone-zero-gravity.json](./35495-drone-zero-gravity.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
@@ -9816,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
+| Duke: The Apocalypse | 35522 | [35522-duke-the-apocalypse.json](./35522-duke-the-apocalypse.json) |
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
