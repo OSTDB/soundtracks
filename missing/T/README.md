@@ -17089,6 +17089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Pack! | 361849 | [361849-travel-pack.json](./361849-travel-pack.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
+| Travel Riddles: Trip to Greece | 41908 | [41908-travel-riddles-trip-to-greece.json](./41908-travel-riddles-trip-to-greece.json) |
 | Travel Riddles: Trip to India | 29230 | [29230-travel-riddles-trip-to-india.json](./29230-travel-riddles-trip-to-india.json) |
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
