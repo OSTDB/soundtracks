@@ -5466,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
+| Shrek 2 | 3668 | [3668-shrek-2.json](./3668-shrek-2.json) |
 | Shrek 2 Activity Center: Twisted Fairy Tale Fun | 208994 | [208994-shrek-2-activity-center-twisted-fairy-tale-fun.json](./208994-shrek-2-activity-center-twisted-fairy-tale-fun.json) |
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek 2: Ogre Bowler | 208995 | [208995-shrek-2-ogre-bowler.json](./208995-shrek-2-ogre-bowler.json) |
@@ -8564,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Assault | 66932 | [66932-sniper-assault.json](./66932-sniper-assault.json) |
 | Sniper at Work | 329764 | [329764-sniper-at-work.json](./329764-sniper-at-work.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
+| Sniper Elite | 3077 | [3077-sniper-elite.json](./3077-sniper-elite.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
 | Sniper Elite 4 - Target: Führer | 213297 | [213297-sniper-elite-4-target-fuhrer.json](./213297-sniper-elite-4-target-fuhrer.json) |
@@ -14000,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
+| Star Wars: Episode III - Revenge of the Sith | 6159 | [6159-star-wars-episode-iii-revenge-of-the-sith.json](./6159-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
@@ -15374,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
 | Still It Runs | 350527 | [350527-still-it-runs.json](./350527-still-it-runs.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
+| Still Life | 6175 | [6175-still-life.json](./6175-still-life.json) |
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
@@ -15774,6 +15778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers World: The Swarm | 236365 | [236365-strangers-world-the-swarm.json](./236365-strangers-world-the-swarm.json) |
 | StrangerZ | 237435 | [237435-strangerz.json](./237435-strangerz.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
+| Stranglehold | 6146 | [6146-stranglehold.json](./6146-stranglehold.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
 | Strashilka | 118786 | [118786-strashilka.json](./118786-strashilka.json) |
@@ -16454,6 +16459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
+| Styx: Master of Shadows | 6072 | [6072-styx-master-of-shadows.json](./6072-styx-master-of-shadows.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
@@ -18346,6 +18352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Return to Dinosaur Land | 42525 | [42525-super-mario-world-return-to-dinosaur-land.json](./42525-super-mario-world-return-to-dinosaur-land.json) |
+| Super Mario World: Super Mario Advance 2 | 16617 | [16617-super-mario-world-super-mario-advance-2.json](./16617-super-mario-world-super-mario-advance-2.json) |
 | Super Mario World: The Huge Adventure | 267968 | [267968-super-mario-world-the-huge-adventure.json](./267968-super-mario-world-the-huge-adventure.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario World: The Magical Golden Mushroom | 409611 | [409611-super-mario-world-the-magical-golden-mushroom.json](./409611-super-mario-world-the-magical-golden-mushroom.json) |
@@ -19249,6 +19256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
+| Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
