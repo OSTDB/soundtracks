@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
 | Victor Vran: Fractured Worlds | 51790 | [51790-victor-vran-fractured-worlds.json](./51790-victor-vran-fractured-worlds.json) |
 | Victor Vran: Motörhead -Through the Ages | 51787 | [51787-victor-vran-motorhead-through-the-ages.json](./51787-victor-vran-motorhead-through-the-ages.json) |
+| Victor Vran: Overkill Edition | 27215 | [27215-victor-vran-overkill-edition.json](./27215-victor-vran-overkill-edition.json) |
 | Victor's Test Night: Reves | 346224 | [346224-victors-test-night-reves.json](./346224-victors-test-night-reves.json) |
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
