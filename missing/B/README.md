@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
+| Baldr Sky "Zero" | 54941 | [54941-baldr-sky-zero.json](./54941-baldr-sky-zero.json) |
 | Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
 | Baldr's Squid Isekai: A Parody | 273362 | [273362-baldrs-squid-isekai-a-parody.json](./273362-baldrs-squid-isekai-a-parody.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
@@ -3813,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Clouds | 74479 | [74479-beyond-clouds.json](./74479-beyond-clouds.json) |
 | Beyond Columns | 70450 | [70450-beyond-columns.json](./70450-beyond-columns.json) |
 | Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
+| Beyond Dark | 54916 | [54916-beyond-dark.json](./54916-beyond-dark.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
@@ -9670,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
 | Burden of 80 Proof | 230248 | [230248-burden-of-80-proof.json](./230248-burden-of-80-proof.json) |
+| Burden of Command | 54935 | [54935-burden-of-command.json](./54935-burden-of-command.json) |
 | Burden of Proof | 105198 | [105198-burden-of-proof.json](./105198-burden-of-proof.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
