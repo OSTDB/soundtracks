@@ -3545,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
 | Reveal! Multiplayer Edition | 232070 | [232070-reveal-multiplayer-edition.json](./232070-reveal-multiplayer-edition.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
+| Revector | 46516 | [46516-revector.json](./46516-revector.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
