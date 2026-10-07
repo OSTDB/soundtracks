@@ -5920,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
+| Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
 | Fotress S | 245985 | [245985-fotress-s.json](./245985-fotress-s.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
