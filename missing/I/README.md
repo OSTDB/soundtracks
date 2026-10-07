@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHRA Drag Racing 2 | 210078 | [210078-ihra-drag-racing-2.json](./210078-ihra-drag-racing-2.json) |
 | IHRA Drag Racing 2004 | 69921 | [69921-ihra-drag-racing-2004.json](./69921-ihra-drag-racing-2004.json) |
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
+| IHRA Professional Drag Racing 2005 | 43221 | [43221-ihra-professional-drag-racing-2005.json](./43221-ihra-professional-drag-racing-2005.json) |
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | Iii | 117539 | [117539-iii.json](./117539-iii.json) |
