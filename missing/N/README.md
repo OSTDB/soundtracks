@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Party In Paradise | 395808 | [395808-no-party-in-paradise.json](./395808-no-party-in-paradise.json) |
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
+| No Place Like Home | 142251 | [142251-no-place-like-home.json](./142251-no-place-like-home.json) |
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
 | No Prospect Company | 99087 | [99087-no-prospect-company.json](./99087-no-prospect-company.json) |
