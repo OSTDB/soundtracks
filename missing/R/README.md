@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
+| Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
