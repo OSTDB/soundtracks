@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
 | Keeper | 154354 | [154354-keeper.json](./154354-keeper.json) |
 | Keeper | 213347 | [213347-keeper.json](./213347-keeper.json) |
+| Keeper | 348217 | [348217-keeper.json](./348217-keeper.json) |
 | Keeper | 91388 | [91388-keeper.json](./91388-keeper.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Fate | 201575 | [201575-knights-of-fate.json](./201575-knights-of-fate.json) |
 | Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
+| Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
 | Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
