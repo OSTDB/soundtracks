@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | EFootball 2026 by Felix Pro | 395200 | [395200-efootball-2026-by-felix-pro.json](./395200-efootball-2026-by-felix-pro.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
+| eFootball PES 2021 Season Update | 135881 | [135881-efootball-pes-2021-season-update.json](./135881-efootball-pes-2021-season-update.json) |
 | eFootball: Lamine Yamal Edition 2026 | 361246 | [361246-efootball-lamine-yamal-edition-2026.json](./361246-efootball-lamine-yamal-edition-2026.json) |
 | eFootball: Lamine Yamal Edition 2026 - Deluxe | 361247 | [361247-efootball-lamine-yamal-edition-2026-deluxe.json](./361247-efootball-lamine-yamal-edition-2026-deluxe.json) |
 | eFootball: Leo Messi Edition 2026 | 361244 | [361244-efootball-leo-messi-edition-2026.json](./361244-efootball-leo-messi-edition-2026.json) |
@@ -3047,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Ayuwoki Demake | 201146 | [201146-escape-the-ayuwoki-demake.json](./201146-escape-the-ayuwoki-demake.json) |
 | Escape The Ayuwoki Horror Fort | 242011 | [242011-escape-the-ayuwoki-horror-fort.json](./242011-escape-the-ayuwoki-horror-fort.json) |
 | Escape the Ayuwoki: The Summoning | 171347 | [171347-escape-the-ayuwoki-the-summoning.json](./171347-escape-the-ayuwoki-the-summoning.json) |
+| Escape the Backrooms | 197202 | [197202-escape-the-backrooms.json](./197202-escape-the-backrooms.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
