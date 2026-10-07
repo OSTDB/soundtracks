@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
 | VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
+| Velocity 2X | 8467 | [8467-velocity-2x.json](./8467-velocity-2x.json) |
 | Velocity 2X: Critical Mass Edition | 167039 | [167039-velocity-2x-critical-mass-edition.json](./167039-velocity-2x-critical-mass-edition.json) |
 | Velocity 2X: Critical Urgency DLC Pack | 250375 | [250375-velocity-2x-critical-urgency-dlc-pack.json](./250375-velocity-2x-critical-urgency-dlc-pack.json) |
 | Velocity 2X: Daily Sprint | 250380 | [250380-velocity-2x-daily-sprint.json](./250380-velocity-2x-daily-sprint.json) |
@@ -1254,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Survivors | 243623 | [243623-viking-survivors.json](./243623-viking-survivors.json) |
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
+| Viking: Battle for Asgard | 7234 | [7234-viking-battle-for-asgard.json](./7234-viking-battle-for-asgard.json) |
 | Viking: Sigurd's Adventure | 115000 | [115000-viking-sigurds-adventure.json](./115000-viking-sigurds-adventure.json) |
 | Viking's Drakkars | 95235 | [95235-vikings-drakkars.json](./95235-vikings-drakkars.json) |
 | Viking's Tavern | 355153 | [355153-vikings-tavern.json](./355153-vikings-tavern.json) |
