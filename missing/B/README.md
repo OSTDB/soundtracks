@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
+| Baby Bug | 14279 | [14279-baby-bug.json](./14279-baby-bug.json) |
 | Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
 | Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
 | Backgaminion | 244920 | [244920-backgaminion.json](./244920-backgaminion.json) |
 | Backgammon | 131512 | [131512-backgammon.json](./131512-backgammon.json) |
+| Backgammon | 14280 | [14280-backgammon.json](./14280-backgammon.json) |
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
@@ -848,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Physics Draw Puzzles 2 | 187356 | [187356-ball-physics-draw-puzzles-2.json](./187356-ball-physics-draw-puzzles-2.json) |
 | Ball Pit King 3D | 276257 | [276257-ball-pit-king-3d.json](./276257-ball-pit-king-3d.json) |
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
+| Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
 | Ball Revamped | 381187 | [381187-ball-revamped.json](./381187-ball-revamped.json) |
@@ -1891,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baston | 388344 | [388344-baston.json](./388344-baston.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
+| Bat 'n Ball | 14477 | [14477-bat-n-ball.json](./14477-bat-n-ball.json) |
 | Bat & Ball | 362386 | [362386-bat-and-ball.json](./362386-bat-and-ball.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
@@ -8704,7 +8708,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
 | Bride of Frankenstein | 39118 | [39118-bride-of-frankenstein.json](./39118-bride-of-frankenstein.json) |
 | Bride of the Full Moon | 254616 | [254616-bride-of-the-full-moon.json](./254616-bride-of-the-full-moon.json) |
+| Bride of the Robot | 14347 | [14347-bride-of-the-robot.json](./14347-bride-of-the-robot.json) |
 | Bride of the Twilight | 254610 | [254610-bride-of-the-twilight.json](./254610-bride-of-the-twilight.json) |
+| Brides of Dracula | 14348 | [14348-brides-of-dracula.json](./14348-brides-of-dracula.json) |
 | Bridg | 149438 | [149438-bridg.json](./149438-bridg.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
@@ -9397,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
 | Bug Too! | 45524 | [45524-bug-too.json](./45524-bug-too.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
+| Bug World | 14472 | [14472-bug-world.json](./14472-bug-world.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bug’s Quest for Tapes | 354570 | [354570-bug-s-quest-for-tapes.json](./354570-bug-s-quest-for-tapes.json) |
 | BugAboo | 391796 | [391796-bugaboo.json](./391796-bugaboo.json) |
