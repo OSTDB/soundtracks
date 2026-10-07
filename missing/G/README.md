@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
+| Gakuen Idolmaster | 300789 | [300789-gakuen-idolmaster.json](./300789-gakuen-idolmaster.json) |
 | Gakuen K: Wonderful School Days - V Edition | 108826 | [108826-gakuen-k-wonderful-school-days-v-edition.json](./108826-gakuen-k-wonderful-school-days-v-edition.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
@@ -1376,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
+| Gears of War | 318793 | [318793-gears-of-war.json](./318793-gears-of-war.json) |
 | Gears of War 2: Combustible Map Pack | 299997 | [299997-gears-of-war-2-combustible-map-pack.json](./299997-gears-of-war-2-combustible-map-pack.json) |
 | Gears of War 2: Flashback Map Pack | 299996 | [299996-gears-of-war-2-flashback-map-pack.json](./299996-gears-of-war-2-flashback-map-pack.json) |
 | Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
@@ -2206,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
+| Ghost Trick: Phantom Detective | 236660 | [236660-ghost-trick-phantom-detective.json](./236660-ghost-trick-phantom-detective.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
 | Ghost Vibration | 43420 | [43420-ghost-vibration.json](./43420-ghost-vibration.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
@@ -3510,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going My Way? | 406927 | [406927-going-my-way.json](./406927-going-my-way.json) |
 | Going Nowhere: The Dream | 74383 | [74383-going-nowhere-the-dream.json](./74383-going-nowhere-the-dream.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
+| Going Under | 122662 | [122662-going-under.json](./122662-going-under.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
 | Going Up? | 120124 | [120124-going-up.json](./120124-going-up.json) |
 | Going Up?? | 282789 | [282789-going-up.json](./282789-going-up.json) |
