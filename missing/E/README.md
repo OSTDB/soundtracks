@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Air Hockey | 323960 | [323960-electro-air-hockey.json](./323960-electro-air-hockey.json) |
 | Electro Air Hockey: Under the Mallet | 323957 | [323957-electro-air-hockey-under-the-mallet.json](./323957-electro-air-hockey-under-the-mallet.json) |
 | Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
+| Electro Farmer | 15836 | [15836-electro-farmer.json](./15836-electro-farmer.json) |
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro Game Collection | 301366 | [301366-electro-game-collection.json](./301366-electro-game-collection.json) |
 | Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
+| Emerald Dragon | 15834 | [15834-emerald-dragon.json](./15834-emerald-dragon.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
