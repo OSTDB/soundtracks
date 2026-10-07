@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
 | NCAA: Road to the Final Four 2 | 15506 | [15506-ncaa-road-to-the-final-four-2.json](./15506-ncaa-road-to-the-final-four-2.json) |
 | NCH: Chronos Rebirth | 403788 | [403788-nch-chronos-rebirth.json](./403788-nch-chronos-rebirth.json) |
+| NCIS: Hidden Crimes | 56921 | [56921-ncis-hidden-crimes.json](./56921-ncis-hidden-crimes.json) |
 | NCL: USA Bowl | 237298 | [237298-ncl-usa-bowl.json](./237298-ncl-usa-bowl.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
 | Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
 | Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
+| Ninja Spinki Challenges!! | 56904 | [56904-ninja-spinki-challenges.json](./56904-ninja-spinki-challenges.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
@@ -3966,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
+| Notes of Obsession | 56895 | [56895-notes-of-obsession.json](./56895-notes-of-obsession.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
