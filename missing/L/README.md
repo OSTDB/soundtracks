@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
+| Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Chaka King | 142733 | [142733-labyrinth-of-the-chaka-king.json](./142733-labyrinth-of-the-chaka-king.json) |
 | Labyrinth of the Witch | 118268 | [118268-labyrinth-of-the-witch.json](./118268-labyrinth-of-the-witch.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
+| Letters | 57502 | [57502-letters.json](./57502-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters From a Rainy Day: Oceans and Lace | 152812 | [152812-letters-from-a-rainy-day-oceans-and-lace.json](./152812-letters-from-a-rainy-day-oceans-and-lace.json) |
 | Letters From Nowhere | 54165 | [54165-letters-from-nowhere.json](./54165-letters-from-nowhere.json) |
