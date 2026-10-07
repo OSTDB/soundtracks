@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
+| Viridi | 35099 | [35099-viridi.json](./35099-viridi.json) |
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Viridian Sage | 256990 | [256990-viridian-sage.json](./256990-viridian-sage.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtualSociety | 413192 | [413192-virtualsociety.json](./413192-virtualsociety.json) |
 | VirtualSociety Online | 142328 | [142328-virtualsociety-online.json](./142328-virtualsociety-online.json) |
 | Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
+| VirtuaVerse | 36850 | [36850-virtuaverse.json](./36850-virtuaverse.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
