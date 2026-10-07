@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xi (sai) Little | 37314 | [37314-xi-sai-little.json](./37314-xi-sai-little.json) |
 | Xi Coliseum | 334216 | [334216-xi-coliseum.json](./334216-xi-coliseum.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
+| Xia-Xia | 9745 | [9745-xia-xia.json](./9745-xia-xia.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
 | Xialuo: Kill All Flowers | 284613 | [284613-xialuo-kill-all-flowers.json](./284613-xialuo-kill-all-flowers.json) |
 | Xiama | 69813 | [69813-xiama.json](./69813-xiama.json) |
