@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mealmate | 388308 | [388308-mealmate.json](./388308-mealmate.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
+| Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
@@ -4067,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
+| Medieval Story | 47162 | [47162-medieval-story.json](./47162-medieval-story.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
@@ -5577,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
+| Meteoric Shower | 47176 | [47176-meteoric-shower.json](./47176-meteoric-shower.json) |
 | Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
