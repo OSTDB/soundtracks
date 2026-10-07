@@ -4209,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
+| Chocobo GP | 172426 | [172426-chocobo-gp.json](./172426-chocobo-gp.json) |
 | Chocobo Kwehst | 269775 | [269775-chocobo-kwehst.json](./269775-chocobo-kwehst.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
@@ -9546,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Slots | 395241 | [395241-creepy-slots.json](./395241-creepy-slots.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale | 128252 | [128252-creepy-tale.json](./128252-creepy-tale.json) |
+| Creepy Tale 2 | 154262 | [154262-creepy-tale-2.json](./154262-creepy-tale-2.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
 | Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
@@ -11128,6 +11130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custodian: Beginning of the End | 154069 | [154069-custodian-beginning-of-the-end.json](./154069-custodian-beginning-of-the-end.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
+| Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
 | Custom Mate 2 | 368064 | [368064-custom-mate-2.json](./368064-custom-mate-2.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
