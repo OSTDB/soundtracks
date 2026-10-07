@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H2O | 99114 | [99114-h2o.json](./99114-h2o.json) |
+| H2O: A Diabolic Game | 14473 | [14473-h2o-a-diabolic-game.json](./14473-h2o-a-diabolic-game.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
 | H2O: High speed Boat Racing | 262403 | [262403-h2o-high-speed-boat-racing.json](./262403-h2o-high-speed-boat-racing.json) |
 | H7N9 | 305752 | [305752-h7n9.json](./305752-h7n9.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
 | HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
 | Hexworld | 180794 | [180794-hexworld.json](./180794-hexworld.json) |
+| Hexxagon | 14479 | [14479-hexxagon.json](./14479-hexxagon.json) |
 | Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxaris | 301817 | [301817-hexxaris.json](./301817-hexxaris.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
