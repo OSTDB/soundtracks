@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkure Romanze Re:tell II | 194626 | [194626-walkure-romanze-re-tell-ii.json](./194626-walkure-romanze-re-tell-ii.json) |
 | Walkure Romanze: Shoujo Kishi Monogatari | 194591 | [194591-walkure-romanze-shoujo-kishi-monogatari.json](./194591-walkure-romanze-shoujo-kishi-monogatari.json) |
 | Wall Ball | 282244 | [282244-wall-ball.json](./282244-wall-ball.json) |
+| Wall Ball | 40681 | [40681-wall-ball.json](./40681-wall-ball.json) |
 | Wall Break | 172658 | [172658-wall-break.json](./172658-wall-break.json) |
 | Wall Clip | 183028 | [183028-wall-clip.json](./183028-wall-clip.json) |
 | Wall Force | 123509 | [123509-wall-force.json](./123509-wall-force.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
 | Water Rain | 158077 | [158077-water-rain.json](./158077-water-rain.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
+| Water Ski | 40712 | [40712-water-ski.json](./40712-water-ski.json) |
 | Water Sort Challenge | 340521 | [340521-water-sort-challenge.json](./340521-water-sort-challenge.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
 | Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
