@@ -5556,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
 | PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
+| PlayStation Home | 80196 | [80196-playstation-home.json](./80196-playstation-home.json) |
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
@@ -6603,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
+| Polda 4 | 64598 | [64598-polda-4.json](./64598-polda-4.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
@@ -7990,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
+| Primal Carnage: Extinction | 17804 | [17804-primal-carnage-extinction.json](./17804-primal-carnage-extinction.json) |
 | Primal Carnage: Extinction - Mercenary Megapack | 241963 | [241963-primal-carnage-extinction-mercenary-megapack.json](./241963-primal-carnage-extinction-mercenary-megapack.json) |
 | Primal Carnage: Extinction - Prehistoric Legacy | 241962 | [241962-primal-carnage-extinction-prehistoric-legacy.json](./241962-primal-carnage-extinction-prehistoric-legacy.json) |
 | Primal Carnage: Extinction - Ultimate Bruiser Pack | 274973 | [274973-primal-carnage-extinction-ultimate-bruiser-pack.json](./274973-primal-carnage-extinction-ultimate-bruiser-pack.json) |
