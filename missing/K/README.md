@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawanakajima no Kassen | 76948 | [76948-kawanakajima-no-kassen.json](./76948-kawanakajima-no-kassen.json) |
+| Kawasaki Caribbean Challenge | 42508 | [42508-kawasaki-caribbean-challenge.json](./42508-kawasaki-caribbean-challenge.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
@@ -1283,6 +1284,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
+| Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
+| Kidou Senshi Z-Gundam: Away to the NewType | 42517 | [42517-kidou-senshi-z-gundam-away-to-the-newtype.json](./42517-kidou-senshi-z-gundam-away-to-the-newtype.json) |
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
@@ -2183,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishi Fujii Souta no Shogi Training | 136830 | [136830-kishi-fujii-souta-no-shogi-training.json](./136830-kishi-fujii-souta-no-shogi-training.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Battle Raiden | 67613 | [67613-kishin-douji-zenki-battle-raiden.json](./67613-kishin-douji-zenki-battle-raiden.json) |
+| Kishin Douji Zenki: Denei Raibu | 42538 | [42538-kishin-douji-zenki-denei-raibu.json](./42538-kishin-douji-zenki-denei-raibu.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
@@ -3375,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
 | Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
+| Kunio's Dodgeball Time, C'mon Guys! | 42516 | [42516-kunios-dodgeball-time-cmon-guys.json](./42516-kunios-dodgeball-time-cmon-guys.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
 | Kunkun Battles | 292244 | [292244-kunkun-battles.json](./292244-kunkun-battles.json) |
 | KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
@@ -3488,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
+| Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
