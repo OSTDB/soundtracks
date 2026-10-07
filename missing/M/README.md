@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
+| Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
 | Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
@@ -4573,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | Megami Tensei QIX: Persona 3 | 289392 | [289392-megami-tensei-qix-persona-3.json](./289392-megami-tensei-qix-persona-3.json) |
+| Megamind: Mega Team Unite | 51061 | [51061-megamind-mega-team-unite.json](./51061-megamind-mega-team-unite.json) |
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
 | Megan The Fox | 287331 | [287331-megan-the-fox.json](./287331-megan-the-fox.json) |
@@ -7153,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
+| MiniCopter: Adventure Flight | 51064 | [51064-minicopter-adventure-flight.json](./51064-minicopter-adventure-flight.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
@@ -8481,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
+| Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
 | Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
@@ -10100,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Business: Die Welt der Filme | 388716 | [388716-movie-business-die-welt-der-filme.json](./388716-movie-business-die-welt-der-filme.json) |
+| Movie Games | 51062 | [51062-movie-games.json](./51062-movie-games.json) |
 | Movie Grid | 319222 | [319222-movie-grid.json](./319222-movie-grid.json) |
 | Movie Night | 310560 | [310560-movie-night.json](./310560-movie-night.json) |
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
@@ -11246,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fishing Desktop | 360724 | [360724-my-fishing-desktop.json](./360724-my-fishing-desktop.json) |
 | My Fitness | 92049 | [92049-my-fitness.json](./92049-my-fitness.json) |
 | My Fitness Coach | 78661 | [78661-my-fitness-coach.json](./78661-my-fitness-coach.json) |
+| My Fitness Coach 2: Exercise and Nutrition | 51066 | [51066-my-fitness-coach-2-exercise-and-nutrition.json](./51066-my-fitness-coach-2-exercise-and-nutrition.json) |
 | My Flower | 266888 | [266888-my-flower.json](./266888-my-flower.json) |
 | My Fluffy Life | 163745 | [163745-my-fluffy-life.json](./163745-my-fluffy-life.json) |
 | My Football Game | 206770 | [206770-my-football-game.json](./206770-my-football-game.json) |
@@ -11836,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
 | MySims Camera | 67631 | [67631-mysims-camera.json](./67631-mysims-camera.json) |
+| MySims Collection | 51057 | [51057-mysims-collection.json](./51057-mysims-collection.json) |
 | MySims Friends | 323835 | [323835-mysims-friends.json](./323835-mysims-friends.json) |
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
