@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallium | 362417 | [362417-gallium.json](./362417-gallium.json) |
+| Gallop & Ride! | 51073 | [51073-gallop-and-ride.json](./51073-gallop-and-ride.json) |
 | Gallop Champion | 286225 | [286225-gallop-champion.json](./286225-gallop-champion.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
 | Gallop Racer | 13659 | [13659-gallop-racer.json](./13659-gallop-racer.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
+| Glacier 2 | 51046 | [51046-glacier-2.json](./51046-glacier-2.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
 | Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
@@ -3003,6 +3005,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
 | Go Plane | 87041 | [87041-go-plane.json](./87041-go-plane.json) |
+| Go Play Circus Star | 51075 | [51075-go-play-circus-star.json](./51075-go-play-circus-star.json) |
+| Go Play City Sports | 51076 | [51076-go-play-city-sports.json](./51076-go-play-city-sports.json) |
+| Go Play Lumberjacks | 51077 | [51077-go-play-lumberjacks.json](./51077-go-play-lumberjacks.json) |
 | Go Professional II | 84473 | [84473-go-professional-ii.json](./84473-go-professional-ii.json) |
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
@@ -3487,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
+| Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Golden Apple | 298802 | [298802-golden-apple.json](./298802-golden-apple.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
