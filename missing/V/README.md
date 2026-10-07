@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
 | Ventilate | 337305 | [337305-ventilate.json](./337305-ventilate.json) |
+| Ventilator | 57474 | [57474-ventilator.json](./57474-ventilator.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
 | Venture Forth | 32087 | [32087-venture-forth.json](./32087-venture-forth.json) |
