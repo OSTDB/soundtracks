@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Dawn of War IV | 361859 | [361859-warhammer-40-000-dawn-of-war-iv.json](./361859-warhammer-40-000-dawn-of-war-iv.json) |
 | Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
+| Warhammer 40,000: Eternal Crusade | 7630 | [7630-warhammer-40-000-eternal-crusade.json](./7630-warhammer-40-000-eternal-crusade.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Imperium Edition | 53902 | [53902-warhammer-40-000-eternal-crusade-imperium-edition.json](./53902-warhammer-40-000-eternal-crusade-imperium-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Squadron Edition | 53901 | [53901-warhammer-40-000-eternal-crusade-squadron-edition.json](./53901-warhammer-40-000-eternal-crusade-squadron-edition.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Titus | 93749 | [93749-warriors-of-titus.json](./93749-warriors-of-titus.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
+| Warriors Orochi 2 | 7243 | [7243-warriors-orochi-2.json](./7243-warriors-orochi-2.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
 | Way of the Samurai | 10156 | [10156-way-of-the-samurai.json](./10156-way-of-the-samurai.json) |
 | Way of the Samurai 2 | 10157 | [10157-way-of-the-samurai-2.json](./10157-way-of-the-samurai-2.json) |
+| Way of the Samurai 3 | 7247 | [7247-way-of-the-samurai-3.json](./7247-way-of-the-samurai-3.json) |
 | Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
 | Way of the Samurai Portable | 38486 | [38486-way-of-the-samurai-portable.json](./38486-way-of-the-samurai-portable.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
@@ -5086,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
+| Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
