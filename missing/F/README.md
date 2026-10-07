@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
 | Fallout 4: Edible Asbestos | 334933 | [334933-fallout-4-edible-asbestos.json](./334933-fallout-4-edible-asbestos.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
+| Fallout 4: Game of the Year Edition | 54612 | [54612-fallout-4-game-of-the-year-edition.json](./54612-fallout-4-game-of-the-year-edition.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
@@ -4209,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
 | Flatout Pixel Racing | 200462 | [200462-flatout-pixel-racing.json](./200462-flatout-pixel-racing.json) |
+| FlatOut: Ultimate Carnage | 3777 | [3777-flatout-ultimate-carnage.json](./3777-flatout-ultimate-carnage.json) |
 | Flats | 174840 | [174840-flats.json](./174840-flats.json) |
 | Flats Full of Cats | 379382 | [379382-flats-full-of-cats.json](./379382-flats-full-of-cats.json) |
 | Flats Full of Cats: Bugs & Bolts | 379384 | [379384-flats-full-of-cats-bugs-and-bolts.json](./379384-flats-full-of-cats-bugs-and-bolts.json) |
