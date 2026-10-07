@@ -471,6 +471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
 | Natalie Brooks Treasures of the Lost Kingdom | 143378 | [143378-natalie-brooks-treasures-of-the-lost-kingdom.json](./143378-natalie-brooks-treasures-of-the-lost-kingdom.json) |
+| Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
+| Natalie Brooks: Secrets of Treasure House | 54247 | [54247-natalie-brooks-secrets-of-treasure-house.json](./54247-natalie-brooks-secrets-of-treasure-house.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
@@ -539,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
+| Natural Threat: Ominous Shores | 54248 | [54248-natural-threat-ominous-shores.json](./54248-natural-threat-ominous-shores.json) |
 | Natural Unintelligence: Zueirama 2 | 345042 | [345042-natural-unintelligence-zueirama-2.json](./345042-natural-unintelligence-zueirama-2.json) |
 | Natural: Beyond Nature | 30887 | [30887-natural-beyond-nature.json](./30887-natural-beyond-nature.json) |
 | Naturalealia: Forest Determination | 157147 | [157147-naturalealia-forest-determination.json](./157147-naturalealia-forest-determination.json) |
@@ -1966,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Simulator Air Racing and The Statue of Liberty | 197650 | [197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json](./197650-new-york-simulator-air-racing-and-the-statue-of-liberty.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
+| New York Taxi: The Simulation | 54249 | [54249-new-york-taxi-the-simulation.json](./54249-new-york-taxi-the-simulation.json) |
 | New York Times Crosswords | 210105 | [210105-new-york-times-crosswords.json](./210105-new-york-times-crosswords.json) |
 | New York Times Crosswords | 44069 | [44069-new-york-times-crosswords.json](./44069-new-york-times-crosswords.json) |
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
@@ -2649,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares and Other True Stories | 229725 | [229725-nightmares-and-other-true-stories.json](./229725-nightmares-and-other-true-stories.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | Nightmares from the Deep Collection | 53419 | [53419-nightmares-from-the-deep-collection.json](./53419-nightmares-from-the-deep-collection.json) |
+| Nightmares from the Deep: Cursed Heart - Collector's Edition | 54250 | [54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json](./54250-nightmares-from-the-deep-cursed-heart-collectors-edition.json) |
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
 | Nightmares of Death | 96205 | [96205-nightmares-of-death.json](./96205-nightmares-of-death.json) |
@@ -2814,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine-Ball Roulette | 325672 | [325672-nine-ball-roulette.json](./325672-nine-ball-roulette.json) |
 | Nine-Tailed Okitsune Tale | 248023 | [248023-nine-tailed-okitsune-tale.json](./248023-nine-tailed-okitsune-tale.json) |
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
+| Ninepin Bowling | 54251 | [54251-ninepin-bowling.json](./54251-ninepin-bowling.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
@@ -3657,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
 | Non Euclidean Room | 356877 | [356877-non-euclidean-room.json](./356877-non-euclidean-room.json) |
+| Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
