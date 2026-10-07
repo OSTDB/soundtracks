@@ -4254,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Them All | 250513 | [250513-nuke-them-all.json](./250513-nuke-them-all.json) |
 | Nukepath | 219625 | [219625-nukepath.json](./219625-nukepath.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
+| Nukewar | 24807 | [24807-nukewar.json](./24807-nukewar.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
