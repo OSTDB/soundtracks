@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
 | Fear Effect | 320361 | [320361-fear-effect.json](./320361-fear-effect.json) |
+| Fear Effect 2: Retro Helix | 8601 | [8601-fear-effect-2-retro-helix.json](./8601-fear-effect-2-retro-helix.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Warrior | 243728 | [243728-forgotten-warrior.json](./243728-forgotten-warrior.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
+| Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
 | Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
@@ -6673,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Pikmin | 308375 | [308375-friday-night-pikmin.json](./308375-friday-night-pikmin.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday Night Trepidation | 231470 | [231470-friday-night-trepidation.json](./231470-friday-night-trepidation.json) |
+| Friday the 13th | 8530 | [8530-friday-the-13th.json](./8530-friday-the-13th.json) |
 | Friday the 13th Revisited | 395706 | [395706-friday-the-13th-revisited.json](./395706-friday-the-13th-revisited.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
 | Friday the 13th: Killer Puzzle - Cyber Jason | 163476 | [163476-friday-the-13th-killer-puzzle-cyber-jason.json](./163476-friday-the-13th-killer-puzzle-cyber-jason.json) |
