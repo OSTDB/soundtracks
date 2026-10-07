@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
+| Incredible Crisis | 26637 | [26637-incredible-crisis.json](./26637-incredible-crisis.json) |
 | Incredible Dracula 3: Family Secret | 118765 | [118765-incredible-dracula-3-family-secret.json](./118765-incredible-dracula-3-family-secret.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula II: The Last Call | 53224 | [53224-incredible-dracula-ii-the-last-call.json](./53224-incredible-dracula-ii-the-last-call.json) |
