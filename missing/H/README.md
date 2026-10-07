@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
+| HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
 | Hands of Necromancy II | 278539 | [278539-hands-of-necromancy-ii.json](./278539-hands-of-necromancy-ii.json) |
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
 | Hands of the Sovereign | 372062 | [372062-hands-of-the-sovereign.json](./372062-hands-of-the-sovereign.json) |
@@ -1721,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Coach v3 | 70477 | [70477-head-coach-v3.json](./70477-head-coach-v3.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
+| Head It!: VR Soccer Heading Game | 30754 | [30754-head-it-vr-soccer-heading-game.json](./30754-head-it-vr-soccer-heading-game.json) |
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
 | Head over Heels | 322797 | [322797-head-over-heels.json](./322797-head-over-heels.json) |
