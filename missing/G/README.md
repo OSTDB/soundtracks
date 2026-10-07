@@ -4051,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorb | 29029 | [29029-gorb.json](./29029-gorb.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
+| Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
 | Gordian Snake | 139319 | [139319-gordian-snake.json](./139319-gordian-snake.json) |
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
@@ -4672,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
+| Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
+| Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
@@ -6090,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam Wing: Wing Assault | 315085 | [315085-gundam-wing-wing-assault.json](./315085-gundam-wing-wing-assault.json) |
+| Gundam: Battle Assault | 45006 | [45006-gundam-battle-assault.json](./45006-gundam-battle-assault.json) |
 | Gundam: The 3D Battle | 66113 | [66113-gundam-the-3d-battle.json](./66113-gundam-the-3d-battle.json) |
 | Gundam: The Battle Master | 75724 | [75724-gundam-the-battle-master.json](./75724-gundam-the-battle-master.json) |
 | Gundan: The Crowd Shooting | 205241 | [205241-gundan-the-crowd-shooting.json](./205241-gundan-the-crowd-shooting.json) |
