@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
 | Yuu Maze | 41307 | [41307-yuu-maze.json](./41307-yuu-maze.json) |
+| Yuu Yuu Jinsei | 37649 | [37649-yuu-yuu-jinsei.json](./37649-yuu-yuu-jinsei.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
