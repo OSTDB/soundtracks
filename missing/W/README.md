@@ -3943,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
+| Woeful Woebots | 37019 | [37019-woeful-woebots.json](./37019-woeful-woebots.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
 | Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
 | Wojdan | 90488 | [90488-wojdan.json](./90488-wojdan.json) |
