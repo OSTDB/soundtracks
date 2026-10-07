@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions World Class Soccer | 46229 | [46229-champions-world-class-soccer.json](./46229-champions-world-class-soccer.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
+| Championship Bass | 45229 | [45229-championship-bass.json](./45229-championship-bass.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
@@ -8930,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Bandicoot: Warped | 135451 | [135451-crash-bandicoot-warped.json](./135451-crash-bandicoot-warped.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
+| Crash Bash: Collector's Edition | 45212 | [45212-crash-bash-collectors-edition.json](./45212-crash-bash-collectors-edition.json) |
 | Crash Bugs Cake Defense | 353954 | [353954-crash-bugs-cake-defense.json](./353954-crash-bugs-cake-defense.json) |
 | Crash Cam | 251738 | [251738-crash-cam.json](./251738-crash-cam.json) |
 | Crash Car Mania | 318520 | [318520-crash-car-mania.json](./318520-crash-car-mania.json) |
@@ -10328,6 +10330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Journey | 260193 | [260193-crystal-journey.json](./260193-crystal-journey.json) |
 | Crystal Kingdom | 62818 | [62818-crystal-kingdom.json](./62818-crystal-kingdom.json) |
+| Crystal Kingdom Dizzy 2017 | 45238 | [45238-crystal-kingdom-dizzy-2017.json](./45238-crystal-kingdom-dizzy-2017.json) |
 | Crystal Legends | 342624 | [342624-crystal-legends.json](./342624-crystal-legends.json) |
 | Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
