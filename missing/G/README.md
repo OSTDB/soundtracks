@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
+| Galactic Civilizations | 10344 | [10344-galactic-civilizations.json](./10344-galactic-civilizations.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Arrangement | 132113 | [132113-galaga-arrangement.json](./132113-galaga-arrangement.json) |
 | Galaga Arrangement | 178409 | [178409-galaga-arrangement.json](./178409-galaga-arrangement.json) |
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
+| Galaga Legions DX | 10762 | [10762-galaga-legions-dx.json](./10762-galaga-legions-dx.json) |
 | Galaga Wars | 58309 | [58309-galaga-wars.json](./58309-galaga-wars.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
