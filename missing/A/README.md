@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
+| Airborne Empires | 31748 | [31748-airborne-empires.json](./31748-airborne-empires.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
 | Airborne Kingdom | 115473 | [115473-airborne-kingdom.json](./115473-airborne-kingdom.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Ceti TD | 389741 | [389741-alpha-ceti-td.json](./389741-alpha-ceti-td.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpha Command | 164871 | [164871-alpha-command.json](./164871-alpha-command.json) |
+| Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
 | Alpha Kimori: Great Doubt - Episode One | 16874 | [16874-alpha-kimori-great-doubt-episode-one.json](./16874-alpha-kimori-great-doubt-episode-one.json) |
@@ -7448,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
+| Arkham Nightmares | 31700 | [31700-arkham-nightmares.json](./31700-arkham-nightmares.json) |
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
@@ -9684,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviator | 13694 | [13694-aviator.json](./13694-aviator.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
+| Aviators | 31776 | [31776-aviators.json](./31776-aviators.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
 | Aviatrix | 279044 | [279044-aviatrix.json](./279044-aviatrix.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
