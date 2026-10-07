@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
+| Bear & Breakfast | 136772 | [136772-bear-and-breakfast.json](./136772-bear-and-breakfast.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
 | Bear Bovver | 13812 | [13812-bear-bovver.json](./13812-bear-bovver.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
@@ -6335,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodLight | 319696 | [319696-bloodlight.json](./319696-bloodlight.json) |
 | Bloodline | 255865 | [255865-bloodline.json](./255865-bloodline.json) |
 | Bloodline | 338252 | [338252-bloodline.json](./338252-bloodline.json) |
+| Bloodline Champions | 2352 | [2352-bloodline-champions.json](./2352-bloodline-champions.json) |
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
@@ -7381,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
+| Boom Blox | 2259 | [2259-boom-blox.json](./2259-boom-blox.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
@@ -7520,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Designer's Cut | 259759 | [259759-borderlands-3-designers-cut.json](./259759-borderlands-3-designers-cut.json) |
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
+| Borderlands 3: Moxxi's Heist of the Handsome Jackpot | 126138 | [126138-borderlands-3-moxxis-heist-of-the-handsome-jackpot.json](./126138-borderlands-3-moxxis-heist-of-the-handsome-jackpot.json) |
 | Borderlands 3: Next-Level Edition | 140897 | [140897-borderlands-3-next-level-edition.json](./140897-borderlands-3-next-level-edition.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
