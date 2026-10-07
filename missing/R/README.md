@@ -2978,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
+| Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
+| Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Dash: Time Management Simulator | 230927 | [230927-rescue-dash-time-management-simulator.json](./230927-rescue-dash-time-management-simulator.json) |
 | Rescue Frenzy | 53501 | [53501-rescue-frenzy.json](./53501-rescue-frenzy.json) |
 | Rescue Friends Solitaire | 156544 | [156544-rescue-friends-solitaire.json](./156544-rescue-friends-solitaire.json) |
@@ -3104,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
 | Resettle | 417573 | [417573-resettle.json](./417573-resettle.json) |
+| Resfort | 31687 | [31687-resfort.json](./31687-resfort.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
