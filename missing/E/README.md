@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
+| Evoland | 2029 | [2029-evoland.json](./2029-evoland.json) |
 | Evoland 2 | 11798 | [11798-evoland-2.json](./11798-evoland-2.json) |
 | Evoland Classic | 315652 | [315652-evoland-classic.json](./315652-evoland-classic.json) |
 | Evoland Legendary Edition | 114910 | [114910-evoland-legendary-edition.json](./114910-evoland-legendary-edition.json) |
@@ -4025,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
 | Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
+| Evolve | 3770 | [3770-evolve.json](./3770-evolve.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve Lab | 168639 | [168639-evolve-lab.json](./168639-evolve-lab.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
