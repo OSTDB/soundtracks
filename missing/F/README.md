@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Februus Depth | 271185 | [271185-februus-depth.json](./271185-februus-depth.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
+| Feda 2: White Surge the Platoon | 43840 | [43840-feda-2-white-surge-the-platoon.json](./43840-feda-2-white-surge-the-platoon.json) |
 | Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
 | Feda: The Emblem of Justice Remake | 45521 | [45521-feda-the-emblem-of-justice-remake.json](./45521-feda-the-emblem-of-justice-remake.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
@@ -5091,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Life 2025 | 325576 | [325576-football-life-2025.json](./325576-football-life-2025.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
 | Football Limited | 46720 | [46720-football-limited.json](./46720-football-limited.json) |
+| Football Madness | 43805 | [43805-football-madness.json](./43805-football-madness.json) |
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
