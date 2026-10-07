@@ -1854,15 +1854,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order Lostbelt No. 6: Avalon Le Fae | 346782 | [346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json](./346782-fate-grand-order-lostbelt-no-6-avalon-le-fae.json) |
 | Fate/Grand Order VR feat. Mash Kyrielight | 26933 | [26933-fate-grand-order-vr-feat-mash-kyrielight.json](./26933-fate-grand-order-vr-feat-mash-kyrielight.json) |
 | Fate/Grand Order Waltz in the Moonlight/Lostroom | 138703 | [138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json](./138703-fate-grand-order-waltz-in-the-moonlight-lostroom.json) |
+| Fate/Grand Order: Anti-Primate Biosphere, Tunguska Sanctuary | 415292 | [415292-fate-grand-order-anti-primate-biosphere-tunguska-sanctuary.json](./415292-fate-grand-order-anti-primate-biosphere-tunguska-sanctuary.json) |
 | Fate/Grand Order: Babylonia | 414462 | [414462-fate-grand-order-babylonia.json](./414462-fate-grand-order-babylonia.json) |
+| Fate/Grand Order: Cosmos in the Lostbelt - Prologue | 416798 | [416798-fate-grand-order-cosmos-in-the-lostbelt-prologue.json](./416798-fate-grand-order-cosmos-in-the-lostbelt-prologue.json) |
 | Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
+| Fate/Grand Order: Epic of Remnant II - Agartha | 417093 | [417093-fate-grand-order-epic-of-remnant-ii-agartha.json](./417093-fate-grand-order-epic-of-remnant-ii-agartha.json) |
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
 | Fate/Grand Order: Epic of Remnant IV - Salem | 414362 | [414362-fate-grand-order-epic-of-remnant-iv-salem.json](./414362-fate-grand-order-epic-of-remnant-iv-salem.json) |
 | Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Grand Order: Realm of the Thanatos Impulse, Traum - Life and Death of an Illusion | 416558 | [416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json](./416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json) |
+| Fate/Grand Order: Singularity III - Okeanos | 415658 | [415658-fate-grand-order-singularity-iii-okeanos.json](./415658-fate-grand-order-singularity-iii-okeanos.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
 | Fate/Samurai Remnant: Additional Episode 1 - Record's Fragment: Keian Command Championship | 286213 | [286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json](./286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json) |
