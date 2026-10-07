@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
+| M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
 | Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
 | Madden NFL 97 | 48972 | [48972-madden-nfl-97.json](./48972-madden-nfl-97.json) |
+| Madden NFL 99 | 779 | [779-madden-nfl-99.json](./779-madden-nfl-99.json) |
 | Madden NFL Football | 6845 | [6845-madden-nfl-football.json](./6845-madden-nfl-football.json) |
 | Madden NFL Football | 80472 | [80472-madden-nfl-football.json](./80472-madden-nfl-football.json) |
 | Madden NFL Mobile | 39182 | [39182-madden-nfl-mobile.json](./39182-madden-nfl-mobile.json) |
@@ -3976,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
+| MechWarrior 2: Mercenaries | 785 | [785-mechwarrior-2-mercenaries.json](./785-mechwarrior-2-mercenaries.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
 | MechWarrior 3: Pirate's Moon | 19191 | [19191-mechwarrior-3-pirates-moon.json](./19191-mechwarrior-3-pirates-moon.json) |
@@ -4290,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown: Supporter Colors | 340560 | [340560-mega-knockdown-supporter-colors.json](./340560-mega-knockdown-supporter-colors.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
+| Mega Man | 1738 | [1738-mega-man.json](./1738-mega-man.json) |
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
@@ -5723,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
+| Meteos: Disney Magic | 1166 | [1166-meteos-disney-magic.json](./1166-meteos-disney-magic.json) |
 | Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
@@ -7832,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
+| Mission Critical | 791 | [791-mission-critical.json](./791-mission-critical.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Evilguy | 119613 | [119613-mission-evilguy.json](./119613-mission-evilguy.json) |
