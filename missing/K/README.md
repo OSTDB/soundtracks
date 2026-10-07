@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
 | Kidou Senshi Gundam Gaiden: Missing Link | 62277 | [62277-kidou-senshi-gundam-gaiden-missing-link.json](./62277-kidou-senshi-gundam-gaiden-missing-link.json) |
 | Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
+| Kidou Senshi Gundam SEED Destiny: Rengou vs. Z.A.F.T. II Plus | 43227 | [43227-kidou-senshi-gundam-seed-destiny-rengou-vs-z-a-f-t-ii-plus.json](./43227-kidou-senshi-gundam-seed-destiny-rengou-vs-z-a-f-t-ii-plus.json) |
 | Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
 | Kidou Senshi Gundam Vol. 2 Jaburo | 37369 | [37369-kidou-senshi-gundam-vol-2-jaburo.json](./37369-kidou-senshi-gundam-vol-2-jaburo.json) |
 | Kidou Senshi Gundam Vol. 3 A Baoa Qu | 37368 | [37368-kidou-senshi-gundam-vol-3-a-baoa-qu.json](./37368-kidou-senshi-gundam-vol-3-a-baoa-qu.json) |
