@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat XF | 113151 | [113151-air-combat-xf.json](./113151-air-combat-xf.json) |
 | Air Command 3.0 | 59491 | [59491-air-command-3-0.json](./59491-air-command-3-0.json) |
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
+| Air Conflicts | 1490 | [1490-air-conflicts.json](./1490-air-conflicts.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
 | Air Conflicts: Pacific Carriers - PlayStation 4 Edition | 99768 | [99768-air-conflicts-pacific-carriers-playstation-4-edition.json](./99768-air-conflicts-pacific-carriers-playstation-4-edition.json) |
