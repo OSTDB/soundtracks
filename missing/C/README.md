@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
+| Chexs | 31753 | [31753-chexs.json](./31753-chexs.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
 | Chez Maxime | 41527 | [41527-chez-maxime.json](./41527-chez-maxime.json) |
@@ -10978,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
+| Cursed West | 31728 | [31728-cursed-west.json](./31728-cursed-west.json) |
 | Cursed Words | 360064 | [360064-cursed-words.json](./360064-cursed-words.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
