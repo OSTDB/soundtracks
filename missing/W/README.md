@@ -1961,7 +1961,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
 | Weltschmerz | 177809 | [177809-weltschmerz.json](./177809-weltschmerz.json) |
+| Wembley International Soccer | 38839 | [38839-wembley-international-soccer.json](./38839-wembley-international-soccer.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
+| Wendetta 2175 | 38840 | [38840-wendetta-2175.json](./38840-wendetta-2175.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
@@ -2942,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild City | 350594 | [350594-wild-city.json](./350594-wild-city.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
+| Wild Cup Soccer | 38841 | [38841-wild-cup-soccer.json](./38841-wild-cup-soccer.json) |
 | Wild Deer Hunt Jungle Sniper | 28011 | [28011-wild-deer-hunt-jungle-sniper.json](./28011-wild-deer-hunt-jungle-sniper.json) |
 | Wild Dive | 150258 | [150258-wild-dive.json](./150258-wild-dive.json) |
 | Wild Dose | 140919 | [140919-wild-dose.json](./140919-wild-dose.json) |
