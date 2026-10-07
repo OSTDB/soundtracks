@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
 | Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
+| Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ga-Olé | 131487 | [131487-pokemon-ga-ole.json](./131487-pokemon-ga-ole.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
 | Pokémon Gadir Deluxe | 271941 | [271941-pokemon-gadir-deluxe.json](./271941-pokemon-gadir-deluxe.json) |
+| Pokémon Gaia | 129819 | [129819-pokemon-gaia.json](./129819-pokemon-gaia.json) |
 | Pokémon Gaia Version | 136997 | [136997-pokemon-gaia-version.json](./136997-pokemon-gaia-version.json) |
 | Pokémon Gamma Emerald | 342762 | [342762-pokemon-gamma-emerald.json](./342762-pokemon-gamma-emerald.json) |
 | Pokemon Garbage Gold | 305295 | [305295-pokemon-garbage-gold.json](./305295-pokemon-garbage-gold.json) |
@@ -6905,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
+| Pong Quest | 132032 | [132032-pong-quest.json](./132032-pong-quest.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
 | Pong: Evolved | 329631 | [329631-pong-evolved.json](./329631-pong-evolved.json) |
