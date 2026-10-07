@@ -123,6 +123,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
+| 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
+| 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
 | 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
@@ -657,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
 | 180! Darts | 261965 | [261965-180-darts.json](./261965-180-darts.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
+| 1812: The Invasion of Canada | 28752 | [28752-1812-the-invasion-of-canada.json](./28752-1812-the-invasion-of-canada.json) |
 | 1830: Railroads & Robber Barons | 12373 | [12373-1830-railroads-and-robber-barons.json](./12373-1830-railroads-and-robber-barons.json) |
 | 1848 | 76205 | [76205-1848.json](./76205-1848.json) |
 | 1849: Gold Edition | 21656 | [21656-1849-gold-edition.json](./21656-1849-gold-edition.json) |
