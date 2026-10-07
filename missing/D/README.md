@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
+| Darius | 6789 | [6789-darius.json](./6789-darius.json) |
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
@@ -828,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
 | Dark Dealings | 167252 | [167252-dark-dealings.json](./167252-dark-dealings.json) |
 | Dark December | 367568 | [367568-dark-december.json](./367568-dark-december.json) |
+| Dark Deception | 61859 | [61859-dark-deception.json](./61859-dark-deception.json) |
 | Dark Deception: Chapter 2 | 168826 | [168826-dark-deception-chapter-2.json](./168826-dark-deception-chapter-2.json) |
 | Dark Deception: Chapter 3 | 168827 | [168827-dark-deception-chapter-3.json](./168827-dark-deception-chapter-3.json) |
 | Dark Deception: Chapter 4 | 168829 | [168829-dark-deception-chapter-4.json](./168829-dark-deception-chapter-4.json) |
@@ -1198,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
 | Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
 | Darkest Wave | 229818 | [229818-darkest-wave.json](./229818-darkest-wave.json) |
+| Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
@@ -1969,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
 | Dead Frog Tell No Tales | 182882 | [182882-dead-frog-tell-no-tales.json](./182882-dead-frog-tell-no-tales.json) |
+| Dead Frontier | 59850 | [59850-dead-frontier.json](./59850-dead-frontier.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Fury | 193734 | [193734-dead-fury.json](./193734-dead-fury.json) |
@@ -3112,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
 | Defender X | 275665 | [275665-defender-x.json](./275665-defender-x.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
+| Defender's Quest: Valley of the Forgotten | 7888 | [7888-defenders-quest-valley-of-the-forgotten.json](./7888-defenders-quest-valley-of-the-forgotten.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
@@ -5695,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Vows of the Virtueless - Costumes Set | 270294 | [270294-disgaea-7-vows-of-the-virtueless-costumes-set.json](./270294-disgaea-7-vows-of-the-virtueless-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless - Digital Deluxe Edition | 270295 | [270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json](./270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Season Pass | 270287 | [270287-disgaea-7-vows-of-the-virtueless-season-pass.json](./270287-disgaea-7-vows-of-the-virtueless-season-pass.json) |
+| Disgaea D2: A Brighter Darkness | 7299 | [7299-disgaea-d2-a-brighter-darkness.json](./7299-disgaea-d2-a-brighter-darkness.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
@@ -6863,6 +6869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
+| Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
