@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
 | Yesterday | 7647 | [7647-yesterday.json](./7647-yesterday.json) |
 | Yesterday | 81188 | [81188-yesterday.json](./81188-yesterday.json) |
+| Yesterday Origins | 11545 | [11545-yesterday-origins.json](./11545-yesterday-origins.json) |
 | Yesterday the D-Gate | 165497 | [165497-yesterday-the-d-gate.json](./165497-yesterday-the-d-gate.json) |
 | Yesterday, the World Ended | 184052 | [184052-yesterday-the-world-ended.json](./184052-yesterday-the-world-ended.json) |
 | Yesterday's Crossroads | 344456 | [344456-yesterdays-crossroads.json](./344456-yesterdays-crossroads.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! The Dawn of Destiny | 6257 | [6257-yu-gi-oh-the-dawn-of-destiny.json](./6257-yu-gi-oh-the-dawn-of-destiny.json) |
+| Yu-Gi-Oh! The Eternal Duelist Soul | 11672 | [11672-yu-gi-oh-the-eternal-duelist-soul.json](./11672-yu-gi-oh-the-eternal-duelist-soul.json) |
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
 | Yu-Gi-Oh! World Championship 2007 | 21444 | [21444-yu-gi-oh-world-championship-2007.json](./21444-yu-gi-oh-world-championship-2007.json) |
