@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealRTCW: Agency Weapon Pack | 323254 | [323254-realrtcw-agency-weapon-pack.json](./323254-realrtcw-agency-weapon-pack.json) |
 | Realshot | 81642 | [81642-realshot.json](./81642-realshot.json) |
 | RealSports Baseball | 18416 | [18416-realsports-baseball.json](./18416-realsports-baseball.json) |
+| RealSports Basketball | 40700 | [40700-realsports-basketball.json](./40700-realsports-basketball.json) |
 | RealSports Boxing | 18417 | [18417-realsports-boxing.json](./18417-realsports-boxing.json) |
 | RealSports Football | 18418 | [18418-realsports-football.json](./18418-realsports-football.json) |
 | RealSports Tennis | 18419 | [18419-realsports-tennis.json](./18419-realsports-tennis.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
+| Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
 | Rescue the Hostages: Cryptic Countdown | 377239 | [377239-rescue-the-hostages-cryptic-countdown.json](./377239-rescue-the-hostages-cryptic-countdown.json) |
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
