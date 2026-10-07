@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24-ji no Kane to Cinderella ~Halloween Wedding~ | 56551 | [56551-24-ji-no-kane-to-cinderella-halloween-wedding.json](./56551-24-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
+| 24: The Game | 6062 | [6062-24-the-game.json](./6062-24-the-game.json) |
 | 24: The Mobile Game | 305988 | [305988-24-the-mobile-game.json](./305988-24-the-mobile-game.json) |
 | 24/7 Solitaire | 78758 | [78758-24-7-solitaire.json](./78758-24-7-solitaire.json) |
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
