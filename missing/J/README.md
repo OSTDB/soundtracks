@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol II: The Two Towers | 50417 | [50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json](./50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol. I | 137042 | [137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json](./137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json) |
+| J.R.R. Tolkien's War in Middle Earth | 7890 | [7890-j-r-r-tolkiens-war-in-middle-earth.json](./7890-j-r-r-tolkiens-war-in-middle-earth.json) |
 | J.U.L.I.A. | 22132 | [22132-j-u-l-i-a.json](./22132-j-u-l-i-a.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | J'apprends L'Anglais CP-CM1 | 147347 | [147347-japprends-langlais-cp-cm1.json](./147347-japprends-langlais-cp-cm1.json) |
