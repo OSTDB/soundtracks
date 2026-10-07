@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
 | Wangan Dorifto | 199917 | [199917-wangan-dorifto.json](./199917-wangan-dorifto.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
+| Wangan Midnight | 7478 | [7478-wangan-midnight.json](./7478-wangan-midnight.json) |
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 3DX+ | 315269 | [315269-wangan-midnight-maximum-tune-3dx.json](./315269-wangan-midnight-maximum-tune-3dx.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhiTaers: Gongren Edition | 114310 | [114310-whitaers-gongren-edition.json](./114310-whitaers-gongren-edition.json) |
 | White | 54695 | [54695-white.json](./54695-white.json) |
 | White : The Hero's Return | 216828 | [216828-white-the-heros-return.json](./216828-white-the-heros-return.json) |
+| White Album | 7481 | [7481-white-album.json](./7481-white-album.json) |
 | White Album 2: Closing Chapter | 79869 | [79869-white-album-2-closing-chapter.json](./79869-white-album-2-closing-chapter.json) |
 | White Album 2: Introductory Chapter | 79617 | [79617-white-album-2-introductory-chapter.json](./79617-white-album-2-introductory-chapter.json) |
 | White Album 2: Shiawase no Mukougawa | 79871 | [79871-white-album-2-shiawase-no-mukougawa.json](./79871-white-album-2-shiawase-no-mukougawa.json) |
@@ -3437,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 4 | 78744 | [78744-winning-post-4.json](./78744-winning-post-4.json) |
 | Winning Post 6 | 65013 | [65013-winning-post-6.json](./65013-winning-post-6.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
+| Winning Post 7 Maximum 2007 | 7484 | [7484-winning-post-7-maximum-2007.json](./7484-winning-post-7-maximum-2007.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
 | Winning Post 9 2020 | 136784 | [136784-winning-post-9-2020.json](./136784-winning-post-9-2020.json) |
