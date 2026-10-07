@@ -3251,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom II | 13661 | [13661-hero-of-the-kingdom-ii.json](./13661-hero-of-the-kingdom-ii.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
+| Hero of the Obelisk | 23551 | [23551-hero-of-the-obelisk.json](./23551-hero-of-the-obelisk.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero or Villain: Genesis - Supercharged! | 265354 | [265354-hero-or-villain-genesis-supercharged.json](./265354-hero-or-villain-genesis-supercharged.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
