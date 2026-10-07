@@ -4502,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
 | Rise of Glory | 66422 | [66422-rise-of-glory.json](./66422-rise-of-glory.json) |
 | Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
+| Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Insanity | 34665 | [34665-rise-of-insanity.json](./34665-rise-of-insanity.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
