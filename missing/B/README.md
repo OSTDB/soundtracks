@@ -6286,6 +6286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
+| Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
@@ -9052,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | Brutes.io | 56266 | [56266-brutes-io.json](./56266-brutes-io.json) |
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
+| Brutish Mine | 22372 | [22372-brutish-mine.json](./22372-brutish-mine.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
 | Bruxa | 184377 | [184377-bruxa.json](./184377-bruxa.json) |
@@ -9304,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
+| Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
