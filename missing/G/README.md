@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
+| Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
