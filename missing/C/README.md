@@ -5368,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
+| Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
@@ -7132,7 +7133,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
 | Commander Keen in Goodbye, Galaxy!: The Armageddon Machine | 2445 | [2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json](./2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json) |
+| Commander Keen in Invasion of the Vorticons: Keen Must Die! | 2441 | [2441-commander-keen-in-invasion-of-the-vorticons-keen-must-die.json](./2441-commander-keen-in-invasion-of-the-vorticons-keen-must-die.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
+| Commander Keen in Invasion of the Vorticons: The Earth Explodes | 2440 | [2440-commander-keen-in-invasion-of-the-vorticons-the-earth-explodes.json](./2440-commander-keen-in-invasion-of-the-vorticons-the-earth-explodes.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
 | Commander Keen: Invasion of the Vorticons | 71234 | [71234-commander-keen-invasion-of-the-vorticons.json](./71234-commander-keen-invasion-of-the-vorticons.json) |
@@ -8070,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
 | Copy Kitty | 22443 | [22443-copy-kitty.json](./22443-copy-kitty.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
+| Copycat | 171650 | [171650-copycat.json](./171650-copycat.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
@@ -9306,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
+| Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
 | Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
