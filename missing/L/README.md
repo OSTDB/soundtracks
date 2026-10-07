@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth DeLux: A Crusoe Quest | 192229 | [192229-labyrinth-delux-a-crusoe-quest.json](./192229-labyrinth-delux-a-crusoe-quest.json) |
+| Labyrinth Escape | 41901 | [41901-labyrinth-escape.json](./41901-labyrinth-escape.json) |
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Life: Deluxe Edition | 121418 | [121418-labyrinth-life-deluxe-edition.json](./121418-labyrinth-life-deluxe-edition.json) |
@@ -5629,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin the Third: Cagliostro no Shiro | 66204 | [66204-lupin-the-third-cagliostro-no-shiro.json](./66204-lupin-the-third-cagliostro-no-shiro.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Luppy | 379003 | [379003-luppy.json](./379003-luppy.json) |
+| Lupus in Fabula | 41903 | [41903-lupus-in-fabula.json](./41903-lupus-in-fabula.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
@@ -5709,6 +5711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxavia | 392356 | [392356-luxavia.json](./392356-luxavia.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxe Chalk | 87798 | [87798-luxe-chalk.json](./87798-luxe-chalk.json) |
+| Luxin Time | 41894 | [41894-luxin-time.json](./41894-luxin-time.json) |
 | Luxor | 7534 | [7534-luxor.json](./7534-luxor.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Adventures | 7540 | [7540-luxor-adventures.json](./7540-luxor-adventures.json) |
