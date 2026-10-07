@@ -2050,8 +2050,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
 | Marine Heavy Gunner | 54211 | [54211-marine-heavy-gunner.json](./54211-marine-heavy-gunner.json) |
+| Marine Heavy Gunner: Vietnam | 27563 | [27563-marine-heavy-gunner-vietnam.json](./27563-marine-heavy-gunner-vietnam.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
 | Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
+| Marine Sharpshooter 3 | 27561 | [27561-marine-sharpshooter-3.json](./27561-marine-sharpshooter-3.json) |
+| Marine Sharpshooter 4 | 27562 | [27562-marine-sharpshooter-4.json](./27562-marine-sharpshooter-4.json) |
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
@@ -6012,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
 | Microsoft Flight Simulator X: Iris F-15E/I/SG | 224498 | [224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json](./224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json) |
 | Microsoft Flight Simulator X: Mega Airport London Heathrow Xtended | 53362 | [53362-microsoft-flight-simulator-x-mega-airport-london-heathrow-xtended.json](./53362-microsoft-flight-simulator-x-mega-airport-london-heathrow-xtended.json) |
+| Microsoft Flight Simulator X: Mission - Blackhawk | 27576 | [27576-microsoft-flight-simulator-x-mission-blackhawk.json](./27576-microsoft-flight-simulator-x-mission-blackhawk.json) |
 | Microsoft Flight Simulator X: Steam Edition | 36261 | [36261-microsoft-flight-simulator-x-steam-edition.json](./36261-microsoft-flight-simulator-x-steam-edition.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
@@ -10104,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bicycle Rider Simulator | 264779 | [264779-mountain-bicycle-rider-simulator.json](./264779-mountain-bicycle-rider-simulator.json) |
+| Mountain Bike Adrenaline | 27578 | [27578-mountain-bike-adrenaline.json](./27578-mountain-bike-adrenaline.json) |
 | Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
 | Mountain Bike Rally | 42485 | [42485-mountain-bike-rally.json](./42485-mountain-bike-rally.json) |
 | Mountain Bike Xtreme | 369170 | [369170-mountain-bike-xtreme.json](./369170-mountain-bike-xtreme.json) |
@@ -10271,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Autofire | 142112 | [142112-mr-autofire.json](./142112-mr-autofire.json) |
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
+| Mr Bean | 27581 | [27581-mr-bean.json](./27581-mr-bean.json) |
 | Mr Bean | 299837 | [299837-mr-bean.json](./299837-mr-bean.json) |
 | Mr Bean - Risky Ropes | 112132 | [112132-mr-bean-risky-ropes.json](./112132-mr-bean-risky-ropes.json) |
 | Mr Bean: Around the World | 112140 | [112140-mr-bean-around-the-world.json](./112140-mr-bean-around-the-world.json) |
