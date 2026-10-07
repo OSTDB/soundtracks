@@ -4600,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dia Horizon | 149966 | [149966-dia-horizon.json](./149966-dia-horizon.json) |
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
+| Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
@@ -5474,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Bundle 4 in 1 | 381798 | [381798-dirt-racing-bundle-4-in-1.json](./381798-dirt-racing-bundle-4-in-1.json) |
 | Dirt Racing Bundle Off Road & Truck | 409667 | [409667-dirt-racing-bundle-off-road-and-truck.json](./409667-dirt-racing-bundle-off-road-and-truck.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
+| Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
@@ -6114,8 +6116,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinity Vassals | 389709 | [389709-divinity-vassals.json](./389709-divinity-vassals.json) |
 | Divinity: Dragon Commander | 2905 | [2905-divinity-dragon-commander.json](./2905-divinity-dragon-commander.json) |
+| Divinity: Original Sin - Enhanced Edition | 14177 | [14177-divinity-original-sin-enhanced-edition.json](./14177-divinity-original-sin-enhanced-edition.json) |
 | Divinity: Original Sin - The Source Saga | 133908 | [133908-divinity-original-sin-the-source-saga.json](./133908-divinity-original-sin-the-source-saga.json) |
 | Divinity: Original Sin 2 - Divine Ascension | 144597 | [144597-divinity-original-sin-2-divine-ascension.json](./144597-divinity-original-sin-2-divine-ascension.json) |
+| Divinity: Original Sin II - Definitive Edition | 103337 | [103337-divinity-original-sin-ii-definitive-edition.json](./103337-divinity-original-sin-ii-definitive-edition.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
