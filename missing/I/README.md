@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
 | Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
+| Idle Sword 2 | 56925 | [56925-idle-sword-2.json](./56925-idle-sword-2.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
