@@ -3633,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piglet's Big Game | 4066 | [4066-piglets-big-game.json](./4066-piglets-big-game.json) |
 | PigMan | 93508 | [93508-pigman.json](./93508-pigman.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
+| Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigsaw: Human Abattoir | 272381 | [272381-pigsaw-human-abattoir.json](./272381-pigsaw-human-abattoir.json) |
