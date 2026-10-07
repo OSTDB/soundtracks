@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
 | ONF: Tatakau Rasetsu he | 301935 | [301935-onf-tatakau-rasetsu-he.json](./301935-onf-tatakau-rasetsu-he.json) |
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
+| Ongaku | 35431 | [35431-ongaku.json](./35431-ongaku.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongaku Tsukuuru: Kanadeeru - Senyou Score Data | 234784 | [234784-ongaku-tsukuuru-kanadeeru-senyou-score-data.json](./234784-ongaku-tsukuuru-kanadeeru-senyou-score-data.json) |
 | Ongeki Bright | 206150 | [206150-ongeki-bright.json](./206150-ongeki-bright.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Mini Adventure | 235871 | [235871-our-mini-adventure.json](./235871-our-mini-adventure.json) |
 | Our Monsoon Balcony | 382387 | [382387-our-monsoon-balcony.json](./382387-our-monsoon-balcony.json) |
 | Our Mother's house | 189011 | [189011-our-mothers-house.json](./189011-our-mothers-house.json) |
+| Our Nation's Miner | 35485 | [35485-our-nations-miner.json](./35485-our-nations-miner.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Personal Space | 163204 | [163204-our-personal-space.json](./163204-our-personal-space.json) |
 | Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
