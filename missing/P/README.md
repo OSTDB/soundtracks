@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
 | Paladin's Quest | 166057 | [166057-paladins-quest.json](./166057-paladins-quest.json) |
+| Paladin's Quest | 46586 | [46586-paladins-quest.json](./46586-paladins-quest.json) |
 | Paladins Strike | 70844 | [70844-paladins-strike.json](./70844-paladins-strike.json) |
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Founder's Pack | 104446 | [104446-paladins-founders-pack.json](./104446-paladins-founders-pack.json) |
@@ -5816,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
+| Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
 | Pocket Hockey | 324520 | [324520-pocket-hockey.json](./324520-pocket-hockey.json) |
@@ -10078,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris | 6866 | [6866-puyo-puyo-tetris.json](./6866-puyo-puyo-tetris.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
+| Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
