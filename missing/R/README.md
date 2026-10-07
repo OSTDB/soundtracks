@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
 | Raccoon Packer | 403184 | [403184-raccoon-packer.json](./403184-raccoon-packer.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
+| Raccoon Rascal | 38262 | [38262-raccoon-rascal.json](./38262-raccoon-rascal.json) |
 | Raccoon Rascals | 230211 | [230211-raccoon-rascals.json](./230211-raccoon-rascals.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
@@ -4110,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RideOp | 72415 | [72415-rideop.json](./72415-rideop.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
+| Rider's Spirits | 38214 | [38214-riders-spirits.json](./38214-riders-spirits.json) |
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders of Asgard: Deluxe Edition | 53508 | [53508-riders-of-asgard-deluxe-edition.json](./53508-riders-of-asgard-deluxe-edition.json) |
@@ -4303,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring Man in the Castle | 304268 | [304268-ring-man-in-the-castle.json](./304268-ring-man-in-the-castle.json) |
+| Ring ni Kakero | 38241 | [38241-ring-ni-kakero.json](./38241-ring-ni-kakero.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
