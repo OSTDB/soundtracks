@@ -6741,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
 | The King of Fighters GO | 106763 | [106763-the-king-of-fighters-go.json](./106763-the-king-of-fighters-go.json) |
+| The King of Fighters Neowave | 5896 | [5896-the-king-of-fighters-neowave.json](./5896-the-king-of-fighters-neowave.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters XII | 7036 | [7036-the-king-of-fighters-xii.json](./7036-the-king-of-fighters-xii.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
@@ -9609,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
+| The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
 | The Sims 4: Plus Island Living Bundle | 136201 | [136201-the-sims-4-plus-island-living-bundle.json](./136201-the-sims-4-plus-island-living-bundle.json) |
@@ -19125,6 +19127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II: Epic Edition | 51798 | [51798-two-worlds-ii-epic-edition.json](./51798-two-worlds-ii-epic-edition.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
+| Two Worlds: Epic Edition | 27841 | [27841-two-worlds-epic-edition.json](./27841-two-worlds-epic-edition.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
 | Two Worlds: The Temptation | 72980 | [72980-two-worlds-the-temptation.json](./72980-two-worlds-the-temptation.json) |
 | Two-Sided Runner | 333741 | [333741-two-sided-runner.json](./333741-two-sided-runner.json) |
