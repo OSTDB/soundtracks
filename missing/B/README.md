@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
+| B-1 Nuclear Bomber | 24801 | [24801-b-1-nuclear-bomber.json](./24801-b-1-nuclear-bomber.json) |
 | B-12: Brantisky Mk. 12 | 28949 | [28949-b-12-brantisky-mk-12.json](./28949-b-12-brantisky-mk-12.json) |
 | B-17 Bomber | 5660 | [5660-b-17-bomber.json](./5660-b-17-bomber.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
@@ -4600,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
+| Biophilia | 25029 | [25029-biophilia.json](./25029-biophilia.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
