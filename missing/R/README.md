@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Ravaged | 3268 | [3268-ravaged.json](./3268-ravaged.json) |
+| Ravager | 55676 | [55676-ravager.json](./55676-ravager.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
@@ -6735,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
+| Rules of Destruction | 55679 | [55679-rules-of-destruction.json](./55679-rules-of-destruction.json) |
 | Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
 | Rules of Engagement: The Grey State | 372660 | [372660-rules-of-engagement-the-grey-state.json](./372660-rules-of-engagement-the-grey-state.json) |
