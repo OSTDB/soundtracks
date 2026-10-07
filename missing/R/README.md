@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Helicopter | 51159 | [51159-radio-helicopter.json](./51159-radio-helicopter.json) |
+| Radio Helicopter II | 43230 | [43230-radio-helicopter-ii.json](./43230-radio-helicopter-ii.json) |
 | Radio Runner | 133345 | [133345-radio-runner.json](./133345-radio-runner.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio the Universe | 15694 | [15694-radio-the-universe.json](./15694-radio-the-universe.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
+| Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
 | Real Pool 2 | 23460 | [23460-real-pool-2.json](./23460-real-pool-2.json) |
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
@@ -1774,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
 | Realm of the Dead | 257898 | [257898-realm-of-the-dead.json](./257898-realm-of-the-dead.json) |
+| Realm of the Dead | 43210 | [43210-realm-of-the-dead.json](./43210-realm-of-the-dead.json) |
 | Realm of the Everbound | 292775 | [292775-realm-of-the-everbound.json](./292775-realm-of-the-everbound.json) |
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the Ghost King | 81699 | [81699-realm-of-the-ghost-king.json](./81699-realm-of-the-ghost-king.json) |
@@ -7314,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuu ga Gotoku Mobile for GREE | 305992 | [305992-ryuu-ga-gotoku-mobile-for-gree.json](./305992-ryuu-ga-gotoku-mobile-for-gree.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
 | Ryuuko No Ken Gaiden | 75517 | [75517-ryuuko-no-ken-gaiden.json](./75517-ryuuko-no-ken-gaiden.json) |
+| Ryuukyuu | 43197 | [43197-ryuukyuu.json](./43197-ryuukyuu.json) |
 | Ryuuo no Oshigoto! | 125193 | [125193-ryuuo-no-oshigoto.json](./125193-ryuuo-no-oshigoto.json) |
 | Ryuuo no Oshigoto!: Limited Edition | 167073 | [167073-ryuuo-no-oshigoto-limited-edition.json](./167073-ryuuo-no-oshigoto-limited-edition.json) |
 | Ryuusei no Rockman: Denpa Henkan! On Air! | 139348 | [139348-ryuusei-no-rockman-denpa-henkan-on-air.json](./139348-ryuusei-no-rockman-denpa-henkan-on-air.json) |
