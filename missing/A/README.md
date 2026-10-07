@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
+| AI: The Somnium Files - Nirvana Initiative | 153808 | [153808-ai-the-somnium-files-nirvana-initiative.json](./153808-ai-the-somnium-files-nirvana-initiative.json) |
 | AI.Cybercraft | 254031 | [254031-ai-cybercraft.json](./254031-ai-cybercraft.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
@@ -4033,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
+| Alone in the Dark: The New Nightmare | 1960 | [1960-alone-in-the-dark-the-new-nightmare.json](./1960-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 320336 | [320336-alone-in-the-dark-the-new-nightmare.json](./320336-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The Trilogy 1+2+3 | 148420 | [148420-alone-in-the-dark-the-trilogy-1-2-3.json](./148420-alone-in-the-dark-the-trilogy-1-2-3.json) |
@@ -7091,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
 | Archangel: Hellfire - Fully Loaded | 171377 | [171377-archangel-hellfire-fully-loaded.json](./171377-archangel-hellfire-fully-loaded.json) |
+| ArcheAge | 6451 | [6451-archeage.json](./6451-archeage.json) |
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
@@ -8456,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble Ensemble | 334315 | [334315-assemble-ensemble.json](./334315-assemble-ensemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
+| Assemble With Care | 117008 | [117008-assemble-with-care.json](./117008-assemble-with-care.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assemble!: Classic and Future Vehicles | 340559 | [340559-assemble-classic-and-future-vehicles.json](./340559-assemble-classic-and-future-vehicles.json) |
 | Assembloids | 195065 | [195065-assembloids.json](./195065-assembloids.json) |
