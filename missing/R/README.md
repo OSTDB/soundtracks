@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
 | Race Driver: Create & Race | 20763 | [20763-race-driver-create-and-race.json](./20763-race-driver-create-and-race.json) |
+| Race Driver: Grid | 2159 | [2159-race-driver-grid.json](./2159-race-driver-grid.json) |
 | Race Driver: Grid | 248560 | [248560-race-driver-grid.json](./248560-race-driver-grid.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race Drivin' | 307062 | [307062-race-drivin.json](./307062-race-drivin.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank | 253141 | [253141-ratchet-and-clank.json](./253141-ratchet-and-clank.json) |
 | Ratchet & Clank | 416114 | [416114-ratchet-and-clank.json](./416114-ratchet-and-clank.json) |
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
+| Ratchet & Clank Future: A Crack in Time | 1795 | [1795-ratchet-and-clank-future-a-crack-in-time.json](./1795-ratchet-and-clank-future-a-crack-in-time.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
 | Ratchet & Clank: Full Frontal Assault | 1797 | [1797-ratchet-and-clank-full-frontal-assault.json](./1797-ratchet-and-clank-full-frontal-assault.json) |
