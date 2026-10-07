@@ -5353,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
 | Classic NES Series: Dr. Mario | 18064 | [18064-classic-nes-series-dr-mario.json](./18064-classic-nes-series-dr-mario.json) |
+| Classic NES Series: Ice Climber | 49258 | [49258-classic-nes-series-ice-climber.json](./49258-classic-nes-series-ice-climber.json) |
 | Classic NES Series: Metroid | 76247 | [76247-classic-nes-series-metroid.json](./76247-classic-nes-series-metroid.json) |
 | Classic NES Series: Pac-Man | 76248 | [76248-classic-nes-series-pac-man.json](./76248-classic-nes-series-pac-man.json) |
 | Classic NES Series: The Legend of Zelda | 18066 | [18066-classic-nes-series-the-legend-of-zelda.json](./18066-classic-nes-series-the-legend-of-zelda.json) |
@@ -10372,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
+| CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
 | CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
