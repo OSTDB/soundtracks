@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | September 7th | 230769 | [230769-september-7th.json](./230769-september-7th.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | September Secrets | 82180 | [82180-september-secrets.json](./82180-september-secrets.json) |
+| Septerra Core: Legacy of the Creator | 7844 | [7844-septerra-core-legacy-of-the-creator.json](./7844-septerra-core-legacy-of-the-creator.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
@@ -4006,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
+| Shadowrun | 7640 | [7640-shadowrun.json](./7640-shadowrun.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
 | Shadowrun Chronicles: Boston Lockdown - Infected! | 171351 | [171351-shadowrun-chronicles-boston-lockdown-infected.json](./171351-shadowrun-chronicles-boston-lockdown-infected.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
@@ -8611,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2: The Neudorf Outpost | 10880 | [10880-sniper-elite-v2-the-neudorf-outpost.json](./10880-sniper-elite-v2-the-neudorf-outpost.json) |
 | Sniper Elite V2: The St Pierre | 10881 | [10881-sniper-elite-v2-the-st-pierre.json](./10881-sniper-elite-v2-the-st-pierre.json) |
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
+| Sniper Elite: Nazi Zombie Army | 7637 | [7637-sniper-elite-nazi-zombie-army.json](./7637-sniper-elite-nazi-zombie-army.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Game | 411050 | [411050-sniper-game.json](./411050-sniper-game.json) |
 | Sniper Ghost Warrior Contracts & Sniper: Ghost Warrior 3: Unlimited Edition | 173161 | [173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json](./173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json) |
@@ -10881,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
+| Space Ace | 5454 | [5454-space-ace.json](./5454-space-ace.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
@@ -13736,6 +13740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
 | Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
+| Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
@@ -13899,6 +13904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
 | Star Trek: Deep Space Nine - Dominion Wars | 3282 | [3282-star-trek-deep-space-nine-dominion-wars.json](./3282-star-trek-deep-space-nine-dominion-wars.json) |
 | Star Trek: Deep Space Nine - The Fallen | 3281 | [3281-star-trek-deep-space-nine-the-fallen.json](./3281-star-trek-deep-space-nine-the-fallen.json) |
+| Star Trek: Elite Force II | 8420 | [8420-star-trek-elite-force-ii.json](./8420-star-trek-elite-force-ii.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Encounters | 20594 | [20594-star-trek-encounters.json](./20594-star-trek-encounters.json) |
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
