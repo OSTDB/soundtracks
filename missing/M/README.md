@@ -6964,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345479 | [345479-miner-2049er.json](./345479-miner-2049er.json) |
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Miner 2049er II | 59505 | [59505-miner-2049er-ii.json](./59505-miner-2049er-ii.json) |
+| Miner 2049er Volume II | 40683 | [40683-miner-2049er-volume-ii.json](./40683-miner-2049er-volume-ii.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Clicker | 387598 | [387598-miner-clicker.json](./387598-miner-clicker.json) |
 | Miner Disturbance | 56920 | [56920-miner-disturbance.json](./56920-miner-disturbance.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
+| Mini Game Collection | 40668 | [40668-mini-game-collection.json](./40668-mini-game-collection.json) |
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
@@ -7696,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Pom-Bär: The Snack'N Run Game | 330359 | [330359-mission-pom-bar-the-snackn-run-game.json](./330359-mission-pom-bar-the-snackn-run-game.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
+| Mission Survive | 40682 | [40682-mission-survive.json](./40682-mission-survive.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
 | Mission To Mars 3D | 259566 | [259566-mission-to-mars-3d.json](./259566-mission-to-mars-3d.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
