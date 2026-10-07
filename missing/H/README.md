@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
+| Heracles no Eikou III: Kamigami no Chinmoku | 38257 | [38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
 | Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
 | Herakles and The Princess of Troy | 119090 | [119090-herakles-and-the-princess-of-troy.json](./119090-herakles-and-the-princess-of-troy.json) |
 | Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
@@ -4830,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken | 100267 | [100267-hokuto-no-ken.json](./100267-hokuto-no-ken.json) |
 | Hokuto no Ken | 46115 | [46115-hokuto-no-ken.json](./46115-hokuto-no-ken.json) |
 | Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
+| Hokuto no Ken 6: Gekitou Denshouken - Haou he no Michi | 38264 | [38264-hokuto-no-ken-6-gekitou-denshouken-haou-he-no-michi.json](./38264-hokuto-no-ken-6-gekitou-denshouken-haou-he-no-michi.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hokuto no Ken Online | 64170 | [64170-hokuto-no-ken-online.json](./64170-hokuto-no-ken-online.json) |
 | Hokuto no Ken Part-2 | 45601 | [45601-hokuto-no-ken-part-2.json](./45601-hokuto-no-ken-part-2.json) |
