@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
 | Red Baron | 148139 | [148139-red-baron.json](./148139-red-baron.json) |
 | Red Baron | 18469 | [18469-red-baron.json](./18469-red-baron.json) |
+| Red Baron | 1934 | [1934-red-baron.json](./1934-red-baron.json) |
 | Red Baron / Panzer Attack | 169267 | [169267-red-baron-panzer-attack.json](./169267-red-baron-panzer-attack.json) |
 | Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
 | Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
@@ -4741,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
+| Rivals of Aether II | 245847 | [245847-rivals-of-aether-ii.json](./245847-rivals-of-aether-ii.json) |
 | Rivals with Benefits | 313803 | [313803-rivals-with-benefits.json](./313803-rivals-with-benefits.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
