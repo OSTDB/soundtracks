@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
 | Back to Skool | 26419 | [26419-back-to-skool.json](./26419-back-to-skool.json) |
+| Back to Stone | 19217 | [19217-back-to-stone.json](./19217-back-to-stone.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
@@ -2551,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles in Normandy | 611 | [611-battles-in-normandy.json](./611-battles-in-normandy.json) |
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
+| Battles of Destiny | 19704 | [19704-battles-of-destiny.json](./19704-battles-of-destiny.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
@@ -2606,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletech: Firestorm | 60622 | [60622-battletech-firestorm.json](./60622-battletech-firestorm.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
+| BattleTech: The Crescent Hawks' Revenge | 19185 | [19185-battletech-the-crescent-hawks-revenge.json](./19185-battletech-the-crescent-hawks-revenge.json) |
 | Battlethorne: Reckoning | 370907 | [370907-battlethorne-reckoning.json](./370907-battlethorne-reckoning.json) |
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
@@ -3911,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
+| Beyond Skyrim | 19221 | [19221-beyond-skyrim.json](./19221-beyond-skyrim.json) |
 | Beyond SMBWii | 336104 | [336104-beyond-smbwii.json](./336104-beyond-smbwii.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
@@ -9306,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
 | Bud Spencer & Terence Hill: Slaps and Beans 2 | 244901 | [244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json](./244901-bud-spencer-and-terence-hill-slaps-and-beans-2.json) |
+| Bud Tucker in Double Trouble | 19240 | [19240-bud-tucker-in-double-trouble.json](./19240-bud-tucker-in-double-trouble.json) |
 | Buddha Finger | 22188 | [22188-buddha-finger.json](./22188-buddha-finger.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
