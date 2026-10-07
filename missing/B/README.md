@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
+| Battle Rangers | 39484 | [39484-battle-rangers.json](./39484-battle-rangers.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
 | Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
 | Battle Rappers Game Online | 115768 | [115768-battle-rappers-game-online.json](./115768-battle-rappers-game-online.json) |
@@ -7582,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
 | Bottom of the 9th '99 | 43856 | [43856-bottom-of-the-9th-99.json](./43856-bottom-of-the-9th-99.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
+| Bottom of the Ninth | 39483 | [39483-bottom-of-the-ninth.json](./39483-bottom-of-the-ninth.json) |
 | Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
@@ -8182,6 +8184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
+| Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
@@ -9873,6 +9876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Empires | 356165 | [356165-burning-empires.json](./356165-burning-empires.json) |
 | Burning Faith | 190476 | [190476-burning-faith.json](./190476-burning-faith.json) |
 | Burning Fight | 39557 | [39557-burning-fight.json](./39557-burning-fight.json) |
+| Burning Force | 39492 | [39492-burning-force.json](./39492-burning-force.json) |
 | Burning Horns | 192271 | [192271-burning-horns.json](./192271-burning-horns.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
