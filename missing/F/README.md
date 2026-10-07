@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
+| Fantasy '95 | 40111 | [40111-fantasy-95.json](./40111-fantasy-95.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
+| Farmers Rebellion | 40137 | [40137-farmers-rebellion.json](./40137-farmers-rebellion.json) |
 | FarmFury! | 62576 | [62576-farmfury.json](./62576-farmfury.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farmieland | 273488 | [273488-farmieland.json](./273488-farmieland.json) |
@@ -2588,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
+| Fighters Swords | 40133 | [40133-fighters-swords.json](./40133-fighters-swords.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
@@ -2597,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
 | Fighting | 280316 | [280316-fighting.json](./280316-fighting.json) |
+| Fighting Basketball | 40134 | [40134-fighting-basketball.json](./40134-fighting-basketball.json) |
 | Fighting Block | 156218 | [156218-fighting-block.json](./156218-fighting-block.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
@@ -3232,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
+| Fire Ball | 40136 | [40136-fire-ball.json](./40136-fire-ball.json) |
 | Fire Bam | 41267 | [41267-fire-bam.json](./41267-fire-bam.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
@@ -3305,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire From Heaven | 73888 | [73888-fire-from-heaven.json](./73888-fire-from-heaven.json) |
 | Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
 | Fire Galaxy | 73352 | [73352-fire-galaxy.json](./73352-fire-galaxy.json) |
+| Fire Hawk | 40135 | [40135-fire-hawk.json](./40135-fire-hawk.json) |
 | Fire Hoops | 94413 | [94413-fire-hoops.json](./94413-fire-hoops.json) |
 | Fire Hose | 212296 | [212296-fire-hose.json](./212296-fire-hose.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
@@ -7436,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
 | Funko Fusion: Universal Monsters Pack Bundle | 332016 | [332016-funko-fusion-universal-monsters-pack-bundle.json](./332016-funko-fusion-universal-monsters-pack-bundle.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
+| Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
@@ -7451,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
 | Funny Balloon | 95633 | [95633-funny-balloon.json](./95633-funny-balloon.json) |
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
+| Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
