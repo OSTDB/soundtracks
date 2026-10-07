@@ -1347,6 +1347,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
 | Joe Blade | 12161 | [12161-joe-blade.json](./12161-joe-blade.json) |
+| Joe Blade II | 45243 | [45243-joe-blade-ii.json](./45243-joe-blade-ii.json) |
+| Joe Blade III | 45242 | [45242-joe-blade-iii.json](./45242-joe-blade-iii.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
 | Joe Dever's Lone Wolf | 53247 | [53247-joe-devers-lone-wolf.json](./53247-joe-devers-lone-wolf.json) |
