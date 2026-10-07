@@ -3425,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
+| Gods Will Be Watching | 7543 | [7543-gods-will-be-watching.json](./7543-gods-will-be-watching.json) |
 | Gods, Death & Reapers | 328104 | [328104-gods-death-and-reapers.json](./328104-gods-death-and-reapers.json) |
 | Gods: Lands of Infinity - Special Edition | 54054 | [54054-gods-lands-of-infinity-special-edition.json](./54054-gods-lands-of-infinity-special-edition.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
@@ -6173,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns of Icarus Alliance | 21989 | [21989-guns-of-icarus-alliance.json](./21989-guns-of-icarus-alliance.json) |
+| Guns of Icarus Online | 3076 | [3076-guns-of-icarus-online.json](./3076-guns-of-icarus-online.json) |
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
 | Guns of Liberty | 74715 | [74715-guns-of-liberty.json](./74715-guns-of-liberty.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
