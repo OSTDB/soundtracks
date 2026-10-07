@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5th Fleet | 14471 | [14471-5th-fleet.json](./14471-5th-fleet.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
+| 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
 | 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
 | 6 Inch My Darling | 45449 | [45449-6-inch-my-darling.json](./45449-6-inch-my-darling.json) |
@@ -1558,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 | 34297 | [34297-7.json](./34297-7.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
+| 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
 | 7 Days Devil | 373016 | [373016-7-days-devil.json](./373016-7-days-devil.json) |
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
 | 7 Days to Die | 5574 | [5574-7-days-to-die.json](./5574-7-days-to-die.json) |
