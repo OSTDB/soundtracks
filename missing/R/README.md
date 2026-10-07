@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
 | RBI Baseball | 100281 | [100281-rbi-baseball.json](./100281-rbi-baseball.json) |
+| RBI Baseball '95 | 45876 | [45876-rbi-baseball-95.json](./45876-rbi-baseball-95.json) |
 | RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
+| Record of Lodoss War: Eiyuu Sensou | 45867 | [45867-record-of-lodoss-war-eiyuu-sensou.json](./45867-record-of-lodoss-war-eiyuu-sensou.json) |
 | Record Rewind Repeat | 348903 | [348903-record-rewind-repeat.json](./348903-record-rewind-repeat.json) |
 | Record Run | 61703 | [61703-record-run.json](./61703-record-run.json) |
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
@@ -3839,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm Mage VR | 122150 | [122150-rhythm-mage-vr.json](./122150-rhythm-mage-vr.json) |
+| Rhythm Maker | 45889 | [45889-rhythm-maker.json](./45889-rhythm-maker.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
