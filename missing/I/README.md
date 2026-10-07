@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperiums: Greek Wars - Age of Alexander | 174162 | [174162-imperiums-greek-wars-age-of-alexander.json](./174162-imperiums-greek-wars-age-of-alexander.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
+| Imperivm III: Great Battles of Rome | 290 | [290-imperivm-iii-great-battles-of-rome.json](./290-imperivm-iii-great-battles-of-rome.json) |
 | Imperivm: Great Battles of Rome - HD Edition | 165540 | [165540-imperivm-great-battles-of-rome-hd-edition.json](./165540-imperivm-great-battles-of-rome-hd-edition.json) |
 | Impermanence | 365837 | [365837-impermanence.json](./365837-impermanence.json) |
 | Impermanence | 404915 | [404915-impermanence.json](./404915-impermanence.json) |
@@ -1885,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
+| Independence War 2: Edge of Chaos | 758 | [758-independence-war-2-edge-of-chaos.json](./758-independence-war-2-edge-of-chaos.json) |
 | Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
 | Independence War: Deluxe Edition | 36201 | [36201-independence-war-deluxe-edition.json](./36201-independence-war-deluxe-edition.json) |
 | Independent Days | 26799 | [26799-independent-days.json](./26799-independent-days.json) |
