@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
+| Wild Arms XF | 1683 | [1683-wild-arms-xf.json](./1683-wild-arms-xf.json) |
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
@@ -3224,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
 | Wilt | 319219 | [319219-wilt.json](./319219-wilt.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
+| Wily & Right no RockBoard: That's Paradise | 1729 | [1729-wily-and-right-no-rockboard-thats-paradise.json](./1729-wily-and-right-no-rockboard-thats-paradise.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
 | Wimbledon II | 46105 | [46105-wimbledon-ii.json](./46105-wimbledon-ii.json) |
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
