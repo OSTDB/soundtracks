@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane & Lynch 2: Dog Days - Multiplayer Masks Pack | 164424 | [164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json](./164424-kane-and-lynch-2-dog-days-multiplayer-masks-pack.json) |
 | Kane & Lynch 2: Dog Days - The Doggie Bag | 164410 | [164410-kane-and-lynch-2-dog-days-the-doggie-bag.json](./164410-kane-and-lynch-2-dog-days-the-doggie-bag.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
+| Kane & Lynch: Dead Men | 7032 | [7032-kane-and-lynch-dead-men.json](./7032-kane-and-lynch-dead-men.json) |
 | Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
 | Kane's Shadow | 133169 | [133169-kanes-shadow.json](./133169-kanes-shadow.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
