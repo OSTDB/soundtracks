@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
 | Zoku Ougon no Haka: Sphinx no Nazo - Golden Grave II | 67361 | [67361-zoku-ougon-no-haka-sphinx-no-nazo-golden-grave-ii.json](./67361-zoku-ougon-no-haka-sphinx-no-nazo-golden-grave-ii.json) |
 | Zoku Sono Higurashi vs Touhou Universe 2 | 135659 | [135659-zoku-sono-higurashi-vs-touhou-universe-2.json](./135659-zoku-sono-higurashi-vs-touhou-universe-2.json) |
+| Zoku: The Legend of Bishin | 38239 | [38239-zoku-the-legend-of-bishin.json](./38239-zoku-the-legend-of-bishin.json) |
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
