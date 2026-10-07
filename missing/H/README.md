@@ -6579,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
 | Human Within | 326045 | [326045-human-within.json](./326045-human-within.json) |
 | Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
+| Human, we have a problem | 32810 | [32810-human-we-have-a-problem.json](./32810-human-we-have-a-problem.json) |
 | Human: Fall Flat - Anniversary Edition | 139945 | [139945-human-fall-flat-anniversary-edition.json](./139945-human-fall-flat-anniversary-edition.json) |
 | Human: Fall Flat - Dream Collection | 252173 | [252173-human-fall-flat-dream-collection.json](./252173-human-fall-flat-dream-collection.json) |
 | Human: Fall Flat + The Flame in the Flood Bundle | 117534 | [117534-human-fall-flat-the-flame-in-the-flood-bundle.json](./117534-human-fall-flat-the-flame-in-the-flood-bundle.json) |
