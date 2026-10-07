@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcross | 371454 | [371454-falcross.json](./371454-falcross.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
+| Fall | 34073 | [34073-fall.json](./34073-fall.json) |
 | Fall Asleep | 331465 | [331465-fall-asleep.json](./331465-fall-asleep.json) |
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
 | Fall Balance Ball | 144212 | [144212-fall-balance-ball.json](./144212-fall-balance-ball.json) |
@@ -4791,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
+| Fly, Glowfly! | 34117 | [34117-fly-glowfly.json](./34117-fly-glowfly.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
