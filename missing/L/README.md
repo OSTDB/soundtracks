@@ -5187,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
+| LSD: Revamped | 25031 | [25031-lsd-revamped.json](./25031-lsd-revamped.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
