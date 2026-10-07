@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
 | Gamma Nocturne 1 | 211698 | [211698-gamma-nocturne-1.json](./211698-gamma-nocturne-1.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
+| Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
 | Girls Academy | 224048 | [224048-girls-academy.json](./224048-girls-academy.json) |
+| Girls and Quiz | 40710 | [40710-girls-and-quiz.json](./40710-girls-and-quiz.json) |
 | Girls and Robots | 266761 | [266761-girls-and-robots.json](./266761-girls-and-robots.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
@@ -2598,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
 | Glacier 2 | 51046 | [51046-glacier-2.json](./51046-glacier-2.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
+| Glacier Patrol | 40674 | [40674-glacier-patrol.json](./40674-glacier-patrol.json) |
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
 | Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
@@ -2674,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
+| Glib | 40672 | [40672-glib.json](./40672-glib.json) |
 | Glide Collide | 96927 | [96927-glide-collide.json](./96927-glide-collide.json) |
 | Glide Hockey | 80149 | [80149-glide-hockey.json](./80149-glide-hockey.json) |
 | Glide Scramble Mechanic Star Shooting | 98045 | [98045-glide-scramble-mechanic-star-shooting.json](./98045-glide-scramble-mechanic-star-shooting.json) |
