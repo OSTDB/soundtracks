@@ -3656,6 +3656,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Alilia | 116862 | [116862-alilia.json](./116862-alilia.json) |
+| Alimardan Meets Merlin | 55666 | [55666-alimardan-meets-merlin.json](./55666-alimardan-meets-merlin.json) |
+| Alimardan's Mischief | 55667 | [55667-alimardans-mischief.json](./55667-alimardans-mischief.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
@@ -4752,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Inner Walk | 251061 | [251061-an-inner-walk.json](./251061-an-inner-walk.json) |
 | An Introvert's Nightmare | 381762 | [381762-an-introverts-nightmare.json](./381762-an-introverts-nightmare.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
+| An Occasional Dream | 55690 | [55690-an-occasional-dream.json](./55690-an-occasional-dream.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
