@@ -5744,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
 | Sierra Madre | 111879 | [111879-sierra-madre.json](./111879-sierra-madre.json) |
 | Sierra Ops | 128392 | [128392-sierra-ops.json](./128392-sierra-ops.json) |
+| Sierra Ops : Episode 1 - Collapsing Daybreak | 35572 | [35572-sierra-ops-episode-1-collapsing-daybreak.json](./35572-sierra-ops-episode-1-collapsing-daybreak.json) |
 | Sierra Ops: Episode 2 - Dissonance and Resonance | 128393 | [128393-sierra-ops-episode-2-dissonance-and-resonance.json](./128393-sierra-ops-episode-2-dissonance-and-resonance.json) |
 | Sierra Ops: Episode 3 - Unending Dusk | 128394 | [128394-sierra-ops-episode-3-unending-dusk.json](./128394-sierra-ops-episode-3-unending-dusk.json) |
 | Sierra Ops: Episode 4 - Cadence of the Morning Star | 128395 | [128395-sierra-ops-episode-4-cadence-of-the-morning-star.json](./128395-sierra-ops-episode-4-cadence-of-the-morning-star.json) |
@@ -8993,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
 | Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
+| Soda Star | 35496 | [35496-soda-star.json](./35496-soda-star.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
@@ -11260,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
+| Space Robot Samurai Zombie Slayer | 35569 | [35569-space-robot-samurai-zombie-slayer.json](./35569-space-robot-samurai-zombie-slayer.json) |
 | Space Rock Breaker | 382412 | [382412-space-rock-breaker.json](./382412-space-rock-breaker.json) |
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
@@ -14070,6 +14073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
+| StarFence: Heroic Edition | 35498 | [35498-starfence-heroic-edition.json](./35498-starfence-heroic-edition.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
 | Starfield: Shattered Space | 263480 | [263480-starfield-shattered-space.json](./263480-starfield-shattered-space.json) |
@@ -14674,6 +14678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam: Rails to Riches - USA-Canada Map | 162704 | [162704-steam-rails-to-riches-usa-canada-map.json](./162704-steam-rails-to-riches-usa-canada-map.json) |
 | Steam: Rails to Riches Complete Edition | 157531 | [157531-steam-rails-to-riches-complete-edition.json](./157531-steam-rails-to-riches-complete-edition.json) |
 | Steam'd Roller | 269102 | [269102-steamd-roller.json](./269102-steamd-roller.json) |
+| Steamalot: Epoch's Journey | 35435 | [35435-steamalot-epochs-journey.json](./35435-steamalot-epochs-journey.json) |
 | Steambirds Alliance | 36530 | [36530-steambirds-alliance.json](./36530-steambirds-alliance.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
 | Steamboat Willie | 286040 | [286040-steamboat-willie.json](./286040-steamboat-willie.json) |
@@ -15582,6 +15587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Seed | 257998 | [257998-strange-seed.json](./257998-strange-seed.json) |
 | Strange Shadow | 258651 | [258651-strange-shadow.json](./258651-strange-shadow.json) |
 | Strange Shores: Social Desktop Fishing | 344395 | [344395-strange-shores-social-desktop-fishing.json](./344395-strange-shores-social-desktop-fishing.json) |
+| Strange Space | 35437 | [35437-strange-space.json](./35437-strange-space.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Terror from the Deep | 184939 | [184939-strange-terror-from-the-deep.json](./184939-strange-terror-from-the-deep.json) |
@@ -17600,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
+| Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
 | Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
@@ -20193,6 +20200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
+| SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
