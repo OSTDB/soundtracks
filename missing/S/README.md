@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seicross | 40408 | [40408-seicross.json](./40408-seicross.json) |
 | Seidkona: A Tale of Death and Dice | 184428 | [184428-seidkona-a-tale-of-death-and-dice.json](./184428-seidkona-a-tale-of-death-and-dice.json) |
+| Seifuku Densetsu Pretty Fighter | 42527 | [42527-seifuku-densetsu-pretty-fighter.json](./42527-seifuku-densetsu-pretty-fighter.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
 | Seifuku Kanojo 2: Free DLC Act.1 - Yahiro Mio | 375369 | [375369-seifuku-kanojo-2-free-dlc-act-1-yahiro-mio.json](./375369-seifuku-kanojo-2-free-dlc-act-1-yahiro-mio.json) |
@@ -10374,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul | 196565 | [196565-soul.json](./196565-soul.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul | 76174 | [76174-soul.json](./76174-soul.json) |
+| Soul & Sword | 42533 | [42533-soul-and-sword.json](./42533-soul-and-sword.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
@@ -10588,6 +10590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
 | Sound Balling 2 | 379542 | [379542-sound-balling-2.json](./379542-sound-balling-2.json) |
 | Sound Balling 3 | 334756 | [334756-sound-balling-3.json](./334756-sound-balling-3.json) |
+| Sound Fantasy | 42522 | [42522-sound-fantasy.json](./42522-sound-fantasy.json) |
 | Sound Garden | 243684 | [243684-sound-garden.json](./243684-sound-garden.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
@@ -17491,6 +17494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
+| Super Family Gelände | 42534 | [42534-super-family-gelande.json](./42534-super-family-gelande.json) |
 | Super Famista | 218386 | [218386-super-famista.json](./218386-super-famista.json) |
 | Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
 | Super Fancy Pants Adventure: Chapter 2 | 143367 | [143367-super-fancy-pants-adventure-chapter-2.json](./143367-super-fancy-pants-adventure-chapter-2.json) |
@@ -18217,7 +18221,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
+| Super Metroid: Phazon | 42524 | [42524-super-metroid-phazon.json](./42524-super-metroid-phazon.json) |
 | Super Metroid: Project Base | 198334 | [198334-super-metroid-project-base.json](./198334-super-metroid-project-base.json) |
+| Super Metroid: Redesign | 42521 | [42521-super-metroid-redesign.json](./42521-super-metroid-redesign.json) |
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Metroid: Rumbled | 377737 | [377737-super-metroid-rumbled.json](./377737-super-metroid-rumbled.json) |
@@ -18851,6 +18857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
+| Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
