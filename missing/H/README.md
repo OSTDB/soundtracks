@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
 | Hello | 340539 | [340539-hello.json](./340539-hello.json) |
 | Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
+| Hello Baby! | 47898 | [47898-hello-baby.json](./47898-hello-baby.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
@@ -5998,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
 | Hotel Giant Bundle | 193738 | [193738-hotel-giant-bundle.json](./193738-hotel-giant-bundle.json) |
+| Hotel Giant DS | 47934 | [47934-hotel-giant-ds.json](./47934-hotel-giant-ds.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
 | Hotel Greenwood | 211644 | [211644-hotel-greenwood.json](./211644-hotel-greenwood.json) |
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
