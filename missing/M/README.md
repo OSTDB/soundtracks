@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
+| Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
 | Mad Rat Dead | 135301 | [135301-mad-rat-dead.json](./135301-mad-rat-dead.json) |
@@ -4664,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatramp: A Success Story | 312613 | [312613-megatramp-a-success-story.json](./312613-megatramp-a-success-story.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | Megatronic Void | 59226 | [59226-megatronic-void.json](./59226-megatronic-void.json) |
+| Megatudo 2096 | 43827 | [43827-megatudo-2096.json](./43827-megatudo-2096.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
