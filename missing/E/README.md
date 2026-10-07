@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
 | Earthworm Jim HD | 20420 | [20420-earthworm-jim-hd.json](./20420-earthworm-jim-hd.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
+| Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
 | EarthWorms | 51952 | [51952-earthworms.json](./51952-earthworms.json) |
 | EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Baseball: Interactive Hitting | 38850 | [38850-espn-baseball-interactive-hitting.json](./38850-espn-baseball-interactive-hitting.json) |
 | ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
+| ESPN Extreme Games | 20587 | [20587-espn-extreme-games.json](./20587-espn-extreme-games.json) |
 | ESPN Golf: Lower Your Score with Tom Kite - Mental Messages | 38849 | [38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json](./38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json) |
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
 | ESPN Let's Go Skiing | 38848 | [38848-espn-lets-go-skiing.json](./38848-espn-lets-go-skiing.json) |
