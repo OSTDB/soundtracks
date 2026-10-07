@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
 | Hard Corps | 76979 | [76979-hard-corps.json](./76979-hard-corps.json) |
+| Hard Corps: Uprising | 21174 | [21174-hard-corps-uprising.json](./21174-hard-corps-uprising.json) |
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
+| Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets: Spellcaster Knowledge | 266192 | [266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json](./266192-harry-potter-and-the-chamber-of-secrets-spellcaster-knowledge.json) |
 | Harry Potter and the Chamber of Secrets: The Chamber Challenge | 266191 | [266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json](./266191-harry-potter-and-the-chamber-of-secrets-the-chamber-challenge.json) |
 | Harry Potter and the Deathly Hallows: Part 1 | 4904 | [4904-harry-potter-and-the-deathly-hallows-part-1.json](./4904-harry-potter-and-the-deathly-hallows-part-1.json) |
