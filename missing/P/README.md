@@ -8557,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Curious Village HD for Mobile | 102865 | [102865-professor-layton-and-the-curious-village-hd-for-mobile.json](./102865-professor-layton-and-the-curious-village-hd-for-mobile.json) |
 | Professor Layton and the Diabolical Box | 1398 | [1398-professor-layton-and-the-diabolical-box.json](./1398-professor-layton-and-the-diabolical-box.json) |
 | Professor Layton and the Diabolical Box HD for Mobile | 128436 | [128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json](./128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json) |
+| Professor Layton and the Last Specter | 1400 | [1400-professor-layton-and-the-last-specter.json](./1400-professor-layton-and-the-last-specter.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
@@ -9994,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
+| Puyo Puyo Tetris | 6866 | [6866-puyo-puyo-tetris.json](./6866-puyo-puyo-tetris.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
