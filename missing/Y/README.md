@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki Ware | 307091 | [307091-yume-nikki-ware.json](./307091-yume-nikki-ware.json) |
 | Yume Nikki: Atari 2600 | 229681 | [229681-yume-nikki-atari-2600.json](./229681-yume-nikki-atari-2600.json) |
 | Yume Nikki: Dream Dairy | 262283 | [262283-yume-nikki-dream-dairy.json](./262283-yume-nikki-dream-dairy.json) |
+| Yume Nikki: Dream Diary | 81350 | [81350-yume-nikki-dream-diary.json](./81350-yume-nikki-dream-diary.json) |
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
 | Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
