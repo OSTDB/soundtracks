@@ -4394,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Contractor | 44091 | [44091-the-contractor.json](./44091-the-contractor.json) |
 | The Contrast of 2 Worlds | 178939 | [178939-the-contrast-of-2-worlds.json](./178939-the-contrast-of-2-worlds.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
+| The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
+| The Final Fantasy Legend | 396 | [396-the-final-fantasy-legend.json](./396-the-final-fantasy-legend.json) |
 | The Final Flame | 365808 | [365808-the-final-flame.json](./365808-the-final-flame.json) |
 | The Final Front | 382440 | [382440-the-final-front.json](./382440-the-final-front.json) |
 | The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
@@ -5915,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
+| The Great Ace Attorney 2: Resolve | 146081 | [146081-the-great-ace-attorney-2-resolve.json](./146081-the-great-ace-attorney-2-resolve.json) |
 | The Great Ace Attorney Chronicles | 146075 | [146075-the-great-ace-attorney-chronicles.json](./146075-the-great-ace-attorney-chronicles.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
 | The Great Adventures of Nedmapagmahal | 305984 | [305984-the-great-adventures-of-nedmapagmahal.json](./305984-the-great-adventures-of-nedmapagmahal.json) |
@@ -7767,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mage | 368590 | [368590-the-mage.json](./368590-the-mage.json) |
 | The Mage's Tale | 36893 | [36893-the-mages-tale.json](./36893-the-mages-tale.json) |
 | The Magenta Spire | 261505 | [261505-the-magenta-spire.json](./261505-the-magenta-spire.json) |
+| The Mageseeker: A League of Legends Story | 239302 | [239302-the-mageseeker-a-league-of-legends-story.json](./239302-the-mageseeker-a-league-of-legends-story.json) |
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
 | The Magic Candle | 235346 | [235346-the-magic-candle.json](./235346-the-magic-candle.json) |
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
@@ -9479,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
 | The Sims 2 | 210460 | [210460-the-sims-2.json](./210460-the-sims-2.json) |
+| The Sims 2 | 225246 | [225246-the-sims-2.json](./225246-the-sims-2.json) |
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
@@ -14771,6 +14776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
+| Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
@@ -18926,6 +18932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
+| Twinsanity: Omicron | 177374 | [177374-twinsanity-omicron.json](./177374-twinsanity-omicron.json) |
 | Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
 | Twinsen's Little Big Adventure Classic | 8515 | [8515-twinsens-little-big-adventure-classic.json](./8515-twinsens-little-big-adventure-classic.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
