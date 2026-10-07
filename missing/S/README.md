@@ -2813,8 +2813,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 13: OutRun | 100024 | [100024-sega-ages-2500-vol-13-outrun.json](./100024-sega-ages-2500-vol-13-outrun.json) |
 | Sega Ages 2500 Vol. 14: Alien Syndrome | 100017 | [100017-sega-ages-2500-vol-14-alien-syndrome.json](./100017-sega-ages-2500-vol-14-alien-syndrome.json) |
 | Sega Ages 2500 Vol. 15: Decathlete Collection | 98926 | [98926-sega-ages-2500-vol-15-decathlete-collection.json](./98926-sega-ages-2500-vol-15-decathlete-collection.json) |
+| Sega Ages 2500 Vol. 16: Virtua Fighter 2 | 43206 | [43206-sega-ages-2500-vol-16-virtua-fighter-2.json](./43206-sega-ages-2500-vol-16-virtua-fighter-2.json) |
 | Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
+| Sega Ages 2500 Vol. 25: Gunstar Heroes Treasure Box | 43223 | [43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json](./43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Ages 2500 Vol. 3: Fantasy Zone | 72315 | [72315-sega-ages-2500-vol-3-fantasy-zone.json](./72315-sega-ages-2500-vol-3-fantasy-zone.json) |
@@ -2964,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekigahara | 43203 | [43203-sekigahara.json](./43203-sekigahara.json) |
 | Sekimori Gami: Saien | 300959 | [300959-sekimori-gami-saien.json](./300959-sekimori-gami-saien.json) |
 | Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
@@ -3077,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
 | Sengoku Koihime: Otome Kenran Sengoku Emaki | 144381 | [144381-sengoku-koihime-otome-kenran-sengoku-emaki.json](./144381-sengoku-koihime-otome-kenran-sengoku-emaki.json) |
 | Sengoku Legends 2001 | 75445 | [75445-sengoku-legends-2001.json](./75445-sengoku-legends-2001.json) |
+| Sengoku Mahjong | 43202 | [43202-sengoku-mahjong.json](./43202-sengoku-mahjong.json) |
 | Sengoku Mugen | 392768 | [392768-sengoku-mugen.json](./392768-sengoku-mugen.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
@@ -15735,6 +15739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
 | Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
+| Street Boyz | 43237 | [43237-street-boyz.json](./43237-street-boyz.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chaser | 247088 | [247088-street-chaser.json](./247088-street-chaser.json) |
 | Street Chaves | 141519 | [141519-street-chaves.json](./141519-street-chaves.json) |
@@ -18890,6 +18895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
+| Supercar Street Challenge | 43220 | [43220-supercar-street-challenge.json](./43220-supercar-street-challenge.json) |
 | Supercat Survivors: Meow or Die | 346124 | [346124-supercat-survivors-meow-or-die.json](./346124-supercat-survivors-meow-or-die.json) |
 | Supercells | 309891 | [309891-supercells.json](./309891-supercells.json) |
 | Supercharge | 299922 | [299922-supercharge.json](./299922-supercharge.json) |
