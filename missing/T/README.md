@@ -7910,6 +7910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monastery of Mount Cinburron | 308388 | [308388-the-monastery-of-mount-cinburron.json](./308388-the-monastery-of-mount-cinburron.json) |
 | The Money Game | 48770 | [48770-the-money-game.json](./48770-the-money-game.json) |
+| The Monitor Puzzle Kineko: Kinetic Connection | 41298 | [41298-the-monitor-puzzle-kineko-kinetic-connection.json](./41298-the-monitor-puzzle-kineko-kinetic-connection.json) |
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
