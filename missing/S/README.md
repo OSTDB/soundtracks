@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
+| Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
 | Shadow Dancer | 6876 | [6876-shadow-dancer.json](./6876-shadow-dancer.json) |
@@ -7338,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slag | 253336 | [253336-slag.json](./253336-slag.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Slain 2: The Beast Within | 340587 | [340587-slain-2-the-beast-within.json](./340587-slain-2-the-beast-within.json) |
+| Slain: Back from Hell | 18509 | [18509-slain-back-from-hell.json](./18509-slain-back-from-hell.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
@@ -10644,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
+| SoulCalibur II | 227987 | [227987-soulcalibur-ii.json](./227987-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
@@ -10795,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South of Hell | 273560 | [273560-south-of-hell.json](./273560-south-of-hell.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
+| South of the Circle | 140556 | [140556-south-of-the-circle.json](./140556-south-of-the-circle.json) |
 | South Pacific Quest | 69529 | [69529-south-pacific-quest.json](./69529-south-pacific-quest.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park : The Stick of Truth + The Fractured but Whole Bundle | 164783 | [164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json](./164783-south-park-the-stick-of-truth-the-fractured-but-whole-bundle.json) |
