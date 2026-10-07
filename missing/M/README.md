@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marc Ecko's Getting Up | 386410 | [386410-marc-eckos-getting-up.json](./386410-marc-eckos-getting-up.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
+| Marcel Desailly Pro Soccer | 6265 | [6265-marcel-desailly-pro-soccer.json](./6265-marcel-desailly-pro-soccer.json) |
 | Marceline Richenwinnier: Old Story | 393746 | [393746-marceline-richenwinnier-old-story.json](./393746-marceline-richenwinnier-old-story.json) |
 | Marcella Moon: Curse of the Black Cat | 149413 | [149413-marcella-moon-curse-of-the-black-cat.json](./149413-marcella-moon-curse-of-the-black-cat.json) |
 | Marcella Moon: Four Are Watching | 291160 | [291160-marcella-moon-four-are-watching.json](./291160-marcella-moon-four-are-watching.json) |
@@ -6512,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
 | Mile 27 | 413767 | [413767-mile-27.json](./413767-mile-27.json) |
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
+| Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
 | Miles Edgeworth: Ace Attorney - Shattered Glass | 303030 | [303030-miles-edgeworth-ace-attorney-shattered-glass.json](./303030-miles-edgeworth-ace-attorney-shattered-glass.json) |
