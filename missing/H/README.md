@@ -3813,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-iro no Kakera | 77914 | [77914-hi-iro-no-kakera.json](./77914-hi-iro-no-kakera.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku - Limited Edition | 254439 | [254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json](./254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json) |
+| Hi-Octane | 12434 | [12434-hi-octane.json](./12434-hi-octane.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
 | Hi-Tech Hell 2 | 269115 | [269115-hi-tech-hell-2.json](./269115-hi-tech-hell-2.json) |
@@ -7303,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Age of Calamity - Wave 1: Pulse of the Ancients | 184509 | [184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json](./184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json) |
 | Hyrule Warriors: Age of Calamity - Wave 2: Guardian of Remembrance | 184510 | [184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json](./184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json) |
 | Hyrule Warriors: Age of Calamity + Expansion Pass Bundle | 293728 | [293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json](./293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json) |
+| Hyrule Warriors: Age of Imprisonment | 338085 | [338085-hyrule-warriors-age-of-imprisonment.json](./338085-hyrule-warriors-age-of-imprisonment.json) |
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
