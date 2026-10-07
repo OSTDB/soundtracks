@@ -6219,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
+| The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
 | The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
 | The Humans | 48657 | [48657-the-humans.json](./48657-the-humans.json) |
@@ -8010,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mouse The Merrier | 275823 | [275823-the-mouse-the-merrier.json](./275823-the-mouse-the-merrier.json) |
 | The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
 | The Mouth Of The Woods | 282090 | [282090-the-mouth-of-the-woods.json](./282090-the-mouth-of-the-woods.json) |
+| The Movie Monster Game | 26409 | [26409-the-movie-monster-game.json](./26409-the-movie-monster-game.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
 | The Mujo | 235163 | [235163-the-mujo.json](./235163-the-mujo.json) |
 | The Müll Littoral | 134530 | [134530-the-mull-littoral.json](./134530-the-mull-littoral.json) |
@@ -10809,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
+| The Way of the Tiger | 26463 | [26463-the-way-of-the-tiger.json](./26463-the-way-of-the-tiger.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
@@ -13099,6 +13102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
+| Time Bandit | 26460 | [26460-time-bandit.json](./26460-time-bandit.json) |
 | Time Barbarian Extreme!! | 108639 | [108639-time-barbarian-extreme.json](./108639-time-barbarian-extreme.json) |
 | Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
@@ -13336,6 +13340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Mysterious Forest | 122144 | [122144-timothy-and-the-mysterious-forest.json](./122144-timothy-and-the-mysterious-forest.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
+| Timothy Leary's Mind Mirror | 26454 | [26454-timothy-learys-mind-mirror.json](./26454-timothy-learys-mind-mirror.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
@@ -17330,6 +17335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
 | Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
+| Trekboer | 26447 | [26447-trekboer.json](./26447-trekboer.json) |
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
@@ -18389,6 +18395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
+| Turbo Esprit | 26430 | [26430-turbo-esprit.json](./26430-turbo-esprit.json) |
 | Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
 | Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
