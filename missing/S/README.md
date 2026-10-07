@@ -11470,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Oblivion | 12059 | [12059-space-station-oblivion.json](./12059-space-station-oblivion.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
+| Space Station Silicon Valley | 3602 | [3602-space-station-silicon-valley.json](./3602-space-station-silicon-valley.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Stone Smashing Simulator | 396582 | [396582-space-stone-smashing-simulator.json](./396582-space-stone-smashing-simulator.json) |
@@ -16600,6 +16601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged | 182813 | [182813-submerged.json](./182813-submerged.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
+| Submerged: Hidden Depths | 141373 | [141373-submerged-hidden-depths.json](./141373-submerged-hidden-depths.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersed 2: The Hive | 290476 | [290476-submersed-2-the-hive.json](./290476-submersed-2-the-hive.json) |
 | Submersible | 272372 | [272372-submersible.json](./272372-submersible.json) |
@@ -18520,6 +18522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
 | Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
+| Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
