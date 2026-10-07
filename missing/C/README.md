@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
 | Cabela's Deer Hunt: 2005 Season | 5765 | [5765-cabelas-deer-hunt-2005-season.json](./5765-cabelas-deer-hunt-2005-season.json) |
 | Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
+| Cabela's Legendary Adventures | 51037 | [51037-cabelas-legendary-adventures.json](./51037-cabelas-legendary-adventures.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calvar: The Darkest Gate | 318008 | [318008-calvar-the-darkest-gate.json](./318008-calvar-the-darkest-gate.json) |
 | Calvin | 94951 | [94951-calvin.json](./94951-calvin.json) |
 | Calvin Tucker's Farm Animal Racing | 89420 | [89420-calvin-tuckers-farm-animal-racing.json](./89420-calvin-tuckers-farm-animal-racing.json) |
+| Calvin Tucker's Redneck: Farm Animals Racing Tournament | 51039 | [51039-calvin-tuckers-redneck-farm-animals-racing-tournament.json](./51039-calvin-tuckers-redneck-farm-animals-racing-tournament.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
@@ -1425,6 +1427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmageddon: TDR 2000 | 246896 | [246896-carmageddon-tdr-2000.json](./246896-carmageddon-tdr-2000.json) |
 | Carmen Sandiego | 316681 | [316681-carmen-sandiego.json](./316681-carmen-sandiego.json) |
+| Carmen Sandiego Adventures in Math: The Big Ben Burglary | 51078 | [51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json](./51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json) |
+| Carmen Sandiego Adventures in Math: The Great Gateway Grab | 51080 | [51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json](./51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json) |
 | Carmen Sandiego Adventures in Math: The Island of Diamonds | 85554 | [85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json](./85554-carmen-sandiego-adventures-in-math-the-island-of-diamonds.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: 40th Anniversary Edition | 400999 | [400999-carmen-sandiego-40th-anniversary-edition.json](./400999-carmen-sandiego-40th-anniversary-edition.json) |
@@ -1728,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
+| Casper's Scare School: Spooky Sports Day | 51040 | [51040-caspers-scare-school-spooky-sports-day.json](./51040-caspers-scare-school-spooky-sports-day.json) |
 | Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassandra's Journey 2: The Fifth Sun of Nostradamus | 56901 | [56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json](./56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json) |
@@ -3290,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
+| Charm Girls Club Pajama Party | 51041 | [51041-charm-girls-club-pajama-party.json](./51041-charm-girls-club-pajama-party.json) |
 | Charm Girls Club: My Charmed Life | 91626 | [91626-charm-girls-club-my-charmed-life.json](./91626-charm-girls-club-my-charmed-life.json) |
 | Charm Girls Club: My Fashion Mall | 68084 | [68084-charm-girls-club-my-fashion-mall.json](./68084-charm-girls-club-my-fashion-mall.json) |
 | Charm Girls Club: My Fashion Show | 68085 | [68085-charm-girls-club-my-fashion-show.json](./68085-charm-girls-club-my-fashion-show.json) |
@@ -4627,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
+| Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
 | Chu's Dynasty | 66164 | [66164-chus-dynasty.json](./66164-chus-dynasty.json) |
 | Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
@@ -4651,6 +4658,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
+| Chuck E. Cheese's Sports Games | 51043 | [51043-chuck-e-cheeses-sports-games.json](./51043-chuck-e-cheeses-sports-games.json) |
+| Chuck E. Cheese's Super Collection | 51044 | [51044-chuck-e-cheeses-super-collection.json](./51044-chuck-e-cheeses-super-collection.json) |
 | Chuck Gnome | 76185 | [76185-chuck-gnome.json](./76185-chuck-gnome.json) |
 | Chuck Meowrris | 130167 | [130167-chuck-meowrris.json](./130167-chuck-meowrris.json) |
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
@@ -9010,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
 | Crayola Art Adventure | 230360 | [230360-crayola-art-adventure.json](./230360-crayola-art-adventure.json) |
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
+| Crayola Colorful Journey | 51047 | [51047-crayola-colorful-journey.json](./51047-crayola-colorful-journey.json) |
 | Crayola Create and Play | 415260 | [415260-crayola-create-and-play.json](./415260-crayola-create-and-play.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
