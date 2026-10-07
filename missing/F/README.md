@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Realm of the Thanatos Impulse, Traum - Life and Death of an Illusion | 416558 | [416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json](./416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json) |
 | Fate/Grand Order: Singularity III - Okeanos | 415658 | [415658-fate-grand-order-singularity-iii-okeanos.json](./415658-fate-grand-order-singularity-iii-okeanos.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
+| Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
 | Fate/Samurai Remnant: Additional Episode 1 - Record's Fragment: Keian Command Championship | 286213 | [286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json](./286213-fate-samurai-remnant-additional-episode-1-records-fragment-keian-command-championship.json) |
 | Fate/Samurai Remnant: Digital Deluxe Edition | 259526 | [259526-fate-samurai-remnant-digital-deluxe-edition.json](./259526-fate-samurai-remnant-digital-deluxe-edition.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
 | FIFA Manager 07 | 20676 | [20676-fifa-manager-07.json](./20676-fifa-manager-07.json) |
 | FIFA Manager 08 | 20678 | [20678-fifa-manager-08.json](./20678-fifa-manager-08.json) |
+| FIFA Manager 09 | 20679 | [20679-fifa-manager-09.json](./20679-fifa-manager-09.json) |
 | FIFA Manager 10 | 20680 | [20680-fifa-manager-10.json](./20680-fifa-manager-10.json) |
 | FIFA Manager 11 | 20682 | [20682-fifa-manager-11.json](./20682-fifa-manager-11.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
@@ -2998,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight MD | 407523 | [407523-final-fight-md.json](./407523-final-fight-md.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
 | Final Fight Revenge | 1659 | [1659-final-fight-revenge.json](./1659-final-fight-revenge.json) |
+| Final Fight: Double Impact | 21098 | [21098-final-fight-double-impact.json](./21098-final-fight-double-impact.json) |
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
@@ -6031,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
 | Fossil Echo: Special Edition | 53061 | [53061-fossil-echo-special-edition.json](./53061-fossil-echo-special-edition.json) |
+| Fossil Fighters | 20978 | [20978-fossil-fighters.json](./20978-fossil-fighters.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
@@ -7075,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Gate Boost+ | 159214 | [159214-frontier-gate-boost.json](./159214-frontier-gate-boost.json) |
 | Frontier Heroes | 396586 | [396586-frontier-heroes.json](./396586-frontier-heroes.json) |
 | Frontier Hunter: Costume Pack Season 3 | 265251 | [265251-frontier-hunter-costume-pack-season-3.json](./265251-frontier-hunter-costume-pack-season-3.json) |
+| Frontier Hunter: Erza's Wheel of Fortune | 143434 | [143434-frontier-hunter-erzas-wheel-of-fortune.json](./143434-frontier-hunter-erzas-wheel-of-fortune.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Fashion | 239032 | [239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json](./239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json) |
 | Frontier Hunter: Weapon Package | 239008 | [239008-frontier-hunter-weapon-package.json](./239008-frontier-hunter-weapon-package.json) |
@@ -7314,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
+| Fuck You Witch | 293818 | [293818-fuck-you-witch.json](./293818-fuck-you-witch.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
@@ -7508,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Song for the Elemental Lords | 313260 | [313260-funeral-song-for-the-elemental-lords.json](./313260-funeral-song-for-the-elemental-lords.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
+| Funeralopolis: Last Days | 317500 | [317500-funeralopolis-last-days.json](./317500-funeralopolis-last-days.json) |
 | Funereal Funeral Car | 104726 | [104726-funereal-funeral-car.json](./104726-funereal-funeral-car.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
