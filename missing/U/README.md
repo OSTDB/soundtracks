@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.F.F.C: Ultra Fuckin' Fuckable Championship | 411058 | [411058-u-f-f-c-ultra-fuckin-fuckable-championship.json](./411058-u-f-f-c-ultra-fuckin-fuckable-championship.json) |
 | U.F.O: Unfortunately Fortunate Organisms | 29630 | [29630-u-f-o-unfortunately-fortunate-organisms.json](./29630-u-f-o-unfortunately-fortunate-organisms.json) |
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
+| U.F.O. Kamen Yakisoban: Kettler no Kuroi Inbou | 44445 | [44445-u-f-o-kamen-yakisoban-kettler-no-kuroi-inbou.json](./44445-u-f-o-kamen-yakisoban-kettler-no-kuroi-inbou.json) |
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
 | U.F.O.s | 94705 | [94705-u-f-o-s.json](./94705-u-f-o-s.json) |
 | U.G.O | 232019 | [232019-u-g-o.json](./232019-u-g-o.json) |
