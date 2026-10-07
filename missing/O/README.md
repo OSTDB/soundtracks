@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
 | Ocean Driving: Boat Parking Simulator | 328510 | [328510-ocean-driving-boat-parking-simulator.json](./328510-ocean-driving-boat-parking-simulator.json) |
 | Ocean Explorer Tycoon | 209030 | [209030-ocean-explorer-tycoon.json](./209030-ocean-explorer-tycoon.json) |
+| Ocean Express | 54253 | [54253-ocean-express.json](./54253-ocean-express.json) |
 | Ocean Fishooter | 381737 | [381737-ocean-fishooter.json](./381737-ocean-fishooter.json) |
 | Ocean Gap | 285446 | [285446-ocean-gap.json](./285446-ocean-gap.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
+| Oddly Enough: Pied Piper | 54254 | [54254-oddly-enough-pied-piper.json](./54254-oddly-enough-pied-piper.json) |
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
@@ -2004,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
+| Operation: Alpha Zylon | 54265 | [54265-operation-alpha-zylon.json](./54265-operation-alpha-zylon.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
 | Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
@@ -2180,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
 | Orbitous | 362383 | [362383-orbitous.json](./362383-orbitous.json) |
 | Orbitron | 120146 | [120146-orbitron.json](./120146-orbitron.json) |
+| Orbitron: Revolution | 54264 | [54264-orbitron-revolution.json](./54264-orbitron-revolution.json) |
 | Orbits | 91137 | [91137-orbits.json](./91137-orbits.json) |
 | Orbitum | 230323 | [230323-orbitum.json](./230323-orbitum.json) |
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
@@ -2329,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
+| Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
 | Oriental Immortal | 236765 | [236765-oriental-immortal.json](./236765-oriental-immortal.json) |
