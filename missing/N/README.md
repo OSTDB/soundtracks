@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
 | Nameless Bastard | 253894 | [253894-nameless-bastard.json](./253894-nameless-bastard.json) |
+| Nameless Cat | 132133 | [132133-nameless-cat.json](./132133-nameless-cat.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
 | Nameless Graves | 397900 | [397900-nameless-graves.json](./397900-nameless-graves.json) |
 | Nameless Kaizo World | 267914 | [267914-nameless-kaizo-world.json](./267914-nameless-kaizo-world.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Wii DS | 230759 | [230759-new-super-mario-bros-wii-ds.json](./230759-new-super-mario-bros-wii-ds.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
+| New Super Mario Land | 132641 | [132641-new-super-mario-land.json](./132641-new-super-mario-land.json) |
 | New Super Mario Lost Worlds | 394349 | [394349-new-super-mario-lost-worlds.json](./394349-new-super-mario-lost-worlds.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
 | New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
