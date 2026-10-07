@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon: Collector's Edition | 136203 | [136203-darkest-dungeon-collectors-edition.json](./136203-darkest-dungeon-collectors-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
+| Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
 | Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
 | Darkest Fear | 223004 | [223004-darkest-fear.json](./223004-darkest-fear.json) |
 | Darkest Fear 2: Grim Oak | 223005 | [223005-darkest-fear-2-grim-oak.json](./223005-darkest-fear-2-grim-oak.json) |
@@ -9098,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
 | Dreaming Diorama | 253492 | [253492-dreaming-diorama.json](./253492-dreaming-diorama.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
+| Dreaming Mary | 58386 | [58386-dreaming-mary.json](./58386-dreaming-mary.json) |
 | Dreaming of You | 184924 | [184924-dreaming-of-you.json](./184924-dreaming-of-you.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Sarah | 8702 | [8702-dreaming-sarah.json](./8702-dreaming-sarah.json) |
