@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elebits: The Adventures of Kai and Zero | 2748 | [2748-elebits-the-adventures-of-kai-and-zero.json](./2748-elebits-the-adventures-of-kai-and-zero.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
+| ElecHead | 129518 | [129518-elechead.json](./129518-elechead.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Electigirl: High Tension Beauty | 333198 | [333198-electigirl-high-tension-beauty.json](./333198-electigirl-high-tension-beauty.json) |
 | Electio | 391307 | [391307-electio.json](./391307-electio.json) |
