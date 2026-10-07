@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
+| Deal or No Deal: Special Edition | 51036 | [51036-deal-or-no-deal-special-edition.json](./51036-deal-or-no-deal-special-edition.json) |
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
@@ -5911,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dito G1 | 266880 | [266880-dito-g1.json](./266880-dito-g1.json) |
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Diva | 122282 | [122282-diva.json](./122282-diva.json) |
+| Diva Girls: Divas on Ice | 51035 | [51035-diva-girls-divas-on-ice.json](./51035-diva-girls-divas-on-ice.json) |
 | Diva Starz | 71601 | [71601-diva-starz.json](./71601-diva-starz.json) |
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
