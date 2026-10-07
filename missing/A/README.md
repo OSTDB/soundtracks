@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adhere: The Good Boy | 183904 | [183904-adhere-the-good-boy.json](./183904-adhere-the-good-boy.json) |
 | Adhesion Block Puzzle | 184435 | [184435-adhesion-block-puzzle.json](./184435-adhesion-block-puzzle.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
+| Adian no Tsue | 41310 | [41310-adian-no-tsue.json](./41310-adian-no-tsue.json) |
 | Adiasis | 133948 | [133948-adiasis.json](./133948-adiasis.json) |
 | Adiboo & Paziral's Secret | 98251 | [98251-adiboo-and-pazirals-secret.json](./98251-adiboo-and-pazirals-secret.json) |
 | Adiboo and the Green Shadow | 144839 | [144839-adiboo-and-the-green-shadow.json](./144839-adiboo-and-the-green-shadow.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
 | Ally Racer | 138542 | [138542-ally-racer.json](./138542-ally-racer.json) |
 | Alma | 80915 | [80915-alma.json](./80915-alma.json) |
+| Almana no Kiseki | 41255 | [41255-almana-no-kiseki.json](./41255-almana-no-kiseki.json) |
 | Almanac of Girlswampwar Territory & The Girls Who Swim as Fertilizer Through the Warm Soil Cloaking the Roots of the Glorious Tree of Eugenics: Giving Birth to a Black Hole in a Walmart Parking Lot at 1am | 131413 | [131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json](./131413-almanac-of-girlswampwar-territory-and-the-girls-who-swim-as-fertilizer-through-the-warm-soil-cloaking-the-roots-of-the-glorious-tree-of-eugenics-giving-birth-to-a-black-hole-in-a-walmart-parking-lot-at-1am.json) |
 | Almanac: Detective Agency | 399143 | [399143-almanac-detective-agency.json](./399143-almanac-detective-agency.json) |
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
@@ -6302,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
 | Apple Shooter | 202248 | [202248-apple-shooter.json](./202248-apple-shooter.json) |
 | Apple Slash | 128463 | [128463-apple-slash.json](./128463-apple-slash.json) |
+| Apple Town Monogatari: Little Computer People | 41281 | [41281-apple-town-monogatari-little-computer-people.json](./41281-apple-town-monogatari-little-computer-people.json) |
 | Apple Worm | 101767 | [101767-apple-worm.json](./101767-apple-worm.json) |
 | Appleblossom Academy | 185427 | [185427-appleblossom-academy.json](./185427-appleblossom-academy.json) |
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
