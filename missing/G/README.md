@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
+| Glorch's Great Escape: Walking is for Chumps | 30691 | [30691-glorchs-great-escape-walking-is-for-chumps.json](./30691-glorchs-great-escape-walking-is-for-chumps.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
 | Gloria in Excelsis Deo | 74751 | [74751-gloria-in-excelsis-deo.json](./74751-gloria-in-excelsis-deo.json) |
