@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
 | Beat Guru | 121488 | [121488-beat-guru.json](./121488-beat-guru.json) |
+| Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
@@ -10007,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
 | Burnout | 275040 | [275040-burnout.json](./275040-burnout.json) |
+| Burnout | 3838 | [3838-burnout.json](./3838-burnout.json) |
 | Burnout | 410457 | [410457-burnout.json](./410457-burnout.json) |
 | Burnout 2: Point of Impact | 3840 | [3840-burnout-2-point-of-impact.json](./3840-burnout-2-point-of-impact.json) |
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
