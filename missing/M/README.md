@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack One | 362465 | [362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json](./362465-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-one.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Three | 362467 | [362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json](./362467-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-three.json) |
 | Magic: The Gathering - Duels of the Planeswalkers: Expansion Pack Two | 362466 | [362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json](./362466-magic-the-gathering-duels-of-the-planeswalkers-expansion-pack-two.json) |
+| Magic: The Gathering Online | 79081 | [79081-magic-the-gathering-online.json](./79081-magic-the-gathering-online.json) |
 | Magica Memoria | 289019 | [289019-magica-memoria.json](./289019-magica-memoria.json) |
 | Magica Wars: Zanbatsu | 62013 | [62013-magica-wars-zanbatsu.json](./62013-magica-wars-zanbatsu.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
@@ -5686,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeteoHeroes | 192795 | [192795-meteoheroes.json](./192795-meteoheroes.json) |
 | Meteor | 107757 | [107757-meteor.json](./107757-meteor.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
+| Meteor 60 Seconds! | 86750 | [86750-meteor-60-seconds.json](./86750-meteor-60-seconds.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
@@ -5707,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
 | Meteora's Mystic Merge | 285146 | [285146-meteoras-mystic-merge.json](./285146-meteoras-mystic-merge.json) |
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
+| Meteorfall: Journey | 88223 | [88223-meteorfall-journey.json](./88223-meteorfall-journey.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Meteoric Shower | 47176 | [47176-meteoric-shower.json](./47176-meteoric-shower.json) |
@@ -6045,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microleague Baseball 4 | 51372 | [51372-microleague-baseball-4.json](./51372-microleague-baseball-4.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
+| MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
 | Micronomicon: Heroes | 116919 | [116919-micronomicon-heroes.json](./116919-micronomicon-heroes.json) |
@@ -6386,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Scenes: A Safe Place | 257261 | [257261-midnight-scenes-a-safe-place.json](./257261-midnight-scenes-a-safe-place.json) |
+| Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
@@ -7041,6 +7046,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Star Wars Sequel Skin Pack | 303141 | [303141-minecraft-star-wars-sequel-skin-pack.json](./303141-minecraft-star-wars-sequel-skin-pack.json) |
 | Minecraft: Steven Universe Mash-up | 235338 | [235338-minecraft-steven-universe-mash-up.json](./235338-minecraft-steven-universe-mash-up.json) |
 | Minecraft: Story Mode - Episode 1: The Order of the Stone | 85612 | [85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json](./85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json) |
+| Minecraft: Story Mode - Episode 2: Assembly Required | 91299 | [91299-minecraft-story-mode-episode-2-assembly-required.json](./91299-minecraft-story-mode-episode-2-assembly-required.json) |
+| Minecraft: Story Mode - Episode 3: The Last Place You Look | 91296 | [91296-minecraft-story-mode-episode-3-the-last-place-you-look.json](./91296-minecraft-story-mode-episode-3-the-last-place-you-look.json) |
+| Minecraft: Story Mode - Episode 4: A Block and a Hard Place | 91297 | [91297-minecraft-story-mode-episode-4-a-block-and-a-hard-place.json](./91297-minecraft-story-mode-episode-4-a-block-and-a-hard-place.json) |
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
@@ -11371,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Child New Beginnings | 151702 | [151702-my-child-new-beginnings.json](./151702-my-child-new-beginnings.json) |
+| My Child: Lebensborn | 83852 | [83852-my-child-lebensborn.json](./83852-my-child-lebensborn.json) |
 | My Child: Lebensborn Remastered | 250280 | [250280-my-child-lebensborn-remastered.json](./250280-my-child-lebensborn-remastered.json) |
 | My Chinese Coach | 94712 | [94712-my-chinese-coach.json](./94712-my-chinese-coach.json) |
 | My Cinema World | 370343 | [370343-my-cinema-world.json](./370343-my-cinema-world.json) |
