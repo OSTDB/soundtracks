@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamek's Island | 217838 | [217838-kameks-island.json](./217838-kameks-island.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
 | Kameleon | 185452 | [185452-kameleon.json](./185452-kameleon.json) |
+| Kamen no Maid Guy: Boyoyon Battle Royale | 44497 | [44497-kamen-no-maid-guy-boyoyon-battle-royale.json](./44497-kamen-no-maid-guy-boyoyon-battle-royale.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karnov's Revenge | 39546 | [39546-karnovs-revenge.json](./39546-karnovs-revenge.json) |
 | Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
+| Karoshi | 44476 | [44476-karoshi.json](./44476-karoshi.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karoshi: Suicide Salaryman | 266379 | [266379-karoshi-suicide-salaryman.json](./266379-karoshi-suicide-salaryman.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
 | Kingdom Hearts Birth by Sleep | 1224 | [1224-kingdom-hearts-birth-by-sleep.json](./1224-kingdom-hearts-birth-by-sleep.json) |
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
+| Kingdom Hearts Birth by Sleep: Special Edition | 44469 | [44469-kingdom-hearts-birth-by-sleep-special-edition.json](./44469-kingdom-hearts-birth-by-sleep-special-edition.json) |
 | Kingdom Hearts coded | 20285 | [20285-kingdom-hearts-coded.json](./20285-kingdom-hearts-coded.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
