@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best of Microsoft Entertainment Pack | 282104 | [282104-the-best-of-microsoft-entertainment-pack.json](./282104-the-best-of-microsoft-entertainment-pack.json) |
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
+| The Best Play Baseball Special | 48545 | [48545-the-best-play-baseball-special.json](./48545-the-best-play-baseball-special.json) |
 | The Best Stories, The Best Time for Us | 114297 | [114297-the-best-stories-the-best-time-for-us.json](./114297-the-best-stories-the-best-time-for-us.json) |
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
@@ -13035,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
 | Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
+| Time Diver: Eon Man | 48564 | [48564-time-diver-eon-man.json](./48564-time-diver-eon-man.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
 | Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
@@ -16835,6 +16837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Heavy Metal | 193815 | [193815-transformers-heavy-metal.json](./193815-transformers-heavy-metal.json) |
 | Transformers: Multi Shock | 320261 | [320261-transformers-multi-shock.json](./320261-transformers-multi-shock.json) |
+| Transformers: Mystery of Comvoy | 48563 | [48563-transformers-mystery-of-comvoy.json](./48563-transformers-mystery-of-comvoy.json) |
 | Transformers: Reactivate | 228536 | [228536-transformers-reactivate.json](./228536-transformers-reactivate.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
 | Transformers: Revenge of the Fallen - Autobots | 206709 | [206709-transformers-revenge-of-the-fallen-autobots.json](./206709-transformers-revenge-of-the-fallen-autobots.json) |
