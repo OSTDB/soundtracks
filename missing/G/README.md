@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
 | Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
+| Gradius IV: Revival | 1486 | [1486-gradius-iv-revival.json](./1486-gradius-iv-revival.json) |
 | Gradius NEO | 377214 | [377214-gradius-neo.json](./377214-gradius-neo.json) |
 | Gradius NEO Imperial | 377215 | [377215-gradius-neo-imperial.json](./377215-gradius-neo-imperial.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
