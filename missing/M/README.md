@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 12 | 243250 | [243250-madden-nfl-12.json](./243250-madden-nfl-12.json) |
 | Madden NFL 12 | 243251 | [243251-madden-nfl-12.json](./243251-madden-nfl-12.json) |
 | Madden NFL 12 | 243252 | [243252-madden-nfl-12.json](./243252-madden-nfl-12.json) |
+| Madden NFL 12 | 4987 | [4987-madden-nfl-12.json](./4987-madden-nfl-12.json) |
 | Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
 | Madden NFL 13 | 243258 | [243258-madden-nfl-13.json](./243258-madden-nfl-13.json) |
 | Madden NFL 13 | 243259 | [243259-madden-nfl-13.json](./243259-madden-nfl-13.json) |
@@ -6476,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers Tiger Barcodzz | 198871 | [198871-mighty-morphin-power-rangers-tiger-barcodzz.json](./198871-mighty-morphin-power-rangers-tiger-barcodzz.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
 | Mighty Morphin Power Rangers: Rita's Rewind | 305016 | [305016-mighty-morphin-power-rangers-ritas-rewind.json](./305016-mighty-morphin-power-rangers-ritas-rewind.json) |
+| Mighty Morphin Power Rangers: The Fighting Edition | 3287 | [3287-mighty-morphin-power-rangers-the-fighting-edition.json](./3287-mighty-morphin-power-rangers-the-fighting-edition.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
@@ -7616,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
 | Misaligned | 239698 | [239698-misaligned.json](./239698-misaligned.json) |
+| Misao | 47097 | [47097-misao.json](./47097-misao.json) |
 | Misao: 2024 HD Remaster | 313167 | [313167-misao-2024-hd-remaster.json](./313167-misao-2024-hd-remaster.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
@@ -11472,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
+| My Friendly Neighborhood | 172023 | [172023-my-friendly-neighborhood.json](./172023-my-friendly-neighborhood.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Friends | 90916 | [90916-my-friends.json](./90916-my-friends.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
