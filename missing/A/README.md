@@ -3511,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed Evolution | 21109 | [21109-alien-breed-evolution.json](./21109-alien-breed-evolution.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
 | Alien Breed Special Edition / Qwak | 82505 | [82505-alien-breed-special-edition-qwak.json](./82505-alien-breed-special-edition-qwak.json) |
+| Alien Breed: Impact | 9964 | [9964-alien-breed-impact.json](./9964-alien-breed-impact.json) |
 | Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
 | Alien Bubble Destroyer | 81998 | [81998-alien-bubble-destroyer.json](./81998-alien-bubble-destroyer.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
 | Angry Birds Fuji TV | 218530 | [218530-angry-birds-fuji-tv.json](./218530-angry-birds-fuji-tv.json) |
+| Angry Birds Go! | 23412 | [23412-angry-birds-go.json](./23412-angry-birds-go.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
