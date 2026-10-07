@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
+| Jawbreaker | 18757 | [18757-jawbreaker.json](./18757-jawbreaker.json) |
 | Jawbreaker | 217341 | [217341-jawbreaker.json](./217341-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
@@ -1484,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
+| Joint Task Force | 19354 | [19354-joint-task-force.json](./19354-joint-task-force.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | Joint War | 210706 | [210706-joint-war.json](./210706-joint-war.json) |
 | Joinz | 68927 | [68927-joinz.json](./68927-joinz.json) |
@@ -1571,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoonGo Playground | 112259 | [112259-joongo-playground.json](./112259-joongo-playground.json) |
 | JoonGo Playground | 112268 | [112268-joongo-playground.json](./112268-joongo-playground.json) |
 | Jordan vs. Bird | 361785 | [361785-jordan-vs-bird.json](./361785-jordan-vs-bird.json) |
+| Jordan vs. Bird: One on One | 18837 | [18837-jordan-vs-bird-one-on-one.json](./18837-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 330926 | [330926-jordan-vs-bird-one-on-one.json](./330926-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | Jordi & Oslo: The Lost Tail | 303593 | [303593-jordi-and-oslo-the-lost-tail.json](./303593-jordi-and-oslo-the-lost-tail.json) |
