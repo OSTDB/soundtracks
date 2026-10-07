@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
+| Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 194266 | [194266-pirates-of-the-caribbean-dead-mans-chest.json](./194266-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
+| Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
@@ -9402,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: The Will to Fabricate | 5993 | [5993-psyvariar-2-the-will-to-fabricate.json](./5993-psyvariar-2-the-will-to-fabricate.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
+| PT Boats: South Gambit | 15770 | [15770-pt-boats-south-gambit.json](./15770-pt-boats-south-gambit.json) |
 | PT-109 | 71181 | [71181-pt-109.json](./71181-pt-109.json) |
 | PTCS: A Post Traumatic Christmas Special | 312624 | [312624-ptcs-a-post-traumatic-christmas-special.json](./312624-ptcs-a-post-traumatic-christmas-special.json) |
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
