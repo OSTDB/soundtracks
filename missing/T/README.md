@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
 | Teenage Mutant Ninja Turtles: Tactical Takedown | 324571 | [324571-teenage-mutant-ninja-turtles-tactical-takedown.json](./324571-teenage-mutant-ninja-turtles-tactical-takedown.json) |
+| Teenage Mutant Ninja Turtles: The Cowabunga Collection | 194206 | [194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json](./194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
 | Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: The Shredder Reborn | 78280 | [78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json](./78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
 | The Binding of Isaac: Repentance | 109241 | [109241-the-binding-of-isaac-repentance.json](./109241-the-binding-of-isaac-repentance.json) |
+| The Binding of Isaac: Repentance | 228374 | [228374-the-binding-of-isaac-repentance.json](./228374-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
@@ -3948,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
+| The Bookwalker: Thief of Tales | 172454 | [172454-the-bookwalker-thief-of-tales.json](./172454-the-bookwalker-thief-of-tales.json) |
 | The Boomies Show | 405633 | [405633-the-boomies-show.json](./405633-the-boomies-show.json) |
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
 | The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
@@ -4074,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
 | The Callisto Protocol: Digital Deluxe Edition | 205001 | [205001-the-callisto-protocol-digital-deluxe-edition.json](./205001-the-callisto-protocol-digital-deluxe-edition.json) |
+| The Callisto Protocol: Final Transmission | 254275 | [254275-the-callisto-protocol-final-transmission.json](./254275-the-callisto-protocol-final-transmission.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
@@ -9078,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
+| The Roottrees Are Dead | 288983 | [288983-the-roottrees-are-dead.json](./288983-the-roottrees-are-dead.json) |
 | The Roscoe: Who's Ya Daddy? | 183587 | [183587-the-roscoe-whos-ya-daddy.json](./183587-the-roscoe-whos-ya-daddy.json) |
 | The Rose and I | 34596 | [34596-the-rose-and-i.json](./34596-the-rose-and-i.json) |
 | The Rose Garden | 105113 | [105113-the-rose-garden.json](./105113-the-rose-garden.json) |
@@ -14067,6 +14072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
+| Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
 | Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
@@ -14671,6 +14677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
 | Tony Hawk's Pro Skater 3 | 334248 | [334248-tony-hawks-pro-skater-3.json](./334248-tony-hawks-pro-skater-3.json) |
+| Tony Hawk's Pro Skater 3+4 | 334243 | [334243-tony-hawks-pro-skater-3-4.json](./334243-tony-hawks-pro-skater-3-4.json) |
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
