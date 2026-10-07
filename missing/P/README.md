@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
+| Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Man | 321431 | [321431-party-man.json](./321431-party-man.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
+| Party Mix | 40660 | [40660-party-mix.json](./40660-party-mix.json) |
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
 | Party Park | 226155 | [226155-party-park.json](./226155-party-park.json) |
@@ -2792,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
+| Peter Penguin | 40677 | [40677-peter-penguin.json](./40677-peter-penguin.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Rabbit: Let's Go! | 104458 | [104458-peter-rabbit-lets-go.json](./104458-peter-rabbit-lets-go.json) |
 | Peter Rabbit's Number Garden | 208865 | [208865-peter-rabbits-number-garden.json](./208865-peter-rabbits-number-garden.json) |
@@ -3071,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh ISO | 209969 | [209969-pharaoh-iso.json](./209969-pharaoh-iso.json) |
 | Pharaoh Miracle Legend | 107097 | [107097-pharaoh-miracle-legend.json](./107097-pharaoh-miracle-legend.json) |
 | Pharaoh Rebirth+ | 20102 | [20102-pharaoh-rebirth.json](./20102-pharaoh-rebirth.json) |
+| Pharaoh's Curse | 40659 | [40659-pharaohs-curse.json](./40659-pharaohs-curse.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
 | Pharaoh's Revenge | 55206 | [55206-pharaohs-revenge.json](./55206-pharaohs-revenge.json) |
 | Pharaoh's Secret | 309030 | [309030-pharaohs-secret.json](./309030-pharaohs-secret.json) |
@@ -3116,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phil the Pill: Interstellar | 237437 | [237437-phil-the-pill-interstellar.json](./237437-phil-the-pill-interstellar.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
+| Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
@@ -6610,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
+| Polo | 40661 | [40661-polo.json](./40661-polo.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
