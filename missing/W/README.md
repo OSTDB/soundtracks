@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock | 13044 | [13044-warlock.json](./13044-warlock.json) |
 | Warlock | 19773 | [19773-warlock.json](./19773-warlock.json) |
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
+| Warlock II: The Exiled - Wrath of the Nagas | 19207 | [19207-warlock-ii-the-exiled-wrath-of-the-nagas.json](./19207-warlock-ii-the-exiled-wrath-of-the-nagas.json) |
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
 | Warlock Survivors | 244215 | [244215-warlock-survivors.json](./244215-warlock-survivors.json) |
 | Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
+| Windwalker | 14483 | [14483-windwalker.json](./14483-windwalker.json) |
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
 | Wing Commander 5: Prophecy - Gold Edition | 51779 | [51779-wing-commander-5-prophecy-gold-edition.json](./51779-wing-commander-5-prophecy-gold-edition.json) |
+| Wing Commander Academy | 14484 | [14484-wing-commander-academy.json](./14484-wing-commander-academy.json) |
 | Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
@@ -5418,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
+| WWF WrestleMania Challenge | 19513 | [19513-wwf-wrestlemania-challenge.json](./19513-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
 | WWI Medic | 71605 | [71605-wwi-medic.json](./71605-wwi-medic.json) |
