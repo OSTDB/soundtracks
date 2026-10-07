@@ -854,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
 | 2006 FIFA World Cup | 240282 | [240282-2006-fifa-world-cup.json](./240282-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 240284 | [240284-2006-fifa-world-cup.json](./240284-2006-fifa-world-cup.json) |
+| 2006 FIFA World Cup | 5474 | [5474-2006-fifa-world-cup.json](./5474-2006-fifa-world-cup.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
 | 2010 FIFA World Cup South Africa | 240362 | [240362-2010-fifa-world-cup-south-africa.json](./240362-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240363 | [240363-2010-fifa-world-cup-south-africa.json](./240363-2010-fifa-world-cup-south-africa.json) |
