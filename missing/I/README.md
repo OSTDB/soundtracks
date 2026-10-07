@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | ICarly: Isock it to 'Em | 210076 | [210076-icarly-isock-it-to-em.json](./210076-icarly-isock-it-to-em.json) |
+| Icarus | 134813 | [134813-icarus.json](./134813-icarus.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus | 274674 | [274674-icarus.json](./274674-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If My Heart Had Wings: Flight Diary | 110756 | [110756-if-my-heart-had-wings-flight-diary.json](./110756-if-my-heart-had-wings-flight-diary.json) |
 | If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
+| If on a Winter's Night, Four Travelers | 144554 | [144554-if-on-a-winters-night-four-travelers.json](./144554-if-on-a-winters-night-four-travelers.json) |
 | If Only... | 75012 | [75012-if-only.json](./75012-if-only.json) |
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
 | If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
@@ -1693,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Space | 237275 | [237275-in-space.json](./237275-in-space.json) |
 | In Space No One Can Hear You Clean | 159788 | [159788-in-space-no-one-can-hear-you-clean.json](./159788-in-space-no-one-can-hear-you-clean.json) |
 | In Space We Brawl: Full Arsenal Edition | 106082 | [106082-in-space-we-brawl-full-arsenal-edition.json](./106082-in-space-we-brawl-full-arsenal-edition.json) |
+| In Stars and Time | 194696 | [194696-in-stars-and-time.json](./194696-in-stars-and-time.json) |
 | In Style | 276243 | [276243-in-style.json](./276243-in-style.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In Ten Years | 329151 | [329151-in-ten-years.json](./329151-in-ten-years.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Coaster | 303581 | [303581-infinite-coaster.json](./303581-infinite-coaster.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Country | 265573 | [265573-infinite-country.json](./265573-infinite-country.json) |
+| Infinite Craft | 285172 | [285172-infinite-craft.json](./285172-infinite-craft.json) |
 | Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
