@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Indiana Jones: The Original Adventures / Kung Fu Panda | 142110 | [142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json](./142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
+| LEGO Island 2: The Brickster's Revenge | 5616 | [5616-lego-island-2-the-bricksters-revenge.json](./5616-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
 | Luminaya | 372640 | [372640-luminaya.json](./372640-luminaya.json) |
 | LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
+| Lumines | 4689 | [4689-lumines.json](./4689-lumines.json) |
 | Lumines Arise: Digital Deluxe Edition | 363530 | [363530-lumines-arise-digital-deluxe-edition.json](./363530-lumines-arise-digital-deluxe-edition.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
