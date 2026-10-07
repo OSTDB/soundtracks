@@ -3450,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
+| Beholder: Complete Edition | 82372 | [82372-beholder-complete-edition.json](./82372-beholder-complete-edition.json) |
 | Beholder: Conductor | 298041 | [298041-beholder-conductor.json](./298041-beholder-conductor.json) |
 | Beholder's Lair | 143525 | [143525-beholders-lair.json](./143525-beholders-lair.json) |
 | Beholgar | 142421 | [142421-beholgar.json](./142421-beholgar.json) |
@@ -3552,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 | 100278 | [100278-ben-10.json](./100278-ben-10.json) |
 | Ben 10 | 247451 | [247451-ben-10.json](./247451-ben-10.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
+| Ben 10 | 71455 | [71455-ben-10.json](./71455-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
 | Ben 10 Alien Force: Forever Defense | 328024 | [328024-ben-10-alien-force-forever-defense.json](./328024-ben-10-alien-force-forever-defense.json) |
 | Ben 10 Bundle | 146329 | [146329-ben-10-bundle.json](./146329-ben-10-bundle.json) |
@@ -5658,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: Heat the Soul 5 | 72958 | [72958-bleach-heat-the-soul-5.json](./72958-bleach-heat-the-soul-5.json) |
 | Bleach: Heat the Soul 6 | 69255 | [69255-bleach-heat-the-soul-6.json](./69255-bleach-heat-the-soul-6.json) |
+| Bleach: Heat the Soul 7 | 66765 | [66765-bleach-heat-the-soul-7.json](./66765-bleach-heat-the-soul-7.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
 | Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
 | Bleach: Soul Carnival | 25930 | [25930-bleach-soul-carnival.json](./25930-bleach-soul-carnival.json) |
@@ -7142,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman '94 | 3448 | [3448-bomberman-94.json](./3448-bomberman-94.json) |
 | Bomberman 2004 | 198196 | [198196-bomberman-2004.json](./198196-bomberman-2004.json) |
 | Bomberman 3D BT Wide-ban | 198213 | [198213-bomberman-3d-bt-wide-ban.json](./198213-bomberman-3d-bt-wide-ban.json) |
+| Bomberman 64 | 80368 | [80368-bomberman-64.json](./80368-bomberman-64.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
@@ -9364,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
 | Bubonic: OutBreak | 36243 | [36243-bubonic-outbreak.json](./36243-bubonic-outbreak.json) |
 | Bubsy 3D | 7806 | [7806-bubsy-3d.json](./7806-bubsy-3d.json) |
+| Bubsy 3D: Bubsy Visits the James Turrell Retrospective | 62466 | [62466-bubsy-3d-bubsy-visits-the-james-turrell-retrospective.json](./62466-bubsy-3d-bubsy-visits-the-james-turrell-retrospective.json) |
 | Bubsy II | 307065 | [307065-bubsy-ii.json](./307065-bubsy-ii.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
