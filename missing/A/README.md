@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
+| Alan Wake II: Night Springs | 273996 | [273996-alan-wake-ii-night-springs.json](./273996-alan-wake-ii-night-springs.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alan Wake Remastered | 167611 | [167611-alan-wake-remastered.json](./167611-alan-wake-remastered.json) |
 | Alan Wake: Limited Collector's Edition | 47474 | [47474-alan-wake-limited-collectors-edition.json](./47474-alan-wake-limited-collectors-edition.json) |
@@ -7880,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
+| Art of Fighting | 4514 | [4514-art-of-fighting.json](./4514-art-of-fighting.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Fighting: Trouble in South Town | 230256 | [230256-art-of-fighting-trouble-in-south-town.json](./230256-art-of-fighting-trouble-in-south-town.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
