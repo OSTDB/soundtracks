@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
+| Harmful Park | 44878 | [44878-harmful-park.json](./44878-harmful-park.json) |
 | Harmful: The Second Tape | 187884 | [187884-harmful-the-second-tape.json](./187884-harmful-the-second-tape.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwild Solitaire: Book Two | 96852 | [96852-heartwild-solitaire-book-two.json](./96852-heartwild-solitaire-book-two.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
+| Heartworm | 132711 | [132711-heartworm.json](./132711-heartworm.json) |
 | Heat | 183400 | [183400-heat.json](./183400-heat.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
 | Heat and Run | 130120 | [130120-heat-and-run.json](./130120-heat-and-run.json) |
@@ -3282,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero of the Kingdom II | 13661 | [13661-hero-of-the-kingdom-ii.json](./13661-hero-of-the-kingdom-ii.json) |
 | Hero of the Kingdom III | 81893 | [81893-hero-of-the-kingdom-iii.json](./81893-hero-of-the-kingdom-iii.json) |
+| Hero of the Kingdom: The Lost Tales 1 | 132174 | [132174-hero-of-the-kingdom-the-lost-tales-1.json](./132174-hero-of-the-kingdom-the-lost-tales-1.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero of the Obelisk | 23551 | [23551-hero-of-the-obelisk.json](./23551-hero-of-the-obelisk.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
@@ -7037,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
 | Hydrofusion Substation | 270677 | [270677-hydrofusion-substation.json](./270677-hydrofusion-substation.json) |
 | Hydrogen | 295875 | [295875-hydrogen.json](./295875-hydrogen.json) |
+| Hydroneer | 123783 | [123783-hydroneer.json](./123783-hydroneer.json) |
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
@@ -7208,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island | 170401 | [170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json](./170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia Unlimited | 400492 | [400492-hyperdimension-neptunia-unlimited.json](./400492-hyperdimension-neptunia-unlimited.json) |
+| Hyperdimension Neptunia Victory | 44578 | [44578-hyperdimension-neptunia-victory.json](./44578-hyperdimension-neptunia-victory.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
 | HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
