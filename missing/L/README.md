@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | Letterbox by Powgi | 219522 | [219522-letterbox-by-powgi.json](./219522-letterbox-by-powgi.json) |
+| Lettercraft | 56310 | [56310-lettercraft.json](./56310-lettercraft.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
@@ -3036,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
 | Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
+| Lineage II: Grand Crusade | 56276 | [56276-lineage-ii-grand-crusade.json](./56276-lineage-ii-grand-crusade.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineage M | 78248 | [78248-lineage-m.json](./78248-lineage-m.json) |
 | Lineage: The Blood Pledge | 78247 | [78247-lineage-the-blood-pledge.json](./78247-lineage-the-blood-pledge.json) |
@@ -4768,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lot Lot | 40368 | [40368-lot-lot.json](./40368-lot-lot.json) |
 | Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
+| Lothgar Online | 56315 | [56315-lothgar-online.json](./56315-lothgar-online.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | LotR: Realms in Exile | 277527 | [277527-lotr-realms-in-exile.json](./277527-lotr-realms-in-exile.json) |
