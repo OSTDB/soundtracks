@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Fear | 310648 | [310648-industrial-fear.json](./310648-industrial-fear.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
+| Industrial Spy: Operation Espionage | 45851 | [45851-industrial-spy-operation-espionage.json](./45851-industrial-spy-operation-espionage.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industring | 303577 | [303577-industring.json](./303577-industring.json) |
@@ -3246,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
+| Iron Aces | 45853 | [45853-iron-aces.json](./45853-iron-aces.json) |
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
 | Iron Age | 173054 | [173054-iron-age.json](./173054-iron-age.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
@@ -3453,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishidó: The Way of Stones | 14525 | [14525-ishido-the-way-of-stones.json](./14525-ishido-the-way-of-stones.json) |
 | Ishidó: The Way of Stones | 152385 | [152385-ishido-the-way-of-stones.json](./152385-ishido-the-way-of-stones.json) |
 | Ishidó: The Way of Stones | 46206 | [46206-ishido-the-way-of-stones.json](./46206-ishido-the-way-of-stones.json) |
+| Ishii Hisaichi no Daiseikai | 45868 | [45868-ishii-hisaichi-no-daiseikai.json](./45868-ishii-hisaichi-no-daiseikai.json) |
 | Ishika & Honori | 124241 | [124241-ishika-and-honori.json](./124241-ishika-and-honori.json) |
 | Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
 | Ishin no Arashi: Bakumatsu Shishi-den | 186737 | [186737-ishin-no-arashi-bakumatsu-shishi-den.json](./186737-ishin-no-arashi-bakumatsu-shishi-den.json) |
