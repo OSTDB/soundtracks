@@ -4880,6 +4880,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
+| Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
+| Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
 | Shining Girls | 292623 | [292623-shining-girls.json](./292623-shining-girls.json) |
 | Shining Hearts | 66402 | [66402-shining-hearts.json](./66402-shining-hearts.json) |
@@ -9925,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chrono Adventure | 19739 | [19739-sonic-chrono-adventure.json](./19739-sonic-chrono-adventure.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
+| Sonic Classics | 46204 | [46204-sonic-classics.json](./46204-sonic-classics.json) |
 | Sonic Clockwork | 417679 | [417679-sonic-clockwork.json](./417679-sonic-clockwork.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Color Contrast | 129145 | [129145-sonic-color-contrast.json](./129145-sonic-color-contrast.json) |
@@ -14028,6 +14031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
 | Star Trek: The Next Generation - Birth of the Federation | 50436 | [50436-star-trek-the-next-generation-birth-of-the-federation.json](./50436-star-trek-the-next-generation-birth-of-the-federation.json) |
+| Star Trek: The Next Generation - Echoes from the Past | 46195 | [46195-star-trek-the-next-generation-echoes-from-the-past.json](./46195-star-trek-the-next-generation-echoes-from-the-past.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
@@ -15045,6 +15049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
+| Steel Empire | 45536 | [45536-steel-empire.json](./45536-steel-empire.json) |
 | Steel Empire | 45588 | [45588-steel-empire.json](./45588-steel-empire.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Fight | 116920 | [116920-steel-fight.json](./116920-steel-fight.json) |
@@ -16142,6 +16147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II | 48280 | [48280-street-fighter-ii.json](./48280-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
 | Street Fighter II: Champion Edition | 39496 | [39496-street-fighter-ii-champion-edition.json](./39496-street-fighter-ii-champion-edition.json) |
+| Street Fighter II: Movie | 45192 | [45192-street-fighter-ii-movie.json](./45192-street-fighter-ii-movie.json) |
 | Street Fighter II: Ryu vs. Sagat | 155516 | [155516-street-fighter-ii-ryu-vs-sagat.json](./155516-street-fighter-ii-ryu-vs-sagat.json) |
 | Street Fighter II: Special Champion Edition | 4367 | [4367-street-fighter-ii-special-champion-edition.json](./4367-street-fighter-ii-special-champion-edition.json) |
 | Street Fighter II' Turbo | 18626 | [18626-street-fighter-ii-turbo.json](./18626-street-fighter-ii-turbo.json) |
