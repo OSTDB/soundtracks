@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
 | Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
+| Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
