@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
+| Dead Space: Ignition | 20450 | [20450-dead-space-ignition.json](./20450-dead-space-ignition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spell | 400250 | [400250-dead-spell.json](./400250-dead-spell.json) |
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
@@ -8093,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag'n Wash | 417585 | [417585-dragn-wash.json](./417585-dragn-wash.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
+| Dragalia Lost | 99118 | [99118-dragalia-lost.json](./99118-dragalia-lost.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | Dragged Deep | 358364 | [358364-dragged-deep.json](./358364-dragged-deep.json) |
 | Draggin' | 345663 | [345663-draggin.json](./345663-draggin.json) |
