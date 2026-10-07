@@ -8971,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
 | Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
+| Brutal: Above the Claw | 45879 | [45879-brutal-above-the-claw.json](./45879-brutal-above-the-claw.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
