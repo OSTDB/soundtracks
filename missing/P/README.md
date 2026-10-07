@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.O.S.S.U.M. | 323271 | [323271-p-o-s-s-u-m.json](./323271-p-o-s-s-u-m.json) |
 | P.O.W. | 72333 | [72333-p-o-w.json](./72333-p-o-w.json) |
 | P.O.W.: Prisoners of War | 274103 | [274103-p-o-w-prisoners-of-war.json](./274103-p-o-w-prisoners-of-war.json) |
+| P.O.W.: Prisoners of War | 6820 | [6820-p-o-w-prisoners-of-war.json](./6820-p-o-w-prisoners-of-war.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
 | P.T. Barnum's Acrobats | 41558 | [41558-p-t-barnums-acrobats.json](./41558-p-t-barnums-acrobats.json) |
@@ -6010,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
+| Pokémon Art Academy | 7410 | [7410-pokemon-art-academy.json](./7410-pokemon-art-academy.json) |
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
 | Pokemon Auto Chess | 307245 | [307245-pokemon-auto-chess.json](./307245-pokemon-auto-chess.json) |
@@ -7200,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port of Call | 35598 | [35598-port-of-call.json](./35598-port-of-call.json) |
 | Port of Mars | 256811 | [256811-port-of-mars.json](./256811-port-of-mars.json) |
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
+| Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
