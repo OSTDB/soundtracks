@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
+| S&box | 142355 | [142355-s-and-box.json](./142355-s-and-box.json) |
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
 | SeekIt: The Isle of Mem | 306011 | [306011-seekit-the-isle-of-mem.json](./306011-seekit-the-isle-of-mem.json) |
+| Seekl | 301111 | [301111-seekl.json](./301111-seekl.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | SeekSeek: A Hide & Seek Adventure | 185471 | [185471-seekseek-a-hide-and-seek-adventure.json](./185471-seekseek-a-hide-and-seek-adventure.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
@@ -4253,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Garden | 240834 | [240834-shape-garden.json](./240834-shape-garden.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
+| Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
@@ -4830,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
 | Shin XALX no Monshou 98 | 92124 | [92124-shin-xalx-no-monshou-98.json](./92124-shin-xalx-no-monshou-98.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
+| Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey | 143621 | [143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json](./143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
@@ -5285,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Star | 344581 | [344581-shooting-star.json](./344581-shooting-star.json) |
 | Shooting Star Island | 194982 | [194982-shooting-star-island.json](./194982-shooting-star-island.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
+| Shooting Stars! | 19292 | [19292-shooting-stars.json](./19292-shooting-stars.json) |
 | Shooting Survival | 248149 | [248149-shooting-survival.json](./248149-shooting-survival.json) |
 | Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
@@ -14041,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
 | Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
+| Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
 | Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Battlefront: Rogue One - X-Wing VR Mission | 52879 | [52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json](./52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json) |
@@ -14160,6 +14166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
+| Star Wars: The Clone Wars - Jedi Alliance | 21335 | [21335-star-wars-the-clone-wars-jedi-alliance.json](./21335-star-wars-the-clone-wars-jedi-alliance.json) |
 | Star Wars: The Clone Wars - Lightsaber Duels | 5194 | [5194-star-wars-the-clone-wars-lightsaber-duels.json](./5194-star-wars-the-clone-wars-lightsaber-duels.json) |
 | Star Wars: The Clone Wars - Path of the Jedi | 343373 | [343373-star-wars-the-clone-wars-path-of-the-jedi.json](./343373-star-wars-the-clone-wars-path-of-the-jedi.json) |
 | Star Wars: The Clone Wars - Republic Heroes | 193296 | [193296-star-wars-the-clone-wars-republic-heroes.json](./193296-star-wars-the-clone-wars-republic-heroes.json) |
@@ -16027,6 +16034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Content: A Simple Mechanic, a Simple Game | 358361 | [358361-streamer-content-a-simple-mechanic-a-simple-game.json](./358361-streamer-content-a-simple-mechanic-a-simple-game.json) |
 | Streamer Daily | 130275 | [130275-streamer-daily.json](./130275-streamer-daily.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
+| Streamer Life Simulator 2 | 293118 | [293118-streamer-life-simulator-2.json](./293118-streamer-life-simulator-2.json) |
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
 | Streamer Screamer | 375937 | [375937-streamer-screamer.json](./375937-streamer-screamer.json) |
@@ -18521,6 +18529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario.exe Reborn | 323877 | [323877-super-mario-exe-reborn.json](./323877-super-mario-exe-reborn.json) |
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
 | Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
+| Super Mariomon | 338407 | [338407-super-mariomon.json](./338407-super-mariomon.json) |
 | Super Marisa Land | 77632 | [77632-super-marisa-land.json](./77632-super-marisa-land.json) |
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
 | Super Marisa World Fusion | 322790 | [322790-super-marisa-world-fusion.json](./322790-super-marisa-world-fusion.json) |
@@ -18673,6 +18682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
 | Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
 | Super Night at the Gates of Hell | 263538 | [263538-super-night-at-the-gates-of-hell.json](./263538-super-night-at-the-gates-of-hell.json) |
+| Super Night Riders | 19887 | [19887-super-night-riders.json](./19887-super-night-riders.json) |
 | Super Night Riders S1 | 193196 | [193196-super-night-riders-s1.json](./193196-super-night-riders-s1.json) |
 | Super Nihon Cheating Cup 86' | 369691 | [369691-super-nihon-cheating-cup-86.json](./369691-super-nihon-cheating-cup-86.json) |
 | Super Ninja | 299411 | [299411-super-ninja.json](./299411-super-ninja.json) |
