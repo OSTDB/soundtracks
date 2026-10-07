@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Motocross | 214594 | [214594-vs-motocross.json](./214594-vs-motocross.json) |
 | Vs. Ninja JaJaMaru-kun | 214577 | [214577-vs-ninja-jajamaru-kun.json](./214577-vs-ninja-jajamaru-kun.json) |
 | Vs. Nintendo 500 | 214595 | [214595-vs-nintendo-500.json](./214595-vs-nintendo-500.json) |
+| Vs. Pinball | 40118 | [40118-vs-pinball.json](./40118-vs-pinball.json) |
 | Vs. Platoon | 214593 | [214593-vs-platoon.json](./214593-vs-platoon.json) |
 | Vs. Puyo Puyo Sun | 215749 | [215749-vs-puyo-puyo-sun.json](./215749-vs-puyo-puyo-sun.json) |
 | Vs. Racing | 259071 | [259071-vs-racing.json](./259071-vs-racing.json) |
