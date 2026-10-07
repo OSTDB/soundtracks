@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
+| Jewel Venture | 40707 | [40707-jewel-venture.json](./40707-jewel-venture.json) |
 | Jewel Warehouse | 355233 | [355233-jewel-warehouse.json](./355233-jewel-warehouse.json) |
 | Jewel Wars | 146726 | [146726-jewel-wars.json](./146726-jewel-wars.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
