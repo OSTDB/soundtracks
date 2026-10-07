@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Present Variety Q-Sama!! DS Pressure Study x Atama ga Yoku naru Drill SP | 133798 | [133798-quiz-present-variety-q-sama-ds-pressure-study-x-atama-ga-yoku-naru-drill-sp.json](./133798-quiz-present-variety-q-sama-ds-pressure-study-x-atama-ga-yoku-naru-drill-sp.json) |
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
 | Quiz Realm | 198360 | [198360-quiz-realm.json](./198360-quiz-realm.json) |
+| Quiz RPG: The World of Mystic Wiz | 56307 | [56307-quiz-rpg-the-world-of-mystic-wiz.json](./56307-quiz-rpg-the-world-of-mystic-wiz.json) |
 | Quiz Sekai ha Show by Shoubai!! | 64927 | [64927-quiz-sekai-ha-show-by-shoubai.json](./64927-quiz-sekai-ha-show-by-shoubai.json) |
 | Quiz Show | 112889 | [112889-quiz-show.json](./112889-quiz-show.json) |
 | Quiz Show | 79378 | [79378-quiz-show.json](./79378-quiz-show.json) |
