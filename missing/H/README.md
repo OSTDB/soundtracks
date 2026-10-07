@@ -6605,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
+| Humble Abode | 43185 | [43185-humble-abode.json](./43185-humble-abode.json) |
 | Humble Pie | 96873 | [96873-humble-pie.json](./96873-humble-pie.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
