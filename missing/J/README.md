@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance Online: Reloaded - Shadow | 168752 | [168752-jagged-alliance-online-reloaded-shadow.json](./168752-jagged-alliance-online-reloaded-shadow.json) |
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
 | Jagged Alliance: Complete Edition | 98495 | [98495-jagged-alliance-complete-edition.json](./98495-jagged-alliance-complete-edition.json) |
+| Jagged Alliance: Deadly Games | 8 | [8-jagged-alliance-deadly-games.json](./8-jagged-alliance-deadly-games.json) |
 | Jagged Bone | 177826 | [177826-jagged-bone.json](./177826-jagged-bone.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jon's Jigsaw Puzzle | 357909 | [357909-jons-jigsaw-puzzle.json](./357909-jons-jigsaw-puzzle.json) |
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
 | Jonah Considers What Is Asked of Him | 375384 | [375384-jonah-considers-what-is-asked-of-him.json](./375384-jonah-considers-what-is-asked-of-him.json) |
+| Jonah Lomu Rugby | 2401 | [2401-jonah-lomu-rugby.json](./2401-jonah-lomu-rugby.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
