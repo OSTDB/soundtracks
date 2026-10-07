@@ -4463,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
 | Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
+| Granhistoria: Genshi Sekaiki | 38223 | [38223-granhistoria-genshi-sekaiki.json](./38223-granhistoria-genshi-sekaiki.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
