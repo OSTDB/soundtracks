@@ -5762,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortitude Tower Defense | 333149 | [333149-fortitude-tower-defense.json](./333149-fortitude-tower-defense.json) |
 | Fortix 2 | 15024 | [15024-fortix-2.json](./15024-fortix-2.json) |
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
+| Fortnite | 231090 | [231090-fortnite.json](./231090-fortnite.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Ain't No Rest For The Wicked | 366340 | [366340-fortnite-festival-aint-no-rest-for-the-wicked.json](./366340-fortnite-festival-aint-no-rest-for-the-wicked.json) |
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
