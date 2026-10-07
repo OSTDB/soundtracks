@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
+| F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
 | F.E.X (Forced Evolution Experiment) | 55522 | [55522-f-e-x-forced-evolution-experiment.json](./55522-f-e-x-forced-evolution-experiment.json) |
 | F.H. Memento: Love Beyond | 101728 | [101728-f-h-memento-love-beyond.json](./101728-f-h-memento-love-beyond.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fap Queen | 110145 | [110145-fap-queen.json](./110145-fap-queen.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
+| Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
@@ -1385,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
+| Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
@@ -1413,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Manager 2022 | 193460 | [193460-farm-manager-2022.json](./193460-farm-manager-2022.json) |
 | Farm Manager World | 257967 | [257967-farm-manager-world.json](./257967-farm-manager-world.json) |
 | Farm Mania 3 | 180113 | [180113-farm-mania-3.json](./180113-farm-mania-3.json) |
+| Farm Mechanic Simulator 2015 | 53056 | [53056-farm-mechanic-simulator-2015.json](./53056-farm-mechanic-simulator-2015.json) |
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
@@ -1515,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2013: Lindner Unitrac | 166093 | [166093-farming-simulator-2013-lindner-unitrac.json](./166093-farming-simulator-2013-lindner-unitrac.json) |
 | Farming Simulator 2013: Marshall Trailers | 166097 | [166097-farming-simulator-2013-marshall-trailers.json](./166097-farming-simulator-2013-marshall-trailers.json) |
 | Farming Simulator 2013: Official Expansion | 166094 | [166094-farming-simulator-2013-official-expansion.json](./166094-farming-simulator-2013-official-expansion.json) |
+| Farming Simulator 2013: Titanium Edition | 53052 | [53052-farming-simulator-2013-titanium-edition.json](./53052-farming-simulator-2013-titanium-edition.json) |
 | Farming Simulator 2013: Ursus | 166096 | [166096-farming-simulator-2013-ursus.json](./166096-farming-simulator-2013-ursus.json) |
 | Farming Simulator 2013: Väderstad | 166092 | [166092-farming-simulator-2013-vaderstad.json](./166092-farming-simulator-2013-vaderstad.json) |
 | Farming Simulator 2014 | 3181 | [3181-farming-simulator-2014.json](./3181-farming-simulator-2014.json) |
@@ -1576,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
+| Fasaria World: Ancients of Moons | 53051 | [53051-fasaria-world-ancients-of-moons.json](./53051-fasaria-world-ancients-of-moons.json) |
 | Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
 | Fascination | 205658 | [205658-fascination.json](./205658-fascination.json) |
 | Fashion AR | 116406 | [116406-fashion-ar.json](./116406-fashion-ar.json) |
@@ -2217,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum | 406729 | [406729-ferrum.json](./406729-ferrum.json) |
 | Ferrum inc | 199571 | [199571-ferrum-inc.json](./199571-ferrum-inc.json) |
 | Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
+| Ferrum's Secrets: Where is grandpa? - Collector's edition | 53047 | [53047-ferrums-secrets-where-is-grandpa-collectors-edition.json](./53047-ferrums-secrets-where-is-grandpa-collectors-edition.json) |
 | Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
 | Ferus: The Dark Abyss | 385829 | [385829-ferus-the-dark-abyss.json](./385829-ferus-the-dark-abyss.json) |
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
@@ -2382,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
+| FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
 | FIFA 19 | 240453 | [240453-fifa-19.json](./240453-fifa-19.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
@@ -3186,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
+| Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
@@ -5530,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Simulator 2019 | 112048 | [112048-forklift-simulator-2019.json](./112048-forklift-simulator-2019.json) |
 | Forklift Simulator 2023 | 255158 | [255158-forklift-simulator-2023.json](./255158-forklift-simulator-2023.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
+| Forklift Truck Simulator | 53065 | [53065-forklift-truck-simulator.json](./53065-forklift-truck-simulator.json) |
 | Forklift: Simulator | 344425 | [344425-forklift-simulator.json](./344425-forklift-simulator.json) |
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forknite | 313201 | [313201-forknite.json](./313201-forknite.json) |
@@ -5641,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
 | Fort Defense, Fort Defense North Menace & DayD Tower Rush | 99792 | [99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json](./99792-fort-defense-fort-defense-north-menace-and-dayd-tower-rush.json) |
+| Fort Defense: Complete Edition | 53064 | [53064-fort-defense-complete-edition.json](./53064-fort-defense-complete-edition.json) |
 | Fort Defense: North Menace | 62011 | [62011-fort-defense-north-menace.json](./62011-fort-defense-north-menace.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
@@ -5792,11 +5803,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Teller Simulator | 388385 | [388385-fortune-teller-simulator.json](./388385-fortune-teller-simulator.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
 | Fortune the Fated | 223415 | [223415-fortune-the-fated.json](./223415-fortune-the-fated.json) |
+| Fortune Tiles Gold | 53063 | [53063-fortune-tiles-gold.json](./53063-fortune-tiles-gold.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
 | Fortune's Tavern: Fantasy Tavern Simulation Remastered | 55292 | [55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json](./55292-fortunes-tavern-fantasy-tavern-simulation-remastered.json) |
+| Fortune's Tavern: The Fantasy Tavern Simulator | 53062 | [53062-fortunes-tavern-the-fantasy-tavern-simulator.json](./53062-fortunes-tavern-the-fantasy-tavern-simulator.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Guns and Goblins | 170812 | [170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json](./170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
@@ -5880,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FOS | 129637 | [129637-fos.json](./129637-fos.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Echo | 18231 | [18231-fossil-echo.json](./18231-fossil-echo.json) |
+| Fossil Echo: Special Edition | 53061 | [53061-fossil-echo-special-edition.json](./53061-fossil-echo-special-edition.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
@@ -7239,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
 | Full Spectrum Warrior | 5840 | [5840-full-spectrum-warrior.json](./5840-full-spectrum-warrior.json) |
+| Full Spectrum Warrior Complete | 53060 | [53060-full-spectrum-warrior-complete.json](./53060-full-spectrum-warrior-complete.json) |
 | Full Speed Animals: Disorder | 296380 | [296380-full-speed-animals-disorder.json](./296380-full-speed-animals-disorder.json) |
 | Full Speed Animals: The RTA | 289369 | [289369-full-speed-animals-the-rta.json](./289369-full-speed-animals-the-rta.json) |
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
@@ -7359,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
 | Funkels | 373103 | [373103-funkels.json](./373103-funkels.json) |
 | Funkin' at Freddy's + Afton Full Week | 298722 | [298722-funkin-at-freddys-afton-full-week.json](./298722-funkin-at-freddys-afton-full-week.json) |
+| Funklift: Deluxe Edition | 53059 | [53059-funklift-deluxe-edition.json](./53059-funklift-deluxe-edition.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 1 - Monkey Assassin + Sam (Retail Only) | 378880 | [378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json](./378880-funko-fusion-deluxe-edition-fantastik-plastik-pack-1-monkey-assassin-sam-retail-only.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 2 - Rocko Billy, Chet (Retails Only) | 378881 | [378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json](./378881-funko-fusion-deluxe-edition-fantastik-plastik-pack-2-rocko-billy-chet-retails-only.json) |
 | Funko Fusion Deluxe Edition: Fantastik Plastik Pack 4 - T-Bone + El Diablo (Retails Only) | 378882 | [378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json](./378882-funko-fusion-deluxe-edition-fantastik-plastik-pack-4-t-bone-el-diablo-retails-only.json) |
@@ -7447,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furi | 17026 | [17026-furi.json](./17026-furi.json) |
 | Furi Demake: The Chain | 278637 | [278637-furi-demake-the-chain.json](./278637-furi-demake-the-chain.json) |
+| Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
 | Furi: Onnamusha | 200436 | [200436-furi-onnamusha.json](./200436-furi-onnamusha.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
