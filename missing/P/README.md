@@ -354,6 +354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painball | 70618 | [70618-painball.json](./70618-painball.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| Painkiller Pandemonium | 54262 | [54262-painkiller-pandemonium.json](./54262-painkiller-pandemonium.json) |
+| Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
 | Painkiller: Hell & Damnation: Collector's Edition | 25046 | [25046-painkiller-hell-and-damnation-collectors-edition.json](./25046-painkiller-hell-and-damnation-collectors-edition.json) |
 | Painkiller: Hell Wars | 20755 | [20755-painkiller-hell-wars.json](./20755-painkiller-hell-wars.json) |
 | Painkiller: Night Watch Pack | 374737 | [374737-painkiller-night-watch-pack.json](./374737-painkiller-night-watch-pack.json) |
@@ -543,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
+| Palm Kingdoms 2 Deluxe | 54260 | [54260-palm-kingdoms-2-deluxe.json](./54260-palm-kingdoms-2-deluxe.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Sugar: A Village Story | 287713 | [287713-palm-sugar-a-village-story.json](./287713-palm-sugar-a-village-story.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
@@ -1583,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
 | Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
 | Passport to London | 55851 | [55851-passport-to-london.json](./55851-passport-to-london.json) |
+| Passport to Paradise | 54259 | [54259-passport-to-paradise.json](./54259-passport-to-paradise.json) |
 | Passport to Paris | 55849 | [55849-passport-to-paris.json](./55849-passport-to-paris.json) |
 | Passport to Prague | 55852 | [55852-passport-to-prague.json](./55852-passport-to-prague.json) |
 | Passport to Romance | 313821 | [313821-passport-to-romance.json](./313821-passport-to-romance.json) |
@@ -1686,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Octavius | 243815 | [243815-path-to-octavius.json](./243815-path-to-octavius.json) |
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
+| Path to Success | 54258 | [54258-path-to-success.json](./54258-path-to-success.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
@@ -2102,8 +2107,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Harbor Attack! Attack! | 71730 | [71730-pearl-harbor-attack-attack.json](./71730-pearl-harbor-attack-attack.json) |
 | Pearl Harbor: Defend the Fleet | 69574 | [69574-pearl-harbor-defend-the-fleet.json](./69574-pearl-harbor-defend-the-fleet.json) |
+| Pearl Harbor: Fire on the Water | 54256 | [54256-pearl-harbor-fire-on-the-water.json](./54256-pearl-harbor-fire-on-the-water.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
+| Pearl Harbour 2: Day of Infamy | 54255 | [54255-pearl-harbour-2-day-of-infamy.json](./54255-pearl-harbour-2-day-of-infamy.json) |
 | Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pearl's Peril | 86803 | [86803-pearls-peril.json](./86803-pearls-peril.json) |
