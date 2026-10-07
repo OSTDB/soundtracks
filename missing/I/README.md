@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initen | 115720 | [115720-initen.json](./115720-initen.json) |
 | Initia: Elemental Arena | 32942 | [32942-initia-elemental-arena.json](./32942-initia-elemental-arena.json) |
 | Initial 2: New Stage | 107414 | [107414-initial-2-new-stage.json](./107414-initial-2-new-stage.json) |
+| Initial D | 43854 | [43854-initial-d.json](./43854-initial-d.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
