@@ -2020,6 +2020,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
+| GG Nibbles | 46529 | [46529-gg-nibbles.json](./46529-gg-nibbles.json) |
+| GG Portrait: Akira Yuki | 46528 | [46528-gg-portrait-akira-yuki.json](./46528-gg-portrait-akira-yuki.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
 | Ggang! | 114914 | [114914-ggang.json](./114914-ggang.json) |
 | Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
@@ -3558,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Nugget Casino DS | 128369 | [128369-golden-nugget-casino-ds.json](./128369-golden-nugget-casino-ds.json) |
 | Golden Oldies 1: Guardian and Invaders | 45928 | [45928-golden-oldies-1-guardian-and-invaders.json](./45928-golden-oldies-1-guardian-and-invaders.json) |
 | Golden Oldies 2: Blockbuster and Bughunt | 45927 | [45927-golden-oldies-2-blockbuster-and-bughunt.json](./45927-golden-oldies-2-blockbuster-and-bughunt.json) |
+| Golden Oldies Jukebox CD-I : An Interactive Music Video Experience | 46548 | [46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json](./46548-golden-oldies-jukebox-cd-i-an-interactive-music-video-experience.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
 | Golden Rails: Harvest of Riddles | 278519 | [278519-golden-rails-harvest-of-riddles.json](./278519-golden-rails-harvest-of-riddles.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
@@ -4632,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
+| Gravitrex | 46506 | [46506-gravitrex.json](./46506-gravitrex.json) |
 | GravitreX Arcade | 159635 | [159635-gravitrex-arcade.json](./159635-gravitrex-arcade.json) |
 | Gravitrex Plus | 63811 | [63811-gravitrex-plus.json](./63811-gravitrex-plus.json) |
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
