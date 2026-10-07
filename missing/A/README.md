@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | Airball | 146513 | [146513-airball.json](./146513-airball.json) |
 | Airballs | 278081 | [278081-airballs.json](./278081-airballs.json) |
+| AirBlade | 8231 | [8231-airblade.json](./8231-airblade.json) |
 | AirBob | 295874 | [295874-airbob.json](./295874-airbob.json) |
 | Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
+| Airwolf | 8848 | [8848-airwolf.json](./8848-airwolf.json) |
 | Airxonix | 15827 | [15827-airxonix.json](./15827-airxonix.json) |
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
 | Aisle | 130832 | [130832-aisle.json](./130832-aisle.json) |
@@ -4055,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark 2 | 1957 | [1957-alone-in-the-dark-2.json](./1957-alone-in-the-dark-2.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
+| Alone in the Dark: Illumination | 7716 | [7716-alone-in-the-dark-illumination.json](./7716-alone-in-the-dark-illumination.json) |
 | Alone in the Dark: The Gates of Hell | 375455 | [375455-alone-in-the-dark-the-gates-of-hell.json](./375455-alone-in-the-dark-the-gates-of-hell.json) |
 | Alone in the Dark: The New Nightmare | 1960 | [1960-alone-in-the-dark-the-new-nightmare.json](./1960-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
@@ -5781,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno Domini 1257 | 356207 | [356207-anno-domini-1257.json](./356207-anno-domini-1257.json) |
 | Anno Domini 1259 | 356151 | [356151-anno-domini-1259.json](./356151-anno-domini-1259.json) |
 | Anno Mitsumasa Pepperon-mura no Shiki | 245246 | [245246-anno-mitsumasa-pepperon-mura-no-shiki.json](./245246-anno-mitsumasa-pepperon-mura-no-shiki.json) |
+| Anno Online | 8111 | [8111-anno-online.json](./8111-anno-online.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
 | Anno: Mutationem | 106980 | [106980-anno-mutationem.json](./106980-anno-mutationem.json) |
 | Annoy Squidward | 324931 | [324931-annoy-squidward.json](./324931-annoy-squidward.json) |
@@ -9412,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | ATV Mudracer | 52428 | [52428-atv-mudracer.json](./52428-atv-mudracer.json) |
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
+| ATV Offroad Fury 2 | 8270 | [8270-atv-offroad-fury-2.json](./8270-atv-offroad-fury-2.json) |
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
@@ -10126,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
 | Aztecs: The Last Sun | 243211 | [243211-aztecs-the-last-sun.json](./243211-aztecs-the-last-sun.json) |
 | Aztex | 14278 | [14278-aztex.json](./14278-aztex.json) |
+| Aztez | 8651 | [8651-aztez.json](./8651-aztez.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
 | Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
