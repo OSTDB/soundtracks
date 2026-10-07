@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
 | Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
+| Vision Origin | 28735 | [28735-vision-origin.json](./28735-vision-origin.json) |
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
 | Vision Soft Reset | 113732 | [113732-vision-soft-reset.json](./113732-vision-soft-reset.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
