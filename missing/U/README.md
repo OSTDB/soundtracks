@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Paintball Challenge | 206620 | [206620-ultimate-paintball-challenge.json](./206620-ultimate-paintball-challenge.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
+| Ultimate Party Challenge | 51059 | [51059-ultimate-party-challenge.json](./51059-ultimate-party-challenge.json) |
 | Ultimate Pinball | 146840 | [146840-ultimate-pinball.json](./146840-ultimate-pinball.json) |
 | Ultimate Pinball | 206621 | [206621-ultimate-pinball.json](./206621-ultimate-pinball.json) |
 | Ultimate Pinball Extreme | 206053 | [206053-ultimate-pinball-extreme.json](./206053-ultimate-pinball-extreme.json) |
