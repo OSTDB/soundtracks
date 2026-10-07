@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 15: Holmer | 166091 | [166091-farming-simulator-15-holmer.json](./166091-farming-simulator-15-holmer.json) |
 | Farming Simulator 15: JCB | 166084 | [166084-farming-simulator-15-jcb.json](./166084-farming-simulator-15-jcb.json) |
 | Farming Simulator 15: New Holland Pack | 166083 | [166083-farming-simulator-15-new-holland-pack.json](./166083-farming-simulator-15-new-holland-pack.json) |
+| Farming Simulator 17 | 19409 | [19409-farming-simulator-17.json](./19409-farming-simulator-17.json) |
 | Farming Simulator 17 big bud pack | 110336 | [110336-farming-simulator-17-big-bud-pack.json](./110336-farming-simulator-17-big-bud-pack.json) |
 | Farming Simulator 17: KUHN Equipment Pack | 166090 | [166090-farming-simulator-17-kuhn-equipment-pack.json](./166090-farming-simulator-17-kuhn-equipment-pack.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
@@ -1837,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella Link: Premium Edition | 136766 | [136766-fate-extella-link-premium-edition.json](./136766-fate-extella-link-premium-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
+| Fate/Extella: The Umbral Star | 19799 | [19799-fate-extella-the-umbral-star.json](./19799-fate-extella-the-umbral-star.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
 | Fate/Grand Order Arcade | 54898 | [54898-fate-grand-order-arcade.json](./54898-fate-grand-order-arcade.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
@@ -2686,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
+| Figment 2: Creed Valley | 119801 | [119801-figment-2-creed-valley.json](./119801-figment-2-creed-valley.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
 | Figuras y Figuraciones | 284569 | [284569-figuras-y-figuraciones.json](./284569-figuras-y-figuraciones.json) |
