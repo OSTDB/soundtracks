@@ -493,11 +493,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
+| Halo 3: Limited Edition | 45147 | [45147-halo-3-limited-edition.json](./45147-halo-3-limited-edition.json) |
 | Halo 3: The Battlefront Pack | 332561 | [332561-halo-3-the-battlefront-pack.json](./332561-halo-3-the-battlefront-pack.json) |
 | Halo 4: Castle Map Pack | 75416 | [75416-halo-4-castle-map-pack.json](./75416-halo-4-castle-map-pack.json) |
 | Halo 4: Champions Bundle | 20855 | [20855-halo-4-champions-bundle.json](./20855-halo-4-champions-bundle.json) |
 | Halo 4: Crimson Map Pack | 75414 | [75414-halo-4-crimson-map-pack.json](./75414-halo-4-crimson-map-pack.json) |
 | Halo 4: King of the Hill Fueled by Mountain Dew | 77343 | [77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json](./77343-halo-4-king-of-the-hill-fueled-by-mountain-dew.json) |
+| Halo 4: Limited Edition | 45148 | [45148-halo-4-limited-edition.json](./45148-halo-4-limited-edition.json) |
 | Halo 4: Majestic Map Pack | 75415 | [75415-halo-4-majestic-map-pack.json](./75415-halo-4-majestic-map-pack.json) |
 | Halo 5: Guardians - Digital Deluxe Edition | 75413 | [75413-halo-5-guardians-digital-deluxe-edition.json](./75413-halo-5-guardians-digital-deluxe-edition.json) |
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
@@ -4695,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Fan | 365797 | [365797-hit-the-fan.json](./365797-hit-the-fan.json) |
 | Hit the Hive | 96866 | [96866-hit-the-hive.json](./96866-hit-the-hive.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
+| Hit the Ice: The Video Hockey League | 46208 | [46208-hit-the-ice-the-video-hockey-league.json](./46208-hit-the-ice-the-video-hockey-league.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | HitagiDrops | 286601 | [286601-hitagidrops.json](./286601-hitagidrops.json) |
