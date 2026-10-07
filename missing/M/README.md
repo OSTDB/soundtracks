@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
 | Martial Heroes | 68119 | [68119-martial-heroes.json](./68119-martial-heroes.json) |
+| Martial Law | 168099 | [168099-martial-law.json](./168099-martial-law.json) |
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
 | Mayhem À La Carte | 417462 | [417462-mayhem-a-la-carte.json](./417462-mayhem-a-la-carte.json) |
 | Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
+| Mayhem Brawler | 143858 | [143858-mayhem-brawler.json](./143858-mayhem-brawler.json) |
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaplex Madness: Now Playing | 64730 | [64730-megaplex-madness-now-playing.json](./64730-megaplex-madness-now-playing.json) |
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
+| Megaquarium | 28072 | [28072-megaquarium.json](./28072-megaquarium.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace | 4283 | [4283-megarace.json](./4283-megarace.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
@@ -6457,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Aphid 2 | 231987 | [231987-mighty-aphid-2.json](./231987-mighty-aphid-2.json) |
 | Mighty Bomb Jack | 40531 | [40531-mighty-bomb-jack.json](./40531-mighty-bomb-jack.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
+| Mighty Doom | 148394 | [148394-mighty-doom.json](./148394-mighty-doom.json) |
 | Mighty Ducks | 198818 | [198818-mighty-ducks.json](./198818-mighty-ducks.json) |
 | Mighty Final Fight | 1658 | [1658-mighty-final-fight.json](./1658-mighty-final-fight.json) |
 | Mighty Fling | 135758 | [135758-mighty-fling.json](./135758-mighty-fling.json) |
@@ -6861,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
+| Minds Beneath Us | 152379 | [152379-minds-beneath-us.json](./152379-minds-beneath-us.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
@@ -11229,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV Legends: KTM Pack | 259753 | [259753-mx-vs-atv-legends-ktm-pack.json](./259753-mx-vs-atv-legends-ktm-pack.json) |
 | MX vs. ATV Legends: Track Pass | 350652 | [350652-mx-vs-atv-legends-track-pass.json](./350652-mx-vs-atv-legends-track-pass.json) |
 | MX vs. ATV: All Out - Anniversary Edition | 115472 | [115472-mx-vs-atv-all-out-anniversary-edition.json](./115472-mx-vs-atv-all-out-anniversary-edition.json) |
+| MX vs. ATV: Legends | 171216 | [171216-mx-vs-atv-legends.json](./171216-mx-vs-atv-legends.json) |
 | MX vs. ATV: Legends - 2022 AMA Pro Motocross Championship | 208228 | [208228-mx-vs-atv-legends-2022-ama-pro-motocross-championship.json](./208228-mx-vs-atv-legends-2022-ama-pro-motocross-championship.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 AMA Pro Motocross Championship | 302034 | [302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json](./302034-mx-vs-atv-legends-2024-ama-pro-motocross-championship.json) |
