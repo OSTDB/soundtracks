@@ -3172,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Otome Edition | 29145 | [29145-resident-evil-4-otome-edition.json](./29145-resident-evil-4-otome-edition.json) |
 | Resident Evil 4: Premium Edition | 41861 | [41861-resident-evil-4-premium-edition.json](./41861-resident-evil-4-premium-edition.json) |
+| Resident Evil 4: Separate Ways | 266717 | [266717-resident-evil-4-separate-ways.json](./266717-resident-evil-4-separate-ways.json) |
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Treasure Map - Expansion | 266389 | [266389-resident-evil-4-treasure-map-expansion.json](./266389-resident-evil-4-treasure-map-expansion.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
@@ -3198,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
 | Resident Evil Requiem: Leon Must Die Forever | 400876 | [400876-resident-evil-requiem-leon-must-die-forever.json](./400876-resident-evil-requiem-leon-must-die-forever.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
+| Resident Evil Survivor | 967 | [967-resident-evil-survivor.json](./967-resident-evil-survivor.json) |
 | Resident Evil Village: Gold Edition | 204722 | [204722-resident-evil-village-gold-edition.json](./204722-resident-evil-village-gold-edition.json) |
 | Resident Evil Village: Shadows of Rose | 230951 | [230951-resident-evil-village-shadows-of-rose.json](./230951-resident-evil-village-shadows-of-rose.json) |
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
@@ -7035,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
 | Runaway Train 2D | 400908 | [400908-runaway-train-2d.json](./400908-runaway-train-2d.json) |
 | Runaway VR | 54446 | [54446-runaway-vr.json](./54446-runaway-vr.json) |
+| Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
