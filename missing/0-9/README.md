@@ -418,7 +418,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Words | 83913 | [83913-1000-words.json](./83913-1000-words.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
+| 1000cc Turbo | 12347 | [12347-1000cc-turbo.json](./12347-1000cc-turbo.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
+| 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
 | 1001 Jigsaw Detective | 166639 | [166639-1001-jigsaw-detective.json](./166639-1001-jigsaw-detective.json) |
@@ -661,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180! Darts | 261965 | [261965-180-darts.json](./261965-180-darts.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
 | 1812: The Invasion of Canada | 28752 | [28752-1812-the-invasion-of-canada.json](./28752-1812-the-invasion-of-canada.json) |
+| 1815 | 12354 | [12354-1815.json](./12354-1815.json) |
 | 1830: Railroads & Robber Barons | 12373 | [12373-1830-railroads-and-robber-barons.json](./12373-1830-railroads-and-robber-barons.json) |
 | 1848 | 76205 | [76205-1848.json](./76205-1848.json) |
 | 1849: Gold Edition | 21656 | [21656-1849-gold-edition.json](./21656-1849-gold-edition.json) |
@@ -793,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Pattern | 219507 | [219507-2-pattern.json](./219507-2-pattern.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Player games : the Challenge | 208905 | [208905-2-player-games-the-challenge.json](./208905-2-player-games-the-challenge.json) |
+| 2 Player Soccer Squad | 12355 | [12355-2-player-soccer-squad.json](./12355-2-player-soccer-squad.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
@@ -1229,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Sun Temple | 308951 | [308951-3d-puzzle-sun-temple.json](./308951-3d-puzzle-sun-temple.json) |
 | 3D Puzzle: Underground | 308944 | [308944-3d-puzzle-underground.json](./308944-3d-puzzle-underground.json) |
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
+| 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
