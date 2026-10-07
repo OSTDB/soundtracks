@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
+| Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
 | Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi no Slime Factory | 355189 | [355189-levi-no-slime-factory.json](./355189-levi-no-slime-factory.json) |
