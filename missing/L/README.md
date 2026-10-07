@@ -1392,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
+| Legacy of Kain: Soul Reaver 2 | 7893 | [7893-legacy-of-kain-soul-reaver-2.json](./7893-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
 | Legacy of Kain: Soul Reaver Remastered | 324083 | [324083-legacy-of-kain-soul-reaver-remastered.json](./324083-legacy-of-kain-soul-reaver-remastered.json) |
 | Legacy of Kalevala | 304120 | [304120-legacy-of-kalevala.json](./304120-legacy-of-kalevala.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
+| LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman 3: Beyond Gotham - Premium Edition | 118897 | [118897-lego-batman-3-beyond-gotham-premium-edition.json](./118897-lego-batman-3-beyond-gotham-premium-edition.json) |
 | LEGO Batman Trilogy | 125173 | [125173-lego-batman-trilogy.json](./125173-lego-batman-trilogy.json) |
