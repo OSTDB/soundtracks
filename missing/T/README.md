@@ -3301,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: The Game | 6473 | [6473-the-adventures-of-tintin-the-game.json](./6473-the-adventures-of-tintin-the-game.json) |
+| The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
@@ -6306,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
+| The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
@@ -9327,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shochu Bar | 341011 | [341011-the-shochu-bar.json](./341011-the-shochu-bar.json) |
 | The Shocking World Mysteries | 399791 | [399791-the-shocking-world-mysteries.json](./399791-the-shocking-world-mysteries.json) |
 | The Shoe Dept. | 57481 | [57481-the-shoe-dept.json](./57481-the-shoe-dept.json) |
+| The Shogun Empire | 22130 | [22130-the-shogun-empire.json](./22130-the-shogun-empire.json) |
 | The Shoot | 20408 | [20408-the-shoot.json](./20408-the-shoot.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
@@ -9654,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
+| The Snowman and the Snowdog | 22200 | [22200-the-snowman-and-the-snowdog.json](./22200-the-snowman-and-the-snowdog.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
