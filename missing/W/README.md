@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
 | Wasteland Horror Radio: Episode 1 - The Radio | 360641 | [360641-wasteland-horror-radio-episode-1-the-radio.json](./360641-wasteland-horror-radio-episode-1-the-radio.json) |
+| Wasteland Kings | 53054 | [53054-wasteland-kings.json](./53054-wasteland-kings.json) |
 | Wasteland Kings Together | 176330 | [176330-wasteland-kings-together.json](./176330-wasteland-kings-together.json) |
 | Wasteland Kitchen | 344506 | [344506-wasteland-kitchen.json](./344506-wasteland-kitchen.json) |
 | Wasteland Orchard | 387646 | [387646-wasteland-orchard.json](./387646-wasteland-orchard.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
+| Widget's Odyssey II | 53048 | [53048-widgets-odyssey-ii.json](./53048-widgets-odyssey-ii.json) |
 | Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
 | Widgets Odyssey 2 | 42787 | [42787-widgets-odyssey-2.json](./42787-widgets-odyssey-2.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
@@ -3094,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildLife Tetris | 144621 | [144621-wildlife-tetris.json](./144621-wildlife-tetris.json) |
 | Wildlife VR | 32111 | [32111-wildlife-vr.json](./32111-wildlife-vr.json) |
 | Wildlife Zoo | 61441 | [61441-wildlife-zoo.json](./61441-wildlife-zoo.json) |
+| Wildlife: Forest Survival | 53046 | [53046-wildlife-forest-survival.json](./53046-wildlife-forest-survival.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | WildRoot | 409708 | [409708-wildroot.json](./409708-wildroot.json) |
@@ -3335,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
+| Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
 | Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
 | Wings of WW2 | 174112 | [174112-wings-of-ww2.json](./174112-wings-of-ww2.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
@@ -3738,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Judgement | 216824 | [216824-without-judgement.json](./216824-without-judgement.json) |
 | Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
 | Without Kungfu Shut Up | 111578 | [111578-without-kungfu-shut-up.json](./111578-without-kungfu-shut-up.json) |
+| Without Memory | 53043 | [53043-without-memory.json](./53043-without-memory.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
@@ -4034,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy: The Dragon's Trap | 212882 | [212882-wonder-boy-the-dragons-trap.json](./212882-wonder-boy-the-dragons-trap.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
 | Wonder Dog | 5463 | [5463-wonder-dog.json](./5463-wonder-dog.json) |
+| Wonder Flick | 53042 | [53042-wonder-flick.json](./53042-wonder-flick.json) |
 | Wonder Gravity | 76189 | [76189-wonder-gravity.json](./76189-wonder-gravity.json) |
 | Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
