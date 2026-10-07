@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
 | C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
+| C-Dogs | 23572 | [23572-c-dogs.json](./23572-c-dogs.json) |
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changer Seven | 240757 | [240757-changer-seven.json](./240757-changer-seven.json) |
 | Changes | 120147 | [120147-changes.json](./120147-changes.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
+| Changes | 23934 | [23934-changes.json](./23934-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
@@ -4695,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Super Collection | 51044 | [51044-chuck-e-cheeses-super-collection.json](./51044-chuck-e-cheeses-super-collection.json) |
 | Chuck Gnome | 76185 | [76185-chuck-gnome.json](./76185-chuck-gnome.json) |
 | Chuck Meowrris | 130167 | [130167-chuck-meowrris.json](./130167-chuck-meowrris.json) |
+| Chuck Norris Superkicks | 23573 | [23573-chuck-norris-superkicks.json](./23573-chuck-norris-superkicks.json) |
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
@@ -7247,6 +7250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Acquire | 24806 | [24806-computer-acquire.json](./24806-computer-acquire.json) |
 | Computer Air Combat | 24832 | [24832-computer-air-combat.json](./24832-computer-air-combat.json) |
+| Computer Ambush | 23571 | [23571-computer-ambush.json](./23571-computer-ambush.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
 | Computer Bismarck | 23996 | [23996-computer-bismarck.json](./23996-computer-bismarck.json) |
@@ -8105,6 +8109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
+| Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
 | Cornsweeper | 285039 | [285039-cornsweeper.json](./285039-cornsweeper.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
