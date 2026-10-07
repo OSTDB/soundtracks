@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
+| Zombie Pixel Zombie | 56314 | [56314-zombie-pixel-zombie.json](./56314-zombie-pixel-zombie.json) |
 | Zombie Police: Christmas Dancing with Police Zombies | 288443 | [288443-zombie-police-christmas-dancing-with-police-zombies.json](./288443-zombie-police-christmas-dancing-with-police-zombies.json) |
 | Zombie Protocol | 374254 | [374254-zombie-protocol.json](./374254-zombie-protocol.json) |
 | Zombie Quarantine | 43543 | [43543-zombie-quarantine.json](./43543-zombie-quarantine.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Attack | 207805 | [207805-zombies-attack.json](./207805-zombies-attack.json) |
 | Zombies Berserk | 55268 | [55268-zombies-berserk.json](./55268-zombies-berserk.json) |
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
+| Zombies Chasing My Cat | 56277 | [56277-zombies-chasing-my-cat.json](./56277-zombies-chasing-my-cat.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies Don't Drive | 150014 | [150014-zombies-dont-drive.json](./150014-zombies-dont-drive.json) |
 | Zombies Everywhere 3 | 405736 | [405736-zombies-everywhere-3.json](./405736-zombies-everywhere-3.json) |
