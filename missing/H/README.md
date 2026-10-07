@@ -4273,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas Trader | 73867 | [73867-high-seas-trader.json](./73867-high-seas-trader.json) |
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Seas: The Family Fortune | 70034 | [70034-high-seas-the-family-fortune.json](./70034-high-seas-the-family-fortune.json) |
+| High Seize | 6264 | [6264-high-seize.json](./6264-high-seize.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Trains 2 - England | 88742 | [88742-high-speed-trains-2-england.json](./88742-high-speed-trains-2-england.json) |
