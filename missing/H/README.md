@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawks Tactical | 30095 | [30095-hawks-tactical.json](./30095-hawks-tactical.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Hawthorn Park | 157218 | [157218-hawthorn-park.json](./157218-hawthorn-park.json) |
+| Haxball | 63583 | [63583-haxball.json](./63583-haxball.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hay Bales | 246507 | [246507-hay-bales.json](./246507-hay-bales.json) |
