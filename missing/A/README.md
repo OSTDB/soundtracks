@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A xustiza pola man | 176271 | [176271-a-xustiza-pola-man.json](./176271-a-xustiza-pola-man.json) |
 | A Year at Pooh Corner | 45575 | [45575-a-year-at-pooh-corner.json](./45575-a-year-at-pooh-corner.json) |
 | A Year of Riddles | 232505 | [232505-a-year-of-riddles.json](./232505-a-year-of-riddles.json) |
+| A Year of Springs | 147418 | [147418-a-year-of-springs.json](./147418-a-year-of-springs.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
+| Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
 | Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
 | AntiKiller | 52415 | [52415-antikiller.json](./52415-antikiller.json) |
 | AntiMatcher | 403582 | [403582-antimatcher.json](./403582-antimatcher.json) |
