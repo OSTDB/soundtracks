@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Mega Twins | 150656 | [150656-capcom-arcade-stadium-mega-twins.json](./150656-capcom-arcade-stadium-mega-twins.json) |
 | Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment | 234309 | [234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json](./234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json) |
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
+| Capcom baseball | 40129 | [40129-capcom-baseball.json](./40129-capcom-baseball.json) |
 | Capcom Beat 'Em Up Bundle: Collector's Box | 167077 | [167077-capcom-beat-em-up-bundle-collectors-box.json](./167077-capcom-beat-em-up-bundle-collectors-box.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
@@ -6055,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco | 380077 | [380077-coco.json](./380077-coco.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
+| Coco Loco | 40158 | [40158-coco-loco.json](./40158-coco-loco.json) |
 | Coco Notes | 243644 | [243644-coco-notes.json](./243644-coco-notes.json) |
 | Coco Pony - My Dream Pet | 96305 | [96305-coco-pony-my-dream-pet.json](./96305-coco-pony-my-dream-pet.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
@@ -6866,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
+| Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
@@ -10170,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushed in Time | 362089 | [362089-crushed-in-time.json](./362089-crushed-in-time.json) |
+| Crusher Makochan | 40109 | [40109-crusher-makochan.json](./40109-crusher-makochan.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
 | Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
@@ -11258,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
 | Cyber Surf | 89679 | [89679-cyber-surf.json](./89679-cyber-surf.json) |
 | Cyber Tamer | 245936 | [245936-cyber-tamer.json](./245936-cyber-tamer.json) |
+| Cyber Tank | 40107 | [40107-cyber-tank.json](./40107-cyber-tank.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
 | Cyber Taxi Simulator | 284948 | [284948-cyber-taxi-simulator.json](./284948-cyber-taxi-simulator.json) |
