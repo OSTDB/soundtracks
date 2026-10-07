@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechsprofit | 96842 | [96842-mechsprofit.json](./96842-mechsprofit.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
+| MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
