@@ -6079,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Portable | 25913 | [25913-djmax-portable.json](./25913-djmax-portable.json) |
+| DJMax Portable 3 | 44491 | [44491-djmax-portable-3.json](./44491-djmax-portable-3.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Ray | 64493 | [64493-djmax-ray.json](./64493-djmax-ray.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
@@ -10558,6 +10559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
+| Dynamaite the Las Vegas | 44441 | [44441-dynamaite-the-las-vegas.json](./44441-dynamaite-the-las-vegas.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
 | Dynamic Arms VR | 190968 | [190968-dynamic-arms-vr.json](./190968-dynamic-arms-vr.json) |
