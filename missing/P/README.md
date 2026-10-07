@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patrick's Parabox | 133227 | [133227-patricks-parabox.json](./133227-patricks-parabox.json) |
 | Patriotic Missile 3D | 104720 | [104720-patriotic-missile-3d.json](./104720-patriotic-missile-3d.json) |
+| Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
@@ -6978,6 +6979,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n pop globos | 50060 | [50060-popn-pop-globos.json](./50060-popn-pop-globos.json) |
 | Pop'n Stage EX | 314354 | [314354-popn-stage-ex.json](./314354-popn-stage-ex.json) |
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
+| Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
+| Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
 | Pop's Pop's | 254593 | [254593-pops-pops.json](./254593-pops-pops.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
@@ -8245,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
+| Pro 18: World Tour Golf | 43821 | [43821-pro-18-world-tour-golf.json](./43821-pro-18-world-tour-golf.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
 | Pro Backgammon | 97484 | [97484-pro-backgammon.json](./97484-pro-backgammon.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
