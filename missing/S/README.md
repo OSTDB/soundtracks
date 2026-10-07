@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Loose | 40412 | [40412-screw-loose.json](./40412-screw-loose.json) |
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
+| Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
@@ -7469,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
+| Slicker City | 57492 | [57492-slicker-city.json](./57492-slicker-city.json) |
 | Slickpoo : The Clown | 103983 | [103983-slickpoo-the-clown.json](./103983-slickpoo-the-clown.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
@@ -8275,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake.io | 330240 | [330240-snake-io.json](./330240-snake-io.json) |
+| Snake's Game | 57491 | [57491-snakes-game.json](./57491-snakes-game.json) |
 | Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
@@ -14522,6 +14525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam & Clicks | 350005 | [350005-steam-and-clicks.json](./350005-steam-and-clicks.json) |
 | Steam & Steel Railway Tycoon | 384191 | [384191-steam-and-steel-railway-tycoon.json](./384191-steam-and-steel-railway-tycoon.json) |
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
+| Steam and Sacrilege | 57493 | [57493-steam-and-sacrilege.json](./57493-steam-and-sacrilege.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
@@ -15169,6 +15173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
 | Stone Gate | 296005 | [296005-stone-gate.json](./296005-stone-gate.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
+| Stone Harbor | 57494 | [57494-stone-harbor.json](./57494-stone-harbor.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
@@ -16048,6 +16053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Study Arcade | 367497 | [367497-study-arcade.json](./367497-study-arcade.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
+| Stuff and Nonsense | 57488 | [57488-stuff-and-nonsense.json](./57488-stuff-and-nonsense.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
 | Stuffed | 396544 | [396544-stuffed.json](./396544-stuffed.json) |
