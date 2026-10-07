@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
+| Fire Pro Wrestling Returns | 28767 | [28767-fire-pro-wrestling-returns.json](./28767-fire-pro-wrestling-returns.json) |
 | Fire Pro Wrestling S: 6 Men Scramble | 46092 | [46092-fire-pro-wrestling-s-6-men-scramble.json](./46092-fire-pro-wrestling-s-6-men-scramble.json) |
 | Fire Pro Wrestling World: Deluxe Edition | 118928 | [118928-fire-pro-wrestling-world-deluxe-edition.json](./118928-fire-pro-wrestling-world-deluxe-edition.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
