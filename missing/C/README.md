@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalked | 90906 | [90906-chalked.json](./90906-chalked.json) |
 | Chalkship | 114924 | [114924-chalkship.json](./114924-chalkship.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
+| Challenge | 11150 | [11150-challenge.json](./11150-challenge.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
@@ -3432,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
+| Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
 | Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
@@ -7164,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communication Breakdown | 266294 | [266294-communication-breakdown.json](./266294-communication-breakdown.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Communist Mutants from Space | 11154 | [11154-communist-mutants-from-space.json](./11154-communist-mutants-from-space.json) |
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
 | Community Build Project 9: Halloween-2020 | 308480 | [308480-community-build-project-9-halloween-2020.json](./308480-community-build-project-9-halloween-2020.json) |
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
