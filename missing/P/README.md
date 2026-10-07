@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol Selección Española '98 | 78273 | [78273-pc-futbol-seleccion-espanola-98.json](./78273-pc-futbol-seleccion-espanola-98.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
 | PC Futbol Stars | 130122 | [130122-pc-futbol-stars.json](./130122-pc-futbol-stars.json) |
+| PC Genjin 3 Special | 37663 | [37663-pc-genjin-3-special.json](./37663-pc-genjin-3-special.json) |
 | PC Install Girl | 337177 | [337177-pc-install-girl.json](./337177-pc-install-girl.json) |
 | PC Jumps | 341587 | [341587-pc-jumps.json](./341587-pc-jumps.json) |
 | PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
+| Peachboy Legend II | 37655 | [37655-peachboy-legend-ii.json](./37655-peachboy-legend-ii.json) |
 | Peaches and Dreams | 293852 | [293852-peaches-and-dreams.json](./293852-peaches-and-dreams.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy | 92284 | [92284-peachy.json](./92284-peachy.json) |
@@ -7439,7 +7441,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
+| Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
+| Power League V | 37661 | [37661-power-league-v.json](./37661-power-league-v.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power Lode Runner | 38243 | [38243-power-lode-runner.json](./38243-power-lode-runner.json) |
@@ -8412,6 +8416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro Yakyuu Virtual Stadium: Professional Baseball | 268523 | [268523-pro-yakyuu-virtual-stadium-professional-baseball.json](./268523-pro-yakyuu-virtual-stadium-professional-baseball.json) |
+| Pro Yakyuu World Stadium '91 | 37660 | [37660-pro-yakyuu-world-stadium-91.json](./37660-pro-yakyuu-world-stadium-91.json) |
 | Pro Yakyuu: Family Stadium '90 | 218387 | [218387-pro-yakyuu-family-stadium-90.json](./218387-pro-yakyuu-family-stadium-90.json) |
 | Pro Yakyuu: Famista Online 2010 | 218396 | [218396-pro-yakyuu-famista-online-2010.json](./218396-pro-yakyuu-famista-online-2010.json) |
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
