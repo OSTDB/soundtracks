@@ -4918,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Engine | 29956 | [29956-love-engine.json](./29956-love-engine.json) |
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
 | Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
+| Love Football | 7059 | [7059-love-football.json](./7059-love-football.json) |
 | Love Furry Boys: Zodiac Dating App | 330238 | [330238-love-furry-boys-zodiac-dating-app.json](./330238-love-furry-boys-zodiac-dating-app.json) |
 | Love Furry Girls: Zodiac Dating App | 330239 | [330239-love-furry-girls-zodiac-dating-app.json](./330239-love-furry-girls-zodiac-dating-app.json) |
 | Love Games | 107425 | [107425-love-games.json](./107425-love-games.json) |
