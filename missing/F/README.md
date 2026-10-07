@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Faily Skater | 90787 | [90787-faily-skater.json](./90787-faily-skater.json) |
 | Faily Tumbler | 90351 | [90351-faily-tumbler.json](./90351-faily-tumbler.json) |
+| Fair | 57508 | [57508-fair.json](./57508-fair.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
 | Fallen Leaf | 141083 | [141083-fallen-leaf.json](./141083-fallen-leaf.json) |
+| Fallen Leaves | 57504 | [57504-fallen-leaves.json](./57504-fallen-leaves.json) |
 | Fallen Legion Revenants | 135342 | [135342-fallen-legion-revenants.json](./135342-fallen-legion-revenants.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
