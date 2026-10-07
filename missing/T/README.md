@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
+| Terminator Salvation | 4204 | [4204-terminator-salvation.json](./4204-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
@@ -3648,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
 | The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
+| The Bard's Tale | 3803 | [3803-the-bards-tale.json](./3803-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale IV: Barrows Deep - Platinum Edition | 102800 | [102800-the-bards-tale-iv-barrows-deep-platinum-edition.json](./102800-the-bards-tale-iv-barrows-deep-platinum-edition.json) |
@@ -6177,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hive | 125291 | [125291-the-hive.json](./125291-the-hive.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Hive | 95385 | [95385-the-hive.json](./95385-the-hive.json) |
+| The Hobbit | 3946 | [3946-the-hobbit.json](./3946-the-hobbit.json) |
 | The Hobbit : Gold Miner | 105873 | [105873-the-hobbit-gold-miner.json](./105873-the-hobbit-gold-miner.json) |
 | The Hobbit: Kingdoms of Middle Earth | 38905 | [38905-the-hobbit-kingdoms-of-middle-earth.json](./38905-the-hobbit-kingdoms-of-middle-earth.json) |
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
@@ -9448,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
+| The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
@@ -9899,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
+| The Suffering: Ties That Bind | 6181 | [6181-the-suffering-ties-that-bind.json](./6181-the-suffering-ties-that-bind.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suitcase | 196559 | [196559-the-suitcase.json](./196559-the-suitcase.json) |
@@ -10648,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
+| The Urbz: Sims in the City | 2158 | [2158-the-urbz-sims-in-the-city.json](./2158-the-urbz-sims-in-the-city.json) |
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
