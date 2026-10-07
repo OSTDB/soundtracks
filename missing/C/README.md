@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
+| Chess: The Gathering | 50446 | [50446-chess-the-gathering.json](./50446-chess-the-gathering.json) |
 | Chess: The Lost Pieces | 216702 | [216702-chess-the-lost-pieces.json](./216702-chess-the-lost-pieces.json) |
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
@@ -3723,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
+| Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
 | Chez Maxime | 41527 | [41527-chez-maxime.json](./41527-chez-maxime.json) |
@@ -4153,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
+| Chocolate Castle | 50445 | [50445-chocolate-castle.json](./50445-chocolate-castle.json) |
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
@@ -4397,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Massacre | 186281 | [186281-christmas-massacre.json](./186281-christmas-massacre.json) |
 | Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
 | Christmas Matchup | 92963 | [92963-christmas-matchup.json](./92963-christmas-matchup.json) |
+| Christmas Mission | 50402 | [50402-christmas-mission.json](./50402-christmas-mission.json) |
 | Christmas Morning | 187222 | [187222-christmas-morning.json](./187222-christmas-morning.json) |
 | Christmas Mosaic Puzzle | 104217 | [104217-christmas-mosaic-puzzle.json](./104217-christmas-mosaic-puzzle.json) |
 | Christmas Mutilator | 326235 | [326235-christmas-mutilator.json](./326235-christmas-mutilator.json) |
@@ -4757,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
+| Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella Phenomenon: Evermore | 156586 | [156586-cinderella-phenomenon-evermore.json](./156586-cinderella-phenomenon-evermore.json) |
@@ -4764,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella: An Interactive Fairytale | 114183 | [114183-cinderella-an-interactive-fairytale.json](./114183-cinderella-an-interactive-fairytale.json) |
 | Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
 | Cinderella: Princess of the Magic Kingdom | 319787 | [319787-cinderella-princess-of-the-magic-kingdom.json](./319787-cinderella-princess-of-the-magic-kingdom.json) |
+| Cinderella's Castle Designer | 50427 | [50427-cinderellas-castle-designer.json](./50427-cinderellas-castle-designer.json) |
 | Cinderella's Dollhouse | 209034 | [209034-cinderellas-dollhouse.json](./209034-cinderellas-dollhouse.json) |
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinderline | 392394 | [392394-cinderline.json](./392394-cinderline.json) |
@@ -10037,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
+| Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
