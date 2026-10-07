@@ -4570,6 +4570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
+| Megami Tensei Gaiden: Last Bible | 49830 | [49830-megami-tensei-gaiden-last-bible.json](./49830-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible II | 50051 | [50051-megami-tensei-gaiden-last-bible-ii.json](./50051-megami-tensei-gaiden-last-bible-ii.json) |
 | Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
@@ -10411,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man: Maze Madness | 239193 | [239193-ms-pac-man-maze-madness.json](./239193-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
+| Ms. Pac-Man: Special Color Edition | 49834 | [49834-ms-pac-man-special-color-edition.json](./49834-ms-pac-man-special-color-edition.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
 | Ms. Rein! Give me your Approval please! | 355178 | [355178-ms-rein-give-me-your-approval-please.json](./355178-ms-rein-give-me-your-approval-please.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
