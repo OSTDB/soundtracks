@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
+| Tetris26 | 40669 | [40669-tetris26.json](./40669-tetris26.json) |
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
 | Tetrius | 147325 | [147325-tetrius.json](./147325-tetrius.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
