@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
 | ZombieRun | 35514 | [35514-zombierun.json](./35514-zombierun.json) |
+| ZombieRush | 32767 | [32767-zombierush.json](./32767-zombierush.json) |
 | Zombies | 196006 | [196006-zombies.json](./196006-zombies.json) |
 | Zombies | 218976 | [218976-zombies.json](./218976-zombies.json) |
 | Zombies & Bullets | 372638 | [372638-zombies-and-bullets.json](./372638-zombies-and-bullets.json) |
