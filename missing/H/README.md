@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harlequinade | 406863 | [406863-harlequinade.json](./406863-harlequinade.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
+| Harley-Davidson & L.A. Riders | 39479 | [39479-harley-davidson-and-l-a-riders.json](./39479-harley-davidson-and-l-a-riders.json) |
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
@@ -5845,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Cam | 212196 | [212196-hot-cam.json](./212196-hot-cam.json) |
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Champions: Dream Team | 111612 | [111612-hot-champions-dream-team.json](./111612-hot-champions-dream-team.json) |
+| Hot Chase | 39480 | [39480-hot-chase.json](./39480-hot-chase.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Coffe Shop | 236773 | [236773-hot-coffe-shop.json](./236773-hot-coffe-shop.json) |
