@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Hotel 3: Mania | 180100 | [180100-janes-hotel-3-mania.json](./180100-janes-hotel-3-mania.json) |
 | Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
 | Jane’s Hotel: New story - Collector’s Edition | 246002 | [246002-jane-s-hotel-new-story-collector-s-edition.json](./246002-jane-s-hotel-new-story-collector-s-edition.json) |
+| Jane's Realty | 34154 | [34154-janes-realty.json](./34154-janes-realty.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jevilswap | 315035 | [315035-jevilswap.json](./315035-jevilswap.json) |
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
+| Jewel bits | 34151 | [34151-jewel-bits.json](./34151-jewel-bits.json) |
 | Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
