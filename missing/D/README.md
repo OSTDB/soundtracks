@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
+| Darwinia | 661 | [661-darwinia.json](./661-darwinia.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
@@ -7130,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country 4 | 186648 | [186648-donkey-kong-country-4.json](./186648-donkey-kong-country-4.json) |
 | Donkey Kong Country Mania | 162831 | [162831-donkey-kong-country-mania.json](./162831-donkey-kong-country-mania.json) |
 | Donkey Kong Country NES Edition | 338803 | [338803-donkey-kong-country-nes-edition.json](./338803-donkey-kong-country-nes-edition.json) |
+| Donkey Kong Country Returns HD | 306143 | [306143-donkey-kong-country-returns-hd.json](./306143-donkey-kong-country-returns-hd.json) |
 | Donkey Kong Country Returns HD: Version 1.1.0 | 386852 | [386852-donkey-kong-country-returns-hd-version-1-1-0.json](./386852-donkey-kong-country-returns-hd-version-1-1-0.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Country: Boss Blitz | 162832 | [162832-donkey-kong-country-boss-blitz.json](./162832-donkey-kong-country-boss-blitz.json) |
@@ -7164,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Junior | 305443 | [305443-donkey-kong-junior.json](./305443-donkey-kong-junior.json) |
 | Donkey Kong Junior | 40921 | [40921-donkey-kong-junior.json](./40921-donkey-kong-junior.json) |
 | Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
+| Donkey Kong Land 2 | 1093 | [1093-donkey-kong-land-2.json](./1093-donkey-kong-land-2.json) |
 | Donkey Kong Land 2: Game Boy Color Edition | 234032 | [234032-donkey-kong-land-2-game-boy-color-edition.json](./234032-donkey-kong-land-2-game-boy-color-edition.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
@@ -7465,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doors: Awakening | 132014 | [132014-doors-awakening.json](./132014-doors-awakening.json) |
 | Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
+| Doors: Paradox | 174803 | [174803-doors-paradox.json](./174803-doors-paradox.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
 | Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
@@ -8525,6 +8529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior IV | 16584 | [16584-dragon-warrior-iv.json](./16584-dragon-warrior-iv.json) |
 | Dragon Warrior Monsters 2: Cobi's Journey | 222275 | [222275-dragon-warrior-monsters-2-cobis-journey.json](./222275-dragon-warrior-monsters-2-cobis-journey.json) |
 | Dragon Warrior Monsters 2: Tara's Adventure | 222276 | [222276-dragon-warrior-monsters-2-taras-adventure.json](./222276-dragon-warrior-monsters-2-taras-adventure.json) |
+| Dragon Warrior VII | 1818 | [1818-dragon-warrior-vii.json](./1818-dragon-warrior-vii.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
 | Dragon World | 13608 | [13608-dragon-world.json](./13608-dragon-world.json) |
 | Dragon World 2001 | 40116 | [40116-dragon-world-2001.json](./40116-dragon-world-2001.json) |
@@ -10571,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustborn: The Vision Tour Bundle | 315518 | [315518-dustborn-the-vision-tour-bundle.json](./315518-dustborn-the-vision-tour-bundle.json) |
 | Dustbunny: Emotions to Plants | 322598 | [322598-dustbunny-emotions-to-plants.json](./322598-dustbunny-emotions-to-plants.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
+| Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
 | Dustin | 13614 | [13614-dustin.json](./13614-dustin.json) |
 | Dustino 64 | 295809 | [295809-dustino-64.json](./295809-dustino-64.json) |
 | Dustland | 260393 | [260393-dustland.json](./260393-dustland.json) |
