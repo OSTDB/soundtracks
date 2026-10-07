@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 248179 | [248179-iron-man.json](./248179-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
+| Iron Man | 4935 | [4935-iron-man.json](./4935-iron-man.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 240164 | [240164-iron-man-and-x-o-manowar-in-heavy-metal.json](./240164-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
