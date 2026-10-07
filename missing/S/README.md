@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
 | Scooby-Doo | 198881 | [198881-scooby-doo.json](./198881-scooby-doo.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
+| Scooby-Doo 2: Monsters Unleashed | 27602 | [27602-scooby-doo-2-monsters-unleashed.json](./27602-scooby-doo-2-monsters-unleashed.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and a Mummy, Too! | 242031 | [242031-scooby-doo-and-a-mummy-too.json](./242031-scooby-doo-and-a-mummy-too.json) |
 | Scooby-Doo and Scrappy-Doo | 13078 | [13078-scooby-doo-and-scrappy-doo.json](./13078-scooby-doo-and-scrappy-doo.json) |
@@ -4050,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
 | Shadowverse: Worlds Beyond | 339985 | [339985-shadowverse-worlds-beyond.json](./339985-shadowverse-worlds-beyond.json) |
 | Shadwen | 14747 | [14747-shadwen.json](./14747-shadwen.json) |
+| Shady Brook | 27603 | [27603-shady-brook.json](./27603-shady-brook.json) |
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
@@ -6384,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
+| Sinbad: Legend of the Seven Seas | 27605 | [27605-sinbad-legend-of-the-seven-seas.json](./27605-sinbad-legend-of-the-seven-seas.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
@@ -6414,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
+| Singles 2: Triple Trouble | 27606 | [27606-singles-2-triple-trouble.json](./27606-singles-2-triple-trouble.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
 | SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
@@ -8170,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoked Fish and Cabbage 2 | 278620 | [278620-smoked-fish-and-cabbage-2.json](./278620-smoked-fish-and-cabbage-2.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
+| Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smokin' Token | 58473 | [58473-smokin-token.json](./58473-smokin-token.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
@@ -14846,6 +14851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Team: Academy | 148933 | [148933-steel-team-academy.json](./148933-steel-team-academy.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Thunder | 65568 | [65568-steel-thunder.json](./65568-steel-thunder.json) |
+| Steel Tide | 27613 | [27613-steel-tide.json](./27613-steel-tide.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
@@ -16556,6 +16562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike Normandy | 53681 | [53681-sudden-strike-normandy.json](./53681-sudden-strike-normandy.json) |
 | Sudden Strike Trilogy | 53682 | [53682-sudden-strike-trilogy.json](./53682-sudden-strike-trilogy.json) |
 | Sudden Strike: Forever | 81471 | [81471-sudden-strike-forever.json](./81471-sudden-strike-forever.json) |
+| Sudden Strike: Resource War | 27609 | [27609-sudden-strike-resource-war.json](./27609-sudden-strike-resource-war.json) |
 | Suddenly an Ogre | 308493 | [308493-suddenly-an-ogre.json](./308493-suddenly-an-ogre.json) |
 | Suddenly Bird | 274672 | [274672-suddenly-bird.json](./274672-suddenly-bird.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
