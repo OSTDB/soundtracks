@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3d Inside 2: Hell | 143938 | [143938-d3d-inside-2-hell.json](./143938-d3d-inside-2-hell.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
+| D4: Dark Dreams Don't Die - Season 1: Deluxe Edition | 51756 | [51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json](./51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json) |
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
+| Democracy 3: Electioneering | 51754 | [51754-democracy-3-electioneering.json](./51754-democracy-3-electioneering.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
@@ -10196,6 +10198,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2 | 9767 | [9767-dungeons-2.json](./9767-dungeons-2.json) |
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
+| Dungeons 2: A Game of Winter | 51770 | [51770-dungeons-2-a-game-of-winter.json](./51770-dungeons-2-a-game-of-winter.json) |
+| Dungeons 2: A Song of Sand and Fire | 51769 | [51769-dungeons-2-a-song-of-sand-and-fire.json](./51769-dungeons-2-a-song-of-sand-and-fire.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
@@ -10493,6 +10497,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: The Beast - Hero of Harran Bundle | 406276 | [406276-dying-light-the-beast-hero-of-harran-bundle.json](./406276-dying-light-the-beast-hero-of-harran-bundle.json) |
 | Dying Light: The Beast - Hunter Essentials | 406278 | [406278-dying-light-the-beast-hunter-essentials.json](./406278-dying-light-the-beast-hunter-essentials.json) |
 | Dying Light: The Following - Astronaut Bundle | 169250 | [169250-dying-light-the-following-astronaut-bundle.json](./169250-dying-light-the-following-astronaut-bundle.json) |
+| Dying Light: The Following - Gun Psycho Bundle | 51768 | [51768-dying-light-the-following-gun-psycho-bundle.json](./51768-dying-light-the-following-gun-psycho-bundle.json) |
+| Dying Light: The Following - Harran Ranger Bundle | 51767 | [51767-dying-light-the-following-harran-ranger-bundle.json](./51767-dying-light-the-following-harran-ranger-bundle.json) |
+| Dying Light: The Following - Volatile Hunter Bundle | 51766 | [51766-dying-light-the-following-volatile-hunter-bundle.json](./51766-dying-light-the-following-volatile-hunter-bundle.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
