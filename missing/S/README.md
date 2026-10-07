@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Racing Classic | 67347 | [67347-sega-racing-classic.json](./67347-sega-racing-classic.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
+| Sega Rally 3 | 1575 | [1575-sega-rally-3.json](./1575-sega-rally-3.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
 | Sega Rally Championship Plus NetLink Edition | 374707 | [374707-sega-rally-championship-plus-netlink-edition.json](./374707-sega-rally-championship-plus-netlink-edition.json) |
 | Sega Rally Online Arcade | 20592 | [20592-sega-rally-online-arcade.json](./20592-sega-rally-online-arcade.json) |
@@ -6137,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
 | SimCity 4 | 1275 | [1275-simcity-4.json](./1275-simcity-4.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
+| SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
 | SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity Deluxe | 351165 | [351165-simcity-deluxe.json](./351165-simcity-deluxe.json) |
@@ -9198,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
+| Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
 | Solar Blast | 147648 | [147648-solar-blast.json](./147648-solar-blast.json) |
 | Solar Cage | 189038 | [189038-solar-cage.json](./189038-solar-cage.json) |
@@ -13949,6 +13952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars Zero Company | 340113 | [340113-star-wars-zero-company.json](./340113-star-wars-zero-company.json) |
+| Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
@@ -16126,6 +16130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rogue: Character Pack | 155053 | [155053-streets-of-rogue-character-pack.json](./155053-streets-of-rogue-character-pack.json) |
 | Streets of Rogue: Character Pack Edition | 196279 | [196279-streets-of-rogue-character-pack-edition.json](./196279-streets-of-rogue-character-pack-edition.json) |
 | Streets of Rogue: Collector's Edition | 53680 | [53680-streets-of-rogue-collectors-edition.json](./53680-streets-of-rogue-collectors-edition.json) |
+| Streets of SimCity | 1497 | [1497-streets-of-simcity.json](./1497-streets-of-simcity.json) |
 | Streets of Slender-Man | 267952 | [267952-streets-of-slender-man.json](./267952-streets-of-slender-man.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
