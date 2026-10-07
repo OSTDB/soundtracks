@@ -2370,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
+| Hellbent | 13069 | [13069-hellbent.json](./13069-hellbent.json) |
 | Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | HellBorn | 373154 | [373154-hellborn.json](./373154-hellborn.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia Unlimited | 400492 | [400492-hyperdimension-neptunia-unlimited.json](./400492-hyperdimension-neptunia-unlimited.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
+| Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
 | HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
 | Hyperdrive | 309051 | [309051-hyperdrive.json](./309051-hyperdrive.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
