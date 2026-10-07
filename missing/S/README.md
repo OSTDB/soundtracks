@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurise | 330741 | [330741-samurise.json](./330741-samurise.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
+| SamuTale | 56897 | [56897-samutale.json](./56897-samutale.json) |
 | Samuza | 287215 | [287215-samuza.json](./287215-samuza.json) |
 | San Andreas Multiplayer | 199038 | [199038-san-andreas-multiplayer.json](./199038-san-andreas-multiplayer.json) |
 | San Camillo II | 108338 | [108338-san-camillo-ii.json](./108338-san-camillo-ii.json) |
@@ -8784,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soap Dodgem | 96195 | [96195-soap-dodgem.json](./96195-soap-dodgem.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
 | Soap Land Story II: Memory | 67387 | [67387-soap-land-story-ii-memory.json](./67387-soap-land-story-ii-memory.json) |
+| Soap Opera Dash | 56905 | [56905-soap-opera-dash.json](./56905-soap-opera-dash.json) |
 | Soap Slide | 369177 | [369177-soap-slide.json](./369177-soap-slide.json) |
 | Soap: Bubbles vs. microbes | 183888 | [183888-soap-bubbles-vs-microbes.json](./183888-soap-bubbles-vs-microbes.json) |
 | Soapland Story | 67386 | [67386-soapland-story.json](./67386-soapland-story.json) |
@@ -9621,6 +9623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Arena: The Lost Chapters | 332257 | [332257-sonic-arena-the-lost-chapters.json](./332257-sonic-arena-the-lost-chapters.json) |
 | Sonic Ascends | 317611 | [317611-sonic-ascends.json](./317611-sonic-ascends.json) |
 | Sonic Astral Generations | 370199 | [370199-sonic-astral-generations.json](./370199-sonic-astral-generations.json) |
+| Sonic at the Olympic Games | 56926 | [56926-sonic-at-the-olympic-games.json](./56926-sonic-at-the-olympic-games.json) |
 | Sonic Aural | 326150 | [326150-sonic-aural.json](./326150-sonic-aural.json) |
 | Sonic Axiom | 325848 | [325848-sonic-axiom.json](./325848-sonic-axiom.json) |
 | Sonic Babies | 326840 | [326840-sonic-babies.json](./326840-sonic-babies.json) |
