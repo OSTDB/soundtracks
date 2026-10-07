@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
+| Narazumono Sentou Butai | 37671 | [37671-narazumono-sentou-butai.json](./37671-narazumono-sentou-butai.json) |
 | Narb Fortunii | 350042 | [350042-narb-fortunii.json](./350042-narb-fortunii.json) |
 | Narborion 3: The Swamp of Thousand Paths | 175275 | [175275-narborion-3-the-swamp-of-thousand-paths.json](./175275-narborion-3-the-swamp-of-thousand-paths.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navyblue and the Spectrum Killers | 108079 | [108079-navyblue-and-the-spectrum-killers.json](./108079-navyblue-and-the-spectrum-killers.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
+| Naxat Stadium | 37670 | [37670-naxat-stadium.json](./37670-naxat-stadium.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
 | Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
 | Nayra's Popstactic Adventures in Cadiz | 114752 | [114752-nayras-popstactic-adventures-in-cadiz.json](./114752-nayras-popstactic-adventures-in-cadiz.json) |
@@ -668,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
+| Nazo No Masquerade | 37669 | [37669-nazo-no-masquerade.json](./37669-nazo-no-masquerade.json) |
 | Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | Nazo no Minigame | 63902 | [63902-nazo-no-minigame.json](./63902-nazo-no-minigame.json) |
 | Nazo Puyo | 251091 | [251091-nazo-puyo.json](./251091-nazo-puyo.json) |
@@ -2168,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHK Academy: Space School - Math 6th Grade Part 1 | 122114 | [122114-nhk-academy-space-school-math-6th-grade-part-1.json](./122114-nhk-academy-space-school-math-6th-grade-part-1.json) |
 | NHK Academy: Space School - Math 6th Grade Part 2 | 122115 | [122115-nhk-academy-space-school-math-6th-grade-part-2.json](./122115-nhk-academy-space-school-math-6th-grade-part-2.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
+| NHK Taiga Drama Taiheiki | 37667 | [37667-nhk-taiga-drama-taiheiki.json](./37667-nhk-taiga-drama-taiheiki.json) |
 | NHL 06 | 4044 | [4044-nhl-06.json](./4044-nhl-06.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 08 | 875 | [875-nhl-08.json](./875-nhl-08.json) |
