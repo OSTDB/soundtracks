@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Person Box Jump with Hammer | 87614 | [87614-person-box-jump-with-hammer.json](./87614-person-box-jump-with-hammer.json) |
 | Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
 | Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
+| Persona 2: Eternal Punishment | 11454 | [11454-persona-2-eternal-punishment.json](./11454-persona-2-eternal-punishment.json) |
 | Persona 2: Eternal Punishment | 230226 | [230226-persona-2-eternal-punishment.json](./230226-persona-2-eternal-punishment.json) |
 | Persona 2: Innocent Sin - Collector's Edition | 44479 | [44479-persona-2-innocent-sin-collectors-edition.json](./44479-persona-2-innocent-sin-collectors-edition.json) |
 | Persona 3 Broken Shadow | 289390 | [289390-persona-3-broken-shadow.json](./289390-persona-3-broken-shadow.json) |
@@ -2700,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Take Your Heart - Premium Edition | 41866 | [41866-persona-5-take-your-heart-premium-edition.json](./41866-persona-5-take-your-heart-premium-edition.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
 | Persona Ain Soph | 71159 | [71159-persona-ain-soph.json](./71159-persona-ain-soph.json) |
+| Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
@@ -8563,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton and the Turnabout of the Golden Witch | 303037 | [303037-professor-layton-and-the-turnabout-of-the-golden-witch.json](./303037-professor-layton-and-the-turnabout-of-the-golden-witch.json) |
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
+| Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
