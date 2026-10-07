@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Kingdom: Scam Centre Simulator | 346251 | [346251-under-kingdom-scam-centre-simulator.json](./346251-under-kingdom-scam-centre-simulator.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Night In-Birth | 190982 | [190982-under-night-in-birth.json](./190982-under-night-in-birth.json) |
+| Under Night In-Birth Exe:Late | 20290 | [20290-under-night-in-birth-exe-late.json](./20290-under-night-in-birth-exe-late.json) |
 | Under Night In-Birth Exe:Late[cl-r] | 121369 | [121369-under-night-in-birth-exe-late-cl-r.json](./121369-under-night-in-birth-exe-late-cl-r.json) |
 | Under Night In-Birth Exe:Late[st] | 41819 | [41819-under-night-in-birth-exe-late-st.json](./41819-under-night-in-birth-exe-late-st.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
