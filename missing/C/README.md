@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
+| Caesar II | 7509 | [7509-caesar-ii.json](./7509-caesar-ii.json) |
 | Caesar IV | 7508 | [7508-caesar-iv.json](./7508-caesar-iv.json) |
 | Caesar Palace Slots | 200504 | [200504-caesar-palace-slots.json](./200504-caesar-palace-slots.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
@@ -6414,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
+| Cold Winter | 8277 | [8277-cold-winter.json](./8277-cold-winter.json) |
 | Cold Winter Morning | 129050 | [129050-cold-winter-morning.json](./129050-cold-winter-morning.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Cold Zero: No Mercy | 71726 | [71726-cold-zero-no-mercy.json](./71726-cold-zero-no-mercy.json) |
