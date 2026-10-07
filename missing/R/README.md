@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Collectors Edition | 193341 | [193341-rayman-collectors-edition.json](./193341-rayman-collectors-edition.json) |
 | Rayman Compilation | 193339 | [193339-rayman-compilation.json](./193339-rayman-compilation.json) |
 | Rayman Designer | 61351 | [61351-rayman-designer.json](./61351-rayman-designer.json) |
+| Rayman Fiesta Run | 19726 | [19726-rayman-fiesta-run.json](./19726-rayman-fiesta-run.json) |
 | Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption | 260737 | [260737-red-dead-redemption.json](./260737-red-dead-redemption.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
 | Red Dead Redemption 2: Special Edition | 103205 | [103205-red-dead-redemption-2-special-edition.json](./103205-red-dead-redemption-2-special-edition.json) |
+| Red Dead Redemption II: Ultimate Edition | 103206 | [103206-red-dead-redemption-ii-ultimate-edition.json](./103206-red-dead-redemption-ii-ultimate-edition.json) |
 | Red Dead Redemption: Game of the Year Edition | 22816 | [22816-red-dead-redemption-game-of-the-year-edition.json](./22816-red-dead-redemption-game-of-the-year-edition.json) |
 | Red Dead Redemption: Gunslingers | 355106 | [355106-red-dead-redemption-gunslingers.json](./355106-red-dead-redemption-gunslingers.json) |
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
@@ -2998,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replaying: The Game | 191568 | [191568-replaying-the-game.json](./191568-replaying-the-game.json) |
+| Replica | 20125 | [20125-replica.json](./20125-replica.json) |
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
 | Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
@@ -3633,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal! Multiplayer Edition | 232070 | [232070-reveal-multiplayer-edition.json](./232070-reveal-multiplayer-edition.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revector | 46516 | [46516-revector.json](./46516-revector.json) |
+| Reveil | 90409 | [90409-reveil.json](./90409-reveil.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
@@ -4531,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Insanity | 34665 | [34665-rise-of-insanity.json](./34665-rise-of-insanity.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
+| Rise of Kingdoms | 113201 | [113201-rise-of-kingdoms.json](./113201-rise-of-kingdoms.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Legions | 116249 | [116249-rise-of-legions.json](./116249-rise-of-legions.json) |
