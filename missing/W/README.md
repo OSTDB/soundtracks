@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks Blitz: Tier V Tank and Bonuses Pack! | 316237 | [316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json](./316237-world-of-tanks-blitz-tier-v-tank-and-bonuses-pack.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
 | World of Tanks: Advanced Marksman | 293765 | [293765-world-of-tanks-advanced-marksman.json](./293765-world-of-tanks-advanced-marksman.json) |
+| World of Tanks: Blitz | 7393 | [7393-world-of-tanks-blitz.json](./7393-world-of-tanks-blitz.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
 | World of Tanks: Blitz - Grand Pack | 171009 | [171009-world-of-tanks-blitz-grand-pack.json](./171009-world-of-tanks-blitz-grand-pack.json) |
 | World of Tanks: Blitz - Mega Pack | 171008 | [171008-world-of-tanks-blitz-mega-pack.json](./171008-world-of-tanks-blitz-mega-pack.json) |
