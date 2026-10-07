@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banshee | 11939 | [11939-banshee.json](./11939-banshee.json) |
 | Banshee (Fazbear's Pizzeria Tycoon!) | 336023 | [336023-banshee-fazbears-pizzeria-tycoon.json](./336023-banshee-fazbears-pizzeria-tycoon.json) |
 | Banshee Force | 82340 | [82340-banshee-force.json](./82340-banshee-force.json) |
+| Banshee's Last Cry | 38244 | [38244-banshees-last-cry.json](./38244-banshees-last-cry.json) |
 | Banshees: The Game | 241944 | [241944-banshees-the-game.json](./241944-banshees-the-game.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
@@ -2365,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
+| Battle Tycoon: Flash Hiders SFX | 38216 | [38216-battle-tycoon-flash-hiders-sfx.json](./38216-battle-tycoon-flash-hiders-sfx.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
@@ -2373,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
 | Battle X: Birth of the Alliance | 110297 | [110297-battle-x-birth-of-the-alliance.json](./110297-battle-x-birth-of-the-alliance.json) |
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
+| Battle Zeque Den | 38215 | [38215-battle-zeque-den.json](./38215-battle-zeque-den.json) |
 | Battle Zombie Shooter: Survival of the Dead | 100565 | [100565-battle-zombie-shooter-survival-of-the-dead.json](./100565-battle-zombie-shooter-survival-of-the-dead.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
