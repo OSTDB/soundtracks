@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Pirates | 72702 | [72702-tales-of-pirates.json](./72702-tales-of-pirates.json) |
 | Tales Of Polygonia | 231326 | [231326-tales-of-polygonia.json](./231326-tales-of-polygonia.json) |
 | Tales of Popolon | 360137 | [360137-tales-of-popolon.json](./360137-tales-of-popolon.json) |
+| Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
@@ -2154,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
 | Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
+| Tekken Card Challenge | 1248 | [1248-tekken-card-challenge.json](./1248-tekken-card-challenge.json) |
 | Tekken Card Tournament | 25073 | [25073-tekken-card-tournament.json](./25073-tekken-card-tournament.json) |
 | Tekken Mobile | 54783 | [54783-tekken-mobile.json](./54783-tekken-mobile.json) |
 | Tekken Resolute | 63942 | [63942-tekken-resolute.json](./63942-tekken-resolute.json) |
@@ -2163,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament 2: We Are Tekken Edition | 89871 | [89871-tekken-tag-tournament-2-we-are-tekken-edition.json](./89871-tekken-tag-tournament-2-we-are-tekken-edition.json) |
 | Tekken Tag Tournament 2: Wii U Edition | 21693 | [21693-tekken-tag-tournament-2-wii-u-edition.json](./21693-tekken-tag-tournament-2-wii-u-edition.json) |
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
+| Tekken X Street Fighter | 1239 | [1239-tekken-x-street-fighter.json](./1239-tekken-x-street-fighter.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
@@ -8391,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Worlds: Peril on Gorgon | 135996 | [135996-the-outer-worlds-peril-on-gorgon.json](./135996-the-outer-worlds-peril-on-gorgon.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
+| The Outforce | 1167 | [1167-the-outforce.json](./1167-the-outforce.json) |
 | The Outlast Trials | 127165 | [127165-the-outlast-trials.json](./127165-the-outlast-trials.json) |
 | The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
 | The Outlast Trials: Exotica Pack | 332013 | [332013-the-outlast-trials-exotica-pack.json](./332013-the-outlast-trials-exotica-pack.json) |
@@ -14280,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
 | Tom Clancy's Ghost Recon 2: Summit Strike | 1299 | [1299-tom-clancys-ghost-recon-2-summit-strike.json](./1299-tom-clancys-ghost-recon-2-summit-strike.json) |
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
+| Tom Clancy's Ghost Recon Predator | 1302 | [1302-tom-clancys-ghost-recon-predator.json](./1302-tom-clancys-ghost-recon-predator.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Red Patriot | 138784 | [138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json](./138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json) |
