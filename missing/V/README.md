@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
+| Virush | 36969 | [36969-virush.json](./36969-virush.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
 | ViruZ | 156996 | [156996-viruz.json](./156996-viruz.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Super Sports: 10 Edition | 170866 | [170866-vr-super-sports-10-edition.json](./170866-vr-super-sports-10-edition.json) |
 | VR Super Sports: Golf | 170865 | [170865-vr-super-sports-golf.json](./170865-vr-super-sports-golf.json) |
 | VR Super Sports: Table Tennis | 170867 | [170867-vr-super-sports-table-tennis.json](./170867-vr-super-sports-table-tennis.json) |
+| VR Sushi Bar | 36974 | [36974-vr-sushi-bar.json](./36974-vr-sushi-bar.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
 | VR T72 Battle in Afghanistan | 236920 | [236920-vr-t72-battle-in-afghanistan.json](./236920-vr-t72-battle-in-afghanistan.json) |
 | VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
@@ -2317,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRSO: Bare Knuckle Fighting | 274551 | [274551-vrso-bare-knuckle-fighting.json](./274551-vrso-bare-knuckle-fighting.json) |
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
 | Vrtillery | 179486 | [179486-vrtillery.json](./179486-vrtillery.json) |
+| VRun | 36984 | [36984-vrun.json](./36984-vrun.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
@@ -2391,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
 | Vulture Island | 31046 | [31046-vulture-island.json](./31046-vulture-island.json) |
+| Vulture Strike | 36973 | [36973-vulture-strike.json](./36973-vulture-strike.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
