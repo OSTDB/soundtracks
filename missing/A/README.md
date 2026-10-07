@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Rise of the Godslayer | 588 | [588-age-of-conan-rise-of-the-godslayer.json](./588-age-of-conan-rise-of-the-godslayer.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
+| Age of Conan: The Savage Coast Of Turan | 27652 | [27652-age-of-conan-the-savage-coast-of-turan.json](./27652-age-of-conan-the-savage-coast-of-turan.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conan: Unchained - Hyborian Conqueror Collection | 171936 | [171936-age-of-conan-unchained-hyborian-conqueror-collection.json](./171936-age-of-conan-unchained-hyborian-conqueror-collection.json) |
 | Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
@@ -4837,7 +4838,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy City 3: Zero Tolerance | 272004 | [272004-anarchy-city-3-zero-tolerance.json](./272004-anarchy-city-3-zero-tolerance.json) |
 | Anarchy Legends: Online | 170385 | [170385-anarchy-legends-online.json](./170385-anarchy-legends-online.json) |
 | Anarchy Online | 1996 | [1996-anarchy-online.json](./1996-anarchy-online.json) |
+| Anarchy Online: Access Level 200 Heckler Juices | 27579 | [27579-anarchy-online-access-level-200-heckler-juices.json](./27579-anarchy-online-access-level-200-heckler-juices.json) |
+| Anarchy Online: Alien Invasion | 27611 | [27611-anarchy-online-alien-invasion.json](./27611-anarchy-online-alien-invasion.json) |
+| Anarchy Online: Legacy of the Xan | 27615 | [27615-anarchy-online-legacy-of-the-xan.json](./27615-anarchy-online-legacy-of-the-xan.json) |
 | Anarchy Online: Lost Eden | 21390 | [21390-anarchy-online-lost-eden.json](./21390-anarchy-online-lost-eden.json) |
+| Anarchy Online: Notum Wars | 27610 | [27610-anarchy-online-notum-wars.json](./27610-anarchy-online-notum-wars.json) |
+| Anarchy Online: Rubi-Ka New Colonist Bundle | 27580 | [27580-anarchy-online-rubi-ka-new-colonist-bundle.json](./27580-anarchy-online-rubi-ka-new-colonist-bundle.json) |
 | Anarchy Online: Shadowlands | 598 | [598-anarchy-online-shadowlands.json](./598-anarchy-online-shadowlands.json) |
 | Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
 | Anarchy Racer | 384135 | [384135-anarchy-racer.json](./384135-anarchy-racer.json) |
