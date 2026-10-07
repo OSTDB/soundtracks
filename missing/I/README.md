@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spy | 58627 | [58627-i-spy.json](./58627-i-spy.json) |
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
+| I Spy Challenger! | 49294 | [49294-i-spy-challenger.json](./49294-i-spy-challenger.json) |
 | I Spy Fantasy | 73162 | [73162-i-spy-fantasy.json](./73162-i-spy-fantasy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Junior: Puppet Playhouse | 65181 | [65181-i-spy-junior-puppet-playhouse.json](./65181-i-spy-junior-puppet-playhouse.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
+| Inspector Gadget Racing | 49293 | [49293-inspector-gadget-racing.json](./49293-inspector-gadget-racing.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Javert and the Oath of Blood | 135626 | [135626-inspector-javert-and-the-oath-of-blood.json](./135626-inspector-javert-and-the-oath-of-blood.json) |
 | Inspector Ooh: The Great Monkey Detective | 98470 | [98470-inspector-ooh-the-great-monkey-detective.json](./98470-inspector-ooh-the-great-monkey-detective.json) |
@@ -2806,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cup '94 | 40346 | [40346-international-cup-94.json](./40346-international-cup-94.json) |
 | International Football | 69535 | [69535-international-football.json](./69535-international-football.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
+| International Karate Advanced | 49292 | [49292-international-karate-advanced.json](./49292-international-karate-advanced.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
 | International Obsession | 415196 | [415196-international-obsession.json](./415196-international-obsession.json) |
@@ -2824,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer 2000 | 3515 | [3515-international-superstar-soccer-2000.json](./3515-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 3 | 3958 | [3958-international-superstar-soccer-3.json](./3958-international-superstar-soccer-3.json) |
 | International Superstar Soccer 99 | 49886 | [49886-international-superstar-soccer-99.json](./49886-international-superstar-soccer-99.json) |
+| International Superstar Soccer Advance | 49280 | [49280-international-superstar-soccer-advance.json](./49280-international-superstar-soccer-advance.json) |
 | International Superstar Soccer Deluxe | 9862 | [9862-international-superstar-soccer-deluxe.json](./9862-international-superstar-soccer-deluxe.json) |
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
