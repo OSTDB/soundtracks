@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United | 72167 | [72167-manchester-united.json](./72167-manchester-united.json) |
 | Manchester United Championship Soccer | 42503 | [42503-manchester-united-championship-soccer.json](./42503-manchester-united-championship-soccer.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
+| Manchester United Europe | 13073 | [13073-manchester-united-europe.json](./13073-manchester-united-europe.json) |
 | Manchester United Manager 2005 | 22546 | [22546-manchester-united-manager-2005.json](./22546-manchester-united-manager-2005.json) |
 | Manchester United Premier League Champions | 72271 | [72271-manchester-united-premier-league-champions.json](./72271-manchester-united-premier-league-champions.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
 | Marvin the Hatter | 116937 | [116937-marvin-the-hatter.json](./116937-marvin-the-hatter.json) |
+| Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Marwin and the Evolution Stone | 31745 | [31745-marwin-and-the-evolution-stone.json](./31745-marwin-and-the-evolution-stone.json) |
 | Mary Had a Little Lamb | 241458 | [241458-mary-had-a-little-lamb.json](./241458-mary-had-a-little-lamb.json) |
@@ -5895,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse: Mahou no Yakata | 349456 | [349456-mickey-mouse-mahou-no-yakata.json](./349456-mickey-mouse-mahou-no-yakata.json) |
 | Mickey Mouse: Mickey's Magical Adventure | 219096 | [219096-mickey-mouse-mickeys-magical-adventure.json](./219096-mickey-mouse-mickeys-magical-adventure.json) |
 | Mickey Mouse: Orange Express | 218352 | [218352-mickey-mouse-orange-express.json](./218352-mickey-mouse-orange-express.json) |
+| Mickey Mouse: The Computer Game | 12921 | [12921-mickey-mouse-the-computer-game.json](./12921-mickey-mouse-the-computer-game.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey: Boxing Champ | 349448 | [349448-mickey-boxing-champ.json](./349448-mickey-boxing-champ.json) |
@@ -9563,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
+| Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphatrons Alien | 198825 | [198825-morphatrons-alien.json](./198825-morphatrons-alien.json) |
@@ -10191,6 +10195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
 | MouseRun | 127180 | [127180-mouserun.json](./127180-mouserun.json) |
+| Mousetrap | 12923 | [12923-mousetrap.json](./12923-mousetrap.json) |
 | MouseVentures | 331967 | [331967-mouseventures.json](./331967-mouseventures.json) |
 | MouseWars | 211190 | [211190-mousewars.json](./211190-mousewars.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
