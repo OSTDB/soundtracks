@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon | 201627 | [201627-halcyon.json](./201627-halcyon.json) |
+| Halcyon 6: Starbase Commander Lightspeed Edition | 90955 | [90955-halcyon-6-starbase-commander-lightspeed-edition.json](./90955-halcyon-6-starbase-commander-lightspeed-edition.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
+| Hexen | 93641 | [93641-hexen.json](./93641-hexen.json) |
 | Hexen II | 6637 | [6637-hexen-ii.json](./6637-hexen-ii.json) |
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitalick Challenge | 257576 | [257576-hitalick-challenge.json](./257576-hitalick-challenge.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
 | Hitboxer | 214418 | [214418-hitboxer.json](./214418-hitboxer.json) |
+| Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
@@ -7128,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Rosalina Kart Wii & Rosalina 2 Turbo | 229834 | [229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json](./229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
+| Hyper Sentinel | 85191 | [85191-hyper-sentinel.json](./85191-hyper-sentinel.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
 | Hyper Skate | 57755 | [57755-hyper-skate.json](./57755-hyper-skate.json) |
