@@ -4721,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
 | Gray Death | 151853 | [151853-gray-death.json](./151853-gray-death.json) |
 | Gray Desert | 128424 | [128424-gray-desert.json](./128424-gray-desert.json) |
+| Gray Grofa | 51773 | [51773-gray-grofa.json](./51773-gray-grofa.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Gray Matter | 3117 | [3117-gray-matter.json](./3117-gray-matter.json) |
 | Gray Memory | 116269 | [116269-gray-memory.json](./116269-gray-memory.json) |
