@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
+| Dark Tales: Edgar Allan Poe's The Masque of the Red Death - Collector's Edition | 31688 | [31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json](./31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget - Collector's Edition | 88477 | [88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json](./88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
@@ -4025,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
 | Desperate Survival | 239712 | [239712-desperate-survival.json](./239712-desperate-survival.json) |
+| Desperate Times | 31705 | [31705-desperate-times.json](./31705-desperate-times.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
@@ -8477,6 +8479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
 | Dragona: Fireborne | 289010 | [289010-dragona-fireborne.json](./289010-dragona-fireborne.json) |
+| DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonbone Dynasty | 23356 | [23356-dragonbone-dynasty.json](./23356-dragonbone-dynasty.json) |
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
@@ -9649,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Eggs | 325058 | [325058-duck-eggs.json](./325058-duck-eggs.json) |
 | Duck Flighting | 151089 | [151089-duck-flighting.json](./151089-duck-flighting.json) |
+| Duck Force | 31746 | [31746-duck-force.json](./31746-duck-force.json) |
 | Duck Game | 11247 | [11247-duck-game.json](./11247-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
@@ -9691,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
 | Duckie Dash | 32811 | [32811-duckie-dash.json](./32811-duckie-dash.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| Duckles: the Jigsaw Witch | 31733 | [31733-duckles-the-jigsaw-witch.json](./31733-duckles-the-jigsaw-witch.json) |
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
 | Ducklyte | 247475 | [247475-ducklyte.json](./247475-ducklyte.json) |
