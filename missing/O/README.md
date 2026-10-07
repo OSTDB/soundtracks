@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
 | Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
 | Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
+| Operation Spacehog | 19228 | [19228-operation-spacehog.json](./19228-operation-spacehog.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
@@ -3012,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpath | 229007 | [229007-outpath.json](./229007-outpath.json) |
 | Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
+| Outpost | 14487 | [14487-outpost.json](./14487-outpost.json) |
 | Outpost | 244185 | [244185-outpost.json](./244185-outpost.json) |
 | Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
 | Outpost 16 | 320862 | [320862-outpost-16.json](./320862-outpost-16.json) |
