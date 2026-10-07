@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
 | Egypt | 94952 | [94952-egypt.json](./94952-egypt.json) |
+| Egypt 1156 B.C.: Tomb of the Pharaoh | 50398 | [50398-egypt-1156-b-c-tomb-of-the-pharaoh.json](./50398-egypt-1156-b-c-tomb-of-the-pharaoh.json) |
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
