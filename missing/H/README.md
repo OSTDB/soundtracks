@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | HeadHorse Legacy | 249908 | [249908-headhorse-legacy.json](./249908-headhorse-legacy.json) |
+| Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
 | Headlander | 15857 | [15857-headlander.json](./15857-headlander.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
+| Helltaker: Examtaker | 174192 | [174192-helltaker-examtaker.json](./174192-helltaker-examtaker.json) |
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
@@ -6863,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
+| Hunter: The Reckoning | 3950 | [3950-hunter-the-reckoning.json](./3950-hunter-the-reckoning.json) |
 | Hunter: The Reckoning - Day for Night | 408918 | [408918-hunter-the-reckoning-day-for-night.json](./408918-hunter-the-reckoning-day-for-night.json) |
 | Hunter: The Reckoning - Redeemer | 5865 | [5865-hunter-the-reckoning-redeemer.json](./5865-hunter-the-reckoning-redeemer.json) |
 | Hunter: The Reckoning - The Beast of Glenkildove | 250960 | [250960-hunter-the-reckoning-the-beast-of-glenkildove.json](./250960-hunter-the-reckoning-the-beast-of-glenkildove.json) |
