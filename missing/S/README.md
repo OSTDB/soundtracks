@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScribbleDude | 127091 | [127091-scribbledude.json](./127091-scribbledude.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
 | Scribblemania | 327177 | [327177-scribblemania.json](./327177-scribblemania.json) |
+| Scribblenauts Collection | 47914 | [47914-scribblenauts-collection.json](./47914-scribblenauts-collection.json) |
 | Scribblenauts Mega Pack | 104660 | [104660-scribblenauts-mega-pack.json](./104660-scribblenauts-mega-pack.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
 | Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
@@ -3353,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
+| Sesame Street: Elmo's A-to-Zoo Adventure the Videogame | 47920 | [47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json](./47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
@@ -4521,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock | 25857 | [25857-sherlock.json](./25857-sherlock.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
+| Sherlock Holmes and the Mystery of Osborne House | 47926 | [47926-sherlock-holmes-and-the-mystery-of-osborne-house.json](./47926-sherlock-holmes-and-the-mystery-of-osborne-house.json) |
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Consulting Detective: The Case of Banker's Final Debt | 259177 | [259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json](./259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json) |
@@ -15577,6 +15580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
+| Stratego: Next Edition | 47886 | [47886-stratego-next-edition.json](./47886-stratego-next-edition.json) |
 | Strategoria | 62283 | [62283-strategoria.json](./62283-strategoria.json) |
 | Strategy & Tactics: Dark Ages | 31923 | [31923-strategy-and-tactics-dark-ages.json](./31923-strategy-and-tactics-dark-ages.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
