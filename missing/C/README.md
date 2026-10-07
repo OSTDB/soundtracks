@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Light: Ultimate Edition | 99781 | [99781-child-of-light-ultimate-edition.json](./99781-child-of-light-ultimate-edition.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
+| Child of the Wind | 32835 | [32835-child-of-the-wind.json](./32835-child-of-the-wind.json) |
 | Child Phobia: Nightcoming Fears | 30084 | [30084-child-phobia-nightcoming-fears.json](./30084-child-phobia-nightcoming-fears.json) |
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
 | Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
@@ -7751,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Contrition | 393001 | [393001-contrition.json](./393001-contrition.json) |
 | Control Craft 2 | 33560 | [33560-control-craft-2.json](./33560-control-craft-2.json) |
+| Control Craft 3 | 32849 | [32849-control-craft-3.json](./32849-control-craft-3.json) |
 | Control Freak | 111233 | [111233-control-freak.json](./111233-control-freak.json) |
 | Control Freak | 323799 | [323799-control-freak.json](./323799-control-freak.json) |
 | Control Resonant | 225582 | [225582-control-resonant.json](./225582-control-resonant.json) |
