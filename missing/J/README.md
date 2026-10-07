@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
+| Jurassic Boy 2 | 48578 | [48578-jurassic-boy-2.json](./48578-jurassic-boy-2.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
 | Jurassic Differences | 397780 | [397780-jurassic-differences.json](./397780-jurassic-differences.json) |
