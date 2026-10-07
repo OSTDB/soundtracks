@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entertainment Hero | 26833 | [26833-entertainment-hero.json](./26833-entertainment-hero.json) |
 | Entertainment Hero 2 | 130154 | [130154-entertainment-hero-2.json](./130154-entertainment-hero-2.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
+| EnterVR | 29964 | [29964-entervr.json](./29964-entervr.json) |
 | Entheogen | 366259 | [366259-entheogen.json](./366259-entheogen.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Enthruxia | 179149 | [179149-enthruxia.json](./179149-enthruxia.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
+| Epitaph | 29703 | [29703-epitaph.json](./29703-epitaph.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
@@ -2608,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
 | Eraser | 186092 | [186092-eraser.json](./186092-eraser.json) |
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
+| Eraser & Builder | 29683 | [29683-eraser-and-builder.json](./29683-eraser-and-builder.json) |
 | Eraser Advent | 247980 | [247980-eraser-advent.json](./247980-eraser-advent.json) |
 | Eraser Drop Battle Royal | 224056 | [224056-eraser-drop-battle-royal.json](./224056-eraser-drop-battle-royal.json) |
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
