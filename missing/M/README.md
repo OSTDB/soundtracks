@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
 | Memorial Playground | 229650 | [229650-memorial-playground.json](./229650-memorial-playground.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
+| Memoriapolis | 264932 | [264932-memoriapolis.json](./264932-memoriapolis.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
+| Might & Magic: Heroes VI - Shades of Darkness | 8112 | [8112-might-and-magic-heroes-vi-shades-of-darkness.json](./8112-might-and-magic-heroes-vi-shades-of-darkness.json) |
 | Might & Magic: Showdown | 26854 | [26854-might-and-magic-showdown.json](./26854-might-and-magic-showdown.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might & Trap: Apocalypse | 151595 | [151595-might-and-trap-apocalypse.json](./151595-might-and-trap-apocalypse.json) |
@@ -7888,6 +7890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
 | Mister Gas | 272457 | [272457-mister-gas.json](./272457-mister-gas.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
+| Mister Mosquito | 8966 | [8966-mister-mosquito.json](./8966-mister-mosquito.json) |
 | Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
 | Mister Scary | 342222 | [342222-mister-scary.json](./342222-mister-scary.json) |
@@ -7949,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsume ga Tooru | 48666 | [48666-mitsume-ga-tooru.json](./48666-mitsume-ga-tooru.json) |
 | Mitsumete Knight | 92966 | [92966-mitsumete-knight.json](./92966-mitsumete-knight.json) |
 | Mitsumete Knight R: Daibouken-hen | 166164 | [166164-mitsumete-knight-r-daibouken-hen.json](./166164-mitsumete-knight-r-daibouken-hen.json) |
+| Mitsurugi Kamui Hikae | 8822 | [8822-mitsurugi-kamui-hikae.json](./8822-mitsurugi-kamui-hikae.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
@@ -9938,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
 | Motel Life Simulator | 219633 | [219633-motel-life-simulator.json](./219633-motel-life-simulator.json) |
+| Motel Manager Simulator | 268254 | [268254-motel-manager-simulator.json](./268254-motel-manager-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | Motel Snooze: Suite Dreams | 352389 | [352389-motel-snooze-suite-dreams.json](./352389-motel-snooze-suite-dreams.json) |
