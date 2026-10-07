@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Run | 147094 | [147094-wacky-run.json](./147094-wacky-run.json) |
 | Wacky Ship | 180600 | [180600-wacky-ship.json](./180600-wacky-ship.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
+| Wacky Spores: The Chase | 29676 | [29676-wacky-spores-the-chase.json](./29676-wacky-spores-the-chase.json) |
 | Wacky Squad | 418710 | [418710-wacky-squad.json](./418710-wacky-squad.json) |
 | Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
