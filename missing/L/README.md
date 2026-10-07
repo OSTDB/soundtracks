@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
 | Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
+| Life is Strange: Episode 4 - Dark Room | 94087 | [94087-life-is-strange-episode-4-dark-room.json](./94087-life-is-strange-episode-4-dark-room.json) |
 | Life is Strange: Episode 5 - Polarized | 93915 | [93915-life-is-strange-episode-5-polarized.json](./93915-life-is-strange-episode-5-polarized.json) |
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
+| Lost Words: Beyond the Page | 110586 | [110586-lost-words-beyond-the-page.json](./110586-lost-words-beyond-the-page.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost Worlds Prophecy | 95666 | [95666-lost-worlds-prophecy.json](./95666-lost-worlds-prophecy.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
