@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15x15 | 109473 | [109473-15x15.json](./109473-15x15.json) |
 | 16 | 263010 | [263010-16.json](./263010-16.json) |
 | 16 Balls: Pocket PachinGo! | 240342 | [240342-16-balls-pocket-pachingo.json](./240342-16-balls-pocket-pachingo.json) |
+| 16 Bit Arena | 35812 | [35812-16-bit-arena.json](./35812-16-bit-arena.json) |
 | 16 Bit Rally | 182935 | [182935-16-bit-rally.json](./182935-16-bit-rally.json) |
 | 16 Brands Taiwan Mahjong 2 | 371335 | [371335-16-brands-taiwan-mahjong-2.json](./371335-16-brands-taiwan-mahjong-2.json) |
 | 16 Brands Taiwan Mahjong 3 | 371343 | [371343-16-brands-taiwan-mahjong-3.json](./371343-16-brands-taiwan-mahjong-3.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
+| 500 Years Act 1 | 35587 | [35587-500-years-act-1.json](./35587-500-years-act-1.json) |
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
 | 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
