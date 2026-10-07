@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee With Buddies | 88777 | [88777-yahtzee-with-buddies.json](./88777-yahtzee-with-buddies.json) |
 | Yahtzee, Parcheesi & Aggravation Collection | 92836 | [92836-yahtzee-parcheesi-and-aggravation-collection.json](./92836-yahtzee-parcheesi-and-aggravation-collection.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
+| Yaiba: Ninja Gaiden Z | 5617 | [5617-yaiba-ninja-gaiden-z.json](./5617-yaiba-ninja-gaiden-z.json) |
 | Yakan Kouen | 396482 | [396482-yakan-kouen.json](./396482-yakan-kouen.json) |
 | Yakari: The Mystery of Four - Seasons | 84934 | [84934-yakari-the-mystery-of-four-seasons.json](./84934-yakari-the-mystery-of-four-seasons.json) |
 | Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
