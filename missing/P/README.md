@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | PAT Shooter | 335421 | [335421-pat-shooter.json](./335421-pat-shooter.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
+| PaTaank | 4333 | [4333-pataank.json](./4333-pataank.json) |
 | Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | PataNoir | 33327 | [33327-patanoir.json](./33327-patanoir.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
+| Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
@@ -2938,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
 | PGA Tour 2K25: Deluxe Edition | 328081 | [328081-pga-tour-2k25-deluxe-edition.json](./328081-pga-tour-2k25-deluxe-edition.json) |
 | PGA Tour 2K25: Legend Edition | 328082 | [328082-pga-tour-2k25-legend-edition.json](./328082-pga-tour-2k25-legend-edition.json) |
+| PGA Tour 96 | 4285 | [4285-pga-tour-96.json](./4285-pga-tour-96.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
 | PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
