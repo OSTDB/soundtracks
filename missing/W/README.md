@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
+| We Were Here | 27310 | [27310-we-were-here.json](./27310-we-were-here.json) |
 | We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Tomorrow | 393015 | [393015-we-were-here-tomorrow.json](./393015-we-were-here-tomorrow.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
@@ -4784,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
+| World of Warcraft: Legion | 11593 | [11593-world-of-warcraft-legion.json](./11593-world-of-warcraft-legion.json) |
 | World of Warcraft: Legion - Collector's Edition | 136338 | [136338-world-of-warcraft-legion-collectors-edition.json](./136338-world-of-warcraft-legion-collectors-edition.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
 | World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
@@ -4795,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: The Burning Crusade - Collector's Edition | 136995 | [136995-world-of-warcraft-the-burning-crusade-collectors-edition.json](./136995-world-of-warcraft-the-burning-crusade-collectors-edition.json) |
 | World of Warcraft: The War Within - Ghosts of K’aresh | 357378 | [357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json](./357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json) |
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
+| World of Warcraft: Warlords of Draenor | 3157 | [3157-world-of-warcraft-warlords-of-draenor.json](./3157-world-of-warcraft-warlords-of-draenor.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
