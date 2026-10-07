@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
+| Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
 | Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
@@ -3539,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
 | Hevel | 398529 | [398529-hevel.json](./398529-hevel.json) |
 | Hevel Isle | 398526 | [398526-hevel-isle.json](./398526-hevel-isle.json) |
+| Hevn | 26427 | [26427-hevn.json](./26427-hevn.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hex | 308383 | [308383-hex.json](./308383-hex.json) |
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
