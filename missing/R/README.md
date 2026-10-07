@@ -7337,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
+| Rusty Lake Hotel | 18011 | [18011-rusty-lake-hotel.json](./18011-rusty-lake-hotel.json) |
 | Rusty Lake Paradise | 54678 | [54678-rusty-lake-paradise.json](./54678-rusty-lake-paradise.json) |
 | Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
 | Rusty Orb | 95560 | [95560-rusty-orb.json](./95560-rusty-orb.json) |
