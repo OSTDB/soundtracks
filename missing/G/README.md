@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Breakout | 276264 | [276264-galactic-breakout.json](./276264-galactic-breakout.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
+| Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
+| Genetic Drift | 24831 | [24831-genetic-drift.json](./24831-genetic-drift.json) |
 | Genetic Species | 73458 | [73458-genetic-species.json](./73458-genetic-species.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
 | Genetos | 64187 | [64187-genetos.json](./64187-genetos.json) |
@@ -6134,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
+| Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns of Icarus Alliance | 21989 | [21989-guns-of-icarus-alliance.json](./21989-guns-of-icarus-alliance.json) |
 | Guns of Infinity | 33440 | [33440-guns-of-infinity.json](./33440-guns-of-infinity.json) |
