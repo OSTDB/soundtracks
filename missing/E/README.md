@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
 | EdgeRunner | 244316 | [244316-edgerunner.json](./244316-edgerunner.json) |
+| Edges 2 | 53095 | [53095-edges-2.json](./53095-edges-2.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
