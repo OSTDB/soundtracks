@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
 | Ninja Step | 364651 | [364651-ninja-step.json](./364651-ninja-step.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
+| Ninja Strike | 11189 | [11189-ninja-strike.json](./11189-ninja-strike.json) |
 | Ninja Striker! | 96854 | [96854-ninja-striker.json](./96854-ninja-striker.json) |
 | Ninja Suffering | 181786 | [181786-ninja-suffering.json](./181786-ninja-suffering.json) |
 | Ninja Sukafu | 181788 | [181788-ninja-sukafu.json](./181788-ninja-sukafu.json) |
