@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
 | God of War II: Special Edition | 43432 | [43432-god-of-war-ii-special-edition.json](./43432-god-of-war-ii-special-edition.json) |
 | God of War III Remake | 389452 | [389452-god-of-war-iii-remake.json](./389452-god-of-war-iii-remake.json) |
+| God of War III: Collector's Edition | 45206 | [45206-god-of-war-iii-collectors-edition.json](./45206-god-of-war-iii-collectors-edition.json) |
 | God of War III: Remastered | 19959 | [19959-god-of-war-iii-remastered.json](./19959-god-of-war-iii-remastered.json) |
 | God of War Ragnarök: Valhalla | 279623 | [279623-god-of-war-ragnarok-valhalla.json](./279623-god-of-war-ragnarok-valhalla.json) |
 | God of War Remake | 389450 | [389450-god-of-war-remake.json](./389450-god-of-war-remake.json) |
@@ -4205,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
+| Gran Turismo 5 XL Edition | 45205 | [45205-gran-turismo-5-xl-edition.json](./45205-gran-turismo-5-xl-edition.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
 | Gran Turismo 7: 25th Anniversary Edition | 172566 | [172566-gran-turismo-7-25th-anniversary-edition.json](./172566-gran-turismo-7-25th-anniversary-edition.json) |
 | Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
