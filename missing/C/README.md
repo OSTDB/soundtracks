@@ -3877,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken in the Henhouse | 199362 | [199362-chicken-in-the-henhouse.json](./199362-chicken-in-the-henhouse.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
 | Chicken Invaders 2 Xmas | 99974 | [99974-chicken-invaders-2-xmas.json](./99974-chicken-invaders-2-xmas.json) |
+| Chicken Invaders 2: Christmas Edition | 79049 | [79049-chicken-invaders-2-christmas-edition.json](./79049-chicken-invaders-2-christmas-edition.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 4 | 36308 | [36308-chicken-invaders-4.json](./36308-chicken-invaders-4.json) |
@@ -5100,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Fighter vs Street Gang | 220188 | [220188-city-fighter-vs-street-gang.json](./220188-city-fighter-vs-street-gang.json) |
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
+| City Game Studio | 74956 | [74956-city-game-studio.json](./74956-city-game-studio.json) |
 | City Gangster Simulator | 339451 | [339451-city-gangster-simulator.json](./339451-city-gangster-simulator.json) |
 | City God Alice | 393599 | [393599-city-god-alice.json](./393599-city-god-alice.json) |
 | City Gridlock | 253988 | [253988-city-gridlock.json](./253988-city-gridlock.json) |
@@ -9522,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
 | Creeper World 3: Arc Eternal | 9809 | [9809-creeper-world-3-arc-eternal.json](./9809-creeper-world-3-arc-eternal.json) |
+| Creeper World 4 | 77752 | [77752-creeper-world-4.json](./77752-creeper-world-4.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
 | Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creeping Clark | 336169 | [336169-creeping-clark.json](./336169-creeping-clark.json) |
