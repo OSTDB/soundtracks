@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
+| Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Hunter: Lost Worlds | 188365 | [188365-shadow-hunter-lost-worlds.json](./188365-shadow-hunter-lost-worlds.json) |
@@ -8793,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Freestyle Skiing | 99190 | [99190-snowboard-freestyle-skiing.json](./99190-snowboard-freestyle-skiing.json) |
 | Snowboard Girl | 355151 | [355151-snowboard-girl.json](./355151-snowboard-girl.json) |
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
+| Snowboard Kids | 3342 | [3342-snowboard-kids.json](./3342-snowboard-kids.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
@@ -18981,6 +18983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Wars: Return of the Jedi | 48939 | [48939-super-star-wars-return-of-the-jedi.json](./48939-super-star-wars-return-of-the-jedi.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
+| Super Stardust HD | 2133 | [2133-super-stardust-hd.json](./2133-super-stardust-hd.json) |
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
