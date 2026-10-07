@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
+| Fantasia II | 46519 | [46519-fantasia-ii.json](./46519-fantasia-ii.json) |
 | Fantasia of the Wind | 74675 | [74675-fantasia-of-the-wind.json](./74675-fantasia-of-the-wind.json) |
 | Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
@@ -5607,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Nippon | 91738 | [91738-formula-nippon.json](./91738-formula-nippon.json) |
 | Formula One | 12082 | [12082-formula-one.json](./12082-formula-one.json) |
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
+| Formula One | 46551 | [46551-formula-one.json](./46551-formula-one.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
