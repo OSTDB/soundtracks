@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
+| 0 Day Attack on Earth | 6172 | [6172-0-day-attack-on-earth.json](./6172-0-day-attack-on-earth.json) |
 | 0 de Waru Kinou | 376633 | [376633-0-de-waru-kinou.json](./376633-0-de-waru-kinou.json) |
 | 0 to X | 142108 | [142108-0-to-x.json](./142108-0-to-x.json) |
 | 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
