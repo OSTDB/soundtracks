@@ -7039,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 4 | 191115 | [191115-bomb-it-4.json](./191115-bomb-it-4.json) |
 | Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
+| Bomb Jack | 6100 | [6100-bomb-jack.json](./6100-bomb-jack.json) |
 | Bomb Jack DX | 279677 | [279677-bomb-jack-dx.json](./279677-bomb-jack-dx.json) |
 | Bomb Jack II | 13421 | [13421-bomb-jack-ii.json](./13421-bomb-jack-ii.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
@@ -9329,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubli | 112717 | [112717-bubli.json](./112717-bubli.json) |
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
 | Bubonic: OutBreak | 36243 | [36243-bubonic-outbreak.json](./36243-bubonic-outbreak.json) |
+| Bubsy 3D | 7806 | [7806-bubsy-3d.json](./7806-bubsy-3d.json) |
 | Bubsy II | 307065 | [307065-bubsy-ii.json](./307065-bubsy-ii.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
