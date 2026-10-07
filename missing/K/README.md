@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
+| Kamen Rider Atsume | 56909 | [56909-kamen-rider-atsume.json](./56909-kamen-rider-atsume.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kamen Rider Battle: Ganbaride | 83930 | [83930-kamen-rider-battle-ganbaride.json](./83930-kamen-rider-battle-ganbaride.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwie vs. Desert | 290913 | [290913-kiwie-vs-desert.json](./290913-kiwie-vs-desert.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
+| Kizi Adventures | 56911 | [56911-kizi-adventures.json](./56911-kizi-adventures.json) |
 | Kizuchida Quiz da Gen-San Da! | 62597 | [62597-kizuchida-quiz-da-gen-san-da.json](./62597-kizuchida-quiz-da-gen-san-da.json) |
 | Kizuna AI: Touch the Beat! | 187869 | [187869-kizuna-ai-touch-the-beat.json](./187869-kizuna-ai-touch-the-beat.json) |
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
