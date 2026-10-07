@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Synchronicity: Tomorrow Comes Today | 11398 | [11398-dead-synchronicity-tomorrow-comes-today.json](./11398-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
+| Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
 | Dead to Rights: Reckoning | 3010 | [3010-dead-to-rights-reckoning.json](./3010-dead-to-rights-reckoning.json) |
 | Dead to Rights: Retribution | 6960 | [6960-dead-to-rights-retribution.json](./6960-dead-to-rights-retribution.json) |
 | Dead Tomb | 283282 | [283282-dead-tomb.json](./283282-dead-tomb.json) |
@@ -9597,6 +9598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid: Test of faith | 192770 | [192770-druid-test-of-faith.json](./192770-druid-test-of-faith.json) |
 | Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
+| Druidstone: The Secret of the Menhir Forest | 28142 | [28142-druidstone-the-secret-of-the-menhir-forest.json](./28142-druidstone-the-secret-of-the-menhir-forest.json) |
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
