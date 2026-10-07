@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
 | Yu-Gi-Oh! GX Tag Force 2 | 21945 | [21945-yu-gi-oh-gx-tag-force-2.json](./21945-yu-gi-oh-gx-tag-force-2.json) |
 | Yu-Gi-Oh! Master Duel | 159298 | [159298-yu-gi-oh-master-duel.json](./159298-yu-gi-oh-master-duel.json) |
+| Yu-Gi-Oh! Millennium Duels | 53058 | [53058-yu-gi-oh-millennium-duels.json](./53058-yu-gi-oh-millennium-duels.json) |
 | Yu-Gi-Oh! Online | 51279 | [51279-yu-gi-oh-online.json](./51279-yu-gi-oh-online.json) |
 | Yu-Gi-Oh! Online: Duel Evolution | 78165 | [78165-yu-gi-oh-online-duel-evolution.json](./78165-yu-gi-oh-online-duel-evolution.json) |
 | Yu-Gi-Oh! Power of Chaos: Joey the Passion | 50833 | [50833-yu-gi-oh-power-of-chaos-joey-the-passion.json](./50833-yu-gi-oh-power-of-chaos-joey-the-passion.json) |
