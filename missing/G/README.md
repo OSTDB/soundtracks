@@ -3713,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Clash | 56902 | [56902-golf-clash.json](./56902-golf-clash.json) |
+| Golf Club Nostalgia | 106027 | [106027-golf-club-nostalgia.json](./106027-golf-club-nostalgia.json) |
 | Golf Club Wasteland / Aspire Ina's Tale Bundle | 200463 | [200463-golf-club-wasteland-aspire-inas-tale-bundle.json](./200463-golf-club-wasteland-aspire-inas-tale-bundle.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
 | Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
+| Green Day: Rock Band | 2694 | [2694-green-day-rock-band.json](./2694-green-day-rock-band.json) |
 | Green Devil: Fish and Grow | 95656 | [95656-green-devil-fish-and-grow.json](./95656-green-devil-fish-and-grow.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Fairy VR | 156984 | [156984-green-fairy-vr.json](./156984-green-fairy-vr.json) |
