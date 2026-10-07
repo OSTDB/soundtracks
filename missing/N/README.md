@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K12 | 5057 | [5057-nba-2k12.json](./5057-nba-2k12.json) |
 | NBA 2K16: Michael Jordan Edition | 53403 | [53403-nba-2k16-michael-jordan-edition.json](./53403-nba-2k16-michael-jordan-edition.json) |
 | NBA 2K16: Michael Jordan Special Edition | 53402 | [53402-nba-2k16-michael-jordan-special-edition.json](./53402-nba-2k16-michael-jordan-special-edition.json) |
+| NBA 2K17 | 18819 | [18819-nba-2k17.json](./18819-nba-2k17.json) |
 | NBA 2K17: Legend Edition | 53404 | [53404-nba-2k17-legend-edition.json](./53404-nba-2k17-legend-edition.json) |
 | NBA 2K17: Legend Edition Gold | 53405 | [53405-nba-2k17-legend-edition-gold.json](./53405-nba-2k17-legend-edition-gold.json) |
 | NBA 2K17: Legend Gold | 53406 | [53406-nba-2k17-legend-gold.json](./53406-nba-2k17-legend-gold.json) |
