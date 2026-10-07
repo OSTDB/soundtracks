@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Four | 136849 | [136849-fantastic-four.json](./136849-fantastic-four.json) |
 | Fantastic Four | 220090 | [220090-fantastic-four.json](./220090-fantastic-four.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
+| Fantastic Four: Rise of the Silver Surfer | 4853 | [4853-fantastic-four-rise-of-the-silver-surfer.json](./4853-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Frolic | 301260 | [301260-fantastic-frolic.json](./301260-fantastic-frolic.json) |
 | Fantastic Haven | 267590 | [267590-fantastic-haven.json](./267590-fantastic-haven.json) |
 | Fantastic Honey | 154400 | [154400-fantastic-honey.json](./154400-fantastic-honey.json) |
