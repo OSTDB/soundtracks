@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2 in Rich District | 395191 | [395191-1-2-in-rich-district.json](./395191-1-2-in-rich-district.json) |
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
+| 1-2-Swift | 29690 | [29690-1-2-swift.json](./29690-1-2-swift.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11111Game | 219505 | [219505-11111game.json](./219505-11111game.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 114 Miles to Doctor Noodles Farm | 250501 | [250501-114-miles-to-doctor-noodles-farm.json](./250501-114-miles-to-doctor-noodles-farm.json) |
+| 1166 | 29715 | [29715-1166.json](./29715-1166.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11eyes: Tsumi to Batsu to Aganai no Shoujo | 5470 | [5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json](./5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
@@ -692,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
 | 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
+| 1979 Invasion Earth | 29876 | [29876-1979-invasion-earth.json](./29876-1979-invasion-earth.json) |
 | 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
@@ -898,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20b | 169819 | [169819-20b.json](./169819-20b.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
 | 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
+| 20Something | 29673 | [29673-20something.json](./29673-20something.json) |
 | 20th Century Beauties | 350636 | [350636-20th-century-beauties.json](./350636-20th-century-beauties.json) |
 | 20th Century Frog | 272846 | [272846-20th-century-frog.json](./272846-20th-century-frog.json) |
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
