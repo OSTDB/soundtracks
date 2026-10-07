@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
 | Baseball Battle | 243738 | [243738-baseball-battle.json](./243738-baseball-battle.json) |
+| Baseball Blast! | 51048 | [51048-baseball-blast.json](./51048-baseball-blast.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
 | Baseball Bros | 336068 | [336068-baseball-bros.json](./336068-baseball-bros.json) |
@@ -1837,6 +1838,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Monkey | 191041 | [191041-bass-monkey.json](./191041-bass-monkey.json) |
 | Bass Pro Shops Fishing Sim World | 139982 | [139982-bass-pro-shops-fishing-sim-world.json](./139982-bass-pro-shops-fishing-sim-world.json) |
 | Bass Pro Shops Trophy Hunter 2007 | 5737 | [5737-bass-pro-shops-trophy-hunter-2007.json](./5737-bass-pro-shops-trophy-hunter-2007.json) |
+| Bass Pro Shops: The Hunt | 51049 | [51049-bass-pro-shops-the-hunt.json](./51049-bass-pro-shops-the-hunt.json) |
+| Bass Pro Shops: The Hunt - Trophy Showdown | 51050 | [51050-bass-pro-shops-the-hunt-trophy-showdown.json](./51050-bass-pro-shops-the-hunt-trophy-showdown.json) |
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
@@ -2256,11 +2259,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Planet | 15663 | [15663-battle-planet.json](./15663-battle-planet.json) |
+| Battle Poker | 51087 | [51087-battle-poker.json](./51087-battle-poker.json) |
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
+| Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
@@ -4037,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
 | Big Bash Cricket | 170402 | [170402-big-bash-cricket.json](./170402-big-bash-cricket.json) |
+| Big Bass Arcade | 51086 | [51086-big-bass-arcade.json](./51086-big-bass-arcade.json) |
 | Big Bass Arcade: No Limit | 59211 | [59211-big-bass-arcade-no-limit.json](./59211-big-bass-arcade-no-limit.json) |
 | Big Bass Fishing | 43880 | [43880-big-bass-fishing.json](./43880-big-bass-fishing.json) |
 | Big Bass World Championship | 20135 | [20135-big-bass-world-championship.json](./20135-big-bass-world-championship.json) |
@@ -4131,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
+| Big Kahuna Party | 51085 | [51085-big-kahuna-party.json](./51085-big-kahuna-party.json) |
 | Big Kahuna Reef | 615 | [615-big-kahuna-reef.json](./615-big-kahuna-reef.json) |
 | Big Kahuna Reef 2: Chain Reaction | 205122 | [205122-big-kahuna-reef-2-chain-reaction.json](./205122-big-kahuna-reef-2-chain-reaction.json) |
 | Big Kahuna Words | 91556 | [91556-big-kahuna-words.json](./91556-big-kahuna-words.json) |
@@ -4217,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Bigfoot: Chasing Shadows | 69354 | [69354-bigfoot-chasing-shadows.json](./69354-bigfoot-chasing-shadows.json) |
+| Bigfoot: King of Crush | 51052 | [51052-bigfoot-king-of-crush.json](./51052-bigfoot-king-of-crush.json) |
 | Bigger Bikes | 190037 | [190037-bigger-bikes.json](./190037-bigger-bikes.json) |
 | Bigger Guns: Expansion Pack | 226246 | [226246-bigger-guns-expansion-pack.json](./226246-bigger-guns-expansion-pack.json) |
 | Bigger Than Me | 183431 | [183431-bigger-than-me.json](./183431-bigger-than-me.json) |
@@ -6026,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Zombies | 172006 | [172006-blood-and-zombies.json](./172006-blood-and-zombies.json) |
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
+| Blood Beach | 51084 | [51084-blood-beach.json](./51084-blood-beach.json) |
 | Blood Beat Club | 301894 | [301894-blood-beat-club.json](./301894-blood-beat-club.json) |
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
 | Blood Bound | 313823 | [313823-blood-bound.json](./313823-blood-bound.json) |
@@ -6791,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! | 11141 | [11141-boing.json](./11141-boing.json) |
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
+| Boingz | 51082 | [51082-boingz.json](./51082-boingz.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
@@ -8908,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brückenbauen | 85746 | [85746-bruckenbauen.json](./85746-bruckenbauen.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
+| Bruiser and Scratch | 51081 | [51081-bruiser-and-scratch.json](./51081-bruiser-and-scratch.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
