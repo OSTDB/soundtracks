@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave: The Lost Hero - The Wandering Pirate | 332524 | [332524-phantom-brave-the-lost-hero-the-wandering-pirate.json](./332524-phantom-brave-the-lost-hero-the-wandering-pirate.json) |
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom breaker battle grounds over drive | 99779 | [99779-phantom-breaker-battle-grounds-over-drive.json](./99779-phantom-breaker-battle-grounds-over-drive.json) |
+| Phantom Breaker: Battle Grounds | 11324 | [11324-phantom-breaker-battle-grounds.json](./11324-phantom-breaker-battle-grounds.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
@@ -4876,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Monsters Deluxe | 44520 | [44520-pixeljunk-monsters-deluxe.json](./44520-pixeljunk-monsters-deluxe.json) |
 | Pixeljunk Monsters Duo | 76208 | [76208-pixeljunk-monsters-duo.json](./76208-pixeljunk-monsters-duo.json) |
 | PixelJunk Monsters Encore | 139952 | [139952-pixeljunk-monsters-encore.json](./139952-pixeljunk-monsters-encore.json) |
+| PixelJunk Nom Nom Galaxy | 10602 | [10602-pixeljunk-nom-nom-galaxy.json](./10602-pixeljunk-nom-nom-galaxy.json) |
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
 | PixelJunk Shooter | 9912 | [9912-pixeljunk-shooter.json](./9912-pixeljunk-shooter.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
