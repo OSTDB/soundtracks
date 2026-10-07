@@ -4474,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
 | Graularm | 126430 | [126430-graularm.json](./126430-graularm.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
+| Grav Blazer Squared | 55716 | [55716-grav-blazer-squared.json](./55716-grav-blazer-squared.json) |
 | Grav Factor | 236323 | [236323-grav-factor.json](./236323-grav-factor.json) |
 | Grav My Balls | 345127 | [345127-grav-my-balls.json](./345127-grav-my-balls.json) |
 | Gravastar | 125329 | [125329-gravastar.json](./125329-gravastar.json) |
