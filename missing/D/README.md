@@ -4479,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Station | 130676 | [130676-devil-station.json](./130676-devil-station.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
+| Devil Summoner: Soul Hackers | 6883 | [6883-devil-summoner-soul-hackers.json](./6883-devil-summoner-soul-hackers.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
@@ -5899,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's Story Studio: Disney's Mulan | 44839 | [44839-disneys-story-studio-disneys-mulan.json](./44839-disneys-story-studio-disneys-mulan.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
+| Disney's TaleSpin | 8067 | [8067-disneys-talespin.json](./8067-disneys-talespin.json) |
 | Disney's Tarzan | 116135 | [116135-disneys-tarzan.json](./116135-disneys-tarzan.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
@@ -8115,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Feastday Gifts and Pranks | 368144 | [368144-dragon-age-origins-feastday-gifts-and-pranks.json](./368144-dragon-age-origins-feastday-gifts-and-pranks.json) |
 | Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
+| Dragon Age: Origins - Return to Ostagar | 22975 | [22975-dragon-age-origins-return-to-ostagar.json](./22975-dragon-age-origins-return-to-ostagar.json) |
 | Dragon Age: Origins - The Stone Prisoner | 17462 | [17462-dragon-age-origins-the-stone-prisoner.json](./17462-dragon-age-origins-the-stone-prisoner.json) |
 | Dragon Age: Origins - Ultimate Edition | 27911 | [27911-dragon-age-origins-ultimate-edition.json](./27911-dragon-age-origins-ultimate-edition.json) |
 | Dragon Age: Origins - Warden's Keep | 17466 | [17466-dragon-age-origins-wardens-keep.json](./17466-dragon-age-origins-wardens-keep.json) |
@@ -8363,6 +8366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Mission | 170890 | [170890-dragon-mission.json](./170890-dragon-mission.json) |
 | Dragon Mix | 42173 | [42173-dragon-mix.json](./42173-dragon-mix.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
+| Dragon Nest | 23921 | [23921-dragon-nest.json](./23921-dragon-nest.json) |
 | Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
