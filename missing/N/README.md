@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakana Bundle 2: Mythic Ocean + Journey of the Broken Circle + Cosmic Top Secret | 204972 | [204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json](./204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
 | Nakano Kouichi Kanshuu: Keirin-ou | 37913 | [37913-nakano-kouichi-kanshuu-keirin-ou.json](./37913-nakano-kouichi-kanshuu-keirin-ou.json) |
+| Nakashima Tetsunari no Othello Seminar | 54943 | [54943-nakashima-tetsunari-no-othello-seminar.json](./54943-nakashima-tetsunari-no-othello-seminar.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
 | Nightmare of Melanie | 108345 | [108345-nightmare-of-melanie.json](./108345-nightmare-of-melanie.json) |
 | Nightmare of Nady | 236906 | [236906-nightmare-of-nady.json](./236906-nightmare-of-nady.json) |
+| Nightmare of Santa Claus | 54912 | [54912-nightmare-of-santa-claus.json](./54912-nightmare-of-santa-claus.json) |
 | Nightmare Of SilkenCore: Train Hell | 333570 | [333570-nightmare-of-silkencore-train-hell.json](./333570-nightmare-of-silkencore-train-hell.json) |
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
