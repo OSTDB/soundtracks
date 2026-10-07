@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenonauts | 8508 | [8508-xenonauts.json](./8508-xenonauts.json) |
 | Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
+| Xenophage | 35508 | [35508-xenophage.json](./35508-xenophage.json) |
 | XenoRaptor | 17355 | [17355-xenoraptor.json](./17355-xenoraptor.json) |
 | Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
 | Xenos: Cartoon Creature Catcher | 272890 | [272890-xenos-cartoon-creature-catcher.json](./272890-xenos-cartoon-creature-catcher.json) |
