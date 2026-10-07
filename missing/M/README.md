@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masque | 37298 | [37298-masque.json](./37298-masque.json) |
 | Masque Mahjongg | 209554 | [209554-masque-mahjongg.json](./209554-masque-mahjongg.json) |
 | Masquerade | 143364 | [143364-masquerade.json](./143364-masquerade.json) |
+| Masquerade | 25575 | [25575-masquerade.json](./25575-masquerade.json) |
 | Masquerade Kiss | 239206 | [239206-masquerade-kiss.json](./239206-masquerade-kiss.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
@@ -10011,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
+| Motor Mania | 25574 | [25574-motor-mania.json](./25574-motor-mania.json) |
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
@@ -10334,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Blobby | 74042 | [74042-mr-blobby.json](./74042-mr-blobby.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
+| Mr. Bones | 25804 | [25804-mr-bones.json](./25804-mr-bones.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
@@ -10611,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muggo! | 237510 | [237510-muggo.json](./237510-muggo.json) |
 | Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
+| Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
 | Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali: Puzzle King | 57914 | [57914-muhammad-ali-puzzle-king.json](./57914-muhammad-ali-puzzle-king.json) |
