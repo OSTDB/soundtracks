@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
 | Elevator Action EX | 50017 | [50017-elevator-action-ex.json](./50017-elevator-action-ex.json) |
+| Elevator Action: Old & New | 49284 | [49284-elevator-action-old-and-new.json](./49284-elevator-action-old-and-new.json) |
 | Elevator Action: Returns - S-Tribute | 226807 | [226807-elevator-action-returns-s-tribute.json](./226807-elevator-action-returns-s-tribute.json) |
 | Elevator Fight | 83200 | [83200-elevator-fight.json](./83200-elevator-fight.json) |
 | Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
@@ -1340,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
 | Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elf-World: Three Kingdoms | 61888 | [61888-elf-world-three-kingdoms.json](./61888-elf-world-three-kingdoms.json) |
+| Elf: The Movie | 49301 | [49301-elf-the-movie.json](./49301-elf-the-movie.json) |
 | Elfblade | 152209 | [152209-elfblade.json](./152209-elfblade.json) |
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
 | Elfengard Hunter Slayer | 302443 | [302443-elfengard-hunter-slayer.json](./302443-elfengard-hunter-slayer.json) |
@@ -1862,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Trees Escape | 315669 | [315669-enchanted-trees-escape.json](./315669-enchanted-trees-escape.json) |
 | Enchanted Valley: Fantasy Slide Puzzle | 365900 | [365900-enchanted-valley-fantasy-slide-puzzle.json](./365900-enchanted-valley-fantasy-slide-puzzle.json) |
 | Enchanted Words | 146766 | [146766-enchanted-words.json](./146766-enchanted-words.json) |
+| Enchanted: Once Upon Andalasia | 49278 | [49278-enchanted-once-upon-andalasia.json](./49278-enchanted-once-upon-andalasia.json) |
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchanting Mahjong Match | 90097 | [90097-enchanting-mahjong-match.json](./90097-enchanting-mahjong-match.json) |
@@ -3175,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Baseball Tonight | 5380 | [5380-espn-baseball-tonight.json](./5380-espn-baseball-tonight.json) |
 | ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
+| ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
 | ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
