@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
 | Jojo's Fashion Show | 27549 | [27549-jojos-fashion-show.json](./27549-jojos-fashion-show.json) |
+| JoJo's Venture | 46815 | [46815-jojos-venture.json](./46815-jojos-venture.json) |
 | JoJodle | 225621 | [225621-jojodle.json](./225621-jojodle.json) |
 | JojoVsDio | 220690 | [220690-jojovsdio.json](./220690-jojovsdio.json) |
 | Jojoy!: Ecorpy Islands | 244850 | [244850-jojoy-ecorpy-islands.json](./244850-jojoy-ecorpy-islands.json) |
