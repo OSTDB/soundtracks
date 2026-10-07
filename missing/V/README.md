@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Games | 282708 | [282708-vegas-games.json](./282708-vegas-games.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
 | Vegas Games: Midnight Madness | 206204 | [206204-vegas-games-midnight-madness.json](./206204-vegas-games-midnight-madness.json) |
+| Vegas Girls | 45902 | [45902-vegas-girls.json](./45902-vegas-girls.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
 | Vegas Party | 51058 | [51058-vegas-party.json](./51058-vegas-party.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Poker Simulator | 296012 | [296012-video-poker-simulator.json](./296012-video-poker-simulator.json) |
 | Video Poker World Tour | 60387 | [60387-video-poker-world-tour.json](./60387-video-poker-world-tour.json) |
 | Video Realms | 156553 | [156553-video-realms.json](./156553-video-realms.json) |
+| Video Speedway | 45901 | [45901-video-speedway.json](./45901-video-speedway.json) |
 | Video Strip Poker | 79519 | [79519-video-strip-poker.json](./79519-video-strip-poker.json) |
 | Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
@@ -1431,10 +1433,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
 | Virtua Golf | 131345 | [131345-virtua-golf.json](./131345-virtua-golf.json) |
+| Virtua Hamster | 45874 | [45874-virtua-hamster.json](./45874-virtua-hamster.json) |
 | Virtua NBA | 39790 | [39790-virtua-nba.json](./39790-virtua-nba.json) |
 | Virtua Park the Fish 2: Sodatete Puku-puku | 230416 | [230416-virtua-park-the-fish-2-sodatete-puku-puku.json](./230416-virtua-park-the-fish-2-sodatete-puku-puku.json) |
 | Virtua Photo Studio | 250533 | [250533-virtua-photo-studio.json](./250533-virtua-photo-studio.json) |
 | Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
+| Virtua Racing Deluxe | 45880 | [45880-virtua-racing-deluxe.json](./45880-virtua-racing-deluxe.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker | 46765 | [46765-virtua-striker.json](./46765-virtua-striker.json) |
