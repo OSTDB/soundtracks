@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round | 8211 | [8211-dead-or-alive-5-last-round.json](./8211-dead-or-alive-5-last-round.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
+| Dead or Alive 5 Plus | 11725 | [11725-dead-or-alive-5-plus.json](./11725-dead-or-alive-5-plus.json) |
 | Dead or Alive 5: Catalogue Set | 304738 | [304738-dead-or-alive-5-catalogue-set.json](./304738-dead-or-alive-5-catalogue-set.json) |
 | Dead or Alive 5: Collector's Edition | 210707 | [210707-dead-or-alive-5-collectors-edition.json](./210707-dead-or-alive-5-collectors-edition.json) |
 | Dead Or Alive 5: Costume Catalog 47 | 316752 | [316752-dead-or-alive-5-costume-catalog-47.json](./316752-dead-or-alive-5-costume-catalog-47.json) |
@@ -5243,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
+| Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
 | Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
 | Dinkigolf | 197846 | [197846-dinkigolf.json](./197846-dinkigolf.json) |
@@ -8256,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Sparking! Zero - Ultimate Edition | 307191 | [307191-dragon-ball-sparking-zero-ultimate-edition.json](./307191-dragon-ball-sparking-zero-ultimate-edition.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
+| Dragon Ball: The Breakers | 182179 | [182179-dragon-ball-the-breakers.json](./182179-dragon-ball-the-breakers.json) |
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
