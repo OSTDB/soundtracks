@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Pocket | 49579 | [49579-fancy-pocket.json](./49579-fancy-pocket.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
+| Fancy Slingshot VR | 31670 | [31670-fancy-slingshot-vr.json](./31670-fancy-slingshot-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
@@ -1037,9 +1038,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FantaStep | 97526 | [97526-fantastep.json](./97526-fantastep.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
+| Fantastic 4 In A Row 2 | 31676 | [31676-fantastic-4-in-a-row-2.json](./31676-fantastic-4-in-a-row-2.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic 4: Flame On | 49299 | [49299-fantastic-4-flame-on.json](./49299-fantastic-4-flame-on.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
+| Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
 | Fantastic Contraption Classic 1 & 2 | 169227 | [169227-fantastic-contraption-classic-1-and-2.json](./169227-fantastic-contraption-classic-1-and-2.json) |
@@ -2752,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
+| Final Cut: Death on the Silver Screen - Collector's Edition | 31690 | [31690-final-cut-death-on-the-silver-screen-collectors-edition.json](./31690-final-cut-death-on-the-silver-screen-collectors-edition.json) |
 | Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
 | Final Cut: Fame Fatale - A Hidden Object Adventure | 88468 | [88468-final-cut-fame-fatale-a-hidden-object-adventure.json](./88468-final-cut-fame-fatale-a-hidden-object-adventure.json) |
 | Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
