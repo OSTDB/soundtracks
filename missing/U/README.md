@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Uncharted: Fight for Fortune - Among Thieves Expansion | 381859 | [381859-uncharted-fight-for-fortune-among-thieves-expansion.json](./381859-uncharted-fight-for-fortune-among-thieves-expansion.json) |
 | Uncharted: Fight for Fortune - Drake's Deception Expansion | 381860 | [381860-uncharted-fight-for-fortune-drakes-deception-expansion.json](./381860-uncharted-fight-for-fortune-drakes-deception-expansion.json) |
+| Uncharted: Fortune Hunter | 19609 | [19609-uncharted-fortune-hunter.json](./19609-uncharted-fortune-hunter.json) |
 | Uncharted: The Lost Legacy - Remastered | 168669 | [168669-uncharted-the-lost-legacy-remastered.json](./168669-uncharted-the-lost-legacy-remastered.json) |
 | Uncivil War TCG: Trading Card Game | 99417 | [99417-uncivil-war-tcg-trading-card-game.json](./99417-uncivil-war-tcg-trading-card-game.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
@@ -1568,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | UnnyWorld | 33438 | [33438-unnyworld.json](./33438-unnyworld.json) |
 | Uno | 255867 | [255867-uno.json](./255867-uno.json) |
+| Uno | 81358 | [81358-uno.json](./81358-uno.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
