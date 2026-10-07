@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Anima | 294364 | [294364-hand-of-anima.json](./294364-hand-of-anima.json) |
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
+| Hand of Fate | 9101 | [9101-hand-of-fate.json](./9101-hand-of-fate.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
+| Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
 | Heart of Enya | 149479 | [149479-heart-of-enya.json](./149479-heart-of-enya.json) |
 | Heart of Evil | 165441 | [165441-heart-of-evil.json](./165441-heart-of-evil.json) |
 | Heart of Evil: Napalm Edition | 221654 | [221654-heart-of-evil-napalm-edition.json](./221654-heart-of-evil-napalm-edition.json) |
