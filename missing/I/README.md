@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Days | 151599 | [151599-idol-days.json](./151599-idol-days.json) |
 | Idol Days Sim Date | 198242 | [198242-idol-days-sim-date.json](./198242-idol-days-sim-date.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
+| Idol Hanafuda Fan Club | 37664 | [37664-idol-hanafuda-fan-club.json](./37664-idol-hanafuda-fan-club.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
 | Idol Incidents | 56317 | [56317-idol-incidents.json](./56317-idol-incidents.json) |
