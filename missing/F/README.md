@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
+| Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
+| FIFA 17 | 240450 | [240450-fifa-17.json](./240450-fifa-17.json) |
 | FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
 | FIFA 19 | 240453 | [240453-fifa-19.json](./240453-fifa-19.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
@@ -2685,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Zombie | 196558 | [196558-fighting-zombie.json](./196558-fighting-zombie.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fightmons | 120224 | [120224-fightmons.json](./120224-fightmons.json) |
+| Fights in Tight Spaces | 132422 | [132422-fights-in-tight-spaces.json](./132422-fights-in-tight-spaces.json) |
 | Fights in Tight Spaces: Complete Edition | 270309 | [270309-fights-in-tight-spaces-complete-edition.json](./270309-fights-in-tight-spaces-complete-edition.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
@@ -2887,7 +2890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
+| Final Fantasy VII: Ever Crisis | 144040 | [144040-final-fantasy-vii-ever-crisis.json](./144040-final-fantasy-vii-ever-crisis.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
+| Final Fantasy VIII | 203538 | [203538-final-fantasy-viii.json](./203538-final-fantasy-viii.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Requiem | 360130 | [360130-final-fantasy-viii-requiem.json](./360130-final-fantasy-viii-requiem.json) |
 | Final Fantasy X HD Remaster | 21899 | [21899-final-fantasy-x-hd-remaster.json](./21899-final-fantasy-x-hd-remaster.json) |
@@ -4965,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
+| Fobia: St. Dinfna Hotel | 133059 | [133059-fobia-st-dinfna-hotel.json](./133059-fobia-st-dinfna-hotel.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focalpoint | 221653 | [221653-focalpoint.json](./221653-focalpoint.json) |
