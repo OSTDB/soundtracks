@@ -4872,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
+| World Racing 2 | 20559 | [20559-world-racing-2.json](./20559-world-racing-2.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
@@ -5480,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
+| WWF Wrestlemania | 72120 | [72120-wwf-wrestlemania.json](./72120-wwf-wrestlemania.json) |
 | WWF WrestleMania Challenge | 19513 | [19513-wwf-wrestlemania-challenge.json](./19513-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
