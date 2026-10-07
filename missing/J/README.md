@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
 | Jimmy White's 'Whirlwind' Snooker | 12159 | [12159-jimmy-whites-whirlwind-snooker.json](./12159-jimmy-whites-whirlwind-snooker.json) |
+| Jimmy White's 2: Cueball | 45852 | [45852-jimmy-whites-2-cueball.json](./45852-jimmy-whites-2-cueball.json) |
 | Jimmy White's Cue Ball | 50029 | [50029-jimmy-whites-cue-ball.json](./50029-jimmy-whites-cue-ball.json) |
 | Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
 | Jimmy's Journey | 121492 | [121492-jimmys-journey.json](./121492-jimmys-journey.json) |
