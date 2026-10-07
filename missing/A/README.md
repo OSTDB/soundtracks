@@ -7513,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
+| Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
 | Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Extinction Ascended | 338826 | [338826-ark-extinction-ascended.json](./338826-ark-extinction-ascended.json) |
