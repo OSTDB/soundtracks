@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Vengeance | 20854 | [20854-call-of-duty-black-ops-ii-vengeance.json](./20854-call-of-duty-black-ops-ii-vengeance.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops III - Descent | 20292 | [20292-call-of-duty-black-ops-iii-descent.json](./20292-call-of-duty-black-ops-iii-descent.json) |
+| Call of Duty: Black Ops III - Digital Deluxe Edition | 30717 | [30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json](./30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
@@ -3316,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
 | Charm Tale | 71052 | [71052-charm-tale.json](./71052-charm-tale.json) |
 | Charm Tale 2: Mermaid Lagoon | 111626 | [111626-charm-tale-2-mermaid-lagoon.json](./111626-charm-tale-2-mermaid-lagoon.json) |
+| Charm Tale Quest | 30703 | [30703-charm-tale-quest.json](./30703-charm-tale-quest.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
@@ -10102,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
 | Crumble Zone HD | 38866 | [38866-crumble-zone-hd.json](./38866-crumble-zone-hd.json) |
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
+| Crumbled World | 30751 | [30751-crumbled-world.json](./30751-crumbled-world.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
