@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
 | Karate Warrior | 134424 | [134424-karate-warrior.json](./134424-karate-warrior.json) |
+| Karateka | 27551 | [27551-karateka.json](./27551-karateka.json) |
 | Karateka | 4602 | [4602-karateka.json](./4602-karateka.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
@@ -1024,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenran Butou Sai: The Mars Daybreak | 59077 | [59077-kenran-butou-sai-the-mars-daybreak.json](./59077-kenran-butou-sai-the-mars-daybreak.json) |
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
+| Kenseiden | 65579 | [65579-kenseiden.json](./65579-kenseiden.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
