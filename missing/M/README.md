@@ -2864,12 +2864,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3 | 245478 | [245478-mass-effect-3.json](./245478-mass-effect-3.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
+| Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Bring Down the Sky | 13784 | [13784-mass-effect-bring-down-the-sky.json](./13784-mass-effect-bring-down-the-sky.json) |
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
+| Mass Effect: Limited Collector's Edition | 45179 | [45179-mass-effect-limited-collectors-edition.json](./45179-mass-effect-limited-collectors-edition.json) |
 | Mass Effect: Pinnacle Station | 13781 | [13781-mass-effect-pinnacle-station.json](./13781-mass-effect-pinnacle-station.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
+| Mega Man 8: Anniversary Collector's Edition | 45182 | [45182-mega-man-8-anniversary-collectors-edition.json](./45182-mega-man-8-anniversary-collectors-edition.json) |
 | Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
@@ -4314,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
+| Mega Man CX | 45187 | [45187-mega-man-cx.json](./45187-mega-man-cx.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man Dongs | 282810 | [282810-mega-man-dongs.json](./282810-mega-man-dongs.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
@@ -4330,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
+| Mega Man Redux | 45189 | [45189-mega-man-redux.json](./45189-mega-man-redux.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
@@ -4337,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
+| Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
@@ -4399,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
 | Mega Man: Square Root of Negative One | 304266 | [304266-mega-man-square-root-of-negative-one.json](./304266-mega-man-square-root-of-negative-one.json) |
+| Mega Man: Super Fighting Robot | 45183 | [45183-mega-man-super-fighting-robot.json](./45183-mega-man-super-fighting-robot.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Power Battle | 1724 | [1724-mega-man-the-power-battle.json](./1724-mega-man-the-power-battle.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
@@ -5389,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | 383391 | [383391-metal-gear-solid-3-snake-eater-master-collection-version.json](./383391-metal-gear-solid-3-snake-eater-master-collection-version.json) |
 | Metal Gear Solid 3: Snake Eater - Slipcase Edition | 43262 | [43262-metal-gear-solid-3-snake-eater-slipcase-edition.json](./43262-metal-gear-solid-3-snake-eater-slipcase-edition.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
+| Metal Gear Solid 4: Guns of the Patriots - Limited Edition | 45177 | [45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json](./45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
@@ -9037,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
+| Monsterseed | 45219 | [45219-monsterseed.json](./45219-monsterseed.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
@@ -9942,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
+| Motorbike Madness | 45244 | [45244-motorbike-madness.json](./45244-motorbike-madness.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
 | Motorbike Racing | 88493 | [88493-motorbike-racing.json](./88493-motorbike-racing.json) |
 | Motorbike Racing Bundle | 226786 | [226786-motorbike-racing-bundle.json](./226786-motorbike-racing-bundle.json) |
