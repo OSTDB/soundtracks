@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J.League Winning Eleven 10 + Europe League 06-07 | 136813 | [136813-j-league-winning-eleven-10-europe-league-06-07.json](./136813-j-league-winning-eleven-10-europe-league-06-07.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
+| J.R.R. Tolkien's The Lord of the Rings, Vol II: The Two Towers | 50417 | [50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json](./50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol. I | 137042 | [137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json](./137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json) |
 | J'ai Trouvé! Le Manoir Hanté | 140600 | [140600-jai-trouve-le-manoir-hante.json](./140600-jai-trouve-le-manoir-hante.json) |
 | J'apprends L'Anglais CP-CM1 | 147347 | [147347-japprends-langlais-cp-cm1.json](./147347-japprends-langlais-cp-cm1.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jasper! | 92971 | [92971-jasper.json](./92971-jasper.json) |
 | Jasper's Dream | 220044 | [220044-jaspers-dream.json](./220044-jaspers-dream.json) |
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
+| Jasper's Journeys | 50439 | [50439-jaspers-journeys.json](./50439-jaspers-journeys.json) |
 | Jaunt | 154382 | [154382-jaunt.json](./154382-jaunt.json) |
 | Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
 | Java Journey | 303589 | [303589-java-journey.json](./303589-java-journey.json) |
