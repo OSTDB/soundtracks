@@ -10993,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zone | 391271 | [391271-the-zone.json](./391271-the-zone.json) |
 | The Zone: Stalker Stories | 135901 | [135901-the-zone-stalker-stories.json](./135901-the-zone-stalker-stories.json) |
 | The Zoo Race | 9097 | [9097-the-zoo-race.json](./9097-the-zoo-race.json) |
+| The Zork Anthology | 51774 | [51774-the-zork-anthology.json](./51774-the-zork-anthology.json) |
 | The Zvengers: Infinity Defense | 328472 | [328472-the-zvengers-infinity-defense.json](./328472-the-zvengers-infinity-defense.json) |
 | The Zwuggels: Beach Holidays | 51555 | [51555-the-zwuggels-beach-holidays.json](./51555-the-zwuggels-beach-holidays.json) |
 | The Zyrdain Sands | 390100 | [390100-the-zyrdain-sands.json](./390100-the-zyrdain-sands.json) |
@@ -11762,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderhawk AH-73M | 12929 | [12929-thunderhawk-ah-73m.json](./12929-thunderhawk-ah-73m.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
+| Thunderscape | 51804 | [51804-thunderscape.json](./51804-thunderscape.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
 | Thunderstrike: Operation Phoenix | 43278 | [43278-thunderstrike-operation-phoenix.json](./43278-thunderstrike-operation-phoenix.json) |
 | ThunderWheels | 72481 | [72481-thunderwheels.json](./72481-thunderwheels.json) |
@@ -14662,6 +14664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
+| Toren: Deluxe Edition | 51803 | [51803-toren-deluxe-edition.json](./51803-toren-deluxe-edition.json) |
 | Torgar's Quest | 33361 | [33361-torgars-quest.json](./33361-torgars-quest.json) |
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
@@ -14688,6 +14691,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
 | Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
+| Torment: Tides of Numenera - Immortal Edition | 51802 | [51802-torment-tides-of-numenera-immortal-edition.json](./51802-torment-tides-of-numenera-immortal-edition.json) |
+| Torment: Tides of Numenera - Legacy Edition | 51801 | [51801-torment-tides-of-numenera-legacy-edition.json](./51801-torment-tides-of-numenera-legacy-edition.json) |
 | Tormenta: Memórias da Tempestade | 231322 | [231322-tormenta-memorias-da-tempestade.json](./231322-tormenta-memorias-da-tempestade.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
@@ -18766,6 +18771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds II HD: Call of the Tenebrae | 131960 | [131960-two-worlds-ii-hd-call-of-the-tenebrae.json](./131960-two-worlds-ii-hd-call-of-the-tenebrae.json) |
 | Two Worlds II HD: Shattered Embrace | 126972 | [126972-two-worlds-ii-hd-shattered-embrace.json](./126972-two-worlds-ii-hd-shattered-embrace.json) |
 | Two Worlds II: Echoes of the Dark Past | 124775 | [124775-two-worlds-ii-echoes-of-the-dark-past.json](./124775-two-worlds-ii-echoes-of-the-dark-past.json) |
+| Two Worlds II: Epic Edition | 51798 | [51798-two-worlds-ii-epic-edition.json](./51798-two-worlds-ii-epic-edition.json) |
 | Two Worlds II: Pirates of the Flying Fortress | 11032 | [11032-two-worlds-ii-pirates-of-the-flying-fortress.json](./11032-two-worlds-ii-pirates-of-the-flying-fortress.json) |
 | Two Worlds II: Velvet Game of the Year Edition | 47473 | [47473-two-worlds-ii-velvet-game-of-the-year-edition.json](./47473-two-worlds-ii-velvet-game-of-the-year-edition.json) |
 | Two Worlds: The Game of the Year Edition | 53866 | [53866-two-worlds-the-game-of-the-year-edition.json](./53866-two-worlds-the-game-of-the-year-edition.json) |
@@ -18858,7 +18864,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
+| Tyranny: Archon Edition | 51797 | [51797-tyranny-archon-edition.json](./51797-tyranny-archon-edition.json) |
+| Tyranny: Commander Edition | 51796 | [51796-tyranny-commander-edition.json](./51796-tyranny-commander-edition.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
+| Tyranny: Overlord Edition | 51795 | [51795-tyranny-overlord-edition.json](./51795-tyranny-overlord-edition.json) |
+| Tyranny: Tales from the Tiers | 51794 | [51794-tyranny-tales-from-the-tiers.json](./51794-tyranny-tales-from-the-tiers.json) |
 | Tyrant | 262996 | [262996-tyrant.json](./262996-tyrant.json) |
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
