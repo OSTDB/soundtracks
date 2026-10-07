@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiketsu Rumi-Zu! | 122944 | [122944-taiketsu-rumi-zu.json](./122944-taiketsu-rumi-zu.json) |
+| Taiketsu! Ultra Hero | 49799 | [49799-taiketsu-ultra-hero.json](./49799-taiketsu-ultra-hero.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
 | Taiko no Tatsujin 10 | 276420 | [276420-taiko-no-tatsujin-10.json](./276420-taiko-no-tatsujin-10.json) |
@@ -830,10 +831,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of the Withered | 358456 | [358456-tales-of-the-withered.json](./358456-tales-of-the-withered.json) |
+| Tales of the World: Narikiri Dungeon 2 | 49828 | [49828-tales-of-the-world-narikiri-dungeon-2.json](./49828-tales-of-the-world-narikiri-dungeon-2.json) |
+| Tales of the World: Narikiri Dungeon 3 | 49827 | [49827-tales-of-the-world-narikiri-dungeon-3.json](./49827-tales-of-the-world-narikiri-dungeon-3.json) |
 | Tales of the World: Radiant Mythology | 19159 | [19159-tales-of-the-world-radiant-mythology.json](./19159-tales-of-the-world-radiant-mythology.json) |
 | Tales of the World: Radiant Mythology 2 | 42794 | [42794-tales-of-the-world-radiant-mythology-2.json](./42794-tales-of-the-world-radiant-mythology-2.json) |
 | Tales of the World: Radiant Mythology 3 | 42793 | [42793-tales-of-the-world-radiant-mythology-3.json](./42793-tales-of-the-world-radiant-mythology-3.json) |
 | Tales of the World: Reve Unitia | 61871 | [61871-tales-of-the-world-reve-unitia.json](./61871-tales-of-the-world-reve-unitia.json) |
+| Tales of the World: Summoner's Lineage | 49826 | [49826-tales-of-the-world-summoners-lineage.json](./49826-tales-of-the-world-summoners-lineage.json) |
 | Tales of Therapy | 226150 | [226150-tales-of-therapy.json](./226150-tales-of-therapy.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
@@ -1076,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tan Tank 2 | 296008 | [296008-tan-tank-2.json](./296008-tan-tank-2.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
+| Tanbi Musou: Meine Liebe | 49825 | [49825-tanbi-musou-meine-liebe.json](./49825-tanbi-musou-meine-liebe.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
@@ -1280,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
+| Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
 | Tantei ha Tsuki wo Miru | 343979 | [343979-tantei-ha-tsuki-wo-miru.json](./343979-tantei-ha-tsuki-wo-miru.json) |
 | Tantei Jinguji Saburo DS: Akai Chou | 78906 | [78906-tantei-jinguji-saburo-ds-akai-chou.json](./78906-tantei-jinguji-saburo-ds-akai-chou.json) |
 | Tantei Jinguji Saburo DS: Kienai Kokoro | 78907 | [78907-tantei-jinguji-saburo-ds-kienai-kokoro.json](./78907-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
@@ -1317,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Shinjuku Chuuou Kouen Satsujin Jiken | 41412 | [41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json](./41412-tantei-jinguji-saburo-shinjuku-chuuou-kouen-satsujin-jiken.json) |
+| Tantei Jinguji Saburo: Shiroi Kage no Shoujo | 49852 | [49852-tantei-jinguji-saburo-shiroi-kage-no-shoujo.json](./49852-tantei-jinguji-saburo-shiroi-kage-no-shoujo.json) |
 | Tantei Jinguji Saburo: Toki no Sugiyuku Mama ni | 48883 | [48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json](./48883-tantei-jinguji-saburo-toki-no-sugiyuku-mama-ni.json) |
 | Tantei Jinguji Saburo: Tomoshibi ga Kienu Ma ni | 78265 | [78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json](./78265-tantei-jinguji-saburo-tomoshibi-ga-kienu-ma-ni.json) |
 | Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
@@ -2427,10 +2434,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
+| Tennis no Ouji-sama 2003: Cool Blue | 49849 | [49849-tennis-no-ouji-sama-2003-cool-blue.json](./49849-tennis-no-ouji-sama-2003-cool-blue.json) |
+| Tennis no Ouji-sama 2003: Passion Red | 49848 | [49848-tennis-no-ouji-sama-2003-passion-red.json](./49848-tennis-no-ouji-sama-2003-passion-red.json) |
+| Tennis no Ouji-sama 2004: Glorious Gold | 49847 | [49847-tennis-no-ouji-sama-2004-glorious-gold.json](./49847-tennis-no-ouji-sama-2004-glorious-gold.json) |
+| Tennis no Ouji-sama 2004: Stylish Silver | 49846 | [49846-tennis-no-ouji-sama-2004-stylish-silver.json](./49846-tennis-no-ouji-sama-2004-stylish-silver.json) |
 | Tennis no Ouji-sama Gyutto! Doki-doki Survival Umi to Yama no Love Passion | 136806 | [136806-tennis-no-ouji-sama-gyutto-doki-doki-survival-umi-to-yama-no-love-passion.json](./136806-tennis-no-ouji-sama-gyutto-doki-doki-survival-umi-to-yama-no-love-passion.json) |
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
 | Tennis no Ouji-sama: 2005 Crystal Drive | 72928 | [72928-tennis-no-ouji-sama-2005-crystal-drive.json](./72928-tennis-no-ouji-sama-2005-crystal-drive.json) |
+| Tennis no Ouji-sama: Aim at the Victory! | 49851 | [49851-tennis-no-ouji-sama-aim-at-the-victory.json](./49851-tennis-no-ouji-sama-aim-at-the-victory.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
+| Tennis no Ouji-sama: Genius Boys Academy | 49850 | [49850-tennis-no-ouji-sama-genius-boys-academy.json](./49850-tennis-no-ouji-sama-genius-boys-academy.json) |
 | Tennis no Ouji-sama: Saikyou Team wo Kessei seyo! | 61127 | [61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json](./61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
@@ -8503,6 +8516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
+| The Powerpuff Girls: Battle HIM | 49832 | [49832-the-powerpuff-girls-battle-him.json](./49832-the-powerpuff-girls-battle-him.json) |
 | The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
 | The Powerpuff Girls: Fast and Flurrious | 144131 | [144131-the-powerpuff-girls-fast-and-flurrious.json](./144131-the-powerpuff-girls-fast-and-flurrious.json) |
 | The Powerpuff Girls: Flipped Out | 90373 | [90373-the-powerpuff-girls-flipped-out.json](./90373-the-powerpuff-girls-flipped-out.json) |
@@ -13967,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
+| Tokimeki Dream Series 1: Ohanaya-san ni Narou! | 49845 | [49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json](./49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json) |
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
 | Tokimeki Memorial 4 | 67379 | [67379-tokimeki-memorial-4.json](./67379-tokimeki-memorial-4.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
@@ -14225,6 +14240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tómate un Descanso | 327435 | [327435-tomate-un-descanso.json](./327435-tomate-un-descanso.json) |
+| Tomato Adventure | 49844 | [49844-tomato-adventure.json](./49844-tomato-adventure.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
