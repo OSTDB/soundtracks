@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
+| Fairlight II: Trail of Darkness | 26444 | [26444-fairlight-ii-trail-of-darkness.json](./26444-fairlight-ii-trail-of-darkness.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
 | Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
 | Fairune | 386353 | [386353-fairune.json](./386353-fairune.json) |
