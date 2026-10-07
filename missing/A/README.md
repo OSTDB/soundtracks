@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
+| Ace Ventura | 4586 | [4586-ace-ventura.json](./4586-ace-ventura.json) |
 | Ace Ventura: Pet Detective | 218423 | [218423-ace-ventura-pet-detective.json](./218423-ace-ventura-pet-detective.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | ACE: Alice Card Episode | 385869 | [385869-ace-alice-card-episode.json](./385869-ace-alice-card-episode.json) |
@@ -9739,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - Book 1 Challenges | 220068 | [220068-avatar-the-last-airbender-book-1-challenges.json](./220068-avatar-the-last-airbender-book-1-challenges.json) |
 | Avatar: The Last Airbender - Earth Rumble | 406777 | [406777-avatar-the-last-airbender-earth-rumble.json](./406777-avatar-the-last-airbender-earth-rumble.json) |
 | Avatar: The Last Airbender - Into the Inferno | 210251 | [210251-avatar-the-last-airbender-into-the-inferno.json](./210251-avatar-the-last-airbender-into-the-inferno.json) |
+| Avatar: The Last Airbender - Into the Inferno | 4684 | [4684-avatar-the-last-airbender-into-the-inferno.json](./4684-avatar-the-last-airbender-into-the-inferno.json) |
 | Avatar: The Last Airbender - Quest for Balance | 255085 | [255085-avatar-the-last-airbender-quest-for-balance.json](./255085-avatar-the-last-airbender-quest-for-balance.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210252 | [210252-avatar-the-last-airbender-the-burning-earth.json](./210252-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
