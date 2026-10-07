@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Connection Portable | 203266 | [203266-death-connection-portable.json](./203266-death-connection-portable.json) |
 | Death Corp | 218583 | [218583-death-corp.json](./218583-death-corp.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
+| Death Crimson | 54917 | [54917-death-crimson.json](./54917-death-crimson.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
@@ -9351,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drownlight | 338324 | [338324-drownlight.json](./338324-drownlight.json) |
 | Drownload | 376036 | [376036-drownload.json](./376036-drownload.json) |
 | Drox Operative 2 | 134503 | [134503-drox-operative-2.json](./134503-drox-operative-2.json) |
+| Druaga Online: The Story of Aon | 54947 | [54947-druaga-online-the-story-of-aon.json](./54947-druaga-online-the-story-of-aon.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
 | Drug Dealer Manager | 217264 | [217264-drug-dealer-manager.json](./217264-drug-dealer-manager.json) |
