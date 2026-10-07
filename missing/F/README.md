@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout Shelter Online | 131851 | [131851-fallout-shelter-online.json](./131851-fallout-shelter-online.json) |
+| Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cnight | 99729 | [99729-far-cnight.json](./99729-far-cnight.json) |
 | Far Cry 2 | 317303 | [317303-far-cry-2.json](./317303-far-cry-2.json) |
+| Far Cry 2: Fortune's Edition | 46633 | [46633-far-cry-2-fortunes-edition.json](./46633-far-cry-2-fortunes-edition.json) |
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
@@ -1881,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
+| Fate/Stay Night: Réalta Nua - Heaven's Feel | 47066 | [47066-fate-stay-night-realta-nua-heavens-feel.json](./47066-fate-stay-night-realta-nua-heavens-feel.json) |
 | Fate/tiger colosseum | 12331 | [12331-fate-tiger-colosseum.json](./12331-fate-tiger-colosseum.json) |
 | Fate/tiger colosseum Upper | 12332 | [12332-fate-tiger-colosseum-upper.json](./12332-fate-tiger-colosseum-upper.json) |
 | Fate/unlimited codes Portable | 42863 | [42863-fate-unlimited-codes-portable.json](./42863-fate-unlimited-codes-portable.json) |
@@ -2180,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fellowship | 330379 | [330379-fellowship.json](./330379-fellowship.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
+| Felony 11-79 | 45078 | [45078-felony-11-79.json](./45078-felony-11-79.json) |
 | Felony! | 25860 | [25860-felony.json](./25860-felony.json) |
 | Felspire | 23660 | [23660-felspire.json](./23660-felspire.json) |
 | Felt Mansion | 187315 | [187315-felt-mansion.json](./187315-felt-mansion.json) |
@@ -3932,7 +3936,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
+| Five Nights at Candy's 2 | 45982 | [45982-five-nights-at-candys-2.json](./45982-five-nights-at-candys-2.json) |
 | Five Nights at Candy's 2 DX | 266215 | [266215-five-nights-at-candys-2-dx.json](./266215-five-nights-at-candys-2-dx.json) |
+| Five Nights at Candy's 3 | 45981 | [45981-five-nights-at-candys-3.json](./45981-five-nights-at-candys-3.json) |
 | Five Nights at Candy's 3 DX | 266218 | [266218-five-nights-at-candys-3-dx.json](./266218-five-nights-at-candys-3-dx.json) |
 | Five Nights at Candy's DX | 266212 | [266212-five-nights-at-candys-dx.json](./266212-five-nights-at-candys-dx.json) |
 | Five Nights at Chuck E. Cheese's: Rebooted | 238433 | [238433-five-nights-at-chuck-e-cheeses-rebooted.json](./238433-five-nights-at-chuck-e-cheeses-rebooted.json) |
