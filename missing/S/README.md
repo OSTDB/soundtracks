@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Shop Simulator | 407379 | [407379-sandwich-shop-simulator.json](./407379-sandwich-shop-simulator.json) |
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
+| Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
+| Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
 | Secrets of the Burrow: Vixoria's Quest | 372135 | [372135-secrets-of-the-burrow-vixorias-quest.json](./372135-secrets-of-the-burrow-vixorias-quest.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
@@ -2833,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
+| Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Football Club Champions | 346196 | [346196-sega-football-club-champions.json](./346196-sega-football-club-champions.json) |
 | Sega Game Pack 4 in 1 | 79600 | [79600-sega-game-pack-4-in-1.json](./79600-sega-game-pack-4-in-1.json) |
@@ -13708,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
+| Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
 | Star Trek: Strategic Operations Simulator | 282081 | [282081-star-trek-strategic-operations-simulator.json](./282081-star-trek-strategic-operations-simulator.json) |
@@ -17788,6 +17792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Magbot | 132921 | [132921-super-magbot.json](./132921-super-magbot.json) |
 | Super Magbot: Digital Deluxe Edition | 242608 | [242608-super-magbot-digital-deluxe-edition.json](./242608-super-magbot-digital-deluxe-edition.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
+| Super Magnetic Neo | 45863 | [45863-super-magnetic-neo.json](./45863-super-magnetic-neo.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
 | Super Magus Parvomagnus | 368611 | [368611-super-magus-parvomagnus.json](./368611-super-magus-parvomagnus.json) |
 | Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
