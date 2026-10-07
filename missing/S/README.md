@@ -11387,6 +11387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
 | Space Station Invader VR | 127711 | [127711-space-station-invader-vr.json](./127711-space-station-invader-vr.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
+| Space Station Oblivion | 12059 | [12059-space-station-oblivion.json](./12059-space-station-oblivion.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Station Racer | 197698 | [197698-space-station-racer.json](./197698-space-station-racer.json) |
 | Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
@@ -12050,9 +12051,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbook Demonslayers NSFW | 297743 | [297743-spellbook-demonslayers-nsfw.json](./297743-spellbook-demonslayers-nsfw.json) |
 | Spellborne | 230198 | [230198-spellborne.json](./230198-spellborne.json) |
+| Spellbound | 12361 | [12361-spellbound.json](./12361-spellbound.json) |
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
 | Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
+| Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
@@ -18705,6 +18708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Size Me: Burger Man | 237292 | [237292-super-size-me-burger-man.json](./237292-super-size-me-burger-man.json) |
 | Super Sized Mario Bros | 286640 | [286640-super-sized-mario-bros.json](./286640-super-sized-mario-bros.json) |
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
+| Super Skateboardin' | 12341 | [12341-super-skateboardin.json](./12341-super-skateboardin.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
@@ -18882,6 +18886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
+| Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
@@ -20119,6 +20124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
+| Switchblade II | 12369 | [12369-switchblade-ii.json](./12369-switchblade-ii.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
 | Switchboard Heights | 145917 | [145917-switchboard-heights.json](./145917-switchboard-heights.json) |
