@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted In Blood | 303709 | [303709-painted-in-blood.json](./303709-painted-in-blood.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
+| Painted Memories | 30752 | [30752-painted-memories.json](./30752-painted-memories.json) |
 | Painted Red | 56883 | [56883-painted-red.json](./56883-painted-red.json) |
 | Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
@@ -1251,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
+| Paranormal Teens | 30689 | [30689-paranormal-teens.json](./30689-paranormal-teens.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
+| Piratado 1 | 30743 | [30743-piratado-1.json](./30743-piratado-1.json) |
 | Pirate | 305469 | [305469-pirate.json](./305469-pirate.json) |
 | Pirate | 41424 | [41424-pirate.json](./41424-pirate.json) |
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
@@ -7466,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
+| Power Overwhelming | 30739 | [30739-power-overwhelming.json](./30739-power-overwhelming.json) |
 | Power Peach Sis. | 48562 | [48562-power-peach-sis.json](./48562-power-peach-sis.json) |
 | Power Pegged | 80799 | [80799-power-pegged.json](./80799-power-pegged.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
@@ -9572,6 +9576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
+| Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
