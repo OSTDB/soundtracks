@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
+| N.O.V.A.: Near Orbit Vanguard Alliance | 19316 | [19316-n-o-v-a-near-orbit-vanguard-alliance.json](./19316-n-o-v-a-near-orbit-vanguard-alliance.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
 | N'Oubliez Jamais | 166578 | [166578-noubliez-jamais.json](./166578-noubliez-jamais.json) |
