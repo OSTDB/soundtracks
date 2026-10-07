@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
 | Resident Evil 4: Otome Edition | 29145 | [29145-resident-evil-4-otome-edition.json](./29145-resident-evil-4-otome-edition.json) |
+| Resident Evil 4: Premium Edition | 41861 | [41861-resident-evil-4-premium-edition.json](./41861-resident-evil-4-premium-edition.json) |
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Treasure Map - Expansion | 266389 | [266389-resident-evil-4-treasure-map-expansion.json](./266389-resident-evil-4-treasure-map-expansion.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
+| Resident Evil 7: Biohazard - Steelbook Edition | 41857 | [41857-resident-evil-7-biohazard-steelbook-edition.json](./41857-resident-evil-7-biohazard-steelbook-edition.json) |
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
 | Resident Evil Assault the Nightmare | 356222 | [356222-resident-evil-assault-the-nightmare.json](./356222-resident-evil-assault-the-nightmare.json) |
 | Resident Evil Confidential Report File #2 | 402391 | [402391-resident-evil-confidential-report-file-2.json](./402391-resident-evil-confidential-report-file-2.json) |
@@ -3163,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Prologue Mission | 405577 | [405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json](./405577-resident-evil-operation-raccoon-city-echo-six-prologue-mission.json) |
+| Resident Evil: Operation Raccoon City - Special Edition | 41859 | [41859-resident-evil-operation-raccoon-city-special-edition.json](./41859-resident-evil-operation-raccoon-city-special-edition.json) |
 | Resident Evil: Revelations | 150045 | [150045-resident-evil-revelations.json](./150045-resident-evil-revelations.json) |
 | Resident Evil: Revelations | 978 | [978-resident-evil-revelations.json](./978-resident-evil-revelations.json) |
 | Resident Evil: Revelations - Circle Pad Pro Bundle | 89903 | [89903-resident-evil-revelations-circle-pad-pro-bundle.json](./89903-resident-evil-revelations-circle-pad-pro-bundle.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Ride | 317987 | [317987-riot-ride.json](./317987-riot-ride.json) |
 | Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | Rioters 2025 | 147328 | [147328-rioters-2025.json](./147328-rioters-2025.json) |
+| RiotZ | 41923 | [41923-riotz.json](./41923-riotz.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
