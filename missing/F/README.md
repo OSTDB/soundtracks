@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
+| Fatal Fury: Wild Ambition | 28138 | [28138-fatal-fury-wild-ambition.json](./28138-fatal-fury-wild-ambition.json) |
 | Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
@@ -5950,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
 | Forza Horizon 3: Hoonigan Car Pack | 140380 | [140380-forza-horizon-3-hoonigan-car-pack.json](./140380-forza-horizon-3-hoonigan-car-pack.json) |
+| Forza Horizon 3: Hot Wheels | 28542 | [28542-forza-horizon-3-hot-wheels.json](./28542-forza-horizon-3-hot-wheels.json) |
 | Forza Horizon 3: Motorsports All-Stars Car Pack | 140366 | [140366-forza-horizon-3-motorsports-all-stars-car-pack.json](./140366-forza-horizon-3-motorsports-all-stars-car-pack.json) |
 | Forza Horizon 3: Mountain Dew Car Pack | 140368 | [140368-forza-horizon-3-mountain-dew-car-pack.json](./140368-forza-horizon-3-mountain-dew-car-pack.json) |
 | Forza Horizon 3: Platinum plus Expansions Bundle | 201179 | [201179-forza-horizon-3-platinum-plus-expansions-bundle.json](./201179-forza-horizon-3-platinum-plus-expansions-bundle.json) |
@@ -6577,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
+| Freestyle2: Street Basketball | 28088 | [28088-freestyle2-street-basketball.json](./28088-freestyle2-street-basketball.json) |
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
