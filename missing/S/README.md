@@ -4487,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
+| Sheepy: A Short Adventure | 152436 | [152436-sheepy-a-short-adventure.json](./152436-sheepy-a-short-adventure.json) |
 | Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
@@ -13370,6 +13371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
 | SSX Blur | 4178 | [4178-ssx-blur.json](./4178-ssx-blur.json) |
+| SSX on Tour | 4177 | [4177-ssx-on-tour.json](./4177-ssx-on-tour.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
 | St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
@@ -18315,6 +18317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
 | Super Mario Party | 103339 | [103339-super-mario-party.json](./103339-super-mario-party.json) |
+| Super Mario Party Jamboree | 306148 | [306148-super-mario-party-jamboree.json](./306148-super-mario-party-jamboree.json) |
 | Super Mario Party Jamboree: Nintendo Switch 2 Edition + Jamboree TV | 338071 | [338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json](./338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json) |
 | Super Mario Pearls of Wisdom | 135095 | [135095-super-mario-pearls-of-wisdom.json](./135095-super-mario-pearls-of-wisdom.json) |
 | Super Mario Place | 273893 | [273893-super-mario-place.json](./273893-super-mario-place.json) |
@@ -19248,6 +19251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: The Man of Steel | 12787 | [12787-superman-the-man-of-steel.json](./12787-superman-the-man-of-steel.json) |
 | Superman: The Man of Steel | 6183 | [6183-superman-the-man-of-steel.json](./6183-superman-the-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
+| Superman: The New Superman Adventures | 3005 | [3005-superman-the-new-superman-adventures.json](./3005-superman-the-new-superman-adventures.json) |
 | Superman: World's Finest | 112876 | [112876-superman-worlds-finest.json](./112876-superman-worlds-finest.json) |
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
 | Supermarket | 329556 | [329556-supermarket.json](./329556-supermarket.json) |
