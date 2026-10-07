@@ -2411,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pente Grammai | 384140 | [384140-pente-grammai.json](./384140-pente-grammai.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
 | Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
+| Pentiment | 204623 | [204623-pentiment.json](./204623-pentiment.json) |
 | Pentium | 92073 | [92073-pentium.json](./92073-pentium.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Pentominon | 102859 | [102859-pentominon.json](./102859-pentominon.json) |
@@ -8549,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
 | Professor Layton and the Curious Village | 1397 | [1397-professor-layton-and-the-curious-village.json](./1397-professor-layton-and-the-curious-village.json) |
 | Professor Layton and the Curious Village HD for Mobile | 102865 | [102865-professor-layton-and-the-curious-village-hd-for-mobile.json](./102865-professor-layton-and-the-curious-village-hd-for-mobile.json) |
+| Professor Layton and the Diabolical Box | 1398 | [1398-professor-layton-and-the-diabolical-box.json](./1398-professor-layton-and-the-diabolical-box.json) |
 | Professor Layton and the Diabolical Box HD for Mobile | 128436 | [128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json](./128436-professor-layton-and-the-diabolical-box-hd-for-mobile.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
