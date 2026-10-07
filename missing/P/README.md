@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachio-kun 3: Pachi-Slot & Pachinko | 59507 | [59507-pachio-kun-3-pachi-slot-and-pachinko.json](./59507-pachio-kun-3-pachi-slot-and-pachinko.json) |
 | Pachio-kun FX: Maboroshi no Shima Daikessen | 59519 | [59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json](./59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
+| Pachio-kun Juuban Shoubu | 46501 | [46501-pachio-kun-juuban-shoubu.json](./46501-pachio-kun-juuban-shoubu.json) |
 | Pachio-kun Special | 42228 | [42228-pachio-kun-special.json](./42228-pachio-kun-special.json) |
 | Pachio-kun: Maboroshi no Densetsu | 59509 | [59509-pachio-kun-maboroshi-no-densetsu.json](./59509-pachio-kun-maboroshi-no-densetsu.json) |
 | Pachio-kun: Pachinko Land Adventures | 59511 | [59511-pachio-kun-pachinko-land-adventures.json](./59511-pachio-kun-pachinko-land-adventures.json) |
@@ -7400,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Gunner | 112390 | [112390-power-gunner.json](./112390-power-gunner.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
+| Power Hitter | 46549 | [46549-power-hitter.json](./46549-power-hitter.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
 | Power in a Name | 185502 | [185502-power-in-a-name.json](./185502-power-in-a-name.json) |
 | Power Inc | 265747 | [265747-power-inc.json](./265747-power-inc.json) |
@@ -8027,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess Rescue | 46886 | [46886-princess-rescue.json](./46886-princess-rescue.json) |
 | Princess RPG | 196814 | [196814-princess-rpg.json](./196814-princess-rpg.json) |
+| Princess Sahirah is a Spoiled Brat! | 46490 | [46490-princess-sahirah-is-a-spoiled-brat.json](./46490-princess-sahirah-is-a-spoiled-brat.json) |
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
@@ -9098,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protecto | 285520 | [285520-protecto.json](./285520-protecto.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector II | 18571 | [18571-protector-ii.json](./18571-protector-ii.json) |
+| Protector Yasi | 46510 | [46510-protector-yasi.json](./46510-protector-yasi.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
