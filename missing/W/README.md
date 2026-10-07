@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
+| WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
@@ -4601,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
+| World Championship Soccer II | 46686 | [46686-world-championship-soccer-ii.json](./46686-world-championship-soccer-ii.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Circuit Boxing | 80919 | [80919-world-circuit-boxing.json](./80919-world-circuit-boxing.json) |
 | World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
@@ -5018,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
+| World's Scariest Police Chases | 45093 | [45093-worlds-scariest-police-chases.json](./45093-worlds-scariest-police-chases.json) |
 | World's Worst Handyman | 155675 | [155675-worlds-worst-handyman.json](./155675-worlds-worst-handyman.json) |
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
