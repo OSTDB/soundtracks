@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
 | Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
+| Harbor Escape | 40671 | [40671-harbor-escape.json](./40671-harbor-escape.json) |
 | Harbor Havoc 3D | 181165 | [181165-harbor-havoc-3d.json](./181165-harbor-havoc-3d.json) |
 | Harbor Master | 67604 | [67604-harbor-master.json](./67604-harbor-master.json) |
 | Harbor Tycoon | 192228 | [192228-harbor-tycoon.json](./192228-harbor-tycoon.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holes Ahead! | 109519 | [109519-holes-ahead.json](./109519-holes-ahead.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
+| Holey Moley | 40670 | [40670-holey-moley.json](./40670-holey-moley.json) |
 | Holey Moley | 58637 | [58637-holey-moley.json](./58637-holey-moley.json) |
 | Holey Ship | 408186 | [408186-holey-ship.json](./408186-holey-ship.json) |
 | Holfraine | 132157 | [132157-holfraine.json](./132157-holfraine.json) |
