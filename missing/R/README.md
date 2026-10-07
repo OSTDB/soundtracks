@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of the Oracle | 302630 | [302630-relics-of-the-oracle.json](./302630-relics-of-the-oracle.json) |
 | Relics of Wayne: Greymoor | 379588 | [379588-relics-of-wayne-greymoor.json](./379588-relics-of-wayne-greymoor.json) |
 | Relics: A Dark-fantasy Deck-Survivor | 361837 | [361837-relics-a-dark-fantasy-deck-survivor.json](./361837-relics-a-dark-fantasy-deck-survivor.json) |
+| Relics: Ankoku Yousai | 41268 | [41268-relics-ankoku-yousai.json](./41268-relics-ankoku-yousai.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
@@ -4391,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
 | Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
+| Risa no Yousei Densetsu | 41293 | [41293-risa-no-yousei-densetsu.json](./41293-risa-no-yousei-densetsu.json) |
 | Rise | 142344 | [142344-rise.json](./142344-rise.json) |
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
