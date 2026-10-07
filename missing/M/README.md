@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
 | Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
+| Magnetron | 34089 | [34089-magnetron.json](./34089-magnetron.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
@@ -1993,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
 | Marcus Comes Out Online | 330150 | [330150-marcus-comes-out-online.json](./330150-marcus-comes-out-online.json) |
+| Marcus Level | 34063 | [34063-marcus-level.json](./34063-marcus-level.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
@@ -5534,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
+| Metal War Online: Retribution | 34156 | [34156-metal-war-online-retribution.json](./34156-metal-war-online-retribution.json) |
 | Metal Wars 2 | 196627 | [196627-metal-wars-2.json](./196627-metal-wars-2.json) |
 | Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
@@ -5956,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | MicroProse Golf | 194972 | [194972-microprose-golf.json](./194972-microprose-golf.json) |
+| MicroRC Simulation | 34079 | [34079-microrc-simulation.json](./34079-microrc-simulation.json) |
 | MicroSand | 146810 | [146810-microsand.json](./146810-microsand.json) |
 | Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
@@ -7210,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | Miniature TD | 54481 | [54481-miniature-td.json](./54481-miniature-td.json) |
 | Miniatures | 295904 | [295904-miniatures.json](./295904-miniatures.json) |
+| MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
@@ -8541,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
+| Monkey King Saga | 34061 | [34061-monkey-king-saga.json](./34061-monkey-king-saga.json) |
 | Monkey King Simulator Special Edition | 348908 | [348908-monkey-king-simulator-special-edition.json](./348908-monkey-king-simulator-special-edition.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
@@ -10219,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
 | MoW: Face Off M | 36245 | [36245-mow-face-off-m.json](./36245-mow-face-off-m.json) |
+| MoW: Face Off XL | 34075 | [34075-mow-face-off-xl.json](./34075-mow-face-off-xl.json) |
 | Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
@@ -11976,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
 | Mysterious Castle | 205008 | [205008-mysterious-castle.json](./205008-mysterious-castle.json) |
+| Mysterious Castle | 34064 | [34064-mysterious-castle.json](./34064-mysterious-castle.json) |
 | Mysterious City Vegas | 53392 | [53392-mysterious-city-vegas.json](./53392-mysterious-city-vegas.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
