@@ -3966,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
+| Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
 | Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
@@ -8201,6 +8202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
 | Cosmic Carnage | 253342 | [253342-cosmic-carnage.json](./253342-cosmic-carnage.json) |
+| Cosmic Carnage | 45883 | [45883-cosmic-carnage.json](./45883-cosmic-carnage.json) |
 | Cosmic Carnage: Prologue | 277943 | [277943-cosmic-carnage-prologue.json](./277943-cosmic-carnage-prologue.json) |
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
@@ -8239,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy 4: Prelude to Legend | 332501 | [332501-cosmic-fantasy-4-prelude-to-legend.json](./332501-cosmic-fantasy-4-prelude-to-legend.json) |
 | Cosmic Fantasy 4: Van's Return | 332502 | [332502-cosmic-fantasy-4-vans-return.json](./332502-cosmic-fantasy-4-vans-return.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
+| Cosmic Fantasy Stories | 45866 | [45866-cosmic-fantasy-stories.json](./45866-cosmic-fantasy-stories.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
 | Cosmic Fire Birds | 60038 | [60038-cosmic-fire-birds.json](./60038-cosmic-fire-birds.json) |
@@ -11408,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberWhiskey: Guy's Room | 174637 | [174637-cyberwhiskey-guys-room.json](./174637-cyberwhiskey-guys-room.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
+| Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
