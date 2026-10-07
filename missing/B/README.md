@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
+| Back to Skool | 26419 | [26419-back-to-skool.json](./26419-back-to-skool.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
 | Back to the Dawn | 200544 | [200544-back-to-the-dawn.json](./200544-back-to-the-dawn.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batalia | 145247 | [145247-batalia.json](./145247-batalia.json) |
 | Batalj | 112225 | [112225-batalj.json](./112225-batalj.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
+| Batalyx | 26418 | [26418-batalyx.json](./26418-batalyx.json) |
 | Batbarian: Testament of the Primordials | 139177 | [139177-batbarian-testament-of-the-primordials.json](./139177-batbarian-testament-of-the-primordials.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
