@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
+| Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
 | Pink Sweets: Ibara Sorekara | 66444 | [66444-pink-sweets-ibara-sorekara.json](./66444-pink-sweets-ibara-sorekara.json) |
@@ -5339,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
+| Plants vs. Zombies: Heroes | 25230 | [25230-plants-vs-zombies-heroes.json](./25230-plants-vs-zombies-heroes.json) |
 | Plants vs. Zombies: Match | 287877 | [287877-plants-vs-zombies-match.json](./287877-plants-vs-zombies-match.json) |
 | Plants vs. Zombies: Original Edition | 310568 | [310568-plants-vs-zombies-original-edition.json](./310568-plants-vs-zombies-original-edition.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
@@ -5778,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Farm | 245346 | [245346-pocket-farm.json](./245346-pocket-farm.json) |
 | Pocket Farmer | 350073 | [350073-pocket-farmer.json](./350073-pocket-farmer.json) |
 | Pocket Farmery: Idle Pop Farm | 256356 | [256356-pocket-farmery-idle-pop-farm.json](./256356-pocket-farmery-idle-pop-farm.json) |
+| Pocket Fighter | 23094 | [23094-pocket-fighter.json](./23094-pocket-fighter.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
 | Pocket Gal | 39501 | [39501-pocket-gal.json](./39501-pocket-gal.json) |
