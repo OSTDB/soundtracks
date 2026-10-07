@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Unknown | 116284 | [116284-pilot-unknown.json](./116284-pilot-unknown.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
+| Pilotwings 64 | 3573 | [3573-pilotwings-64.json](./3573-pilotwings-64.json) |
 | Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
 | Pilsner Urquell: Undress Me!!! | 270673 | [270673-pilsner-urquell-undress-me.json](./270673-pilsner-urquell-undress-me.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
@@ -6287,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
 | Pokémon Mystery Dungeon: Explorers of Sky | 2323 | [2323-pokemon-mystery-dungeon-explorers-of-sky.json](./2323-pokemon-mystery-dungeon-explorers-of-sky.json) |
 | Pokémon Mystery Dungeon: Explorers of the Spirit | 194263 | [194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json](./194263-pokemon-mystery-dungeon-explorers-of-the-spirit.json) |
+| Pokémon Mystery Dungeon: Gates to Infinity | 4566 | [4566-pokemon-mystery-dungeon-gates-to-infinity.json](./4566-pokemon-mystery-dungeon-gates-to-infinity.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Mystery Dungeon: Red Rescue Team | 2319 | [2319-pokemon-mystery-dungeon-red-rescue-team.json](./2319-pokemon-mystery-dungeon-red-rescue-team.json) |
@@ -6461,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
 | PokemonGoGo | 381780 | [381780-pokemongogo.json](./381780-pokemongogo.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
+| PokéPark Wii: Pikachu's Adventure | 4558 | [4558-pokepark-wii-pikachus-adventure.json](./4558-pokepark-wii-pikachus-adventure.json) |
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
 | PokéPath TD | 382382 | [382382-pokepath-td.json](./382382-pokepath-td.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
@@ -6484,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Master | 167586 | [167586-poker-master.json](./167586-poker-master.json) |
 | Poker Mega Pack | 118884 | [118884-poker-mega-pack.json](./118884-poker-mega-pack.json) |
+| Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Poker Magic | 309027 | [309027-poker-poker-magic.json](./309027-poker-poker-magic.json) |
@@ -9331,6 +9335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
+| Psi-Ops: The Mindgate Conspiracy | 5992 | [5992-psi-ops-the-mindgate-conspiracy.json](./5992-psi-ops-the-mindgate-conspiracy.json) |
 | Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
 | PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
@@ -10221,6 +10226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
+| Puzzle Quest: Challenge of the Warlords | 2370 | [2370-puzzle-quest-challenge-of-the-warlords.json](./2370-puzzle-quest-challenge-of-the-warlords.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
 | Puzzle Retreat | 38867 | [38867-puzzle-retreat.json](./38867-puzzle-retreat.json) |
