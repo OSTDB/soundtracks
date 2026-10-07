@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facility | 190985 | [190985-facility.json](./190985-facility.json) |
 | Facility 079 | 291041 | [291041-facility-079.json](./291041-facility-079.json) |
 | Facility 47 | 90790 | [90790-facility-47.json](./90790-facility-47.json) |
+| Facination | 38862 | [38862-facination.json](./38862-facination.json) |
 | Facing | 384162 | [384162-facing.json](./384162-facing.json) |
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
@@ -4769,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Hands | 291090 | [291090-fly-hands.json](./291090-fly-hands.json) |
 | Fly Hard | 306372 | [306372-fly-hard.json](./306372-fly-hard.json) |
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
+| Fly Harder | 38847 | [38847-fly-harder.json](./38847-fly-harder.json) |
 | Fly High | 110161 | [110161-fly-high.json](./110161-fly-high.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
