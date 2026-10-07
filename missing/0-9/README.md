@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Genesis | 40665 | [40665-3-d-genesis.json](./40665-3-d-genesis.json) |
 | 3-D Havoc | 40664 | [40664-3-d-havoc.json](./40664-3-d-havoc.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
+| 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
@@ -1584,12 +1585,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 70s-style Robot Anime Geppy-X | 392917 | [392917-70s-style-robot-anime-geppy-x.json](./392917-70s-style-robot-anime-geppy-x.json) |
 | 720 Degrees | 8580 | [8580-720-degrees.json](./8580-720-degrees.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
+| 737 Flight Simulator | 15580 | [15580-737-flight-simulator.json](./15580-737-flight-simulator.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 747 Landing Simulator | 90903 | [90903-747-landing-simulator.json](./90903-747-landing-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
 | 757 Captain | 68097 | [68097-757-captain.json](./68097-757-captain.json) |
 | 757 Professional | 79568 | [79568-757-professional.json](./79568-757-professional.json) |
 | 76 | 179553 | [179553-76.json](./179553-76.json) |
+| 767 Advanced Flight Simulator | 15583 | [15583-767-advanced-flight-simulator.json](./15583-767-advanced-flight-simulator.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
 | 77: Beyond the Milky Way | 58053 | [58053-77-beyond-the-milky-way.json](./58053-77-beyond-the-milky-way.json) |
@@ -1692,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Balls | 96944 | [96944-9-balls.json](./96944-9-balls.json) |
 | 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
+| 9 Classic Card & Board Games: No. 2 | 15585 | [15585-9-classic-card-and-board-games-no-2.json](./15585-9-classic-card-and-board-games-no-2.json) |
 | 9 Clues 2: The Ward | 35265 | [35265-9-clues-2-the-ward.json](./35265-9-clues-2-the-ward.json) |
 | 9 Clues: The Secret of Serpent Creek | 17143 | [17143-9-clues-the-secret-of-serpent-creek.json](./17143-9-clues-the-secret-of-serpent-creek.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
