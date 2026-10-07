@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Illyriad | 85880 | [85880-illyriad.json](./85880-illyriad.json) |
 | Illyriad - 4X Grand Strategy MMO | 30437 | [30437-illyriad-4x-grand-strategy-mmo.json](./30437-illyriad-4x-grand-strategy-mmo.json) |
+| Ilomilo | 7086 | [7086-ilomilo.json](./7086-ilomilo.json) |
 | Ilomilo Plus | 50443 | [50443-ilomilo-plus.json](./50443-ilomilo-plus.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones in the Lost Kingdom | 25862 | [25862-indiana-jones-in-the-lost-kingdom.json](./25862-indiana-jones-in-the-lost-kingdom.json) |
 | Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
+| Indianapolis 500: The Simulation | 5526 | [5526-indianapolis-500-the-simulation.json](./5526-indianapolis-500-the-simulation.json) |
 | IndianOps | 348408 | [348408-indianops.json](./348408-indianops.json) |
 | Indie All Star Bundle | 317216 | [317216-indie-all-star-bundle.json](./317216-indie-all-star-bundle.json) |
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
@@ -2231,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Survivor | 303582 | [303582-infinite-survivor.json](./303582-infinite-survivor.json) |
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
+| Infinite Undiscovery | 7019 | [7019-infinite-undiscovery.json](./7019-infinite-undiscovery.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
