@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate VR Collection | 108863 | [108863-ultimate-vr-collection.json](./108863-ultimate-vr-collection.json) |
 | Ultimate Waifu Battle Online | 219530 | [219530-ultimate-waifu-battle-online.json](./219530-ultimate-waifu-battle-online.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
+| Ultimate Wizard | 28705 | [28705-ultimate-wizard.json](./28705-ultimate-wizard.json) |
 | Ultimate Wizard | 398392 | [398392-ultimate-wizard.json](./398392-ultimate-wizard.json) |
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
