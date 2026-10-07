@@ -2088,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
 | Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
+| Endless Winter | 36970 | [36970-endless-winter.json](./36970-endless-winter.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | Endless_Overdrive | 144883 | [144883-endless-overdrive.json](./144883-endless-overdrive.json) |
@@ -2612,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
+| Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
 | Eredan iTCG | 76909 | [76909-eredan-itcg.json](./76909-eredan-itcg.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
@@ -2788,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
+| Escape From BioStation | 37013 | [37013-escape-from-biostation.json](./37013-escape-from-biostation.json) |
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
@@ -4076,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Excelsior Phase Two: Errondor | 68880 | [68880-excelsior-phase-two-errondor.json](./68880-excelsior-phase-two-errondor.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
+| Excessive Speed | 36921 | [36921-excessive-speed.json](./36921-excessive-speed.json) |
 | Excessive Trim | 274438 | [274438-excessive-trim.json](./274438-excessive-trim.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
@@ -4371,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
 | Explosive Track | 226672 | [226672-explosive-track.json](./226672-explosive-track.json) |
 | Explosiver | 192227 | [192227-explosiver.json](./192227-explosiver.json) |
+| Explottens: The time is meow! | 36933 | [36933-explottens-the-time-is-meow.json](./36933-explottens-the-time-is-meow.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
