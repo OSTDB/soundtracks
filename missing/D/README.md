@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
+| Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
 | Destiny6 | 83184 | [83184-destiny6.json](./83184-destiny6.json) |
 | Destoria: The Withering | 207801 | [207801-destoria-the-withering.json](./207801-destoria-the-withering.json) |
+| Destrega | 45225 | [45225-destrega.json](./45225-destrega.json) |
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
@@ -6045,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
+| Dizzy 3 and a Half: Into Magicland | 45239 | [45239-dizzy-3-and-a-half-into-magicland.json](./45239-dizzy-3-and-a-half-into-magicland.json) |
 | Dizzy Bee 2 | 182333 | [182333-dizzy-bee-2.json](./182333-dizzy-bee-2.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
@@ -6053,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Hero | 322664 | [322664-dizzy-hero.json](./322664-dizzy-hero.json) |
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
+| Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
@@ -8758,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
+| Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
 | Dream Girlfriend: Twitch Thot | 368106 | [368106-dream-girlfriend-twitch-thot.json](./368106-dream-girlfriend-twitch-thot.json) |
