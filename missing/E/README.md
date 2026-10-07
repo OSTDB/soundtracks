@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Past: The Citadels of Time | 64637 | [64637-echoes-of-the-past-the-citadels-of-time.json](./64637-echoes-of-the-past-the-citadels-of-time.json) |
 | Echoes of the Past: The Citadels of Time - Collector's Edition | 114346 | [114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json](./114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json) |
 | Echoes of the Past: The Revenge of the Witch | 64640 | [64640-echoes-of-the-past-the-revenge-of-the-witch.json](./64640-echoes-of-the-past-the-revenge-of-the-witch.json) |
+| Echoes of the Past: The Revenge of the Witch - Collector's Edition | 32781 | [32781-echoes-of-the-past-the-revenge-of-the-witch-collectors-edition.json](./32781-echoes-of-the-past-the-revenge-of-the-witch-collectors-edition.json) |
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
