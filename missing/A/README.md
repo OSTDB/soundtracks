@@ -7294,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
+| Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Aria's Small Adventure! | 249345 | [249345-arias-small-adventure.json](./249345-arias-small-adventure.json) |
 | Ariadna's Bane | 119663 | [119663-ariadnas-bane.json](./119663-ariadnas-bane.json) |
@@ -9388,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autogun Heroes: Supercharged | 325518 | [325518-autogun-heroes-supercharged.json](./325518-autogun-heroes-supercharged.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
+| Automakhan | 56303 | [56303-automakhan.json](./56303-automakhan.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
