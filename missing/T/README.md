@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
+| Talisman: Digital Edition | 10952 | [10952-talisman-digital-edition.json](./10952-talisman-digital-edition.json) |
 | Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
@@ -2803,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Tesla Roadster Going to Mars | 334785 | [334785-tesla-roadster-going-to-mars.json](./334785-tesla-roadster-going-to-mars.json) |
+| Tesla vs Lovecraft | 28592 | [28592-tesla-vs-lovecraft.json](./28592-tesla-vs-lovecraft.json) |
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
@@ -3658,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale | 3803 | [3803-the-bards-tale.json](./3803-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
+| The Bard's Tale IV | 26986 | [26986-the-bards-tale-iv.json](./26986-the-bards-tale-iv.json) |
 | The Bard's Tale IV: Barrows Deep - Platinum Edition | 102800 | [102800-the-bards-tale-iv-barrows-deep-platinum-edition.json](./102800-the-bards-tale-iv-barrows-deep-platinum-edition.json) |
 | The Bard's Tale IV: Barrows Deep - Premium Edition | 102799 | [102799-the-bards-tale-iv-barrows-deep-premium-edition.json](./102799-the-bards-tale-iv-barrows-deep-premium-edition.json) |
 | The Bard's Tale IV: Barrows Deep - Ultimate Edition | 102801 | [102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json](./102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json) |
@@ -4369,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
 | The Complex Tragedy | 284923 | [284923-the-complex-tragedy.json](./284923-the-complex-tragedy.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
+| The Complex: Found Footage | 197192 | [197192-the-complex-found-footage.json](./197192-the-complex-found-footage.json) |
 | The Compunaut & the Meaning of Life | 347294 | [347294-the-compunaut-and-the-meaning-of-life.json](./347294-the-compunaut-and-the-meaning-of-life.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
@@ -8291,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
+| The Novelist | 10733 | [10733-the-novelist.json](./10733-the-novelist.json) |
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
@@ -11434,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Hundreds | 87954 | [87954-they-are-hundreds.json](./87954-they-are-hundreds.json) |
 | They are in the Trees | 224640 | [224640-they-are-in-the-trees.json](./224640-they-are-in-the-trees.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
+| They Bleed Pixels | 10988 | [10988-they-bleed-pixels.json](./10988-they-bleed-pixels.json) |
 | They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
@@ -14301,6 +14307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
+| Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
 | Tokyo Xtreme Racer Drift 2 | 21441 | [21441-tokyo-xtreme-racer-drift-2.json](./21441-tokyo-xtreme-racer-drift-2.json) |
@@ -17118,6 +17125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmission From Start to End | 308900 | [308900-transmission-from-start-to-end.json](./308900-transmission-from-start-to-end.json) |
 | Transmission: Shortwave | 377208 | [377208-transmission-shortwave.json](./377208-transmission-shortwave.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
+| Transmissions: Element 120 | 35389 | [35389-transmissions-element-120.json](./35389-transmissions-element-120.json) |
 | Transmorpher 3 | 101937 | [101937-transmorpher-3.json](./101937-transmorpher-3.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
 | Transmute! | 120283 | [120283-transmute.json](./120283-transmute.json) |
@@ -19170,6 +19178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typo II | 42168 | [42168-typo-ii.json](./42168-typo-ii.json) |
 | Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
+| Typoman | 11225 | [11225-typoman.json](./11225-typoman.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
