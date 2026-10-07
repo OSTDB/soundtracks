@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman DS | 18596 | [18596-yakuman-ds.json](./18596-yakuman-ds.json) |
 | Yakuman Houou | 60603 | [60603-yakuman-houou.json](./60603-yakuman-houou.json) |
 | Yakuza 1 Kiwami | 393096 | [393096-yakuza-1-kiwami.json](./393096-yakuza-1-kiwami.json) |
+| Yakuza 2 | 2060 | [2060-yakuza-2.json](./2060-yakuza-2.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 4 | 2062 | [2062-yakuza-4.json](./2062-yakuza-4.json) |
 | Yakuza 4 Remastered | 103016 | [103016-yakuza-4-remastered.json](./103016-yakuza-4-remastered.json) |
