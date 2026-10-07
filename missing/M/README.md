@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: The Red Cartridge | 254527 | [254527-mega-man-x-the-red-cartridge.json](./254527-mega-man-x-the-red-cartridge.json) |
 | Mega Man X: Viral Nightmare | 391873 | [391873-mega-man-x-viral-nightmare.json](./391873-mega-man-x-viral-nightmare.json) |
 | Mega Man X: Zero Playable | 235207 | [235207-mega-man-x-zero-playable.json](./235207-mega-man-x-zero-playable.json) |
+| Mega Man X2 | 1742 | [1742-mega-man-x2.json](./1742-mega-man-x2.json) |
 | Mega Man X2 Alpha | 222927 | [222927-mega-man-x2-alpha.json](./222927-mega-man-x2-alpha.json) |
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
 | Mega Man X2: Ultimate Armor | 268416 | [268416-mega-man-x2-ultimate-armor.json](./268416-mega-man-x2-ultimate-armor.json) |
@@ -10138,6 +10139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
 | Mount & Blade Collection | 54229 | [54229-mount-and-blade-collection.json](./54229-mount-and-blade-collection.json) |
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
+| Mount & Blade II: Bannerlord | 9608 | [9608-mount-and-blade-ii-bannerlord.json](./9608-mount-and-blade-ii-bannerlord.json) |
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount & Blade: Warband - Viking Conquest Reforged Edition | 8761 | [8761-mount-and-blade-warband-viking-conquest-reforged-edition.json](./8761-mount-and-blade-warband-viking-conquest-reforged-edition.json) |
