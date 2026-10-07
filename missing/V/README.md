@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRC Pro: Off-Road Track - Buggyland Fuencarral, Spain | 161770 | [161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json](./161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json) |
 | VRC Pro: Rally-X | 162251 | [162251-vrc-pro-rally-x.json](./162251-vrc-pro-rally-x.json) |
 | VRC Pro: Track Pack - Melzo Oval, Italy | 161761 | [161761-vrc-pro-track-pack-melzo-oval-italy.json](./161761-vrc-pro-track-pack-melzo-oval-italy.json) |
+| VRchaeology: Prologue | 30697 | [30697-vrchaeology-prologue.json](./30697-vrchaeology-prologue.json) |
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
