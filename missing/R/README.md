@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Meteor | 28155 | [28155-rainbow-meteor.json](./28155-rainbow-meteor.json) |
 | Rainbow Mix | 210744 | [210744-rainbow-mix.json](./210744-rainbow-mix.json) |
 | Rainbow Monster: Blue Survivor | 223976 | [223976-rainbow-monster-blue-survivor.json](./223976-rainbow-monster-blue-survivor.json) |
+| Rainbow Moon | 5026 | [5026-rainbow-moon.json](./5026-rainbow-moon.json) |
 | Rainbow Moon + Rainbow Skies Strategy RPG Bundle | 287167 | [287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json](./287167-rainbow-moon-rainbow-skies-strategy-rpg-bundle.json) |
 | Rainbow Mosaics 11: Helper's Valentine | 337618 | [337618-rainbow-mosaics-11-helpers-valentine.json](./337618-rainbow-mosaics-11-helpers-valentine.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
@@ -967,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
+| Rambo: The Video Game | 3771 | [3771-rambo-the-video-game.json](./3771-rambo-the-video-game.json) |
 | Rambunny | 127009 | [127009-rambunny.json](./127009-rambunny.json) |
 | Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
