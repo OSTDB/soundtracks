@@ -7788,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy Road Home | 177878 | [177878-fuzzy-road-home.json](./177878-fuzzy-road-home.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
+| Fuzzy's World of Miniature Space Golf | 50437 | [50437-fuzzys-world-of-miniature-space-golf.json](./50437-fuzzys-world-of-miniature-space-golf.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
 | Fwosty Poetwy | 179010 | [179010-fwosty-poetwy.json](./179010-fwosty-poetwy.json) |
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
