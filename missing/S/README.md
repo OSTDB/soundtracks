@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek 'n Spell | 90913 | [90913-seek-n-spell.json](./90913-seek-n-spell.json) |
+| Seek & Destroy | 13055 | [13055-seek-and-destroy.json](./13055-seek-and-destroy.json) |
 | Seek & Destroy - Steampunk Arcade | 83797 | [83797-seek-and-destroy-steampunk-arcade.json](./83797-seek-and-destroy-steampunk-arcade.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Find Vol 1 | 109164 | [109164-seek-and-find-vol-1.json](./109164-seek-and-find-vol-1.json) |
@@ -14128,6 +14129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
+| Stardust | 12774 | [12774-stardust.json](./12774-stardust.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
@@ -14164,6 +14166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starflight 1+2 | 154450 | [154450-starflight-1-2.json](./154450-starflight-1-2.json) |
+| Starflight II: Trade Routes of the Cloud Nebula | 12777 | [12777-starflight-ii-trade-routes-of-the-cloud-nebula.json](./12777-starflight-ii-trade-routes-of-the-cloud-nebula.json) |
 | Starflower Inc. | 348788 | [348788-starflower-inc.json](./348788-starflower-inc.json) |
 | StarFlyers: Alien Space Chase | 122951 | [122951-starflyers-alien-space-chase.json](./122951-starflyers-alien-space-chase.json) |
 | StarFlyers: Royal Jewel Rescue | 122950 | [122950-starflyers-royal-jewel-rescue.json](./122950-starflyers-royal-jewel-rescue.json) |
@@ -14197,6 +14200,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
+| Starglider | 12778 | [12778-starglider.json](./12778-starglider.json) |
+| Starglider 2 | 12779 | [12779-starglider-2.json](./12779-starglider-2.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
@@ -14247,6 +14252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
+| Starlord | 12780 | [12780-starlord.json](./12780-starlord.json) |
 | Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
 | Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
@@ -16102,6 +16108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
 | Strider | 5333 | [5333-strider.json](./5333-strider.json) |
+| Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
@@ -16148,6 +16155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikefleet Omega | 63147 | [63147-strikefleet-omega.json](./63147-strikefleet-omega.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
+| Striker | 12783 | [12783-striker.json](./12783-striker.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
@@ -16192,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
 | Strip Poker II Plus | 39137 | [39137-strip-poker-ii-plus.json](./39137-strip-poker-ii-plus.json) |
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
+| Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip4 | 93182 | [93182-strip4.json](./93182-strip4.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
@@ -16271,6 +16280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| Stryx | 12784 | [12784-stryx.json](./12784-stryx.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
 | Stu: The First AI | 207741 | [207741-stu-the-first-ai.json](./207741-stu-the-first-ai.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
@@ -17023,6 +17033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Legion | 317988 | [317988-summon-legion.json](./317988-summon-legion.json) |
 | Summon Masks | 130221 | [130221-summon-masks.json](./130221-summon-masks.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
+| Summon Night | 13063 | [13063-summon-night.json](./13063-summon-night.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
 | Summon Night 6: Lost Borders - Amu Edition | 167110 | [167110-summon-night-6-lost-borders-amu-edition.json](./167110-summon-night-6-lost-borders-amu-edition.json) |
@@ -18341,6 +18352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
+| Super Methane Bros | 12785 | [12785-super-methane-bros.json](./12785-super-methane-bros.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid But I Hate You | 345563 | [345563-super-metroid-but-i-hate-you.json](./345563-super-metroid-but-i-hate-you.json) |
 | Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
@@ -18659,6 +18671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
+| Super Scramble Simulator | 12786 | [12786-super-scramble-simulator.json](./12786-super-scramble-simulator.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Scribblenauts | 8808 | [8808-super-scribblenauts.json](./8808-super-scribblenauts.json) |
 | Super Sculptor! | 184882 | [184882-super-sculptor.json](./184882-super-sculptor.json) |
@@ -19134,6 +19147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Man of Steel | 18463 | [18463-superman-man-of-steel.json](./18463-superman-man-of-steel.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
+| Superman: The Man of Steel | 12787 | [12787-superman-the-man-of-steel.json](./12787-superman-the-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Superman: World's Finest | 112876 | [112876-superman-worlds-finest.json](./112876-superman-worlds-finest.json) |
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
@@ -20103,6 +20117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
+| Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
@@ -20191,6 +20206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
+| Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
@@ -20286,6 +20302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Legends | 361838 | [361838-swords-of-legends.json](./361838-swords-of-legends.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
+| Swords of Twilight | 12791 | [12791-swords-of-twilight.json](./12791-swords-of-twilight.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
