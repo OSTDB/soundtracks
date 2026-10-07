@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki Warriors | 5873 | [5873-kabuki-warriors.json](./5873-kabuki-warriors.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
+| Kabuki: Quantum Fighter | 27623 | [27623-kabuki-quantum-fighter.json](./27623-kabuki-quantum-fighter.json) |
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | KingsRoad | 23620 | [23620-kingsroad.json](./23620-kingsroad.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
+| Kingsway | 27712 | [27712-kingsway.json](./27712-kingsway.json) |
 | Kinguin: Become a Streaming Legend | 396493 | [396493-kinguin-become-a-streaming-legend.json](./396493-kinguin-become-a-streaming-legend.json) |
 | Kingyo Chuuihou! 2 Gyopi-chan wo Sagase! | 194939 | [194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json](./194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json) |
 | Kingyo Chuuihou! Tobidase! Game Gakuen | 37959 | [37959-kingyo-chuuihou-tobidase-game-gakuen.json](./37959-kingyo-chuuihou-tobidase-game-gakuen.json) |
