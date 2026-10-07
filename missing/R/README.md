@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
 | Red Dead Redemption: Undead Nightmare | 3735 | [3735-red-dead-redemption-undead-nightmare.json](./3735-red-dead-redemption-undead-nightmare.json) |
+| Red Dead Redemption: Undead Nightmare Collection | 45199 | [45199-red-dead-redemption-undead-nightmare-collection.json](./45199-red-dead-redemption-undead-nightmare-collection.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
