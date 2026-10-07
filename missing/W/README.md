@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War | 330313 | [330313-war.json](./330313-war.json) |
+| War | 54931 | [54931-war.json](./54931-war.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
 | War 2020: A Fight Against CoronaVirus | 178451 | [178451-war-2020-a-fight-against-coronavirus.json](./178451-war-2020-a-fight-against-coronavirus.json) |
 | War 2410 | 38398 | [38398-war-2410.json](./38398-war-2410.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Platform: US Aircraft Carrier | 170857 | [170857-war-platform-us-aircraft-carrier.json](./170857-war-platform-us-aircraft-carrier.json) |
 | War Platform: VR Air Force Golden - Enhanced Edition | 170858 | [170858-war-platform-vr-air-force-golden-enhanced-edition.json](./170858-war-platform-vr-air-force-golden-enhanced-edition.json) |
+| War Rage | 54907 | [54907-war-rage.json](./54907-war-rage.json) |
 | War Rats: The Rat em Up | 326211 | [326211-war-rats-the-rat-em-up.json](./326211-war-rats-the-rat-em-up.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
@@ -2782,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
+| Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
 | Whoopi | 338368 | [338368-whoopi.json](./338368-whoopi.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
 | Whoowasit? | 381712 | [381712-whoowasit.json](./381712-whoowasit.json) |
@@ -3748,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
+| Witty Apee | 54914 | [54914-witty-apee.json](./54914-witty-apee.json) |
 | Witty witch | 152455 | [152455-witty-witch.json](./152455-witty-witch.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
