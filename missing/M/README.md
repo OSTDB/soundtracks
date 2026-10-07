@@ -2088,6 +2088,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi's Coin Chaos | 318039 | [318039-mario-and-luigis-coin-chaos.json](./318039-mario-and-luigis-coin-chaos.json) |
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
+| Mario & Sonic at the London 2012 Olympic Games | 2708 | [2708-mario-and-sonic-at-the-london-2012-olympic-games.json](./2708-mario-and-sonic-at-the-london-2012-olympic-games.json) |
+| Mario & Sonic at the Olympic Winter Games | 2707 | [2707-mario-and-sonic-at-the-olympic-winter-games.json](./2707-mario-and-sonic-at-the-olympic-winter-games.json) |
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
@@ -2169,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
 | Mario Heardle | 203820 | [203820-mario-heardle.json](./203820-mario-heardle.json) |
 | Mario Heardle 2 | 203821 | [203821-mario-heardle-2.json](./203821-mario-heardle-2.json) |
+| Mario Hoops 3-on-3 | 3988 | [3988-mario-hoops-3-on-3.json](./3988-mario-hoops-3-on-3.json) |
 | Mario In Clock Town | 198250 | [198250-mario-in-clock-town.json](./198250-mario-in-clock-town.json) |
 | Mario in Japan | 275630 | [275630-mario-in-japan.json](./275630-mario-in-japan.json) |
 | Mario In Mushroom Rix Land | 265658 | [265658-mario-in-mushroom-rix-land.json](./265658-mario-in-mushroom-rix-land.json) |
@@ -2347,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Super Sluggers | 3987 | [3987-mario-super-sluggers.json](./3987-mario-super-sluggers.json) |
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
 | Mario Superstar | 275325 | [275325-mario-superstar.json](./275325-mario-superstar.json) |
+| Mario Superstar Baseball | 3986 | [3986-mario-superstar-baseball.json](./3986-mario-superstar-baseball.json) |
 | Mario Superstar Baseball Fantasy League | 342262 | [342262-mario-superstar-baseball-fantasy-league.json](./342262-mario-superstar-baseball-fantasy-league.json) |
 | Mario Takes a Three | 318556 | [318556-mario-takes-a-three.json](./318556-mario-takes-a-three.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
@@ -3736,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McFarlane's Evil Prophecy | 43633 | [43633-mcfarlanes-evil-prophecy.json](./43633-mcfarlanes-evil-prophecy.json) |
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
 | McOsu | 29160 | [29160-mcosu.json](./29160-mcosu.json) |
+| McPixel | 7553 | [7553-mcpixel.json](./7553-mcpixel.json) |
 | McPixel 3: McPixel Visits Grandma | 260722 | [260722-mcpixel-3-mcpixel-visits-grandma.json](./260722-mcpixel-3-mcpixel-visits-grandma.json) |
 | McPlay | 86984 | [86984-mcplay.json](./86984-mcplay.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
@@ -8254,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
+| ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
 | Modo Defence | 238451 | [238451-modo-defence.json](./238451-modo-defence.json) |
 | Modsork | 101528 | [101528-modsork.json](./101528-modsork.json) |
 | Modular | 348442 | [348442-modular.json](./348442-modular.json) |
