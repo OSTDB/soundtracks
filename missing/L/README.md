@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stamina | 213992 | [213992-lucky-stamina.json](./213992-lucky-stamina.json) |
 | Lucky Star Troopers | 205662 | [205662-lucky-star-troopers.json](./205662-lucky-star-troopers.json) |
 | Lucky Star: Moe Drill | 72618 | [72618-lucky-star-moe-drill.json](./72618-lucky-star-moe-drill.json) |
+| Lucky Star: Net Idol Meister | 44496 | [44496-lucky-star-net-idol-meister.json](./44496-lucky-star-net-idol-meister.json) |
 | Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
