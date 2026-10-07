@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2005 | 243179 | [243179-madden-nfl-2005.json](./243179-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243180 | [243180-madden-nfl-2005.json](./243180-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243181 | [243181-madden-nfl-2005.json](./243181-madden-nfl-2005.json) |
+| Madden NFL 21 | 132707 | [132707-madden-nfl-21.json](./132707-madden-nfl-21.json) |
 | Madden NFL 21 | 243663 | [243663-madden-nfl-21.json](./243663-madden-nfl-21.json) |
 | Madden NFL 21 Mobile | 243662 | [243662-madden-nfl-21-mobile.json](./243662-madden-nfl-21-mobile.json) |
 | Madden NFL 21: NXT LVL Edition | 141182 | [141182-madden-nfl-21-nxt-lvl-edition.json](./141182-madden-nfl-21-nxt-lvl-edition.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 25 | 243261 | [243261-madden-nfl-25.json](./243261-madden-nfl-25.json) |
 | Madden NFL 25 | 243262 | [243262-madden-nfl-25.json](./243262-madden-nfl-25.json) |
 | Madden NFL 25 | 301506 | [301506-madden-nfl-25.json](./301506-madden-nfl-25.json) |
+| Madden NFL 25 | 3185 | [3185-madden-nfl-25.json](./3185-madden-nfl-25.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
@@ -8906,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Now: Season 3 | 317847 | [317847-monster-hunter-now-season-3.json](./317847-monster-hunter-now-season-3.json) |
 | Monster Hunter Now: Season 4 | 325606 | [325606-monster-hunter-now-season-4.json](./325606-monster-hunter-now-season-4.json) |
 | Monster Hunter Online | 26901 | [26901-monster-hunter-online.json](./26901-monster-hunter-online.json) |
+| Monster Hunter Portable 3rd | 42759 | [42759-monster-hunter-portable-3rd.json](./42759-monster-hunter-portable-3rd.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
@@ -9674,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat | 220096 | [220096-mortal-kombat.json](./220096-mortal-kombat.json) |
 | Mortal Kombat | 239168 | [239168-mortal-kombat.json](./239168-mortal-kombat.json) |
 | Mortal Kombat | 242151 | [242151-mortal-kombat.json](./242151-mortal-kombat.json) |
+| Mortal Kombat | 242237 | [242237-mortal-kombat.json](./242237-mortal-kombat.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1 | 239392 | [239392-mortal-kombat-1.json](./239392-mortal-kombat-1.json) |
 | Mortal Kombat 1 | 272491 | [272491-mortal-kombat-1.json](./272491-mortal-kombat-1.json) |
