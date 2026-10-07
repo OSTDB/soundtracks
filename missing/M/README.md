@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
 | Master Lemon: The Quest for Iceland | 309469 | [309469-master-lemon-the-quest-for-iceland.json](./309469-master-lemon-the-quest-for-iceland.json) |
 | Master Levels for Doom II | 313171 | [313171-master-levels-for-doom-ii.json](./313171-master-levels-for-doom-ii.json) |
+| Master Levels for Doom II | 8852 | [8852-master-levels-for-doom-ii.json](./8852-master-levels-for-doom-ii.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
 | Master Manager | 277972 | [277972-master-manager.json](./277972-master-manager.json) |
 | Master Mariner | 294404 | [294404-master-mariner.json](./294404-master-mariner.json) |
@@ -5086,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
 | Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
+| Men of War: Assault Squad 2 | 5572 | [5572-men-of-war-assault-squad-2.json](./5572-men-of-war-assault-squad-2.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
@@ -8925,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Title Update 4 | 252382 | [252382-monster-hunter-rise-title-update-4.json](./252382-monster-hunter-rise-title-update-4.json) |
 | Monster Hunter Rise: Title Update 5 | 252383 | [252383-monster-hunter-rise-title-update-5.json](./252383-monster-hunter-rise-title-update-5.json) |
 | Monster Hunter Stories | 287848 | [287848-monster-hunter-stories.json](./287848-monster-hunter-stories.json) |
+| Monster Hunter Stories | 9692 | [9692-monster-hunter-stories.json](./9692-monster-hunter-stories.json) |
 | Monster Hunter Stories 2: Wings of Ruin | 138951 | [138951-monster-hunter-stories-2-wings-of-ruin.json](./138951-monster-hunter-stories-2-wings-of-ruin.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament | 412286 | [412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json](./412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman | 412284 | [412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json](./412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json) |
@@ -9424,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
+| Moons of Madness | 22499 | [22499-moons-of-madness.json](./22499-moons-of-madness.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons of Ventocia | 122137 | [122137-moons-of-ventocia.json](./122137-moons-of-ventocia.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
