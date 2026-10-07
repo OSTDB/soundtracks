@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
+| Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
 | LEGO Battles | 2648 | [2648-lego-battles.json](./2648-lego-battles.json) |
+| LEGO Battles: Ninjago | 19767 | [19767-lego-battles-ninjago.json](./19767-lego-battles-ninjago.json) |
 | LEGO Bionicle: Mask of Control | 343362 | [343362-lego-bionicle-mask-of-control.json](./343362-lego-bionicle-mask-of-control.json) |
 | LEGO Bionicle: Mask of Creation | 343361 | [343361-lego-bionicle-mask-of-creation.json](./343361-lego-bionicle-mask-of-creation.json) |
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
@@ -1854,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
+| LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
@@ -5261,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
+| Luanti | 19437 | [19437-luanti.json](./19437-luanti.json) |
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Luca no Puzzle de Daibouken! | 228606 | [228606-luca-no-puzzle-de-daibouken.json](./228606-luca-no-puzzle-de-daibouken.json) |
