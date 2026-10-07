@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack Boy | 328103 | [328103-backpack-boy.json](./328103-backpack-boy.json) |
 | Backpack Brawl | 309589 | [309589-backpack-brawl.json](./309589-backpack-brawl.json) |
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
+| Backpack Hero | 194504 | [194504-backpack-hero.json](./194504-backpack-hero.json) |
 | Backpack Heroes | 174760 | [174760-backpack-heroes.json](./174760-backpack-heroes.json) |
 | Backpack Jianghu | 391202 | [391202-backpack-jianghu.json](./391202-backpack-jianghu.json) |
 | Backpack Raiders | 383055 | [383055-backpack-raiders.json](./383055-backpack-raiders.json) |
@@ -499,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dudes | 215085 | [215085-bad-dudes.json](./215085-bad-dudes.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
+| Bad End Theater | 178264 | [178264-bad-end-theater.json](./178264-bad-end-theater.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
@@ -2456,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
 | Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
 | Battlefield 1942: The Complete Collection | 284924 | [284924-battlefield-1942-the-complete-collection.json](./284924-battlefield-1942-the-complete-collection.json) |
+| Battlefield 1942: The Road to Rome | 345 | [345-battlefield-1942-the-road-to-rome.json](./345-battlefield-1942-the-road-to-rome.json) |
 | Battlefield 1942: World War II Anthology | 136467 | [136467-battlefield-1942-world-war-ii-anthology.json](./136467-battlefield-1942-world-war-ii-anthology.json) |
 | Battlefield 2: Armored Fury | 3814 | [3814-battlefield-2-armored-fury.json](./3814-battlefield-2-armored-fury.json) |
 | Battlefield 2: Complete Collection | 41885 | [41885-battlefield-2-complete-collection.json](./41885-battlefield-2-complete-collection.json) |
