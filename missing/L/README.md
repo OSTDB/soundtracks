@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La Peri | 33677 | [33677-la-peri.json](./33677-la-peri.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
+| La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
