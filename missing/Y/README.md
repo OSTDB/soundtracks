@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yùxuè Zhànhún | 128327 | [128327-yuxue-zhanhun.json](./128327-yuxue-zhanhun.json) |
 | YuYu Hakusho | 60531 | [60531-yuyu-hakusho.json](./60531-yuyu-hakusho.json) |
 | YuYu Hakusho 100% Maji Battle | 131397 | [131397-yuyu-hakusho-100-maji-battle.json](./131397-yuyu-hakusho-100-maji-battle.json) |
+| YuYu Hakusho 2: Kakutou no Sho | 42530 | [42530-yuyu-hakusho-2-kakutou-no-sho.json](./42530-yuyu-hakusho-2-kakutou-no-sho.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
 | YuYu Hakusho Final: Makai Saikyou Retsuden | 79844 | [79844-yuyu-hakusho-final-makai-saikyou-retsuden.json](./79844-yuyu-hakusho-final-makai-saikyou-retsuden.json) |
 | YuYu Hakusho Gaiden | 45606 | [45606-yuyu-hakusho-gaiden.json](./45606-yuyu-hakusho-gaiden.json) |
