@@ -5131,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Legends Pack | 227318 | [227318-worms-rumble-legends-pack.json](./227318-worms-rumble-legends-pack.json) |
 | Worms W.M.D | 19696 | [19696-worms-w-m-d.json](./19696-worms-w-m-d.json) |
 | Worms W.M.D Mobilize | 245960 | [245960-worms-w-m-d-mobilize.json](./245960-worms-w-m-d-mobilize.json) |
+| Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
