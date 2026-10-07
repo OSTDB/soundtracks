@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Claws Pampered Pets 2 | 202226 | [202226-paws-and-claws-pampered-pets-2.json](./202226-paws-and-claws-pampered-pets-2.json) |
 | Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws Regal Resort | 210015 | [210015-paws-and-claws-regal-resort.json](./210015-paws-and-claws-regal-resort.json) |
+| Paws & Claws: Dogs & Cats Best Friends | 47893 | [47893-paws-and-claws-dogs-and-cats-best-friends.json](./47893-paws-and-claws-dogs-and-cats-best-friends.json) |
 | Paws & Claws: Pampered Pets | 29197 | [29197-paws-and-claws-pampered-pets.json](./29197-paws-and-claws-pampered-pets.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws & Claws: Pet School | 29198 | [29198-paws-and-claws-pet-school.json](./29198-paws-and-claws-pet-school.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percussion Master | 382980 | [382980-percussion-master.json](./382980-percussion-master.json) |
 | Percussive VR | 31108 | [31108-percussive-vr.json](./31108-percussive-vr.json) |
 | PercussOne | 85721 | [85721-percussone.json](./85721-percussone.json) |
+| Percy Jackson and the Olympians: The Lightning Thief | 47899 | [47899-percy-jackson-and-the-olympians-the-lightning-thief.json](./47899-percy-jackson-and-the-olympians-the-lightning-thief.json) |
 | Percy Penguin | 128467 | [128467-percy-penguin.json](./128467-percy-penguin.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Perdition | 121580 | [121580-perdition.json](./121580-perdition.json) |
@@ -2861,14 +2863,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Hamsterz Bunch | 210000 | [210000-petz-hamsterz-bunch.json](./210000-petz-hamsterz-bunch.json) |
 | Petz Horseshoe Ranch | 209999 | [209999-petz-horseshoe-ranch.json](./209999-petz-horseshoe-ranch.json) |
 | Petz Horsez Family | 209998 | [209998-petz-horsez-family.json](./209998-petz-horsez-family.json) |
+| Petz Nursery 2 | 47894 | [47894-petz-nursery-2.json](./47894-petz-nursery-2.json) |
 | Petz Pony Beauty Pageant | 68078 | [68078-petz-pony-beauty-pageant.json](./68078-petz-pony-beauty-pageant.json) |
 | Petz Puppyz and Kittenz | 209990 | [209990-petz-puppyz-and-kittenz.json](./209990-petz-puppyz-and-kittenz.json) |
+| Petz Rescue: Wildlife Vet | 47918 | [47918-petz-rescue-wildlife-vet.json](./47918-petz-rescue-wildlife-vet.json) |
 | Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
+| Petz Wild Animals: Dolphinz | 47902 | [47902-petz-wild-animals-dolphinz.json](./47902-petz-wild-animals-dolphinz.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
 | Petz: Dogz Fashion | 123373 | [123373-petz-dogz-fashion.json](./123373-petz-dogz-fashion.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
+| Petz: My Puppy Family | 47895 | [47895-petz-my-puppy-family.json](./47895-petz-my-puppy-family.json) |
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
 | Petz: Saddle Club | 66407 | [66407-petz-saddle-club.json](./66407-petz-saddle-club.json) |
 | Peur Sur Amityville | 174635 | [174635-peur-sur-amityville.json](./174635-peur-sur-amityville.json) |
@@ -3727,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
+| Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
@@ -7031,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
 | Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
+| Poptropica Adventures | 47928 | [47928-poptropica-adventures.json](./47928-poptropica-adventures.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
