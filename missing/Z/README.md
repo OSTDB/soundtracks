@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Train | 199984 | [199984-zombie-train.json](./199984-zombie-train.json) |
 | Zombie Training Simulator | 33451 | [33451-zombie-training-simulator.json](./33451-zombie-training-simulator.json) |
 | Zombie Trigger | 31737 | [31737-zombie-trigger.json](./31737-zombie-trigger.json) |
+| Zombie Tycoon | 9295 | [9295-zombie-tycoon.json](./9295-zombie-tycoon.json) |
 | Zombie Vampires | 187285 | [187285-zombie-vampires.json](./187285-zombie-vampires.json) |
 | Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-phonics 9: The Zoo Billboard Mix-up | 101484 | [101484-zoo-phonics-9-the-zoo-billboard-mix-up.json](./101484-zoo-phonics-9-the-zoo-billboard-mix-up.json) |
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
 | Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
+| Zoobles! Spring to Life! | 9753 | [9753-zoobles-spring-to-life.json](./9753-zoobles-spring-to-life.json) |
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
