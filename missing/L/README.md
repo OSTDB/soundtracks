@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving | 154622 | [154622-leaving.json](./154622-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
+| Leaving Lyndow | 27139 | [27139-leaving-lyndow.json](./27139-leaving-lyndow.json) |
 | Leaving Whisper at Night | 326283 | [326283-leaving-whisper-at-night.json](./326283-leaving-whisper-at-night.json) |
 | Lecon De Cuisine: Qu'allons-Nous Manager? | 147311 | [147311-lecon-de-cuisine-quallons-nous-manager.json](./147311-lecon-de-cuisine-quallons-nous-manager.json) |
 | Lectro | 192773 | [192773-lectro.json](./192773-lectro.json) |
@@ -4345,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Profit | 346643 | [346643-loot-profit.json](./346643-loot-profit.json) |
+| Loot Rascals | 27511 | [27511-loot-rascals.json](./27511-loot-rascals.json) |
 | Loot Run | 75939 | [75939-loot-run.json](./75939-loot-run.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Planet 2 | 1915 | [1915-lost-planet-2.json](./1915-lost-planet-2.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
+| Lost Planet: Extreme Condition - Colonies Edition | 27861 | [27861-lost-planet-extreme-condition-colonies-edition.json](./27861-lost-planet-extreme-condition-colonies-edition.json) |
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
 | Lost Portal CCG | 87592 | [87592-lost-portal-ccg.json](./87592-lost-portal-ccg.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
