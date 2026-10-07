@@ -3378,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deme Game | 300338 | [300338-deme-game.json](./300338-deme-game.json) |
 | Demegraunt | 265865 | [265865-demegraunt.json](./265865-demegraunt.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
+| Demented | 34070 | [34070-demented.json](./34070-demented.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
