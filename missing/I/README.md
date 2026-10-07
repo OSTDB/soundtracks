@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Fighter Pack 2 | 55046 | [55046-injustice-2-fighter-pack-2.json](./55046-injustice-2-fighter-pack-2.json) |
 | Injustice 2: Gods Shader Pack | 323384 | [323384-injustice-2-gods-shader-pack.json](./323384-injustice-2-gods-shader-pack.json) |
 | Injustice 2: John Stewart | 323388 | [323388-injustice-2-john-stewart.json](./323388-injustice-2-john-stewart.json) |
+| Injustice 2: Legendary Edition | 95063 | [95063-injustice-2-legendary-edition.json](./95063-injustice-2-legendary-edition.json) |
 | Injustice 2: Power Girl | 323386 | [323386-injustice-2-power-girl.json](./323386-injustice-2-power-girl.json) |
 | Injustice 2: Red Hood | 165037 | [165037-injustice-2-red-hood.json](./165037-injustice-2-red-hood.json) |
 | Injustice 2: Reverse Flash | 323387 | [323387-injustice-2-reverse-flash.json](./323387-injustice-2-reverse-flash.json) |
