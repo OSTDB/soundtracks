@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
 | Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
+| Uncharted 2: Among Thieves Remastered | 41877 | [41877-uncharted-2-among-thieves-remastered.json](./41877-uncharted-2-among-thieves-remastered.json) |
 | Uncharted 2: Among Thieves: Drake's Fortune Multiplayer Pack | 252107 | [252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json](./252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json) |
 | Uncharted 2: Among Thieves: Siege Expansion Pack | 252114 | [252114-uncharted-2-among-thieves-siege-expansion-pack.json](./252114-uncharted-2-among-thieves-siege-expansion-pack.json) |
 | Uncharted 3: Drake's Deception - Collector's Edition | 41880 | [41880-uncharted-3-drakes-deception-collectors-edition.json](./41880-uncharted-3-drakes-deception-collectors-edition.json) |
