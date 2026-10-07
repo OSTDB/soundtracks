@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: Beyond | 139875 | [139875-reigns-beyond.json](./139875-reigns-beyond.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
+| Reigns: Kings & Queens | 94983 | [94983-reigns-kings-and-queens.json](./94983-reigns-kings-and-queens.json) |
 | Reigns: The Council | 122844 | [122844-reigns-the-council.json](./122844-reigns-the-council.json) |
 | Reigns: Three Kingdoms | 204453 | [204453-reigns-three-kingdoms.json](./204453-reigns-three-kingdoms.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes: Sermageddon | 327397 | [327397-reksio-i-kretes-sermageddon.json](./327397-reksio-i-kretes-sermageddon.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
+| Reksio i Skarb Piratów | 82039 | [82039-reksio-i-skarb-piratow.json](./82039-reksio-i-skarb-piratow.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
@@ -6970,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run 'n Gun: Deluxe | 266757 | [266757-run-n-gun-deluxe.json](./266757-run-n-gun-deluxe.json) |
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
+| Run 2 | 80484 | [80484-run-2.json](./80484-run-2.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
