@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Invaders: Modern War 3D | 216164 | [216164-dead-invaders-modern-war-3d.json](./216164-dead-invaders-modern-war-3d.json) |
 | Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
+| Dead Island 2: Haus | 272291 | [272291-dead-island-2-haus.json](./272291-dead-island-2-haus.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
@@ -4816,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
+| Diceomancer | 267805 | [267805-diceomancer.json](./267805-diceomancer.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
 | Dicero | 398391 | [398391-dicero.json](./398391-dicero.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
@@ -10718,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
+| Dyad | 9132 | [9132-dyad.json](./9132-dyad.json) |
 | Dyadin | 84450 | [84450-dyadin.json](./84450-dyadin.json) |
 | Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
