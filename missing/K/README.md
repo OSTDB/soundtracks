@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
+| Konami GB Collection Vol. 1 | 49835 | [49835-konami-gb-collection-vol-1.json](./49835-konami-gb-collection-vol-1.json) |
 | Konami GB Collection Vol. 2 | 50045 | [50045-konami-gb-collection-vol-2.json](./50045-konami-gb-collection-vol-2.json) |
 | Konami GB Collection Vol. 3 | 50044 | [50044-konami-gb-collection-vol-3.json](./50044-konami-gb-collection-vol-3.json) |
 | Konami GB Collection Vol. 4 | 50043 | [50043-konami-gb-collection-vol-4.json](./50043-konami-gb-collection-vol-4.json) |
