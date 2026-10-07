@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
+| Darconika: The Cube of Soul | 32850 | [32850-darconika-the-cube-of-soul.json](./32850-darconika-the-cube-of-soul.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
@@ -3600,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dempsey and Makepeace | 13588 | [13588-dempsey-and-makepeace.json](./13588-dempsey-and-makepeace.json) |
 | Demra: Rifts of War | 385700 | [385700-demra-rifts-of-war.json](./385700-demra-rifts-of-war.json) |
 | Den of the Defiant | 303471 | [303471-den-of-the-defiant.json](./303471-den-of-the-defiant.json) |
+| Den Vänstra Handens Stig | 32822 | [32822-den-vanstra-handens-stig.json](./32822-den-vanstra-handens-stig.json) |
 | Den Yttersta Gåtan | 201657 | [201657-den-yttersta-gatan.json](./201657-den-yttersta-gatan.json) |
 | Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
@@ -5576,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
+| Discrepant | 32815 | [32815-discrepant.json](./32815-discrepant.json) |
 | Discrete Heart | 285536 | [285536-discrete-heart.json](./285536-discrete-heart.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
@@ -9686,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck's Most Terrible Day | 277336 | [277336-ducks-most-terrible-day.json](./277336-ducks-most-terrible-day.json) |
 | Duckball: Glorious Ducks | 133987 | [133987-duckball-glorious-ducks.json](./133987-duckball-glorious-ducks.json) |
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
+| Duckie Dash | 32811 | [32811-duckie-dash.json](./32811-duckie-dash.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
