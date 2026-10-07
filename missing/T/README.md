@@ -3216,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures in Carnal Hell | 293201 | [293201-the-adventures-in-carnal-hell.json](./293201-the-adventures-in-carnal-hell.json) |
 | The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
 | The Adventures of a Legend - Beyond Survival | 27702 | [27702-the-adventures-of-a-legend-beyond-survival.json](./27702-the-adventures-of-a-legend-beyond-survival.json) |
+| The Adventures of Aladdin and the Magic Skull | 25544 | [25544-the-adventures-of-aladdin-and-the-magic-skull.json](./25544-the-adventures-of-aladdin-and-the-magic-skull.json) |
 | The Adventures of Alice who Went Through the Looking-Glass and Came Back Though Not Much Changed | 84467 | [84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json](./84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
@@ -4518,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
 | The Curse of Blackwater | 63118 | [63118-the-curse-of-blackwater.json](./63118-the-curse-of-blackwater.json) |
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
+| The Curse of Crowley Manor | 25592 | [25592-the-curse-of-crowley-manor.json](./25592-the-curse-of-crowley-manor.json) |
 | The Curse of Eclipse | 235807 | [235807-the-curse-of-eclipse.json](./235807-the-curse-of-eclipse.json) |
 | The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
 | The Curse of Grimsey Island | 204372 | [204372-the-curse-of-grimsey-island.json](./204372-the-curse-of-grimsey-island.json) |
@@ -11019,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
+| The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 2 | 224510 | [224510-the-worlds-hardest-game-2.json](./224510-the-worlds-hardest-game-2.json) |
 | The World's Hardest Game 3D | 169757 | [169757-the-worlds-hardest-game-3d.json](./169757-the-worlds-hardest-game-3d.json) |
@@ -17245,6 +17248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
 | Treasure Hunter: History of Monastery Gold | 253581 | [253581-treasure-hunter-history-of-monastery-gold.json](./253581-treasure-hunter-history-of-monastery-gold.json) |
 | Treasure Hunter: Idle RPG | 311246 | [311246-treasure-hunter-idle-rpg.json](./311246-treasure-hunter-idle-rpg.json) |
+| Treasure Hunters | 25552 | [25552-treasure-hunters.json](./25552-treasure-hunters.json) |
 | Treasure Hunting | 149028 | [149028-treasure-hunting.json](./149028-treasure-hunting.json) |
 | Treasure Island | 142389 | [142389-treasure-island.json](./142389-treasure-island.json) |
 | Treasure Island | 194283 | [194283-treasure-island.json](./194283-treasure-island.json) |
