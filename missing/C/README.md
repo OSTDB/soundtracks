@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
+| Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Camping Tycoon | 62979 | [62979-camping-tycoon.json](./62979-camping-tycoon.json) |
 | Camping with girls | 106154 | [106154-camping-with-girls.json](./106154-camping-with-girls.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
+| Classic Action: Devilish | 47890 | [47890-classic-action-devilish.json](./47890-classic-action-devilish.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
@@ -7009,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
 | Command & Conquer: Rivals | 103274 | [103274-command-and-conquer-rivals.json](./103274-command-and-conquer-rivals.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
+| Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
@@ -9118,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
+| Crazy Chicken: Star Karts | 47909 | [47909-crazy-chicken-star-karts.json](./47909-crazy-chicken-star-karts.json) |
 | Crazy Chicken: The Winged Pharaoh | 144592 | [144592-crazy-chicken-the-winged-pharaoh.json](./144592-crazy-chicken-the-winged-pharaoh.json) |
 | Crazy Chicken: Wanted | 72268 | [72268-crazy-chicken-wanted.json](./72268-crazy-chicken-wanted.json) |
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
@@ -10049,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
+| Cruise Line Tycoon | 47938 | [47938-cruise-line-tycoon.json](./47938-cruise-line-tycoon.json) |
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
