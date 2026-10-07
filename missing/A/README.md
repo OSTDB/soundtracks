@@ -3402,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Stardom | 116838 | [116838-alice-in-stardom.json](./116838-alice-in-stardom.json) |
 | Alice in the Manor | 351269 | [351269-alice-in-the-manor.json](./351269-alice-in-the-manor.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
+| Alice in Videoland | 13802 | [13802-alice-in-videoland.json](./13802-alice-in-videoland.json) |
 | Alice In VR | 102565 | [102565-alice-in-vr.json](./102565-alice-in-vr.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonderland | 125307 | [125307-alice-in-wonderland.json](./125307-alice-in-wonderland.json) |
@@ -3991,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almanaque Recreio | 227215 | [227215-almanaque-recreio.json](./227215-almanaque-recreio.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
+| Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
@@ -5009,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancients: Death Watch | 12391 | [12391-ancients-death-watch.json](./12391-ancients-death-watch.json) |
 | AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
+| Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
 | And From the Earth.... | 392399 | [392399-and-from-the-earth.json](./392399-and-from-the-earth.json) |
@@ -6553,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Treasures: Midnight Match | 150490 | [150490-arabian-treasures-midnight-match.json](./150490-arabian-treasures-midnight-match.json) |
 | Arabians Doubt: The Engagement on Desert | 191690 | [191690-arabians-doubt-the-engagement-on-desert.json](./191690-arabians-doubt-the-engagement-on-desert.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
+| Arac | 13804 | [13804-arac.json](./13804-arac.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
@@ -7675,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
+| Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
@@ -8642,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
+| Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
@@ -8880,6 +8886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aswang Detective: The Case of New York | 236326 | [236326-aswang-detective-the-case-of-new-york.json](./236326-aswang-detective-the-case-of-new-york.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
+| Asylum | 13807 | [13807-asylum.json](./13807-asylum.json) |
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
@@ -9932,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
+| Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
