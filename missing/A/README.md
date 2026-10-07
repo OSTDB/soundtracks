@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Happy New Year | 324964 | [324964-a-happy-new-year.json](./324964-a-happy-new-year.json) |
 | A Happy Place | 376114 | [376114-a-happy-place.json](./376114-a-happy-place.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
+| A Hat in Time: Seal the Deal | 109466 | [109466-a-hat-in-time-seal-the-deal.json](./109466-a-hat-in-time-seal-the-deal.json) |
 | A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
 | A Haunted History | 201663 | [201663-a-haunted-history.json](./201663-a-haunted-history.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
 | AdventureQuest Dragons | 112229 | [112229-adventurequest-dragons.json](./112229-adventurequest-dragons.json) |
 | AdventureQuest Undead Assault | 112227 | [112227-adventurequest-undead-assault.json](./112227-adventurequest-undead-assault.json) |
+| AdventureQuest Worlds | 107272 | [107272-adventurequest-worlds.json](./107272-adventurequest-worlds.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
