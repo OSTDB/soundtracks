@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
+| Way of the Cossack | 25550 | [25550-way-of-the-cossack.json](./25550-way-of-the-cossack.json) |
 | Way of the Hunter | 198388 | [198388-way-of-the-hunter.json](./198388-way-of-the-hunter.json) |
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
@@ -2331,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
+| When Our Journey Ends | 25596 | [25596-when-our-journey-ends.json](./25596-when-our-journey-ends.json) |
 | When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
 | When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
@@ -3806,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
+| Wizard | 25797 | [25797-wizard.json](./25797-wizard.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
