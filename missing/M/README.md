@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
+| Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
@@ -6188,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
+| Middle-earth: Shadow of War - Mithril Edition | 36986 | [36986-middle-earth-shadow-of-war-mithril-edition.json](./36986-middle-earth-shadow-of-war-mithril-edition.json) |
 | Middle-earth: Shadow of War - Outlaw Tribe Nemesis | 164808 | [164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json](./164808-middle-earth-shadow-of-war-outlaw-tribe-nemesis.json) |
 | Middle-earth: Shadow of War - Silver Edition | 53358 | [53358-middle-earth-shadow-of-war-silver-edition.json](./53358-middle-earth-shadow-of-war-silver-edition.json) |
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
@@ -7151,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
+| Mini Racing Mania: Multiplayer | 36922 | [36922-mini-racing-mania-multiplayer.json](./36922-mini-racing-mania-multiplayer.json) |
 | Mini Racing World | 152461 | [152461-mini-racing-world.json](./152461-mini-racing-world.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
@@ -8170,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Naval Warfare: Sea Combat | 389067 | [389067-modern-naval-warfare-sea-combat.json](./389067-modern-naval-warfare-sea-combat.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
 | Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
+| Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
 | Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
