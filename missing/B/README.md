@@ -9732,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
 | Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
+| Bumpy Road | 6209 | [6209-bumpy-road.json](./6209-bumpy-road.json) |
 | Bumpy's Arcade Fantasy | 11724 | [11724-bumpys-arcade-fantasy.json](./11724-bumpys-arcade-fantasy.json) |
 | Bun | 172123 | [172123-bun.json](./172123-bun.json) |
 | Bun 'N' Gun | 265671 | [265671-bun-n-gun.json](./265671-bun-n-gun.json) |
