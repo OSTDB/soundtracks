@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
 | Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
+| Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
 | Samurai Spirits Zero Special (Fixed) | 75446 | [75446-samurai-spirits-zero-special-fixed.json](./75446-samurai-spirits-zero-special-fixed.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
 | Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
+| Shadowgun | 38873 | [38873-shadowgun.json](./38873-shadowgun.json) |
 | Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
 | Shadowhand | 18690 | [18690-shadowhand.json](./18690-shadowhand.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
@@ -4955,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked Raft Survival | 347305 | [347305-shipwrecked-raft-survival.json](./347305-shipwrecked-raft-survival.json) |
 | Shipwrecked: A Quick Automation | 360651 | [360651-shipwrecked-a-quick-automation.json](./360651-shipwrecked-a-quick-automation.json) |
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
+| Shipwrecked: Lost Island | 38878 | [38878-shipwrecked-lost-island.json](./38878-shipwrecked-lost-island.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
@@ -8924,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Story | 213264 | [213264-soccer-story.json](./213264-soccer-story.json) |
 | Soccer Sumos | 200143 | [200143-soccer-sumos.json](./200143-soccer-sumos.json) |
 | Soccer Superstar | 358393 | [358393-soccer-superstar.json](./358393-soccer-superstar.json) |
+| Soccer Superstars | 38837 | [38837-soccer-superstars.json](./38837-soccer-superstars.json) |
 | Soccer Team Manager: English and Italian Leagues | 93376 | [93376-soccer-team-manager-english-and-italian-leagues.json](./93376-soccer-team-manager-english-and-italian-leagues.json) |
 | Soccer Tsuku 2002 | 372581 | [372581-soccer-tsuku-2002.json](./372581-soccer-tsuku-2002.json) |
 | Soccer Tsuku DS: Touch and Direct | 65016 | [65016-soccer-tsuku-ds-touch-and-direct.json](./65016-soccer-tsuku-ds-touch-and-direct.json) |
@@ -9230,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
+| Solid Gold | 38832 | [38832-solid-gold.json](./38832-solid-gold.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
 | Solid Runner | 44437 | [44437-solid-runner.json](./44437-solid-runner.json) |
@@ -10927,6 +10932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Escape | 322744 | [322744-space-escape.json](./322744-space-escape.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
+| Space Evader | 38879 | [38879-space-evader.json](./38879-space-evader.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
@@ -15910,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
+| Street Rod 2: The Next Generation | 38851 | [38851-street-rod-2-the-next-generation.json](./38851-street-rod-2-the-next-generation.json) |
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
@@ -19179,6 +19186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Dance | 333243 | [333243-surf-dance.json](./333243-surf-dance.json) |
 | Surf Game | 296007 | [296007-surf-game.json](./296007-surf-game.json) |
 | Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
+| Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
