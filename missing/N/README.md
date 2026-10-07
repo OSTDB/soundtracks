@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 11 | 7112 | [7112-ncaa-football-11.json](./7112-ncaa-football-11.json) |
+| NCAA Football 12 | 7113 | [7113-ncaa-football-12.json](./7113-ncaa-football-12.json) |
 | NCAA Football 13 | 7114 | [7114-ncaa-football-13.json](./7114-ncaa-football-13.json) |
 | NCAA Football 2001 | 43823 | [43823-ncaa-football-2001.json](./43823-ncaa-football-2001.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
