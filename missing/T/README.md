@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Dragon Quest 2: Mazoku no Daichi | 325651 | [325651-t-dragon-quest-2-mazoku-no-daichi.json](./325651-t-dragon-quest-2-mazoku-no-daichi.json) |
 | T-Dragon Quest: Joshou Yuusha no Mezame | 325650 | [325650-t-dragon-quest-joshou-yuusha-no-mezame.json](./325650-t-dragon-quest-joshou-yuusha-no-mezame.json) |
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
+| T-Mek | 45875 | [45875-t-mek.json](./45875-t-mek.json) |
 | T-Minus 30 | 165418 | [165418-t-minus-30.json](./165418-t-minus-30.json) |
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
 | Tempo | 174085 | [174085-tempo.json](./174085-tempo.json) |
+| Tempo | 45881 | [45881-tempo.json](./45881-tempo.json) |
 | Tempo | 74385 | [74385-tempo.json](./74385-tempo.json) |
 | Tempo Jr. | 19761 | [19761-tempo-jr.json](./19761-tempo-jr.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
@@ -3346,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
+| The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
@@ -6466,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
 | The Joker's Game | 347809 | [347809-the-jokers-game.json](./347809-the-jokers-game.json) |
 | The Joker's Wild | 46562 | [46562-the-jokers-wild.json](./46562-the-jokers-wild.json) |
+| The Joker's Wild Jr. | 45888 | [45888-the-jokers-wild-jr.json](./45888-the-jokers-wild-jr.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
@@ -13609,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
+| Titanic: An Interactive Exploration | 45891 | [45891-titanic-an-interactive-exploration.json](./45891-titanic-an-interactive-exploration.json) |
 | Titanic: Challenge of Discovery | 71720 | [71720-titanic-challenge-of-discovery.json](./71720-titanic-challenge-of-discovery.json) |
 | Titanic: Fall of a Legend | 190455 | [190455-titanic-fall-of-a-legend.json](./190455-titanic-fall-of-a-legend.json) |
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
