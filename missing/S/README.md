@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salary Man Escape | 104678 | [104678-salary-man-escape.json](./104678-salary-man-escape.json) |
 | Salary Man Mario | 249751 | [249751-salary-man-mario.json](./249751-salary-man-mario.json) |
 | Saleblazers | 198241 | [198241-saleblazers.json](./198241-saleblazers.json) |
+| Salem | 23613 | [23613-salem.json](./23613-salem.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
@@ -2231,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
+| SD Gundam Online | 23616 | [23616-sd-gundam-online.json](./23616-sd-gundam-online.json) |
 | SD Gundam Over Galaxian | 159231 | [159231-sd-gundam-over-galaxian.json](./159231-sd-gundam-over-galaxian.json) |
 | SD Gundam Power Formation Puzzle | 38327 | [38327-sd-gundam-power-formation-puzzle.json](./38327-sd-gundam-power-formation-puzzle.json) |
 | SD Gundam Sangokushi Rainbow Tairiku Senki | 370914 | [370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json](./370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json) |
@@ -3731,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
 | Shadey's Quest | 337154 | [337154-shadeys-quest.json](./337154-shadeys-quest.json) |
 | ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
+| Shado Fighter | 23560 | [23560-shado-fighter.json](./23560-shado-fighter.json) |
 | Shadoan | 93134 | [93134-shadoan.json](./93134-shadoan.json) |
 | Shadoblitz | 345034 | [345034-shadoblitz.json](./345034-shadoblitz.json) |
 | Shadow | 180611 | [180611-shadow.json](./180611-shadow.json) |
@@ -6551,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Fallen: Shadows of the Phoenixheart | 316128 | [316128-sir-fallen-shadows-of-the-phoenixheart.json](./316128-sir-fallen-shadows-of-the-phoenixheart.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
+| Sir Lancelot | 23574 | [23574-sir-lancelot.json](./23574-sir-lancelot.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
@@ -7086,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
 | Sky Labyrinth | 114922 | [114922-sky-labyrinth.json](./114922-sky-labyrinth.json) |
+| Sky Lancer | 23933 | [23933-sky-lancer.json](./23933-sky-lancer.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
@@ -12341,6 +12346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
+| Spin Ball | 23576 | [23576-spin-ball.json](./23576-spin-ball.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
@@ -13550,6 +13556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Flashback Blast! | 304288 | [304288-star-flashback-blast.json](./304288-star-flashback-blast.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
+| Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
@@ -14567,6 +14574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
 | State of Mind | 230872 | [230872-state-of-mind.json](./230872-state-of-mind.json) |
 | State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
+| State of Trove | 23628 | [23628-state-of-trove.json](./23628-state-of-trove.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
