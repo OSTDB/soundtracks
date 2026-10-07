@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man 99: New Rally-X | 325051 | [325051-pac-man-99-new-rally-x.json](./325051-pac-man-99-new-rally-x.json) |
 | Pac-Man 99: The Legend of "Valkyrie" | 325055 | [325055-pac-man-99-the-legend-of-valkyrie.json](./325055-pac-man-99-the-legend-of-valkyrie.json) |
 | Pac-Man 99: The Tower of Druaga | 325052 | [325052-pac-man-99-the-tower-of-druaga.json](./325052-pac-man-99-the-tower-of-druaga.json) |
+| Pac-Man All-Stars | 27587 | [27587-pac-man-all-stars.json](./27587-pac-man-all-stars.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Arcade Golf | 311667 | [311667-pac-man-arcade-golf.json](./311667-pac-man-arcade-golf.json) |
 | Pac-Man Arrangement | 178408 | [178408-pac-man-arrangement.json](./178408-pac-man-arrangement.json) |
@@ -1789,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
+| Patriots: A Nation Under Fire | 27588 | [27588-patriots-a-nation-under-fire.json](./27588-patriots-a-nation-under-fire.json) |
 | Patriots: Back to Civilization | 182369 | [182369-patriots-back-to-civilization.json](./182369-patriots-back-to-civilization.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
@@ -2617,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
 | Persian Nights 2: The Moonlight Veil | 134557 | [134557-persian-nights-2-the-moonlight-veil.json](./134557-persian-nights-2-the-moonlight-veil.json) |
+| Persian Wars | 27589 | [27589-persian-wars.json](./27589-persian-wars.json) |
 | Persian: The Great Lamp Heist | 51505 | [51505-persian-the-great-lamp-heist.json](./51505-persian-the-great-lamp-heist.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persist Online | 304255 | [304255-persist-online.json](./304255-persist-online.json) |
@@ -7965,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
 | Primitive Hunter | 127710 | [127710-primitive-hunter.json](./127710-primitive-hunter.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
+| Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
 | Primland Tale | 345608 | [345608-primland-tale.json](./345608-primland-tale.json) |
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
@@ -8301,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
+| Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
