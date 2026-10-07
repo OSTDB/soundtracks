@@ -6046,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
 | Blockour | 184382 | [184382-blockour.json](./184382-blockour.json) |
+| Blockout | 10208 | [10208-blockout.json](./10208-blockout.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
@@ -6506,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Blast Saga | 99140 | [99140-blossom-blast-saga.json](./99140-blossom-blast-saga.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
+| Blossom Tales: The Sleeping King | 27994 | [27994-blossom-tales-the-sleeping-king.json](./27994-blossom-tales-the-sleeping-king.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
@@ -8285,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
+| Brave | 36312 | [36312-brave.json](./36312-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
