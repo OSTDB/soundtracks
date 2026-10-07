@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
 | F1 Circus | 37715 | [37715-f1-circus.json](./37715-f1-circus.json) |
 | F1 Circus '92 | 37714 | [37714-f1-circus-92.json](./37714-f1-circus-92.json) |
+| F1 Circus CD | 45865 | [45865-f1-circus-cd.json](./45865-f1-circus-cd.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
@@ -7412,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Boxers | 44725 | [44725-funky-boxers.json](./44725-funky-boxers.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
+| Funky Horror Band | 45872 | [45872-funky-horror-band.json](./45872-funky-horror-band.json) |
 | Funky Karts | 107397 | [107397-funky-karts.json](./107397-funky-karts.json) |
 | Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
