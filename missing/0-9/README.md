@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64 Trump Collection: Alice no Waku-waku Trump World | 3435 | [3435-64-trump-collection-alice-no-waku-waku-trump-world.json](./3435-64-trump-collection-alice-no-waku-waku-trump-world.json) |
 | 64 Wars | 182340 | [182340-64-wars.json](./182340-64-wars.json) |
 | 64.0 | 27801 | [27801-64-0.json](./27801-64-0.json) |
+| 64th Street: A Detective Story | 6735 | [6735-64th-street-a-detective-story.json](./6735-64th-street-a-detective-story.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
