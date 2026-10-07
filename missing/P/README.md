@@ -2951,8 +2951,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasos Now | 363059 | [363059-phantasos-now.json](./363059-phantasos-now.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
+| Phantasy Star Adventure | 45253 | [45253-phantasy-star-adventure.json](./45253-phantasy-star-adventure.json) |
 | Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
 | Phantasy Star Collection | 136803 | [136803-phantasy-star-collection.json](./136803-phantasy-star-collection.json) |
+| Phantasy Star Gaiden | 45252 | [45252-phantasy-star-gaiden.json](./45252-phantasy-star-gaiden.json) |
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
@@ -6909,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop and Well | 158626 | [158626-pop-and-well.json](./158626-pop-and-well.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
+| Pop Breaker | 45251 | [45251-pop-breaker.json](./45251-pop-breaker.json) |
 | Pop Cutie! Street Fashion Simulation | 72743 | [72743-pop-cutie-street-fashion-simulation.json](./72743-pop-cutie-street-fashion-simulation.json) |
 | Pop DS | 326190 | [326190-pop-ds.json](./326190-pop-ds.json) |
 | Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
@@ -6990,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
+| Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
