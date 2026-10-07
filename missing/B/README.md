@@ -9927,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
 | Bura: The Way the Wind Blows | 217361 | [217361-bura-the-way-the-wind-blows.json](./217361-bura-the-way-the-wind-blows.json) |
+| Burai Fighter | 2382 | [2382-burai-fighter.json](./2382-burai-fighter.json) |
 | Burai Fighter Deluxe | 48960 | [48960-burai-fighter-deluxe.json](./48960-burai-fighter-deluxe.json) |
 | Burai: Gekan Kanketsu-hen | 65292 | [65292-burai-gekan-kanketsu-hen.json](./65292-burai-gekan-kanketsu-hen.json) |
 | Burai: Joukan | 65293 | [65293-burai-joukan.json](./65293-burai-joukan.json) |
