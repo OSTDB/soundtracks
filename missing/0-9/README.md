@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
 | 2044 Moto Racer: Cyber Racing Simulator | 265709 | [265709-2044-moto-racer-cyber-racing-simulator.json](./265709-2044-moto-racer-cyber-racing-simulator.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
+| 2048 | 143267 | [143267-2048.json](./143267-2048.json) |
 | 2048 | 214042 | [214042-2048.json](./214042-2048.json) |
 | 2048 | 256775 | [256775-2048.json](./256775-2048.json) |
 | 2048 | 267569 | [267569-2048.json](./267569-2048.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
+| 404Sight | 19389 | [19389-404sight.json](./19389-404sight.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
 | 41148 | 125888 | [125888-41148.json](./125888-41148.json) |
