@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C. II: Grog's Revenge | 13875 | [13875-b-c-ii-grogs-revenge.json](./13875-b-c-ii-grogs-revenge.json) |
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
 | B.C. Story | 40984 | [40984-b-c-story.json](./40984-b-c-story.json) |
+| B.C.'s Quest for Tires | 12294 | [12294-b-c-s-quest-for-tires.json](./12294-b-c-s-quest-for-tires.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
 | B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black | 5749 | [5749-black.json](./5749-black.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
+| Black & White: Creature Isle | 1922 | [1922-black-and-white-creature-isle.json](./1922-black-and-white-creature-isle.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
 | Black Ace | 191067 | [191067-black-ace.json](./191067-black-ace.json) |
@@ -6380,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodseed: The Last Helsing | 361286 | [361286-bloodseed-the-last-helsing.json](./361286-bloodseed-the-last-helsing.json) |
 | Bloodshed | 317982 | [317982-bloodshed.json](./317982-bloodshed.json) |
+| Bloodshore | 177056 | [177056-bloodshore.json](./177056-bloodshore.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
@@ -6678,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
+| Blues and Bullets | 11415 | [11415-blues-and-bullets.json](./11415-blues-and-bullets.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
