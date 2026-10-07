@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Simulator: Aliens | 264579 | [264579-hand-simulator-aliens.json](./264579-hand-simulator-aliens.json) |
 | Hand Simulator: Rendezvous | 220031 | [220031-hand-simulator-rendezvous.json](./220031-hand-simulator-rendezvous.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
+| Hand Simulator: Survival | 127156 | [127156-hand-simulator-survival.json](./127156-hand-simulator-survival.json) |
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Z-Day | 153341 | [153341-happy-z-day.json](./153341-happy-z-day.json) |
 | Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
 | Happy! Happy!! Boarders in Hokkaido | 61708 | [61708-happy-happy-boarders-in-hokkaido.json](./61708-happy-happy-boarders-in-hokkaido.json) |
+| Happy's Humble Burger Barn | 133612 | [133612-happys-humble-burger-barn.json](./133612-happys-humble-burger-barn.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
