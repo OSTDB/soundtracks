@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
 | In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
+| In the Shadow of the Truth | 32798 | [32798-in-the-shadow-of-the-truth.json](./32798-in-the-shadow-of-the-truth.json) |
 | In the Shadows | 180657 | [180657-in-the-shadows.json](./180657-in-the-shadows.json) |
 | In the Shadows | 18932 | [18932-in-the-shadows.json](./18932-in-the-shadows.json) |
 | In The Shadows | 180568 | [180568-in-the-shadows.json](./180568-in-the-shadows.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
 | Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
+| Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
