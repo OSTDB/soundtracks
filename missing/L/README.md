@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
+| Leisure Suit Larry 6: Shape Up or Slip Out! | 2911 | [2911-leisure-suit-larry-6-shape-up-or-slip-out.json](./2911-leisure-suit-larry-6-shape-up-or-slip-out.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
@@ -3142,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
+| Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | LinkedOut | 353443 | [353443-linkedout.json](./353443-linkedout.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
