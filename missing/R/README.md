@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
 | R.I.P. Curl | 291613 | [291613-r-i-p-curl.json](./291613-r-i-p-curl.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
+| R.O.O.T.S | 35543 | [35543-r-o-o-t-s.json](./35543-r-o-o-t-s.json) |
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
 | R.override | 403832 | [403832-r-override.json](./403832-r-override.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
@@ -2568,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
 | RegicideX | 265579 | [265579-regicidex.json](./265579-regicidex.json) |
+| Regimental Chess | 35461 | [35461-regimental-chess.json](./35461-regimental-chess.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
@@ -4098,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride or Die! | 250997 | [250997-ride-or-die.json](./250997-ride-or-die.json) |
+| Ride the Bullet | 35570 | [35570-ride-the-bullet.json](./35570-ride-the-bullet.json) |
 | Ride the Comix | 137007 | [137007-ride-the-comix.json](./137007-ride-the-comix.json) |
 | Ride the Tuft | 70036 | [70036-ride-the-tuft.json](./70036-ride-the-tuft.json) |
 | Ride to Hell: Beatdown | 63559 | [63559-ride-to-hell-beatdown.json](./63559-ride-to-hell-beatdown.json) |
@@ -6826,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
+| Run and Fire | 35499 | [35499-run-and-fire.json](./35499-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
 | Run and Hunt: Skeleton Rebellion | 298642 | [298642-run-and-hunt-skeleton-rebellion.json](./298642-run-and-hunt-skeleton-rebellion.json) |
 | Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
