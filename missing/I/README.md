@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Immortal Here | 337826 | [337826-i-am-immortal-here.json](./337826-i-am-immortal-here.json) |
 | I Am Innocent | 138129 | [138129-i-am-innocent.json](./138129-i-am-innocent.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
+| I Am Jesus Christ | 127152 | [127152-i-am-jesus-christ.json](./127152-i-am-jesus-christ.json) |
 | I am Jesus Christ: Christ's Revenge | 240732 | [240732-i-am-jesus-christ-christs-revenge.json](./240732-i-am-jesus-christ-christs-revenge.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I Am Legion: Stand Survivors | 319664 | [319664-i-am-legion-stand-survivors.json](./319664-i-am-legion-stand-survivors.json) |
