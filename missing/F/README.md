@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: World Wide Words | 127876 | [127876-final-fantasy-world-wide-words.json](./127876-final-fantasy-world-wide-words.json) |
 | Final Fight 2 | 1656 | [1656-final-fight-2.json](./1656-final-fight-2.json) |
 | Final Fight 3 | 223016 | [223016-final-fight-3.json](./223016-final-fight-3.json) |
+| Final Fight CD | 1664 | [1664-final-fight-cd.json](./1664-final-fight-cd.json) |
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
 | Final Fight LNS Ultimate | 230871 | [230871-final-fight-lns-ultimate.json](./230871-final-fight-lns-ultimate.json) |
 | Final Fight MD | 407523 | [407523-final-fight-md.json](./407523-final-fight-md.json) |
