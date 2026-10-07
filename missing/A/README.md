@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
+| Altus 24 | 22168 | [22168-altus-24.json](./22168-altus-24.json) |
 | Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
 | Alty's Dinner | 390762 | [390762-altys-dinner.json](./390762-altys-dinner.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
 | Ancient Phantasma | 308655 | [308655-ancient-phantasma.json](./308655-ancient-phantasma.json) |
 | Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
+| Ancient Quest of Saqqarah | 22118 | [22118-ancient-quest-of-saqqarah.json](./22118-ancient-quest-of-saqqarah.json) |
 | Ancient Relic | 233455 | [233455-ancient-relic.json](./233455-ancient-relic.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Roman: Power of Dark Side | 193330 | [193330-ancient-roman-power-of-dark-side.json](./193330-ancient-roman-power-of-dark-side.json) |
@@ -5614,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
+| Anka | 22122 | [22122-anka.json](./22122-anka.json) |
 | Ankh 2: Heart of Osiris | 15785 | [15785-ankh-2-heart-of-osiris.json](./15785-ankh-2-heart-of-osiris.json) |
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
@@ -9564,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
 | Autumn's Dungeoneering | 373176 | [373176-autumns-dungeoneering.json](./373176-autumns-dungeoneering.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
+| Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
@@ -9836,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
+| Awkward Dimensions | 22380 | [22380-awkward-dimensions.json](./22380-awkward-dimensions.json) |
 | Awkward Dimensions Redux | 22381 | [22381-awkward-dimensions-redux.json](./22381-awkward-dimensions-redux.json) |
 | Awkward Girls | 149421 | [149421-awkward-girls.json](./149421-awkward-girls.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
