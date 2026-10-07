@@ -4597,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse We Made | 380623 | [380623-the-curse-we-made.json](./380623-the-curse-we-made.json) |
 | The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
 | The Cursed Castle | 235290 | [235290-the-cursed-castle.json](./235290-the-cursed-castle.json) |
+| The Cursed Crusade | 6950 | [6950-the-cursed-crusade.json](./6950-the-cursed-crusade.json) |
 | The Cursed Deep | 365819 | [365819-the-cursed-deep.json](./365819-the-cursed-deep.json) |
 | The Cursed Forest | 35848 | [35848-the-cursed-forest.json](./35848-the-cursed-forest.json) |
 | The Cursed Garden | 342750 | [342750-the-cursed-garden.json](./342750-the-cursed-garden.json) |
@@ -9571,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: For Rent | 275084 | [275084-the-sims-4-for-rent.json](./275084-the-sims-4-for-rent.json) |
 | The Sims 4: Fun Outside Bundle | 136330 | [136330-the-sims-4-fun-outside-bundle.json](./136330-the-sims-4-fun-outside-bundle.json) |
 | The Sims 4: Garden to Table Kit | 377760 | [377760-the-sims-4-garden-to-table-kit.json](./377760-the-sims-4-garden-to-table-kit.json) |
+| The Sims 4: Get Famous | 110840 | [110840-the-sims-4-get-famous.json](./110840-the-sims-4-get-famous.json) |
 | The Sims 4: Get to Work | 13143 | [13143-the-sims-4-get-to-work.json](./13143-the-sims-4-get-to-work.json) |
 | The Sims 4: Get Together | 13144 | [13144-the-sims-4-get-together.json](./13144-the-sims-4-get-together.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
@@ -10845,6 +10847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season Two - Episode 5: No Going Back | 127061 | [127061-the-walking-dead-season-two-episode-5-no-going-back.json](./127061-the-walking-dead-season-two-episode-5-no-going-back.json) |
 | The Walking Dead: Survivors | 142749 | [142749-the-walking-dead-survivors.json](./142749-the-walking-dead-survivors.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
+| The Walking Dead: The Final Season - Episode 1: Done Running | 107114 | [107114-the-walking-dead-the-final-season-episode-1-done-running.json](./107114-the-walking-dead-the-final-season-episode-1-done-running.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
 | The Walking Dead: The Telltale Definitive Series | 117514 | [117514-the-walking-dead-the-telltale-definitive-series.json](./117514-the-walking-dead-the-telltale-definitive-series.json) |
 | The Walking Dead: The Telltale Definitive Series - Guardian Pack | 117678 | [117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json](./117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json) |
@@ -11320,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Their Story. | 404398 | [404398-their-story.json](./404398-their-story.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
+| Them and Us | 107688 | [107688-them-and-us.json](./107688-them-and-us.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | Them's Fightin' Herds | 18280 | [18280-thems-fightin-herds.json](./18280-thems-fightin-herds.json) |
