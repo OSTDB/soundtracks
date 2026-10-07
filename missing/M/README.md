@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Olympic Games | 132108 | [132108-mario-and-sonic-at-the-olympic-games.json](./132108-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Winter Games | 2707 | [2707-mario-and-sonic-at-the-olympic-winter-games.json](./2707-mario-and-sonic-at-the-olympic-winter-games.json) |
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
+| Mario & Sonic at the Rio 2016 Olympic Games | 11258 | [11258-mario-and-sonic-at-the-rio-2016-olympic-games.json](./11258-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
 | Mario + Rabbids Kingdom Battle | 28414 | [28414-mario-rabbids-kingdom-battle.json](./28414-mario-rabbids-kingdom-battle.json) |
@@ -5504,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid V: The Phantom Pain - Day One Edition | 136221 | [136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json](./136221-metal-gear-solid-v-the-phantom-pain-day-one-edition.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Fight of the Metal Gears | 331973 | [331973-metal-gear-solid-fight-of-the-metal-gears.json](./331973-metal-gear-solid-fight-of-the-metal-gears.json) |
+| Metal Gear Solid: Integral | 41037 | [41037-metal-gear-solid-integral.json](./41037-metal-gear-solid-integral.json) |
 | Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
