@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zegeta Video Game | 56540 | [56540-zegeta-video-game.json](./56540-zegeta-video-game.json) |
 | Zehlar | 258023 | [258023-zehlar.json](./258023-zehlar.json) |
 | Zehn Adventures | 94541 | [94541-zehn-adventures.json](./94541-zehn-adventures.json) |
+| ZeiramZone | 43809 | [43809-zeiramzone.json](./43809-zeiramzone.json) |
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
 | Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
 | Zeke's Peak | 119491 | [119491-zekes-peak.json](./119491-zekes-peak.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Distance | 288445 | [288445-zero-distance.json](./288445-zero-distance.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
+| Zero Divide 2 | 43808 | [43808-zero-divide-2.json](./43808-zero-divide-2.json) |
 | Zero Division | 223277 | [223277-zero-division.json](./223277-zero-division.json) |
 | Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
