@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Battles | 342846 | [342846-tactical-battles.json](./342846-tactical-battles.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
+| Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
@@ -5946,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
 | The Grown-Up Detective Agency | 220560 | [220560-the-grown-up-detective-agency.json](./220560-the-grown-up-detective-agency.json) |
+| The Growth Journey | 34094 | [34094-the-growth-journey.json](./34094-the-growth-journey.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
@@ -7874,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
+| The Minotaur | 34159 | [34159-the-minotaur.json](./34159-the-minotaur.json) |
 | The Miracle Of San Martin | 416606 | [416606-the-miracle-of-san-martin.json](./416606-the-miracle-of-san-martin.json) |
 | The Mirage: Illusion of Wish | 25057 | [25057-the-mirage-illusion-of-wish.json](./25057-the-mirage-illusion-of-wish.json) |
 | The Mirrion | 345104 | [345104-the-mirrion.json](./345104-the-mirrion.json) |
@@ -10740,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
+| The Warden | 34149 | [34149-the-warden.json](./34149-the-warden.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Warfare | 417488 | [417488-the-warfare.json](./417488-the-warfare.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
@@ -14805,6 +14809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado.io | 106525 | [106525-tornado-io.json](./106525-tornado-io.json) |
 | Tornblade | 386880 | [386880-tornblade.json](./386880-tornblade.json) |
 | Tornuktu | 191554 | [191554-tornuktu.json](./191554-tornuktu.json) |
+| Toro | 34099 | [34099-toro.json](./34099-toro.json) |
 | Toro to Typing | 246071 | [246071-toro-to-typing.json](./246071-toro-to-typing.json) |
 | Toro! Let's Party! | 65566 | [65566-toro-lets-party.json](./65566-toro-lets-party.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
