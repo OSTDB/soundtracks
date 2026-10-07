@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
+| Team Suzuki | 12792 | [12792-team-suzuki.json](./12792-team-suzuki.json) |
 | Team Troopers | 147625 | [147625-team-troopers.json](./147625-team-troopers.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Umizoomi & Dora's Fantastic Flight | 7980 | [7980-team-umizoomi-and-doras-fantastic-flight.json](./7980-team-umizoomi-and-doras-fantastic-flight.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
+| Terrorpods | 12794 | [12794-terrorpods.json](./12794-terrorpods.json) |
 | Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
@@ -10086,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Third | 358337 | [358337-the-third.json](./358337-the-third.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Celestial Realm | 358500 | [358500-the-third-celestial-realm.json](./358500-the-third-celestial-realm.json) |
+| The Third Courier | 12795 | [12795-the-third-courier.json](./12795-the-third-courier.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
 | The Thirst of Hearts | 54343 | [54343-the-thirst-of-hearts.json](./54343-the-thirst-of-hearts.json) |
@@ -11871,6 +11874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
+| Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
 | Thunderbirds International Rescue | 49255 | [49255-thunderbirds-international-rescue.json](./49255-thunderbirds-international-rescue.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
@@ -13417,6 +13421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin in Tibet | 249147 | [249147-tintin-in-tibet.json](./249147-tintin-in-tibet.json) |
 | Tintin in Tibet | 249148 | [249148-tintin-in-tibet.json](./249148-tintin-in-tibet.json) |
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
+| Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
@@ -13636,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip | 362987 | [362987-tip.json](./362987-tip.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
+| Tip Off | 12798 | [12798-tip-off.json](./12798-tip-off.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
 | Tip Top Table Tennis | 301537 | [301537-tip-top-table-tennis.json](./301537-tip-top-table-tennis.json) |
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
@@ -14893,6 +14899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torus | 214725 | [214725-torus.json](./214725-torus.json) |
 | Torus Trooper | 28718 | [28718-torus-trooper.json](./28718-torus-trooper.json) |
 | Torus Zero: Dare ga Neko wo Koroshita ka | 340384 | [340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json](./340384-torus-zero-dare-ga-neko-wo-koroshita-ka.json) |
+| Torvak the Warrior | 12799 | [12799-torvak-the-warrior.json](./12799-torvak-the-warrior.json) |
 | Toryumon | 266284 | [266284-toryumon.json](./266284-toryumon.json) |
 | ToSaVa | 409721 | [409721-tosava.json](./409721-tosava.json) |
 | Toshi Tensou Keikaku: Eternal City | 37725 | [37725-toshi-tensou-keikaku-eternal-city.json](./37725-toshi-tensou-keikaku-eternal-city.json) |
@@ -15503,6 +15510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Ascension | 192834 | [192834-tower-of-ascension.json](./192834-tower-of-ascension.json) |
 | Tower of Ashes | 360190 | [360190-tower-of-ashes.json](./360190-tower-of-ashes.json) |
 | Tower of Ba*bel | 362411 | [362411-tower-of-ba-bel.json](./362411-tower-of-ba-bel.json) |
+| Tower of Babel | 12800 | [12800-tower-of-babel.json](./12800-tower-of-babel.json) |
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Babel: Survivors of Chaos | 329785 | [329785-tower-of-babel-survivors-of-chaos.json](./329785-tower-of-babel-survivors-of-chaos.json) |
@@ -17833,6 +17841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
 | Trolling Bowling | 331320 | [331320-trolling-bowling.json](./331320-trolling-bowling.json) |
 | TrollLab | 268015 | [268015-trolllab.json](./268015-trolllab.json) |
+| Trolls | 12801 | [12801-trolls.json](./12801-trolls.json) |
 | Trolls and Tribulations | 25942 | [25942-trolls-and-tribulations.json](./25942-trolls-and-tribulations.json) |
 | Trolls and Tribulations: Omega | 178554 | [178554-trolls-and-tribulations-omega.json](./178554-trolls-and-tribulations-omega.json) |
 | Trolls de Troy: La Cité de la mort rose | 388737 | [388737-trolls-de-troy-la-cite-de-la-mort-rose.json](./388737-trolls-de-troy-la-cite-de-la-mort-rose.json) |
