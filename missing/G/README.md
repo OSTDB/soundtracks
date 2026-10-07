@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener Simulator | 390636 | [390636-gardener-simulator.json](./390636-gardener-simulator.json) |
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
+| Gardening by Choice: Flowers and Foliage | 45886 | [45886-gardening-by-choice-flowers-and-foliage.json](./45886-gardening-by-choice-flowers-and-foliage.json) |
 | Gardening Guide | 67616 | [67616-gardening-guide.json](./67616-gardening-guide.json) |
 | Gardening Mama | 11361 | [11361-gardening-mama.json](./11361-gardening-mama.json) |
 | Gardening Mama 2: Forest Friends | 6357 | [6357-gardening-mama-2-forest-friends.json](./6357-gardening-mama-2-forest-friends.json) |
@@ -2480,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl.exe | 171401 | [171401-girl-exe.json](./171401-girl-exe.json) |
 | Girl.exe.exe | 345680 | [345680-girl-exe-exe.json](./345680-girl-exe-exe.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
+| Girl's Club | 45897 | [45897-girls-club.json](./45897-girls-club.json) |
 | Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
@@ -3657,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Monday | 287234 | [287234-golf-monday.json](./287234-golf-monday.json) |
 | Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
+| Golf My Way | 45893 | [45893-golf-my-way.json](./45893-golf-my-way.json) |
 | Golf Navigator Vol.1 | 203767 | [203767-golf-navigator-vol-1.json](./203767-golf-navigator-vol-1.json) |
 | Golf Navigator Vol.2 | 203768 | [203768-golf-navigator-vol-2.json](./203768-golf-navigator-vol-2.json) |
 | Golf Navigator Vol.3 | 203769 | [203769-golf-navigator-vol-3.json](./203769-golf-navigator-vol-3.json) |
@@ -4771,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Again: 3D Shooter | 330230 | [330230-great-again-3d-shooter.json](./330230-great-again-3d-shooter.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
 | Great American Golf | 45926 | [45926-great-american-golf.json](./45926-great-american-golf.json) |
+| Great American Golf 2 | 45898 | [45898-great-american-golf-2.json](./45898-great-american-golf-2.json) |
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
@@ -5954,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Musou Special | 43450 | [43450-gundam-musou-special.json](./43450-gundam-musou-special.json) |
 | Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Robot | 47534 | [47534-gundam-robot.json](./47534-gundam-robot.json) |
+| Gundam Side Story 0079: Rise From the Ashes | 45859 | [45859-gundam-side-story-0079-rise-from-the-ashes.json](./45859-gundam-side-story-0079-rise-from-the-ashes.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
