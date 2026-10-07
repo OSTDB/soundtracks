@@ -2136,10 +2136,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirarin Revolution: Naasan to Issho | 70662 | [70662-kirarin-revolution-naasan-to-issho.json](./70662-kirarin-revolution-naasan-to-issho.json) |
 | Kirarin Revolution: Tsukutte Misechao! Kime Kira Stage | 70672 | [70672-kirarin-revolution-tsukutte-misechao-kime-kira-stage.json](./70672-kirarin-revolution-tsukutte-misechao-kime-kira-stage.json) |
 | Kiratto Kaiketsu! 64 Tanteidan | 3532 | [3532-kiratto-kaiketsu-64-tanteidan.json](./3532-kiratto-kaiketsu-64-tanteidan.json) |
+| Kirby & the Amazing Mirror | 3721 | [3721-kirby-and-the-amazing-mirror.json](./3721-kirby-and-the-amazing-mirror.json) |
 | Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
 | Kirby 64: Whispy's Trials | 300264 | [300264-kirby-64-whispys-trials.json](./300264-kirby-64-whispys-trials.json) |
 | Kirby Air Ride Deluxe | 357344 | [357344-kirby-air-ride-deluxe.json](./357344-kirby-air-ride-deluxe.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
+| Kirby and the Forgotten Land | 172427 | [172427-kirby-and-the-forgotten-land.json](./172427-kirby-and-the-forgotten-land.json) |
 | Kirby and the Forgotten Land | 208400 | [208400-kirby-and-the-forgotten-land.json](./208400-kirby-and-the-forgotten-land.json) |
 | Kirby and the Rainbow Curse | 7338 | [7338-kirby-and-the-rainbow-curse.json](./7338-kirby-and-the-rainbow-curse.json) |
 | Kirby Battle Blitz! | 278474 | [278474-kirby-battle-blitz.json](./278474-kirby-battle-blitz.json) |
@@ -2169,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
 | Kirby: Canvas Curse | 3722 | [3722-kirby-canvas-curse.json](./3722-kirby-canvas-curse.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
+| Kirby: Nightmare in Dream Land | 3726 | [3726-kirby-nightmare-in-dream-land.json](./3726-kirby-nightmare-in-dream-land.json) |
 | Kirby: Planet Robobot | 18221 | [18221-kirby-planet-robobot.json](./18221-kirby-planet-robobot.json) |
 | Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
 | Kirby: Soft & Wet | 369145 | [369145-kirby-soft-and-wet.json](./369145-kirby-soft-and-wet.json) |
