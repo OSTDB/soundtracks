@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Tanks | 72265 | [72265-scorched-tanks.json](./72265-scorched-tanks.json) |
 | Scorched Warfare | 323959 | [323959-scorched-warfare.json](./323959-scorched-warfare.json) |
 | Scorcher | 115550 | [115550-scorcher.json](./115550-scorcher.json) |
+| Scorcher | 50381 | [50381-scorcher.json](./50381-scorcher.json) |
 | Scorchie Adventures | 306579 | [306579-scorchie-adventures.json](./306579-scorchie-adventures.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
@@ -8149,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smugglers 5: Invasion - Warrior Within | 170285 | [170285-smugglers-5-invasion-warrior-within.json](./170285-smugglers-5-invasion-warrior-within.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
+| Smugglers V - Secession | 50422 | [50422-smugglers-v-secession.json](./50422-smugglers-v-secession.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
 | Smurf | 198891 | [198891-smurf.json](./198891-smurf.json) |
 | Smurf | 198892 | [198892-smurf.json](./198892-smurf.json) |
@@ -11604,6 +11606,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear of Destiny | 306981 | [306981-spear-of-destiny.json](./306981-spear-of-destiny.json) |
 | Spear of Destiny | 6633 | [6633-spear-of-destiny.json](./6633-spear-of-destiny.json) |
 | Spear of Destiny Super CD Pack | 306973 | [306973-spear-of-destiny-super-cd-pack.json](./306973-spear-of-destiny-super-cd-pack.json) |
+| Spear of Destiny: Mission 2 - Return to Danger | 50430 | [50430-spear-of-destiny-mission-2-return-to-danger.json](./50430-spear-of-destiny-mission-2-return-to-danger.json) |
+| Spear of Destiny: Mission 3 - Ultimate Challenge | 50429 | [50429-spear-of-destiny-mission-3-ultimate-challenge.json](./50429-spear-of-destiny-mission-3-ultimate-challenge.json) |
 | Spear of Destiny: The Final Journey | 177043 | [177043-spear-of-destiny-the-final-journey.json](./177043-spear-of-destiny-the-final-journey.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
 | Spear Throwing Challange | 135619 | [135619-spear-throwing-challange.json](./135619-spear-throwing-challange.json) |
@@ -13664,6 +13668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: First Contact | 71059 | [71059-star-trek-first-contact.json](./71059-star-trek-first-contact.json) |
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Generations - Beyond the Nexus | 46335 | [46335-star-trek-generations-beyond-the-nexus.json](./46335-star-trek-generations-beyond-the-nexus.json) |
+| Star Trek: Hidden Evil | 50392 | [50392-star-trek-hidden-evil.json](./50392-star-trek-hidden-evil.json) |
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
@@ -13682,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation | 198904 | [198904-star-trek-the-next-generation.json](./198904-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
+| Star Trek: The Next Generation - Birth of the Federation | 50436 | [50436-star-trek-the-next-generation-birth-of-the-federation.json](./50436-star-trek-the-next-generation-birth-of-the-federation.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
