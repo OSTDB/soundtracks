@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
+| Wanted: Dead | 173091 | [173091-wanted-dead.json](./173091-wanted-dead.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanted: Dead or Alive | 333770 | [333770-wanted-dead-or-alive.json](./333770-wanted-dead-or-alive.json) |
 | Wanted: Romance Renegades | 238415 | [238415-wanted-romance-renegades.json](./238415-wanted-romance-renegades.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
 | WCW Diamond Dallas Page | 198955 | [198955-wcw-diamond-dallas-page.json](./198955-wcw-diamond-dallas-page.json) |
 | WCW Hollywood Hulk Hogan Power Fighter | 198958 | [198958-wcw-hollywood-hulk-hogan-power-fighter.json](./198958-wcw-hollywood-hulk-hogan-power-fighter.json) |
+| WCW Mayhem | 3633 | [3633-wcw-mayhem.json](./3633-wcw-mayhem.json) |
 | WCW Nitro | 3634 | [3634-wcw-nitro.json](./3634-wcw-nitro.json) |
 | WCW Nitro Giant | 198961 | [198961-wcw-nitro-giant.json](./198961-wcw-nitro-giant.json) |
 | WCW Nitro Goldberg Smash & Bash Game | 198959 | [198959-wcw-nitro-goldberg-smash-and-bash-game.json](./198959-wcw-nitro-goldberg-smash-and-bash-game.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
+| Who's Lila? | 159536 | [159536-whos-lila.json](./159536-whos-lila.json) |
 | Who's My Secret Santa? | 399685 | [399685-whos-my-secret-santa.json](./399685-whos-my-secret-santa.json) |
 | Who's Next? | 293613 | [293613-whos-next.json](./293613-whos-next.json) |
 | Who's That Pokémon? | 191640 | [191640-whos-that-pokemon.json](./191640-whos-that-pokemon.json) |
@@ -3918,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
+| Wizardry: Proving Grounds of the Mad Overlord | 2863 | [2863-wizardry-proving-grounds-of-the-mad-overlord.json](./2863-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Tale of the Forsaken Land | 43620 | [43620-wizardry-tale-of-the-forsaken-land.json](./43620-wizardry-tale-of-the-forsaken-land.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Five Ordeals - Scenario "Prisoners of the Battles" | 242525 | [242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json](./242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json) |
@@ -4944,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
 | World War Z | 115272 | [115272-world-war-z.json](./115272-world-war-z.json) |
+| World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
