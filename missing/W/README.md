@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W3Champions | 316722 | [316722-w3champions.json](./316722-w3champions.json) |
+| W3DR | 50448 | [50448-w3dr.json](./50448-w3dr.json) |
 | W3llidk’s Bean Game | 406260 | [406260-w3llidk-s-bean-game.json](./406260-w3llidk-s-bean-game.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
 | Warbirds of WWII | 68094 | [68094-warbirds-of-wwii.json](./68094-warbirds-of-wwii.json) |
+| WarBirds Red Baron | 50397 | [50397-warbirds-red-baron.json](./50397-warbirds-red-baron.json) |
 | Warbit | 33433 | [33433-warbit.json](./33433-warbit.json) |
 | Warbit Union | 184385 | [184385-warbit-union.json](./184385-warbit-union.json) |
 | Warbits+ | 245923 | [245923-warbits.json](./245923-warbits.json) |
@@ -3238,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windah Horror Adventure | 330346 | [330346-windah-horror-adventure.json](./330346-windah-horror-adventure.json) |
 | Windah Horror Adventure 2 | 287698 | [287698-windah-horror-adventure-2.json](./287698-windah-horror-adventure-2.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
+| Windchaser | 50435 | [50435-windchaser.json](./50435-windchaser.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
 | Windfall | 80785 | [80785-windfall.json](./80785-windfall.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
