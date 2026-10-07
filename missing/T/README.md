@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentaculon | 57487 | [57487-tentaculon.json](./57487-tentaculon.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
 | Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
+| Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Tenya Wanya Teens | 63667 | [63667-tenya-wanya-teens.json](./63667-tenya-wanya-teens.json) |
@@ -6159,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
+| The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
@@ -13133,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
+| Timecues | 56915 | [56915-timecues.json](./56915-timecues.json) |
 | TimeFall | 116272 | [116272-timefall.json](./116272-timefall.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
