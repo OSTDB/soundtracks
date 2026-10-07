@@ -6322,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
+| The Idolmaster: One For All | 7465 | [7465-the-idolmaster-one-for-all.json](./7465-the-idolmaster-one-for-all.json) |
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
@@ -11893,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
+| ThunderCats: The Lost Eye of Thundera | 8059 | [8059-thundercats-the-lost-eye-of-thundera.json](./8059-thundercats-the-lost-eye-of-thundera.json) |
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
 | Thunderdawn | 342615 | [342615-thunderdawn.json](./342615-thunderdawn.json) |
@@ -13468,6 +13470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dangerous Dungeons | 114972 | [114972-tiny-dangerous-dungeons.json](./114972-tiny-dangerous-dungeons.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Defender | 149538 | [149538-tiny-defender.json](./149538-tiny-defender.json) |
+| Tiny Defense | 7935 | [7935-tiny-defense.json](./7935-tiny-defense.json) |
 | Tiny Defense 2 | 102602 | [102602-tiny-defense-2.json](./102602-tiny-defense-2.json) |
 | Tiny Defense 2 - Mini Robot Wars | 105764 | [105764-tiny-defense-2-mini-robot-wars.json](./105764-tiny-defense-2-mini-robot-wars.json) |
 | Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
@@ -13595,11 +13598,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
 | Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
 | Tiny Toon Adventures | 198943 | [198943-tiny-toon-adventures.json](./198943-tiny-toon-adventures.json) |
+| Tiny Toon Adventures Cartoon Workshop | 8045 | [8045-tiny-toon-adventures-cartoon-workshop.json](./8045-tiny-toon-adventures-cartoon-workshop.json) |
 | Tiny Toon Adventures: Acme All-Stars | 8052 | [8052-tiny-toon-adventures-acme-all-stars.json](./8052-tiny-toon-adventures-acme-all-stars.json) |
 | Tiny Toon Adventures: Buster Busts Loose! | 8050 | [8050-tiny-toon-adventures-buster-busts-loose.json](./8050-tiny-toon-adventures-buster-busts-loose.json) |
+| Tiny Toon Adventures: Buster Saves the Day | 8057 | [8057-tiny-toon-adventures-buster-saves-the-day.json](./8057-tiny-toon-adventures-buster-saves-the-day.json) |
 | Tiny Toon Adventures: Buster's Hidden Treasure | 8049 | [8049-tiny-toon-adventures-busters-hidden-treasure.json](./8049-tiny-toon-adventures-busters-hidden-treasure.json) |
 | Tiny Toon Adventures: Defenders of the Universe | 206214 | [206214-tiny-toon-adventures-defenders-of-the-universe.json](./206214-tiny-toon-adventures-defenders-of-the-universe.json) |
+| Tiny Toon Adventures: Dizzy's Candy Quest | 8058 | [8058-tiny-toon-adventures-dizzys-candy-quest.json](./8058-tiny-toon-adventures-dizzys-candy-quest.json) |
 | Tiny Toon Adventures: Plucky Duck in Hollywood Hijinks | 270276 | [270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json](./270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json) |
+| Tiny Toon Adventures: Plucky's Big Adventure | 8056 | [8056-tiny-toon-adventures-pluckys-big-adventure.json](./8056-tiny-toon-adventures-pluckys-big-adventure.json) |
+| Tiny Toon Adventures: Toonenstein - Dare to Scare! | 8055 | [8055-tiny-toon-adventures-toonenstein-dare-to-scare.json](./8055-tiny-toon-adventures-toonenstein-dare-to-scare.json) |
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
@@ -14247,12 +14255,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom and Jerry | 218399 | [218399-tom-and-jerry.json](./218399-tom-and-jerry.json) |
 | Tom and Jerry | 8025 | [8025-tom-and-jerry.json](./8025-tom-and-jerry.json) |
+| Tom and Jerry Cheese Chase | 8044 | [8044-tom-and-jerry-cheese-chase.json](./8044-tom-and-jerry-cheese-chase.json) |
 | Tom and Jerry in House Trap | 368636 | [368636-tom-and-jerry-in-house-trap.json](./368636-tom-and-jerry-in-house-trap.json) |
+| Tom and Jerry in Infurnal Escape | 8029 | [8029-tom-and-jerry-in-infurnal-escape.json](./8029-tom-and-jerry-in-infurnal-escape.json) |
+| Tom and Jerry in Mouse Attacks | 8033 | [8033-tom-and-jerry-in-mouse-attacks.json](./8033-tom-and-jerry-in-mouse-attacks.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Chase | 137415 | [137415-tom-and-jerry-chase.json](./137415-tom-and-jerry-chase.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
+| Tom and Jerry: Mouse Hunt | 8031 | [8031-tom-and-jerry-mouse-hunt.json](./8031-tom-and-jerry-mouse-hunt.json) |
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
+| Tom and Jerry: The Magic Ring | 8030 | [8030-tom-and-jerry-the-magic-ring.json](./8030-tom-and-jerry-the-magic-ring.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
@@ -17451,6 +17464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triad Stone | 63931 | [63931-triad-stone.json](./63931-triad-stone.json) |
 | Triad Volume 1 | 93153 | [93153-triad-volume-1.json](./93153-triad-volume-1.json) |
 | Triad Volume 2 | 78888 | [78888-triad-volume-2.json](./78888-triad-volume-2.json) |
+| Triad Wars | 7491 | [7491-triad-wars.json](./7491-triad-wars.json) |
 | Triadino | 277342 | [277342-triadino.json](./277342-triadino.json) |
 | Triage | 228341 | [228341-triage.json](./228341-triage.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
