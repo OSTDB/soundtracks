@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
+| Unsolved Case | 216491 | [216491-unsolved-case.json](./216491-unsolved-case.json) |
 | Unsolved Case: Ash and Secrets | 340997 | [340997-unsolved-case-ash-and-secrets.json](./340997-unsolved-case-ash-and-secrets.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
 | Unsolved Case: Fatal Clue - Collector's Edition | 235801 | [235801-unsolved-case-fatal-clue-collectors-edition.json](./235801-unsolved-case-fatal-clue-collectors-edition.json) |
