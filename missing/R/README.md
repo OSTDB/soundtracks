@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
 | Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
 | Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
+| Red Ash: The Indelible Legend | 15708 | [15708-red-ash-the-indelible-legend.json](./15708-red-ash-the-indelible-legend.json) |
 | Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
 | Red Ball 2 | 166520 | [166520-red-ball-2.json](./166520-red-ball-2.json) |
@@ -3111,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Reseed | 372063 | [372063-reseed.json](./372063-reseed.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
+| Reset | 15831 | [15831-reset.json](./15831-reset.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
@@ -5617,6 +5619,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Rods: Rod Roll | 316152 | [316152-rods-rod-roll.json](./316152-rods-rod-roll.json) |
 | Rody & Mastico | 13077 | [13077-rody-and-mastico.json](./13077-rody-and-mastico.json) |
+| Rody & Mastico II | 15357 | [15357-rody-and-mastico-ii.json](./15357-rody-and-mastico-ii.json) |
+| Rody & Mastico III | 15358 | [15358-rody-and-mastico-iii.json](./15358-rody-and-mastico-iii.json) |
+| Rody & Mastico IV: Noël | 15359 | [15359-rody-and-mastico-iv-noel.json](./15359-rody-and-mastico-iv-noel.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
@@ -6384,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotorize | 92084 | [92084-rotorize.json](./92084-rotorize.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
+| Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
