@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2009 | 4837 | [4837-f1-2009.json](./4837-f1-2009.json) |
 | F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
+| F1 2018 | 101439 | [101439-f1-2018.json](./101439-f1-2018.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
 | Far Worlds | 138662 | [138662-far-worlds.json](./138662-far-worlds.json) |
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
+| Far: Changing Tides | 152259 | [152259-far-changing-tides.json](./152259-far-changing-tides.json) |
 | FAR: Changing Tides - Deluxe Edition | 187823 | [187823-far-changing-tides-deluxe-edition.json](./187823-far-changing-tides-deluxe-edition.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
