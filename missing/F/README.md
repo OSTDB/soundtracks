@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight LNS Ultimate | 230871 | [230871-final-fight-lns-ultimate.json](./230871-final-fight-lns-ultimate.json) |
 | Final Fight MD | 407523 | [407523-final-fight-md.json](./407523-final-fight-md.json) |
 | Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
+| Final Fight Revenge | 1659 | [1659-final-fight-revenge.json](./1659-final-fight-revenge.json) |
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
@@ -6951,9 +6952,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
+| Front Mission 2 | 1500 | [1500-front-mission-2.json](./1500-front-mission-2.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
+| Front Mission 2089 | 1504 | [1504-front-mission-2089.json](./1504-front-mission-2089.json) |
+| Front Mission 2089-II | 1507 | [1507-front-mission-2089-ii.json](./1507-front-mission-2089-ii.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
 | Front Mission 3: Remake | 217552 | [217552-front-mission-3-remake.json](./217552-front-mission-3-remake.json) |
+| Front Mission 5: Scars of the War | 1506 | [1506-front-mission-5-scars-of-the-war.json](./1506-front-mission-5-scars-of-the-war.json) |
+| Front Mission Alternative | 1501 | [1501-front-mission-alternative.json](./1501-front-mission-alternative.json) |
 | Front Mission Evolved: Last Stand | 140460 | [140460-front-mission-evolved-last-stand.json](./140460-front-mission-evolved-last-stand.json) |
 | Front Mission Evolved: Map Pack | 140461 | [140461-front-mission-evolved-map-pack.json](./140461-front-mission-evolved-map-pack.json) |
 | Front Mission Evolved: Wanzer Pack 2 | 140458 | [140458-front-mission-evolved-wanzer-pack-2.json](./140458-front-mission-evolved-wanzer-pack-2.json) |
@@ -6962,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission Evolved: Wanzer Weapons Pack 2 | 140457 | [140457-front-mission-evolved-wanzer-weapons-pack-2.json](./140457-front-mission-evolved-wanzer-weapons-pack-2.json) |
 | Front Mission Remake Trilogy | 356825 | [356825-front-mission-remake-trilogy.json](./356825-front-mission-remake-trilogy.json) |
 | Front Mission: Gun Hazard | 1499 | [1499-front-mission-gun-hazard.json](./1499-front-mission-gun-hazard.json) |
+| Front Mission: Online | 1505 | [1505-front-mission-online.json](./1505-front-mission-online.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football | 92050 | [92050-front-office-football.json](./92050-front-office-football.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
