@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal | 12806 | [12806-unreal.json](./12806-unreal.json) |
 | Unreal Anthology | 237294 | [237294-unreal-anthology.json](./237294-unreal-anthology.json) |
 | Unreal Championship | 6220 | [6220-unreal-championship.json](./6220-unreal-championship.json) |
+| Unreal Championship 2: The Liandri Conflict | 6221 | [6221-unreal-championship-2-the-liandri-conflict.json](./6221-unreal-championship-2-the-liandri-conflict.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
 | Unreal Engine The Legend of Zelda: Ocarina of Time | 199421 | [199421-unreal-engine-the-legend-of-zelda-ocarina-of-time.json](./199421-unreal-engine-the-legend-of-zelda-ocarina-of-time.json) |
 | Unreal Estate | 44103 | [44103-unreal-estate.json](./44103-unreal-estate.json) |
