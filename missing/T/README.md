@@ -10378,6 +10378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Topoq | 66897 | [66897-the-trials-of-topoq.json](./66897-the-trials-of-topoq.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
 | The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
+| The Tribez | 38870 | [38870-the-tribez.json](./38870-the-tribez.json) |
+| The Tribez & Castlez | 38869 | [38869-the-tribez-and-castlez.json](./38869-the-tribez-and-castlez.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Trickster's Domain | 282619 | [282619-the-tricksters-domain.json](./282619-the-tricksters-domain.json) |
@@ -11530,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
+| Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
@@ -15860,6 +15863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Empire | 391786 | [391786-trade-empire.json](./391786-trade-empire.json) |
 | Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
+| Trade Nations | 38891 | [38891-trade-nations.json](./38891-trade-nations.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
