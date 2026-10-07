@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | [Untitled] | 261441 | [261441-untitled.json](./261441-untitled.json) |
 | {Undefined} | 159190 | [159190-undefined.json](./159190-undefined.json) |
+| @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
 | *Hello, Planet. | 142744 | [142744-hello-planet.json](./142744-hello-planet.json) |
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
+| 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
