@@ -2586,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
 | Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
+| Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Memory | 286216 | [286216-inside-the-memory.json](./286216-inside-the-memory.json) |
