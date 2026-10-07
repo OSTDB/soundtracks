@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScribbleDude | 127091 | [127091-scribbledude.json](./127091-scribbledude.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
 | Scribblemania | 327177 | [327177-scribblemania.json](./327177-scribblemania.json) |
+| Scribblenauts | 8807 | [8807-scribblenauts.json](./8807-scribblenauts.json) |
 | Scribblenauts Collection | 47914 | [47914-scribblenauts-collection.json](./47914-scribblenauts-collection.json) |
 | Scribblenauts Mega Pack | 104660 | [104660-scribblenauts-mega-pack.json](./104660-scribblenauts-mega-pack.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
@@ -9781,8 +9782,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and Mario | 330722 | [330722-sonic-and-mario.json](./330722-sonic-and-mario.json) |
 | Sonic and Meister | 331442 | [331442-sonic-and-meister.json](./331442-sonic-and-meister.json) |
 | Sonic and the Bayan Isles | 417657 | [417657-sonic-and-the-bayan-isles.json](./417657-sonic-and-the-bayan-isles.json) |
+| Sonic and the Black Knight | 5166 | [5166-sonic-and-the-black-knight.json](./5166-sonic-and-the-black-knight.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
+| Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
 | Sonic and the Sunken Temple | 326159 | [326159-sonic-and-the-sunken-temple.json](./326159-sonic-and-the-sunken-temple.json) |
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
 | Sonic Arena | 331867 | [331867-sonic-arena.json](./331867-sonic-arena.json) |
@@ -15761,6 +15764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
+| Stranger of Paradise: Final Fantasy Origin | 152250 | [152250-stranger-of-paradise-final-fantasy-origin.json](./152250-stranger-of-paradise-final-fantasy-origin.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
@@ -16463,6 +16467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Styx: Master of Shadows | 6072 | [6072-styx-master-of-shadows.json](./6072-styx-master-of-shadows.json) |
+| Styx: Shards of Darkness | 13554 | [13554-styx-shards-of-darkness.json](./13554-styx-shards-of-darkness.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
