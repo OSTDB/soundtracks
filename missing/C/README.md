@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Heist Simulator: Thief Mechanic | 328564 | [328564-car-heist-simulator-thief-mechanic.json](./328564-car-heist-simulator-thief-mechanic.json) |
 | Car II: Grandprix | 239570 | [239570-car-ii-grandprix.json](./239570-car-ii-grandprix.json) |
+| Car Jack Streets | 44498 | [44498-car-jack-streets.json](./44498-car-jack-streets.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
@@ -6363,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae Rally | 7967 | [7967-colin-mcrae-rally.json](./7967-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
+| Colin McRae Rally 2005 Plus | 44470 | [44470-colin-mcrae-rally-2005-plus.json](./44470-colin-mcrae-rally-2005-plus.json) |
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
