@@ -5699,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
+| Ann | 165483 | [165483-ann.json](./165483-ann.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna Apocalypse | 330372 | [330372-anna-apocalypse.json](./330372-anna-apocalypse.json) |
 | Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
@@ -7868,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
+| Arslan: The Warriors of Legend | 11489 | [11489-arslan-the-warriors-of-legend.json](./11489-arslan-the-warriors-of-legend.json) |
 | ARSoccer | 343471 | [343471-arsoccer.json](./343471-arsoccer.json) |
 | Arsolid Productions | 201660 | [201660-arsolid-productions.json](./201660-arsolid-productions.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
