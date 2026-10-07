@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Paws | 105443 | [105443-garden-paws.json](./105443-garden-paws.json) |
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Renovator | 224606 | [224606-garden-renovator.json](./224606-garden-renovator.json) |
+| Garden Rescue: Christmas Edition | 34078 | [34078-garden-rescue-christmas-edition.json](./34078-garden-rescue-christmas-edition.json) |
 | Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
@@ -3052,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | Go Team Yeah | 185463 | [185463-go-team-yeah.json](./185463-go-team-yeah.json) |
 | Go There | 240742 | [240742-go-there.json](./240742-go-there.json) |
+| Go to Bed: Survive the Night | 34144 | [34144-go-to-bed-survive-the-night.json](./34144-go-to-bed-survive-the-night.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to Hell | 218538 | [218538-go-to-hell.json](./218538-go-to-hell.json) |
@@ -6160,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | Gunslinger Valley | 187387 | [187387-gunslinger-valley.json](./187387-gunslinger-valley.json) |
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
+| Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
