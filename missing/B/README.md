@@ -7004,6 +7004,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Legends | 198215 | [198215-bomberman-legends.json](./198215-bomberman-legends.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
+| Bomberman Max: Blue Champion | 49839 | [49839-bomberman-max-blue-champion.json](./49839-bomberman-max-blue-champion.json) |
+| Bomberman Max: Red Challenger | 49838 | [49838-bomberman-max-red-challenger.json](./49838-bomberman-max-red-challenger.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
 | Bomberman Quest | 49837 | [49837-bomberman-quest.json](./49837-bomberman-quest.json) |
 | Bomberman Reprint | 198212 | [198212-bomberman-reprint.json](./198212-bomberman-reprint.json) |
@@ -9995,6 +9997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-a-Move DS | 22572 | [22572-bust-a-move-ds.json](./22572-bust-a-move-ds.json) |
 | Bust-A-Move Frenzy | 138682 | [138682-bust-a-move-frenzy.json](./138682-bust-a-move-frenzy.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
+| Bust-A-Move Millennium | 49836 | [49836-bust-a-move-millennium.json](./49836-bust-a-move-millennium.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
