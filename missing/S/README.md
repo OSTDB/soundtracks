@@ -6126,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
 | Simple 1500 Series Vol. 17: The Bike Race | 59052 | [59052-simple-1500-series-vol-17-the-bike-race.json](./59052-simple-1500-series-vol-17-the-bike-race.json) |
 | Simple 1500 Series Vol. 2: The Shogi | 70571 | [70571-simple-1500-series-vol-2-the-shogi.json](./70571-simple-1500-series-vol-2-the-shogi.json) |
+| Simple 1500 Series Vol. 22: The Pro Wrestling | 45221 | [45221-simple-1500-series-vol-22-the-pro-wrestling.json](./45221-simple-1500-series-vol-22-the-pro-wrestling.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 52: The Pro Wrestling 2 | 44754 | [44754-simple-1500-series-vol-52-the-pro-wrestling-2.json](./44754-simple-1500-series-vol-52-the-pro-wrestling-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
@@ -8272,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
+| Snake Escape | 45245 | [45245-snake-escape.json](./45245-snake-escape.json) |
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
 | Snake Eyes | 208983 | [208983-snake-eyes.json](./208983-snake-eyes.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
@@ -13185,6 +13187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX Blur | 4178 | [4178-ssx-blur.json](./4178-ssx-blur.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
+| St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
 | ST Wars | 44081 | [44081-st-wars.json](./44081-st-wars.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
@@ -15776,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
+| Street Fighter Collection | 45193 | [45193-street-fighter-collection.json](./45193-street-fighter-collection.json) |
 | Street Fighter Collection 2 | 44911 | [44911-street-fighter-collection-2.json](./44911-street-fighter-collection-2.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
@@ -15831,6 +15835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X All Capcom | 80847 | [80847-street-fighter-x-all-capcom.json](./80847-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
+| Street Fighter X Tekken: Special Edition | 45197 | [45197-street-fighter-x-tekken-special-edition.json](./45197-street-fighter-x-tekken-special-edition.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
