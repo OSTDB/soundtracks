@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
 | Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
+| Daffy Duck: Fowl Play | 25800 | [25800-daffy-duck-fowl-play.json](./25800-daffy-duck-fowl-play.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
+| Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
@@ -3862,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
+| Desert Bus | 25792 | [25792-desert-bus.json](./25792-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
 | Desert Bus | 356780 | [356780-desert-bus.json](./356780-desert-bus.json) |
 | Desert Bus | 86206 | [86206-desert-bus.json](./86206-desert-bus.json) |
@@ -6431,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
+| Dog Star Adventure | 25588 | [25588-dog-star-adventure.json](./25588-dog-star-adventure.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
