@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
+| Kao the Kangaroo: Round 2 | 3962 | [3962-kao-the-kangaroo-round-2.json](./3962-kao-the-kangaroo-round-2.json) |
 | Kao the Kangaroo: Summer Drip | 255089 | [255089-kao-the-kangaroo-summer-drip.json](./255089-kao-the-kangaroo-summer-drip.json) |
 | Kao The Kangaroo: Top Of The Class | 290412 | [290412-kao-the-kangaroo-top-of-the-class.json](./290412-kao-the-kangaroo-top-of-the-class.json) |
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
