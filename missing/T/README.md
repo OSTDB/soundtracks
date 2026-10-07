@@ -783,7 +783,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Misteria | 204551 | [204551-tales-of-misteria.json](./204551-tales-of-misteria.json) |
 | Tales of Monkey Island | 64 | [64-tales-of-monkey-island.json](./64-tales-of-monkey-island.json) |
 | Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal | 81262 | [81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json](./81262-tales-of-monkey-island-chapter-1-launch-of-the-screaming-narwhal.json) |
+| Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay | 81263 | [81263-tales-of-monkey-island-chapter-2-the-siege-of-spinner-cay.json](./81263-tales-of-monkey-island-chapter-2-the-siege-of-spinner-cay.json) |
 | Tales of Monkey Island: Chapter 3 - Lair of the Leviathan | 81269 | [81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json](./81269-tales-of-monkey-island-chapter-3-lair-of-the-leviathan.json) |
+| Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood | 81268 | [81268-tales-of-monkey-island-chapter-4-the-trial-and-execution-of-guybrush-threepwood.json](./81268-tales-of-monkey-island-chapter-4-the-trial-and-execution-of-guybrush-threepwood.json) |
+| Tales of Monkey Island: Chapter 5 - Rise of the Pirate God | 81266 | [81266-tales-of-monkey-island-chapter-5-rise-of-the-pirate-god.json](./81266-tales-of-monkey-island-chapter-5-rise-of-the-pirate-god.json) |
 | Tales of Monsterland DX | 307196 | [307196-tales-of-monsterland-dx.json](./307196-tales-of-monsterland-dx.json) |
 | Tales of Moriviha: Deadly Secret | 276162 | [276162-tales-of-moriviha-deadly-secret.json](./276162-tales-of-moriviha-deadly-secret.json) |
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
@@ -5405,6 +5408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
+| The Fancy Pants Adventures: World 1 | 66010 | [66010-the-fancy-pants-adventures-world-1.json](./66010-the-fancy-pants-adventures-world-1.json) |
 | The Fancy Pants Adventures: World 1 Remaster | 144384 | [144384-the-fancy-pants-adventures-world-1-remaster.json](./144384-the-fancy-pants-adventures-world-1-remaster.json) |
 | The Fancy Pants Adventures: World 2 | 66009 | [66009-the-fancy-pants-adventures-world-2.json](./66009-the-fancy-pants-adventures-world-2.json) |
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
@@ -18123,6 +18127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troublemaker 2: Beyond Dream | 271907 | [271907-troublemaker-2-beyond-dream.json](./271907-troublemaker-2-beyond-dream.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubles Land | 34584 | [34584-troubles-land.json](./34584-troubles-land.json) |
+| Troubleshooter: Abandoned Children | 80002 | [80002-troubleshooter-abandoned-children.json](./80002-troubleshooter-abandoned-children.json) |
 | Troubleshooter: Abandoned Children - Crimson Crow | 224997 | [224997-troubleshooter-abandoned-children-crimson-crow.json](./224997-troubleshooter-abandoned-children-crimson-crow.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
