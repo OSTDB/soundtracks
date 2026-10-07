@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
+| Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
