@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
+| He-162 Volksjäger: Tour of Duty | 182 | [182-he-162-volksjager-tour-of-duty.json](./182-he-162-volksjager-tour-of-duty.json) |
 | He-Man | 198343 | [198343-he-man.json](./198343-he-man.json) |
 | He-Man and the Masters of the Universe: Dragon Pearl of Destruction | 361830 | [361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json](./361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json) |
 | He-Man: The Most Powerful Game in the Universe | 39210 | [39210-he-man-the-most-powerful-game-in-the-universe.json](./39210-he-man-the-most-powerful-game-in-the-universe.json) |
