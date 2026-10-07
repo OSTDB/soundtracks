@@ -10,7 +10,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
 | P-3 Biotic | 36257 | [36257-p-3-biotic.json](./36257-p-3-biotic.json) |
 | P-38 Lightning | 208986 | [208986-p-38-lightning.json](./208986-p-38-lightning.json) |
+| P-38 Lightning Tour of Duty | 197 | [197-p-38-lightning-tour-of-duty.json](./197-p-38-lightning-tour-of-duty.json) |
 | P-52 Sea Battle | 195050 | [195050-p-52-sea-battle.json](./195050-p-52-sea-battle.json) |
+| P-80 Shooting Star Tour of Duty | 198 | [198-p-80-shooting-star-tour-of-duty.json](./198-p-80-shooting-star-tour-of-duty.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P.A.S. | 105431 | [105431-p-a-s.json](./105431-p-a-s.json) |
