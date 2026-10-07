@@ -3935,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bia | 183921 | [183921-bia.json](./183921-bia.json) |
 | Bianka Lovesick | 363025 | [363025-bianka-lovesick.json](./363025-bianka-lovesick.json) |
 | Bias Quartet | 376672 | [376672-bias-quartet.json](./376672-bias-quartet.json) |
+| Biathlon 2003 | 56877 | [56877-biathlon-2003.json](./56877-biathlon-2003.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina: Das grosse Reiterfest | 268112 | [268112-bibi-and-tina-das-grosse-reiterfest.json](./268112-bibi-and-tina-das-grosse-reiterfest.json) |
@@ -6769,6 +6770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boki: The Summit | 271913 | [271913-boki-the-summit.json](./271913-boki-the-summit.json) |
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
+| Bokosuka Wars II | 56884 | [56884-bokosuka-wars-ii.json](./56884-bokosuka-wars-ii.json) |
 | Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
