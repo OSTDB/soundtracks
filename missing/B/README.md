@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholgar II | 350035 | [350035-beholgar-ii.json](./350035-beholgar-ii.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeHop Ranger And The Spicy Wizards | 299847 | [299847-behop-ranger-and-the-spicy-wizards.json](./299847-behop-ranger-and-the-spicy-wizards.json) |
+| Beijing 2008 | 6910 | [6910-beijing-2008.json](./6910-beijing-2008.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
@@ -6953,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokosuka Wars | 48540 | [48540-bokosuka-wars.json](./48540-bokosuka-wars.json) |
 | Bokosuka Wars II | 56884 | [56884-bokosuka-wars-ii.json](./56884-bokosuka-wars-ii.json) |
 | Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
+| Boktai: The Sun Is in Your Hand | 6326 | [6326-boktai-the-sun-is-in-your-hand.json](./6326-boktai-the-sun-is-in-your-hand.json) |
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
@@ -9013,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronx | 122240 | [122240-bronx.json](./122240-bronx.json) |
 | Brony Cards | 312214 | [312214-brony-cards.json](./312214-brony-cards.json) |
 | Bronze | 60031 | [60031-bronze.json](./60031-bronze.json) |
+| Bronze Age | 65827 | [65827-bronze-age.json](./65827-bronze-age.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
