@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII | 117509 | [117509-xiii.json](./117509-xiii.json) |
 | XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
+| XIII: Lost Identity | 53101 | [53101-xiii-lost-identity.json](./53101-xiii-lost-identity.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
 | Ximen Lizhi Biography | 278639 | [278639-ximen-lizhi-biography.json](./278639-ximen-lizhi-biography.json) |
@@ -483,6 +484,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
 | Xīn Suǒ Xiàngwǎng de Běijíxīng | 375426 | [375426-xin-suo-xiangwang-de-beijixing.json](./375426-xin-suo-xiangwang-de-beijixing.json) |
 | Xin Yuejian Hen | 78919 | [78919-xin-yuejian-hen.json](./78919-xin-yuejian-hen.json) |
+| Xing Chess | 53100 | [53100-xing-chess.json](./53100-xing-chess.json) |
+| Xing Kakuro | 53099 | [53099-xing-kakuro.json](./53099-xing-kakuro.json) |
 | Xing: The Land Beyond | 36300 | [36300-xing-the-land-beyond.json](./36300-xing-the-land-beyond.json) |
 | Xingchenbian Online | 367952 | [367952-xingchenbian-online.json](./367952-xingchenbian-online.json) |
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
