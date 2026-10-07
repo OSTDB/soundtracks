@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc Fox | 215099 | [215099-havoc-fox.json](./215099-havoc-fox.json) |
 | Havoc in heaven | 96120 | [96120-havoc-in-heaven.json](./96120-havoc-in-heaven.json) |
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
+| Havocado | 113895 | [113895-havocado.json](./113895-havocado.json) |
 | Havsala: Into the Soul Palace | 193493 | [193493-havsala-into-the-soul-palace.json](./193493-havsala-into-the-soul-palace.json) |
 | Hawaii Detective: Killing of a Krypto King | 251806 | [251806-hawaii-detective-killing-of-a-krypto-king.json](./251806-hawaii-detective-killing-of-a-krypto-king.json) |
 | Hawaii High: Mystery of the Tiki | 395094 | [395094-hawaii-high-mystery-of-the-tiki.json](./395094-hawaii-high-mystery-of-the-tiki.json) |
