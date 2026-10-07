@@ -4801,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
 | World Series Baseball | 171986 | [171986-world-series-baseball.json](./171986-world-series-baseball.json) |
 | World Series Baseball | 247009 | [247009-world-series-baseball.json](./247009-world-series-baseball.json) |
+| World Series Baseball | 46546 | [46546-world-series-baseball.json](./46546-world-series-baseball.json) |
 | World Series Baseball | 81662 | [81662-world-series-baseball.json](./81662-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
 | World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
