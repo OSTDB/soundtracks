@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West | 389685 | [389685-west.json](./389685-west.json) |
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
+| West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willow | 74395 | [74395-willow.json](./74395-willow.json) |
 | Willow Guard | 265256 | [265256-willow-guard.json](./265256-willow-guard.json) |
 | Willow Guard: Frostreign | 398430 | [398430-willow-guard-frostreign.json](./398430-willow-guard-frostreign.json) |
+| Willow Pattern | 26453 | [26453-willow-pattern.json](./26453-willow-pattern.json) |
 | Willow: The Last Archivist | 402509 | [402509-willow-the-last-archivist.json](./402509-willow-the-last-archivist.json) |
 | Willow’s Descent: Into the Under | 374760 | [374760-willow-s-descent-into-the-under.json](./374760-willow-s-descent-into-the-under.json) |
 | Willows: A Dream of Shadows | 385330 | [385330-willows-a-dream-of-shadows.json](./385330-willows-a-dream-of-shadows.json) |
