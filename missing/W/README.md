@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
+| Wings of Vi | 9284 | [9284-wings-of-vi.json](./9284-wings-of-vi.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings of War | 6235 | [6235-wings-of-war.json](./6235-wings-of-war.json) |
 | Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
