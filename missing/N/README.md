@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | Neocon Tower Defence 3 | 297157 | [297157-neocon-tower-defence-3.json](./297157-neocon-tower-defence-3.json) |
+| Neocron | 19706 | [19706-neocron.json](./19706-neocron.json) |
 | NeoCube | 148418 | [148418-neocube.json](./148418-neocube.json) |
 | NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodarlo | 380655 | [380655-neodarlo.json](./380655-neodarlo.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoSprint | 295286 | [295286-neosprint.json](./295286-neosprint.json) |
 | Neotag League | 215629 | [215629-neotag-league.json](./215629-neotag-league.json) |
 | Neoteria | 61111 | [61111-neoteria.json](./61111-neoteria.json) |
+| NeoTokyo | 19676 | [19676-neotokyo.json](./19676-neotokyo.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
