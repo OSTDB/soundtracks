@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: Season Pass | 255679 | [255679-dnf-duel-season-pass.json](./255679-dnf-duel-season-pass.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Dnieper River Line | 24809 | [24809-dnieper-river-line.json](./24809-dnieper-river-line.json) |
+| Do 335 Pfeil Tour of Duty | 179 | [179-do-335-pfeil-tour-of-duty.json](./179-do-335-pfeil-tour-of-duty.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
