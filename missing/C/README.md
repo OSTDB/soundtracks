@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
 | Chicken Run | 248769 | [248769-chicken-run.json](./248769-chicken-run.json) |
+| Chicken Run | 6723 | [6723-chicken-run.json](./6723-chicken-run.json) |
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
 | Chicken Rune | 176320 | [176320-chicken-rune.json](./176320-chicken-rune.json) |
@@ -10507,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
+| CSI: Dark Motives | 7632 | [7632-csi-dark-motives.json](./7632-csi-dark-motives.json) |
 | CSI: Deadly Intent | 4780 | [4780-csi-deadly-intent.json](./4780-csi-deadly-intent.json) |
 | CSI: Hard Evidence | 4782 | [4782-csi-hard-evidence.json](./4782-csi-hard-evidence.json) |
 | CSI: Hidden Crimes | 61730 | [61730-csi-hidden-crimes.json](./61730-csi-hidden-crimes.json) |
