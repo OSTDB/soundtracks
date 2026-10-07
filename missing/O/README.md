@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Bon! Bon! Journey!! | 117667 | [117667-one-piece-bon-bon-journey.json](./117667-one-piece-bon-bon-journey.json) |
+| One Piece: Bounty Rush | 75300 | [75300-one-piece-bounty-rush.json](./75300-one-piece-bounty-rush.json) |
 | One Piece: Burning Blood | 18443 | [18443-one-piece-burning-blood.json](./18443-one-piece-burning-blood.json) |
 | One Piece: Burning Blood - Character Pack | 171053 | [171053-one-piece-burning-blood-character-pack.json](./171053-one-piece-burning-blood-character-pack.json) |
 | One Piece: Burning Blood - Marineford Edition | 51534 | [51534-one-piece-burning-blood-marineford-edition.json](./51534-one-piece-burning-blood-marineford-edition.json) |
@@ -2348,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ of Eden | 263002 | [263002-organ-of-eden.json](./263002-organ-of-eden.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
+| Organ Trail | 65257 | [65257-organ-trail.json](./65257-organ-trail.json) |
 | Organ Trail: Complete Edition | 99765 | [99765-organ-trail-complete-edition.json](./99765-organ-trail-complete-edition.json) |
 | Organ Trail: Director's Cut | 6859 | [6859-organ-trail-directors-cut.json](./6859-organ-trail-directors-cut.json) |
 | Organ Trail: Final Cut Expansion | 171428 | [171428-organ-trail-final-cut-expansion.json](./171428-organ-trail-final-cut-expansion.json) |
