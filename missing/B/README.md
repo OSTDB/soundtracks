@@ -1951,13 +1951,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham City Lockdown | 77258 | [77258-batman-arkham-city-lockdown.json](./77258-batman-arkham-city-lockdown.json) |
 | Batman: Arkham Collection | 112659 | [112659-batman-arkham-collection.json](./112659-batman-arkham-collection.json) |
+| Batman: Arkham Knight - 1989 Movie Batmobile Pack | 15520 | [15520-batman-arkham-knight-1989-movie-batmobile-pack.json](./15520-batman-arkham-knight-1989-movie-batmobile-pack.json) |
 | Batman: Arkham Knight - 1st Appearance Batman Skin | 25977 | [25977-batman-arkham-knight-1st-appearance-batman-skin.json](./25977-batman-arkham-knight-1st-appearance-batman-skin.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
 | Batman: Arkham Knight - A Matter of Family | 15519 | [15519-batman-arkham-knight-a-matter-of-family.json](./15519-batman-arkham-knight-a-matter-of-family.json) |
+| Batman: Arkham Knight - Bat-Family Skin Pack | 15521 | [15521-batman-arkham-knight-bat-family-skin-pack.json](./15521-batman-arkham-knight-bat-family-skin-pack.json) |
 | Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
 | Batman: Arkham Knight - Batman Flashpoint Skin | 25974 | [25974-batman-arkham-knight-batman-flashpoint-skin.json](./25974-batman-arkham-knight-batman-flashpoint-skin.json) |
 | Batman: Arkham Knight - Batman Inc. Skin | 25972 | [25972-batman-arkham-knight-batman-inc-skin.json](./25972-batman-arkham-knight-batman-inc-skin.json) |
 | Batman: Arkham Knight - Catwoman's Revenge | 15529 | [15529-batman-arkham-knight-catwomans-revenge.json](./15529-batman-arkham-knight-catwomans-revenge.json) |
+| Batman: Arkham Knight - Crime Fighter Challenge Pack 1 | 15522 | [15522-batman-arkham-knight-crime-fighter-challenge-pack-1.json](./15522-batman-arkham-knight-crime-fighter-challenge-pack-1.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 3 | 15528 | [15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json](./15528-batman-arkham-knight-crime-fighter-challenge-pack-3.json) |
 | Batman: Arkham Knight - Earth 2 Dark Knight Skin | 138216 | [138216-batman-arkham-knight-earth-2-dark-knight-skin.json](./138216-batman-arkham-knight-earth-2-dark-knight-skin.json) |
@@ -4611,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Glatorian Arena 2 | 343358 | [343358-bionicle-glatorian-arena-2.json](./343358-bionicle-glatorian-arena-2.json) |
 | Bionicle: Kapura Adventures | 195049 | [195049-bionicle-kapura-adventures.json](./195049-bionicle-kapura-adventures.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
+| Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
@@ -5780,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 2: Liberation | 11107 | [11107-blitzkrieg-2-liberation.json](./11107-blitzkrieg-2-liberation.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
+| Blitzkrieg May 1940 | 15702 | [15702-blitzkrieg-may-1940.json](./15702-blitzkrieg-may-1940.json) |
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
 | Blitzkrieg: Complete Collection | 52652 | [52652-blitzkrieg-complete-collection.json](./52652-blitzkrieg-complete-collection.json) |
 | Blitzkrieg: Iron Division | 11264 | [11264-blitzkrieg-iron-division.json](./11264-blitzkrieg-iron-division.json) |
@@ -6879,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! | 11141 | [11141-boing.json](./11141-boing.json) |
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
+| Boing! The Game | 15703 | [15703-boing-the-game.json](./15703-boing-the-game.json) |
 | Boingz | 51082 | [51082-boingz.json](./51082-boingz.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
