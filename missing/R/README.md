@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
 | Realm Survivors | 337163 | [337163-realm-survivors.json](./337163-realm-survivors.json) |
 | Realm Watch | 347371 | [347371-realm-watch.json](./347371-realm-watch.json) |
+| REalM: Walk of Soul | 34104 | [34104-realm-walk-of-soul.json](./34104-realm-walk-of-soul.json) |
 | RealmCraft | 86509 | [86509-realmcraft.json](./86509-realmcraft.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Tale | 126485 | [126485-rescue-tale.json](./126485-rescue-tale.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
+| Rescue Team 5 | 34082 | [34082-rescue-team-5.json](./34082-rescue-team-5.json) |
 | Rescue Team 6 | 53503 | [53503-rescue-team-6.json](./53503-rescue-team-6.json) |
 | Rescue Team 6: Collector's Edition | 30160 | [30160-rescue-team-6-collectors-edition.json](./30160-rescue-team-6-collectors-edition.json) |
 | Rescue Team 7 | 44193 | [44193-rescue-team-7.json](./44193-rescue-team-7.json) |
@@ -3729,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II Ver.D Revision+Ex | 268028 | [268028-revolgear-ii-ver-d-revision-ex.json](./268028-revolgear-ii-ver-d-revision-ex.json) |
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
+| Revolt | 34083 | [34083-revolt.json](./34083-revolt.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revoltaire | 182872 | [182872-revoltaire.json](./182872-revoltaire.json) |
 | Revolter | 227761 | [227761-revolter.json](./227761-revolter.json) |
@@ -4612,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
 | Rite of Ilk | 55066 | [55066-rite-of-ilk.json](./55066-rite-of-ilk.json) |
+| Rite of Life | 34119 | [34119-rite-of-life.json](./34119-rite-of-life.json) |
 | Rite of Passage | 57496 | [57496-rite-of-passage.json](./57496-rite-of-passage.json) |
 | Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
@@ -5684,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
+| Rogue Singularity | 34048 | [34048-rogue-singularity.json](./34048-rogue-singularity.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
@@ -6323,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
+| Rothschild: The Sheep Will Wake | 34136 | [34136-rothschild-the-sheep-will-wake.json](./34136-rothschild-the-sheep-will-wake.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
 | ROTN Quiz game 2 | 71168 | [71168-rotn-quiz-game-2.json](./71168-rotn-quiz-game-2.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
