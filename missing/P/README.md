@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dreams | 194279 | [194279-pinball-dreams.json](./194279-pinball-dreams.json) |
 | Pinball Dreams | 248589 | [248589-pinball-dreams.json](./248589-pinball-dreams.json) |
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
+| Pinball Dreams | 3024 | [3024-pinball-dreams.json](./3024-pinball-dreams.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
 | Pinball Fantasies | 6023 | [6023-pinball-fantasies.json](./6023-pinball-fantasies.json) |
@@ -7132,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
 | Poppy Playtime Triple Pack | 314441 | [314441-poppy-playtime-triple-pack.json](./314441-poppy-playtime-triple-pack.json) |
 | Poppy Playtime VR | 360783 | [360783-poppy-playtime-vr.json](./360783-poppy-playtime-vr.json) |
+| Poppy Playtime: Chapter 4 - Safe Haven | 318284 | [318284-poppy-playtime-chapter-4-safe-haven.json](./318284-poppy-playtime-chapter-4-safe-haven.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
 | Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
 | PopSauce | 186044 | [186044-popsauce.json](./186044-popsauce.json) |
@@ -7333,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Corkscrew RuLes! | 125026 | [125026-postal-2-corkscrew-rules.json](./125026-postal-2-corkscrew-rules.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
+| Postal: Brain Damaged | 138353 | [138353-postal-brain-damaged.json](./138353-postal-brain-damaged.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
@@ -8788,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Glitch | 81730 | [81730-project-glitch.json](./81730-project-glitch.json) |
 | Project Goblin | 404986 | [404986-project-goblin.json](./404986-project-goblin.json) |
 | Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
+| Project Gotham Racing 2 | 3321 | [3321-project-gotham-racing-2.json](./3321-project-gotham-racing-2.json) |
 | Project Gotham Racing 4 | 2540 | [2540-project-gotham-racing-4.json](./2540-project-gotham-racing-4.json) |
 | Project Gotham Racing 4: Recompiled | 414601 | [414601-project-gotham-racing-4-recompiled.json](./414601-project-gotham-racing-4-recompiled.json) |
 | Project Gotham Racing: Ferrari Edition | 221092 | [221092-project-gotham-racing-ferrari-edition.json](./221092-project-gotham-racing-ferrari-edition.json) |
