@@ -5689,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: Cradle of Civilization Map Pack - Mediterranean | 164397 | [164397-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mediterranean.json](./164397-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mediterranean.json) |
 | Sid Meier's Civilization V: Cradle of Civilization Map Pack - Mesopotamia | 164396 | [164396-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mesopotamia.json](./164396-sid-meiers-civilization-v-cradle-of-civilization-map-pack-mesopotamia.json) |
 | Sid Meier's Civilization V: Explorer's Map Pack | 164398 | [164398-sid-meiers-civilization-v-explorers-map-pack.json](./164398-sid-meiers-civilization-v-explorers-map-pack.json) |
+| Sid Meier's Civilization V: Gods & Kings | 3271 | [3271-sid-meiers-civilization-v-gods-and-kings.json](./3271-sid-meiers-civilization-v-gods-and-kings.json) |
 | Sid Meier's Civilization V: Gold Edition | 50880 | [50880-sid-meiers-civilization-v-gold-edition.json](./50880-sid-meiers-civilization-v-gold-edition.json) |
 | Sid Meier's Civilization V: Scenario Pack - Wonders of the Ancient World | 164388 | [164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json](./164388-sid-meiers-civilization-v-scenario-pack-wonders-of-the-ancient-world.json) |
 | Sid Meier's Civilization V: Scrambled Nations Map Pack | 164390 | [164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json](./164390-sid-meiers-civilization-v-scrambled-nations-map-pack.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
 | Slay the Minotaur | 271380 | [271380-slay-the-minotaur.json](./271380-slay-the-minotaur.json) |
+| Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
 | Slay the Princess: The Pristine Cut | 305071 | [305071-slay-the-princess-the-pristine-cut.json](./305071-slay-the-princess-the-pristine-cut.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
@@ -9950,6 +9952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Logic | 237488 | [237488-sonic-logic.json](./237488-sonic-logic.json) |
 | Sonic Lost Adventure | 330302 | [330302-sonic-lost-adventure.json](./330302-sonic-lost-adventure.json) |
+| Sonic Lost World | 2607 | [2607-sonic-lost-world.json](./2607-sonic-lost-world.json) |
 | Sonic Lost World: Deadly Six Edition | 386277 | [386277-sonic-lost-world-deadly-six-edition.json](./386277-sonic-lost-world-deadly-six-edition.json) |
 | Sonic Lost World: The Legend of Zelda Zone | 133935 | [133935-sonic-lost-world-the-legend-of-zelda-zone.json](./133935-sonic-lost-world-the-legend-of-zelda-zone.json) |
 | Sonic Lost World: Yoshi's Island Zone | 133933 | [133933-sonic-lost-world-yoshis-island-zone.json](./133933-sonic-lost-world-yoshis-island-zone.json) |
@@ -18954,6 +18957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
+| Super Star Wars | 20031 | [20031-super-star-wars.json](./20031-super-star-wars.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
@@ -20686,6 +20690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
+| System Shock | 18375 | [18375-system-shock.json](./18375-system-shock.json) |
 | System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
 | System Shooterz | 310139 | [310139-system-shooterz.json](./310139-system-shooterz.json) |
