@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lords Don't Give A :) | 113519 | [113519-dark-lords-dont-give-a.json](./113519-dark-lords-dont-give-a.json) |
 | Dark Lore Mysteries: Hunt For the Truth | 52841 | [52841-dark-lore-mysteries-hunt-for-the-truth.json](./52841-dark-lore-mysteries-hunt-for-the-truth.json) |
 | Dark Lovers: Extended Edition | 264770 | [264770-dark-lovers-extended-edition.json](./264770-dark-lovers-extended-edition.json) |
+| Dark Mage | 40687 | [40687-dark-mage.json](./40687-dark-mage.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
