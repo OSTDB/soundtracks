@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
 | Baron of Shell | 256772 | [256772-baron-of-shell.json](./256772-baron-of-shell.json) |
 | Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
+| Barony | 35189 | [35189-barony.json](./35189-barony.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
@@ -7114,8 +7115,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
+| Bomberman | 22287 | [22287-bomberman.json](./22287-bomberman.json) |
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
 | Bomberman | 3445 | [3445-bomberman.json](./3445-bomberman.json) |
+| Bomberman | 3446 | [3446-bomberman.json](./3446-bomberman.json) |
 | Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
 | Bomberman '94 | 3448 | [3448-bomberman-94.json](./3448-bomberman-94.json) |
