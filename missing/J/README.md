@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: Goldfinger | 1633 | [1633-james-bond-007-goldfinger.json](./1633-james-bond-007-goldfinger.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
+| James Bond 007: Quantum of Solace | 1646 | [1646-james-bond-007-quantum-of-solace.json](./1646-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: Quantum of Solace | 52679 | [52679-james-bond-007-quantum-of-solace.json](./52679-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
 | James Bond 007: The Spy Who Loved Me | 44098 | [44098-james-bond-007-the-spy-who-loved-me.json](./44098-james-bond-007-the-spy-who-loved-me.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Centre of Eddie Smith's Head | 28697 | [28697-journey-to-the-centre-of-eddie-smiths-head.json](./28697-journey-to-the-centre-of-eddie-smiths-head.json) |
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
 | Journey to the East | 128552 | [128552-journey-to-the-east.json](./128552-journey-to-the-east.json) |
+| Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
