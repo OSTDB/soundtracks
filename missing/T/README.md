@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terrorist Takedown 2: US Navy Seals | 46443 | [46443-terrorist-takedown-2-us-navy-seals.json](./46443-terrorist-takedown-2-us-navy-seals.json) |
+| Terrorist Takedown 3 | 27616 | [27616-terrorist-takedown-3.json](./27616-terrorist-takedown-3.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
 | The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
+| The Fate | 27618 | [27618-the-fate.json](./27618-the-fate.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fazbear Facility | 206591 | [206591-the-fazbear-facility.json](./206591-the-fazbear-facility.json) |
@@ -5768,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
+| The Gladiators of Rome | 27619 | [27619-the-gladiators-of-rome.json](./27619-the-gladiators-of-rome.json) |
 | The Gladiators: Galactic Circus Games | 71740 | [71740-the-gladiators-galactic-circus-games.json](./71740-the-gladiators-galactic-circus-games.json) |
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
@@ -6070,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist: Monaco | 313820 | [313820-the-heist-monaco.json](./313820-the-heist-monaco.json) |
 | The Hell Hives | 156053 | [156053-the-hell-hives.json](./156053-the-hell-hives.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
+| The Hell in Vietnam | 27620 | [27620-the-hell-in-vietnam.json](./27620-the-hell-in-vietnam.json) |
 | The Hell Inside | 286082 | [286082-the-hell-inside.json](./286082-the-hell-inside.json) |
 | The Hell Provided | 396560 | [396560-the-hell-provided.json](./396560-the-hell-provided.json) |
 | The Hell That's Coming | 271849 | [271849-the-hell-thats-coming.json](./271849-the-hell-thats-coming.json) |
@@ -8410,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
+| The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
