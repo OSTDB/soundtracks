@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
+| Virtual Pool | 20739 | [20739-virtual-pool.json](./20739-virtual-pool.json) |
 | Virtual Pool 4 | 36070 | [36070-virtual-pool-4.json](./36070-virtual-pool-4.json) |
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
 | Virtual Pool 64 | 3624 | [3624-virtual-pool-64.json](./3624-virtual-pool-64.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
 | VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
+| Voidigo | 143639 | [143639-voidigo.json](./143639-voidigo.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
 | Voidless | 244914 | [244914-voidless.json](./244914-voidless.json) |
 | Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
