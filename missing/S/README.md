@@ -4913,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
+| Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
@@ -9074,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Nations Battle | 100368 | [100368-soccer-nations-battle.json](./100368-soccer-nations-battle.json) |
 | Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
 | Soccer Nations: Paris | 137400 | [137400-soccer-nations-paris.json](./137400-soccer-nations-paris.json) |
+| Soccer Online: Ball 3D | 80456 | [80456-soccer-online-ball-3d.json](./80456-soccer-online-ball-3d.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
@@ -10528,6 +10530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
+| Sort the Court! | 80624 | [80624-sort-the-court.json](./80624-sort-the-court.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
@@ -11269,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 282080 | [282080-space-invaders.json](./282080-space-invaders.json) |
 | Space Invaders | 310668 | [310668-space-invaders.json](./310668-space-invaders.json) |
 | Space Invaders | 3601 | [3601-space-invaders.json](./3601-space-invaders.json) |
+| Space Invaders | 84891 | [84891-space-invaders.json](./84891-space-invaders.json) |
 | Space Invaders '91 | 46262 | [46262-space-invaders-91.json](./46262-space-invaders-91.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders by Copper France | 275223 | [275223-space-invaders-by-copper-france.json](./275223-space-invaders-by-copper-france.json) |
@@ -11401,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
+| Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
@@ -16675,6 +16680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
+| Submarine Titans | 93354 | [93354-submarine-titans.json](./93354-submarine-titans.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | SubmarineCraft | 113183 | [113183-submarinecraft.json](./113183-submarinecraft.json) |
 | Submarines | 277915 | [277915-submarines.json](./277915-submarines.json) |
