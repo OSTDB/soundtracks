@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Pachinko: Nante Gindama | 134465 | [134465-lets-pachinko-nante-gindama.json](./134465-lets-pachinko-nante-gindama.json) |
 | Let's Paint Toast | 352324 | [352324-lets-paint-toast.json](./352324-lets-paint-toast.json) |
 | Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
+| Let's Play Ballerina | 51068 | [51068-lets-play-ballerina.json](./51068-lets-play-ballerina.json) |
 | Let's Play Cards Baccarat | 340915 | [340915-lets-play-cards-baccarat.json](./340915-lets-play-cards-baccarat.json) |
 | Let's Play Cards Solitaire | 367603 | [367603-lets-play-cards-solitaire.json](./367603-lets-play-cards-solitaire.json) |
 | Let's Play Curling!! | 194975 | [194975-lets-play-curling.json](./194975-lets-play-curling.json) |
@@ -3383,7 +3384,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
 | Little League Baseball: Championship Series | 48283 | [48283-little-league-baseball-championship-series.json](./48283-little-league-baseball-championship-series.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
+| Little League World Series Baseball 2009 | 51067 | [51067-little-league-world-series-baseball-2009.json](./51067-little-league-world-series-baseball-2009.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
+| Little League World Series Double Play | 51071 | [51071-little-league-world-series-double-play.json](./51071-little-league-world-series-double-play.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Leonardo | 395715 | [395715-little-leonardo.json](./395715-little-leonardo.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
