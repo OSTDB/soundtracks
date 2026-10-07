@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
 | A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
+| A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Striker: World Invasion | 213426 | [213426-aero-striker-world-invasion.json](./213426-aero-striker-world-invasion.json) |
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aero Tales Online: The World | 207720 | [207720-aero-tales-online-the-world.json](./207720-aero-tales-online-the-world.json) |
+| Aero the Acro-Bat | 49256 | [49256-aero-the-acro-bat.json](./49256-aero-the-acro-bat.json) |
 | Aero The Acro-Bat 2 | 312089 | [312089-aero-the-acro-bat-2.json](./312089-aero-the-acro-bat-2.json) |
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
@@ -8407,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir | 105002 | [105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json](./105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix XXXL: The Ram From Hibernia | 208734 | [208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json](./208734-asterix-and-obelix-xxxl-the-ram-from-hibernia.json) |
+| Astérix & Obélix: Bash Them All! | 49254 | [49254-asterix-and-obelix-bash-them-all.json](./49254-asterix-and-obelix-bash-them-all.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asterix & Obelix: Heroes | 267001 | [267001-asterix-and-obelix-heroes.json](./267001-asterix-and-obelix-heroes.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
