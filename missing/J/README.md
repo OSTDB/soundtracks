@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
 | J.B. Harold no Jikenbo: Murder Club | 320845 | [320845-j-b-harold-no-jikenbo-murder-club.json](./320845-j-b-harold-no-jikenbo-murder-club.json) |
 | J.B. Harold Series #2: Manhattan Requiem - Angels Flying in the Dark | 62588 | [62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json](./62588-j-b-harold-series-2-manhattan-requiem-angels-flying-in-the-dark.json) |
+| J.B. Harold: Blue Chicago Blues | 4308 | [4308-j-b-harold-blue-chicago-blues.json](./4308-j-b-harold-blue-chicago-blues.json) |
 | J.B. Harold: Murder Club | 320847 | [320847-j-b-harold-murder-club.json](./320847-j-b-harold-murder-club.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
