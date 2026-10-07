@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
 | Hatchwell | 182284 | [182284-hatchwell.json](./182284-hatchwell.json) |
+| Hate Free Heroes RPG | 31682 | [31682-hate-free-heroes-rpg.json](./31682-hate-free-heroes-rpg.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
@@ -3196,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
+| Hero Boy | 31721 | [31721-hero-boy.json](./31721-hero-boy.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
@@ -3845,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: A King's Line | 187923 | [187923-hidden-expedition-a-kings-line.json](./187923-hidden-expedition-a-kings-line.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
+| Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
 | Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
@@ -4806,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | Hocus Potions | 118247 | [118247-hocus-potions.json](./118247-hocus-potions.json) |
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
+| HoCWar | 31729 | [31729-hocwar.json](./31729-hocwar.json) |
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
 | Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
 | Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
