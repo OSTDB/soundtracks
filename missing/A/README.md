@@ -5005,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
+| Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
 | Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
+| AntiKiller | 52415 | [52415-antikiller.json](./52415-antikiller.json) |
 | AntiMatcher | 403582 | [403582-antimatcher.json](./403582-antimatcher.json) |
 | Antimatiere | 237513 | [237513-antimatiere.json](./237513-antimatiere.json) |
 | Antimatter Dimensions | 223490 | [223490-antimatter-dimensions.json](./223490-antimatter-dimensions.json) |
@@ -5934,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Carnevale | 44083 | [44083-antique-carnevale.json](./44083-antique-carnevale.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
+| Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antiquity Jones | 391280 | [391280-antiquity-jones.json](./391280-antiquity-jones.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
@@ -6360,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aqualife | 50021 | [50021-aqualife.json](./50021-aqualife.json) |
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
+| Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
@@ -6419,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
+| Aquitania | 52409 | [52409-aquitania.json](./52409-aquitania.json) |
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
@@ -6935,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane: The Armor Collector | 62270 | [62270-arcane-the-armor-collector.json](./62270-arcane-the-armor-collector.json) |
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
+| Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
 | Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
@@ -7406,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
+| ArkLight | 52406 | [52406-arklight.json](./52406-arklight.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
@@ -7619,7 +7626,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
 | Army of Two: The Devil's Cartel | 1832 | [1832-army-of-two-the-devils-cartel.json](./1832-army-of-two-the-devils-cartel.json) |
+| Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
+| Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
 | Army to Army | 189019 | [189019-army-to-army.json](./189019-army-to-army.json) |
 | Army vs Zombie | 226770 | [226770-army-vs-zombie.json](./226770-army-vs-zombie.json) |
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
@@ -7653,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World in 80 Days | 80445 | [80445-around-the-world-in-80-days.json](./80445-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 86235 | [86235-around-the-world-in-80-days.json](./86235-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
+| Around the World in 80 Days: Extended Edition | 52424 | [52424-around-the-world-in-80-days-extended-edition.json](./52424-around-the-world-in-80-days-extended-edition.json) |
 | Around the World in 80d 2019 | 134390 | [134390-around-the-world-in-80d-2019.json](./134390-around-the-world-in-80d-2019.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
@@ -7736,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
 | Art Mahjongg | 91524 | [91524-art-mahjongg.json](./91524-art-mahjongg.json) |
+| Art Mahjongg Egypt | 52423 | [52423-art-mahjongg-egypt.json](./52423-art-mahjongg-egypt.json) |
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
 | Art of Air War | 120755 | [120755-art-of-air-war.json](./120755-art-of-air-war.json) |
@@ -8087,10 +8098,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashlands | 333597 | [333597-ashlands.json](./333597-ashlands.json) |
 | Ashley Clark: Secret of the Ruby | 52422 | [52422-ashley-clark-secret-of-the-ruby.json](./52422-ashley-clark-secret-of-the-ruby.json) |
+| Ashley Jones and the Heart of Egypt | 52421 | [52421-ashley-jones-and-the-heart-of-egypt.json](./52421-ashley-jones-and-the-heart-of-egypt.json) |
 | Ashley: The Emptiness Inside | 134397 | [134397-ashley-the-emptiness-inside.json](./134397-ashley-the-emptiness-inside.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
+| Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
 | Ashura Blaster | 38516 | [38516-ashura-blaster.json](./38516-ashura-blaster.json) |
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
@@ -8266,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Project Legacy | 64737 | [64737-assassins-creed-project-legacy.json](./64737-assassins-creed-project-legacy.json) |
 | Assassin's Creed: Recollection | 77265 | [77265-assassins-creed-recollection.json](./77265-assassins-creed-recollection.json) |
+| Assassin's Creed: Revelations - Gold Edition | 52417 | [52417-assassins-creed-revelations-gold-edition.json](./52417-assassins-creed-revelations-gold-edition.json) |
 | Assassin's Creed: Rogue Remastered | 81205 | [81205-assassins-creed-rogue-remastered.json](./81205-assassins-creed-rogue-remastered.json) |
 | Assassin's Creed: Syndicate - Big Ben Edition | 41612 | [41612-assassins-creed-syndicate-big-ben-edition.json](./41612-assassins-creed-syndicate-big-ben-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
@@ -8995,6 +9009,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
+| Atlas Reactor: All Freelancers Pack | 52430 | [52430-atlas-reactor-all-freelancers-pack.json](./52430-atlas-reactor-all-freelancers-pack.json) |
+| Atlas Reactor: Ultimate Reactor Pack | 52429 | [52429-atlas-reactor-ultimate-reactor-pack.json](./52429-atlas-reactor-ultimate-reactor-pack.json) |
 | Atlas Wept | 169854 | [169854-atlas-wept.json](./169854-atlas-wept.json) |
 | Atlas: Groundbreaking Adventures | 109478 | [109478-atlas-groundbreaking-adventures.json](./109478-atlas-groundbreaking-adventures.json) |
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
@@ -9193,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Drift & Tricks | 83879 | [83879-atv-drift-and-tricks.json](./83879-atv-drift-and-tricks.json) |
 | ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
+| ATV Mudracer | 52428 | [52428-atv-mudracer.json](./52428-atv-mudracer.json) |
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
@@ -9596,6 +9613,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond 3: Orbs of Magic - Chapter 2: Gates of Night | 10013 | [10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json](./10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json) |
 | Aveyond 3: Orbs of Magic - Chapter 3: The Lost Orb | 10014 | [10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json](./10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json) |
 | Aveyond 3: Orbs of Magic - Chapter 4: The Darkthrop Prophecy | 10015 | [10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json](./10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json) |
+| Aveyond: Ean's Quest | 52437 | [52437-aveyond-eans-quest.json](./52437-aveyond-eans-quest.json) |
+| Aveyond: Gates of Night | 52436 | [52436-aveyond-gates-of-night.json](./52436-aveyond-gates-of-night.json) |
+| Aveyond: Rhen's Quest | 52435 | [52435-aveyond-rhens-quest.json](./52435-aveyond-rhens-quest.json) |
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
@@ -9884,6 +9904,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec Tiki Talisman | 273357 | [273357-aztec-tiki-talisman.json](./273357-aztec-tiki-talisman.json) |
 | Aztec Tomb Adventure | 25853 | [25853-aztec-tomb-adventure.json](./25853-aztec-tomb-adventure.json) |
 | Aztec Tower | 114332 | [114332-aztec-tower.json](./114332-aztec-tower.json) |
+| Aztec Tribe | 52434 | [52434-aztec-tribe.json](./52434-aztec-tribe.json) |
+| Aztec Tribe: New Land | 52433 | [52433-aztec-tribe-new-land.json](./52433-aztec-tribe-new-land.json) |
 | Aztec Wars | 80628 | [80628-aztec-wars.json](./80628-aztec-wars.json) |
 | Azteca | 206013 | [206013-azteca.json](./206013-azteca.json) |
 | Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
