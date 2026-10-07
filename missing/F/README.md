@@ -6220,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
+| Frank Bruno's Boxing | 45246 | [45246-frank-brunos-boxing.json](./45246-frank-brunos-boxing.json) |
 | Frank Bruno's Boxing | 46752 | [46752-frank-brunos-boxing.json](./46752-frank-brunos-boxing.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank Hawk | 180678 | [180678-frank-hawk.json](./180678-frank-hawk.json) |
