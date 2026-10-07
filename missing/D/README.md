@@ -4980,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digimon T.K. and Patamon | 203237 | [203237-digimon-t-k-and-patamon.json](./203237-digimon-t-k-and-patamon.json) |
 | Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
+| Digimon Tamers: Battle Spirit | 37697 | [37697-digimon-tamers-battle-spirit.json](./37697-digimon-tamers-battle-spirit.json) |
 | Digimon Tamers: Battle Spirit Ver 1.5 | 63935 | [63935-digimon-tamers-battle-spirit-ver-1-5.json](./63935-digimon-tamers-battle-spirit-ver-1-5.json) |
 | Digimon Tamers: Pocket Culumon | 108939 | [108939-digimon-tamers-pocket-culumon.json](./108939-digimon-tamers-pocket-culumon.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
