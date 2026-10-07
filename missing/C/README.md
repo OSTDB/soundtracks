@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow | 491 | [491-castlevania-lords-of-shadow.json](./491-castlevania-lords-of-shadow.json) |
 | Castlevania: Lords of Shadow - Limited Edition | 41602 | [41602-castlevania-lords-of-shadow-limited-edition.json](./41602-castlevania-lords-of-shadow-limited-edition.json) |
 | Castlevania: Lords of Shadow - Mirror of Fate HD | 9715 | [9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json](./9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json) |
+| Castlevania: Lords of Shadow - Resurrection | 10076 | [10076-castlevania-lords-of-shadow-resurrection.json](./10076-castlevania-lords-of-shadow-resurrection.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
 | Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
@@ -8277,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cortex Chronicles 2: The Ride of Jax Riven | 290988 | [290988-cortex-chronicles-2-the-ride-of-jax-riven.json](./290988-cortex-chronicles-2-the-ride-of-jax-riven.json) |
 | Cortex Chronicles 3: The Escape of Rowan Reed | 290989 | [290989-cortex-chronicles-3-the-escape-of-rowan-reed.json](./290989-cortex-chronicles-3-the-escape-of-rowan-reed.json) |
 | Cortex Chronicles 6: The Infiltration of Nyx Sterling | 290986 | [290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json](./290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json) |
+| Cortex Command | 10428 | [10428-cortex-command.json](./10428-cortex-command.json) |
 | Cortex Protocol | 99689 | [99689-cortex-protocol.json](./99689-cortex-protocol.json) |
 | Corum II: Dark Lord | 146209 | [146209-corum-ii-dark-lord.json](./146209-corum-ii-dark-lord.json) |
 | Corum III: Chaotic Magic | 146210 | [146210-corum-iii-chaotic-magic.json](./146210-corum-iii-chaotic-magic.json) |
@@ -9491,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
+| Creatures | 11374 | [11374-creatures.json](./11374-creatures.json) |
 | Creatures | 120747 | [120747-creatures.json](./120747-creatures.json) |
 | Creatures | 380097 | [380097-creatures.json](./380097-creatures.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
@@ -9684,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Clue: Spot the Difference | 103994 | [103994-criminal-clue-spot-the-difference.json](./103994-criminal-clue-spot-the-difference.json) |
 | Criminal Consequences | 185073 | [185073-criminal-consequences.json](./185073-criminal-consequences.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
+| Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
 | Criminal Profile Who’s the Culprit?! | 403735 | [403735-criminal-profile-who-s-the-culprit.json](./403735-criminal-profile-who-s-the-culprit.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Run | 40741 | [40741-criminal-run.json](./40741-criminal-run.json) |
