@@ -2160,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
 | Battle Isle 2: Scenery CD - Titan's Legacy | 11102 | [11102-battle-isle-2-scenery-cd-titans-legacy.json](./11102-battle-isle-2-scenery-cd-titans-legacy.json) |
 | Battle Isle Data Disk I | 11100 | [11100-battle-isle-data-disk-i.json](./11100-battle-isle-data-disk-i.json) |
+| Battle Isle IV: The Andosia War | 50409 | [50409-battle-isle-iv-the-andosia-war.json](./50409-battle-isle-iv-the-andosia-war.json) |
 | Battle Isle: Platinum | 73251 | [73251-battle-isle-platinum.json](./73251-battle-isle-platinum.json) |
 | Battle Isle: The Andosia War | 9034 | [9034-battle-isle-the-andosia-war.json](./9034-battle-isle-the-andosia-war.json) |
 | Battle Isle: Threshold Run | 11103 | [11103-battle-isle-threshold-run.json](./11103-battle-isle-threshold-run.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Moon Wars | 47065 | [47065-battle-moon-wars.json](./47065-battle-moon-wars.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
 | Battle Mythic Maidens Arena | 351089 | [351089-battle-mythic-maidens-arena.json](./351089-battle-mythic-maidens-arena.json) |
+| Battle Nations | 50387 | [50387-battle-nations.json](./50387-battle-nations.json) |
 | Battle Night | 228434 | [228434-battle-night.json](./228434-battle-night.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
