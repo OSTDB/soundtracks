@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
+| Menace | 8064 | [8064-menace.json](./8064-menace.json) |
 | Menace Beach | 11167 | [11167-menace-beach.json](./11167-menace-beach.json) |
 | Menace from the Deep: Complete Edition | 401133 | [401133-menace-from-the-deep-complete-edition.json](./401133-menace-from-the-deep-complete-edition.json) |
 | Menace from the Deep: The Rift of Sanity | 350548 | [350548-menace-from-the-deep-the-rift-of-sanity.json](./350548-menace-from-the-deep-the-rift-of-sanity.json) |
@@ -7958,6 +7959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2006 | 28197 | [28197-mlb-2006.json](./28197-mlb-2006.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 2K13 | 47409 | [47409-mlb-2k13.json](./47409-mlb-2k13.json) |
+| MLB 2K13 | 7064 | [7064-mlb-2k13.json](./7064-mlb-2k13.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 16 | 57364 | [57364-mlb-9-innings-16.json](./57364-mlb-9-innings-16.json) |
 | MLB 9 Innings 18 | 96267 | [96267-mlb-9-innings-18.json](./96267-mlb-9-innings-18.json) |
@@ -11046,6 +11048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
+| Musou Orochi Z | 7480 | [7480-musou-orochi-z.json](./7480-musou-orochi-z.json) |
 | Musou Yuugi | 167126 | [167126-musou-yuugi.json](./167126-musou-yuugi.json) |
 | MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
 | Mussoumano 3D Run | 223530 | [223530-mussoumano-3d-run.json](./223530-mussoumano-3d-run.json) |
