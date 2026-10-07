@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.X (Forced Evolution Experiment) | 55522 | [55522-f-e-x-forced-evolution-experiment.json](./55522-f-e-x-forced-evolution-experiment.json) |
 | F.H. Memento: Love Beyond | 101728 | [101728-f-h-memento-love-beyond.json](./101728-f-h-memento-love-beyond.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
+| F.I.S.T.: Forged In Shadow Torch | 115851 | [115851-f-i-s-t-forged-in-shadow-torch.json](./115851-f-i-s-t-forged-in-shadow-torch.json) |
 | F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
+| F1 2021 | 145838 | [145838-f1-2021.json](./145838-f1-2021.json) |
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
@@ -2942,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
 | Final Fantasy: Brave Exvius | 19334 | [19334-final-fantasy-brave-exvius.json](./19334-final-fantasy-brave-exvius.json) |
+| Final Fantasy: Crystal Chronicles | 412 | [412-final-fantasy-crystal-chronicles.json](./412-final-fantasy-crystal-chronicles.json) |
 | Final Fantasy: Crystal Chronicles - My Life as a King | 21054 | [21054-final-fantasy-crystal-chronicles-my-life-as-a-king.json](./21054-final-fantasy-crystal-chronicles-my-life-as-a-king.json) |
 | Final Fantasy: Crystal Chronicles - Remastered Edition | 109276 | [109276-final-fantasy-crystal-chronicles-remastered-edition.json](./109276-final-fantasy-crystal-chronicles-remastered-edition.json) |
 | Final Fantasy: Crystal Chronicles - Ring of Fates | 9585 | [9585-final-fantasy-crystal-chronicles-ring-of-fates.json](./9585-final-fantasy-crystal-chronicles-ring-of-fates.json) |
@@ -3811,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
 | Fistagon | 264065 | [264065-fistagon.json](./264065-fistagon.json) |
 | Fister.Fun | 386434 | [386434-fister-fun.json](./386434-fister-fun.json) |
+| Fistful of Frags | 8584 | [8584-fistful-of-frags.json](./8584-fistful-of-frags.json) |
 | Fistful of Nothing | 150591 | [150591-fistful-of-nothing.json](./150591-fistful-of-nothing.json) |
 | Fisticuffs: An Arcade Boxing Game | 240193 | [240193-fisticuffs-an-arcade-boxing-game.json](./240193-fisticuffs-an-arcade-boxing-game.json) |
 | Fists For Fighting Fx3 | 212305 | [212305-fists-for-fighting-fx3.json](./212305-fists-for-fighting-fx3.json) |
@@ -5166,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
+| Football Manager 2008 | 946 | [946-football-manager-2008.json](./946-football-manager-2008.json) |
 | Football Manager 2013 | 8974 | [8974-football-manager-2013.json](./8974-football-manager-2013.json) |
 | Football Manager 2016 | 19875 | [19875-football-manager-2016.json](./19875-football-manager-2016.json) |
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
