@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
+| Habitat | 28717 | [28717-habitat.json](./28717-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
 | Haunted Legends: The Black Hawk | 187920 | [187920-haunted-legends-the-black-hawk.json](./187920-haunted-legends-the-black-hawk.json) |
 | Haunted Legends: The Bronze Horseman | 139202 | [139202-haunted-legends-the-bronze-horseman.json](./139202-haunted-legends-the-bronze-horseman.json) |
+| Haunted Legends: The Bronze Horseman - Collector's Edition | 28688 | [28688-haunted-legends-the-bronze-horseman-collectors-edition.json](./28688-haunted-legends-the-bronze-horseman-collectors-edition.json) |
 | Haunted Legends: The Dark Wishes | 139203 | [139203-haunted-legends-the-dark-wishes.json](./139203-haunted-legends-the-dark-wishes.json) |
 | Haunted Legends: The Queen of Spades | 139204 | [139204-haunted-legends-the-queen-of-spades.json](./139204-haunted-legends-the-queen-of-spades.json) |
 | Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
