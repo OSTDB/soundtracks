@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
+| AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire: 4th of July | 322726 | [322726-ai-solitaire-4th-of-july.json](./322726-ai-solitaire-4th-of-july.json) |
 | AI Solitaire: Handsome Heroes | 304005 | [304005-ai-solitaire-handsome-heroes.json](./304005-ai-solitaire-handsome-heroes.json) |
@@ -8571,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
+| Asterix | 128475 | [128475-asterix.json](./128475-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
 | Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
 | Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
@@ -9300,6 +9302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATP Tour Championship Tennis | 46234 | [46234-atp-tour-championship-tennis.json](./46234-atp-tour-championship-tennis.json) |
 | Atramentum VR | 29797 | [29797-atramentum-vr.json](./29797-atramentum-vr.json) |
 | Atrapa la Bandera | 204455 | [204455-atrapa-la-bandera.json](./204455-atrapa-la-bandera.json) |
+| Atri: My Dear Moments | 131634 | [131634-atri-my-dear-moments.json](./131634-atri-my-dear-moments.json) |
 | Atria | 203839 | [203839-atria.json](./203839-atria.json) |
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
