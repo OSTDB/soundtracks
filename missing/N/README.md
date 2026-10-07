@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Area | 302080 | [302080-no-mans-area.json](./302080-no-mans-area.json) |
 | No Man's Home | 346645 | [346645-no-mans-home.json](./346645-no-mans-home.json) |
 | No Man's Island | 148160 | [148160-no-mans-island.json](./148160-no-mans-island.json) |
+| No Man's Land | 27583 | [27583-no-mans-land.json](./27583-no-mans-land.json) |
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
