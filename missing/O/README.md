@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off to Europe | 112212 | [112212-off-to-europe.json](./112212-off-to-europe.json) |
 | Off to Sleep | 222930 | [222930-off-to-sleep.json](./222930-off-to-sleep.json) |
 | Off Trail | 341500 | [341500-off-trail.json](./341500-off-trail.json) |
+| Off Your Rocker | 40680 | [40680-off-your-rocker.json](./40680-off-your-rocker.json) |
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Planet Dreams | 319128 | [319128-off-planet-dreams.json](./319128-off-planet-dreams.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
@@ -1887,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
+| Open Sesame | 40679 | [40679-open-sesame.json](./40679-open-sesame.json) |
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
@@ -2456,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar the Balloonist: Drops Into the Country Side | 208888 | [208888-oscar-the-balloonist-drops-into-the-country-side.json](./208888-oscar-the-balloonist-drops-into-the-country-side.json) |
 | Oscar the Balloonist: My Creative Workshop | 208887 | [208887-oscar-the-balloonist-my-creative-workshop.json](./208887-oscar-the-balloonist-my-creative-workshop.json) |
 | Oscar Wilde Card | 220615 | [220615-oscar-wilde-card.json](./220615-oscar-wilde-card.json) |
+| Oscar's Trash Race | 40714 | [40714-oscars-trash-race.json](./40714-oscars-trash-race.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
