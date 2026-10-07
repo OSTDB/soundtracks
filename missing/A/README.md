@@ -6496,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
 | Aquarelle | 156573 | [156573-aquarelle.json](./156573-aquarelle.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
+| Aquaria | 7406 | [7406-aquaria.json](./7406-aquaria.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
@@ -10081,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga RPG | 222347 | [222347-azumanga-rpg.json](./222347-azumanga-rpg.json) |
 | Azumi | 90930 | [90930-azumi.json](./90930-azumi.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
+| Azur Lane | 70708 | [70708-azur-lane.json](./70708-azur-lane.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
