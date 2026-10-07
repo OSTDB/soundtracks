@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
 | N.O.M.A.D. | 226135 | [226135-n-o-m-a-d.json](./226135-n-o-m-a-d.json) |
+| N.O.M.A.D. | 26412 | [26412-n-o-m-a-d.json](./26412-n-o-m-a-d.json) |
 | N.O.N.E.Z. | 376062 | [376062-n-o-n-e-z.json](./376062-n-o-n-e-z.json) |
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
 | N.O.S. Car Speedrace | 107085 | [107085-n-o-s-car-speedrace.json](./107085-n-o-s-car-speedrace.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: Takken Shiken 2015 | 179477 | [179477-nextrev-takken-shiken-2015.json](./179477-nextrev-takken-shiken-2015.json) |
 | NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
+| Nexus | 26414 | [26414-nexus.json](./26414-nexus.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
