@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
 | Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock: Master of the Arcane - Complete Edition | 53909 | [53909-warlock-master-of-the-arcane-complete-edition.json](./53909-warlock-master-of-the-arcane-complete-edition.json) |
+| Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
