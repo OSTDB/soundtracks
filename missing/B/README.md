@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayaya | 373155 | [373155-bayaya.json](./373155-bayaya.json) |
 | Bayern Munich Club Football | 267885 | [267885-bayern-munich-club-football.json](./267885-bayern-munich-club-football.json) |
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
+| Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
@@ -4891,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitroom | 148925 | [148925-bitroom.json](./148925-bitroom.json) |
 | Bits & Bops | 202135 | [202135-bits-and-bops.json](./202135-bits-and-bops.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
+| BitShift: BattleGrid | 32742 | [32742-bitshift-battlegrid.json](./32742-bitshift-battlegrid.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy | 242508 | [242508-bitsy.json](./242508-bitsy.json) |
@@ -7370,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootèe | 195499 | [195499-bootee.json](./195499-bootee.json) |
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
 | Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
+| Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
