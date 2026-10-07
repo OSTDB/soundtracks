@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
 | Making History: The Great War | 17085 | [17085-making-history-the-great-war.json](./17085-making-history-the-great-war.json) |
 | Making History: The Great War - The Red Army | 170808 | [170808-making-history-the-great-war-the-red-army.json](./170808-making-history-the-great-war-the-red-army.json) |
+| Making History: The World Wars | 54214 | [54214-making-history-the-world-wars.json](./54214-making-history-the-world-wars.json) |
 | Making it Home | 123463 | [123463-making-it-home.json](./123463-making-it-home.json) |
 | Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
 | Making Lovers: First Blush | 397802 | [397802-making-lovers-first-blush.json](./397802-making-lovers-first-blush.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
 | Mall Tycoon | 23450 | [23450-mall-tycoon.json](./23450-mall-tycoon.json) |
 | Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
+| Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
@@ -2022,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
+| Marine Heavy Gunner | 54211 | [54211-marine-heavy-gunner.json](./54211-marine-heavy-gunner.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
 | Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
 | Marine Survivors | 213970 | [213970-marine-survivors.json](./213970-marine-survivors.json) |
@@ -2760,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
 | Mary Jane | 374154 | [374154-mary-jane.json](./374154-mary-jane.json) |
 | Mary Kate and Ashley's Dance Party of the Century | 209555 | [209555-mary-kate-and-ashleys-dance-party-of-the-century.json](./209555-mary-kate-and-ashleys-dance-party-of-the-century.json) |
+| Mary Kay Andrews: The Fixer Upper | 54209 | [54209-mary-kay-andrews-the-fixer-upper.json](./54209-mary-kay-andrews-the-fixer-upper.json) |
 | Mary King's Riding School | 61856 | [61856-mary-kings-riding-school.json](./61856-mary-kings-riding-school.json) |
 | Mary King's Riding School 2 | 61857 | [61857-mary-kings-riding-school-2.json](./61857-mary-kings-riding-school-2.json) |
 | Mary King's Riding Star | 64921 | [64921-mary-kings-riding-star.json](./64921-mary-kings-riding-star.json) |
@@ -2925,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
+| Master of Alchemy - Rise of the Mechanologists | 54208 | [54208-master-of-alchemy-rise-of-the-mechanologists.json](./54208-master-of-alchemy-rise-of-the-mechanologists.json) |
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
 | Master of Cladia | 385282 | [385282-master-of-cladia.json](./385282-master-of-cladia.json) |
@@ -4007,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
 | Medieval Dynasty: Hunting Pack | 415186 | [415186-medieval-dynasty-hunting-pack.json](./415186-medieval-dynasty-hunting-pack.json) |
 | Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
+| Medieval Engineers: Deluxe Edition | 54216 | [54216-medieval-engineers-deluxe-edition.json](./54216-medieval-engineers-deluxe-edition.json) |
 | Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
 | Medieval Fantasy Survival Simulator 2: Gladiator Edition | 237465 | [237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json](./237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
@@ -4425,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Twins | 12184 | [12184-mega-twins.json](./12184-mega-twins.json) |
 | Mega Typhoon | 245245 | [245245-mega-typhoon.json](./245245-mega-typhoon.json) |
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
+| Mega World Smash | 54215 | [54215-mega-world-smash.json](./54215-mega-world-smash.json) |
 | Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
 | Mega Zombie Explosion | 190436 | [190436-mega-zombie-explosion.json](./190436-mega-zombie-explosion.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
@@ -6492,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
+| Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium GamePak Gold | 273905 | [273905-millennium-gamepak-gold.json](./273905-millennium-gamepak-gold.json) |
@@ -6670,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
 | Mind's Eye | 71151 | [71151-minds-eye.json](./71151-minds-eye.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
+| Mind's Eye: Secrets of the Forgotten | 54239 | [54239-minds-eye-secrets-of-the-forgotten.json](./54239-minds-eye-secrets-of-the-forgotten.json) |
 | Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
@@ -7486,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
+| Mishap 2: An Intentional Haunting - Collector's Edition | 54238 | [54238-mishap-2-an-intentional-haunting-collectors-edition.json](./54238-mishap-2-an-intentional-haunting-collectors-edition.json) |
 | Mishap: An Accidental Haunting | 16162 | [16162-mishap-an-accidental-haunting.json](./16162-mishap-an-accidental-haunting.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
 | MiSide: Zero | 384789 | [384789-miside-zero.json](./384789-miside-zero.json) |
@@ -7507,6 +7517,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
+| Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
+| Miss Chic Romantic | 54235 | [54235-miss-chic-romantic.json](./54235-miss-chic-romantic.json) |
 | Miss Chocolate Eater | 304259 | [304259-miss-chocolate-eater.json](./304259-miss-chocolate-eater.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
@@ -7533,6 +7545,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
+| Miss Teri Tales - Danger Next Door | 54234 | [54234-miss-teri-tales-danger-next-door.json](./54234-miss-teri-tales-danger-next-door.json) |
+| Miss Teri Tales - Where's Jason | 54233 | [54233-miss-teri-tales-wheres-jason.json](./54233-miss-teri-tales-wheres-jason.json) |
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Miss World '96: Nude | 63152 | [63152-miss-world-96-nude.json](./63152-miss-world-96-nude.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
@@ -8097,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern War by Gree | 39186 | [39186-modern-war-by-gree.json](./39186-modern-war-by-gree.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
 | Modern Warplanes | 193818 | [193818-modern-warplanes.json](./193818-modern-warplanes.json) |
+| Modern Warrior Special Tactics | 54232 | [54232-modern-warrior-special-tactics.json](./54232-modern-warrior-special-tactics.json) |
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
@@ -8604,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Attack | 5580 | [5580-monster-attack.json](./5580-monster-attack.json) |
+| Monster Ball PC | 54231 | [54231-monster-ball-pc.json](./54231-monster-ball-pc.json) |
 | Monster Band | 293221 | [293221-monster-band.json](./293221-monster-band.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
@@ -9978,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moulder | 375402 | [375402-moulder.json](./375402-moulder.json) |
 | Mouldy Old Void | 303020 | [303020-mouldy-old-void.json](./303020-mouldy-old-void.json) |
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
+| Mount & Blade Collection | 54229 | [54229-mount-and-blade-collection.json](./54229-mount-and-blade-collection.json) |
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
@@ -10017,10 +10034,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
+| Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
 | Mouse Dreams | 27805 | [27805-mouse-dreams.json](./27805-mouse-dreams.json) |
 | Mouse Hero | 157716 | [157716-mouse-hero.json](./157716-mouse-hero.json) |
 | Mouse House | 66984 | [66984-mouse-house.json](./66984-mouse-house.json) |
+| Mouse in a Stew | 54227 | [54227-mouse-in-a-stew.json](./54227-mouse-in-a-stew.json) |
 | Mouse in Lab | 29584 | [29584-mouse-in-lab.json](./29584-mouse-in-lab.json) |
 | Mouse in the Maze | 66991 | [66991-mouse-in-the-maze.json](./66991-mouse-in-the-maze.json) |
 | Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
@@ -10160,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bullet 3D | 217769 | [217769-mr-bullet-3d.json](./217769-mr-bullet-3d.json) |
 | Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
+| Mr Constructor | 54226 | [54226-mr-constructor.json](./54226-mr-constructor.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Fish's Awful Adventure | 181174 | [181174-mr-fishs-awful-adventure.json](./181174-mr-fishs-awful-adventure.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
@@ -11195,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Farm | 85610 | [85610-my-farm.json](./85610-my-farm.json) |
 | My Farm Life | 53391 | [53391-my-farm-life.json](./53391-my-farm-life.json) |
+| My Farm Life 2 | 54225 | [54225-my-farm-life-2.json](./54225-my-farm-life-2.json) |
 | My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My Father's House | 265318 | [265318-my-fathers-house.json](./265318-my-fathers-house.json) |
 | My Father's Secret | 170351 | [170351-my-fathers-secret.json](./170351-my-fathers-secret.json) |
@@ -11455,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
+| My Lovely Pony | 54224 | [54224-my-lovely-pony.json](./54224-my-lovely-pony.json) |
 | My Lovely Wife | 132573 | [132573-my-lovely-wife.json](./132573-my-lovely-wife.json) |
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
@@ -11806,6 +11828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
+| MyRPG | 54223 | [54223-myrpg.json](./54223-myrpg.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Mysarium | 395148 | [395148-mysarium.json](./395148-mysarium.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
@@ -11841,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
+| Mysteries of Horus | 54222 | [54222-mysteries-of-horus.json](./54222-mysteries-of-horus.json) |
 | Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
 | Mysteries of Neverville: The Runestone of Light | 113177 | [113177-mysteries-of-neverville-the-runestone-of-light.json](./113177-mysteries-of-neverville-the-runestone-of-light.json) |
 | Mysteries of Old Tokyo | 361273 | [361273-mysteries-of-old-tokyo.json](./361273-mysteries-of-old-tokyo.json) |
@@ -11907,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Circle | 37916 | [37916-mystery-circle.json](./37916-mystery-circle.json) |
 | Mystery Coin | 195557 | [195557-mystery-coin.json](./195557-mystery-coin.json) |
+| Mystery Cruise | 54221 | [54221-mystery-cruise.json](./54221-mystery-cruise.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
@@ -11932,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masterpiece: The Moonstone | 53394 | [53394-mystery-masterpiece-the-moonstone.json](./53394-mystery-masterpiece-the-moonstone.json) |
 | Mystery Masters: Carnival of Crime - Collector's Edition | 201820 | [201820-mystery-masters-carnival-of-crime-collectors-edition.json](./201820-mystery-masters-carnival-of-crime-collectors-edition.json) |
+| Mystery Masters: Mysteries of Ancient Inventors - Atlantis | 54242 | [54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json](./54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json) |
 | Mystery Masters: Mysteries of the Heart | 201812 | [201812-mystery-masters-mysteries-of-the-heart.json](./201812-mystery-masters-mysteries-of-the-heart.json) |
 | Mystery Masters: Psycho Train - Deluxe Edition | 35884 | [35884-mystery-masters-psycho-train-deluxe-edition.json](./35884-mystery-masters-psycho-train-deluxe-edition.json) |
 | Mystery Masters: Treasures of Mystery Collection | 206747 | [206747-mystery-masters-treasures-of-mystery-collection.json](./206747-mystery-masters-treasures-of-mystery-collection.json) |
@@ -11954,6 +11980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
+| Mystery of the Dark Jewels | 54243 | [54243-mystery-of-the-dark-jewels.json](./54243-mystery-of-the-dark-jewels.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
 | Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
@@ -11971,6 +11998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Saiyan | 86986 | [86986-mystery-saiyan.json](./86986-mystery-saiyan.json) |
 | Mystery Science Theater 3000 Presents: Detective | 310680 | [310680-mystery-science-theater-3000-presents-detective.json](./310680-mystery-science-theater-3000-presents-detective.json) |
+| Mystery Series: A Vampire Tale | 54244 | [54244-mystery-series-a-vampire-tale.json](./54244-mystery-series-a-vampire-tale.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
@@ -12057,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
+| Mystic Mine | 54245 | [54245-mystic-mine.json](./54245-mystic-mine.json) |
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Nights | 69523 | [69523-mystic-nights.json](./69523-mystic-nights.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
