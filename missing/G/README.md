@@ -4644,6 +4644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Girls | 207727 | [207727-graveyard-girls.json](./207727-graveyard-girls.json) |
 | Graveyard Gunslingers | 258021 | [258021-graveyard-gunslingers.json](./258021-graveyard-gunslingers.json) |
+| Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
