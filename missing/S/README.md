@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! 2: Dark Dungeons | 378383 | [378383-scooby-doo-2-dark-dungeons.json](./378383-scooby-doo-2-dark-dungeons.json) |
 | Scooby-Doo! First Frights | 2862 | [2862-scooby-doo-first-frights.json](./2862-scooby-doo-first-frights.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
+| Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
@@ -5143,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
+| Shogun Showdown | 208533 | [208533-shogun-showdown.json](./208533-shogun-showdown.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War | 436 | [436-shogun-total-war.json](./436-shogun-total-war.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
@@ -5375,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
+| Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
@@ -10039,6 +10042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Quickie | 326810 | [326810-sonic-quickie.json](./326810-sonic-quickie.json) |
 | Sonic Quickshot | 370268 | [370268-sonic-quickshot.json](./370268-sonic-quickshot.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
+| Sonic R | 202757 | [202757-sonic-r.json](./202757-sonic-r.json) |
 | Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
 | Sonic Racing: CrossWorlds - "Blue Star" Extreme Gear | 374160 | [374160-sonic-racing-crossworlds-blue-star-extreme-gear.json](./374160-sonic-racing-crossworlds-blue-star-extreme-gear.json) |
@@ -10652,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
+| SoulCalibur II | 227986 | [227986-soulcalibur-ii.json](./227986-soulcalibur-ii.json) |
 | SoulCalibur II | 227987 | [227987-soulcalibur-ii.json](./227987-soulcalibur-ii.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
@@ -10723,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
+| Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
@@ -11352,6 +11358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
+| Space Quest III: The Pirates Of Pestulon | 30 | [30-space-quest-iii-the-pirates-of-pestulon.json](./30-space-quest-iii-the-pirates-of-pestulon.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
@@ -16979,6 +16986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars | 217909 | [217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json](./217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json) |
 | Suikoden II | 1454 | [1454-suikoden-ii.json](./1454-suikoden-ii.json) |
 | Suikoden IV | 1449 | [1449-suikoden-iv.json](./1449-suikoden-iv.json) |
+| Suikoden Tierkreis | 1452 | [1452-suikoden-tierkreis.json](./1452-suikoden-tierkreis.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
 | Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
@@ -19679,6 +19687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving Soldier | 249749 | [249749-surviving-soldier.json](./249749-surviving-soldier.json) |
 | Surviving Space | 148916 | [148916-surviving-space.json](./148916-surviving-space.json) |
+| Surviving the Aftermath | 123251 | [123251-surviving-the-aftermath.json](./123251-surviving-the-aftermath.json) |
 | Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
