@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I3ergsteiger | 379034 | [379034-i3ergsteiger.json](./379034-i3ergsteiger.json) |
 | i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
 | Ia Scatter City | 258949 | [258949-ia-scatter-city.json](./258949-ia-scatter-city.json) |
+| Iactura | 31736 | [31736-iactura.json](./31736-iactura.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
 | IAI | 358896 | [358896-iai.json](./358896-iai.json) |
