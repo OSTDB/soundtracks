@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octagon Squad | 30211 | [30211-octagon-squad.json](./30211-octagon-squad.json) |
 | OctagonEdges | 59485 | [59485-octagonedges.json](./59485-octagonedges.json) |
 | Octagonis | 177856 | [177856-octagonis.json](./177856-octagonis.json) |
+| Octamari Rescue | 32844 | [32844-octamari-rescue.json](./32844-octamari-rescue.json) |
 | Octane100 | 359571 | [359571-octane100.json](./359571-octane100.json) |
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | Octarina | 150760 | [150760-octarina.json](./150760-octarina.json) |
@@ -470,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
 | Off the Record: Liberty Stone | 82141 | [82141-off-the-record-liberty-stone.json](./82141-off-the-record-liberty-stone.json) |
+| Off the Record: Linden Shades - Collector's Edition | 32787 | [32787-off-the-record-linden-shades-collectors-edition.json](./32787-off-the-record-linden-shades-collectors-edition.json) |
 | Off The Record: The Art of Deception | 98411 | [98411-off-the-record-the-art-of-deception.json](./98411-off-the-record-the-art-of-deception.json) |
 | Off The Record: The Art of Deception HD | 100214 | [100214-off-the-record-the-art-of-deception-hd.json](./100214-off-the-record-the-art-of-deception-hd.json) |
 | Off the Record: The Final Interview | 98409 | [98409-off-the-record-the-final-interview.json](./98409-off-the-record-the-final-interview.json) |
@@ -2574,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
+| Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
