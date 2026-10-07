@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
+| Evil Dead: A Fistful of Boomstick | 5827 | [5827-evil-dead-a-fistful-of-boomstick.json](./5827-evil-dead-a-fistful-of-boomstick.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
 | Evil Dead: The Game | 141544 | [141544-evil-dead-the-game.json](./141544-evil-dead-the-game.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
@@ -4161,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
 | Executor | 220019 | [220019-executor.json](./220019-executor.json) |
 | Executrix's Folly | 180116 | [180116-executrixs-folly.json](./180116-executrixs-folly.json) |
+| Exed Exes | 6671 | [6671-exed-exes.json](./6671-exed-exes.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | Exelon | 79236 | [79236-exelon.json](./79236-exelon.json) |
 | Exer Gale | 297068 | [297068-exer-gale.json](./297068-exer-gale.json) |
