@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
 | Galaxy Fighters | 200023 | [200023-galaxy-fighters.json](./200023-galaxy-fighters.json) |
 | Galaxy Flavored Heroes | 306563 | [306563-galaxy-flavored-heroes.json](./306563-galaxy-flavored-heroes.json) |
+| Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
+| Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
@@ -4067,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
+| Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | Gorehounds of Doom | 261440 | [261440-gorehounds-of-doom.json](./261440-gorehounds-of-doom.json) |
@@ -4320,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo Sport: Steelbook Edition | 138771 | [138771-gran-turismo-sport-steelbook-edition.json](./138771-gran-turismo-sport-steelbook-edition.json) |
 | Grana Embrace Chapter 1 | 125815 | [125815-grana-embrace-chapter-1.json](./125815-grana-embrace-chapter-1.json) |
 | Granada | 280323 | [280323-granada.json](./280323-granada.json) |
+| Granada | 46209 | [46209-granada.json](./46209-granada.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
 | GranAge Online | 64192 | [64192-granage-online.json](./64192-granage-online.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
