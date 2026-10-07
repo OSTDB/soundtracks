@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tchia: Oléti Edition | 239605 | [239605-tchia-oleti-edition.json](./239605-tchia-oleti-edition.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
+| TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
 | TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive 6 | 370310 | [370310-test-drive-6.json](./370310-test-drive-6.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
+| Test Drive Off-Road Wide Open | 6198 | [6198-test-drive-off-road-wide-open.json](./6198-test-drive-off-road-wide-open.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
@@ -5071,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Renewal Morroblivion | 254473 | [254473-the-elder-scrolls-renewal-morroblivion.json](./254473-the-elder-scrolls-renewal-morroblivion.json) |
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
 | The Elder Scrolls Travels: Dawnstar | 47571 | [47571-the-elder-scrolls-travels-dawnstar.json](./47571-the-elder-scrolls-travels-dawnstar.json) |
+| The Elder Scrolls Travels: Shadowkey | 6262 | [6262-the-elder-scrolls-travels-shadowkey.json](./6262-the-elder-scrolls-travels-shadowkey.json) |
 | The Elder Scrolls V: Skyrim | 37034 | [37034-the-elder-scrolls-v-skyrim.json](./37034-the-elder-scrolls-v-skyrim.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
@@ -10036,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator | 85846 | [85846-the-terminator.json](./85846-the-terminator.json) |
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
+| The Terminator: Dawn of Fate | 6195 | [6195-the-terminator-dawn-of-fate.json](./6195-the-terminator-dawn-of-fate.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
@@ -14941,6 +14945,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
+| Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
+| Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
 | Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
@@ -15086,6 +15092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Total World Liberation | 224607 | [224607-total-world-liberation.json](./224607-total-world-liberation.json) |
 | Total Zugzwang | 310145 | [310145-total-zugzwang.json](./310145-total-zugzwang.json) |
+| Totaled! | 6214 | [6214-totaled.json](./6214-totaled.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
 | Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
 | Totally Accurate Battle Zombielator | 71583 | [71583-totally-accurate-battle-zombielator.json](./71583-totally-accurate-battle-zombielator.json) |
@@ -15789,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
+| Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
@@ -16943,6 +16951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
+| Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
@@ -17831,6 +17840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit: NASCAR | 100170 | [100170-trivial-pursuit-nascar.json](./100170-trivial-pursuit-nascar.json) |
 | Trivial Pursuit: Silver Screen Edition | 206658 | [206658-trivial-pursuit-silver-screen-edition.json](./206658-trivial-pursuit-silver-screen-edition.json) |
 | Trivial Pursuit: The CD32 Edition | 39040 | [39040-trivial-pursuit-the-cd32-edition.json](./39040-trivial-pursuit-the-cd32-edition.json) |
+| Trivial Pursuit: Unhinged | 6216 | [6216-trivial-pursuit-unhinged.json](./6216-trivial-pursuit-unhinged.json) |
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
