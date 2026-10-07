@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
 | Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
+| Rad Racer | 8359 | [8359-rad-racer.json](./8359-rad-racer.json) |
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
@@ -373,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
 | Radiant Sea | 316631 | [316631-radiant-sea.json](./316631-radiant-sea.json) |
 | Radiant Silvergun | 356228 | [356228-radiant-silvergun.json](./356228-radiant-silvergun.json) |
+| Radiant Silvergun | 5422 | [5422-radiant-silvergun.json](./5422-radiant-silvergun.json) |
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
 | Radiant Starlets | 365301 | [365301-radiant-starlets.json](./365301-radiant-starlets.json) |
 | Radiant Tale: Fanfare! | 241527 | [241527-radiant-tale-fanfare.json](./241527-radiant-tale-fanfare.json) |
@@ -1714,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Puzzles | 208841 | [208841-real-puzzles.json](./208841-real-puzzles.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
+| Real Racing 3 | 22179 | [22179-real-racing-3.json](./22179-real-racing-3.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
@@ -3184,7 +3187,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil 4: Zeebo Edition | 227780 | [227780-resident-evil-4-zeebo-edition.json](./227780-resident-evil-4-zeebo-edition.json) |
 | Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
+| Resident Evil 5: Desperate Escape | 21654 | [21654-resident-evil-5-desperate-escape.json](./21654-resident-evil-5-desperate-escape.json) |
 | Resident Evil 5: Gold Edition | 24347 | [24347-resident-evil-5-gold-edition.json](./24347-resident-evil-5-gold-edition.json) |
+| Resident Evil 5: Lost in Nightmares | 21666 | [21666-resident-evil-5-lost-in-nightmares.json](./21666-resident-evil-5-lost-in-nightmares.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 7 Gold Edition & Village Gold Edition | 234684 | [234684-resident-evil-7-gold-edition-and-village-gold-edition.json](./234684-resident-evil-7-gold-edition-and-village-gold-edition.json) |
@@ -3410,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
+| Retro City Rampage | 8063 | [8063-retro-city-rampage.json](./8063-retro-city-rampage.json) |
 | Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
 | Retro Classix 2-in-1 Pack: Express Raider & Shootout | 147864 | [147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json](./147864-retro-classix-2-in-1-pack-express-raider-and-shootout.json) |
 | Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire | 147913 | [147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json](./147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json) |
