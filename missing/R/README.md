@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recca no Honoo: Flame of Recca - Final Burning | 61445 | [61445-recca-no-honoo-flame-of-recca-final-burning.json](./61445-recca-no-honoo-flame-of-recca-final-burning.json) |
+| Receiver 2 | 127489 | [127489-receiver-2.json](./127489-receiver-2.json) |
 | Receiver 2 & Receiver | 394471 | [394471-receiver-2-and-receiver.json](./394471-receiver-2-and-receiver.json) |
 | Recess | 406223 | [406223-recess.json](./406223-recess.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
@@ -5780,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Knight | 277938 | [277938-rogue-knight.json](./277938-rogue-knight.json) |
 | Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
+| Rogue Lords | 131573 | [131573-rogue-lords.json](./131573-rogue-lords.json) |
 | Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Mate | 406201 | [406201-rogue-mate.json](./406201-rogue-mate.json) |
