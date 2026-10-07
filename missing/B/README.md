@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Rappers Game Online | 115768 | [115768-battle-rappers-game-online.json](./115768-battle-rappers-game-online.json) |
 | Battle RC | 293135 | [293135-battle-rc.json](./293135-battle-rc.json) |
 | Battle Ready | 154413 | [154413-battle-ready.json](./154413-battle-ready.json) |
+| Battle Realms | 606 | [606-battle-realms.json](./606-battle-realms.json) |
 | Battle Realms: Zen Edition | 137532 | [137532-battle-realms-zen-edition.json](./137532-battle-realms-zen-edition.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
@@ -2466,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
 | Battlefield 3: Limited Edition | 41891 | [41891-battlefield-3-limited-edition.json](./41891-battlefield-3-limited-edition.json) |
+| Battlefield 3: Premium Edition | 41888 | [41888-battlefield-3-premium-edition.json](./41888-battlefield-3-premium-edition.json) |
 | Battlefield 4: China Rising | 3091 | [3091-battlefield-4-china-rising.json](./3091-battlefield-4-china-rising.json) |
 | Battlefield 4: Dragon's Teeth | 3095 | [3095-battlefield-4-dragons-teeth.json](./3095-battlefield-4-dragons-teeth.json) |
 | Battlefield 4: Final Stand | 3096 | [3096-battlefield-4-final-stand.json](./3096-battlefield-4-final-stand.json) |
@@ -6149,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bound III | 313825 | [313825-blood-bound-iii.json](./313825-blood-bound-iii.json) |
 | Blood Bound Origins | 313827 | [313827-blood-bound-origins.json](./313827-blood-bound-origins.json) |
 | Blood Bound: Dark Solstice | 313826 | [313826-blood-bound-dark-solstice.json](./313826-blood-bound-dark-solstice.json) |
+| Blood Bowl 2 | 6059 | [6059-blood-bowl-2.json](./6059-blood-bowl-2.json) |
 | Blood Bowl 2: Chaos Dwarfs | 341551 | [341551-blood-bowl-2-chaos-dwarfs.json](./341551-blood-bowl-2-chaos-dwarfs.json) |
 | Blood Bowl 2: Khemri | 150608 | [150608-blood-bowl-2-khemri.json](./150608-blood-bowl-2-khemri.json) |
 | Blood Bowl 2: Legendary Edition | 27696 | [27696-blood-bowl-2-legendary-edition.json](./27696-blood-bowl-2-legendary-edition.json) |
