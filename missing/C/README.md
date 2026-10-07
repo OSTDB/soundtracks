@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassandra's Journey 2: The Fifth Sun of Nostradamus | 56901 | [56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json](./56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json) |
 | Cassandra's Journey: The Legacy of Nostradamus | 64725 | [64725-cassandras-journey-the-legacy-of-nostradamus.json](./64725-cassandras-journey-the-legacy-of-nostradamus.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
+| Cassette Beasts | 133866 | [133866-cassette-beasts.json](./133866-cassette-beasts.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
 | Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
 | Cassette Beasts: Fashion Pack | 365834 | [365834-cassette-beasts-fashion-pack.json](./365834-cassette-beasts-fashion-pack.json) |
@@ -8151,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
+| Coromon | 123269 | [123269-coromon.json](./123269-coromon.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
@@ -8809,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
 | Crab Balls | 233477 | [233477-crab-balls.json](./233477-crab-balls.json) |
 | Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
+| Crab Champions | 133379 | [133379-crab-champions.json](./133379-crab-champions.json) |
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
