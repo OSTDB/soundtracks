@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat: De Brutale Bankroof | 201297 | [201297-redcat-de-brutale-bankroof.json](./201297-redcat-de-brutale-bankroof.json) |
 | RedCat: De Duistere Dierendiefstal | 242637 | [242637-redcat-de-duistere-dierendiefstal.json](./242637-redcat-de-duistere-dierendiefstal.json) |
 | RedCat: De Europese Stedentocht | 242635 | [242635-redcat-de-europese-stedentocht.json](./242635-redcat-de-europese-stedentocht.json) |
+| RedCat: De Razende Rekenrace | 24836 | [24836-redcat-de-razende-rekenrace.json](./24836-redcat-de-razende-rekenrace.json) |
 | RedCat: De Reusachtige Letterraket | 242636 | [242636-redcat-de-reusachtige-letterraket.json](./242636-redcat-de-reusachtige-letterraket.json) |
 | RedCat: De Spannende Stedentocht | 125279 | [125279-redcat-de-spannende-stedentocht.json](./125279-redcat-de-spannende-stedentocht.json) |
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
@@ -4360,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Medusa | 14507 | [14507-rings-of-medusa.json](./14507-rings-of-medusa.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
+| Rings of Saturn | 24843 | [24843-rings-of-saturn.json](./24843-rings-of-saturn.json) |
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
 | Rings of Saturn: Tales from the Rings | 169249 | [169249-rings-of-saturn-tales-from-the-rings.json](./169249-rings-of-saturn-tales-from-the-rings.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
