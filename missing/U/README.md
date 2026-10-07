@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
+| Underground Pool | 56893 | [56893-underground-pool.json](./56893-underground-pool.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
 | Underground Sheriff | 223386 | [223386-underground-sheriff.json](./223386-underground-sheriff.json) |
