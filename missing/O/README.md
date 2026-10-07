@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
 | Overcooked! 2: Too Many Cooks Pack | 151307 | [151307-overcooked-2-too-many-cooks-pack.json](./151307-overcooked-2-too-many-cooks-pack.json) |
+| Overcooked! All You Can Eat | 135915 | [135915-overcooked-all-you-can-eat.json](./135915-overcooked-all-you-can-eat.json) |
 | Overcooked! All You Can Eat: The Ever Peckish Rises | 182254 | [182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json](./182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json) |
 | Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
 | Overcraft | 113148 | [113148-overcraft.json](./113148-overcraft.json) |
