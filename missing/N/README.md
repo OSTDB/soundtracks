@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
+| NASCAR 07 | 5944 | [5944-nascar-07.json](./5944-nascar-07.json) |
 | NASCAR 08 | 7103 | [7103-nascar-08.json](./7103-nascar-08.json) |
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racing: 1999 Edition | 69565 | [69565-nascar-racing-1999-edition.json](./69565-nascar-racing-1999-edition.json) |
 | NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
+| NASCAR Thunder 2002 | 5946 | [5946-nascar-thunder-2002.json](./5946-nascar-thunder-2002.json) |
 | NASCAR Thunder 2004 | 5947 | [5947-nascar-thunder-2004.json](./5947-nascar-thunder-2004.json) |
 | NASCAR Unleashed | 334075 | [334075-nascar-unleashed.json](./334075-nascar-unleashed.json) |
 | NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 09 | 5063 | [5063-nba-live-09.json](./5063-nba-live-09.json) |
 | NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
+| NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
 | NBA Live 20 | 114284 | [114284-nba-live-20.json](./114284-nba-live-20.json) |
@@ -859,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Final Four 2004 | 68304 | [68304-ncaa-final-four-2004.json](./68304-ncaa-final-four-2004.json) |
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
+| NCAA Football 09 | 5065 | [5065-ncaa-football-09.json](./5065-ncaa-football-09.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 11 | 7112 | [7112-ncaa-football-11.json](./7112-ncaa-football-11.json) |
 | NCAA Football 12 | 7113 | [7113-ncaa-football-12.json](./7113-ncaa-football-12.json) |
@@ -2949,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Fighter | 200422 | [200422-ninja-fighter.json](./200422-ninja-fighter.json) |
 | Ninja Fishing | 228412 | [228412-ninja-fishing.json](./228412-ninja-fishing.json) |
 | Ninja Five-O | 287869 | [287869-ninja-five-o.json](./287869-ninja-five-o.json) |
+| Ninja Five-O | 6524 | [6524-ninja-five-o.json](./6524-ninja-five-o.json) |
 | Ninja Flip | 300856 | [300856-ninja-flip.json](./300856-ninja-flip.json) |
 | Ninja Frog | 93523 | [93523-ninja-frog.json](./93523-ninja-frog.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
