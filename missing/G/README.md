@@ -589,14 +589,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Racer 2006 | 20147 | [20147-gallop-racer-2006.json](./20147-gallop-racer-2006.json) |
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
+| Galmedes | 40147 | [40147-galmedes.json](./40147-galmedes.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | Galppo Club | 92132 | [92132-galppo-club.json](./92132-galppo-club.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
 | Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
 | Gals Fighters (Best Collection) | 75466 | [75466-gals-fighters-best-collection.json](./75466-gals-fighters-best-collection.json) |
+| Gals Hustler | 40146 | [40146-gals-hustler.json](./40146-gals-hustler.json) |
 | Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
 | Gals Panic 4 | 46848 | [46848-gals-panic-4.json](./46848-gals-panic-4.json) |
 | Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
+| Gals Panic S: Extra Edition | 40144 | [40144-gals-panic-s-extra-edition.json](./40144-gals-panic-s-extra-edition.json) |
+| Gals Panic S2 | 40145 | [40145-gals-panic-s2.json](./40145-gals-panic-s2.json) |
+| Gals Panic S3 | 40143 | [40143-gals-panic-s3.json](./40143-gals-panic-s3.json) |
 | Galshell 2 | 224500 | [224500-galshell-2.json](./224500-galshell-2.json) |
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
@@ -889,12 +894,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
 | Ganbare Jajamaru Saisho ha Goo | 234221 | [234221-ganbare-jajamaru-saisho-ha-goo.json](./234221-ganbare-jajamaru-saisho-ha-goo.json) |
+| Ganbare Marine Kun | 40141 | [40141-ganbare-marine-kun.json](./40141-ganbare-marine-kun.json) |
 | Ganbare Morikawa Kun 2nd PET ON TV | 213887 | [213887-ganbare-morikawa-kun-2nd-pet-on-tv.json](./213887-ganbare-morikawa-kun-2nd-pet-on-tv.json) |
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Ganbare Pennant Race! | 48529 | [48529-ganbare-pennant-race.json](./48529-ganbare-pennant-race.json) |
 | Ganbare Untenshi!! | 380675 | [380675-ganbare-untenshi.json](./380675-ganbare-untenshi.json) |
 | Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
+| Ganbare! Gonta!! 2 | 40142 | [40142-ganbare-gonta-2.json](./40142-ganbare-gonta-2.json) |
 | Ganbare! Inu-chan: Rock'n Roll-hen | 280460 | [280460-ganbare-inu-chan-rockn-roll-hen.json](./280460-ganbare-inu-chan-rockn-roll-hen.json) |
 | Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
 | Ganbaru Watashi no Kakei Diary | 124591 | [124591-ganbaru-watashi-no-kakei-diary.json](./124591-ganbaru-watashi-no-kakei-diary.json) |
@@ -1144,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gartic.io | 191695 | [191695-gartic-io.json](./191695-gartic-io.json) |
 | Gartu in the Kindergarten | 41490 | [41490-gartu-in-the-kindergarten.json](./41490-gartu-in-the-kindergarten.json) |
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
+| Garuka | 40140 | [40140-garuka.json](./40140-garuka.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
 | Gary Grigsby's War in the East | 24627 | [24627-gary-grigsbys-war-in-the-east.json](./24627-gary-grigsbys-war-in-the-east.json) |
@@ -2212,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
 | Ghostlight Melancholia | 201082 | [201082-ghostlight-melancholia.json](./201082-ghostlight-melancholia.json) |
+| Ghostlop | 40126 | [40126-ghostlop.json](./40126-ghostlop.json) |
 | Ghostlop (Limited release) | 75470 | [75470-ghostlop-limited-release.json](./75470-ghostlop-limited-release.json) |
 | Ghostly Desires | 73856 | [73856-ghostly-desires.json](./73856-ghostly-desires.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
@@ -3102,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
 | Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
+| Goal92 | 40125 | [40125-goal92.json](./40125-goal92.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
 | Goalie Challenge VR | 29567 | [29567-goalie-challenge-vr.json](./29567-goalie-challenge-vr.json) |
 | Goalie Game | 328670 | [328670-goalie-game.json](./328670-goalie-game.json) |
@@ -4286,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
+| Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
@@ -4784,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Greasemnk++ | 347290 | [347290-greasemnk.json](./347290-greasemnk.json) |
+| Great 1000 Miles Rally: Evolution Model!!! | 40157 | [40157-great-1000-miles-rally-evolution-model.json](./40157-great-1000-miles-rally-evolution-model.json) |
 | Great Adventures Lost Mountains | 54060 | [54060-great-adventures-lost-mountains.json](./54060-great-adventures-lost-mountains.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
@@ -5546,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Rock | 286655 | [286655-guardian-rock.json](./286655-guardian-rock.json) |
 | Guardian Sphere | 176334 | [176334-guardian-sphere.json](./176334-guardian-sphere.json) |
 | Guardian Stone: Second War | 58650 | [58650-guardian-stone-second-war.json](./58650-guardian-stone-second-war.json) |
+| Guardian Storm | 40156 | [40156-guardian-storm.json](./40156-guardian-storm.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
@@ -5802,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulclight TDF2 | 64747 | [64747-gulclight-tdf2.json](./64747-gulclight-tdf2.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
+| Gulf Storm | 40154 | [40154-gulf-storm.json](./40154-gulf-storm.json) |
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
@@ -5822,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
+| Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
@@ -5858,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
+| Gun Dealer '94 | 40151 | [40151-gun-dealer-94.json](./40151-gun-dealer-94.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Down the Gungan | 334945 | [334945-gun-down-the-gungan.json](./334945-gun-down-the-gungan.json) |
@@ -6201,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Guruguru Animals | 96268 | [96268-guruguru-animals.json](./96268-guruguru-animals.json) |
 | Guruguru Tamagotchi! | 77578 | [77578-guruguru-tamagotchi.json](./77578-guruguru-tamagotchi.json) |
+| Gururin | 40123 | [40123-gururin.json](./40123-gururin.json) |
 | Gururin World | 286633 | [286633-gururin-world.json](./286633-gururin-world.json) |
 | Gus and Jaq's Cooking Chaos | 246526 | [246526-gus-and-jaqs-cooking-chaos.json](./246526-gus-and-jaqs-cooking-chaos.json) |
 | Gus and the Cyberbuds: Sing, Play & Paint-A-Long | 282237 | [282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json](./282237-gus-and-the-cyberbuds-sing-play-and-paint-a-long.json) |
