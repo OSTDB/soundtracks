@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
+| Hello Mr. President | 54900 | [54900-hello-mr-president.json](./54900-hello-mr-president.json) |
 | Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
 | Hello Neighbor 2: Back to School | 238575 | [238575-hello-neighbor-2-back-to-school.json](./238575-hello-neighbor-2-back-to-school.json) |
