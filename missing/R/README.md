@@ -4653,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Warriors | 71026 | [71026-rising-warriors.json](./71026-rising-warriors.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
 | Risk | 16458 | [16458-risk.json](./16458-risk.json) |
+| Risk | 82434 | [82434-risk.json](./82434-risk.json) |
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
@@ -7464,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
 | Ryouko Inoue Chatting Room | 93206 | [93206-ryouko-inoue-chatting-room.json](./93206-ryouko-inoue-chatting-room.json) |
+| Ryse: Legendary Edition | 82422 | [82422-ryse-legendary-edition.json](./82422-ryse-legendary-edition.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
 | Rystel | 151723 | [151723-rystel.json](./151723-rystel.json) |
 | Rythenia | 151126 | [151126-rythenia.json](./151126-rythenia.json) |
