@@ -7858,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
+| Prey: An Alien Encounter | 38843 | [38843-prey-an-alien-encounter.json](./38843-prey-an-alien-encounter.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
 | Preytiger | 181734 | [181734-preytiger.json](./181734-preytiger.json) |
 | Prezzemolo in un Viaggio da Sogno | 305292 | [305292-prezzemolo-in-un-viaggio-da-sogno.json](./305292-prezzemolo-in-un-viaggio-da-sogno.json) |
@@ -10136,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
+| Puzzle Retreat | 38867 | [38867-puzzle-retreat.json](./38867-puzzle-retreat.json) |
 | Puzzle Room Escape | 261983 | [261983-puzzle-room-escape.json](./261983-puzzle-room-escape.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
