@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V | 400427 | [400427-final-fantasy-v.json](./400427-final-fantasy-v.json) |
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
+| Final Fantasy VI | 146218 | [146218-final-fantasy-vi.json](./146218-final-fantasy-vi.json) |
 | Final Fantasy VI | 158985 | [158985-final-fantasy-vi.json](./158985-final-fantasy-vi.json) |
 | Final Fantasy VI T-Edition + EX | 186095 | [186095-final-fantasy-vi-t-edition-ex.json](./186095-final-fantasy-vi-t-edition-ex.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
