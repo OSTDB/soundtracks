@@ -78,6 +78,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
 | Wagrrr | 129058 | [129058-wagrrr.json](./129058-wagrrr.json) |
 | Wagyan Land | 206760 | [206760-wagyan-land.json](./206760-wagyan-land.json) |
+| Wagyan Land | 48550 | [48550-wagyan-land.json](./48550-wagyan-land.json) |
+| Wagyan Land 2 | 48549 | [48549-wagyan-land-2.json](./48549-wagyan-land-2.json) |
+| Wagyan Land 3 | 48548 | [48548-wagyan-land-3.json](./48548-wagyan-land-3.json) |
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
@@ -87,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wai-wai Check 8/26 | 345496 | [345496-wai-wai-check-8-26.json](./345496-wai-wai-check-8-26.json) |
 | Wai-wai Check! | 345492 | [345492-wai-wai-check.json](./345492-wai-wai-check.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
+| Wai-wai World 2: SOS!! Parsley-jou | 48547 | [48547-wai-wai-world-2-sos-parsley-jou.json](./48547-wai-wai-world-2-sos-parsley-jou.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
 | Waidh | 288475 | [288475-waidh.json](./288475-waidh.json) |
 | Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
