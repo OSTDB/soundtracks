@@ -4229,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Grace's Quest: To Catch an Art Thief | 54065 | [54065-graces-quest-to-catch-an-art-thief.json](./54065-graces-quest-to-catch-an-art-thief.json) |
 | Graceful Danmaku Festival | 56130 | [56130-graceful-danmaku-festival.json](./56130-graceful-danmaku-festival.json) |
+| Graceful Explosion Machine | 26857 | [26857-graceful-explosion-machine.json](./26857-graceful-explosion-machine.json) |
 | Graceful Flying Vehicle | 368548 | [368548-graceful-flying-vehicle.json](./368548-graceful-flying-vehicle.json) |
 | Graceward: Complete Edition | 231490 | [231490-graceward-complete-edition.json](./231490-graceward-complete-edition.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
