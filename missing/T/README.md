@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
+| Targ | 24828 | [24828-targ.json](./24828-targ.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
@@ -2941,6 +2942,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
+| Tetris: The Absolute - The Grand Master 2 | 25023 | [25023-tetris-the-absolute-the-grand-master-2.json](./25023-tetris-the-absolute-the-grand-master-2.json) |
+| Tetris: The Grand Master | 25022 | [25022-tetris-the-grand-master.json](./25022-tetris-the-grand-master.json) |
+| Tetris: The Grand Master 3 - Terror‑Instinct | 25024 | [25024-tetris-the-grand-master-3-terror-instinct.json](./25024-tetris-the-grand-master-3-terror-instinct.json) |
+| Tetris: The Grand Master 4 - The Masters of Round | 25026 | [25026-tetris-the-grand-master-4-the-masters-of-round.json](./25026-tetris-the-grand-master-4-the-masters-of-round.json) |
+| Tetris: The Grand Master Ace | 25025 | [25025-tetris-the-grand-master-ace.json](./25025-tetris-the-grand-master-ace.json) |
 | Tetris26 | 40669 | [40669-tetris26.json](./40669-tetris26.json) |
 | Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
 | Tetrius | 147325 | [147325-tetrius.json](./147325-tetrius.json) |
@@ -9189,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
+| The Seeker | 24814 | [24814-the-seeker.json](./24814-the-seeker.json) |
 | The SeethingSwarm Collection | 385848 | [385848-the-seethingswarm-collection.json](./385848-the-seethingswarm-collection.json) |
 | The Segment Twins | 239782 | [239782-the-segment-twins.json](./239782-the-segment-twins.json) |
 | The Sekimeiya: Spun Glass | 141500 | [141500-the-sekimeiya-spun-glass.json](./141500-the-sekimeiya-spun-glass.json) |
@@ -13232,6 +13239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
+| Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
 | Time Trio | 358840 | [358840-time-trio.json](./358840-time-trio.json) |
