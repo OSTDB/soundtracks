@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Out | 118292 | [118292-fade-out.json](./118292-fade-out.json) |
 | Fade to Black | 12427 | [12427-fade-to-black.json](./12427-fade-to-black.json) |
+| Fade to Silence | 76887 | [76887-fade-to-silence.json](./76887-fade-to-silence.json) |
 | Fade: A Ghost Story | 307742 | [307742-fade-a-ghost-story.json](./307742-fade-a-ghost-story.json) |
 | Fade^2 | 279889 | [279889-fade-2.json](./279889-fade-2.json) |
 | Faded | 290525 | [290525-faded.json](./290525-faded.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
 | Final Fantasy XIV: The Promise of Tomorrow | 350547 | [350547-final-fantasy-xiv-the-promise-of-tomorrow.json](./350547-final-fantasy-xiv-the-promise-of-tomorrow.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
+| Final Fantasy XV Multiplayer: Comrades | 76163 | [76163-final-fantasy-xv-multiplayer-comrades.json](./76163-final-fantasy-xv-multiplayer-comrades.json) |
 | Final Fantasy XV: Deluxe Edition | 38492 | [38492-final-fantasy-xv-deluxe-edition.json](./38492-final-fantasy-xv-deluxe-edition.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
 | Final Fantasy XV: Episode Ignis | 37291 | [37291-final-fantasy-xv-episode-ignis.json](./37291-final-fantasy-xv-episode-ignis.json) |
@@ -3579,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
 | First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
+| First Samurai | 71214 | [71214-first-samurai.json](./71214-first-samurai.json) |
 | First Samurai 64 | 356291 | [356291-first-samurai-64.json](./356291-first-samurai-64.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
@@ -6490,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
+| Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
