@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
+| Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
 | Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
 | SAM Simulator | 71179 | [71179-sam-simulator.json](./71179-sam-simulator.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
@@ -6811,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
 | Skate or Die | 40929 | [40929-skate-or-die.json](./40929-skate-or-die.json) |
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
+| Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Shop Simulator | 211269 | [211269-skate-shop-simulator.json](./211269-skate-shop-simulator.json) |
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
@@ -9762,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
+| Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
@@ -9805,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3 Fighter Sonic | 246945 | [246945-sonic-3-fighter-sonic.json](./246945-sonic-3-fighter-sonic.json) |
 | Sonic 3 Timelines SMS Remake | 227802 | [227802-sonic-3-timelines-sms-remake.json](./227802-sonic-3-timelines-sms-remake.json) |
 | Sonic 3: "Other Circumstance" | 336363 | [336363-sonic-3-other-circumstance.json](./336363-sonic-3-other-circumstance.json) |
+| Sonic 3: Angel Island Revisited | 132189 | [132189-sonic-3-angel-island-revisited.json](./132189-sonic-3-angel-island-revisited.json) |
 | Sonic 3: D.A. Garden Edition | 296108 | [296108-sonic-3-d-a-garden-edition.json](./296108-sonic-3-d-a-garden-edition.json) |
 | Sonic 3000 | 265226 | [265226-sonic-3000.json](./265226-sonic-3000.json) |
 | Sonic 360º | 326799 | [326799-sonic-360o.json](./326799-sonic-360o.json) |
@@ -16462,6 +16466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
+| Struggling | 115624 | [115624-struggling.json](./115624-struggling.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
@@ -17193,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Pockets | 87682 | [87682-summer-pockets.json](./87682-summer-pockets.json) |
+| Summer Pockets Reflection Blue | 127571 | [127571-summer-pockets-reflection-blue.json](./127571-summer-pockets-reflection-blue.json) |
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
 | Summer Resort Mogul | 53683 | [53683-summer-resort-mogul.json](./53683-summer-resort-mogul.json) |
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
