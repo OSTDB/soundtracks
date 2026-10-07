@@ -5782,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
+| Guilty Gear Isuka | 5857 | [5857-guilty-gear-isuka.json](./5857-guilty-gear-isuka.json) |
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
