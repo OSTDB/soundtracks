@@ -4782,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Große Jump & Run-Box | 93971 | [93971-die-gro-e-jump-and-run-box.json](./93971-die-gro-e-jump-and-run-box.json) |
 | Die Hard | 245290 | [245290-die-hard.json](./245290-die-hard.json) |
+| Die Hard | 47188 | [47188-die-hard.json](./47188-die-hard.json) |
 | Die Hard | 72331 | [72331-die-hard.json](./72331-die-hard.json) |
 | Die Hard 2: Die Harder | 245291 | [245291-die-hard-2-die-harder.json](./245291-die-hard-2-die-harder.json) |
 | Die Hard 64 | 136862 | [136862-die-hard-64.json](./136862-die-hard-64.json) |
