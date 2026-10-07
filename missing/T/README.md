@@ -6411,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
 | The IOTA Project | 55671 | [55671-the-iota-project.json](./55671-the-iota-project.json) |
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
+| The Irem Skins Game | 44452 | [44452-the-irem-skins-game.json](./44452-the-irem-skins-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
