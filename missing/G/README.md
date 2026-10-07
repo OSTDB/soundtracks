@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Chase | 24826 | [24826-galactic-chase.json](./24826-galactic-chase.json) |
 | Galactic Civilizations | 10344 | [10344-galactic-civilizations.json](./10344-galactic-civilizations.json) |
+| Galactic Civilizations II: Endless Universe | 21353 | [21353-galactic-civilizations-ii-endless-universe.json](./21353-galactic-civilizations-ii-endless-universe.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
@@ -4541,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Remake | 255022 | [255022-granny-remake.json](./255022-granny-remake.json) |
 | Granny Simulator | 103568 | [103568-granny-simulator.json](./103568-granny-simulator.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
+| Granny: Escape Together | 324118 | [324118-granny-escape-together.json](./324118-granny-escape-together.json) |
 | Granny's Gotcha | 343414 | [343414-grannys-gotcha.json](./343414-grannys-gotcha.json) |
 | Granny's Grantastic Granventure | 105096 | [105096-grannys-grantastic-granventure.json](./105096-grannys-grantastic-granventure.json) |
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
@@ -5110,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
+| Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
 | Greyhill Incident | 196995 | [196995-greyhill-incident.json](./196995-greyhill-incident.json) |
 | Greyhill Incident: Found Footage Mode | 252682 | [252682-greyhill-incident-found-footage-mode.json](./252682-greyhill-incident-found-footage-mode.json) |
 | Greyhound Manager 2 | 175195 | [175195-greyhound-manager-2.json](./175195-greyhound-manager-2.json) |
@@ -5574,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
+| Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GSPS The Game | 360113 | [360113-gsps-the-game.json](./360113-gsps-the-game.json) |
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
@@ -5789,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Guilty | 7839 | [7839-guilty.json](./7839-guilty.json) |
 | Guilty as Charged! | 394468 | [394468-guilty-as-charged.json](./394468-guilty-as-charged.json) |
+| Guilty as Sock! | 330016 | [330016-guilty-as-sock.json](./330016-guilty-as-sock.json) |
 | Guilty Bastards | 84299 | [84299-guilty-bastards.json](./84299-guilty-bastards.json) |
 | Guilty Cradle | 395239 | [395239-guilty-cradle.json](./395239-guilty-cradle.json) |
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
