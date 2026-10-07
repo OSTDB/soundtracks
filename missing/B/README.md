@@ -4495,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
+| Bio Miracle Bokutte Upa | 41245 | [41245-bio-miracle-bokutte-upa.json](./41245-bio-miracle-bokutte-upa.json) |
 | Bio Prototype | 226257 | [226257-bio-prototype.json](./226257-bio-prototype.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
@@ -4745,6 +4746,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishojo Battlefield | 174646 | [174646-bishojo-battlefield.json](./174646-bishojo-battlefield.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
+| Bishoujo Control | 41253 | [41253-bishoujo-control.json](./41253-bishoujo-control.json) |
+| Bishoujo Hanafuda Club Vol.1: Oichokabu-hen | 41280 | [41280-bishoujo-hanafuda-club-vol-1-oichokabu-hen.json](./41280-bishoujo-hanafuda-club-vol-1-oichokabu-hen.json) |
+| Bishoujo Hanafuda Club Vol.2: Koikoi Bakappana-hen | 41279 | [41279-bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen.json](./41279-bishoujo-hanafuda-club-vol-2-koikoi-bakappana-hen.json) |
 | Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special | 45417 | [45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json](./45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json) |
 | Bishoujo Janshi Suchie-Pai | 44442 | [44442-bishoujo-janshi-suchie-pai.json](./44442-bishoujo-janshi-suchie-pai.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
