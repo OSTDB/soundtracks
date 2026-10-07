@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunters: Collector's Edition | 341021 | [341021-ghost-hunters-collectors-edition.json](./341021-ghost-hunters-collectors-edition.json) |
 | Ghost Hunting Journal | 399212 | [399212-ghost-hunting-journal.json](./399212-ghost-hunting-journal.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
+| Ghost in the Machine | 35475 | [35475-ghost-in-the-machine.json](./35475-ghost-in-the-machine.json) |
 | Ghost in the Shell | 8336 | [8336-ghost-in-the-shell.json](./8336-ghost-in-the-shell.json) |
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
