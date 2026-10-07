@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masha and the Bear Child Games: Cooking Adventure | 95847 | [95847-masha-and-the-bear-child-games-cooking-adventure.json](./95847-masha-and-the-bear-child-games-cooking-adventure.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Masha Rescues Grandma | 30325 | [30325-masha-rescues-grandma.json](./30325-masha-rescues-grandma.json) |
+| Mashed: Drive to Survive | 5816 | [5816-mashed-drive-to-survive.json](./5816-mashed-drive-to-survive.json) |
 | Mashin Eiyuuden Wataru | 280846 | [280846-mashin-eiyuuden-wataru.json](./280846-mashin-eiyuuden-wataru.json) |
 | Mashin Eiyuuden Wataru 2: Gekisen! Ryuusei-maru vs. Kokuryuukaku | 284457 | [284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json](./284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json) |
 | Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
+| Mass Effect: Andromeda - Deluxe Edition | 27766 | [27766-mass-effect-andromeda-deluxe-edition.json](./27766-mass-effect-andromeda-deluxe-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Bring Down the Sky | 13784 | [13784-mass-effect-bring-down-the-sky.json](./13784-mass-effect-bring-down-the-sky.json) |
@@ -5099,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
 | Men in Black: The Series | 49285 | [49285-men-in-black-the-series.json](./49285-men-in-black-the-series.json) |
+| Men of Valor | 5913 | [5913-men-of-valor.json](./5913-men-of-valor.json) |
 | Men of War | 9854 | [9854-men-of-war.json](./9854-men-of-war.json) |
 | Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
@@ -5920,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
+| Michigan: Report from Hell | 26294 | [26294-michigan-report-from-hell.json](./26294-michigan-report-from-hell.json) |
 | Michiko Jump! | 217846 | [217846-michiko-jump.json](./217846-michiko-jump.json) |
 | Michinoku Hisen Koimonogatari | 64666 | [64666-michinoku-hisen-koimonogatari.json](./64666-michinoku-hisen-koimonogatari.json) |
 | Michinoku Hitou Koimonogatari Kai | 64660 | [64660-michinoku-hitou-koimonogatari-kai.json](./64660-michinoku-hitou-koimonogatari-kai.json) |
@@ -10259,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Playhouse | 29048 | [29048-mouse-playhouse.json](./29048-mouse-playhouse.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
+| Mouse Trap | 5687 | [5687-mouse-trap.json](./5687-mouse-trap.json) |
 | Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
 | Mouse Trap Hotel | 49037 | [49037-mouse-trap-hotel.json](./49037-mouse-trap-hotel.json) |
 | Mouse Trophy | 59057 | [59057-mouse-trophy.json](./59057-mouse-trophy.json) |
