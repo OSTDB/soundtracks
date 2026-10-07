@@ -6476,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons 2 | 63569 | [63569-bloons-2.json](./63569-bloons-2.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons 2: Spring Fling | 318006 | [318006-bloons-2-spring-fling.json](./318006-bloons-2-spring-fling.json) |
+| Bloons Adventure Time TD | 107194 | [107194-bloons-adventure-time-td.json](./107194-bloons-adventure-time-td.json) |
 | Bloons Bomb Gem 3 Match | 230967 | [230967-bloons-bomb-gem-3-match.json](./230967-bloons-bomb-gem-3-match.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Bloons Card Storm | 314325 | [314325-bloons-card-storm.json](./314325-bloons-card-storm.json) |
@@ -6490,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Super Monkey | 63400 | [63400-bloons-super-monkey.json](./63400-bloons-super-monkey.json) |
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
+| Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
@@ -6891,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
 | Bodyconscious Digital Rave! Part 1: Shinjuku & Takashi | 245249 | [245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json](./245249-bodyconscious-digital-rave-part-1-shinjuku-and-takashi.json) |
+| Bodycount | 6924 | [6924-bodycount.json](./6924-bodycount.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
 | Bodyrain | 293857 | [293857-bodyrain.json](./293857-bodyrain.json) |
@@ -9249,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Double Shot | 20672 | [20672-bubble-bobble-double-shot.json](./20672-bubble-bobble-double-shot.json) |
 | Bubble Bobble Evolution | 38483 | [38483-bubble-bobble-evolution.json](./38483-bubble-bobble-evolution.json) |
 | Bubble Bobble Nostalgie | 251020 | [251020-bubble-bobble-nostalgie.json](./251020-bubble-bobble-nostalgie.json) |
+| Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
