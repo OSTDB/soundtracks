@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakano Kouichi Kanshuu: Keirin-ou | 37913 | [37913-nakano-kouichi-kanshuu-keirin-ou.json](./37913-nakano-kouichi-kanshuu-keirin-ou.json) |
 | Nakashima Tetsunari no Othello Seminar | 54943 | [54943-nakashima-tetsunari-no-othello-seminar.json](./54943-nakashima-tetsunari-no-othello-seminar.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
+| Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nami no Iro: The Color of the Waves | 385775 | [385775-nami-no-iro-the-color-of-the-waves.json](./385775-nami-no-iro-the-color-of-the-waves.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
+| Namida no Sokoban Special | 41295 | [41295-namida-no-sokoban-special.json](./41295-namida-no-sokoban-special.json) |
 | Namiko | 64127 | [64127-namiko.json](./64127-namiko.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
