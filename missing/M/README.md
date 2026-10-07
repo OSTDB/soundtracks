@@ -10736,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
+| Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
