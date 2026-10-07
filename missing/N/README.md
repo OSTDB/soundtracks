@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
+| NBA Give 'n Go | 42482 | [42482-nba-give-n-go.json](./42482-nba-give-n-go.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
 | NBA In The Zone | 309981 | [309981-nba-in-the-zone.json](./309981-nba-in-the-zone.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
+| Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway | 208727 | [208727-nickelodeon-kart-racers-3-slime-speedway.json](./208727-nickelodeon-kart-racers-3-slime-speedway.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
@@ -3073,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintama Rantarou GB | 138095 | [138095-nintama-rantarou-gb.json](./138095-nintama-rantarou-gb.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
+| Nintama Rantarou Special | 42519 | [42519-nintama-rantarou-special.json](./42519-nintama-rantarou-special.json) |
 | Nintama Rantarou: Gungun Nobiru Chinou-hen | 63943 | [63943-nintama-rantarou-gungun-nobiru-chinou-hen.json](./63943-nintama-rantarou-gungun-nobiru-chinou-hen.json) |
 | Nintama Rantarou: Hajimete Oboeru Chishiki-hen | 63937 | [63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json](./63937-nintama-rantarou-hajimete-oboeru-chishiki-hen.json) |
 | Nintendo 3DS Sound: Soccer | 250320 | [250320-nintendo-3ds-sound-soccer.json](./250320-nintendo-3ds-sound-soccer.json) |
@@ -3649,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
 | Nola1 | 299853 | [299853-nola1.json](./299853-nola1.json) |
+| Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
 | Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
