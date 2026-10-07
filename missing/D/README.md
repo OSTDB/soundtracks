@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Laser | 334676 | [334676-dan-laser.json](./334676-dan-laser.json) |
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
+| Dan the Man | 38946 | [38946-dan-the-man.json](./38946-dan-the-man.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Danball Senki | 321466 | [321466-danball-senki.json](./321466-danball-senki.json) |
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Collection: Consumer Edition | 218594 | [218594-darius-cozmic-collection-consumer-edition.json](./218594-darius-cozmic-collection-consumer-edition.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius Cozmic Revelation: Special Limited Edition | 167082 | [167082-darius-cozmic-revelation-special-limited-edition.json](./167082-darius-cozmic-revelation-special-limited-edition.json) |
+| Darius Gaiden | 6788 | [6788-darius-gaiden.json](./6788-darius-gaiden.json) |
 | Darius Maker | 294786 | [294786-darius-maker.json](./294786-darius-maker.json) |
 | Darius R | 49277 | [49277-darius-r.json](./49277-darius-r.json) |
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
@@ -5679,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 2: Dark Hero Days | 21851 | [21851-disgaea-2-dark-hero-days.json](./21851-disgaea-2-dark-hero-days.json) |
 | Disgaea 3: Absence of Detention | 18370 | [18370-disgaea-3-absence-of-detention.json](./18370-disgaea-3-absence-of-detention.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
+| Disgaea 4: A Promise Unforgotten | 7298 | [7298-disgaea-4-a-promise-unforgotten.json](./7298-disgaea-4-a-promise-unforgotten.json) |
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
@@ -10752,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
+| Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
 | Dynamite Dan II | 13617 | [13617-dynamite-dan-ii.json](./13617-dynamite-dan-ii.json) |
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
