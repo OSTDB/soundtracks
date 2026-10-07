@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hat in Time: Vanessa's Curse | 193202 | [193202-a-hat-in-time-vanessas-curse.json](./193202-a-hat-in-time-vanessas-curse.json) |
 | A Haunted History | 201663 | [201663-a-haunted-history.json](./201663-a-haunted-history.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
+| A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
+| A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
@@ -1858,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Odyssey 3D CD-ROM | 206093 | [206093-adventures-in-odyssey-3d-cd-rom.json](./206093-adventures-in-odyssey-3d-cd-rom.json) |
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Dimension of Insidual Cruelitude. | 218996 | [218996-adventures-in-the-dimension-of-insidual-cruelitude.json](./218996-adventures-in-the-dimension-of-insidual-cruelitude.json) |
+| Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
@@ -3930,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance of Valiant Arms | 16253 | [16253-alliance-of-valiant-arms.json](./16253-alliance-of-valiant-arms.json) |
 | Alliance Peacefighter | 333129 | [333129-alliance-peacefighter.json](./333129-alliance-peacefighter.json) |
 | Alliance Tales: Battle for the Frontier | 380568 | [380568-alliance-tales-battle-for-the-frontier.json](./380568-alliance-tales-battle-for-the-frontier.json) |
+| Alliance Warfare | 23631 | [23631-alliance-warfare.json](./23631-alliance-warfare.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
 | Allie's Story | 399773 | [399773-allies-story.json](./399773-allies-story.json) |
@@ -5023,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
 | Android Helipad | 123465 | [123465-android-helipad.json](./123465-android-helipad.json) |
+| Android Hunter A | 23852 | [23852-android-hunter-a.json](./23852-android-hunter-a.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
@@ -7116,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archiver | 362909 | [362909-archiver.json](./362909-archiver.json) |
 | Archivist: Tidy Up & Sort | 403093 | [403093-archivist-tidy-up-and-sort.json](./403093-archivist-tidy-up-and-sort.json) |
 | ArchLord | 20598 | [20598-archlord.json](./20598-archlord.json) |
+| Archlord 2 | 23615 | [23615-archlord-2.json](./23615-archlord-2.json) |
 | Archmage Idle | 409719 | [409719-archmage-idle.json](./409719-archmage-idle.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archmage Rises | 31937 | [31937-archmage-rises.json](./31937-archmage-rises.json) |
@@ -8465,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
 | Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
 | Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
+| Asterix & Friends | 23621 | [23621-asterix-and-friends.json](./23621-asterix-and-friends.json) |
 | Astérix & Obélix | 228475 | [228475-asterix-and-obelix.json](./228475-asterix-and-obelix.json) |
 | Astérix & Obélix | 347901 | [347901-asterix-and-obelix.json](./347901-asterix-and-obelix.json) |
 | Astérix & Obelix Take on Caesar | 62150 | [62150-asterix-and-obelix-take-on-caesar.json](./62150-asterix-and-obelix-take-on-caesar.json) |
