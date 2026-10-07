@@ -9218,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
 | Solid Ice | 208882 | [208882-solid-ice.json](./208882-solid-ice.json) |
 | Solid Lancer | 248584 | [248584-solid-lancer.json](./248584-solid-lancer.json) |
+| Solid Runner | 44437 | [44437-solid-runner.json](./44437-solid-runner.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solid Void: Nature Puzzles | 333738 | [333738-solid-void-nature-puzzles.json](./333738-solid-void-nature-puzzles.json) |
 | Solid Void: Nonogram Triple Pack | 410389 | [410389-solid-void-nonogram-triple-pack.json](./410389-solid-void-nonogram-triple-pack.json) |
@@ -10287,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Picnic de Obenkyou | 63944 | [63944-soreike-anpanman-picnic-de-obenkyou.json](./63944-soreike-anpanman-picnic-de-obenkyou.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
+| Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
@@ -17138,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Agent: Drunk Kent | 114928 | [114928-super-agent-drunk-kent.json](./114928-super-agent-drunk-kent.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
+| Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
@@ -17593,6 +17596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
+| Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
 | Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
 | Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
@@ -18433,6 +18437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ricko's Odyssey | 333133 | [333133-super-rickos-odyssey.json](./333133-super-rickos-odyssey.json) |
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super RMN Bros. | 355166 | [355166-super-rmn-bros.json](./355166-super-rmn-bros.json) |
+| Super Road Blaster | 44444 | [44444-super-road-blaster.json](./44444-super-road-blaster.json) |
 | Super Road Champions | 230767 | [230767-super-road-champions.json](./230767-super-road-champions.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
