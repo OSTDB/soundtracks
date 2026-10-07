@@ -10029,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Championship | 19779 | [19779-motocross-championship.json](./19779-motocross-championship.json) |
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
+| Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
 | Motocross Meltdown | 343969 | [343969-motocross-meltdown.json](./343969-motocross-meltdown.json) |
@@ -11886,6 +11887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
 | My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
+| My Time at Sandrock | 140427 | [140427-my-time-at-sandrock.json](./140427-my-time-at-sandrock.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Cute Critter Furniture Pack | 275076 | [275076-my-time-at-sandrock-cute-critter-furniture-pack.json](./275076-my-time-at-sandrock-cute-critter-furniture-pack.json) |
