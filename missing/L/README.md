@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
 | LEGO City Undercover: Limited Edition | 83794 | [83794-lego-city-undercover-limited-edition.json](./83794-lego-city-undercover-limited-edition.json) |
+| LEGO City Undercover: The Chase Begins | 6837 | [6837-lego-city-undercover-the-chase-begins.json](./6837-lego-city-undercover-the-chase-begins.json) |
 | LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO Creator: Harry Potter and the Chamber of Secrets | 78288 | [78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json](./78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionheart | 25687 | [25687-lionheart.json](./25687-lionheart.json) |
 | Lionheart | 82018 | [82018-lionheart.json](./82018-lionheart.json) |
 | Lionheart: Dark Moon | 75209 | [75209-lionheart-dark-moon.json](./75209-lionheart-dark-moon.json) |
+| Lionheart: Legacy of the Crusader | 7505 | [7505-lionheart-legacy-of-the-crusader.json](./7505-lionheart-legacy-of-the-crusader.json) |
 | Lionhearts | 398560 | [398560-lionhearts.json](./398560-lionhearts.json) |
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | LIP! Lewd Idol Project Vol. 2 | 193266 | [193266-lip-lewd-idol-project-vol-2.json](./193266-lip-lewd-idol-project-vol-2.json) |
