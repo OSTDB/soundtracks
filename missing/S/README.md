@@ -4722,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Nine | 6050 | [6050-shin-megami-tensei-nine.json](./6050-shin-megami-tensei-nine.json) |
 | Shin Megami Tensei: Nocturne - Hardtype | 135678 | [135678-shin-megami-tensei-nocturne-hardtype.json](./135678-shin-megami-tensei-nocturne-hardtype.json) |
 | Shin Megami Tensei: Persona 2 - Innocent Sin | 250931 | [250931-shin-megami-tensei-persona-2-innocent-sin.json](./250931-shin-megami-tensei-persona-2-innocent-sin.json) |
+| Shin Megami Tensei: Persona 3 Portable - Collector's Edition | 41863 | [41863-shin-megami-tensei-persona-3-portable-collectors-edition.json](./41863-shin-megami-tensei-persona-3-portable-collectors-edition.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 61304 | [61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
@@ -10258,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Cave | 139761 | [139761-sorcerers-cave.json](./139761-sorcerers-cave.json) |
 | Sorcerer's Choice: Angel or Demon? | 237537 | [237537-sorcerers-choice-angel-or-demon.json](./237537-sorcerers-choice-angel-or-demon.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
+| Sorcerer's Dream | 41917 | [41917-sorcerers-dream.json](./41917-sorcerers-dream.json) |
 | Sorcerer's Kingdom | 46197 | [46197-sorcerers-kingdom.json](./46197-sorcerers-kingdom.json) |
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
@@ -11254,6 +11256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
 | Space Ship Commander | 68761 | [68761-space-ship-commander.json](./68761-space-ship-commander.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
+| Space Shock 3 | 41931 | [41931-space-shock-3.json](./41931-space-shock-3.json) |
 | Space Shoot | 346126 | [346126-space-shoot.json](./346126-space-shoot.json) |
 | Space Shooter | 155173 | [155173-space-shooter.json](./155173-space-shooter.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
@@ -14665,6 +14668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamPowered | 350009 | [350009-steampowered.json](./350009-steampowered.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
+| Steampunk Action Battle Simulator | 41930 | [41930-steampunk-action-battle-simulator.json](./41930-steampunk-action-battle-simulator.json) |
 | Steampunk Idle Spinner | 116243 | [116243-steampunk-idle-spinner.json](./116243-steampunk-idle-spinner.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
 | Steampunk Jigsaw Puzzles: Airships & Aviators | 265567 | [265567-steampunk-jigsaw-puzzles-airships-and-aviators.json](./265567-steampunk-jigsaw-puzzles-airships-and-aviators.json) |
