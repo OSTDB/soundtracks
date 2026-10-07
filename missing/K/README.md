@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
 | Killbeat | 293347 | [293347-killbeat.json](./293347-killbeat.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
+| Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
