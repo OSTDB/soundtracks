@@ -383,9 +383,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Dan Dare II: Mekon's Revenge | 13567 | [13567-dan-dare-ii-mekons-revenge.json](./13567-dan-dare-ii-mekons-revenge.json) |
+| Dan Dare III: The Escape | 12032 | [12032-dan-dare-iii-the-escape.json](./12032-dan-dare-iii-the-escape.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
 | Dan Dare: Pilot of the Future | 30214 | [30214-dan-dare-pilot-of-the-future.json](./30214-dan-dare-pilot-of-the-future.json) |
 | Dan Factory | 253381 | [253381-dan-factory.json](./253381-dan-factory.json) |
+| Dan Kitchen's Tomcat: The F-14 Fighter Simulator | 12344 | [12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json](./12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json) |
 | Dan Laser | 334676 | [334676-dan-laser.json](./334676-dan-laser.json) |
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
@@ -634,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
 | Dangerous Street | 391810 | [391810-dangerous-street.json](./391810-dangerous-street.json) |
+| Dangerous Streets | 12033 | [12033-dangerous-streets.json](./12033-dangerous-streets.json) |
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
@@ -792,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
 | Dark Cave | 170841 | [170841-dark-cave.json](./170841-dark-cave.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
+| Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
 | Dark City Trouble Nights | 266817 | [266817-dark-city-trouble-nights.json](./266817-dark-city-trouble-nights.json) |
@@ -895,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
+| Dark Fusion | 12036 | [12036-dark-fusion.json](./12036-dark-fusion.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
 | Dark Ghost RPG | 96879 | [96879-dark-ghost-rpg.json](./96879-dark-ghost-rpg.json) |
@@ -1052,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
+| Dark Side | 12053 | [12053-dark-side.json](./12053-dark-side.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of the Moon: A Sci-Fi Adventure | 68744 | [68744-dark-side-of-the-moon-a-sci-fi-adventure.json](./68744-dark-side-of-the-moon-a-sci-fi-adventure.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
@@ -1583,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Yokai | 236299 | [236299-dawn-of-yokai.json](./236299-dawn-of-yokai.json) |
 | Dawn of Zombies: Survival | 124755 | [124755-dawn-of-zombies-survival.json](./124755-dawn-of-zombies-survival.json) |
 | Dawn One | 235750 | [235750-dawn-one.json](./235750-dawn-one.json) |
+| Dawn Patrol | 12038 | [12038-dawn-patrol.json](./12038-dawn-patrol.json) |
 | Dawn Patrol | 13235 | [13235-dawn-patrol.json](./13235-dawn-patrol.json) |
 | Dawn Patrol | 13236 | [13236-dawn-patrol.json](./13236-dawn-patrol.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
@@ -1628,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
 | Day of the Undead | 360728 | [360728-day-of-the-undead.json](./360728-day-of-the-undead.json) |
+| Day of the Viper | 12039 | [12039-day-of-the-viper.json](./12039-day-of-the-viper.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
@@ -1693,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Dead | 335481 | [335481-days-of-the-dead.json](./335481-days-of-the-dead.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
+| Days of Thunder | 12040 | [12040-days-of-thunder.json](./12040-days-of-thunder.json) |
 | Days of Thunder | 326790 | [326790-days-of-thunder.json](./326790-days-of-thunder.json) |
 | Days of Thunder: Arcade | 47436 | [47436-days-of-thunder-arcade.json](./47436-days-of-thunder-arcade.json) |
 | Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
@@ -3575,6 +3584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's Tilt | 106363 | [106363-demons-tilt.json](./106363-demons-tilt.json) |
+| Demon's Tomb: The Awakening | 12045 | [12045-demons-tomb-the-awakening.json](./12045-demons-tomb-the-awakening.json) |
+| Demon's Winter | 12046 | [12046-demons-winter.json](./12046-demons-winter.json) |
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
@@ -3583,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
+| Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
@@ -5924,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
+| Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
@@ -6123,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Dwarves | 174744 | [174744-dizzy-dwarves.json](./174744-dizzy-dwarves.json) |
 | Dizzy Fight | 276294 | [276294-dizzy-fight.json](./276294-dizzy-fight.json) |
 | Dizzy Hero | 322664 | [322664-dizzy-hero.json](./322664-dizzy-hero.json) |
+| Dizzy Panic | 12050 | [12050-dizzy-panic.json](./12050-dizzy-panic.json) |
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
@@ -6496,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
+| Dogfight: 80 Years of Aerial Warfare | 12051 | [12051-dogfight-80-years-of-aerial-warfare.json](./12051-dogfight-80-years-of-aerial-warfare.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
 | Dogfighter: World War 2 | 102866 | [102866-dogfighter-world-war-2.json](./102866-dogfighter-world-war-2.json) |
@@ -7008,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
+| Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald no Magical World | 46544 | [46544-donald-no-magical-world.json](./46544-donald-no-magical-world.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
@@ -8546,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
 | Dragonfist Limitless | 256455 | [256455-dragonfist-limitless.json](./256455-dragonfist-limitless.json) |
+| Dragonflight | 12056 | [12056-dragonflight.json](./12056-dragonflight.json) |
 | Dragonfly | 97469 | [97469-dragonfly.json](./97469-dragonfly.json) |
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
@@ -8953,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
 | Dream World | 195037 | [195037-dream-world.json](./195037-dream-world.json) |
+| Dream Zone | 12058 | [12058-dream-zone.json](./12058-dream-zone.json) |
 | Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
