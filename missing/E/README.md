@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
+| Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
@@ -3189,9 +3190,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
 | ESPN Baseball Tonight | 5380 | [5380-espn-baseball-tonight.json](./5380-espn-baseball-tonight.json) |
+| ESPN Baseball: Interactive Hitting | 38850 | [38850-espn-baseball-interactive-hitting.json](./38850-espn-baseball-interactive-hitting.json) |
 | ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
+| ESPN Golf: Lower Your Score with Tom Kite - Mental Messages | 38849 | [38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json](./38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json) |
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
+| ESPN Let's Go Skiing | 38848 | [38848-espn-lets-go-skiing.json](./38848-espn-lets-go-skiing.json) |
 | ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
