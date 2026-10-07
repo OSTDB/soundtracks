@@ -6933,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Thief | 298257 | [298257-poor-thief.json](./298257-poor-thief.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
+| PooShooter: Toilet Invaders | 31672 | [31672-pooshooter-toilet-invaders.json](./31672-pooshooter-toilet-invaders.json) |
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
