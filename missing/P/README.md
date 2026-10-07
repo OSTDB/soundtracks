@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painball | 70618 | [70618-painball.json](./70618-painball.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| Painkiller | 828 | [828-painkiller.json](./828-painkiller.json) |
 | Painkiller Pandemonium | 54262 | [54262-painkiller-pandemonium.json](./54262-painkiller-pandemonium.json) |
 | Painkiller Universe | 54261 | [54261-painkiller-universe.json](./54261-painkiller-universe.json) |
 | Painkiller: Hell & Damnation: Collector's Edition | 25046 | [25046-painkiller-hell-and-damnation-collectors-edition.json](./25046-painkiller-hell-and-damnation-collectors-edition.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
+| Pokémon: Let's Go, Eevee! | 102873 | [102873-pokemon-lets-go-eevee.json](./102873-pokemon-lets-go-eevee.json) |
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
 | Pokémon: Let's Go, Pikachu! | 25877 | [25877-pokemon-lets-go-pikachu.json](./25877-pokemon-lets-go-pikachu.json) |
 | Pokémon: Let’s Go, Pikachu! + Poké Ball Plus Pack | 136786 | [136786-pokemon-let-s-go-pikachu-poke-ball-plus-pack.json](./136786-pokemon-let-s-go-pikachu-poke-ball-plus-pack.json) |
