@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
 | Shin Megami Tensei: Devil Summoner Digital Collection | 146785 | [146785-shin-megami-tensei-devil-summoner-digital-collection.json](./146785-shin-megami-tensei-devil-summoner-digital-collection.json) |
 | Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
+| Shin Megami Tensei: Devil Survivor | 6884 | [6884-shin-megami-tensei-devil-survivor.json](./6884-shin-megami-tensei-devil-survivor.json) |
 | Shin Megami Tensei: Devil Survivor Overclocked | 19131 | [19131-shin-megami-tensei-devil-survivor-overclocked.json](./19131-shin-megami-tensei-devil-survivor-overclocked.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
@@ -5677,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization II: Fantastic Worlds | 72019 | [72019-sid-meiers-civilization-ii-fantastic-worlds.json](./72019-sid-meiers-civilization-ii-fantastic-worlds.json) |
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
+| Sid Meier's Civilization IV: Warlords | 865 | [865-sid-meiers-civilization-iv-warlords.json](./865-sid-meiers-civilization-iv-warlords.json) |
 | Sid Meier's Civilization Revolution | 2152 | [2152-sid-meiers-civilization-revolution.json](./2152-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
@@ -12364,6 +12366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Edge of Time | 218005 | [218005-spider-man-edge-of-time.json](./218005-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 249160 | [249160-spider-man-edge-of-time.json](./249160-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 249161 | [249161-spider-man-edge-of-time.json](./249161-spider-man-edge-of-time.json) |
+| Spider-Man: Edge of Time | 5179 | [5179-spider-man-edge-of-time.json](./5179-spider-man-edge-of-time.json) |
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
@@ -15390,6 +15393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still It Runs | 350527 | [350527-still-it-runs.json](./350527-still-it-runs.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Life | 6175 | [6175-still-life.json](./6175-still-life.json) |
+| Still Life 2 | 6176 | [6176-still-life-2.json](./6176-still-life-2.json) |
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
@@ -17388,6 +17392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ancient Keys | 321450 | [321450-super-ancient-keys.json](./321450-super-ancient-keys.json) |
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Angry Birds | 163212 | [163212-super-angry-birds.json](./163212-super-angry-birds.json) |
+| Super Animal Royale | 109826 | [109826-super-animal-royale.json](./109826-super-animal-royale.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
 | Super Animal Royale: Season 0.5 | 204698 | [204698-super-animal-royale-season-0-5.json](./204698-super-animal-royale-season-0-5.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
