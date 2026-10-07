@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheesey Sponge | 207909 | [207909-cheesey-sponge.json](./207909-cheesey-sponge.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
+| Cheesy Invaders | 14478 | [14478-cheesy-invaders.json](./14478-cheesy-invaders.json) |
 | Cheesy Munch | 260200 | [260200-cheesy-munch.json](./260200-cheesy-munch.json) |
 | Cheesy Pursuit | 116953 | [116953-cheesy-pursuit.json](./116953-cheesy-pursuit.json) |
 | Cheesy Trials | 281529 | [281529-cheesy-trials.json](./281529-cheesy-trials.json) |
