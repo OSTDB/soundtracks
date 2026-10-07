@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
+| AaaaaAAaaaAAAaaAAAAaAAAAA!!!: A Reckless Disregard for Gravity | 6286 | [6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json](./6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Brutal Concussion | 164411 | [164411-aaaaaaaaaaaaaaaaaaaaaaaaa-brutal-concussion.json](./164411-aaaaaaaaaaaaaaaaaaaaaaaaa-brutal-concussion.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Force = Mass x Acceleration | 39233 | [39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json](./39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json) |
 | Aaaarrrrgggghhhh! | 176278 | [176278-aaaarrrrgggghhhh.json](./176278-aaaarrrrgggghhhh.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku 98 II | 60802 | [60802-advanced-daisenryaku-98-ii.json](./60802-advanced-daisenryaku-98-ii.json) |
 | Advanced Daisenryaku 98: Storm Over Europe | 60806 | [60806-advanced-daisenryaku-98-storm-over-europe.json](./60806-advanced-daisenryaku-98-storm-over-europe.json) |
 | Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
+| Advanced Dungeons & Dragons Cartridge | 5654 | [5654-advanced-dungeons-and-dragons-cartridge.json](./5654-advanced-dungeons-and-dragons-cartridge.json) |
 | Advanced Dungeons & Dragons Ultimate Fantasy | 362470 | [362470-advanced-dungeons-and-dragons-ultimate-fantasy.json](./362470-advanced-dungeons-and-dragons-ultimate-fantasy.json) |
 | Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
 | Advanced Dungeons & Dragons: Collectors Edition Vol.2 | 206102 | [206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json](./206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json) |
@@ -7911,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art na Esagashi Adventure | 251529 | [251529-art-na-esagashi-adventure.json](./251529-art-na-esagashi-adventure.json) |
 | Art of Air War | 120755 | [120755-art-of-air-war.json](./120755-art-of-air-war.json) |
+| Art of Balance | 6555 | [6555-art-of-balance.json](./6555-art-of-balance.json) |
 | Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
 | Art of Battle | 411747 | [411747-art-of-battle.json](./411747-art-of-battle.json) |
 | Art of Beauties | 385791 | [385791-art-of-beauties.json](./385791-art-of-beauties.json) |
@@ -8319,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen | 201116 | [201116-aspen.json](./201116-aspen.json) |
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
+| Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
 | Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
 | Asphalt 9: Legends - Multiplayer Champion Pack | 237896 | [237896-asphalt-9-legends-multiplayer-champion-pack.json](./237896-asphalt-9-legends-multiplayer-champion-pack.json) |
@@ -8905,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
 | Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
+| Astrosmash | 5657 | [5657-astrosmash.json](./5657-astrosmash.json) |
 | Astrostrike | 309571 | [309571-astrostrike.json](./309571-astrostrike.json) |
 | AstroSurf | 68772 | [68772-astrosurf.json](./68772-astrosurf.json) |
 | AstroSurfer | 178985 | [178985-astrosurfer.json](./178985-astrosurfer.json) |
