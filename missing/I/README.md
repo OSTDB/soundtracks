@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
 | Idol Janshi Suchie-Pai Limited | 166550 | [166550-idol-janshi-suchie-pai-limited.json](./166550-idol-janshi-suchie-pai-limited.json) |
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
+| Idol Janshi Suchie-Pai Special | 4305 | [4305-idol-janshi-suchie-pai-special.json](./4305-idol-janshi-suchie-pai-special.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
 | Idol Janshi wo Tsukucchaou | 92138 | [92138-idol-janshi-wo-tsukucchaou.json](./92138-idol-janshi-wo-tsukucchaou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
+| Immercenary | 4296 | [4296-immercenary.json](./4296-immercenary.json) |
 | Immerse Creator | 34163 | [34163-immerse-creator.json](./34163-immerse-creator.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
@@ -3294,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
 | Iron Age | 173054 | [173054-iron-age.json](./173054-iron-age.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
+| Iron Angel of the Apocalypse | 4322 | [4322-iron-angel-of-the-apocalypse.json](./4322-iron-angel-of-the-apocalypse.json) |
 | Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
 | Iron Armor Storm | 252220 | [252220-iron-armor-storm.json](./252220-iron-armor-storm.json) |
 | Iron Ascension | 110777 | [110777-iron-ascension.json](./110777-iron-ascension.json) |
