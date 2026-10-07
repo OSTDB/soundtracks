@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Warehouse | 312124 | [312124-escape-from-warehouse.json](./312124-escape-from-warehouse.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
+| Escape from Zellman Orbital | 31741 | [31741-escape-from-zellman-orbital.json](./31741-escape-from-zellman-orbital.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape From Zombie City | 85118 | [85118-escape-from-zombie-city.json](./85118-escape-from-zombie-city.json) |
 | Escape From Zombie U: Reloaded | 199601 | [199601-escape-from-zombie-u-reloaded.json](./199601-escape-from-zombie-u-reloaded.json) |
