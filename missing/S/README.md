@@ -5221,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
+| Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
@@ -7106,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Racerz | 96297 | [96297-sky-racerz.json](./96297-sky-racerz.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
 | Sky Racket | 115006 | [115006-sky-racket.json](./115006-sky-racket.json) |
+| Sky Raider | 24830 | [24830-sky-raider.json](./24830-sky-raider.json) |
 | Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
 | Sky Realm: Essences | 118332 | [118332-sky-realm-essences.json](./118332-sky-realm-essences.json) |
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
@@ -10746,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Scrimshaw, Part Two | 285550 | [285550-south-scrimshaw-part-two.json](./285550-south-scrimshaw-part-two.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
+| Southern Command | 24796 | [24796-southern-command.json](./24796-southern-command.json) |
 | Southern Legends: The Temple Defenders | 236382 | [236382-southern-legends-the-temple-defenders.json](./236382-southern-legends-the-temple-defenders.json) |
 | Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
@@ -11215,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
+| Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
@@ -11363,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Storeship | 163849 | [163849-space-storeship.json](./163849-space-storeship.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Strider | 275093 | [275093-space-strider.json](./275093-space-strider.json) |
+| Space Strike | 24912 | [24912-space-strike.json](./24912-space-strike.json) |
 | Space Struck Run | 113158 | [113158-space-struck-run.json](./113158-space-struck-run.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Survival | 171402 | [171402-space-survival.json](./171402-space-survival.json) |
@@ -16312,6 +16317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Zombies 2 | 207250 | [207250-stupid-zombies-2.json](./207250-stupid-zombies-2.json) |
 | Stupid Zombies 3 | 207251 | [207251-stupid-zombies-3.json](./207251-stupid-zombies-3.json) |
 | Stupid Zombies Xterminator | 209935 | [209935-stupid-zombies-xterminator.json](./209935-stupid-zombies-xterminator.json) |
+| StupidAdoptables | 25032 | [25032-stupidadoptables.json](./25032-stupidadoptables.json) |
 | SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
 | SturmFront: The Mutant War - Übel Edition | 52764 | [52764-sturmfront-the-mutant-war-ubel-edition.json](./52764-sturmfront-the-mutant-war-ubel-edition.json) |
@@ -19355,6 +19361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
 | Survival | 110896 | [110896-survival.json](./110896-survival.json) |
 | Survival | 235263 | [235263-survival.json](./235263-survival.json) |
+| Survival | 24910 | [24910-survival.json](./24910-survival.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival & Horror: Mortanis Prisoners Prologue | 253422 | [253422-survival-and-horror-mortanis-prisoners-prologue.json](./253422-survival-and-horror-mortanis-prisoners-prologue.json) |
 | Survival & Horror: The Damned City | 244750 | [244750-survival-and-horror-the-damned-city.json](./244750-survival-and-horror-the-damned-city.json) |
@@ -20245,6 +20252,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
+| Swordthrust 5: The Green Plague | 24793 | [24793-swordthrust-5-the-green-plague.json](./24793-swordthrust-5-the-green-plague.json) |
+| Swordthrust 6: The Eternal Curse | 24794 | [24794-swordthrust-6-the-eternal-curse.json](./24794-swordthrust-6-the-eternal-curse.json) |
+| Swordthrust 7: The Hall of Alchemie | 24795 | [24795-swordthrust-7-the-hall-of-alchemie.json](./24795-swordthrust-7-the-hall-of-alchemie.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
