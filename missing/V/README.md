@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
 | Vampire: The Masquerade - Reckoning of New York | 305291 | [305291-vampire-the-masquerade-reckoning-of-new-york.json](./305291-vampire-the-masquerade-reckoning-of-new-york.json) |
 | Vampire: The Masquerade - Shadows of New York | 132102 | [132102-vampire-the-masquerade-shadows-of-new-york.json](./132102-vampire-the-masquerade-shadows-of-new-york.json) |
+| Vampire: The Masquerade - Swansong | 124992 | [124992-vampire-the-masquerade-swansong.json](./124992-vampire-the-masquerade-swansong.json) |
 | Vampire: The Masquerade - Swansong Alternate Outfits Pack | 225608 | [225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json](./225608-vampire-the-masquerade-swansong-alternate-outfits-pack.json) |
 | Vampire: The Masquerade - Swansong Artifacts Pack | 225612 | [225612-vampire-the-masquerade-swansong-artifacts-pack.json](./225612-vampire-the-masquerade-swansong-artifacts-pack.json) |
 | Vampire: The Masquerade - Swansong Victoria Ash | 225611 | [225611-vampire-the-masquerade-swansong-victoria-ash.json](./225611-vampire-the-masquerade-swansong-victoria-ash.json) |
