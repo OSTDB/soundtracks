@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgement Silversword | 140313 | [140313-judgement-silversword.json](./140313-judgement-silversword.json) |
 | Judgement Silversword: Rebirth Edition | 37699 | [37699-judgement-silversword-rebirth-edition.json](./37699-judgement-silversword-rebirth-edition.json) |
+| Judgment | 281562 | [281562-judgment.json](./281562-judgment.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JungleKnight | 149206 | [149206-jungleknight.json](./149206-jungleknight.json) |
 | Jungler | 245460 | [245460-jungler.json](./245460-jungler.json) |
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
+| Jungles of Maxtheria | 139403 | [139403-jungles-of-maxtheria.json](./139403-jungles-of-maxtheria.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
