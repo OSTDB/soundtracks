@@ -7486,6 +7486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
+| The Light Remake | 123791 | [123791-the-light-remake.json](./123791-the-light-remake.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
@@ -9028,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewind Hero Returns | 404992 | [404992-the-rewind-hero-returns.json](./404992-the-rewind-hero-returns.json) |
+| The Rewinder | 127031 | [127031-the-rewinder.json](./127031-the-rewinder.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rewrite Journal | 297573 | [297573-the-rewrite-journal.json](./297573-the-rewrite-journal.json) |
@@ -9650,6 +9652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Sweet Slumber Party Kit | 330390 | [330390-the-sims-4-sweet-slumber-party-kit.json](./330390-the-sims-4-sweet-slumber-party-kit.json) |
 | The Sims 4: Tea Time Solarium Kit | 404224 | [404224-the-sims-4-tea-time-solarium-kit.json](./404224-the-sims-4-tea-time-solarium-kit.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
+| The Sims 4: Tiny Living Stuff | 129132 | [129132-the-sims-4-tiny-living-stuff.json](./129132-the-sims-4-tiny-living-stuff.json) |
 | The Sims 4: Toddler Stuff | 54696 | [54696-the-sims-4-toddler-stuff.json](./54696-the-sims-4-toddler-stuff.json) |
 | The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
 | The Sims 4: Wonderland Playroom Kit | 404231 | [404231-the-sims-4-wonderland-playroom-kit.json](./404231-the-sims-4-wonderland-playroom-kit.json) |
