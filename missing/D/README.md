@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage Unleashed 2 | 5804 | [5804-dancing-stage-unleashed-2.json](./5804-dancing-stage-unleashed-2.json) |
 | Dancing Stage Unleashed 3 | 5806 | [5806-dancing-stage-unleashed-3.json](./5806-dancing-stage-unleashed-3.json) |
 | Dancing Sword | 267367 | [267367-dancing-sword.json](./267367-dancing-sword.json) |
+| Dancing Sword: Senkou | 49252 | [49252-dancing-sword-senkou.json](./49252-dancing-sword-senkou.json) |
 | Dancing Wings: The Aerobatic Simulator | 347249 | [347249-dancing-wings-the-aerobatic-simulator.json](./347249-dancing-wings-the-aerobatic-simulator.json) |
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
@@ -705,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius Cozmic Revelation: Special Limited Edition | 167082 | [167082-darius-cozmic-revelation-special-limited-edition.json](./167082-darius-cozmic-revelation-special-limited-edition.json) |
 | Darius Maker | 294786 | [294786-darius-maker.json](./294786-darius-maker.json) |
+| Darius R | 49277 | [49277-darius-r.json](./49277-darius-r.json) |
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
@@ -3418,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
 | Demon Dodger | 255249 | [255249-demon-dodger.json](./255249-demon-dodger.json) |
 | Demon Driver | 47283 | [47283-demon-driver.json](./47283-demon-driver.json) |
+| Demon Driver: Time to Burn Rubber | 49274 | [49274-demon-driver-time-to-burn-rubber.json](./49274-demon-driver-time-to-burn-rubber.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
@@ -5707,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sports Basketball | 243192 | [243192-disney-sports-basketball.json](./243192-disney-sports-basketball.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
+| Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney Superbia | 243801 | [243801-disney-superbia.json](./243801-disney-superbia.json) |
@@ -5771,6 +5775,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's Kim Possible: Kimmunicator | 47728 | [47728-disneys-kim-possible-kimmunicator.json](./47728-disneys-kim-possible-kimmunicator.json) |
+| Disney's Kim Possible: Revenge of Monkey Fist | 49275 | [49275-disneys-kim-possible-revenge-of-monkey-fist.json](./49275-disneys-kim-possible-revenge-of-monkey-fist.json) |
+| Disney's Lilo & Stitch 2: Hämsterviel Havoc | 49261 | [49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json](./49261-disneys-lilo-and-stitch-2-hamsterviel-havoc.json) |
 | Disney's Lilo & Stitch: Hawaiian Adventure | 98558 | [98558-disneys-lilo-and-stitch-hawaiian-adventure.json](./98558-disneys-lilo-and-stitch-hawaiian-adventure.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
@@ -7393,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
+| Doraemon: Midori no Wakusei Doki-doki Daikyuushutsu! | 49265 | [49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json](./49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
 | Doraemon: Nobita no Daimakyou | 349416 | [349416-doraemon-nobita-no-daimakyou.json](./349416-doraemon-nobita-no-daimakyou.json) |
 | Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
@@ -7615,7 +7622,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
+| Doubutsu no Shima no Chobi Gurumi | 49264 | [49264-doubutsu-no-shima-no-chobi-gurumi.json](./49264-doubutsu-no-shima-no-chobi-gurumi.json) |
 | Doubutsu-tachi no Mori | 150572 | [150572-doubutsu-tachi-no-mori.json](./150572-doubutsu-tachi-no-mori.json) |
+| Doubutsujima no Chubi Gurumi 2: Tama-chan Monogatari | 49263 | [49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json](./49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
@@ -7819,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Stanley's House I | 141091 | [141091-dr-stanleys-house-i.json](./141091-dr-stanleys-house-i.json) |
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
+| Dr. Sudoku | 49273 | [49273-dr-sudoku.json](./49273-dr-sudoku.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
@@ -8230,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
+| Dragon Quest Characters: Torneko no Daibouken 2 Advance | 49270 | [49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json](./49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
@@ -8406,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
 | Dragon's Prophet | 3264 | [3264-dragons-prophet.json](./3264-dragons-prophet.json) |
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
+| Dragon's Rock | 49303 | [49303-dragons-rock.json](./49303-dragons-rock.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Vengeance | 154047 | [154047-dragons-vengeance.json](./154047-dragons-vengeance.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
