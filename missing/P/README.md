@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Wars | 52022 | [52022-penguin-wars.json](./52022-penguin-wars.json) |
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
+| Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
 | Peria Chronicles | 61692 | [61692-peria-chronicles.json](./61692-peria-chronicles.json) |
+| Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
@@ -2672,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspectrip | 75206 | [75206-perspectrip.json](./75206-perspectrip.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
 | Pertinence | 33181 | [33181-pertinence.json](./33181-pertinence.json) |
+| Pervader | 54910 | [54910-pervader.json](./54910-pervader.json) |
 | Perverts | 385257 | [385257-perverts.json](./385257-perverts.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
@@ -8970,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project+ | 131887 | [131887-project.json](./131887-project.json) |
 | Project0 | 297190 | [297190-project0.json](./297190-project0.json) |
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
+| Projectile Guardian | 54923 | [54923-projectile-guardian.json](./54923-projectile-guardian.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
 | Projections | 150775 | [150775-projections.json](./150775-projections.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
