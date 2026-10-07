@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
+| Bandits | 18506 | [18506-bandits.json](./18506-bandits.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
 | Bandits at 3 O'Clock | 15659 | [15659-bandits-at-3-oclock.json](./15659-bandits-at-3-oclock.json) |
 | Bandits at Zero | 12933 | [12933-bandits-at-zero.json](./12933-bandits-at-zero.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 109471 | [109471-basketball.json](./109471-basketball.json) |
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
+| Basketball | 18344 | [18344-basketball.json](./18344-basketball.json) |
 | Basketball | 191088 | [191088-basketball.json](./191088-basketball.json) |
 | Basketball | 246504 | [246504-basketball.json](./246504-basketball.json) |
 | Basketball | 346079 | [346079-basketball.json](./346079-basketball.json) |
@@ -2502,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground: Bulge-Ardennes | 22614 | [22614-battleground-bulge-ardennes.json](./22614-battleground-bulge-ardennes.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
+| Battlegrounds of Eldhelm | 17955 | [17955-battlegrounds-of-eldhelm.json](./17955-battlegrounds-of-eldhelm.json) |
 | Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
@@ -2878,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beary the Hatchet | 269679 | [269679-beary-the-hatchet.json](./269679-beary-the-hatchet.json) |
+| Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
 | Beast and Cleaver | 345021 | [345021-beast-and-cleaver.json](./345021-beast-and-cleaver.json) |
 | Beast and Princess | 136469 | [136469-beast-and-princess.json](./136469-beast-and-princess.json) |
@@ -3892,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Eyes | 11135 | [11135-beyond-eyes.json](./11135-beyond-eyes.json) |
 | Beyond Fighting 2 | 59474 | [59474-beyond-fighting-2.json](./59474-beyond-fighting-2.json) |
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
+| Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
