@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2015 | 60928 | [60928-golden-tee-2015.json](./60928-golden-tee-2015.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
+| Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
@@ -5148,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
+| Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
@@ -5186,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
 | Grim Tales: The Legacy | 80522 | [80522-grim-tales-the-legacy.json](./80522-grim-tales-the-legacy.json) |
+| Grim Tales: The Legacy - Collector's Edition | 28687 | [28687-grim-tales-the-legacy-collectors-edition.json](./28687-grim-tales-the-legacy-collectors-edition.json) |
 | Grim Tales: The Nomad | 191650 | [191650-grim-tales-the-nomad.json](./191650-grim-tales-the-nomad.json) |
 | Grim Tales: The Stone Queen | 76516 | [76516-grim-tales-the-stone-queen.json](./76516-grim-tales-the-stone-queen.json) |
 | Grim Tales: The Stone Queen - Collector's Edition | 96943 | [96943-grim-tales-the-stone-queen-collectors-edition.json](./96943-grim-tales-the-stone-queen-collectors-edition.json) |
@@ -5615,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gubble Buggy Racer | 91544 | [91544-gubble-buggy-racer.json](./91544-gubble-buggy-racer.json) |
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
+| Guderian | 28716 | [28716-guderian.json](./28716-guderian.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
 | Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
