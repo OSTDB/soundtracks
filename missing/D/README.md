@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy VR,NR | 280442 | [280442-dandy-vr-nr.json](./280442-dandy-vr-nr.json) |
 | Dandy: Or a Brief Glimpse into the Life of the Candy Alchemist | 34975 | [34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./34975-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
+| Dandy: Zeuon no Fukkatsu | 41244 | [41244-dandy-zeuon-no-fukkatsu.json](./41244-dandy-zeuon-no-fukkatsu.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
 | Dangan GB | 116963 | [116963-dangan-gb.json](./116963-dangan-gb.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zed | 388038 | [388038-dead-zed.json](./388038-dead-zed.json) |
 | Dead Zombie Shooter | 224070 | [224070-dead-zombie-shooter.json](./224070-dead-zombie-shooter.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
+| Dead Zone | 41278 | [41278-dead-zone.json](./41278-dead-zone.json) |
 | Dead Zone | 81176 | [81176-dead-zone.json](./81176-dead-zone.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
