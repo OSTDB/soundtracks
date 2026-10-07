@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
 | Harvest Moon: The Winds of Anthos - Visitors From Afar Pack | 270288 | [270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json](./270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json) |
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
+| Harvest of the Sun Vincent Van Gogh Revisited | 45887 | [45887-harvest-of-the-sun-vincent-van-gogh-revisited.json](./45887-harvest-of-the-sun-vincent-van-gogh-revisited.json) |
 | Harvest on Jupiter | 260331 | [260331-harvest-on-jupiter.json](./260331-harvest-on-jupiter.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai | 207917 | [207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json](./207917-harvest-overray-ano-ko-wa-ore-kara-hanarenai.json) |
 | Harvest OverRay + Ano Ko wa Ore kara Hanarenai: Limited Edition | 207916 | [207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json](./207916-harvest-overray-ano-ko-wa-ore-kara-hanarenai-limited-edition.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
 | Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
+| Heavy Metal: Geomatrix | 45854 | [45854-heavy-metal-geomatrix.json](./45854-heavy-metal-geomatrix.json) |
 | Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
 | Heavy Rain & Beyond: Two Souls - Collection | 44547 | [44547-heavy-rain-and-beyond-two-souls-collection.json](./44547-heavy-rain-and-beyond-two-souls-collection.json) |
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
