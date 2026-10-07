@@ -5085,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridkeeper | 355002 | [355002-gridkeeper.json](./355002-gridkeeper.json) |
 | Gridland | 256369 | [256369-gridland.json](./256369-gridland.json) |
 | Gridle | 372494 | [372494-gridle.json](./372494-gridle.json) |
+| Gridlee | 39533 | [39533-gridlee.json](./39533-gridlee.json) |
 | Gridlock | 185555 | [185555-gridlock.json](./185555-gridlock.json) |
 | Gridlock | 356703 | [356703-gridlock.json](./356703-gridlock.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
