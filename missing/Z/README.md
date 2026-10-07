@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Orbs: Safari | 401726 | [401726-zoo-orbs-safari.json](./401726-zoo-orbs-safari.json) |
 | Zoo Packs | 129568 | [129568-zoo-packs.json](./129568-zoo-packs.json) |
 | Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
+| Zoo Puzzle | 43236 | [43236-zoo-puzzle.json](./43236-zoo-puzzle.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Sounds: Fun Educational Games for Kids | 95654 | [95654-zoo-sounds-fun-educational-games-for-kids.json](./95654-zoo-sounds-fun-educational-games-for-kids.json) |
