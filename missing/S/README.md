@@ -8246,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smogland | 44095 | [44095-smogland.json](./44095-smogland.json) |
 | Smok: Legend of the Laid-Back Heroes | 216298 | [216298-smok-legend-of-the-laid-back-heroes.json](./216298-smok-legend-of-the-laid-back-heroes.json) |
 | Smoke and Mirrors | 356784 | [356784-smoke-and-mirrors.json](./356784-smoke-and-mirrors.json) |
+| Smoke and Sacrifice | 86442 | [86442-smoke-and-sacrifice.json](./86442-smoke-and-sacrifice.json) |
 | Smoke Attack | 216275 | [216275-smoke-attack.json](./216275-smoke-attack.json) |
 | Smoke Attack 2 | 229125 | [229125-smoke-attack-2.json](./229125-smoke-attack-2.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
@@ -8663,6 +8664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
+| SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
@@ -9089,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM II: U.S. Navy SEALs | 8240 | [8240-socom-ii-u-s-navy-seals.json](./8240-socom-ii-u-s-navy-seals.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
+| SOCOM: US Navy SEALs | 22238 | [22238-socom-us-navy-seals.json](./22238-socom-us-navy-seals.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
@@ -9980,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Logic | 237488 | [237488-sonic-logic.json](./237488-sonic-logic.json) |
 | Sonic Lost Adventure | 330302 | [330302-sonic-lost-adventure.json](./330302-sonic-lost-adventure.json) |
+| Sonic Lost World | 21902 | [21902-sonic-lost-world.json](./21902-sonic-lost-world.json) |
 | Sonic Lost World | 2607 | [2607-sonic-lost-world.json](./2607-sonic-lost-world.json) |
 | Sonic Lost World: Deadly Six Edition | 386277 | [386277-sonic-lost-world-deadly-six-edition.json](./386277-sonic-lost-world-deadly-six-edition.json) |
 | Sonic Lost World: The Legend of Zelda Zone | 133935 | [133935-sonic-lost-world-the-legend-of-zelda-zone.json](./133935-sonic-lost-world-the-legend-of-zelda-zone.json) |
@@ -10088,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
 | Sonic Robo Blast 2 | 280214 | [280214-sonic-robo-blast-2.json](./280214-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
+| Sonic Robo Blast 2 | 95508 | [95508-sonic-robo-blast-2.json](./95508-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 Kart | 121436 | [121436-sonic-robo-blast-2-kart.json](./121436-sonic-robo-blast-2-kart.json) |
 | Sonic Robo Blast 2: Adventure Sonic | 241383 | [241383-sonic-robo-blast-2-adventure-sonic.json](./241383-sonic-robo-blast-2-adventure-sonic.json) |
 | Sonic Robo Blast 2: Cacee "Kiwi" Cactus | 242032 | [242032-sonic-robo-blast-2-cacee-kiwi-cactus.json](./242032-sonic-robo-blast-2-cacee-kiwi-cactus.json) |
@@ -11208,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
+| Space Invaders | 18133 | [18133-space-invaders.json](./18133-space-invaders.json) |
 | Space Invaders | 208860 | [208860-space-invaders.json](./208860-space-invaders.json) |
 | Space Invaders | 218361 | [218361-space-invaders.json](./218361-space-invaders.json) |
 | Space Invaders | 218440 | [218440-space-invaders.json](./218440-space-invaders.json) |
@@ -16058,6 +16064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
 | Street Fighter III: 3rd Strike | 6710 | [6710-street-fighter-iii-3rd-strike.json](./6710-street-fighter-iii-3rd-strike.json) |
+| Street Fighter III: 3rd Strike Online Edition | 21724 | [21724-street-fighter-iii-3rd-strike-online-edition.json](./21724-street-fighter-iii-3rd-strike-online-edition.json) |
 | Street Fighter III: 4rd Strike | 191546 | [191546-street-fighter-iii-4rd-strike.json](./191546-street-fighter-iii-4rd-strike.json) |
 | Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
 | Street Fighter III: New Generation | 6708 | [6708-street-fighter-iii-new-generation.json](./6708-street-fighter-iii-new-generation.json) |
@@ -16137,6 +16144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
 | Street Pursuit | 266174 | [266174-street-pursuit.json](./266174-street-pursuit.json) |
+| Street Racer | 19770 | [19770-street-racer.json](./19770-street-racer.json) |
 | Street Racer | 307078 | [307078-street-racer.json](./307078-street-racer.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
@@ -18806,6 +18814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sea Serpent Simulator | 176965 | [176965-super-sea-serpent-simulator.json](./176965-super-sea-serpent-simulator.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
+| Super Seducer | 76397 | [76397-super-seducer.json](./76397-super-seducer.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
