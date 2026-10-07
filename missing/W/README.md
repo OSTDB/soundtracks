@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Vespuccia Bundle | 406330 | [406330-world-of-vespuccia-bundle.json](./406330-world-of-vespuccia-bundle.json) |
 | World of Virtual Reality | 102898 | [102898-world-of-virtual-reality.json](./102898-world-of-virtual-reality.json) |
 | World of Voidia | 128342 | [128342-world-of-voidia.json](./128342-world-of-voidia.json) |
+| World of Warcraft Classic | 75379 | [75379-world-of-warcraft-classic.json](./75379-world-of-warcraft-classic.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: Battle for Azeroth | 75380 | [75380-world-of-warcraft-battle-for-azeroth.json](./75380-world-of-warcraft-battle-for-azeroth.json) |
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
