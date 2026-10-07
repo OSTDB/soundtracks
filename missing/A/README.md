@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanatsu: Perfect Edition | 297063 | [297063-amanatsu-perfect-edition.json](./297063-amanatsu-perfect-edition.json) |
 | Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
+| Amanda the Adventurer | 202601 | [202601-amanda-the-adventurer.json](./202601-amanda-the-adventurer.json) |
 | Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
 | Amanda the Adventurer: Pilot Episode | 256410 | [256410-amanda-the-adventurer-pilot-episode.json](./256410-amanda-the-adventurer-pilot-episode.json) |
 | Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
@@ -5100,6 +5101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andy's Apple Farm | 177383 | [177383-andys-apple-farm.json](./177383-andys-apple-farm.json) |
 | Andy's Apple Farm: Christmas Special | 193505 | [193505-andys-apple-farm-christmas-special.json](./193505-andys-apple-farm-christmas-special.json) |
 | AnEarth Fantasy Stories: The First Volume | 45441 | [45441-anearth-fantasy-stories-the-first-volume.json](./45441-anearth-fantasy-stories-the-first-volume.json) |
+| AneeMate | 305989 | [305989-aneemate.json](./305989-aneemate.json) |
 | Anemoi | 276736 | [276736-anemoi.json](./276736-anemoi.json) |
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
 | Anemoiapolis: Chapter 1 | 168855 | [168855-anemoiapolis-chapter-1.json](./168855-anemoiapolis-chapter-1.json) |
@@ -9059,6 +9061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Rorona Plus: The Alchemist of Arland | 43039 | [43039-atelier-rorona-plus-the-alchemist-of-arland.json](./43039-atelier-rorona-plus-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland | 7275 | [7275-atelier-rorona-the-alchemist-of-arland.json](./7275-atelier-rorona-the-alchemist-of-arland.json) |
 | Atelier Rorona: The Alchemist of Arland - Limited Edition | 44600 | [44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json](./44600-atelier-rorona-the-alchemist-of-arland-limited-edition.json) |
+| Atelier Ryza 2: Lost Legends & the Secret Fairy | 136414 | [136414-atelier-ryza-2-lost-legends-and-the-secret-fairy.json](./136414-atelier-ryza-2-lost-legends-and-the-secret-fairy.json) |
 | Atelier Ryza 2: Lost Legends & the Secret Fairy - Digital Deluxe Edition | 222263 | [222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json](./222263-atelier-ryza-2-lost-legends-and-the-secret-fairy-digital-deluxe-edition.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Premium Box | 139998 | [139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json](./139998-atelier-ryza-2-lost-legends-and-the-secret-fairy-premium-box.json) |
 | Atelier Ryza 2: Lost Legends & The Secret Fairy - Special Collection Box | 140002 | [140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json](./140002-atelier-ryza-2-lost-legends-and-the-secret-fairy-special-collection-box.json) |
@@ -9211,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
+| Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
 | Atomic Heart: Limited Edition | 224481 | [224481-atomic-heart-limited-edition.json](./224481-atomic-heart-limited-edition.json) |
