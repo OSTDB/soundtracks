@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
+| Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
+| Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles of Rage | 314988 | [314988-teenage-mutant-ninja-turtles-of-rage.json](./314988-teenage-mutant-ninja-turtles-of-rage.json) |
@@ -6732,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters GO | 106763 | [106763-the-king-of-fighters-go.json](./106763-the-king-of-fighters-go.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
+| The King of Fighters XIII Steam Edition | 22679 | [22679-the-king-of-fighters-xiii-steam-edition.json](./22679-the-king-of-fighters-xiii-steam-edition.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
 | The King of Fighters XIII: Global Match: Deluxe Edition | 276942 | [276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json](./276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
@@ -8820,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
+| The Quiet Man | 103313 | [103313-the-quiet-man.json](./103313-the-quiet-man.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
 | The Quintessential Quintuplets the Movie: Five Memories of My Time With You - Limited Edition | 201033 | [201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json](./201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json) |
@@ -9391,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
 | The Shapeshifter | 259640 | [259640-the-shapeshifter.json](./259640-the-shapeshifter.json) |
 | The Shapeshifter 2 | 259644 | [259644-the-shapeshifter-2.json](./259644-the-shapeshifter-2.json) |
+| The Shapeshifting Detective | 105629 | [105629-the-shapeshifting-detective.json](./105629-the-shapeshifting-detective.json) |
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
@@ -10827,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
+| The Walking Dead: Season One - Episode 5: No Time Left | 114944 | [114944-the-walking-dead-season-one-episode-5-no-time-left.json](./114944-the-walking-dead-season-one-episode-5-no-time-left.json) |
 | The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: Season Two - Episode 3: In Harm's Way | 127059 | [127059-the-walking-dead-season-two-episode-3-in-harms-way.json](./127059-the-walking-dead-season-two-episode-3-in-harms-way.json) |
 | The Walking Dead: Season Two - Episode 4: Amid the Ruins | 127060 | [127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json](./127060-the-walking-dead-season-two-episode-4-amid-the-ruins.json) |
