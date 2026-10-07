@@ -5074,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
+| Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
 | Worms Pinball | 409028 | [409028-worms-pinball.json](./409028-worms-pinball.json) |
 | Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
 | Worms Reloaded: Forts Pack | 164379 | [164379-worms-reloaded-forts-pack.json](./164379-worms-reloaded-forts-pack.json) |
