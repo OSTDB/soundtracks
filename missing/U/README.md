@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrepeatable | 204429 | [204429-unrepeatable.json](./204429-unrepeatable.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrest | 295506 | [295506-unrest.json](./295506-unrest.json) |
+| Unrest: Special Edition | 51792 | [51792-unrest-special-edition.json](./51792-unrest-special-edition.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
