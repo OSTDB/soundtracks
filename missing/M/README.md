@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
+| Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
 | Mai Nurse | 384807 | [384807-mai-nurse.json](./384807-mai-nurse.json) |
 | Mai-Chan's Sweet Buns | 142448 | [142448-mai-chans-sweet-buns.json](./142448-mai-chans-sweet-buns.json) |
@@ -1773,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
 | Mankind | 92824 | [92824-mankind.json](./92824-mankind.json) |
+| Mankind Defender | 30726 | [30726-mankind-defender.json](./30726-mankind-defender.json) |
 | Mankind Reborn | 98406 | [98406-mankind-reborn.json](./98406-mankind-reborn.json) |
 | Mankind's Last Stand | 253905 | [253905-mankinds-last-stand.json](./253905-mankinds-last-stand.json) |
 | Mankojai | 184115 | [184115-mankojai.json](./184115-mankojai.json) |
@@ -12327,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
 | Myths of the World: Behind the Veil - Collector's Edition | 83915 | [83915-myths-of-the-world-behind-the-veil-collectors-edition.json](./83915-myths-of-the-world-behind-the-veil-collectors-edition.json) |
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
+| Myths of the World: Chinese Healer - Collector's Edition | 30679 | [30679-myths-of-the-world-chinese-healer-collectors-edition.json](./30679-myths-of-the-world-chinese-healer-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Olympus | 89486 | [89486-myths-of-the-world-olympus.json](./89486-myths-of-the-world-olympus.json) |
