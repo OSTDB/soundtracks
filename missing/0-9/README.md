@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
+| 3D Reversi | 54936 | [54936-3d-reversi.json](./54936-3d-reversi.json) |
 | 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
