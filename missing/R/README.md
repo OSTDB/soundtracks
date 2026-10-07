@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
+| Rascal Racers | 43806 | [43806-rascal-racers.json](./43806-rascal-racers.json) |
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
 | Rascals | 110130 | [110130-rascals.json](./110130-rascals.json) |
 | Rasek | 231317 | [231317-rasek.json](./231317-rasek.json) |
@@ -5776,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
+| Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
