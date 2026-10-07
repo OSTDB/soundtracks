@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
 | Lethal Lawns: Competitive Mowing Bloodsport | 93763 | [93763-lethal-lawns-competitive-mowing-bloodsport.json](./93763-lethal-lawns-competitive-mowing-bloodsport.json) |
+| Lethal League | 8262 | [8262-lethal-league.json](./8262-lethal-league.json) |
 | Lethal League Prototype | 382914 | [382914-lethal-league-prototype.json](./382914-lethal-league-prototype.json) |
 | Lethal Love | 287091 | [287091-lethal-love.json](./287091-lethal-love.json) |
 | Lethal Omen | 212867 | [212867-lethal-omen.json](./212867-lethal-omen.json) |
