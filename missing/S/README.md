@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
 | SaGa Frontier | 11310 | [11310-saga-frontier.json](./11310-saga-frontier.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
+| SaGa Frontier Remastered | 141281 | [141281-saga-frontier-remastered.json](./141281-saga-frontier-remastered.json) |
 | Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
 | Saga of Lucimia | 71020 | [71020-saga-of-lucimia.json](./71020-saga-of-lucimia.json) |
 | Saga of Nine Worlds: The Stags | 108853 | [108853-saga-of-nine-worlds-the-stags.json](./108853-saga-of-nine-worlds-the-stags.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
 | Silph Road | 104578 | [104578-silph-road.json](./104578-silph-road.json) |
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
+| Silt | 152261 | [152261-silt.json](./152261-silt.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
@@ -7307,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
 | Skylanders: Trap Team | 8509 | [8509-skylanders-trap-team.json](./8509-skylanders-trap-team.json) |
 | Skylanders: Universe | 304274 | [304274-skylanders-universe.json](./304274-skylanders-universe.json) |
+| Skylar & Plux: Adventure on Clover Island | 28066 | [28066-skylar-and-plux-adventure-on-clover-island.json](./28066-skylar-and-plux-adventure-on-clover-island.json) |
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | Skylax! The Lab Runner | 369664 | [369664-skylax-the-lab-runner.json](./369664-skylax-the-lab-runner.json) |
@@ -9700,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song by the Sea | 207238 | [207238-song-by-the-sea.json](./207238-song-by-the-sea.json) |
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
+| Song of Farca | 145773 | [145773-song-of-farca.json](./145773-song-of-farca.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
 | Song of Horror | 121555 | [121555-song-of-horror.json](./121555-song-of-horror.json) |
 | Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
@@ -11775,6 +11779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark the Electric Jester | 28134 | [28134-spark-the-electric-jester.json](./28134-spark-the-electric-jester.json) |
+| Spark the Electric Jester 3 | 153620 | [153620-spark-the-electric-jester-3.json](./153620-spark-the-electric-jester-3.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
@@ -13024,6 +13029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotted Garden Eel Adventure | 196043 | [196043-spotted-garden-eel-adventure.json](./196043-spotted-garden-eel-adventure.json) |
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
+| Sprawl | 143627 | [143627-sprawl.json](./143627-sprawl.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
@@ -18433,6 +18439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario War: Stomp Arena | 323200 | [323200-super-mario-war-stomp-arena.json](./323200-super-mario-war-stomp-arena.json) |
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
+| Super Mario World | 150031 | [150031-super-mario-world.json](./150031-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
