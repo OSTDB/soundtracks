@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
+| Eat Lead: The Return of Matt Hazard | 574 | [574-eat-lead-the-return-of-matt-hazard.json](./574-eat-lead-the-return-of-matt-hazard.json) |
 | Eat Me | 125878 | [125878-eat-me.json](./125878-eat-me.json) |
 | Eat Me Alive | 218584 | [218584-eat-me-alive.json](./218584-eat-me-alive.json) |
 | Eat Me! | 301896 | [301896-eat-me.json](./301896-eat-me.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
+| Eco | 34939 | [34939-eco.json](./34939-eco.json) |
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
