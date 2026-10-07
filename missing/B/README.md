@@ -2427,8 +2427,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 2042: Gold Edition | 169199 | [169199-battlefield-2042-gold-edition.json](./169199-battlefield-2042-gold-edition.json) |
 | Battlefield 2042: Ultimate Edition | 169198 | [169198-battlefield-2042-ultimate-edition.json](./169198-battlefield-2042-ultimate-edition.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
+| Battlefield 2142: Deluxe Edition | 41886 | [41886-battlefield-2142-deluxe-edition.json](./41886-battlefield-2142-deluxe-edition.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
+| Battlefield 3: Limited Edition | 41891 | [41891-battlefield-3-limited-edition.json](./41891-battlefield-3-limited-edition.json) |
 | Battlefield 4: China Rising | 3091 | [3091-battlefield-4-china-rising.json](./3091-battlefield-4-china-rising.json) |
 | Battlefield 4: Dragon's Teeth | 3095 | [3095-battlefield-4-dragons-teeth.json](./3095-battlefield-4-dragons-teeth.json) |
 | Battlefield 4: Final Stand | 3096 | [3096-battlefield-4-final-stand.json](./3096-battlefield-4-final-stand.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
 | Battlefield Hardline: Deluxe Edition | 99791 | [99791-battlefield-hardline-deluxe-edition.json](./99791-battlefield-hardline-deluxe-edition.json) |
 | Battlefield Hardline: Getaway | 18025 | [18025-battlefield-hardline-getaway.json](./18025-battlefield-hardline-getaway.json) |
+| Battlefield Hardline: Premium | 41887 | [41887-battlefield-hardline-premium.json](./41887-battlefield-hardline-premium.json) |
 | Battlefield Hardline: Robbery | 18024 | [18024-battlefield-hardline-robbery.json](./18024-battlefield-hardline-robbery.json) |
 | Battlefield Hardline: Ultimate Edition | 52638 | [52638-battlefield-hardline-ultimate-edition.json](./52638-battlefield-hardline-ultimate-edition.json) |
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
@@ -2449,7 +2452,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
 | Battlefield World War Bundle | 112914 | [112914-battlefield-world-war-bundle.json](./112914-battlefield-world-war-bundle.json) |
 | Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
+| Battlefield: Bad Company 2 - Limited Edition | 41890 | [41890-battlefield-bad-company-2-limited-edition.json](./41890-battlefield-bad-company-2-limited-edition.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
+| Battlefield: Bad Company 2 Ultimate Edition | 41892 | [41892-battlefield-bad-company-2-ultimate-edition.json](./41892-battlefield-bad-company-2-ultimate-edition.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
 | Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
@@ -3912,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
 | Beyond the Invisible: Darkness Came | 88008 | [88008-beyond-the-invisible-darkness-came.json](./88008-beyond-the-invisible-darkness-came.json) |
+| Beyond the Invisible: Evening | 41916 | [41916-beyond-the-invisible-evening.json](./41916-beyond-the-invisible-evening.json) |
 | Beyond the Kingdom | 294736 | [294736-beyond-the-kingdom.json](./294736-beyond-the-kingdom.json) |
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Kingdom 2: Collector's Edition | 341042 | [341042-beyond-the-kingdom-2-collectors-edition.json](./341042-beyond-the-kingdom-2-collectors-edition.json) |
@@ -5877,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle: Jewel Blast | 216134 | [216134-block-puzzle-jewel-blast.json](./216134-block-puzzle-jewel-blast.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
+| Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
