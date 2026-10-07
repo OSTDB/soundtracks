@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Penumbra: Black Plague | 2045 | [2045-penumbra-black-plague.json](./2045-penumbra-black-plague.json) |
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
+| Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
@@ -3703,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
+| Pikmin 4 | 59843 | [59843-pikmin-4.json](./59843-pikmin-4.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
+| Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
