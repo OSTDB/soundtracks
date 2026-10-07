@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
+| Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halls of Greed | 302422 | [302422-halls-of-greed.json](./302422-halls-of-greed.json) |
@@ -2103,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony III: The Eagle King | 142895 | [142895-hegemony-iii-the-eagle-king.json](./142895-hegemony-iii-the-eagle-king.json) |
 | Hegemony Rome: Rise of Caesar | 54099 | [54099-hegemony-rome-rise-of-caesar.json](./54099-hegemony-rome-rise-of-caesar.json) |
 | Hegemony Rome: The Rise of Caesar - Bannermen Pack | 265250 | [265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json](./265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json) |
+| Hegis' Grasp: Evil Resurrected | 55704 | [55704-hegis-grasp-evil-resurrected.json](./55704-hegis-grasp-evil-resurrected.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hehu and the Taniwha | 98552 | [98552-hehu-and-the-taniwha.json](./98552-hehu-and-the-taniwha.json) |
 | Hei | 115173 | [115173-hei.json](./115173-hei.json) |
@@ -5426,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
+| Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
@@ -5547,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
+| Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
@@ -6859,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
+| Huusuienbu: Chapter Spring and Summer | 55706 | [55706-huusuienbu-chapter-spring-and-summer.json](./55706-huusuienbu-chapter-spring-and-summer.json) |
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
 | Huxley: The Dystopia | 73011 | [73011-huxley-the-dystopia.json](./73011-huxley-the-dystopia.json) |
 | Huygens Principle | 51477 | [51477-huygens-principle.json](./51477-huygens-principle.json) |
