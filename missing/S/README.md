@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming in the Basement | 329180 | [329180-screaming-in-the-basement.json](./329180-screaming-in-the-basement.json) |
 | Screaming Savage Blood Death | 311100 | [311100-screaming-savage-blood-death.json](./311100-screaming-savage-blood-death.json) |
 | Screaming Skies | 201070 | [201070-screaming-skies.json](./201070-screaming-skies.json) |
+| Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
@@ -9499,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
+| Song of Swords | 56302 | [56302-song-of-swords.json](./56302-song-of-swords.json) |
 | Song of the Deep | 16998 | [16998-song-of-the-deep.json](./16998-song-of-the-deep.json) |
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
 | Song of the Myrne: What Lies Beneath | 26824 | [26824-song-of-the-myrne-what-lies-beneath.json](./26824-song-of-the-myrne-what-lies-beneath.json) |
@@ -11043,6 +11045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
+| Space Lift Danger Panic! | 56283 | [56283-space-lift-danger-panic.json](./56283-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
@@ -13958,6 +13961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
+| Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
@@ -16171,6 +16175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
+| SubaraCity | 56281 | [56281-subaracity.json](./56281-subaracity.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
 | Subconscious | 177386 | [177386-subconscious.json](./177386-subconscious.json) |
@@ -18400,6 +18405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Shape Shooter | 146820 | [146820-super-shape-shooter.json](./146820-super-shape-shooter.json) |
+| Super Sharp | 56309 | [56309-super-sharp.json](./56309-super-sharp.json) |
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
@@ -19343,6 +19349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
+| Sushi'd | 56268 | [56268-sushid.json](./56268-sushid.json) |
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
