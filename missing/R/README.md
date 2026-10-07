@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Reseed | 372063 | [372063-reseed.json](./372063-reseed.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
+| Reservoir Dogs | 6003 | [6003-reservoir-dogs.json](./6003-reservoir-dogs.json) |
 | Reset | 15831 | [15831-reset.json](./15831-reset.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
@@ -4525,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
 | Rise of Mythos | 23618 | [23618-rise-of-mythos.json](./23618-rise-of-mythos.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
+| Rise of Nations: Thrones & Patriots | 849 | [849-rise-of-nations-thrones-and-patriots.json](./849-rise-of-nations-thrones-and-patriots.json) |
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
 | Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
@@ -7053,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
+| Rune Factory 4 | 6874 | [6874-rune-factory-4.json](./6874-rune-factory-4.json) |
 | Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
 | Rune Factory 4 Special: Archival Edition | 136190 | [136190-rune-factory-4-special-archival-edition.json](./136190-rune-factory-4-special-archival-edition.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
