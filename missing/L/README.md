@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
+| Looping | 18511 | [18511-looping.json](./18511-looping.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
+| Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
 | Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
 | Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
