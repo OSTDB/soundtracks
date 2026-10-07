@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scrappers | 211688 | [211688-void-scrappers.json](./211688-void-scrappers.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
+| Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
 | Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
