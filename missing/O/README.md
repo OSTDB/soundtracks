@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
+| Omen: Flesh Metal & Magic | 36934 | [36934-omen-flesh-metal-and-magic.json](./36934-omen-flesh-metal-and-magic.json) |
 | Omensight | 80916 | [80916-omensight.json](./80916-omensight.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
+| Omina Mortis | 36983 | [36983-omina-mortis.json](./36983-omina-mortis.json) |
 | Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
@@ -2926,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
 | Outer Frontier | 160128 | [160128-outer-frontier.json](./160128-outer-frontier.json) |
+| Outer Orbit Sushi | 36925 | [36925-outer-orbit-sushi.json](./36925-outer-orbit-sushi.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
