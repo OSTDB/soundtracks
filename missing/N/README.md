@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew Dossier: Resorting to Danger! | 10581 | [10581-nancy-drew-dossier-resorting-to-danger.json](./10581-nancy-drew-dossier-resorting-to-danger.json) |
 | Nancy Drew Triple Threat | 51403 | [51403-nancy-drew-triple-threat.json](./51403-nancy-drew-triple-threat.json) |
 | Nancy Drew Ultimate Dare | 50859 | [50859-nancy-drew-ultimate-dare.json](./50859-nancy-drew-ultimate-dare.json) |
+| Nancy Drew: Alibi in Ashes | 10579 | [10579-nancy-drew-alibi-in-ashes.json](./10579-nancy-drew-alibi-in-ashes.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
 | Nancy Drew: Ghost Dogs of Moon Lake | 7626 | [7626-nancy-drew-ghost-dogs-of-moon-lake.json](./7626-nancy-drew-ghost-dogs-of-moon-lake.json) |
 | Nancy Drew: Legend of the Crystal Skull | 7629 | [7629-nancy-drew-legend-of-the-crystal-skull.json](./7629-nancy-drew-legend-of-the-crystal-skull.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
 | Nancy Drew: Secret of the Scarlet Hand | 7625 | [7625-nancy-drew-secret-of-the-scarlet-hand.json](./7625-nancy-drew-secret-of-the-scarlet-hand.json) |
 | Nancy Drew: Secrets Can Kill | 7620 | [7620-nancy-drew-secrets-can-kill.json](./7620-nancy-drew-secrets-can-kill.json) |
+| Nancy Drew: Secrets Can Kill Remastered | 10582 | [10582-nancy-drew-secrets-can-kill-remastered.json](./10582-nancy-drew-secrets-can-kill-remastered.json) |
 | Nancy Drew: Shadow at the Water's Edge | 10583 | [10583-nancy-drew-shadow-at-the-waters-edge.json](./10583-nancy-drew-shadow-at-the-waters-edge.json) |
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
@@ -992,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
 | Necrosis: Reconfigurated | 138551 | [138551-necrosis-reconfigurated.json](./138551-necrosis-reconfigurated.json) |
+| Necrosmith | 204262 | [204262-necrosmith.json](./204262-necrosmith.json) |
 | Necrosmith 2 | 244317 | [244317-necrosmith-2.json](./244317-necrosmith-2.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
