@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Virtual Stadium | 268500 | [268500-j-league-virtual-stadium.json](./268500-j-league-virtual-stadium.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
 | J.League Winning Eleven 10 + Europe League 06-07 | 136813 | [136813-j-league-winning-eleven-10-europe-league-06-07.json](./136813-j-league-winning-eleven-10-europe-league-06-07.json) |
+| J.R.R. Tolkien's Lord of the Rings: Volume 1 | 81467 | [81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json](./81467-j-r-r-tolkiens-lord-of-the-rings-volume-1.json) |
 | J.R.R. Tolkien's Riders of Rohan | 78742 | [78742-j-r-r-tolkiens-riders-of-rohan.json](./78742-j-r-r-tolkiens-riders-of-rohan.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol II: The Two Towers | 50417 | [50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json](./50417-j-r-r-tolkiens-the-lord-of-the-rings-vol-ii-the-two-towers.json) |
 | J.R.R. Tolkien's The Lord of the Rings, Vol. I | 137042 | [137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json](./137042-j-r-r-tolkiens-the-lord-of-the-rings-vol-i.json) |
