@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
 | Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
+| Ball Breakers | 45231 | [45231-ball-breakers.json](./45231-ball-breakers.json) |
 | Ball Breakers Corp. | 70051 | [70051-ball-breakers-corp.json](./70051-ball-breakers-corp.json) |
 | Ball Bulét | 304632 | [304632-ball-bulet.json](./304632-ball-bulet.json) |
 | Ball Buster | 134976 | [134976-ball-buster.json](./134976-ball-buster.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
 | Batman Forever | 20809 | [20809-batman-forever.json](./20809-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
+| Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman v Superman: Who Will Win | 76554 | [76554-batman-v-superman-who-will-win.json](./76554-batman-v-superman-who-will-win.json) |
@@ -1959,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Revenge of the Joker | 45204 | [45204-batman-revenge-of-the-joker.json](./45204-batman-revenge-of-the-joker.json) |
 | Batman: Rise of Sin Tzu | 197871 | [197871-batman-rise-of-sin-tzu.json](./197871-batman-rise-of-sin-tzu.json) |
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
+| Batman: Shadows of Gotham | 45200 | [45200-batman-shadows-of-gotham.json](./45200-batman-shadows-of-gotham.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
