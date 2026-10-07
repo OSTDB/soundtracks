@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
+| Race: The WTCC Game | 839 | [839-race-the-wtcc-game.json](./839-race-the-wtcc-game.json) |
 | Race: Total Toon Race | 153328 | [153328-race-total-toon-race.json](./153328-race-total-toon-race.json) |
 | Race! Make 'm finish... | 129117 | [129117-race-make-m-finish.json](./129117-race-make-m-finish.json) |
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
@@ -1848,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Alurya | 272333 | [272333-realms-of-alurya.json](./272333-realms-of-alurya.json) |
 | Realms of Antiquity: The Shattered Crown | 163275 | [163275-realms-of-antiquity-the-shattered-crown.json](./163275-realms-of-antiquity-the-shattered-crown.json) |
 | Realms of Arcana | 287776 | [287776-realms-of-arcana.json](./287776-realms-of-arcana.json) |
+| Realms of Arkania III: Shadows over Riva | 2498 | [2498-realms-of-arkania-iii-shadows-over-riva.json](./2498-realms-of-arkania-iii-shadows-over-riva.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
 | Realms of Arkania: Blade of Destiny | 27345 | [27345-realms-of-arkania-blade-of-destiny.json](./27345-realms-of-arkania-blade-of-destiny.json) |
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
