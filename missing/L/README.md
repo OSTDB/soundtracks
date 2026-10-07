@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limberjack | 32123 | [32123-limberjack.json](./32123-limberjack.json) |
 | Limbo 64 | 109488 | [109488-limbo-64.json](./109488-limbo-64.json) |
 | Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
+| Limbo of the Lost | 50390 | [50390-limbo-of-the-lost.json](./50390-limbo-of-the-lost.json) |
 | Limbocore | 177327 | [177327-limbocore.json](./177327-limbocore.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Ripper | 195581 | [195581-london-ripper.json](./195581-london-ripper.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
 | London Taxi Rush Hour | 21505 | [21505-london-taxi-rush-hour.json](./21505-london-taxi-rush-hour.json) |
+| London Underground Simulator - World of Subways Vol.3 | 50410 | [50410-london-underground-simulator-world-of-subways-vol-3.json](./50410-london-underground-simulator-world-of-subways-vol-3.json) |
 | London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
 | London's Aesop | 177903 | [177903-londons-aesop.json](./177903-londons-aesop.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
