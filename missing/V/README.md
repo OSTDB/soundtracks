@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V696 | 186819 | [186819-v696.json](./186819-v696.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
 | V8 Supercars 2 | 79836 | [79836-v8-supercars-2.json](./79836-v8-supercars-2.json) |
+| VA-11 Hall-A: Cyberpunk Bartender Action | 15465 | [15465-va-11-hall-a-cyberpunk-bartender-action.json](./15465-va-11-hall-a-cyberpunk-bartender-action.json) |
 | Vac Attack | 308488 | [308488-vac-attack.json](./308488-vac-attack.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
 | Vacant Ark | 266188 | [266188-vacant-ark.json](./266188-vacant-ark.json) |
