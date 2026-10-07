@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
 | Fire With Fire: Online Tower Attack and Defense | 35714 | [35714-fire-with-fire-online-tower-attack-and-defense.json](./35714-fire-with-fire-online-tower-attack-and-defense.json) |
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
+| Fire-Brigade: The Battle for Kiev - 1943 | 13060 | [13060-fire-brigade-the-battle-for-kiev-1943.json](./13060-fire-brigade-the-battle-for-kiev-1943.json) |
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
 | Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
@@ -3430,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
+| FireForce | 13050 | [13050-fireforce.json](./13050-fireforce.json) |
 | FireForce Online | 240907 | [240907-fireforce-online.json](./240907-fireforce-online.json) |
 | Firefox | 7970 | [7970-firefox.json](./7970-firefox.json) |
 | Firefox Boulder Dash 01 | 116158 | [116158-firefox-boulder-dash-01.json](./116158-firefox-boulder-dash-01.json) |
@@ -7789,6 +7791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuturCity Taxi | 246989 | [246989-futurcity-taxi.json](./246989-futurcity-taxi.json) |
 | Future & Girls | 368121 | [368121-future-and-girls.json](./368121-future-and-girls.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
+| Future Bike Simulator | 13061 | [13061-future-bike-simulator.json](./13061-future-bike-simulator.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
 | Future Cat Sailor | 298814 | [298814-future-cat-sailor.json](./298814-future-cat-sailor.json) |
