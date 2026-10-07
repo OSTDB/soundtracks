@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Raid | 150528 | [150528-zombie-raid.json](./150528-zombie-raid.json) |
 | Zombie Raid | 40987 | [40987-zombie-raid.json](./40987-zombie-raid.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
+| Zombie Raider of Ra | 54918 | [54918-zombie-raider-of-ra.json](./54918-zombie-raider-of-ra.json) |
 | Zombie Recall VR | 372645 | [372645-zombie-recall-vr.json](./372645-zombie-recall-vr.json) |
 | Zombie Road Rider | 126590 | [126590-zombie-road-rider.json](./126590-zombie-road-rider.json) |
 | Zombie Road Trip HD | 99145 | [99145-zombie-road-trip-hd.json](./99145-zombie-road-trip-hd.json) |
