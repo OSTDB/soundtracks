@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
+| Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
