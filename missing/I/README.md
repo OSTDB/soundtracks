@@ -3396,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
 | Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
+| Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
