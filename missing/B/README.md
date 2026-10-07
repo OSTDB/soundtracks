@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | BioShock | 214790 | [214790-bioshock.json](./214790-bioshock.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
+| BioShock 2 Remastered | 34294 | [34294-bioshock-2-remastered.json](./34294-bioshock-2-remastered.json) |
 | BioShock 2: Kill 'em Kindly | 374311 | [374311-bioshock-2-kill-em-kindly.json](./374311-bioshock-2-kill-em-kindly.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock 2: Rapture Metro Pack | 374312 | [374312-bioshock-2-rapture-metro-pack.json](./374312-bioshock-2-rapture-metro-pack.json) |
@@ -6299,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
+| Bloodborne: The Old Hunters | 14647 | [14647-bloodborne-the-old-hunters.json](./14647-bloodborne-the-old-hunters.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
@@ -6671,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
+| Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
@@ -9345,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buckmasters Top Bow Championship | 122233 | [122233-buckmasters-top-bow-championship.json](./122233-buckmasters-top-bow-championship.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
+| Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
