@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glight | 86559 | [86559-glight.json](./86559-glight.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
 | Glimmer Chain | 239727 | [239727-glimmer-chain.json](./239727-glimmer-chain.json) |
+| Glimmerati | 6263 | [6263-glimmerati.json](./6263-glimmerati.json) |
 | Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
