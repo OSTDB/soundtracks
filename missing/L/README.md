@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Whisper | 238647 | [238647-last-whisper.json](./238647-last-whisper.json) |
+| Last Window: The Secret of Cape West | 22958 | [22958-last-window-the-secret-of-cape-west.json](./22958-last-window-the-secret-of-cape-west.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
 | Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
 | Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
