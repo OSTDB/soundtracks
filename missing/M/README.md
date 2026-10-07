@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
+| Mad Dog II: The Lost Gold | 4269 | [4269-mad-dog-ii-the-lost-gold.json](./4269-mad-dog-ii-the-lost-gold.json) |
 | Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
 | Mad Donna | 40366 | [40366-mad-donna.json](./40366-mad-donna.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
 | Mahjong Gokuu Special | 37677 | [37677-mahjong-gokuu-special.json](./37677-mahjong-gokuu-special.json) |
+| Mahjong Gokuu Tenjiku | 4312 | [4312-mahjong-gokuu-tenjiku.json](./4312-mahjong-gokuu-tenjiku.json) |
 | Mahjong Gokuu Tenjiku | 44443 | [44443-mahjong-gokuu-tenjiku.json](./44443-mahjong-gokuu-tenjiku.json) |
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | Mazepocalypse | 264580 | [264580-mazepocalypse.json](./264580-mazepocalypse.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
+| Mazer | 4317 | [4317-mazer.json](./4317-mazer.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
 | Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
@@ -4658,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
+| MegaRace | 4283 | [4283-megarace.json](./4283-megarace.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
@@ -6763,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
 | Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
 | Mind Symphony | 194342 | [194342-mind-symphony.json](./194342-mind-symphony.json) |
+| Mind Teazzer | 4306 | [4306-mind-teazzer.json](./4306-mind-teazzer.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
