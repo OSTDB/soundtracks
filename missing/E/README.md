@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
+| Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
 | Enter the Room | 90232 | [90232-enter-the-room.json](./90232-enter-the-room.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Manimal Island | 272395 | [272395-escape-from-manimal-island.json](./272395-escape-from-manimal-island.json) |
 | Escape from Mars | 183949 | [183949-escape-from-mars.json](./183949-escape-from-mars.json) |
 | Escape from Mental Hospital | 377217 | [377217-escape-from-mental-hospital.json](./377217-escape-from-mental-hospital.json) |
+| Escape from Monkey Island | 63 | [63-escape-from-monkey-island.json](./63-escape-from-monkey-island.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
 | Escape from Monster Manor | 4337 | [4337-escape-from-monster-manor.json](./4337-escape-from-monster-manor.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
