@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Land: The Dream Traveler Remastered | 382436 | [382436-geo-land-the-dream-traveler-remastered.json](./382436-geo-land-the-dream-traveler-remastered.json) |
 | GEO Master | 33353 | [33353-geo-master.json](./33353-geo-master.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
+| Geo Puzzle | 47888 | [47888-geo-puzzle.json](./47888-geo-puzzle.json) |
 | GEO Wunder Natur Puzzle: Echter Puzzlespass für Unterwegs | 252661 | [252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json](./252661-geo-wunder-natur-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
 | GoGo Tap! Fighter | 243077 | [243077-gogo-tap-fighter.json](./243077-gogo-tap-fighter.json) |
 | Gogo the Ghost | 13859 | [13859-gogo-the-ghost.json](./13859-gogo-the-ghost.json) |
+| Gogo's Crazy Bones | 47901 | [47901-gogos-crazy-bones.json](./47901-gogos-crazy-bones.json) |
 | Gogofish! Redux: GOTD Edition | 176819 | [176819-gogofish-redux-gotd-edition.json](./176819-gogofish-redux-gotd-edition.json) |
 | GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
 | Gogoo | 151001 | [151001-gogoo.json](./151001-gogoo.json) |
