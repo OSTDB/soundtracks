@@ -2160,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
+| SCUD Race | 39476 | [39476-scud-race.json](./39476-scud-race.json) |
 | Scud: Industrial Evolution | 73501 | [73501-scud-industrial-evolution.json](./73501-scud-industrial-evolution.json) |
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
@@ -5681,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
+| Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
