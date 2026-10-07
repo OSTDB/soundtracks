@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazaru de Gozaru no Game de Gozaru | 65278 | [65278-bazaru-de-gozaru-no-game-de-gozaru.json](./65278-bazaru-de-gozaru-no-game-de-gozaru.json) |
 | Bazoik | 178938 | [178938-bazoik.json](./178938-bazoik.json) |
+| Bazoo | 56293 | [56293-bazoo.json](./56293-bazoo.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
@@ -8923,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
 | Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
+| Brutes.io | 56266 | [56266-brutes-io.json](./56266-brutes-io.json) |
 | Brutic | 280228 | [280228-brutic.json](./280228-brutic.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
