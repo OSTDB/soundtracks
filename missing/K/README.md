@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinder | 261432 | [261432-kinder.json](./261432-kinder.json) |
 | Kinder Finders | 339398 | [339398-kinder-finders.json](./339398-kinder-finders.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
+| Kindergarten | 29526 | [29526-kindergarten.json](./29526-kindergarten.json) |
 | Kindergarten 2 | 118637 | [118637-kindergarten-2.json](./118637-kindergarten-2.json) |
 | Kindergarten 3 | 300328 | [300328-kindergarten-3.json](./300328-kindergarten-3.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Birth by Sleep: Special Edition | 44469 | [44469-kingdom-hearts-birth-by-sleep-special-edition.json](./44469-kingdom-hearts-birth-by-sleep-special-edition.json) |
 | Kingdom Hearts coded | 20285 | [20285-kingdom-hearts-coded.json](./20285-kingdom-hearts-coded.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
+| Kingdom Hearts Final Mix | 212758 | [212758-kingdom-hearts-final-mix.json](./212758-kingdom-hearts-final-mix.json) |
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix | 7356 | [7356-kingdom-hearts-hd-1-5-remix.json](./7356-kingdom-hearts-hd-1-5-remix.json) |
