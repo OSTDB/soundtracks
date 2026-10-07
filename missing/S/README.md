@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
 | SaGa Frontier | 11310 | [11310-saga-frontier.json](./11310-saga-frontier.json) |
+| SaGa Frontier 2 | 2353 | [2353-saga-frontier-2.json](./2353-saga-frontier-2.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | SaGa Frontier Remastered | 141281 | [141281-saga-frontier-remastered.json](./141281-saga-frontier-remastered.json) |
 | Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Ties | 58077 | [58077-secret-ties.json](./58077-secret-ties.json) |
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
+| Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
@@ -3489,6 +3491,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Horns From Tilt | 143973 | [143973-seven-horns-from-tilt.json](./143973-seven-horns-from-tilt.json) |
 | Seven Idle Dwarf | 107094 | [107094-seven-idle-dwarf.json](./107094-seven-idle-dwarf.json) |
+| Seven Kingdoms | 859 | [859-seven-kingdoms.json](./859-seven-kingdoms.json) |
+| Seven Kingdoms II: The Fryhtan Wars | 860 | [860-seven-kingdoms-ii-the-fryhtan-wars.json](./860-seven-kingdoms-ii-the-fryhtan-wars.json) |
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
 | Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
@@ -6002,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
 | Silent Hunter | 15517 | [15517-silent-hunter.json](./15517-silent-hunter.json) |
+| Silent Hunter 4: Wolves of the Pacific - U-Boat Missions | 994 | [994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json](./994-silent-hunter-4-wolves-of-the-pacific-u-boat-missions.json) |
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
@@ -6201,6 +6206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
 | SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
+| SimCity Creator | 1493 | [1493-simcity-creator.json](./1493-simcity-creator.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity Deluxe | 351165 | [351165-simcity-deluxe.json](./351165-simcity-deluxe.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
@@ -6241,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon the Seahorse The Animated Adventure Game | 275714 | [275714-simon-the-seahorse-the-animated-adventure-game.json](./275714-simon-the-seahorse-the-animated-adventure-game.json) |
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
+| Simon the Sorcerer 4: Chaos Happens | 462 | [462-simon-the-sorcerer-4-chaos-happens.json](./462-simon-the-sorcerer-4-chaos-happens.json) |
 | Simon the Sorcerer 5: Who'd Even Want Contact?! | 463 | [463-simon-the-sorcerer-5-whod-even-want-contact.json](./463-simon-the-sorcerer-5-whod-even-want-contact.json) |
 | Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe | 460 | [460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json](./460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json) |
 | Simon the Sorcerer's Puzzle Pack | 77254 | [77254-simon-the-sorcerers-puzzle-pack.json](./77254-simon-the-sorcerers-puzzle-pack.json) |
@@ -19289,6 +19296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
 | Superbeat: Xonic - The X-Clusive Limited Edition | 89913 | [89913-superbeat-xonic-the-x-clusive-limited-edition.json](./89913-superbeat-xonic-the-x-clusive-limited-edition.json) |
 | Superbeat: Xonic - The X-Otic Limited Edition | 89912 | [89912-superbeat-xonic-the-x-otic-limited-edition.json](./89912-superbeat-xonic-the-x-otic-limited-edition.json) |
+| Superbike 2000 | 886 | [886-superbike-2000.json](./886-superbike-2000.json) |
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
