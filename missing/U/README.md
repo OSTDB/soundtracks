@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
+| Uncharted: Fight for Fortune | 19583 | [19583-uncharted-fight-for-fortune.json](./19583-uncharted-fight-for-fortune.json) |
 | Uncharted: Fight for Fortune - Among Thieves Expansion | 381859 | [381859-uncharted-fight-for-fortune-among-thieves-expansion.json](./381859-uncharted-fight-for-fortune-among-thieves-expansion.json) |
 | Uncharted: Fight for Fortune - Drake's Deception Expansion | 381860 | [381860-uncharted-fight-for-fortune-drakes-deception-expansion.json](./381860-uncharted-fight-for-fortune-drakes-deception-expansion.json) |
 | Uncharted: Fortune Hunter | 19609 | [19609-uncharted-fortune-hunter.json](./19609-uncharted-fortune-hunter.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld | 174107 | [174107-underworld.json](./174107-underworld.json) |
 | Underworld | 343436 | [343436-underworld.json](./343436-underworld.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
+| Underworld Ascendant | 19466 | [19466-underworld-ascendant.json](./19466-underworld-ascendant.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
 | Underworld Defense | 259515 | [259515-underworld-defense.json](./259515-underworld-defense.json) |
 | Underworld Dreams | 127209 | [127209-underworld-dreams.json](./127209-underworld-dreams.json) |
