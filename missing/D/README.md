@@ -2255,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
+| Deadlink | 204239 | [204239-deadlink.json](./204239-deadlink.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
@@ -3503,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Race | 192974 | [192974-demolition-race.json](./192974-demolition-race.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
+| Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
@@ -5611,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Guardians of the Light | 11403 | [11403-disciples-ii-guardians-of-the-light.json](./11403-disciples-ii-guardians-of-the-light.json) |
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
 | Disciples II: Rise of the Elves Gold | 224495 | [224495-disciples-ii-rise-of-the-elves-gold.json](./224495-disciples-ii-rise-of-the-elves-gold.json) |
+| Disciples II: Servants of the Dark | 11402 | [11402-disciples-ii-servants-of-the-dark.json](./11402-disciples-ii-servants-of-the-dark.json) |
 | Disciples III: Renaissance | 9824 | [9824-disciples-iii-renaissance.json](./9824-disciples-iii-renaissance.json) |
 | Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
 | Disciples of the Storm | 110236 | [110236-disciples-of-the-storm.json](./110236-disciples-of-the-storm.json) |
@@ -7949,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
+| Dr. Mario | 208424 | [208424-dr-mario.json](./208424-dr-mario.json) |
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
@@ -7957,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
+| Dr. Mario: Miracle Cure | 11068 | [11068-dr-mario-miracle-cure.json](./11068-dr-mario-miracle-cure.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
@@ -8455,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
+| Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Additional DLC Sets | 388942 | [388942-dragon-quest-vii-reimagined-additional-dlc-sets.json](./388942-dragon-quest-vii-reimagined-additional-dlc-sets.json) |
@@ -8554,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Warrior II | 239184 | [239184-dragon-warrior-ii.json](./239184-dragon-warrior-ii.json) |
+| Dragon Warrior III | 205589 | [205589-dragon-warrior-iii.json](./205589-dragon-warrior-iii.json) |
 | Dragon Warrior III | 205600 | [205600-dragon-warrior-iii.json](./205600-dragon-warrior-iii.json) |
 | Dragon Warrior IV | 16584 | [16584-dragon-warrior-iv.json](./16584-dragon-warrior-iv.json) |
 | Dragon Warrior Monsters 2: Cobi's Journey | 222275 | [222275-dragon-warrior-monsters-2-cobis-journey.json](./222275-dragon-warrior-monsters-2-cobis-journey.json) |
@@ -9099,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming with You | 267474 | [267474-dreaming-with-you.json](./267474-dreaming-with-you.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
+| Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
