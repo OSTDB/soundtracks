@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 3: Fallen Angel | 20938 | [20938-dead-rising-3-fallen-angel.json](./20938-dead-rising-3-fallen-angel.json) |
 | Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
 | Dead Rising 3: The Last Agent | 20942 | [20942-dead-rising-3-the-last-agent.json](./20942-dead-rising-3-the-last-agent.json) |
+| Dead Rising 4 | 19521 | [19521-dead-rising-4.json](./19521-dead-rising-4.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising 4: Deluxe Edition | 52871 | [52871-dead-rising-4-deluxe-edition.json](./52871-dead-rising-4-deluxe-edition.json) |
 | Dead Rising 4: Frank Rising | 27886 | [27886-dead-rising-4-frank-rising.json](./27886-dead-rising-4-frank-rising.json) |
