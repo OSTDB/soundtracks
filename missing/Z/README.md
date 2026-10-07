@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero G Golf | 181661 | [181661-zero-g-golf.json](./181661-zero-g-golf.json) |
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
+| Zero Gunner 2 | 21014 | [21014-zero-gunner-2.json](./21014-zero-gunner-2.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero Idle | 143604 | [143604-zero-idle.json](./143604-zero-idle.json) |
 | Zero Jikan he... | 329793 | [329793-zero-jikan-he.json](./329793-zero-jikan-he.json) |
@@ -1293,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork | 1944 | [1944-zork.json](./1944-zork.json) |
 | Zork Classics: Interactive Fiction | 71755 | [71755-zork-classics-interactive-fiction.json](./71755-zork-classics-interactive-fiction.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
+| Zork Nemesis: The Forbidden Lands | 1953 | [1953-zork-nemesis-the-forbidden-lands.json](./1953-zork-nemesis-the-forbidden-lands.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
 | Zork Trilogy | 186103 | [186103-zork-trilogy.json](./186103-zork-trilogy.json) |
 | ZorkQuest: Assault on Egreth Castle | 59856 | [59856-zorkquest-assault-on-egreth-castle.json](./59856-zorkquest-assault-on-egreth-castle.json) |
