@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter Tamagotchi | 251591 | [251591-harry-potter-tamagotchi.json](./251591-harry-potter-tamagotchi.json) |
 | Harry Potter: Magic Awakened | 125209 | [125209-harry-potter-magic-awakened.json](./125209-harry-potter-magic-awakened.json) |
 | Harry Potter: Mastering Magic | 266200 | [266200-harry-potter-mastering-magic.json](./266200-harry-potter-mastering-magic.json) |
+| Harry Potter: Quidditch Champions | 246166 | [246166-harry-potter-quidditch-champions.json](./246166-harry-potter-quidditch-champions.json) |
 | Harry Potter: Quidditch Champions - Deluxe Edition | 318003 | [318003-harry-potter-quidditch-champions-deluxe-edition.json](./318003-harry-potter-quidditch-champions-deluxe-edition.json) |
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
@@ -1478,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
 | Haunted Casino | 68900 | [68900-haunted-casino.json](./68900-haunted-casino.json) |
+| Haunted Castle | 1117 | [1117-haunted-castle.json](./1117-haunted-castle.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Dawn: The Zombie Apocalypse | 150267 | [150267-haunted-dawn-the-zombie-apocalypse.json](./150267-haunted-dawn-the-zombie-apocalypse.json) |
@@ -2513,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Friends | 186743 | [186743-hello-kitty-friends.json](./186743-hello-kitty-friends.json) |
 | Hello Kitty Happy Town | 96208 | [96208-hello-kitty-happy-town.json](./96208-hello-kitty-happy-town.json) |
+| Hello Kitty Island Adventure | 254871 | [254871-hello-kitty-island-adventure.json](./254871-hello-kitty-island-adventure.json) |
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kruisers with Sanrio Friends | 62781 | [62781-hello-kitty-kruisers-with-sanrio-friends.json](./62781-hello-kitty-kruisers-with-sanrio-friends.json) |
 | Hello Kitty Lunchbox | 225660 | [225660-hello-kitty-lunchbox.json](./225660-hello-kitty-lunchbox.json) |
@@ -4796,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
+| Hoa | 136981 | [136981-hoa.json](./136981-hoa.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
@@ -5933,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
 | Hot Lap League | 197776 | [197776-hot-lap-league.json](./197776-hot-lap-league.json) |
 | Hot Lap Racing | 265779 | [265779-hot-lap-racing.json](./265779-hot-lap-racing.json) |
+| Hot Lava | 20149 | [20149-hot-lava.json](./20149-hot-lava.json) |
 | Hot Line | 305458 | [305458-hot-line.json](./305458-hot-line.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
@@ -6012,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Old but Gold Pack | 311085 | [311085-hot-wheels-unleashed-2-old-but-gold-pack.json](./311085-hot-wheels-unleashed-2-old-but-gold-pack.json) |
 | Hot Wheels Unleashed 2: Rust and Fast Pack | 254427 | [254427-hot-wheels-unleashed-2-rust-and-fast-pack.json](./254427-hot-wheels-unleashed-2-rust-and-fast-pack.json) |
 | Hot Wheels Unleashed 2: Season Pass Vol. 2 | 293137 | [293137-hot-wheels-unleashed-2-season-pass-vol-2.json](./293137-hot-wheels-unleashed-2-season-pass-vol-2.json) |
+| Hot Wheels Unleashed 2: Turbocharged | 251471 | [251471-hot-wheels-unleashed-2-turbocharged.json](./251471-hot-wheels-unleashed-2-turbocharged.json) |
 | Hot Wheels Unleashed 2: Turbocharged - AcceleRacers All-Star Pack | 271933 | [271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json](./271933-hot-wheels-unleashed-2-turbocharged-acceleracers-all-star-pack.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Day One Edition | 252166 | [252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json](./252166-hot-wheels-unleashed-2-turbocharged-day-one-edition.json) |
 | Hot Wheels Unleashed 2: Turbocharged - Deluxe Edition | 252887 | [252887-hot-wheels-unleashed-2-turbocharged-deluxe-edition.json](./252887-hot-wheels-unleashed-2-turbocharged-deluxe-edition.json) |
