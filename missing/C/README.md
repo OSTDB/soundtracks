@@ -4504,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChromaSquares | 107427 | [107427-chromasquares.json](./107427-chromasquares.json) |
 | Chromata | 256308 | [256308-chromata.json](./256308-chromata.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
+| Chromatic | 47138 | [47138-chromatic.json](./47138-chromatic.json) |
 | Chromatic Aberration | 113843 | [113843-chromatic-aberration.json](./113843-chromatic-aberration.json) |
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
@@ -6292,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Col:Verse | 293830 | [293830-col-verse.json](./293830-col-verse.json) |
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
 | CoLane | 405666 | [405666-colane.json](./405666-colane.json) |
+| Colby | 47156 | [47156-colby.json](./47156-colby.json) |
 | Cold | 344370 | [344370-cold.json](./344370-cold.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
