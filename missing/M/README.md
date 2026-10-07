@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mankind's Last Stand | 253905 | [253905-mankinds-last-stand.json](./253905-mankinds-last-stand.json) |
 | Mankojai | 184115 | [184115-mankojai.json](./184115-mankojai.json) |
 | Manky | 336175 | [336175-manky.json](./336175-manky.json) |
+| Manlandia | 57500 | [57500-manlandia.json](./57500-manlandia.json) |
 | Manludo | 301820 | [301820-manludo.json](./301820-manludo.json) |
 | Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Mirlo Above the Sun | 152460 | [152460-mirlo-above-the-sun.json](./152460-mirlo-above-the-sun.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
+| Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
@@ -9184,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
 | Mooniacs | 343469 | [343469-mooniacs.json](./343469-mooniacs.json) |
 | Moonland | 270707 | [270707-moonland.json](./270707-moonland.json) |
+| Moonland | 57499 | [57499-moonland.json](./57499-moonland.json) |
 | Moonlander | 9129 | [9129-moonlander.json](./9129-moonlander.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
