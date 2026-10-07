@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
 | King's Field II | 9500 | [9500-kings-field-ii.json](./9500-kings-field-ii.json) |
+| King's Field: The Ancient City | 9501 | [9501-kings-field-the-ancient-city.json](./9501-kings-field-the-ancient-city.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
 | King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
 | King's Hand: Exotic Purgatory Pack | 230919 | [230919-kings-hand-exotic-purgatory-pack.json](./230919-kings-hand-exotic-purgatory-pack.json) |
