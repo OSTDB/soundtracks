@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive Unlimited 2 | 7216 | [7216-test-drive-unlimited-2.json](./7216-test-drive-unlimited-2.json) |
 | Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
+| Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
+| The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
@@ -13561,6 +13563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinge | 68884 | [68884-tinge.json](./68884-tinge.json) |
 | Tinge 2 | 68882 | [68882-tinge-2.json](./68882-tinge-2.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
+| Tinhead | 46593 | [46593-tinhead.json](./46593-tinhead.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tinja | 81647 | [81647-tinja.json](./81647-tinja.json) |
@@ -14912,6 +14915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
 | Top Gunner | 17477 | [17477-top-gunner.json](./17477-top-gunner.json) |
 | Top Heroes | 321427 | [321427-top-heroes.json](./321427-top-heroes.json) |
+| Top Hunter: Roddy & Cathy | 46520 | [46520-top-hunter-roddy-and-cathy.json](./46520-top-hunter-roddy-and-cathy.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
 | Top Model 3D | 84948 | [84948-top-model-3d.json](./84948-top-model-3d.json) |
 | Top Model Makeover - Girls Makeup & Dress Up Games | 90216 | [90216-top-model-makeover-girls-makeup-and-dress-up-games.json](./90216-top-model-makeover-girls-makeup-and-dress-up-games.json) |
