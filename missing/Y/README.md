@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
 | You Must | 166604 | [166604-you-must.json](./166604-you-must.json) |
 | You Must Become A Lich | 248653 | [248653-you-must-become-a-lich.json](./248653-you-must-become-a-lich.json) |
+| You Must Build A Boat | 19955 | [19955-you-must-build-a-boat.json](./19955-you-must-build-a-boat.json) |
 | You Must Build A Ship | 185589 | [185589-you-must-build-a-ship.json](./185589-you-must-build-a-ship.json) |
 | You Must Die | 220166 | [220166-you-must-die.json](./220166-you-must-die.json) |
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
