@@ -10466,6 +10466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CtrlC | 239735 | [239735-ctrlc.json](./239735-ctrlc.json) |
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
+| CTU: Marine Sharpshooter | 27560 | [27560-ctu-marine-sharpshooter.json](./27560-ctu-marine-sharpshooter.json) |
 | Cu-On-Pa BS Ban | 134436 | [134436-cu-on-pa-bs-ban.json](./134436-cu-on-pa-bs-ban.json) |
 | Cu63 | 183934 | [183934-cu63.json](./183934-cu63.json) |
 | Cuadradito y Circulito: El Videojuego | 133982 | [133982-cuadradito-y-circulito-el-videojuego.json](./133982-cuadradito-y-circulito-el-videojuego.json) |
