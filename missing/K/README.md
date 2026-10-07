@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalikan | 255868 | [255868-kalikan.json](./255868-kalikan.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
+| Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
 | Kallax | 217284 | [217284-kallax.json](./217284-kallax.json) |
 | Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kamen Rider Battle: Ganbaride | 83930 | [83930-kamen-rider-battle-ganbaride.json](./83930-kamen-rider-battle-ganbaride.json) |
 | Kamen Rider Black: Hissatsu Rider Kick | 385754 | [385754-kamen-rider-black-hissatsu-rider-kick.json](./385754-kamen-rider-black-hissatsu-rider-kick.json) |
+| Kamen Rider Black: Taiketsu Shadow Moon | 41264 | [41264-kamen-rider-black-taiketsu-shadow-moon.json](./41264-kamen-rider-black-taiketsu-shadow-moon.json) |
 | Kamen Rider City Wars | 68105 | [68105-kamen-rider-city-wars.json](./68105-kamen-rider-city-wars.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Decade | 321523 | [321523-kamen-rider-decade.json](./321523-kamen-rider-decade.json) |
@@ -1176,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Bot Classic | 137089 | [137089-kick-bot-classic.json](./137089-kick-bot-classic.json) |
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
+| Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi | 41261 | [41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json](./41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json) |
 | Kick Goal | 40341 | [40341-kick-goal.json](./40341-kick-goal.json) |
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
@@ -1270,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
+| Kidou Keisatsu Patlabor: Dai-2-shoutai Shutsudou Seyo! | 41258 | [41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json](./41258-kidou-keisatsu-patlabor-dai-2-shoutai-shutsudou-seyo.json) |
 | Kidou Keisatsu Patlabor: Game Edition | 43814 | [43814-kidou-keisatsu-patlabor-game-edition.json](./43814-kidou-keisatsu-patlabor-game-edition.json) |
 | Kidou Senkan Nadesico: Ruriruri Mahjong | 281654 | [281654-kidou-senkan-nadesico-ruriruri-mahjong.json](./281654-kidou-senkan-nadesico-ruriruri-mahjong.json) |
 | Kidou Senshi Gundam F91: Formula Senki 0122 | 67614 | [67614-kidou-senshi-gundam-f91-formula-senki-0122.json](./67614-kidou-senshi-gundam-f91-formula-senki-0122.json) |
@@ -1340,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidz Sports: Ice Hockey | 51069 | [51069-kidz-sports-ice-hockey.json](./51069-kidz-sports-ice-hockey.json) |
 | Kiekko.tk | 133753 | [133753-kiekko-tk.json](./133753-kiekko-tk.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
+| Kieta Princess | 41300 | [41300-kieta-princess.json](./41300-kieta-princess.json) |
 | Kieta Sekai to Tsuki to Shoujo: The World was Prayed by The Girl Living A Thousand Years | 97462 | [97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json](./97462-kieta-sekai-to-tsuki-to-shoujo-the-world-was-prayed-by-the-girl-living-a-thousand-years.json) |
 | Kigetsu no Yoru | 368634 | [368634-kigetsu-no-yoru.json](./368634-kigetsu-no-yoru.json) |
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
@@ -1353,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
 | Kiki | 309528 | [309528-kiki.json](./309528-kiki.json) |
 | Kiki & Ana - The Child | 144812 | [144812-kiki-and-ana-the-child.json](./144812-kiki-and-ana-the-child.json) |
+| KiKi KaiKai: Dotou-hen | 41269 | [41269-kiki-kaikai-dotou-hen.json](./41269-kiki-kaikai-dotou-hen.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
 | KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
@@ -2504,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Lolita | 303615 | [303615-knight-lolita.json](./303615-knight-lolita.json) |
 | Knight Lore | 309338 | [309338-knight-lore.json](./309338-knight-lore.json) |
 | Knight Maker | 175741 | [175741-knight-maker.json](./175741-knight-maker.json) |
+| Knight Move | 41270 | [41270-knight-move.json](./41270-knight-move.json) |
 | Knight of Exile | 171421 | [171421-knight-of-exile.json](./171421-knight-of-exile.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
@@ -2926,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koncolos | 192264 | [192264-koncolos.json](./192264-koncolos.json) |
 | Konductra | 20619 | [20619-konductra.json](./20619-konductra.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
+| Koneko Monogatari: The Adventures of Chatran | 41271 | [41271-koneko-monogatari-the-adventures-of-chatran.json](./41271-koneko-monogatari-the-adventures-of-chatran.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong | 275224 | [275224-kong.json](./275224-kong.json) |
