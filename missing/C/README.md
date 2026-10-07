@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
+| Cadence | 18216 | [18216-cadence.json](./18216-cadence.json) |
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
 | Cadence Cuties | 245791 | [245791-cadence-cuties.json](./245791-cadence-cuties.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesar's World of Boxing | 45941 | [45941-caesars-world-of-boxing.json](./45941-caesars-world-of-boxing.json) |
 | Caesar's World of Gambling | 45940 | [45940-caesars-world-of-gambling.json](./45940-caesars-world-of-gambling.json) |
+| CaesarIA | 17927 | [17927-caesaria.json](./17927-caesaria.json) |
 | Caesars Palace | 206697 | [206697-caesars-palace.json](./206697-caesars-palace.json) |
 | Caesars Palace | 206698 | [206698-caesars-palace.json](./206698-caesars-palace.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
@@ -3894,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickenoidz Super Party | 217358 | [217358-chickenoidz-super-party.json](./217358-chickenoidz-super-party.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
 | Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
+| Chickens 2 | 19234 | [19234-chickens-2.json](./19234-chickens-2.json) |
 | Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
@@ -5128,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Stories: The Hunter's Heart - Collector's Edition | 367607 | [367607-city-of-stories-the-hunters-heart-collectors-edition.json](./367607-city-of-stories-the-hunters-heart-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
+| City of the Shroud | 18354 | [18354-city-of-the-shroud.json](./18354-city-of-the-shroud.json) |
 | City of the Undead | 225557 | [225557-city-of-the-undead.json](./225557-city-of-the-undead.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
 | City of Titans | 124661 | [124661-city-of-titans.json](./124661-city-of-titans.json) |
@@ -5239,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
 | Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
+| Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair Obscur: Expedition 33 - Thank You Update | 381336 | [381336-clair-obscur-expedition-33-thank-you-update.json](./381336-clair-obscur-expedition-33-thank-you-update.json) |
@@ -5319,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
+| Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
@@ -7960,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 3 - Episode 07 | 302586 | [302586-cool-kid-cody-season-3-episode-07.json](./302586-cool-kid-cody-season-3-episode-07.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
 | Cool Lady | 259026 | [259026-cool-lady.json](./259026-cool-lady.json) |
+| Cool Moves Fishing | 19205 | [19205-cool-moves-fishing.json](./19205-cool-moves-fishing.json) |
 | Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
 | Cool Pizza | 172700 | [172700-cool-pizza.json](./172700-cool-pizza.json) |
 | Cool Riders | 58740 | [58740-cool-riders.json](./58740-cool-riders.json) |
