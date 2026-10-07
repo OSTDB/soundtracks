@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaiju | 179539 | [179539-daikaiju.json](./179539-daikaiju.json) |
 | Daikaiju Daikessen: Versus | 173188 | [173188-daikaiju-daikessen-versus.json](./173188-daikaiju-daikessen-versus.json) |
 | Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
+| Daikaijuu Monogatari | 38261 | [38261-daikaijuu-monogatari.json](./38261-daikaijuu-monogatari.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai II | 351143 | [351143-daikoukai-jidai-ii.json](./351143-daikoukai-jidai-ii.json) |
@@ -2400,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Box | 160302 | [160302-death-box.json](./160302-death-box.json) |
+| Death Brade | 38236 | [38236-death-brade.json](./38236-death-brade.json) |
 | Death Bringer | 45869 | [45869-death-bringer.json](./45869-death-bringer.json) |
 | Death Burger | 364506 | [364506-death-burger.json](./364506-death-burger.json) |
 | Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
@@ -3772,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
 | Derby Stallion 96: 97 Nendo-ban | 234889 | [234889-derby-stallion-96-97-nendo-ban.json](./234889-derby-stallion-96-97-nendo-ban.json) |
+| Derby Stallion 98 | 38237 | [38237-derby-stallion-98.json](./38237-derby-stallion-98.json) |
 | Derby Stallion 99 | 123047 | [123047-derby-stallion-99.json](./123047-derby-stallion-99.json) |
 | Derby Stallion DS | 123049 | [123049-derby-stallion-ds.json](./123049-derby-stallion-ds.json) |
 | Derby Stallion Expert Kit | 123055 | [123055-derby-stallion-expert-kit.json](./123055-derby-stallion-expert-kit.json) |
@@ -7685,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukeshi Satsujin Jiken | 351082 | [351082-doukeshi-satsujin-jiken.json](./351082-doukeshi-satsujin-jiken.json) |
 | Doukutsu Demake | 183019 | [183019-doukutsu-demake.json](./183019-doukutsu-demake.json) |
 | Doukyuu-sei | 59997 | [59997-doukyuu-sei.json](./59997-doukyuu-sei.json) |
+| Doukyuusei 2 | 38260 | [38260-doukyuusei-2.json](./38260-doukyuusei-2.json) |
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
 | Doula Continent: Soul Master Duel | 174708 | [174708-doula-continent-soul-master-duel.json](./174708-doula-continent-soul-master-duel.json) |
