@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Dentist | 351702 | [351702-little-dentist.json](./351702-little-dentist.json) |
 | Little Desktop Runner | 385833 | [385833-little-desktop-runner.json](./385833-little-desktop-runner.json) |
 | Little Deviants | 20736 | [20736-little-deviants.json](./20736-little-deviants.json) |
+| Little Devil Inside | 9687 | [9687-little-devil-inside.json](./9687-little-devil-inside.json) |
 | Little Devil: Foster Mayhem | 261970 | [261970-little-devil-foster-mayhem.json](./261970-little-devil-foster-mayhem.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
@@ -5370,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludus Vetitus | 292766 | [292766-ludus-vetitus.json](./292766-ludus-vetitus.json) |
 | Ludus: A Gladiator Story | 411712 | [411712-ludus-a-gladiator-story.json](./411712-ludus-a-gladiator-story.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
+| Ludwig | 9239 | [9239-ludwig.json](./9239-ludwig.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
