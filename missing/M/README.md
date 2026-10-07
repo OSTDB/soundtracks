@@ -1334,6 +1334,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
+| Majin Tensei | 38231 | [38231-majin-tensei.json](./38231-majin-tensei.json) |
+| Majin Tensei II: Spiral Nemesis | 38263 | [38263-majin-tensei-ii-spiral-nemesis.json](./38263-majin-tensei-ii-spiral-nemesis.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
@@ -1452,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
+| Makeruna! Makendo 2: Kimero Yokai Souri | 38265 | [38265-makeruna-makendo-2-kimero-yokai-souri.json](./38265-makeruna-makendo-2-kimero-yokai-souri.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
@@ -3353,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsukeke Burst! | 288297 | [288297-matsukeke-burst.json](./288297-matsukeke-burst.json) |
 | Matsumoto Toru no Kabushiki Hisshougaku | 48783 | [48783-matsumoto-toru-no-kabushiki-hisshougaku.json](./48783-matsumoto-toru-no-kabushiki-hisshougaku.json) |
 | Matsumoto Toru no Kabushiki Hisshougaku II | 48782 | [48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json](./48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json) |
+| Matsumura Kunihiro-den: Saikyou no Rekishi wo Nurikaero! | 38211 | [38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json](./38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json) |
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
@@ -5483,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
+| Metal Slader Glory: Director's Cut | 38238 | [38238-metal-slader-glory-directors-cut.json](./38238-metal-slader-glory-directors-cut.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
 | Metal Slug 1st Mission (Best Collection) | 75483 | [75483-metal-slug-1st-mission-best-collection.json](./75483-metal-slug-1st-mission-best-collection.json) |
 | Metal Slug 1st Mission (Version A) | 75484 | [75484-metal-slug-1st-mission-version-a.json](./75484-metal-slug-1st-mission-version-a.json) |
@@ -7184,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Moni. Step Pyon Pyon Pyon | 243282 | [243282-mini-moni-step-pyon-pyon-pyon.json](./243282-mini-moni-step-pyon-pyon-pyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Mini-Yonku Let's & Go!! Power WGP 2 | 37927 | [37927-mini-yonku-lets-and-go-power-wgp-2.json](./37927-mini-yonku-lets-and-go-power-wgp-2.json) |
+| Mini-Yonku Shining Scorpion: Let's & Go!! | 38218 | [38218-mini-yonku-shining-scorpion-lets-and-go.json](./38218-mini-yonku-shining-scorpion-lets-and-go.json) |
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
 | Miniature Air Hockey | 175239 | [175239-miniature-air-hockey.json](./175239-miniature-air-hockey.json) |
