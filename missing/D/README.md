@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil Dynamite | 108504 | [108504-daredevil-dynamite.json](./108504-daredevil-dynamite.json) |
 | Daredevil Rider | 255746 | [255746-daredevil-rider.json](./255746-daredevil-rider.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
+| Daregon | 57468 | [57468-daregon.json](./57468-daregon.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
 | Daring Academy | 211816 | [211816-daring-academy.json](./211816-daring-academy.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkilson | 149480 | [149480-darkilson.json](./149480-darkilson.json) |
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
+| Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
 | Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
@@ -4232,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detective: The Mountain City | 203951 | [203951-detective-the-mountain-city.json](./203951-detective-the-mountain-city.json) |
 | Detective: The Test | 336114 | [336114-detective-the-test.json](./336114-detective-the-test.json) |
+| Detectiveland | 57516 | [57516-detectiveland.json](./57516-detectiveland.json) |
 | Detectives United II: The Darkest Shrine | 187930 | [187930-detectives-united-ii-the-darkest-shrine.json](./187930-detectives-united-ii-the-darkest-shrine.json) |
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
