@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dajjal's Minions | 26792 | [26792-dajjals-minions.json](./26792-dajjals-minions.json) |
 | Daka Dara | 115790 | [115790-daka-dara.json](./115790-daka-dara.json) |
 | Dakar '97 | 123056 | [123056-dakar-97.json](./123056-dakar-97.json) |
+| Dakar 18 | 81256 | [81256-dakar-18.json](./81256-dakar-18.json) |
 | Dakar 18: Day One Edition | 110333 | [110333-dakar-18-day-one-edition.json](./110333-dakar-18-day-one-edition.json) |
 | Dakar Desert Rally: Audi RS Q e-tron Hybrid Car | 220597 | [220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json](./220597-dakar-desert-rally-audi-rs-q-e-tron-hybrid-car.json) |
 | Dakar Desert Rally: Classics Vehicle Pack #2 | 278430 | [278430-dakar-desert-rally-classics-vehicle-pack-2.json](./278430-dakar-desert-rally-classics-vehicle-pack-2.json) |
@@ -1919,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cat Bounce | 387631 | [387631-dead-cat-bounce.json](./387631-dead-cat-bounce.json) |
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
+| Dead Cells: Fatal Falls | 142877 | [142877-dead-cells-fatal-falls.json](./142877-dead-cells-fatal-falls.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Prisoner's Edition | 136322 | [136322-dead-cells-prisoners-edition.json](./136322-dead-cells-prisoners-edition.json) |
 | Dead Cells: Return to Castlevania | 228520 | [228520-dead-cells-return-to-castlevania.json](./228520-dead-cells-return-to-castlevania.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
 | Despatch: Entity Astray | 158062 | [158062-despatch-entity-astray.json](./158062-despatch-entity-astray.json) |
 | Despectum Drakone | 203952 | [203952-despectum-drakone.json](./203952-despectum-drakone.json) |
+| Despelote | 145070 | [145070-despelote.json](./145070-despelote.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
 | Desperados | 68252 | [68252-desperados.json](./68252-desperados.json) |
