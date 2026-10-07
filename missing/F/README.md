@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
+| Farmyard Fun | 40686 | [40686-farmyard-fun.json](./40686-farmyard-fun.json) |
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
