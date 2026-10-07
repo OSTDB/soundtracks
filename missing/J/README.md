@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Birdie | 240754 | [240754-jetpack-birdie.json](./240754-jetpack-birdie.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
+| Jetpack Christmas Special | 19238 | [19238-jetpack-christmas-special.json](./19238-jetpack-christmas-special.json) |
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Guy | 223397 | [223397-jetpack-guy.json](./223397-jetpack-guy.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
 | Journey of the Garden Rose | 346185 | [346185-journey-of-the-garden-rose.json](./346185-journey-of-the-garden-rose.json) |
+| Journey of the King | 17930 | [17930-journey-of-the-king.json](./17930-journey-of-the-king.json) |
 | Journey Of The Light | 370850 | [370850-journey-of-the-light.json](./370850-journey-of-the-light.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
 | Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
@@ -1840,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 271775 | [271775-jump.json](./271775-jump.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump | 363034 | [363034-jump.json](./363034-jump.json) |
+| Jump 'n Bump | 19226 | [19226-jump-n-bump.json](./19226-jump-n-bump.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump Among Stars | 211828 | [211828-jump-among-stars.json](./211828-jump-among-stars.json) |
