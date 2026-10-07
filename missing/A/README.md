@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stop for the Night | 304305 | [304305-a-stop-for-the-night.json](./304305-a-stop-for-the-night.json) |
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
+| A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
 | A Story of the Usurpers | 130204 | [130204-a-story-of-the-usurpers.json](./130204-a-story-of-the-usurpers.json) |
@@ -3134,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Alan Wake Remastered | 167611 | [167611-alan-wake-remastered.json](./167611-alan-wake-remastered.json) |
 | Alan Wake: Limited Collector's Edition | 47474 | [47474-alan-wake-limited-collectors-edition.json](./47474-alan-wake-limited-collectors-edition.json) |
 | Alan Wake: The Signal | 20316 | [20316-alan-wake-the-signal.json](./20316-alan-wake-the-signal.json) |
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
@@ -4096,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
+| Alpha Protocol | 2539 | [2539-alpha-protocol.json](./2539-alpha-protocol.json) |
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
 | Alpha Runner 2 | 369206 | [369206-alpha-runner-2.json](./369206-alpha-runner-2.json) |
@@ -5371,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
+| Animal Crossing: Wild World | 2645 | [2645-animal-crossing-wild-world.json](./2645-animal-crossing-wild-world.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
 | Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
 | Animal Defense Versus | 152978 | [152978-animal-defense-versus.json](./152978-animal-defense-versus.json) |
