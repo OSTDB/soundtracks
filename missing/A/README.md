@@ -5910,6 +5910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
 | Another World Quest | 212714 | [212714-another-world-quest.json](./212714-another-world-quest.json) |
+| Another World: 20th Anniversary Edition | 16493 | [16493-another-world-20th-anniversary-edition.json](./16493-another-world-20th-anniversary-edition.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
 | Another World: Thought Taboo | 230911 | [230911-another-world-thought-taboo.json](./230911-another-world-thought-taboo.json) |
@@ -9877,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aware | 395142 | [395142-aware.json](./395142-aware.json) |
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Awareness Test: The Robot Bar | 179572 | [179572-awareness-test-the-robot-bar.json](./179572-awareness-test-the-robot-bar.json) |
+| Awaria | 321629 | [321629-awaria.json](./321629-awaria.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
 | Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
@@ -9965,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
 | Axiom Verge | 8652 | [8652-axiom-verge.json](./8652-axiom-verge.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
+| Axiom Verge 2 | 127269 | [127269-axiom-verge-2.json](./127269-axiom-verge-2.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
