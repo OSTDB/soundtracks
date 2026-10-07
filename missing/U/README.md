@@ -816,10 +816,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
+| Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
 | Uncharted 2: Among Thieves: Drake's Fortune Multiplayer Pack | 252107 | [252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json](./252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json) |
 | Uncharted 2: Among Thieves: Siege Expansion Pack | 252114 | [252114-uncharted-2-among-thieves-siege-expansion-pack.json](./252114-uncharted-2-among-thieves-siege-expansion-pack.json) |
+| Uncharted 3: Drake's Deception - Collector's Edition | 41880 | [41880-uncharted-3-drakes-deception-collectors-edition.json](./41880-uncharted-3-drakes-deception-collectors-edition.json) |
+| Uncharted 3: Drake's Deception - Explorer Edition | 41881 | [41881-uncharted-3-drakes-deception-explorer-edition.json](./41881-uncharted-3-drakes-deception-explorer-edition.json) |
 | Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted 3: Multiplayer | 252195 | [252195-uncharted-3-multiplayer.json](./252195-uncharted-3-multiplayer.json) |
+| Uncharted 4: A Thief's End Libertalia Collector's Edition | 41879 | [41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json](./41879-uncharted-4-a-thiefs-end-libertalia-collectors-edition.json) |
+| Uncharted 4: A Thief's End Special Edition | 41874 | [41874-uncharted-4-a-thiefs-end-special-edition.json](./41874-uncharted-4-a-thiefs-end-special-edition.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
