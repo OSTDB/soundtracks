@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
+| Catherine Classic | 113905 | [113905-catherine-classic.json](./113905-catherine-classic.json) |
 | Catherine Ragnor and the Cursed Island | 341619 | [341619-catherine-ragnor-and-the-cursed-island.json](./341619-catherine-ragnor-and-the-cursed-island.json) |
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
@@ -6417,7 +6418,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
+| Colin McRae Rally 2005 | 7969 | [7969-colin-mcrae-rally-2005.json](./7969-colin-mcrae-rally-2005.json) |
 | Colin McRae Rally 2005 Plus | 44470 | [44470-colin-mcrae-rally-2005-plus.json](./44470-colin-mcrae-rally-2005-plus.json) |
+| Colin McRae Rally 3 | 7968 | [7968-colin-mcrae-rally-3.json](./7968-colin-mcrae-rally-3.json) |
 | Colin McRae: Dirt | 943 | [943-colin-mcrae-dirt.json](./943-colin-mcrae-dirt.json) |
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
@@ -10033,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
+| Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
