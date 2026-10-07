@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlebigplanet 3: Renaissance Costume | 327314 | [327314-littlebigplanet-3-renaissance-costume.json](./327314-littlebigplanet-3-renaissance-costume.json) |
 | LittleBigPlanet 3: Santa Hat And Beard Costume | 322203 | [322203-littlebigplanet-3-santa-hat-and-beard-costume.json](./322203-littlebigplanet-3-santa-hat-and-beard-costume.json) |
 | LittleBigPlanet 3: Sumo Wrestler Costume | 322205 | [322205-littlebigplanet-3-sumo-wrestler-costume.json](./322205-littlebigplanet-3-sumo-wrestler-costume.json) |
+| LittleBigPlanet 3: The Journey Home | 11252 | [11252-littlebigplanet-3-the-journey-home.json](./11252-littlebigplanet-3-the-journey-home.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet PS Vita: Marvel Arcade Pack | 147278 | [147278-littlebigplanet-ps-vita-marvel-arcade-pack.json](./147278-littlebigplanet-ps-vita-marvel-arcade-pack.json) |
