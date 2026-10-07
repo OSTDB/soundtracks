@@ -8187,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Aspen | 201116 | [201116-aspen.json](./201116-aspen.json) |
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
+| Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 9: Legends - High-Gear Pack | 237899 | [237899-asphalt-9-legends-high-gear-pack.json](./237899-asphalt-9-legends-high-gear-pack.json) |
 | Asphalt 9: Legends - Italian Pack | 237901 | [237901-asphalt-9-legends-italian-pack.json](./237901-asphalt-9-legends-italian-pack.json) |
 | Asphalt 9: Legends - Multiplayer Champion Pack | 237896 | [237896-asphalt-9-legends-multiplayer-champion-pack.json](./237896-asphalt-9-legends-multiplayer-champion-pack.json) |
@@ -8488,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Odyssey | 383510 | [383510-asteroid-odyssey.json](./383510-asteroid-odyssey.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
+| Asteroid Shooter VR | 36941 | [36941-asteroid-shooter-vr.json](./36941-asteroid-shooter-vr.json) |
 | Asteroid Smash | 73515 | [73515-asteroid-smash.json](./73515-asteroid-smash.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
 | Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
