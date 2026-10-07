@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
+| Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
 | Patch Tarot | 105775 | [105775-patch-tarot.json](./105775-patch-tarot.json) |
 | Patch the Pipe | 328686 | [328686-patch-the-pipe.json](./328686-patch-the-pipe.json) |
