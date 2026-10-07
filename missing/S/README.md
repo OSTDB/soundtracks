@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
 | Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
+| Scourge Outbreak | 9018 | [9018-scourge-outbreak.json](./9018-scourge-outbreak.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
 | Scourge: Ambush | 60907 | [60907-scourge-ambush.json](./60907-scourge-ambush.json) |
 | ScourgeBringer | 115899 | [115899-scourgebringer.json](./115899-scourgebringer.json) |
@@ -6028,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
+| Silent Service II | 8826 | [8826-silent-service-ii.json](./8826-silent-service-ii.json) |
 | Silent Shadow | 123007 | [123007-silent-shadow.json](./123007-silent-shadow.json) |
 | Silent Shark | 404429 | [404429-silent-shark.json](./404429-silent-shark.json) |
 | Silent Shores | 253506 | [253506-silent-shores.json](./253506-silent-shores.json) |
@@ -13400,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Legacy II: Children of the Nut | 286045 | [286045-squirrel-legacy-ii-children-of-the-nut.json](./286045-squirrel-legacy-ii-children-of-the-nut.json) |
 | Squirrel Madness & Silent Mist | 371431 | [371431-squirrel-madness-and-silent-mist.json](./371431-squirrel-madness-and-silent-mist.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
+| Squirrel Stapler | 263382 | [263382-squirrel-stapler.json](./263382-squirrel-stapler.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirrel with a Gun: Pride Month Update | 370901 | [370901-squirrel-with-a-gun-pride-month-update.json](./370901-squirrel-with-a-gun-pride-month-update.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
@@ -16741,6 +16744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
+| Subway Surfers City | 334892 | [334892-subway-surfers-city.json](./334892-subway-surfers-city.json) |
 | Subway Surfers Match | 371469 | [371469-subway-surfers-match.json](./371469-subway-surfers-match.json) |
 | Subway Surfers Tag | 207216 | [207216-subway-surfers-tag.json](./207216-subway-surfers-tag.json) |
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
@@ -18462,6 +18466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Wars! | 323752 | [323752-super-mario-wars.json](./323752-super-mario-wars.json) |
 | Super Mario Wonderland 1987 | 307716 | [307716-super-mario-wonderland-1987.json](./307716-super-mario-wonderland-1987.json) |
 | Super Mario World | 150031 | [150031-super-mario-world.json](./150031-super-mario-world.json) |
+| Super Mario World | 270346 | [270346-super-mario-world.json](./270346-super-mario-world.json) |
 | Super Mario World 2021 | 267933 | [267933-super-mario-world-2021.json](./267933-super-mario-world-2021.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
@@ -19300,6 +19305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfluous Returnz | 173055 | [173055-superfluous-returnz.json](./173055-superfluous-returnz.json) |
 | Superfly | 171966 | [171966-superfly.json](./171966-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
+| Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
 | Superhero Cats | 295493 | [295493-superhero-cats.json](./295493-superhero-cats.json) |
