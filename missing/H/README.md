@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
 | Halla | 101703 | [101703-halla.json](./101703-halla.json) |
+| Halley Wars | 19509 | [19509-halley-wars.json](./19509-halley-wars.json) |
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Comet | 40352 | [40352-halleys-comet.json](./40352-halleys-comet.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
 | Hammer Kid | 187490 | [187490-hammer-kid.json](./187490-hammer-kid.json) |
 | Hammer of Fury | 38971 | [38971-hammer-of-fury.json](./38971-hammer-of-fury.json) |
+| Hammer of the Gods | 19703 | [19703-hammer-of-the-gods.json](./19703-hammer-of-the-gods.json) |
 | Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
@@ -2409,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Vehicles Pack | 167665 | [167665-helldivers-vehicles-pack.json](./167665-helldivers-vehicles-pack.json) |
 | Helldivers: Weapons Pack | 167663 | [167663-helldivers-weapons-pack.json](./167663-helldivers-weapons-pack.json) |
 | Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
+| Hellementalz | 19213 | [19213-hellementalz.json](./19213-hellementalz.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | Hellenica | 26952 | [26952-hellenica.json](./26952-hellenica.json) |
 | Hellescape | 392459 | [392459-hellescape.json](./392459-hellescape.json) |
@@ -3346,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
+| Heroes Charge | 19210 | [19210-heroes-charge.json](./19210-heroes-charge.json) |
 | Heroes Chronicles: All Chapters | 124971 | [124971-heroes-chronicles-all-chapters.json](./124971-heroes-chronicles-all-chapters.json) |
 | Heroes Chronicles: Clash of the Dragons | 8435 | [8435-heroes-chronicles-clash-of-the-dragons.json](./8435-heroes-chronicles-clash-of-the-dragons.json) |
 | Heroes Chronicles: Conquest of the Underworld | 7867 | [7867-heroes-chronicles-conquest-of-the-underworld.json](./7867-heroes-chronicles-conquest-of-the-underworld.json) |
