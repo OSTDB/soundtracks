@@ -5850,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Anime Legends Pack | 212329 | [212329-fortnite-anime-legends-pack.json](./212329-fortnite-anime-legends-pack.json) |
 | Fortnite: Bee Positive Pack | 363901 | [363901-fortnite-bee-positive-pack.json](./363901-fortnite-bee-positive-pack.json) |
 | Fortnite: Chapter 2 | 129880 | [129880-fortnite-chapter-2.json](./129880-fortnite-chapter-2.json) |
+| Fortnite: Chapter 2 - Season 2 | 129912 | [129912-fortnite-chapter-2-season-2.json](./129912-fortnite-chapter-2-season-2.json) |
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
@@ -5887,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 2 | 129878 | [129878-fortnite-season-2.json](./129878-fortnite-season-2.json) |
 | Fortnite: Season 4 | 129876 | [129876-fortnite-season-4.json](./129876-fortnite-season-4.json) |
 | Fortnite: Season 8 | 129872 | [129872-fortnite-season-8.json](./129872-fortnite-season-8.json) |
+| Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
