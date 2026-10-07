@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Safari | 171997 | [171997-sapphire-safari.json](./171997-sapphire-safari.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
+| Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
 | Shackles of Ellswyn | 203776 | [203776-shackles-of-ellswyn.json](./203776-shackles-of-ellswyn.json) |
 | Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
+| Shad'O: Collector's Edition | 25546 | [25546-shado-collectors-edition.json](./25546-shado-collectors-edition.json) |
 | Shada Kalo | 216306 | [216306-shada-kalo.json](./216306-shada-kalo.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
 | Shade | 79903 | [79903-shade.json](./79903-shade.json) |
@@ -11387,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Thugs | 326184 | [326184-space-thugs.json](./326184-space-thugs.json) |
 | Space Time Ocean | 270777 | [270777-space-time-ocean.json](./270777-space-time-ocean.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
+| Space Toads Mayhem | 25799 | [25799-space-toads-mayhem.json](./25799-space-toads-mayhem.json) |
 | Space Tournament | 260292 | [260292-space-tournament.json](./260292-space-tournament.json) |
 | Space Tower | 126507 | [126507-space-tower.json](./126507-space-tower.json) |
 | Space Tower Defense | 195556 | [195556-space-tower-defense.json](./195556-space-tower-defense.json) |
@@ -13248,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
 | SRX: The Game | 150048 | [150048-srx-the-game.json](./150048-srx-the-game.json) |
+| SS Achilles - Red Alert! | 25798 | [25798-ss-achilles-red-alert.json](./25798-ss-achilles-red-alert.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
