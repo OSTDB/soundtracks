@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
+| Dark Project | 29685 | [29685-dark-project.json](./29685-dark-project.json) |
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
@@ -10086,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Magic | 39359 | [39359-dungeon-magic.json](./39359-dungeon-magic.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
+| Dungeon Manager ZV 2 | 29739 | [29739-dungeon-manager-zv-2.json](./29739-dungeon-manager-zv-2.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
 | Dungeon Marathon | 52295 | [52295-dungeon-marathon.json](./52295-dungeon-marathon.json) |
@@ -10355,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
+| Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
 | Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
