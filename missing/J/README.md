@@ -321,7 +321,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jammo | 265766 | [265766-jammo.json](./265766-jammo.json) |
 | Jammy Road | 110260 | [110260-jammy-road.json](./110260-jammy-road.json) |
 | Jamp | 374155 | [374155-jamp.json](./374155-jamp.json) |
+| Jampack Summer 2003 | 43232 | [43232-jampack-summer-2003.json](./43232-jampack-summer-2003.json) |
 | Jampack Summer 2K | 43318 | [43318-jampack-summer-2k.json](./43318-jampack-summer-2k.json) |
+| Jampack Winter 2002 | 43225 | [43225-jampack-winter-2002.json](./43225-jampack-winter-2002.json) |
 | Jampack: Volume 12 | 43316 | [43316-jampack-volume-12.json](./43316-jampack-volume-12.json) |
 | Jampack: Volume 13 | 43315 | [43315-jampack-volume-13.json](./43315-jampack-volume-13.json) |
 | Jampack: Volume 14 | 43314 | [43314-jampack-volume-14.json](./43314-jampack-volume-14.json) |
