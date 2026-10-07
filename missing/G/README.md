@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geo-Political Simulator 5 | 315068 | [315068-geo-political-simulator-5.json](./315068-geo-political-simulator-5.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
+| GeoBingo.io | 172403 | [172403-geobingo-io.json](./172403-geobingo-io.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
