@@ -4466,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man Zero Collection | 24355 | [24355-mega-man-zero-collection.json](./24355-mega-man-zero-collection.json) |
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
+| Mega Man ZX Advent | 1780 | [1780-mega-man-zx-advent.json](./1780-mega-man-zx-advent.json) |
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
 | Mega Man: Day in the Limelight | 261435 | [261435-mega-man-day-in-the-limelight.json](./261435-mega-man-day-in-the-limelight.json) |
@@ -6058,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator for Windows 95 | 3359 | [3359-microsoft-flight-simulator-for-windows-95.json](./3359-microsoft-flight-simulator-for-windows-95.json) |
+| Microsoft Flight Simulator X | 301 | [301-microsoft-flight-simulator-x.json](./301-microsoft-flight-simulator-x.json) |
 | Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
 | Microsoft Flight Simulator X: Iris F-15E/I/SG | 224498 | [224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json](./224498-microsoft-flight-simulator-x-iris-f-15e-i-sg.json) |
@@ -10516,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Runner 2: The Masks | 90204 | [90204-mr-runner-2-the-masks.json](./90204-mr-runner-2-the-masks.json) |
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
+| Mr. Shifty | 19729 | [19729-mr-shifty.json](./19729-mr-shifty.json) |
 | Mr. Shifty: Collector's Edition | 53388 | [53388-mr-shifty-collectors-edition.json](./53388-mr-shifty-collectors-edition.json) |
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
