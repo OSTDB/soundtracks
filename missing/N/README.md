@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
 | NHL 11 | 954 | [954-nhl-11.json](./954-nhl-11.json) |
 | NHL 12 | 952 | [952-nhl-12.json](./952-nhl-12.json) |
+| NHL 14 | 3003 | [3003-nhl-14.json](./3003-nhl-14.json) |
 | NHL 17: Deluxe Edition | 173114 | [173114-nhl-17-deluxe-edition.json](./173114-nhl-17-deluxe-edition.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
