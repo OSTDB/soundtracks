@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Shell | 415207 | [415207-idol-shell.json](./415207-idol-shell.json) |
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
+| Idol Street | 27540 | [27540-idol-street.json](./27540-idol-street.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol Time PriPara Yume All Star Live! | 136938 | [136938-idol-time-pripara-yume-all-star-live.json](./136938-idol-time-pripara-yume-all-star-live.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
+| In-Fisherman: Freshwater Trophies | 27543 | [27543-in-fisherman-freshwater-trophies.json](./27543-in-fisherman-freshwater-trophies.json) |
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tennis Club | 243755 | [243755-in-flight-tennis-club.json](./243755-in-flight-tennis-club.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
@@ -2671,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
 | Instead: Ghost Suburb | 199979 | [199979-instead-ghost-suburb.json](./199979-instead-ghost-suburb.json) |
+| Instinct | 27548 | [27548-instinct.json](./27548-instinct.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct Rush | 117821 | [117821-instinct-rush.json](./117821-instinct-rush.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
