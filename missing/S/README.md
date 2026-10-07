@@ -12706,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Kash Dash | 218533 | [218533-spongebob-squarepants-kash-dash.json](./218533-spongebob-squarepants-kash-dash.json) |
 | SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
+| SpongeBob SquarePants: Krusty Kollection | 8069 | [8069-spongebob-squarepants-krusty-kollection.json](./8069-spongebob-squarepants-krusty-kollection.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Model Sponge | 228488 | [228488-spongebob-squarepants-model-sponge.json](./228488-spongebob-squarepants-model-sponge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
@@ -19843,6 +19844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Force | 76201 | [76201-swat-force.json](./76201-swat-force.json) |
 | SWAT God | 407444 | [407444-swat-god.json](./407444-swat-god.json) |
 | Swat Kats | 218946 | [218946-swat-kats.json](./218946-swat-kats.json) |
+| SWAT Kats: The Radical Squadron | 8068 | [8068-swat-kats-the-radical-squadron.json](./8068-swat-kats-the-radical-squadron.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
