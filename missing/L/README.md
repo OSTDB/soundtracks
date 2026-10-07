@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
 | Legend of Zero | 225601 | [225601-legend-of-zero.json](./225601-legend-of-zero.json) |
 | Legend of Zord | 341066 | [341066-legend-of-zord.json](./341066-legend-of-zord.json) |
+| Legend Online | 23619 | [23619-legend-online.json](./23619-legend-online.json) |
 | Legend Pirates | 316729 | [316729-legend-pirates.json](./316729-legend-pirates.json) |
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
@@ -5717,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
 | Lutte | 97508 | [97508-lutte.json](./97508-lutte.json) |
 | Lutter | 41299 | [41299-lutter.json](./41299-lutter.json) |
+| Luvinia World | 23626 | [23626-luvinia-world.json](./23626-luvinia-world.json) |
 | Lux | 329071 | [329071-lux.json](./329071-lux.json) |
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
