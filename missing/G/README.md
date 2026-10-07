@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
 | Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
+| Ghost of Tsushima: Legends | 140042 | [140042-ghost-of-tsushima-legends.json](./140042-ghost-of-tsushima-legends.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
