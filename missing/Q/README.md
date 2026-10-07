@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Curse | 385776 | [385776-quantum-curse.json](./385776-quantum-curse.json) |
 | Quantum Derail | 182939 | [182939-quantum-derail.json](./182939-quantum-derail.json) |
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
+| Quantum Engine | 27557 | [27557-quantum-engine.json](./27557-quantum-engine.json) |
 | Quantum Era | 407392 | [407392-quantum-era.json](./407392-quantum-era.json) |
 | Quantum Error | 132226 | [132226-quantum-error.json](./132226-quantum-error.json) |
 | Quantum Eternity | 169237 | [169237-quantum-eternity.json](./169237-quantum-eternity.json) |
