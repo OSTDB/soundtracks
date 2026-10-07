@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ling House: Echoes Within | 414423 | [414423-ling-house-echoes-within.json](./414423-ling-house-echoes-within.json) |
 | Ling Rise | 143665 | [143665-ling-rise.json](./143665-ling-rise.json) |
 | Linger | 139417 | [139417-linger.json](./139417-linger.json) |
+| Linger In Shadows | 7727 | [7727-linger-in-shadows.json](./7727-linger-in-shadows.json) |
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
 | LingeriesOffice | 334786 | [334786-lingeriesoffice.json](./334786-lingeriesoffice.json) |
 | Lingering | 171965 | [171965-lingering.json](./171965-lingering.json) |
