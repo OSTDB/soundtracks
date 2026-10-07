@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Retreat | 180586 | [180586-tactical-retreat.json](./180586-tactical-retreat.json) |
 | Tactical Shooter | 409738 | [409738-tactical-shooter.json](./409738-tactical-shooter.json) |
+| Tactical Soccer | 42514 | [42514-tactical-soccer.json](./42514-tactical-soccer.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
@@ -6413,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
 | The IOTA Project | 55671 | [55671-the-iota-project.json](./55671-the-iota-project.json) |
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
+| The Irem Major Title | 42493 | [42493-the-irem-major-title.json](./42493-the-irem-major-title.json) |
 | The Irem Skins Game | 44452 | [44452-the-irem-skins-game.json](./44452-the-irem-skins-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
@@ -6464,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
+| The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
 | The Jiang Shi 2: Curse of Soul | 306423 | [306423-the-jiang-shi-2-curse-of-soul.json](./306423-the-jiang-shi-2-curse-of-soul.json) |
@@ -7254,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Oracle of Seasons Randomizer | 242026 | [242026-the-legend-of-zelda-oracle-of-seasons-randomizer.json](./242026-the-legend-of-zelda-oracle-of-seasons-randomizer.json) |
 | The Legend of Zelda: Oracle of Secrets | 323220 | [323220-the-legend-of-zelda-oracle-of-secrets.json](./323220-the-legend-of-zelda-oracle-of-secrets.json) |
 | The Legend of Zelda: Oracle of Secrets | 323793 | [323793-the-legend-of-zelda-oracle-of-secrets.json](./323793-the-legend-of-zelda-oracle-of-secrets.json) |
+| The Legend of Zelda: Parallel Worlds | 42523 | [42523-the-legend-of-zelda-parallel-worlds.json](./42523-the-legend-of-zelda-parallel-worlds.json) |
 | The Legend of Zelda: Parallel Worlds Remodel | 198543 | [198543-the-legend-of-zelda-parallel-worlds-remodel.json](./198543-the-legend-of-zelda-parallel-worlds-remodel.json) |
 | The Legend of Zelda: Perils of Darkness | 213041 | [213041-the-legend-of-zelda-perils-of-darkness.json](./213041-the-legend-of-zelda-perils-of-darkness.json) |
 | The Legend of Zelda: Petrie's Challenge | 268675 | [268675-the-legend-of-zelda-petries-challenge.json](./268675-the-legend-of-zelda-petries-challenge.json) |
