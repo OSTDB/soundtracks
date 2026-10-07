@@ -10721,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culcept Saga | 21498 | [21498-culcept-saga.json](./21498-culcept-saga.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
+| Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
