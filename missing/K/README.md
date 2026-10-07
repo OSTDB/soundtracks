@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
+| King's Quest | 8260 | [8260-kings-quest.json](./8260-kings-quest.json) |
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest II: Romancing the Stones | 77309 | [77309-kings-quest-ii-romancing-the-stones.json](./77309-kings-quest-ii-romancing-the-stones.json) |
@@ -2027,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kingpin Bowling | 96290 | [96290-kingpin-bowling.json](./96290-kingpin-bowling.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
+| Kingpin: Life of Crime | 8565 | [8565-kingpin-life-of-crime.json](./8565-kingpin-life-of-crime.json) |
 | Kingpin: Reloaded | 128487 | [128487-kingpin-reloaded.json](./128487-kingpin-reloaded.json) |
 | Kings | 78364 | [78364-kings.json](./78364-kings.json) |
 | Kings & Savages | 330264 | [330264-kings-and-savages.json](./330264-kings-and-savages.json) |
