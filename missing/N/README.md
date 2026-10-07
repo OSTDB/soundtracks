@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
 | Night Jackal | 133166 | [133166-night-jackal.json](./133166-night-jackal.json) |
 | Night Keep | 311622 | [311622-night-keep.json](./311622-night-keep.json) |
+| Night Life | 13562 | [13562-night-life.json](./13562-night-life.json) |
 | Night Light | 206626 | [206626-night-light.json](./206626-night-light.json) |
 | Night Light | 33459 | [33459-night-light.json](./33459-night-light.json) |
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
