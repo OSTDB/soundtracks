@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Band Yarouze! | 175680 | [175680-band-yarouze.json](./175680-band-yarouze.json) |
 | Bandage on my right cheek | 28087 | [28087-bandage-on-my-right-cheek.json](./28087-bandage-on-my-right-cheek.json) |
+| Bandai Golf: Challenge Pebble Beach | 9285 | [9285-bandai-golf-challenge-pebble-beach.json](./9285-bandai-golf-challenge-pebble-beach.json) |
 | Bandai Namco Games Presents: J Legend Retsuden | 63114 | [63114-bandai-namco-games-presents-j-legend-retsuden.json](./63114-bandai-namco-games-presents-j-legend-retsuden.json) |
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
@@ -2191,7 +2192,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
+| Battle Isle | 9030 | [9030-battle-isle.json](./9030-battle-isle.json) |
 | Battle Isle 2: Scenery CD - Titan's Legacy | 11102 | [11102-battle-isle-2-scenery-cd-titans-legacy.json](./11102-battle-isle-2-scenery-cd-titans-legacy.json) |
+| Battle Isle 2200 | 9031 | [9031-battle-isle-2200.json](./9031-battle-isle-2200.json) |
+| Battle Isle 2220: Shadow of the Emperor | 9032 | [9032-battle-isle-2220-shadow-of-the-emperor.json](./9032-battle-isle-2220-shadow-of-the-emperor.json) |
 | Battle Isle Data Disk I | 11100 | [11100-battle-isle-data-disk-i.json](./11100-battle-isle-data-disk-i.json) |
 | Battle Isle IV: The Andosia War | 50409 | [50409-battle-isle-iv-the-andosia-war.json](./50409-battle-isle-iv-the-andosia-war.json) |
 | Battle Isle: Platinum | 73251 | [73251-battle-isle-platinum.json](./73251-battle-isle-platinum.json) |
@@ -2320,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
 | Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
+| Battle Royale | 8938 | [8938-battle-royale.json](./8938-battle-royale.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
 | Battle Royale Trainer | 80451 | [80451-battle-royale-trainer.json](./80451-battle-royale-trainer.json) |
@@ -2585,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship War Multiplayer | 325534 | [325534-battleship-war-multiplayer.json](./325534-battleship-war-multiplayer.json) |
 | Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
 | Battleship: Online Game Hall | 88649 | [88649-battleship-online-game-hall.json](./88649-battleship-online-game-hall.json) |
+| Battleship: Surface Thunder | 9735 | [9735-battleship-surface-thunder.json](./9735-battleship-surface-thunder.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
@@ -5027,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cats and Pointed Hats | 71785 | [71785-black-cats-and-pointed-hats.json](./71785-black-cats-and-pointed-hats.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
+| Black Circle | 9297 | [9297-black-circle.json](./9297-black-circle.json) |
 | Black Clover Mobile | 188401 | [188401-black-clover-mobile.json](./188401-black-clover-mobile.json) |
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
@@ -6619,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
+| Blue's Clues: Blue's Big Musical | 9701 | [9701-blues-clues-blues-big-musical.json](./9701-blues-clues-blues-big-musical.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
 | Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
 | Blue's Room: Blue Talks! | 74005 | [74005-blues-room-blue-talks.json](./74005-blues-room-blue-talks.json) |
