@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecktonik World Tour | 92671 | [92671-tecktonik-world-tour.json](./92671-tecktonik-world-tour.json) |
 | Tecmo Baseball | 48228 | [48228-tecmo-baseball.json](./48228-tecmo-baseball.json) |
 | Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
+| Tecmo Bowl | 8168 | [8168-tecmo-bowl.json](./8168-tecmo-bowl.json) |
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Cup Soccer Game | 48227 | [48227-tecmo-cup-soccer-game.json](./48227-tecmo-cup-soccer-game.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
 | The change | 103429 | [103429-the-change.json](./103429-the-change.json) |
 | The Change Architect | 141095 | [141095-the-change-architect.json](./141095-the-change-architect.json) |
+| The Chant | 152076 | [152076-the-chant.json](./152076-the-chant.json) |
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
@@ -13211,6 +13213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
+| Time Commando | 9646 | [9646-time-commando.json](./9646-time-commando.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
@@ -14318,6 +14321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry | 8025 | [8025-tom-and-jerry.json](./8025-tom-and-jerry.json) |
 | Tom and Jerry Cheese Chase | 8044 | [8044-tom-and-jerry-cheese-chase.json](./8044-tom-and-jerry-cheese-chase.json) |
 | Tom and Jerry in House Trap | 368636 | [368636-tom-and-jerry-in-house-trap.json](./368636-tom-and-jerry-in-house-trap.json) |
+| Tom and Jerry in House Trap | 8032 | [8032-tom-and-jerry-in-house-trap.json](./8032-tom-and-jerry-in-house-trap.json) |
 | Tom and Jerry in Infurnal Escape | 8029 | [8029-tom-and-jerry-in-infurnal-escape.json](./8029-tom-and-jerry-in-infurnal-escape.json) |
 | Tom and Jerry in Mouse Attacks | 8033 | [8033-tom-and-jerry-in-mouse-attacks.json](./8033-tom-and-jerry-in-mouse-attacks.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
@@ -14705,6 +14709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
+| Too Human | 5648 | [5648-too-human.json](./5648-too-human.json) |
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
@@ -17761,6 +17766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
+| Trine 5: A Clockwork Conspiracy | 245390 | [245390-trine-5-a-clockwork-conspiracy.json](./245390-trine-5-a-clockwork-conspiracy.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Trine Enchanted Edition | 51800 | [51800-trine-enchanted-edition.json](./51800-trine-enchanted-edition.json) |
 | Trine Series 1-3 | 125319 | [125319-trine-series-1-3.json](./125319-trine-series-1-3.json) |
