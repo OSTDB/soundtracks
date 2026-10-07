@@ -8015,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murder of Dale Decker | 290105 | [290105-the-murder-of-dale-decker.json](./290105-the-murder-of-dale-decker.json) |
 | The Murder of Sonic the Hedgehog | 243385 | [243385-the-murder-of-sonic-the-hedgehog.json](./243385-the-murder-of-sonic-the-hedgehog.json) |
 | The Murder of Yesterday | 405714 | [405714-the-murder-of-yesterday.json](./405714-the-murder-of-yesterday.json) |
+| The Murder Room VR | 36980 | [36980-the-murder-room-vr.json](./36980-the-murder-room-vr.json) |
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muscle Hustle | 75213 | [75213-the-muscle-hustle.json](./75213-the-muscle-hustle.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
@@ -8697,6 +8698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
 | The Quest: Macha's Curse | 90810 | [90810-the-quest-machas-curse.json](./90810-the-quest-machas-curse.json) |
+| The Quest: Thor's Hammer | 36959 | [36959-the-quest-thors-hammer.json](./36959-the-quest-thors-hammer.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
@@ -15334,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
+| Tour de France 2017 | 36954 | [36954-tour-de-france-2017.json](./36954-tour-de-france-2017.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
 | Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
