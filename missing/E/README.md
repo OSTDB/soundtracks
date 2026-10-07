@@ -865,10 +865,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
 | Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
+| Eggor | 40114 | [40114-eggor.json](./40114-eggor.json) |
 | Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggroll | 187821 | [187821-eggroll.json](./187821-eggroll.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
+| Eggs | 40113 | [40113-eggs.json](./40113-eggs.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
@@ -4074,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
+| Excite League | 40112 | [40112-excite-league.json](./40112-excite-league.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
 | Excite Shoot! | 385804 | [385804-excite-shoot.json](./385804-excite-shoot.json) |
 | Excite Truck | 2635 | [2635-excite-truck.json](./2635-excite-truck.json) |
