@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
 | Rätsel & Denkspiele | 91604 | [91604-ratsel-and-denkspiele.json](./91604-ratsel-and-denkspiele.json) |
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
+| Ratshaker | 321428 | [321428-ratshaker.json](./321428-ratshaker.json) |
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
@@ -4224,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
 | Ridge Racer Accelerated HD | 21572 | [21572-ridge-racer-accelerated-hd.json](./21572-ridge-racer-accelerated-hd.json) |
 | Ridge Racer Driftopia | 25144 | [25144-ridge-racer-driftopia.json](./25144-ridge-racer-driftopia.json) |
+| Ridge Racer DS | 20201 | [20201-ridge-racer-ds.json](./20201-ridge-racer-ds.json) |
 | Ridge Racer Mobile | 107012 | [107012-ridge-racer-mobile.json](./107012-ridge-racer-mobile.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer Unbounded | 541 | [541-ridge-racer-unbounded.json](./541-ridge-racer-unbounded.json) |
@@ -4557,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Mythos | 23618 | [23618-rise-of-mythos.json](./23618-rise-of-mythos.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of Nations: Thrones & Patriots | 849 | [849-rise-of-nations-thrones-and-patriots.json](./849-rise-of-nations-thrones-and-patriots.json) |
+| Rise of Nightmares | 20159 | [20159-rise-of-nightmares.json](./20159-rise-of-nightmares.json) |
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
 | Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
@@ -5997,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
+| RollerCoaster Tycoon: Corkscrew Follies | 19528 | [19528-rollercoaster-tycoon-corkscrew-follies.json](./19528-rollercoaster-tycoon-corkscrew-follies.json) |
 | RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
 | RollerCoaster VR Universe | 160153 | [160153-rollercoaster-vr-universe.json](./160153-rollercoaster-vr-universe.json) |
 | Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
@@ -7459,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar | 28841 | [28841-rygar.json](./28841-rygar.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar SNES Port | 377227 | [377227-rygar-snes-port.json](./377227-rygar-snes-port.json) |
+| Rygar: The Battle of Argus | 21058 | [21058-rygar-the-battle-of-argus.json](./21058-rygar-the-battle-of-argus.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
