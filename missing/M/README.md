@@ -11597,6 +11597,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
 | My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
+| My Personal Angel | 41872 | [41872-my-personal-angel.json](./41872-my-personal-angel.json) |
+| My Personal Golf Trainer | 41869 | [41869-my-personal-golf-trainer.json](./41869-my-personal-golf-trainer.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
 | My Pet | 245431 | [245431-my-pet.json](./245431-my-pet.json) |
 | My Pet Fan | 351721 | [351721-my-pet-fan.json](./351721-my-pet-fan.json) |
