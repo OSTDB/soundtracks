@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
+| Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
