@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
+| Krum: Edge of Darkness | 34056 | [34056-krum-edge-of-darkness.json](./34056-krum-edge-of-darkness.json) |
 | Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
