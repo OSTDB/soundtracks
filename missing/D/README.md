@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
+| Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
@@ -6324,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
 | Doctor Gallagher's Residence | 374842 | [374842-doctor-gallaghers-residence.json](./374842-doctor-gallaghers-residence.json) |
 | Doctor Goo and the Samorons | 78736 | [78736-doctor-goo-and-the-samorons.json](./78736-doctor-goo-and-the-samorons.json) |
+| Doctor Hauzer | 4278 | [4278-doctor-hauzer.json](./4278-doctor-hauzer.json) |
 | Doctor Kairokos | 416828 | [416828-doctor-kairokos.json](./416828-doctor-kairokos.json) |
 | Doctor Klyvinski | 143940 | [143940-doctor-klyvinski.json](./143940-doctor-klyvinski.json) |
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
