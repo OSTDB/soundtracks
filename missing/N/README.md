@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nblocks: Builder Pack 3 | 298590 | [298590-nblocks-builder-pack-3.json](./298590-nblocks-builder-pack-3.json) |
 | Nblocks: Builder Pack 4 | 298591 | [298591-nblocks-builder-pack-4.json](./298591-nblocks-builder-pack-4.json) |
 | NBody | 276183 | [276183-nbody.json](./276183-nbody.json) |
+| NC Tower Defense 2 | 37014 | [37014-nc-tower-defense-2.json](./37014-nc-tower-defense-2.json) |
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
 | NCAA Basketball 09: March Madness Edition | 47427 | [47427-ncaa-basketball-09-march-madness-edition.json](./47427-ncaa-basketball-09-march-madness-edition.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
@@ -1502,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
+| NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
