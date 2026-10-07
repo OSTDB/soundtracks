@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
 | Ikari Warriors | 274081 | [274081-ikari-warriors.json](./274081-ikari-warriors.json) |
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
+| Ikariam | 46497 | [46497-ikariam.json](./46497-ikariam.json) |
 | Ikaro Racing | 105509 | [105509-ikaro-racing.json](./105509-ikaro-racing.json) |
 | Ikaro: Will Not Die | 273865 | [273865-ikaro-will-not-die.json](./273865-ikaro-will-not-die.json) |
 | Ikaros | 51955 | [51955-ikaros.json](./51955-ikaros.json) |
