@@ -7552,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Flappers | 294249 | [294249-furious-flappers.json](./294249-furious-flappers.json) |
 | Furious Goal | 123529 | [123529-furious-goal.json](./123529-furious-goal.json) |
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
+| Furious Jack | 23848 | [23848-furious-jack.json](./23848-furious-jack.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
 | Furious Parry | 183383 | [183383-furious-parry.json](./183383-furious-parry.json) |
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
