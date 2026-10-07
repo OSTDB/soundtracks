@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Treasure Fetch | 96186 | [96186-adventure-time-treasure-fetch.json](./96186-adventure-time-treasure-fetch.json) |
 | Adventure To Fate: Dungeons | 397826 | [397826-adventure-to-fate-dungeons.json](./397826-adventure-to-fate-dungeons.json) |
 | Adventure to Fate: Quest to the Future JRPG | 134376 | [134376-adventure-to-fate-quest-to-the-future-jrpg.json](./134376-adventure-to-fate-quest-to-the-future-jrpg.json) |
+| Adventure Town | 38907 | [38907-adventure-town.json](./38907-adventure-town.json) |
 | Adventure Trip | 128344 | [128344-adventure-trip.json](./128344-adventure-trip.json) |
 | Adventure Trip: Amazing World 2 | 234683 | [234683-adventure-trip-amazing-world-2.json](./234683-adventure-trip-amazing-world-2.json) |
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
+| Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
@@ -3478,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Epidemic | 351744 | [351744-alien-epidemic.json](./351744-alien-epidemic.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
+| Alien Fish Finger | 38858 | [38858-alien-fish-finger.json](./38858-alien-fish-finger.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
 | Alien Flowers | 229642 | [229642-alien-flowers.json](./229642-alien-flowers.json) |
 | Alien Force | 93201 | [93201-alien-force.json](./93201-alien-force.json) |
