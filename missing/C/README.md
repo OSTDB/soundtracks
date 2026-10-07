@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
 | Chronoquartz | 344500 | [344500-chronoquartz.json](./344500-chronoquartz.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
+| Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
@@ -7161,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
 | Complex X | 301911 | [301911-complex-x.json](./301911-complex-x.json) |
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
+| Complikated | 56292 | [56292-complikated.json](./56292-complikated.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Composer | 187316 | [187316-composer.json](./187316-composer.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
@@ -8834,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
+| Cranks & Goggles | 56297 | [56297-cranks-and-goggles.json](./56297-cranks-and-goggles.json) |
 | Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | Crankstone | 361914 | [361914-crankstone.json](./361914-crankstone.json) |
