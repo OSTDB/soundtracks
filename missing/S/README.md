@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Wars: Trapdoor Hell | 248061 | [248061-sausage-wars-trapdoor-hell.json](./248061-sausage-wars-trapdoor-hell.json) |
 | Saut | 242578 | [242578-saut.json](./242578-saut.json) |
 | Savage | 129527 | [129527-savage.json](./129527-savage.json) |
+| Savage | 15361 | [15361-savage.json](./15361-savage.json) |
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Arena | 68895 | [68895-savage-arena.json](./68895-savage-arena.json) |
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
@@ -3715,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
 | Shackle | 145273 | [145273-shackle.json](./145273-shackle.json) |
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
+| Shackled | 15364 | [15364-shackled.json](./15364-shackled.json) |
 | Shackles of Ellswyn | 203776 | [203776-shackles-of-ellswyn.json](./203776-shackles-of-ellswyn.json) |
 | Shad'O | 80331 | [80331-shado.json](./80331-shado.json) |
 | Shad'O: Collector's Edition | 25546 | [25546-shado-collectors-edition.json](./25546-shado-collectors-edition.json) |
@@ -4592,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
 | Sherlock: The Network | 285038 | [285038-sherlock-the-network.json](./285038-sherlock-the-network.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
+| Sherman M4 | 15365 | [15365-sherman-m4.json](./15365-sherman-m4.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
@@ -5926,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
+| Silent Hunter | 15517 | [15517-silent-hunter.json](./15517-silent-hunter.json) |
 | Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
@@ -5998,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicon Architect | 411160 | [411160-silicon-architect.json](./411160-silicon-architect.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
+| Silicon Dreams | 15366 | [15366-silicon-dreams.json](./15366-silicon-dreams.json) |
 | Silicon Dreams - Return to Eden | 39156 | [39156-silicon-dreams-return-to-eden.json](./39156-silicon-dreams-return-to-eden.json) |
 | Silicon Dreams - Snowball | 39157 | [39157-silicon-dreams-snowball.json](./39157-silicon-dreams-snowball.json) |
 | Silicon Dreams - The Worm in Paradise | 39155 | [39155-silicon-dreams-the-worm-in-paradise.json](./39155-silicon-dreams-the-worm-in-paradise.json) |
@@ -6371,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Simulator | 128586 | [128586-simulator-simulator.json](./128586-simulator-simulator.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
+| Simulcra | 15367 | [15367-simulcra.json](./15367-simulcra.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
@@ -6735,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Story | 129964 | [129964-skate-story.json](./129964-skate-story.json) |
 | Skate the Line and Rail Grind | 115765 | [115765-skate-the-line-and-rail-grind.json](./115765-skate-the-line-and-rail-grind.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
+| Skate Wars | 15368 | [15368-skate-wars.json](./15368-skate-wars.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
@@ -6897,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
+| Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
@@ -7207,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyforge: Bounty Hunter Collector's Edition | 167666 | [167666-skyforge-bounty-hunter-collectors-edition.json](./167666-skyforge-bounty-hunter-collectors-edition.json) |
 | Skyformer | 257013 | [257013-skyformer.json](./257013-skyformer.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
+| Skyfox | 15371 | [15371-skyfox.json](./15371-skyfox.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
 | SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
 | Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
@@ -8707,6 +8716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Rider 3D | 353507 | [353507-snow-rider-3d.json](./353507-snow-rider-3d.json) |
 | Snow Steam Trail | 372132 | [372132-snow-steam-trail.json](./372132-snow-steam-trail.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
+| Snow Strike | 15372 | [15372-snow-strike.json](./15372-snow-strike.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
@@ -11276,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
+| Space Racer | 15373 | [15373-space-racer.json](./15373-space-racer.json) |
 | Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
@@ -12383,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
 | SpinBound | 400417 | [400417-spinbound.json](./400417-spinbound.json) |
 | SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
+| Spindizzy Worlds | 15374 | [15374-spindizzy-worlds.json](./15374-spindizzy-worlds.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
@@ -12546,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
 | Spitfire | 85829 | [85829-spitfire.json](./85829-spitfire.json) |
+| Spitfire 40 | 15375 | [15375-spitfire-40.json](./15375-spitfire-40.json) |
 | Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | Spitlings | 114483 | [114483-spitlings.json](./114483-spitlings.json) |
