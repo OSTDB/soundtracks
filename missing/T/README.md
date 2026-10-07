@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
 | Tales of Inca: Lost Land | 68873 | [68873-tales-of-inca-lost-land.json](./68873-tales-of-inca-lost-land.json) |
+| Tales of Innocence | 1208 | [1208-tales-of-innocence.json](./1208-tales-of-innocence.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
 | Tales of Isenberg | 375419 | [375419-tales-of-isenberg.json](./375419-tales-of-isenberg.json) |
@@ -18956,6 +18957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
 | Twin Cobra | 8189 | [8189-twin-cobra.json](./8189-twin-cobra.json) |
 | Twin Coves | 169315 | [169315-twin-coves.json](./169315-twin-coves.json) |
+| Twin Dragon | 2536 | [2536-twin-dragon.json](./2536-twin-dragon.json) |
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
