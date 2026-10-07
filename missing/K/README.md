@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
 | Kengo 2: Sword of the Samurai | 1421 | [1421-kengo-2-sword-of-the-samurai.json](./1421-kengo-2-sword-of-the-samurai.json) |
 | Kengo 3 | 1422 | [1422-kengo-3.json](./1422-kengo-3.json) |
+| Kengo: Master of Bushido | 1420 | [1420-kengo-master-of-bushido.json](./1420-kengo-master-of-bushido.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour | 83926 | [83926-knights-of-valour.json](./83926-knights-of-valour.json) |
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
+| Knights of Xentar | 2518 | [2518-knights-of-xentar.json](./2518-knights-of-xentar.json) |
 | Knights Rubbish | 112855 | [112855-knights-rubbish.json](./112855-knights-rubbish.json) |
 | Knights Together | 393812 | [393812-knights-together.json](./393812-knights-together.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
@@ -3523,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
 | Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
+| Kururin Squash! | 1471 | [1471-kururin-squash.json](./1471-kururin-squash.json) |
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
