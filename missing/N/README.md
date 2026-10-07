@@ -202,7 +202,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew Triple Threat | 51403 | [51403-nancy-drew-triple-threat.json](./51403-nancy-drew-triple-threat.json) |
 | Nancy Drew Ultimate Dare | 50859 | [50859-nancy-drew-ultimate-dare.json](./50859-nancy-drew-ultimate-dare.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
+| Nancy Drew: Ghost Dogs of Moon Lake | 7626 | [7626-nancy-drew-ghost-dogs-of-moon-lake.json](./7626-nancy-drew-ghost-dogs-of-moon-lake.json) |
+| Nancy Drew: Legend of the Crystal Skull | 7629 | [7629-nancy-drew-legend-of-the-crystal-skull.json](./7629-nancy-drew-legend-of-the-crystal-skull.json) |
 | Nancy Drew: Message in a Haunted Mansion | 248638 | [248638-nancy-drew-message-in-a-haunted-mansion.json](./248638-nancy-drew-message-in-a-haunted-mansion.json) |
+| Nancy Drew: Message in a Haunted Mansion | 6522 | [6522-nancy-drew-message-in-a-haunted-mansion.json](./6522-nancy-drew-message-in-a-haunted-mansion.json) |
 | Nancy Drew: Mystery in the Hollywood Hills | 230315 | [230315-nancy-drew-mystery-in-the-hollywood-hills.json](./230315-nancy-drew-mystery-in-the-hollywood-hills.json) |
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
 | Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
@@ -218,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Mystery of the Clue Bender Society | 47907 | [47907-nancy-drew-the-mystery-of-the-clue-bender-society.json](./47907-nancy-drew-the-mystery-of-the-clue-bender-society.json) |
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
+| Nancy Drew: Treasure in the Royal Tower | 7623 | [7623-nancy-drew-treasure-in-the-royal-tower.json](./7623-nancy-drew-treasure-in-the-royal-tower.json) |
 | Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
@@ -1603,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NES Classics | 328666 | [328666-nes-classics.json](./328666-nes-classics.json) |
 | NES Open Tournament Golf | 3400 | [3400-nes-open-tournament-golf.json](./3400-nes-open-tournament-golf.json) |
 | NES Play Action Football | 48194 | [48194-nes-play-action-football.json](./48194-nes-play-action-football.json) |
+| NES Remix | 6401 | [6401-nes-remix.json](./6401-nes-remix.json) |
 | NES Remix 2 | 6402 | [6402-nes-remix-2.json](./6402-nes-remix-2.json) |
 | NES Remix Pack | 51151 | [51151-nes-remix-pack.json](./51151-nes-remix-pack.json) |
 | NES-Retku: The Game | 7568 | [7568-nes-retku-the-game.json](./7568-nes-retku-the-game.json) |
@@ -4109,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
+| Nova Lands | 137931 | [137931-nova-lands.json](./137931-nova-lands.json) |
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
 | Nova Parkour | 137945 | [137945-nova-parkour.json](./137945-nova-parkour.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
