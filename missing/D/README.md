@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
 | Death Crimson | 54917 | [54917-death-crimson.json](./54917-death-crimson.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
+| Death Crimson OX | 40106 | [40106-death-crimson-ox.json](./40106-death-crimson-ox.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Crown: Era of Human | 171920 | [171920-death-crown-era-of-human.json](./171920-death-crown-era-of-human.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
@@ -6465,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
+| Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
@@ -6495,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doka 2: Kishki Edition | 111387 | [111387-doka-2-kishki-edition.json](./111387-doka-2-kishki-edition.json) |
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
+| Dokaben | 40103 | [40103-dokaben.json](./40103-dokaben.json) |
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
@@ -6623,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
+| Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
@@ -6729,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
 | Domkey Kong | 336638 | [336638-domkey-kong.json](./336638-domkey-kong.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
+| Dommy | 40101 | [40101-dommy.json](./40101-dommy.json) |
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
 | Domo-kun Angry Smashfest! | 57357 | [57357-domo-kun-angry-smashfest.json](./57357-domo-kun-angry-smashfest.json) |
 | Domo-kun no Card-e: Domo-kun no Fushigi Terebi - Meisou Domo | 220851 | [220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json](./220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json) |
@@ -7860,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
 | Dr. Sudoku | 49273 | [49273-dr-sudoku.json](./49273-dr-sudoku.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
+| Dr. Tomy | 40117 | [40117-dr-tomy.json](./40117-dr-tomy.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
 | Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
@@ -8403,7 +8409,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Warrior Monsters 2: Tara's Adventure | 222276 | [222276-dragon-warrior-monsters-2-taras-adventure.json](./222276-dragon-warrior-monsters-2-taras-adventure.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
 | Dragon World | 13608 | [13608-dragon-world.json](./13608-dragon-world.json) |
+| Dragon World 2001 | 40116 | [40116-dragon-world-2001.json](./40116-dragon-world-2001.json) |
 | Dragon World II | 40978 | [40978-dragon-world-ii.json](./40978-dragon-world-ii.json) |
+| Dragon World Pretty Chance | 40115 | [40115-dragon-world-pretty-chance.json](./40115-dragon-world-pretty-chance.json) |
 | Dragon x Dragon | 292120 | [292120-dragon-x-dragon.json](./292120-dragon-x-dragon.json) |
 | Dragon x Dragon 2 | 292792 | [292792-dragon-x-dragon-2.json](./292792-dragon-x-dragon-2.json) |
 | Dragon x Dragon 2 Complete Version | 292794 | [292794-dragon-x-dragon-2-complete-version.json](./292794-dragon-x-dragon-2-complete-version.json) |
