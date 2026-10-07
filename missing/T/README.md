@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Mebiusline Teito Bibouroku | 256318 | [256318-taishou-mebiusline-teito-bibouroku.json](./256318-taishou-mebiusline-teito-bibouroku.json) |
 | Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
+| Taishou x Alice: All in One | 54926 | [54926-taishou-x-alice-all-in-one.json](./54926-taishou-x-alice-all-in-one.json) |
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
@@ -522,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak 2: The Staff of Dreams | 2779 | [2779-tak-2-the-staff-of-dreams.json](./2779-tak-2-the-staff-of-dreams.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
+| Takahashi Akiko no Mahjong Seminar | 54944 | [54944-takahashi-akiko-no-mahjong-seminar.json](./54944-takahashi-akiko-no-mahjong-seminar.json) |
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
 | Takahashi Naoko no Marathon Shiyouyo | 215056 | [215056-takahashi-naoko-no-marathon-shiyouyo.json](./215056-takahashi-naoko-no-marathon-shiyouyo.json) |
@@ -15633,6 +15635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
+| Toy Robo Force | 54896 | [54896-toy-robo-force.json](./54896-toy-robo-force.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy RollerCoaster 3D | 87544 | [87544-toy-rollercoaster-3d.json](./87544-toy-rollercoaster-3d.json) |
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
@@ -18440,6 +18443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
+| Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux Typing | 210605 | [210605-tux-typing.json](./210605-tux-typing.json) |
