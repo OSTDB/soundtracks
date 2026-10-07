@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
 | Home Escape | 120139 | [120139-home-escape.json](./120139-home-escape.json) |
 | Home for the Holidays | 313814 | [313814-home-for-the-holidays.json](./313814-home-for-the-holidays.json) |
+| Home Free | 13563 | [13563-home-free.json](./13563-home-free.json) |
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
 | Home From Work 3 | 213372 | [213372-home-from-work-3.json](./213372-home-from-work-3.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
