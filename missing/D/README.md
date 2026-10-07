@@ -4155,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
+| Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destroyer Command | 23456 | [23456-destroyer-command.json](./23456-destroyer-command.json) |
 | Destroyer of Worlds | 144223 | [144223-destroyer-of-worlds.json](./144223-destroyer-of-worlds.json) |
@@ -4320,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
+| Deus Ex Machina | 26432 | [26432-deus-ex-machina.json](./26432-deus-ex-machina.json) |
 | Deus Ex Machina: Game of the Year - 30th Anniversary Collector's Edition | 91098 | [91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json](./91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json) |
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
 | Deus Ex: Collection | 52883 | [52883-deus-ex-collection.json](./52883-deus-ex-collection.json) |
