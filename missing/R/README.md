@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 210580 | [210580-r-type-ii.json](./210580-r-type-ii.json) |
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
+| R-Type III: The Third Lightning | 6550 | [6550-r-type-iii-the-third-lightning.json](./6550-r-type-iii-the-third-lightning.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
