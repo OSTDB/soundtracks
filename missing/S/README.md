@@ -15635,6 +15635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
+| Stream Avatars | 52432 | [52432-stream-avatars.json](./52432-stream-avatars.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
 | Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
