@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
 | Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
+| Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
+| Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
 | Malody | 76901 | [76901-malody.json](./76901-malody.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
@@ -3427,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
 | Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
 | Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
+| Max Headroom | 26436 | [26436-max-headroom.json](./26436-max-headroom.json) |
 | Max im All | 91589 | [91589-max-im-all.json](./91589-max-im-all.json) |
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
 | Max Jefht: Ace Attorney | 309986 | [309986-max-jefht-ace-attorney.json](./309986-max-jefht-ace-attorney.json) |
@@ -7130,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Master 2 | 67650 | [67650-mini-golf-master-2.json](./67650-mini-golf-master-2.json) |
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
 | Mini Golf Quest | 386373 | [386373-mini-golf-quest.json](./386373-mini-golf-quest.json) |
+| Mini Golf Resort | 26587 | [26587-mini-golf-resort.json](./26587-mini-golf-resort.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
 | Mini Golf RPG | 188400 | [188400-mini-golf-rpg.json](./188400-mini-golf-rpg.json) |
 | Mini Golf Simulator | 407552 | [407552-mini-golf-simulator.json](./407552-mini-golf-simulator.json) |
@@ -10201,6 +10205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
+| Movie | 26421 | [26421-movie.json](./26421-movie.json) |
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Business: Die Welt der Filme | 388716 | [388716-movie-business-die-welt-der-filme.json](./388716-movie-business-die-welt-der-filme.json) |
