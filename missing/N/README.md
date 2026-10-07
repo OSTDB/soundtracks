@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
 | Neo Geo Cup '98 Plus | 75494 | [75494-neo-geo-cup-98-plus.json](./75494-neo-geo-cup-98-plus.json) |
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
+| Neo Geo Cup '98: The Road to the Victory | 39529 | [39529-neo-geo-cup-98-the-road-to-the-victory.json](./39529-neo-geo-cup-98-the-road-to-the-victory.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
 | Neo Harbor Rescue Squad | 312760 | [312760-neo-harbor-rescue-squad.json](./312760-neo-harbor-rescue-squad.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Age Vanguard | 59788 | [59788-new-age-vanguard.json](./59788-new-age-vanguard.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
+| New Atomic Punk: Global Quest | 39495 | [39495-new-atomic-punk-global-quest.json](./39495-new-atomic-punk-global-quest.json) |
 | New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
