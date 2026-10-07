@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Zone Daimons | 236831 | [236831-phantom-zone-daimons.json](./236831-phantom-zone-daimons.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
+| Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
@@ -3500,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
+| Pictlogica: Final Fantasy | 36998 | [36998-pictlogica-final-fantasy.json](./36998-pictlogica-final-fantasy.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | Pictooi | 154591 | [154591-pictooi.json](./154591-pictooi.json) |
 | PictoParty | 58457 | [58457-pictoparty.json](./58457-pictoparty.json) |
@@ -9705,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
+| Pure Farming 17 | 36997 | [36997-pure-farming-17.json](./36997-pure-farming-17.json) |
 | Pure Football 2018 | 81926 | [81926-pure-football-2018.json](./81926-pure-football-2018.json) |
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
 | Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
