@@ -4572,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
 | Rite of Ilk | 55066 | [55066-rite-of-ilk.json](./55066-rite-of-ilk.json) |
+| Rite of Passage | 57496 | [57496-rite-of-passage.json](./57496-rite-of-passage.json) |
 | Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
 | Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
