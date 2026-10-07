@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy 500 | 199427 | [199427-indy-500.json](./199427-indy-500.json) |
+| Indy 800 | 18210 | [18210-indy-800.json](./18210-indy-800.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | Indy Pro '22: Rebirth of the Territories | 195633 | [195633-indy-pro-22-rebirth-of-the-territories.json](./195633-indy-pro-22-rebirth-of-the-territories.json) |
 | Indy Racing 2000 | 3395 | [3395-indy-racing-2000.json](./3395-indy-racing-2000.json) |
