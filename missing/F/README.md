@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
 | Flyin' High Data Disk 2 | 79965 | [79965-flyin-high-data-disk-2.json](./79965-flyin-high-data-disk-2.json) |
 | Flying 'N Frying Popcorn Dude | 273493 | [273493-flying-n-frying-popcorn-dude.json](./273493-flying-n-frying-popcorn-dude.json) |
+| Flying Ace | 24911 | [24911-flying-ace.json](./24911-flying-ace.json) |
 | Flying Aces: Legend of the Red Baron | 394997 | [394997-flying-aces-legend-of-the-red-baron.json](./394997-flying-aces-legend-of-the-red-baron.json) |
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
