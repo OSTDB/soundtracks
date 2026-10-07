@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orgasm Simulator 2023 | 253888 | [253888-orgasm-simulator-2023.json](./253888-orgasm-simulator-2023.json) |
 | Orgasm Simulator 3 | 274686 | [274686-orgasm-simulator-3.json](./274686-orgasm-simulator-3.json) |
 | Orge Battle Gaiden | 75500 | [75500-orge-battle-gaiden.json](./75500-orge-battle-gaiden.json) |
+| Orguss | 6121 | [6121-orguss.json](./6121-orguss.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
