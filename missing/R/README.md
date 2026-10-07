@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
+| Real Pinball | 4266 | [4266-real-pinball.json](./4266-real-pinball.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
 | Real Pool 2 | 23460 | [23460-real-pool-2.json](./23460-real-pool-2.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return | 255987 | [255987-return.json](./255987-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
+| Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
 | Return of Double Dragon | 248131 | [248131-return-of-double-dragon.json](./248131-return-of-double-dragon.json) |
