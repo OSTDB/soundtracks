@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Deck | 371340 | [371340-panzer-deck.json](./371340-panzer-deck.json) |
 | Panzer Doctrine | 69391 | [69391-panzer-doctrine.json](./69391-panzer-doctrine.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
+| Panzer Dragoon Mini | 1670 | [1670-panzer-dragoon-mini.json](./1670-panzer-dragoon-mini.json) |
 | Panzer Dragoon Orta | 1672 | [1672-panzer-dragoon-orta.json](./1672-panzer-dragoon-orta.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon: Remake | 113350 | [113350-panzer-dragoon-remake.json](./113350-panzer-dragoon-remake.json) |
