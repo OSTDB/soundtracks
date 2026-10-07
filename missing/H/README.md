@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
 | Hacha Macha Pon! | 286585 | [286585-hacha-macha-pon.json](./286585-hacha-macha-pon.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
+| Hachi Hachi | 56304 | [56304-hachi-hachi.json](./56304-hachi-hachi.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
+| Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
@@ -5497,7 +5499,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
+| Hopeless 2: Cave Escape | 56271 | [56271-hopeless-2-cave-escape.json](./56271-hopeless-2-cave-escape.json) |
+| Hopeless 3: Dark Hollow Earth | 56274 | [56274-hopeless-3-dark-hollow-earth.json](./56274-hopeless-3-dark-hollow-earth.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
+| Hopeless: Football Cup | 56273 | [56273-hopeless-football-cup.json](./56273-hopeless-football-cup.json) |
+| Hopeless: Space Shooting | 56278 | [56278-hopeless-space-shooting.json](./56278-hopeless-space-shooting.json) |
+| Hopeless: The Dark Cave | 56270 | [56270-hopeless-the-dark-cave.json](./56270-hopeless-the-dark-cave.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
