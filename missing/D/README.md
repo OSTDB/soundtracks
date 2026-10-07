@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
+| Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
 | Dead Block | 10170 | [10170-dead-block.json](./10170-dead-block.json) |
@@ -2011,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Haus | 272291 | [272291-dead-island-2-haus.json](./272291-dead-island-2-haus.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
+| Dead Island Definitive Collection | 19399 | [19399-dead-island-definitive-collection.json](./19399-dead-island-definitive-collection.json) |
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
 | Dead Island: Epidemic | 2902 | [2902-dead-island-epidemic.json](./2902-dead-island-epidemic.json) |
@@ -3194,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
 | Defina | 237334 | [237334-defina.json](./237334-defina.json) |
 | Definitely Not a Cult | 408807 | [408807-definitely-not-a-cult.json](./408807-definitely-not-a-cult.json) |
+| Definitely Not Fried Chicken | 143078 | [143078-definitely-not-fried-chicken.json](./143078-definitely-not-fried-chicken.json) |
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
 | Definitely Sneaky But Not Sneaky | 113182 | [113182-definitely-sneaky-but-not-sneaky.json](./113182-definitely-sneaky-but-not-sneaky.json) |
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
@@ -4664,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo Prime Evil Collection | 173127 | [173127-diablo-prime-evil-collection.json](./173127-diablo-prime-evil-collection.json) |
 | Diablo V | 417647 | [417647-diablo-v.json](./417647-diablo-v.json) |
 | Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
+| Diabolical Pitch | 19904 | [19904-diabolical-pitch.json](./19904-diabolical-pitch.json) |
 | Diabolik 01: Inafferrabile Criminale | 138700 | [138700-diabolik-01-inafferrabile-criminale.json](./138700-diabolik-01-inafferrabile-criminale.json) |
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
@@ -6322,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
 | Do It With Hay | 151084 | [151084-do-it-with-hay.json](./151084-do-it-with-hay.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
+| Do No Harm | 324874 | [324874-do-no-harm.json](./324874-do-no-harm.json) |
 | Do Not Believe His Lies | 116254 | [116254-do-not-believe-his-lies.json](./116254-do-not-believe-his-lies.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
