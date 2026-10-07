@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
+| Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
 | Ganbare Baseball | 284439 | [284439-ganbare-baseball.json](./284439-ganbare-baseball.json) |
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
 | GangV: Battle Royale | 144201 | [144201-gangv-battle-royale.json](./144201-gangv-battle-royale.json) |
 | Gangway Monsters | 43844 | [43844-gangway-monsters.json](./43844-gangway-monsters.json) |
+| Ganja Farmer | 25801 | [25801-ganja-farmer.json](./25801-ganja-farmer.json) |
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
@@ -1019,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Golf | 64736 | [64736-garden-golf.json](./64736-garden-golf.json) |
+| Garden Grower | 25553 | [25553-garden-grower.json](./25553-garden-grower.json) |
 | Garden Guardian | 211109 | [211109-garden-guardian.json](./211109-garden-guardian.json) |
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
@@ -4113,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
+| Gothmog's Lair | 25815 | [25815-gothmogs-lair.json](./25815-gothmogs-lair.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotouchi Kentei DS | 124018 | [124018-gotouchi-kentei-ds.json](./124018-gotouchi-kentei-ds.json) |
@@ -4673,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Mius Front - Typhoon Rising | 155489 | [155489-graviteam-tactics-mius-front-typhoon-rising.json](./155489-graviteam-tactics-mius-front-typhoon-rising.json) |
 | Graviteam Tactics: Mius Front - Under the Cruel Star | 151059 | [151059-graviteam-tactics-mius-front-under-the-cruel-star.json](./151059-graviteam-tactics-mius-front-under-the-cruel-star.json) |
 | Graviteam Tactics: Operation Star | 17038 | [17038-graviteam-tactics-operation-star.json](./17038-graviteam-tactics-operation-star.json) |
+| Graviteam Tactics: Operation Star - Krasnaya Polyana | 25542 | [25542-graviteam-tactics-operation-star-krasnaya-polyana.json](./25542-graviteam-tactics-operation-star-krasnaya-polyana.json) |
 | Graviteam Tactics: Operation Star - Krasnaya Polyana 1943 | 155495 | [155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json](./155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json) |
 | Graviteam Tactics: Operation Star - Operation Hooper | 155493 | [155493-graviteam-tactics-operation-star-operation-hooper.json](./155493-graviteam-tactics-operation-star-operation-hooper.json) |
 | Graviteam Tactics: Operation Star - Shield of the Prophet | 25043 | [25043-graviteam-tactics-operation-star-shield-of-the-prophet.json](./25043-graviteam-tactics-operation-star-shield-of-the-prophet.json) |
