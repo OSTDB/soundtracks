@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
 | Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
+| Call of Duty: Modern Warfare 2 Campaign Remastered | 95062 | [95062-call-of-duty-modern-warfare-2-campaign-remastered.json](./95062-call-of-duty-modern-warfare-2-campaign-remastered.json) |
 | Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
 | Call of Duty: Modern Warfare 3 - Collection 2 | 194367 | [194367-call-of-duty-modern-warfare-3-collection-2.json](./194367-call-of-duty-modern-warfare-3-collection-2.json) |
 | Call of Duty: Modern Warfare 3 - Collection 3: Chaos Pack | 194416 | [194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json](./194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
 | Castlevania: Belmont's Curse - Bonus Contents Pack | 411827 | [411827-castlevania-belmonts-curse-bonus-contents-pack.json](./411827-castlevania-belmonts-curse-bonus-contents-pack.json) |
 | Castlevania: Belmont's Curse - Midnight Edition | 411834 | [411834-castlevania-belmonts-curse-midnight-edition.json](./411834-castlevania-belmonts-curse-midnight-edition.json) |
+| Castlevania: Bloodlines | 1127 | [1127-castlevania-bloodlines.json](./1127-castlevania-bloodlines.json) |
 | Castlevania: Chorus of Mysteries | 48299 | [48299-castlevania-chorus-of-mysteries.json](./48299-castlevania-chorus-of-mysteries.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon | 222410 | [222410-castlevania-circle-of-the-moon.json](./222410-castlevania-circle-of-the-moon.json) |
@@ -1999,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Portrait of Ruin | 315315 | [315315-castlevania-portrait-of-ruin.json](./315315-castlevania-portrait-of-ruin.json) |
+| Castlevania: Rondo of Blood | 1139 | [1139-castlevania-rondo-of-blood.json](./1139-castlevania-rondo-of-blood.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Seal of the Eclipse | 240147 | [240147-castlevania-seal-of-the-eclipse.json](./240147-castlevania-seal-of-the-eclipse.json) |
 | Castlevania: Serenade Under the Moon | 213859 | [213859-castlevania-serenade-under-the-moon.json](./213859-castlevania-serenade-under-the-moon.json) |
@@ -3153,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chant Wizard | 391309 | [391309-chant-wizard.json](./391309-chant-wizard.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
+| Chants of Sennaar | 198499 | [198499-chants-of-sennaar.json](./198499-chants-of-sennaar.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure | 331473 | [331473-chao-adventure.json](./331473-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
@@ -6000,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
+| Clustertruck | 18484 | [18484-clustertruck.json](./18484-clustertruck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
@@ -6412,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
 | Colin McRae Rally 2005 Plus | 44470 | [44470-colin-mcrae-rally-2005-plus.json](./44470-colin-mcrae-rally-2005-plus.json) |
+| Colin McRae: Dirt | 943 | [943-colin-mcrae-dirt.json](./943-colin-mcrae-dirt.json) |
 | Colin McRae: Dirt 2 | 202101 | [202101-colin-mcrae-dirt-2.json](./202101-colin-mcrae-dirt-2.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
@@ -7784,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraptions 2 | 242598 | [242598-contraptions-2.json](./242598-contraptions-2.json) |
 | Contraptions Collection | 282051 | [282051-contraptions-collection.json](./282051-contraptions-collection.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
+| Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
 | Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
