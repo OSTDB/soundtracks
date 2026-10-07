@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Under Fire: Circle of Doom | 18108 | [18108-kingdom-under-fire-circle-of-doom.json](./18108-kingdom-under-fire-circle-of-doom.json) |
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
 | Kingdom Under Fire: Heroes | 5882 | [5882-kingdom-under-fire-heroes.json](./5882-kingdom-under-fire-heroes.json) |
+| Kingdom Under Fire: The Crusaders | 5883 | [5883-kingdom-under-fire-the-crusaders.json](./5883-kingdom-under-fire-the-crusaders.json) |
 | Kingdom vs Zombies | 133204 | [133204-kingdom-vs-zombies.json](./133204-kingdom-vs-zombies.json) |
 | Kingdom Warrior | 128319 | [128319-kingdom-warrior.json](./128319-kingdom-warrior.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
