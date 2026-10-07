@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
+| Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
@@ -6879,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Nation FX - Lite | 15692 | [15692-pool-nation-fx-lite.json](./15692-pool-nation-fx-lite.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
+| Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
@@ -8697,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
+| Project G | 32773 | [32773-project-g.json](./32773-project-g.json) |
 | Project Gaiaray | 71022 | [71022-project-gaiaray.json](./71022-project-gaiaray.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
