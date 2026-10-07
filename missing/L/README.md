@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn the Letters | 242554 | [242554-learn-the-letters.json](./242554-learn-the-letters.json) |
 | Learn Through Riddles! Masterpieces of the World | 410386 | [410386-learn-through-riddles-masterpieces-of-the-world.json](./410386-learn-through-riddles-masterpieces-of-the-world.json) |
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
+| Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
 | Learn to Play Vol. 1: Fruit Collect | 293365 | [293365-learn-to-play-vol-1-fruit-collect.json](./293365-learn-to-play-vol-1-fruit-collect.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
+| Leisure Suit Larry: Magna Cum Laude - Uncut and Uncensored | 81729 | [81729-leisure-suit-larry-magna-cum-laude-uncut-and-uncensored.json](./81729-leisure-suit-larry-magna-cum-laude-uncut-and-uncensored.json) |
 | Leisure Suit Larry: Pocket Party | 65289 | [65289-leisure-suit-larry-pocket-party.json](./65289-leisure-suit-larry-pocket-party.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Dry Twice | 138756 | [138756-leisure-suit-larry-wet-dreams-dry-twice.json](./138756-leisure-suit-larry-wet-dreams-dry-twice.json) |
@@ -2577,6 +2579,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
 | Life is Strange: Before the Storm - Bonus Episode: Farewell | 91247 | [91247-life-is-strange-before-the-storm-bonus-episode-farewell.json](./91247-life-is-strange-before-the-storm-bonus-episode-farewell.json) |
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
+| Life is Strange: Before the Storm - Episode 2: Brave New World | 81105 | [81105-life-is-strange-before-the-storm-episode-2-brave-new-world.json](./81105-life-is-strange-before-the-storm-episode-2-brave-new-world.json) |
+| Life is Strange: Before the Storm - Limited Edition | 82432 | [82432-life-is-strange-before-the-storm-limited-edition.json](./82432-life-is-strange-before-the-storm-limited-edition.json) |
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
 | Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
@@ -5032,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
+| Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
 | Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
