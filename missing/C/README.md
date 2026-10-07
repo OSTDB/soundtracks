@@ -302,6 +302,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
+| California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
+| California Games | 263878 | [263878-california-games.json](./263878-california-games.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
@@ -3307,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
+| Chariot | 7897 | [7897-chariot.json](./7897-chariot.json) |
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
@@ -7591,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
+| Conquests of the Longbow: The Legend of Robin Hood | 7567 | [7567-conquests-of-the-longbow-the-legend-of-robin-hood.json](./7567-conquests-of-the-longbow-the-legend-of-robin-hood.json) |
 | Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
@@ -11168,6 +11172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-02 | 311717 | [311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json](./311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json) |
 | Custom Order Maid 3D2&2.5+: X1+Vol.01 | 311723 | [311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json](./311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json) |
 | Custom Robo | 3465 | [3465-custom-robo.json](./3465-custom-robo.json) |
+| Custom Robo Arena | 3466 | [3466-custom-robo-arena.json](./3466-custom-robo-arena.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Custom Robo GX | 3464 | [3464-custom-robo-gx.json](./3464-custom-robo-gx.json) |
 | Custom Robo V2 | 3463 | [3463-custom-robo-v2.json](./3463-custom-robo-v2.json) |
