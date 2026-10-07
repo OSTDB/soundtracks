@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
+| Idol Incidents | 56317 | [56317-idol-incidents.json](./56317-idol-incidents.json) |
 | Idol Janshi R: Janguru Project | 248627 | [248627-idol-janshi-r-janguru-project.json](./248627-idol-janshi-r-janguru-project.json) |
 | Idol Janshi Suchi-Pai III Remix | 98808 | [98808-idol-janshi-suchi-pai-iii-remix.json](./98808-idol-janshi-suchi-pai-iii-remix.json) |
 | Idol Janshi Suchie-Pai II | 92136 | [92136-idol-janshi-suchie-pai-ii.json](./92136-idol-janshi-suchie-pai-ii.json) |
