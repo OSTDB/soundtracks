@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
 | Meikyu Wakusei des Paraiso | 182391 | [182391-meikyu-wakusei-des-paraiso.json](./182391-meikyu-wakusei-des-paraiso.json) |
 | Meikyuu Cross Blood: Infinity - Ultimate | 248796 | [248796-meikyuu-cross-blood-infinity-ultimate.json](./248796-meikyuu-cross-blood-infinity-ultimate.json) |
+| Meikyuu Jiin Dababa | 41290 | [41290-meikyuu-jiin-dababa.json](./41290-meikyuu-jiin-dababa.json) |
 | Meikyuu Machi no Grace | 212893 | [212893-meikyuu-machi-no-grace.json](./212893-meikyuu-machi-no-grace.json) |
 | Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
 | Meikyuu Xross Blood | 25664 | [25664-meikyuu-xross-blood.json](./25664-meikyuu-xross-blood.json) |
@@ -5806,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
 | Michael Andretti's Indy Car Challenge | 42496 | [42496-michael-andrettis-indy-car-challenge.json](./42496-michael-andrettis-indy-car-challenge.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
+| Michael English Daibouken | 41292 | [41292-michael-english-daibouken.json](./41292-michael-english-daibouken.json) |
 | Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
 | Michael Jackson: The Experience | 5006 | [5006-michael-jackson-the-experience.json](./5006-michael-jackson-the-experience.json) |
