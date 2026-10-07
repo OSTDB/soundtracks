@@ -3240,9 +3240,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
+| Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
 | Delinquent Girlfriend Is Made Into a Masochist Femswine by Disgusting Bad Friend | 98544 | [98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json](./98544-delinquent-girlfriend-is-made-into-a-masochist-femswine-by-disgusting-bad-friend.json) |
 | Deliria | 202748 | [202748-deliria.json](./202748-deliria.json) |
+| Deliriant | 28731 | [28731-deliriant.json](./28731-deliriant.json) |
 | Delirious | 183546 | [183546-delirious.json](./183546-delirious.json) |
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
@@ -5912,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
 | Distancy | 316153 | [316153-distancy.json](./316153-distancy.json) |
+| Distant | 28704 | [28704-distant.json](./28704-distant.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
 | Distant castle | 99130 | [99130-distant-castle.json](./99130-distant-castle.json) |
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
