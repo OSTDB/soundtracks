@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Girl | 292241 | [292241-tennis-girl.json](./292241-tennis-girl.json) |
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
+| Tennis in the Face | 19497 | [19497-tennis-in-the-face.json](./19497-tennis-in-the-face.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis League VR | 208108 | [208108-tennis-league-vr.json](./208108-tennis-league-vr.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
+| Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
 | Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
@@ -5936,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
+| The Granstream Saga | 19156 | [19156-the-granstream-saga.json](./19156-the-granstream-saga.json) |
 | The Grappler | 331394 | [331394-the-grappler.json](./331394-the-grappler.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
@@ -13282,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
+| Time and Eternity | 19922 | [19922-time-and-eternity.json](./19922-time-and-eternity.json) |
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
