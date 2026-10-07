@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
+| Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam Mallard: The Case of the Missing Swan | 203218 | [203218-sam-mallard-the-case-of-the-missing-swan.json](./203218-sam-mallard-the-case-of-the-missing-swan.json) |
 | SAM Simulator | 71179 | [71179-sam-simulator.json](./71179-sam-simulator.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
@@ -6106,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Box Classics | 241957 | [241957-silver-box-classics.json](./241957-silver-box-classics.json) |
 | Silver Bullet: Prometheus | 33437 | [33437-silver-bullet-prometheus.json](./33437-silver-bullet-prometheus.json) |
 | Silver Cats | 150495 | [150495-silver-cats.json](./150495-silver-cats.json) |
+| Silver Chains | 109550 | [109550-silver-chains.json](./109550-silver-chains.json) |
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
 | Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
@@ -12186,6 +12188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
 | Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
 | Spellfolio | 289549 | [289549-spellfolio.json](./289549-spellfolio.json) |
+| SpellForce 2: Dragon Storm | 7037 | [7037-spellforce-2-dragon-storm.json](./7037-spellforce-2-dragon-storm.json) |
 | SpellForce 2: Faith in Destiny - Scenario 1: Flink's Secret Diary | 144284 | [144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json](./144284-spellforce-2-faith-in-destiny-scenario-1-flinks-secret-diary.json) |
 | SpellForce 2: Faith in Destiny - Scenario 2: The Golden Fool | 144286 | [144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json](./144286-spellforce-2-faith-in-destiny-scenario-2-the-golden-fool.json) |
 | SpellForce 2: Faith in Destiny - Scenario 3: The Last Stand | 144287 | [144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json](./144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json) |
@@ -19892,6 +19895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SVG-001 Puzzle | 312687 | [312687-svg-001-puzzle.json](./312687-svg-001-puzzle.json) |
 | Svrvive: The Deus Helix | 26121 | [26121-svrvive-the-deus-helix.json](./26121-svrvive-the-deus-helix.json) |
 | Swabby | 312224 | [312224-swabby.json](./312224-swabby.json) |
+| Swag & Sorcery | 107482 | [107482-swag-and-sorcery.json](./107482-swag-and-sorcery.json) |
 | Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
