@@ -1332,20 +1332,42 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
 | Imagine: Artist | 7944 | [7944-imagine-artist.json](./7944-imagine-artist.json) |
 | Imagine: Babies 3D | 7951 | [7951-imagine-babies-3d.json](./7951-imagine-babies-3d.json) |
+| Imagine: Babysitters | 7916 | [7916-imagine-babysitters.json](./7916-imagine-babysitters.json) |
 | Imagine: Babyz Fashion | 7946 | [7946-imagine-babyz-fashion.json](./7946-imagine-babyz-fashion.json) |
+| Imagine: Ballet Star | 7924 | [7924-imagine-ballet-star.json](./7924-imagine-ballet-star.json) |
+| Imagine: Boutique Owner | 7933 | [7933-imagine-boutique-owner.json](./7933-imagine-boutique-owner.json) |
+| Imagine: Champion Rider | 7919 | [7919-imagine-champion-rider.json](./7919-imagine-champion-rider.json) |
 | Imagine: Champion Rider 3D | 7953 | [7953-imagine-champion-rider-3d.json](./7953-imagine-champion-rider-3d.json) |
+| Imagine: Cheerleader | 7928 | [7928-imagine-cheerleader.json](./7928-imagine-cheerleader.json) |
+| Imagine: Detective | 7939 | [7939-imagine-detective.json](./7939-imagine-detective.json) |
+| Imagine: Family Doctor | 7930 | [7930-imagine-family-doctor.json](./7930-imagine-family-doctor.json) |
 | Imagine: Fashion Designer | 7911 | [7911-imagine-fashion-designer.json](./7911-imagine-fashion-designer.json) |
+| Imagine: Fashion Designer New York | 7918 | [7918-imagine-fashion-designer-new-york.json](./7918-imagine-fashion-designer-new-york.json) |
 | Imagine: Fashion Designer World Tour | 7945 | [7945-imagine-fashion-designer-world-tour.json](./7945-imagine-fashion-designer-world-tour.json) |
 | Imagine: Fashion Life | 7950 | [7950-imagine-fashion-life.json](./7950-imagine-fashion-life.json) |
 | Imagine: Fashion Stylist | 7949 | [7949-imagine-fashion-stylist.json](./7949-imagine-fashion-stylist.json) |
 | Imagine: Figure Skater | 7912 | [7912-imagine-figure-skater.json](./7912-imagine-figure-skater.json) |
+| Imagine: Gymnast | 7926 | [7926-imagine-gymnast.json](./7926-imagine-gymnast.json) |
+| Imagine: Ice Champions | 7929 | [7929-imagine-ice-champions.json](./7929-imagine-ice-champions.json) |
+| Imagine: Interior Designer | 7921 | [7921-imagine-interior-designer.json](./7921-imagine-interior-designer.json) |
+| Imagine: Makeup Artist | 7931 | [7931-imagine-makeup-artist.json](./7931-imagine-makeup-artist.json) |
 | Imagine: Master Chef | 7910 | [7910-imagine-master-chef.json](./7910-imagine-master-chef.json) |
+| Imagine: Modern Dancer | 7917 | [7917-imagine-modern-dancer.json](./7917-imagine-modern-dancer.json) |
+| Imagine: Movie Star | 7925 | [7925-imagine-movie-star.json](./7925-imagine-movie-star.json) |
+| Imagine: Music Fest | 7932 | [7932-imagine-music-fest.json](./7932-imagine-music-fest.json) |
+| Imagine: My Restaurant | 7927 | [7927-imagine-my-restaurant.json](./7927-imagine-my-restaurant.json) |
+| Imagine: Party Babyz | 7923 | [7923-imagine-party-babyz.json](./7923-imagine-party-babyz.json) |
+| Imagine: Party Planner | 7940 | [7940-imagine-party-planner.json](./7940-imagine-party-planner.json) |
+| Imagine: Pet Hospital | 7920 | [7920-imagine-pet-hospital.json](./7920-imagine-pet-hospital.json) |
 | Imagine: Reporter | 7942 | [7942-imagine-reporter.json](./7942-imagine-reporter.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
 | Imagine: Resort Owner | 7947 | [7947-imagine-resort-owner.json](./7947-imagine-resort-owner.json) |
 | Imagine: Rock Star | 7913 | [7913-imagine-rock-star.json](./7913-imagine-rock-star.json) |
+| Imagine: Salon Stylist | 7941 | [7941-imagine-salon-stylist.json](./7941-imagine-salon-stylist.json) |
+| Imagine: Soccer Captain | 7934 | [7934-imagine-soccer-captain.json](./7934-imagine-soccer-captain.json) |
 | Imagine: Sweet 16 | 5989 | [5989-imagine-sweet-16.json](./5989-imagine-sweet-16.json) |
 | Imagine: Teacher | 7914 | [7914-imagine-teacher.json](./7914-imagine-teacher.json) |
+| Imagine: Teacher - Class Trip | 7938 | [7938-imagine-teacher-class-trip.json](./7938-imagine-teacher-class-trip.json) |
 | Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
 | Imagined Leviathans | 156204 | [156204-imagined-leviathans.json](./156204-imagined-leviathans.json) |
 | Imaginext: Battle Castle | 209431 | [209431-imaginext-battle-castle.json](./209431-imaginext-battle-castle.json) |
