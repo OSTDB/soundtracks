@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
+| Video Jogger | 40663 | [40663-video-jogger.json](./40663-video-jogger.json) |
 | Video Olimpic | 69341 | [69341-video-olimpic.json](./69341-video-olimpic.json) |
 | Video Olympics | 54791 | [54791-video-olympics.json](./54791-video-olympics.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Poker Simulator | 296012 | [296012-video-poker-simulator.json](./296012-video-poker-simulator.json) |
 | Video Poker World Tour | 60387 | [60387-video-poker-world-tour.json](./60387-video-poker-world-tour.json) |
 | Video Realms | 156553 | [156553-video-realms.json](./156553-video-realms.json) |
+| Video Simon | 40662 | [40662-video-simon.json](./40662-video-simon.json) |
 | Video Speedway | 45901 | [45901-video-speedway.json](./45901-video-speedway.json) |
 | Video Strip Poker | 79519 | [79519-video-strip-poker.json](./79519-video-strip-poker.json) |
 | Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
