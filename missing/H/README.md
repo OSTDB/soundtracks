@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
+| Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
@@ -6722,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Shark: Part 1 | 300676 | [300676-hungry-shark-part-1.json](./300676-hungry-shark-part-1.json) |
 | Hungry Shark: Part 2 | 300678 | [300678-hungry-shark-part-2.json](./300678-hungry-shark-part-2.json) |
 | Hungry Shark: Part 3 | 300679 | [300679-hungry-shark-part-3.json](./300679-hungry-shark-part-3.json) |
+| Hungry Sumo | 22204 | [22204-hungry-sumo.json](./22204-hungry-sumo.json) |
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
 | Hunk Empire | 398363 | [398363-hunk-empire.json](./398363-hunk-empire.json) |
