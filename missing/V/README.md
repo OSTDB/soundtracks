@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Scrumble | 174734 | [174734-venus-scrumble.json](./174734-venus-scrumble.json) |
+| Venus Senki | 48552 | [48552-venus-senki.json](./48552-venus-senki.json) |
 | Venus the Flytrap | 69560 | [69560-venus-the-flytrap.json](./69560-venus-the-flytrap.json) |
 | Venus Vacation Prism: Dead or Alive Xtreme | 318023 | [318023-venus-vacation-prism-dead-or-alive-xtreme.json](./318023-venus-vacation-prism-dead-or-alive-xtreme.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volfied | 4469 | [4469-volfied.json](./4469-volfied.json) |
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
+| Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volley Sumos | 193727 | [193727-volley-sumos.json](./193727-volley-sumos.json) |
