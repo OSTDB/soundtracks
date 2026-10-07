@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
+| Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 1 | 404289 | [404289-pic-a-pix-pieces-15x15-pieces-pack-1.json](./404289-pic-a-pix-pieces-15x15-pieces-pack-1.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
@@ -6523,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
+| Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
@@ -7258,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
+| Post War Dreams | 28947 | [28947-post-war-dreams.json](./28947-post-war-dreams.json) |
 | Post-apocalyptic Old man | 283236 | [283236-post-apocalyptic-old-man.json](./283236-post-apocalyptic-old-man.json) |
 | Post-Disclosure, Devil's Night | 218407 | [218407-post-disclosure-devils-night.json](./218407-post-disclosure-devils-night.json) |
 | Post-Future Vagabond | 139809 | [139809-post-future-vagabond.json](./139809-post-future-vagabond.json) |
@@ -8829,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
 | Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
+| Project Nova | 28696 | [28696-project-nova.json](./28696-project-nova.json) |
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
@@ -8860,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
 | Project R4T | 384159 | [384159-project-r4t.json](./384159-project-r4t.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
+| Project Rap Rabbit | 28699 | [28699-project-rap-rabbit.json](./28699-project-rap-rabbit.json) |
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
