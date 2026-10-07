@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
 | F-Zero: GP Legend | 3493 | [3493-f-zero-gp-legend.json](./3493-f-zero-gp-legend.json) |
 | F-Zero: GP Legend e+ Complete | 173092 | [173092-f-zero-gp-legend-e-complete.json](./173092-f-zero-gp-legend-e-complete.json) |
+| F-Zero: The Lost Tracks | 38259 | [38259-f-zero-the-lost-tracks.json](./38259-f-zero-the-lost-tracks.json) |
 | F.1 Manager | 92689 | [92689-f-1-manager.json](./92689-f-1-manager.json) |
 | F.A Cup Football | 93372 | [93372-f-a-cup-football.json](./93372-f-a-cup-football.json) |
 | F.A.C.E.S. | 57163 | [57163-f-a-c-e-s.json](./57163-f-a-c-e-s.json) |
