@@ -4613,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
+| Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
@@ -8339,6 +8340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
 | Cosmo Odyssey 2: Comeback to Origin | 238550 | [238550-cosmo-odyssey-2-comeback-to-origin.json](./238550-cosmo-odyssey-2-comeback-to-origin.json) |
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
+| Cosmo Police Galivan II: Arrow of Justice | 38213 | [38213-cosmo-police-galivan-ii-arrow-of-justice.json](./38213-cosmo-police-galivan-ii-arrow-of-justice.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmo Ranger: S.O.L. AD 2000 | 72068 | [72068-cosmo-ranger-s-o-l-ad-2000.json](./72068-cosmo-ranger-s-o-l-ad-2000.json) |
 | Cosmo Run | 106100 | [106100-cosmo-run.json](./106100-cosmo-run.json) |
