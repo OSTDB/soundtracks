@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See you: A brief exile | 159745 | [159745-see-you-a-brief-exile.json](./159745-see-you-a-brief-exile.json) |
 | See-Through Jewels | 182220 | [182220-see-through-jewels.json](./182220-see-through-jewels.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
+| Seed | 36953 | [36953-seed.json](./36953-seed.json) |
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
@@ -3242,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Septiny | 186193 | [186193-septiny.json](./186193-septiny.json) |
 | Septipus: Tentacle Apocalypse | 65275 | [65275-septipus-tentacle-apocalypse.json](./65275-septipus-tentacle-apocalypse.json) |
+| Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
@@ -7526,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice Words | 232071 | [232071-slice-words.json](./232071-slice-words.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
+| Slice&Dice | 37010 | [37010-slice-and-dice.json](./37010-slice-and-dice.json) |
 | Sliced | 290617 | [290617-sliced.json](./290617-sliced.json) |
 | Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
@@ -15949,6 +15952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
+| Streetball VR | 36985 | [36985-streetball-vr.json](./36985-streetball-vr.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
 | StreetCraft | 32933 | [32933-streetcraft.json](./32933-streetcraft.json) |
 | StreetCricket | 105902 | [105902-streetcricket.json](./105902-streetcricket.json) |
@@ -18327,6 +18331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
 | Super Nanaru | 183864 | [183864-super-nanaru.json](./183864-super-nanaru.json) |
+| Super Nano Jumpers | 36960 | [36960-super-nano-jumpers.json](./36960-super-nano-jumpers.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Nario World | 316627 | [316627-super-nario-world.json](./316627-super-nario-world.json) |
 | Super Naruto: Clash of Ninja! 4 | 249292 | [249292-super-naruto-clash-of-ninja-4.json](./249292-super-naruto-clash-of-ninja-4.json) |
