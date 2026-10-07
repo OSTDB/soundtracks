@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
 | Backyard Skateboarding | 72939 | [72939-backyard-skateboarding.json](./72939-backyard-skateboarding.json) |
+| Backyard Soccer | 44993 | [44993-backyard-soccer.json](./44993-backyard-soccer.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Backyard Sports Football: Rookie Rush | 47408 | [47408-backyard-sports-football-rookie-rush.json](./47408-backyard-sports-football-rookie-rush.json) |
 | Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
 | Barbie: Fun & Fashion Dogs | 117136 | [117136-barbie-fun-and-fashion-dogs.json](./117136-barbie-fun-and-fashion-dogs.json) |
+| Barbie: Game Girl | 45174 | [45174-barbie-game-girl.json](./45174-barbie-game-girl.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
@@ -1825,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
 | Basketball NBA 17 | 99105 | [99105-basketball-nba-17.json](./99105-basketball-nba-17.json) |
+| Basketball Nightmare | 45667 | [45667-basketball-nightmare.json](./45667-basketball-nightmare.json) |
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
 | Basketball Playgrounds | 212460 | [212460-basketball-playgrounds.json](./212460-basketball-playgrounds.json) |
 | Basketball Pro Management 2013 | 10025 | [10025-basketball-pro-management-2013.json](./10025-basketball-pro-management-2013.json) |
@@ -1989,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
+| Batman: Chaos in Gotham | 45201 | [45201-batman-chaos-in-gotham.json](./45201-batman-chaos-in-gotham.json) |
 | Batman: Dark Tomorrow | 5738 | [5738-batman-dark-tomorrow.json](./5738-batman-dark-tomorrow.json) |
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
 | Batman: Justice Unbalanced | 73887 | [73887-batman-justice-unbalanced.json](./73887-batman-justice-unbalanced.json) |
@@ -5387,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crafter 2 | 299413 | [299413-blade-crafter-2.json](./299413-blade-crafter-2.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
+| Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
@@ -5479,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blandville | 177393 | [177393-blandville.json](./177393-blandville.json) |
 | Blank | 127800 | [127800-blank.json](./127800-blank.json) |
+| Blank Dream | 47005 | [47005-blank-dream.json](./47005-blank-dream.json) |
 | Blank Frame | 181888 | [181888-blank-frame.json](./181888-blank-frame.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
@@ -5555,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
+| Blaster Master 2 | 46238 | [46238-blaster-master-2.json](./46238-blaster-master-2.json) |
 | Blaster Master SNES Port | 377231 | [377231-blaster-master-snes-port.json](./377231-blaster-master-snes-port.json) |
 | Blaster Master Zero | 27438 | [27438-blaster-master-zero.json](./27438-blaster-master-zero.json) |
 | Blaster Master Zero 2: Kanna Raising Simulator | 168165 | [168165-blaster-master-zero-2-kanna-raising-simulator.json](./168165-blaster-master-zero-2-kanna-raising-simulator.json) |
@@ -9658,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bulk | 390638 | [390638-bulk.json](./390638-bulk.json) |
 | Bulk Dominoes VR: Kinetic Rush | 160141 | [160141-bulk-dominoes-vr-kinetic-rush.json](./160141-bulk-dominoes-vr-kinetic-rush.json) |
+| Bulk Slash | 45462 | [45462-bulk-slash.json](./45462-bulk-slash.json) |
 | Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
