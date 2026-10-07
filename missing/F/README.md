@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
 | Final Fantasy Blackmoon Prophecy Remake | 398468 | [398468-final-fantasy-blackmoon-prophecy-remake.json](./398468-final-fantasy-blackmoon-prophecy-remake.json) |
 | Final Fantasy Brave Exvius Chocobo Run! | 123476 | [123476-final-fantasy-brave-exvius-chocobo-run.json](./123476-final-fantasy-brave-exvius-chocobo-run.json) |
+| Final Fantasy Collection | 41855 | [41855-final-fantasy-collection.json](./41855-final-fantasy-collection.json) |
 | Final Fantasy Digital Card Game | 113632 | [113632-final-fantasy-digital-card-game.json](./113632-final-fantasy-digital-card-game.json) |
 | Final Fantasy Essence | 323350 | [323350-final-fantasy-essence.json](./323350-final-fantasy-essence.json) |
 | Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
@@ -2858,18 +2859,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Heroes of Abyssea | 255776 | [255776-final-fantasy-xi-heroes-of-abyssea.json](./255776-final-fantasy-xi-heroes-of-abyssea.json) |
 | Final Fantasy XI: Rhapsodies of Vana'diel | 266861 | [266861-final-fantasy-xi-rhapsodies-of-vanadiel.json](./266861-final-fantasy-xi-rhapsodies-of-vanadiel.json) |
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
+| Final Fantasy XI: The Vana'diel Collection | 41852 | [41852-final-fantasy-xi-the-vanadiel-collection.json](./41852-final-fantasy-xi-the-vanadiel-collection.json) |
 | Final Fantasy XI: The Voracious Resurgence | 312630 | [312630-final-fantasy-xi-the-voracious-resurgence.json](./312630-final-fantasy-xi-the-voracious-resurgence.json) |
+| Final Fantasy XI: Vana'diel Collection 2008 | 41853 | [41853-final-fantasy-xi-vanadiel-collection-2008.json](./41853-final-fantasy-xi-vanadiel-collection-2008.json) |
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
+| Final Fantasy XII: Collector's Edition | 41851 | [41851-final-fantasy-xii-collectors-edition.json](./41851-final-fantasy-xii-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Collector's Edition | 136364 | [136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json](./136364-final-fantasy-xii-the-zodiac-age-collectors-edition.json) |
 | Final Fantasy XII: The Zodiac Age - Limited Steelbook Edition | 136173 | [136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json](./136173-final-fantasy-xii-the-zodiac-age-limited-steelbook-edition.json) |
+| Final Fantasy XIII-2: Limited Collector's Edition | 41845 | [41845-final-fantasy-xiii-2-limited-collectors-edition.json](./41845-final-fantasy-xiii-2-limited-collectors-edition.json) |
 | Final Fantasy XIII-2: Requiem of the Goddess | 294213 | [294213-final-fantasy-xiii-2-requiem-of-the-goddess.json](./294213-final-fantasy-xiii-2-requiem-of-the-goddess.json) |
+| Final Fantasy XIII-2: Steelbook Edition | 41843 | [41843-final-fantasy-xiii-2-steelbook-edition.json](./41843-final-fantasy-xiii-2-steelbook-edition.json) |
 | Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 136224 | [136224-final-fantasy-xiv-online-starter-edition.json](./136224-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
+| Final Fantasy XIV: Collector's Edition | 41854 | [41854-final-fantasy-xiv-collectors-edition.json](./41854-final-fantasy-xiv-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
@@ -4811,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying over the Penguin's Hollow | 413134 | [413134-flying-over-the-penguins-hollow.json](./413134-flying-over-the-penguins-hollow.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
+| Flying Rock: Arena | 41927 | [41927-flying-rock-arena.json](./41927-flying-rock-arena.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
@@ -6971,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
+| Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
 | Frontline Protocol | 352361 | [352361-frontline-protocol.json](./352361-frontline-protocol.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
