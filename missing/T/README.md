@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Challenge | 32235 | [32235-the-challenge.json](./32235-the-challenge.json) |
+| The Challenge of Nexar | 11149 | [11149-the-challenge-of-nexar.json](./11149-the-challenge-of-nexar.json) |
 | The Chameleon | 142126 | [142126-the-chameleon.json](./142126-the-chameleon.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
@@ -7482,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Locked Room | 365221 | [365221-the-locked-room.json](./365221-the-locked-room.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The logic inside | 160265 | [160265-the-logic-inside.json](./160265-the-logic-inside.json) |
+| The London Heist | 11255 | [11255-the-london-heist.json](./11255-the-london-heist.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
 | The Lone Chameleon | 87994 | [87994-the-lone-chameleon.json](./87994-the-lone-chameleon.json) |
 | The Lone Hero | 387522 | [387522-the-lone-hero.json](./387522-the-lone-hero.json) |
@@ -14678,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
+| Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
@@ -17467,6 +17470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Fusion: Awesome Level Max | 19951 | [19951-trials-fusion-awesome-level-max.json](./19951-trials-fusion-awesome-level-max.json) |
 | Trials Fusion: Fault One Zero | 165422 | [165422-trials-fusion-fault-one-zero.json](./165422-trials-fusion-fault-one-zero.json) |
 | Trials Fusion: Fire in the Deep | 165421 | [165421-trials-fusion-fire-in-the-deep.json](./165421-trials-fusion-fire-in-the-deep.json) |
+| Trials Fusion: The Awesome Max Edition | 11160 | [11160-trials-fusion-the-awesome-max-edition.json](./11160-trials-fusion-the-awesome-max-edition.json) |
 | Trials Fusion: Welcome to the Abyss | 165424 | [165424-trials-fusion-welcome-to-the-abyss.json](./165424-trials-fusion-welcome-to-the-abyss.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
