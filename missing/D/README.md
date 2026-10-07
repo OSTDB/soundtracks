@@ -4516,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | Dhaka Racing | 385278 | [385278-dhaka-racing.json](./385278-dhaka-racing.json) |
+| Dharma Dojo | 42529 | [42529-dharma-dojo.json](./42529-dharma-dojo.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Di Feng Long Huang | 308898 | [308898-di-feng-long-huang.json](./308898-di-feng-long-huang.json) |
@@ -7702,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
+| Down the World: Mervil's Ambition | 42513 | [42513-down-the-world-mervils-ambition.json](./42513-down-the-world-mervils-ambition.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
