@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
+| Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
 | HamsterVeRse | 153887 | [153887-hamsterverse.json](./153887-hamsterverse.json) |
 | Hamsterz Life | 9248 | [9248-hamsterz-life.json](./9248-hamsterz-life.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
 | Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
 | Harvest Moon: Animal Parade | 3390 | [3390-harvest-moon-animal-parade.json](./3390-harvest-moon-animal-parade.json) |
+| Harvest Moon: Another Wonderful Life | 78872 | [78872-harvest-moon-another-wonderful-life.json](./78872-harvest-moon-another-wonderful-life.json) |
 | Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Boy & Girl | 42889 | [42889-harvest-moon-boy-and-girl.json](./42889-harvest-moon-boy-and-girl.json) |
@@ -2398,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellborne | 148373 | [148373-hellborne.json](./148373-hellborne.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
+| Hellbound | 76037 | [76037-hellbound.json](./76037-hellbound.json) |
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
@@ -5274,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
 | Homerun Touchdown 2017 | 137588 | [137588-homerun-touchdown-2017.json](./137588-homerun-touchdown-2017.json) |
 | Homerun: Spin-Off Forever | 342815 | [342815-homerun-spin-off-forever.json](./342815-homerun-spin-off-forever.json) |
+| Homescapes | 68316 | [68316-homescapes.json](./68316-homescapes.json) |
 | Homeseek | 214384 | [214384-homeseek.json](./214384-homeseek.json) |
 | Homeshift | 372597 | [372597-homeshift.json](./372597-homeshift.json) |
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
