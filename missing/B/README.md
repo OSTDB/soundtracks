@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.A.T.S | 176832 | [176832-b-o-a-t-s.json](./176832-b-o-a-t-s.json) |
+| B.O.B. | 84774 | [84774-b-o-b.json](./84774-b-o-b.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
 | Batman: The Dark Knight | 283976 | [283976-batman-the-dark-knight.json](./283976-batman-the-dark-knight.json) |
 | Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
+| Batman: The Enemy Within - Episode 2: The Pact | 73262 | [73262-batman-the-enemy-within-episode-2-the-pact.json](./73262-batman-the-enemy-within-episode-2-the-pact.json) |
 | Batman: The Enemy Within - Episode 3: Fractured Mask | 80910 | [80910-batman-the-enemy-within-episode-3-fractured-mask.json](./80910-batman-the-enemy-within-episode-3-fractured-mask.json) |
 | Batman: The Enemy Within - Episode 4: What Ails You | 81123 | [81123-batman-the-enemy-within-episode-4-what-ails-you.json](./81123-batman-the-enemy-within-episode-4-what-ails-you.json) |
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
@@ -2586,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
 | Battles of Destiny | 19704 | [19704-battles-of-destiny.json](./19704-battles-of-destiny.json) |
+| Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
@@ -5568,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
+| Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blaston | 135122 | [135122-blaston.json](./135122-blaston.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
@@ -5657,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach Party | 157487 | [157487-bleach-party.json](./157487-bleach-party.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
+| Bleach: Blade Battlers 2nd | 75997 | [75997-bleach-blade-battlers-2nd.json](./75997-bleach-blade-battlers-2nd.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
 | Bleach: Heat the Soul 2 | 44481 | [44481-bleach-heat-the-soul-2.json](./44481-bleach-heat-the-soul-2.json) |
 | Bleach: Heat the Soul 3 | 72793 | [72793-bleach-heat-the-soul-3.json](./72793-bleach-heat-the-soul-3.json) |
