@@ -11784,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed | 91537 | [91537-speed.json](./91537-speed.json) |
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
 | Speed 3: Grand Prix | 139877 | [139877-speed-3-grand-prix.json](./139877-speed-3-grand-prix.json) |
+| Speed Ball | 40121 | [40121-speed-ball.json](./40121-speed-ball.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
@@ -18379,6 +18380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pika Land Ultra: Chocolate Version | 223022 | [223022-super-pika-land-ultra-chocolate-version.json](./223022-super-pika-land-ultra-chocolate-version.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
+| Super Pinball Action | 40119 | [40119-super-pinball-action.json](./40119-super-pinball-action.json) |
 | Super Pinball Adventure | 365250 | [365250-super-pinball-adventure.json](./365250-super-pinball-adventure.json) |
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
 | Super Pinball: Behind the Mask | 42455 | [42455-super-pinball-behind-the-mask.json](./42455-super-pinball-behind-the-mask.json) |
