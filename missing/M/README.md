@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
+| Magical Drop 3 | 45319 | [45319-magical-drop-3.json](./45319-magical-drop-3.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
@@ -9722,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
 | Morstairs: Part I - Oath of Fealty | 225550 | [225550-morstairs-part-i-oath-of-fealty.json](./225550-morstairs-part-i-oath-of-fealty.json) |
+| Mort the Chicken | 45049 | [45049-mort-the-chicken.json](./45049-mort-the-chicken.json) |
 | MORT: Manageably OK Response Team | 395815 | [395815-mort-manageably-ok-response-team.json](./395815-mort-manageably-ok-response-team.json) |
 | Mort's Dream Jump | 248010 | [248010-morts-dream-jump.json](./248010-morts-dream-jump.json) |
 | Mortacrust | 323778 | [323778-mortacrust.json](./323778-mortacrust.json) |
