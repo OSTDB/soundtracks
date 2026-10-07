@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
 | Extreme Skate Boarder 3D | 87635 | [87635-extreme-skate-boarder-3d.json](./87635-extreme-skate-boarder-3d.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
+| Extreme Skiing VR | 30736 | [30736-extreme-skiing-vr.json](./30736-extreme-skiing-vr.json) |
 | Extreme Skill | 80466 | [80466-extreme-skill.json](./80466-extreme-skill.json) |
 | Extreme Skydiving | 175159 | [175159-extreme-skydiving.json](./175159-extreme-skydiving.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
