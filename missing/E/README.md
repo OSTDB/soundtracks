@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged | 131418 | [131418-estranged.json](./131418-estranged.json) |
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
+| ESWAT: City Under Siege | 6670 | [6670-eswat-city-under-siege.json](./6670-eswat-city-under-siege.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | Esylium MMORPG | 250885 | [250885-esylium-mmorpg.json](./250885-esylium-mmorpg.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrian Odyssey III HD Character Set DLC | 251696 | [251696-etrian-odyssey-iii-hd-character-set-dlc.json](./251696-etrian-odyssey-iii-hd-character-set-dlc.json) |
 | Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
+| Etrian Odyssey Untold: The Millennium Girl | 6768 | [6768-etrian-odyssey-untold-the-millennium-girl.json](./6768-etrian-odyssey-untold-the-millennium-girl.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Etsuraku no Gakuen | 280843 | [280843-etsuraku-no-gakuen.json](./280843-etsuraku-no-gakuen.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
