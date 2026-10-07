@@ -5207,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
+| Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
@@ -6116,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungame.io | 56923 | [56923-gungame-io.json](./56923-gungame-io.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungnir | 42882 | [42882-gungnir.json](./42882-gungnir.json) |
+| Gungrave G.O.R.E | 78113 | [78113-gungrave-g-o-r-e.json](./78113-gungrave-g-o-r-e.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
