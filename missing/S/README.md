@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Space | 300335 | [300335-shrouded-space.json](./300335-shrouded-space.json) |
 | Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
+| Shrug Island: The Meeting | 34055 | [34055-shrug-island-the-meeting.json](./34055-shrug-island-the-meeting.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
@@ -5536,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
+| Shut Up and Dig | 34147 | [34147-shut-up-and-dig.json](./34147-shut-up-and-dig.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shut your teeth | 164252 | [164252-shut-your-teeth.json](./164252-shut-your-teeth.json) |
 | Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
@@ -11188,6 +11190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
+| Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
