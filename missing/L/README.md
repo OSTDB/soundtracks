@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Push | 391838 | [391838-lantern-push.json](./391838-lantern-push.json) |
 | Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
+| Lanterns: The Harvest Festival | 45248 | [45248-lanterns-the-harvest-festival.json](./45248-lanterns-the-harvest-festival.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | LanthernStudio Paint | 131333 | [131333-lanthernstudio-paint.json](./131333-lanthernstudio-paint.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
@@ -4799,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
+| Lotus | 45249 | [45249-lotus.json](./45249-lotus.json) |
 | Lotus Bloom | 149724 | [149724-lotus-bloom.json](./149724-lotus-bloom.json) |
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
