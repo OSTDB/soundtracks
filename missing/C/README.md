@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
 | Chance's Lucky Escape 2 | 417426 | [417426-chances-lucky-escape-2.json](./417426-chances-lucky-escape-2.json) |
 | Chandrayaan VR | 149213 | [149213-chandrayaan-vr.json](./149213-chandrayaan-vr.json) |
+| Chaneques | 38834 | [38834-chaneques.json](./38834-chaneques.json) |
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
 | Changa | 196713 | [196713-changa.json](./196713-changa.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
@@ -10091,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
+| Crumble Zone HD | 38866 | [38866-crumble-zone-hd.json](./38866-crumble-zone-hd.json) |
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
