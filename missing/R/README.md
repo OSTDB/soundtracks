@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
+| Raise the Dead | 37021 | [37021-raise-the-dead.json](./37021-raise-the-dead.json) |
 | Raise the Flag | 274677 | [274677-raise-the-flag.json](./274677-raise-the-flag.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raise, Rise & Die | 416734 | [416734-raise-rise-and-die.json](./416734-raise-rise-and-die.json) |
@@ -4387,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
+| Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
 | Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
 | Ripple no Tamago: Apprentice Magician | 203282 | [203282-ripple-no-tamago-apprentice-magician.json](./203282-ripple-no-tamago-apprentice-magician.json) |
