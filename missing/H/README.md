@@ -5778,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi Saga 8: Dokuringo | 377800 | [377800-hoshi-saga-8-dokuringo.json](./377800-hoshi-saga-8-dokuringo.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
+| Hoshigami: Ruining Blue Earth | 45223 | [45223-hoshigami-ruining-blue-earth.json](./45223-hoshigami-ruining-blue-earth.json) |
 | Hoshigari Empusa! | 268646 | [268646-hoshigari-empusa.json](./268646-hoshigari-empusa.json) |
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
 | Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
