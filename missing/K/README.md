@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingslayers | 334935 | [334935-kingslayers.json](./334935-kingslayers.json) |
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
+| KingsRoad | 23620 | [23620-kingsroad.json](./23620-kingsroad.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
 | Kinguin: Become a Streaming Legend | 396493 | [396493-kinguin-become-a-streaming-legend.json](./396493-kinguin-become-a-streaming-legend.json) |
 | Kingyo Chuuihou! 2 Gyopi-chan wo Sagase! | 194939 | [194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json](./194939-kingyo-chuuihou-2-gyopi-chan-wo-sagase.json) |
