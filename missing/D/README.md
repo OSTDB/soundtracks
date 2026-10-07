@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dāi Dāi Dàmàoxiǎn | 368138 | [368138-dai-dai-damaoxian.json](./368138-dai-dai-damaoxian.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai Gyakuten Saiban: Naruhodou Ryuunosuke no Bouken 1&2 - Best Price! | 136955 | [136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json](./136955-dai-gyakuten-saiban-naruhodou-ryuunosuke-no-bouken-1-and-2-best-price.json) |
+| Dai Meiro: Meikyuu no Tatsujin | 48528 | [48528-dai-meiro-meikyuu-no-tatsujin.json](./48528-dai-meiro-meikyuu-no-tatsujin.json) |
 | Dai Senryaku VII: Modern Military Tactics | 69530 | [69530-dai-senryaku-vii-modern-military-tactics.json](./69530-dai-senryaku-vii-modern-military-tactics.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
