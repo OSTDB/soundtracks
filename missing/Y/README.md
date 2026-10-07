@@ -734,6 +734,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youda Safari | 9304 | [9304-youda-safari.json](./9304-youda-safari.json) |
 | Youda Survivor | 9303 | [9303-youda-survivor.json](./9303-youda-survivor.json) |
 | Youda Survivor 2 | 9302 | [9302-youda-survivor-2.json](./9302-youda-survivor-2.json) |
+| Youda Sushi Chef | 9301 | [9301-youda-sushi-chef.json](./9301-youda-sushi-chef.json) |
+| Youda Sushi Chef 2 | 9300 | [9300-youda-sushi-chef-2.json](./9300-youda-sushi-chef-2.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
@@ -1211,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuusha-Ou GaoGaiGar: Blockaded Numbers | 57941 | [57941-yuusha-ou-gaogaigar-blockaded-numbers.json](./57941-yuusha-ou-gaogaigar-blockaded-numbers.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
 | Yuuto Ichika Gets DMCA'd | 195074 | [195074-yuuto-ichika-gets-dmcad.json](./195074-yuuto-ichika-gets-dmcad.json) |
+| Yuuyami Doori Tankentai | 9688 | [9688-yuuyami-doori-tankentai.json](./9688-yuuyami-doori-tankentai.json) |
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
 | Yùxuè Zhànhún | 128327 | [128327-yuxue-zhanhun.json](./128327-yuxue-zhanhun.json) |
