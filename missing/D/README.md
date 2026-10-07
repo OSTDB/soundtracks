@@ -8209,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Heroes: Ultimate Mission | 77253 | [77253-dragon-ball-heroes-ultimate-mission.json](./77253-dragon-ball-heroes-ultimate-mission.json) |
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
 | Dragon Ball Heroes: Ultimate Mission X | 26865 | [26865-dragon-ball-heroes-ultimate-mission-x.json](./26865-dragon-ball-heroes-ultimate-mission-x.json) |
+| Dragon Ball Kai: Ultimate Butouden | 2559 | [2559-dragon-ball-kai-ultimate-butouden.json](./2559-dragon-ball-kai-ultimate-butouden.json) |
 | Dragon Ball Kart 64 | 172711 | [172711-dragon-ball-kart-64.json](./172711-dragon-ball-kart-64.json) |
 | Dragon Ball Legends | 95014 | [95014-dragon-ball-legends.json](./95014-dragon-ball-legends.json) |
 | Dragon Ball Online | 92697 | [92697-dragon-ball-online.json](./92697-dragon-ball-online.json) |
