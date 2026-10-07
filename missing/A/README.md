@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adr1ft | 8654 | [8654-adr1ft.json](./8654-adr1ft.json) |
 | Adrenalin | 65270 | [65270-adrenalin.json](./65270-adrenalin.json) |
+| Adrenalin Misfits | 20170 | [20170-adrenalin-misfits.json](./20170-adrenalin-misfits.json) |
 | Adrenaline | 379561 | [379561-adrenaline.json](./379561-adrenaline.json) |
 | Adrenaline Collection Pack | 312096 | [312096-adrenaline-collection-pack.json](./312096-adrenaline-collection-pack.json) |
 | Adrenaline Dungeon | 240725 | [240725-adrenaline-dungeon.json](./240725-adrenaline-dungeon.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Sharp | 134486 | [134486-alan-sharp.json](./134486-alan-sharp.json) |
+| Alan Wake II: Deluxe Edition | 311975 | [311975-alan-wake-ii-deluxe-edition.json](./311975-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: Night Springs | 273996 | [273996-alan-wake-ii-night-springs.json](./273996-alan-wake-ii-night-springs.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alan Wake Remastered | 167611 | [167611-alan-wake-remastered.json](./167611-alan-wake-remastered.json) |
@@ -4608,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
+| American McGee presents: Bad Day L.A. | 20567 | [20567-american-mcgee-presents-bad-day-l-a.json](./20567-american-mcgee-presents-bad-day-l-a.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
 | American McGee's Alice | 337 | [337-american-mcgees-alice.json](./337-american-mcgees-alice.json) |
 | American McGee's Oz | 93984 | [93984-american-mcgees-oz.json](./93984-american-mcgees-oz.json) |
@@ -9210,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
+| Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
