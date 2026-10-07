@@ -1032,6 +1032,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
 | Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
+| Rance 01: Quest for Hikari | 132708 | [132708-rance-01-quest-for-hikari.json](./132708-rance-01-quest-for-hikari.json) |
+| Rance 02: The Rebellious Maidens | 132709 | [132709-rance-02-the-rebellious-maidens.json](./132709-rance-02-the-rebellious-maidens.json) |
 | Rance 03: The Fall of Leazas | 132710 | [132710-rance-03-the-fall-of-leazas.json](./132710-rance-03-the-fall-of-leazas.json) |
 | Rance 4.1: Okusuri Koujou wo Sukue! | 132638 | [132638-rance-4-1-okusuri-koujou-wo-sukue.json](./132638-rance-4-1-okusuri-koujou-wo-sukue.json) |
 | Rance 4.2: Angel-gumi | 132639 | [132639-rance-4-2-angel-gumi.json](./132639-rance-4-2-angel-gumi.json) |
@@ -6404,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
+| Rosewater | 128935 | [128935-rosewater.json](./128935-rosewater.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
