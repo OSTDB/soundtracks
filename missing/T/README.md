@@ -6844,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
+| The Last Bounty Hunter | 4287 | [4287-the-last-bounty-hunter.json](./4287-the-last-bounty-hunter.json) |
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
@@ -8496,6 +8497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Seasoning Pass (Episode 2-5) | 302467 | [302467-the-pepper-prince-seasoning-pass-episode-2-5.json](./302467-the-pepper-prince-seasoning-pass-episode-2-5.json) |
 | The Peresmeshnik | 136800 | [136800-the-peresmeshnik.json](./136800-the-peresmeshnik.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
+| The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
@@ -17726,6 +17728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
 | Trip World DX | 263533 | [263533-trip-world-dx.json](./263533-trip-world-dx.json) |
 | Trip: Steam Edition | 90608 | [90608-trip-steam-edition.json](./90608-trip-steam-edition.json) |
+| Trip'd | 4299 | [4299-tripd.json](./4299-tripd.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
@@ -18880,6 +18883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted to the Roots | 309529 | [309529-twisted-to-the-roots.json](./309529-twisted-to-the-roots.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
+| Twisted: The Game Show | 4321 | [4321-twisted-the-game-show.json](./4321-twisted-the-game-show.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
 | Twistedland VR | 160132 | [160132-twistedland-vr.json](./160132-twistedland-vr.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
