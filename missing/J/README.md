@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Guy | 223397 | [223397-jetpack-guy.json](./223397-jetpack-guy.json) |
+| Jetpack Joyride | 8978 | [8978-jetpack-joyride.json](./8978-jetpack-joyride.json) |
 | Jetpack Joyride 2 | 208929 | [208929-jetpack-joyride-2.json](./208929-jetpack-joyride-2.json) |
 | Jetpack Joyride Deluxe | 99802 | [99802-jetpack-joyride-deluxe.json](./99802-jetpack-joyride-deluxe.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
