@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
+| Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom: The Suicide Bombing Game | 174111 | [174111-kaboom-the-suicide-bombing-game.json](./174111-kaboom-the-suicide-bombing-game.json) |
