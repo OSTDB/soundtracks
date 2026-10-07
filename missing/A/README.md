@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
+| Angry Birds Friends | 79766 | [79766-angry-birds-friends.json](./79766-angry-birds-friends.json) |
 | Angry Birds Fuji TV | 218530 | [218530-angry-birds-fuji-tv.json](./218530-angry-birds-fuji-tv.json) |
 | Angry Birds Go! | 23412 | [23412-angry-birds-go.json](./23412-angry-birds-go.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
+| Anima: Gate of Memories | 19851 | [19851-anima-gate-of-memories.json](./19851-anima-gate-of-memories.json) |
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
 | ANIMAC | 145243 | [145243-animac.json](./145243-animac.json) |
@@ -9045,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
+| Atelier Iris: Eternal Mana | 19634 | [19634-atelier-iris-eternal-mana.json](./19634-atelier-iris-eternal-mana.json) |
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
 | Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
@@ -9244,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
+| Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
