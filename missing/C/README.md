@@ -5709,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clive 'N' Wrench: Collector's Edition | 222955 | [222955-clive-n-wrench-collectors-edition.json](./222955-clive-n-wrench-collectors-edition.json) |
 | Clive Barker's Jericho | 6939 | [6939-clive-barkers-jericho.json](./6939-clive-barkers-jericho.json) |
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
+| Clive Barker's Undying | 636 | [636-clive-barkers-undying.json](./636-clive-barkers-undying.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
 | Clix | 97990 | [97990-clix.json](./97990-clix.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
+| Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
