@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Coins At School | 32980 | [32980-3-coins-at-school.json](./32980-3-coins-at-school.json) |
+| 3 Count Bout | 6734 | [6734-3-count-bout.json](./6734-3-count-bout.json) |
 | 3 Crystals | 219509 | [219509-3-crystals.json](./219509-3-crystals.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
