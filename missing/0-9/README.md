@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minute Climb | 245786 | [245786-5-minute-climb.json](./245786-5-minute-climb.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
+| 5 Minutes Rage | 34098 | [34098-5-minutes-rage.json](./34098-5-minutes-rage.json) |
 | 5 Minutes until Goodbye | 300970 | [300970-5-minutes-until-goodbye.json](./300970-5-minutes-until-goodbye.json) |
 | 5 Nights At Grek's Hotel | 229199 | [229199-5-nights-at-greks-hotel.json](./229199-5-nights-at-greks-hotel.json) |
 | 5 Nights at Pizzeria: Animatronics Block Shooter | 102609 | [102609-5-nights-at-pizzeria-animatronics-block-shooter.json](./102609-5-nights-at-pizzeria-animatronics-block-shooter.json) |
