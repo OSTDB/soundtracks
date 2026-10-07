@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
+| Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
 | Section Z | 206629 | [206629-section-z.json](./206629-section-z.json) |
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
@@ -4542,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shells MMCCCXXXIV | 385291 | [385291-shells-mmcccxxxiv.json](./385291-shells-mmcccxxxiv.json) |
 | Shells Shooter | 340378 | [340378-shells-shooter.json](./340378-shells-shooter.json) |
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
+| Shellshock 2: Blood Trails | 7186 | [7186-shellshock-2-blood-trails.json](./7186-shellshock-2-blood-trails.json) |
 | ShellShock Live | 17904 | [17904-shellshock-live.json](./17904-shellshock-live.json) |
 | ShellShock Live | 293356 | [293356-shellshock-live.json](./293356-shellshock-live.json) |
 | ShellShot Arena | 249808 | [249808-shellshot-arena.json](./249808-shellshot-arena.json) |
@@ -11476,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
+| Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
@@ -11948,6 +11951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
+| Spectrobes: Beyond the Portals | 5175 | [5175-spectrobes-beyond-the-portals.json](./5175-spectrobes-beyond-the-portals.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
 | Spectromancer: League of Heroes | 164385 | [164385-spectromancer-league-of-heroes.json](./164385-spectromancer-league-of-heroes.json) |
@@ -14121,6 +14125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 12594 | [12594-star-wars-the-empire-strikes-back.json](./12594-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
+| Star Wars: The Empire Strikes Back | 5706 | [5706-star-wars-the-empire-strikes-back.json](./5706-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
@@ -16246,6 +16251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
+| Strife | 5570 | [5570-strife.json](./5570-strife.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
@@ -18546,6 +18552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Jr. | 6622 | [6622-super-monkey-ball-jr.json](./6622-super-monkey-ball-jr.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
+| Super Monkey Ball: Banana Blitz | 5200 | [5200-super-monkey-ball-banana-blitz.json](./5200-super-monkey-ball-banana-blitz.json) |
 | Super Monkey Ball: Banana Blitz HD | 120867 | [120867-super-monkey-ball-banana-blitz-hd.json](./120867-super-monkey-ball-banana-blitz-hd.json) |
 | Super Monkey Ball: Banana Mania | 152355 | [152355-super-monkey-ball-banana-mania.json](./152355-super-monkey-ball-banana-mania.json) |
 | Super Monkey Ball: Banana Mania - Anniversary Edition | 153020 | [153020-super-monkey-ball-banana-mania-anniversary-edition.json](./153020-super-monkey-ball-banana-mania-anniversary-edition.json) |
@@ -19297,6 +19304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 18711 | [18711-superman.json](./18711-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
+| Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman Returns: The Videogame | 6182 | [6182-superman-returns-the-videogame.json](./6182-superman-returns-the-videogame.json) |
 | Superman: Luther no Yabou | 349440 | [349440-superman-luther-no-yabou.json](./349440-superman-luther-no-yabou.json) |
