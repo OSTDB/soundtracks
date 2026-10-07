@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
 | Harvested | 362388 | [362388-harvested.json](./362388-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
+| Harvester | 2900 | [2900-harvester.json](./2900-harvester.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Harvesterado | 186110 | [186110-harvesterado.json](./186110-harvesterado.json) |
@@ -6337,6 +6338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Do You Know Mr. Blue? | 115757 | [115757-how-do-you-know-mr-blue.json](./115757-how-do-you-know-mr-blue.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
+| How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
 | How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
