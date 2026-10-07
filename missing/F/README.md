@@ -5899,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
+| Forza Horizon | 3047 | [3047-forza-horizon.json](./3047-forza-horizon.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
 | Forza Horizon 3 | 19539 | [19539-forza-horizon-3.json](./19539-forza-horizon-3.json) |
