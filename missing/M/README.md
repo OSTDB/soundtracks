@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
 | Mario Party 4 | 2330 | [2330-mario-party-4.json](./2330-mario-party-4.json) |
 | Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
+| Mario Party 5 | 2331 | [2331-mario-party-5.json](./2331-mario-party-5.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
@@ -3829,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
+| Meccha Chameleon | 405028 | [405028-meccha-chameleon.json](./405028-meccha-chameleon.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech | 110274 | [110274-mech.json](./110274-mech.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
@@ -4261,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
+| Mega Man 11 | 76723 | [76723-mega-man-11.json](./76723-mega-man-11.json) |
 | Mega Man 11: Amiibo Edition | 178398 | [178398-mega-man-11-amiibo-edition.json](./178398-mega-man-11-amiibo-edition.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
 | Mega Man 2 | 198812 | [198812-mega-man-2.json](./198812-mega-man-2.json) |
