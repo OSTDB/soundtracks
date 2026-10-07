@@ -5485,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Rage | 137019 | [137019-metal-rage.json](./137019-metal-rage.json) |
 | Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
 | Metal Rampage Uprising | 278541 | [278541-metal-rampage-uprising.json](./278541-metal-rampage-uprising.json) |
+| Metal Reaper Online | 35446 | [35446-metal-reaper-online.json](./35446-metal-reaper-online.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
 | Metal Saga: Hagane no Kisetsu | 66989 | [66989-metal-saga-hagane-no-kisetsu.json](./66989-metal-saga-hagane-no-kisetsu.json) |
@@ -9166,6 +9167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
 | Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
+| Monuments of Mars | 35550 | [35550-monuments-of-mars.json](./35550-monuments-of-mars.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
@@ -11955,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
+| Mysteries & Nightmares: Morgiana | 35445 | [35445-mysteries-and-nightmares-morgiana.json](./35445-mysteries-and-nightmares-morgiana.json) |
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
 | Mysteries of Horus | 54222 | [54222-mysteries-of-horus.json](./54222-mysteries-of-horus.json) |
 | Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
