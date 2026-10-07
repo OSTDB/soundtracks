@@ -9251,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
+| Soldier of Steel | 22134 | [22134-soldier-of-steel.json](./22134-soldier-of-steel.json) |
 | Soldier One | 366379 | [366379-soldier-one.json](./366379-soldier-one.json) |
 | Soldier vs Aliens | 54389 | [54389-soldier-vs-aliens.json](./54389-soldier-vs-aliens.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
@@ -16460,6 +16461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubPixels | 339926 | [339926-subpixels.json](./339926-subpixels.json) |
 | Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
 | SubPrime Delivery | 406231 | [406231-subprime-delivery.json](./406231-subprime-delivery.json) |
+| SubRoc 3D | 22496 | [22496-subroc-3d.json](./22496-subroc-3d.json) |
 | Subroutine | 344992 | [344992-subroutine.json](./344992-subroutine.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
 | Subs | 119600 | [119600-subs.json](./119600-subs.json) |
@@ -18454,6 +18456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Otamatone | 172524 | [172524-super-otamatone.json](./172524-super-otamatone.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Owlboy | 211658 | [211658-super-owlboy.json](./211658-super-owlboy.json) |
+| Super Ox Wars | 22171 | [22171-super-ox-wars.json](./22171-super-ox-wars.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
@@ -18840,6 +18843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
 | Super Stardust Ultra VR | 24982 | [24982-super-stardust-ultra-vr.json](./24982-super-stardust-ultra-vr.json) |
 | Super Starfish | 105423 | [105423-super-starfish.json](./105423-super-starfish.json) |
+| Super SteamPuff | 22382 | [22382-super-steampuff.json](./22382-super-steampuff.json) |
 | Super Steampunk Pinball 2D | 81933 | [81933-super-steampunk-pinball-2d.json](./81933-super-steampunk-pinball-2d.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
@@ -20260,6 +20264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
+| Swordthrust | 22495 | [22495-swordthrust.json](./22495-swordthrust.json) |
 | Swordthrust 5: The Green Plague | 24793 | [24793-swordthrust-5-the-green-plague.json](./24793-swordthrust-5-the-green-plague.json) |
 | Swordthrust 6: The Eternal Curse | 24794 | [24794-swordthrust-6-the-eternal-curse.json](./24794-swordthrust-6-the-eternal-curse.json) |
 | Swordthrust 7: The Hall of Alchemie | 24795 | [24795-swordthrust-7-the-hall-of-alchemie.json](./24795-swordthrust-7-the-hall-of-alchemie.json) |
