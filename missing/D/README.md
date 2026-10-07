@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
+| Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
+| Delete | 81918 | [81918-delete.json](./81918-delete.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Deleveled | 116227 | [116227-deleveled.json](./116227-deleveled.json) |
@@ -9389,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
 | Drive 21 | 157501 | [157501-drive-21.json](./157501-drive-21.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
+| Drive Ahead! | 88869 | [88869-drive-ahead.json](./88869-drive-ahead.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive and Jump | 175243 | [175243-drive-and-jump.json](./175243-drive-and-jump.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
@@ -10863,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
 | Dynos & Ghosts | 143563 | [143563-dynos-and-ghosts.json](./143563-dynos-and-ghosts.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
+| Dyo | 83936 | [83936-dyo.json](./83936-dyo.json) |
 | Dyping Escape | 339959 | [339959-dyping-escape.json](./339959-dyping-escape.json) |
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
