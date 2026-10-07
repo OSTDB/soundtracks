@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
 | No More Heroes 1 & 2 | 175207 | [175207-no-more-heroes-1-and-2.json](./175207-no-more-heroes-1-and-2.json) |
 | No More Heroes 1-3 Bundle | 384792 | [384792-no-more-heroes-1-3-bundle.json](./384792-no-more-heroes-1-3-bundle.json) |
+| No More Heroes 2: Desperate Struggle | 2273 | [2273-no-more-heroes-2-desperate-struggle.json](./2273-no-more-heroes-2-desperate-struggle.json) |
 | No More Heroes III | 119387 | [119387-no-more-heroes-iii.json](./119387-no-more-heroes-iii.json) |
 | No More Heroes III: Day 1 Edition | 198394 | [198394-no-more-heroes-iii-day-1-edition.json](./198394-no-more-heroes-iii-day-1-edition.json) |
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
@@ -4188,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
+| NTE: Neverness to Everness | 308535 | [308535-nte-neverness-to-everness.json](./308535-nte-neverness-to-everness.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
 | Nth Zone | 354595 | [354595-nth-zone.json](./354595-nth-zone.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
