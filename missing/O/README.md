@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
 | Ocarina of Time: Spaceworld '97 Experience | 182313 | [182313-ocarina-of-time-spaceworld-97-experience.json](./182313-ocarina-of-time-spaceworld-97-experience.json) |
 | Ocaso | 278612 | [278612-ocaso.json](./278612-ocaso.json) |
+| Occhio | 31740 | [31740-occhio.json](./31740-occhio.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
@@ -1797,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
+| Onraid | 31752 | [31752-onraid.json](./31752-onraid.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
@@ -3020,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
+| Outrageous Grounds: The Maze | 31739 | [31739-outrageous-grounds-the-maze.json](./31739-outrageous-grounds-the-maze.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
 | Outrealm | 81641 | [81641-outrealm.json](./81641-outrealm.json) |
 | Outrider Mako | 119655 | [119655-outrider-mako.json](./119655-outrider-mako.json) |
