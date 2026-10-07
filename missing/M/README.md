@@ -6407,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
 | Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
+| Midtown Madness 3 | 5929 | [5929-midtown-madness-3.json](./5929-midtown-madness-3.json) |
 | Midtris | 341611 | [341611-midtris.json](./341611-midtris.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway Accident | 296975 | [296975-midway-accident.json](./296975-midway-accident.json) |
@@ -8338,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
 | Moe's Body Shop | 323790 | [323790-moes-body-shop.json](./323790-moes-body-shop.json) |
+| Moebius: Empire Rising | 5540 | [5540-moebius-empire-rising.json](./5540-moebius-empire-rising.json) |
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
@@ -11246,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 7091 | [7091-mx-vs-atv-reflex.json](./7091-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Untamed | 249272 | [249272-mx-vs-atv-untamed.json](./249272-mx-vs-atv-untamed.json) |
+| MX vs. ATV: Untamed | 5028 | [5028-mx-vs-atv-untamed.json](./5028-mx-vs-atv-untamed.json) |
 | MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
