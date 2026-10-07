@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Games: Midnight Madness | 206204 | [206204-vegas-games-midnight-madness.json](./206204-vegas-games-midnight-madness.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
+| Vegas Party | 51058 | [51058-vegas-party.json](./51058-vegas-party.json) |
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
 | Vegas Royal Jackpot CSS | 232370 | [232370-vegas-royal-jackpot-css.json](./232370-vegas-royal-jackpot-css.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
