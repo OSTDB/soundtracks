@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talion | 109508 | [109508-talion.json](./109508-talion.json) |
+| Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
