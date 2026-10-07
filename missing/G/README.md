@@ -4562,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
 | Grapple Car | 346704 | [346704-grapple-car.json](./346704-grapple-car.json) |
 | Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
+| Grapple Dog | 144028 | [144028-grapple-dog.json](./144028-grapple-dog.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
