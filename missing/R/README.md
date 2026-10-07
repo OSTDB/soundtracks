@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
+| Racter | 26406 | [26406-racter.json](./26406-racter.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
 | Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
+| Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
 | Radar | 282669 | [282669-radar.json](./282669-radar.json) |
@@ -4934,7 +4936,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
 | Robin of Loxley the Legend of Sherwood | 74517 | [74517-robin-of-loxley-the-legend-of-sherwood.json](./74517-robin-of-loxley-the-legend-of-sherwood.json) |
+| Robin of Sherlock | 26448 | [26448-robin-of-sherlock.json](./26448-robin-of-sherlock.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
+| Robin of the Wood | 26434 | [26434-robin-of-the-wood.json](./26434-robin-of-the-wood.json) |
 | Robin to the Rescue | 60058 | [60058-robin-to-the-rescue.json](./60058-robin-to-the-rescue.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
@@ -5430,6 +5434,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockjack | 156538 | [156538-rockjack.json](./156538-rockjack.json) |
 | Rockland VR | 75031 | [75031-rockland-vr.json](./75031-rockland-vr.json) |
 | Rocklings | 294974 | [294974-rocklings.json](./294974-rocklings.json) |
+| Rockman | 26445 | [26445-rockman.json](./26445-rockman.json) |
+| Rockman | 26446 | [26446-rockman.json](./26446-rockman.json) |
 | Rockman & Forte FC | 320354 | [320354-rockman-and-forte-fc.json](./320354-rockman-and-forte-fc.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
@@ -5947,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
 | Rollo Boi | 370260 | [370260-rollo-boi.json](./370260-rollo-boi.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
+| RollocoBall | 26598 | [26598-rollocoball.json](./26598-rollocoball.json) |
 | RollOn | 194388 | [194388-rollon.json](./194388-rollon.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
 | RollOver | 72302 | [72302-rollover.json](./72302-rollover.json) |
