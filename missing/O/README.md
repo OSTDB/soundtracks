@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oreblaze | 338732 | [338732-oreblaze.json](./338732-oreblaze.json) |
 | Orebody: Binder's Tale | 215028 | [215028-orebody-binders-tale.json](./215028-orebody-binders-tale.json) |
 | Orebound | 316787 | [316787-orebound.json](./316787-orebound.json) |
+| Oregon Trail II | 47099 | [47099-oregon-trail-ii.json](./47099-oregon-trail-ii.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
