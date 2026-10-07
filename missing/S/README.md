@@ -6855,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
+| Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
@@ -8745,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
+| Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
@@ -12953,6 +12955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
 | Spryward | 202744 | [202744-spryward.json](./202744-spryward.json) |
+| Spud Cricket VR | 29698 | [29698-spud-cricket-vr.json](./29698-spud-cricket-vr.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
 | Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
@@ -15133,6 +15136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
+| Stickmageddon | 29721 | [29721-stickmageddon.json](./29721-stickmageddon.json) |
 | Stickman - Killer of Apples | 74235 | [74235-stickman-killer-of-apples.json](./74235-stickman-killer-of-apples.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
@@ -17469,6 +17473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Crystal Hunter | 127722 | [127722-super-crystal-hunter.json](./127722-super-crystal-hunter.json) |
 | Super Cube Smash | 32741 | [32741-super-cube-smash.json](./32741-super-cube-smash.json) |
+| Super Cuber | 29716 | [29716-super-cuber.json](./29716-super-cuber.json) |
 | Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Cup Finals | 40428 | [40428-super-cup-finals.json](./40428-super-cup-finals.json) |
 | Super Cup Football | 142368 | [142368-super-cup-football.json](./142368-super-cup-football.json) |
@@ -20326,6 +20331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synced: Season 1 - Lambent Dawn Trailer | 365090 | [365090-synced-season-1-lambent-dawn-trailer.json](./365090-synced-season-1-lambent-dawn-trailer.json) |
 | Synced: Winterfest Pack | 289461 | [289461-synced-winterfest-pack.json](./289461-synced-winterfest-pack.json) |
 | Syncers | 368473 | [368473-syncers.json](./368473-syncers.json) |
+| Synch | 29674 | [29674-synch.json](./29674-synch.json) |
 | Synchro | 296994 | [296994-synchro.json](./296994-synchro.json) |
 | Synchro Hedgehogs Bundle | 218466 | [218466-synchro-hedgehogs-bundle.json](./218466-synchro-hedgehogs-bundle.json) |
 | Synchrobeatings | 333707 | [333707-synchrobeatings.json](./333707-synchrobeatings.json) |
