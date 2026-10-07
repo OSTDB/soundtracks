@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 3 | 362460 | [362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json](./362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json) |
 | Magic 2014: Duels of the Planeswalkers - Expansion | 362457 | [362457-magic-2014-duels-of-the-planeswalkers-expansion.json](./362457-magic-2014-duels-of-the-planeswalkers-expansion.json) |
 | Magic Academy | 311117 | [311117-magic-academy.json](./311117-magic-academy.json) |
+| Magic Academy 2 | 19201 | [19201-magic-academy-2.json](./19201-magic-academy-2.json) |
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
@@ -1329,8 +1330,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
 | Majesty 2: Battles of Ardania | 19198 | [19198-majesty-2-battles-of-ardania.json](./19198-majesty-2-battles-of-ardania.json) |
 | Majesty 2: Kingmaker | 19199 | [19199-majesty-2-kingmaker.json](./19199-majesty-2-kingmaker.json) |
+| Majesty 2: Monster Kingdom | 19197 | [19197-majesty-2-monster-kingdom.json](./19197-majesty-2-monster-kingdom.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
+| Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
 | Maji de Watashi ni Koishinasai! A-1 | 112291 | [112291-maji-de-watashi-ni-koishinasai-a-1.json](./112291-maji-de-watashi-ni-koishinasai-a-1.json) |
 | Maji de Watashi ni Koishinasai! A-2 | 112292 | [112292-maji-de-watashi-ni-koishinasai-a-2.json](./112292-maji-de-watashi-ni-koishinasai-a-2.json) |
@@ -3924,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
+| Mechrunner | 19246 | [19246-mechrunner.json](./19246-mechrunner.json) |
 | Mechs V Kaijus 2 | 400402 | [400402-mechs-v-kaijus-2.json](./400402-mechs-v-kaijus-2.json) |
 | MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
 | MechShell | 373147 | [373147-mechshell.json](./373147-mechshell.json) |
@@ -3933,6 +3937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
+| MechWarrior 3: Pirate's Moon | 19191 | [19191-mechwarrior-3-pirates-moon.json](./19191-mechwarrior-3-pirates-moon.json) |
+| MechWarrior 4: Black Knight | 19183 | [19183-mechwarrior-4-black-knight.json](./19183-mechwarrior-4-black-knight.json) |
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 4: Inner Sphere 'Mech Pak | 71752 | [71752-mechwarrior-4-inner-sphere-mech-pak.json](./71752-mechwarrior-4-inner-sphere-mech-pak.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
@@ -3967,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: War Emu Legendary Mech Pack | 262584 | [262584-mechwarrior-online-war-emu-legendary-mech-pack.json](./262584-mechwarrior-online-war-emu-legendary-mech-pack.json) |
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
+| MechWarrior: Tactical Command | 19196 | [19196-mechwarrior-tactical-command.json](./19196-mechwarrior-tactical-command.json) |
 | Medabots 4 | 55141 | [55141-medabots-4.json](./55141-medabots-4.json) |
 | Medabots 5: Susutake Mura no Tenkousei | 55142 | [55142-medabots-5-susutake-mura-no-tenkousei.json](./55142-medabots-5-susutake-mura-no-tenkousei.json) |
 | Medabots AX: Metabee Version | 49415 | [49415-medabots-ax-metabee-version.json](./49415-medabots-ax-metabee-version.json) |
@@ -5187,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Colony | 38835 | [38835-merchant-colony.json](./38835-merchant-colony.json) |
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
+| Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
