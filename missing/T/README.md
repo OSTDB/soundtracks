@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
+| The Colonists | 75065 | [75065-the-colonists.json](./75065-the-colonists.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
@@ -10019,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: Limited Edition | 202217 | [202217-the-surge-2-limited-edition.json](./202217-the-surge-2-limited-edition.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge 2: Public Enemy Weapon Pack | 223532 | [223532-the-surge-2-public-enemy-weapon-pack.json](./223532-the-surge-2-public-enemy-weapon-pack.json) |
+| The Surge: A Walk in the Park | 75285 | [75285-the-surge-a-walk-in-the-park.json](./75285-the-surge-a-walk-in-the-park.json) |
 | The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
@@ -11003,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
 | The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
+| The White Chamber | 79408 | [79408-the-white-chamber.json](./79408-the-white-chamber.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
 | The White Diner | 117575 | [117575-the-white-diner.json](./117575-the-white-diner.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
@@ -14476,6 +14479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell 3D | 47626 | [47626-tom-clancys-splinter-cell-3d.json](./47626-tom-clancys-splinter-cell-3d.json) |
 | Tom Clancy's Splinter Cell Collection | 53821 | [53821-tom-clancys-splinter-cell-collection.json](./53821-tom-clancys-splinter-cell-collection.json) |
 | Tom Clancy's Splinter Cell HD | 100003 | [100003-tom-clancys-splinter-cell-hd.json](./100003-tom-clancys-splinter-cell-hd.json) |
+| Tom Clancy's Splinter Cell Trilogy HD | 20573 | [20573-tom-clancys-splinter-cell-trilogy-hd.json](./20573-tom-clancys-splinter-cell-trilogy-hd.json) |
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Digital Deluxe Edition | 53944 | [53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json](./53944-tom-clancys-splinter-cell-blacklist-digital-deluxe-edition.json) |
 | Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
@@ -17827,6 +17831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
+| Trilby's Notes | 72443 | [72443-trilbys-notes.json](./72443-trilbys-notes.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
@@ -18491,6 +18496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
+| TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
