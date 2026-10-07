@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 8: Anniversary Collector's Edition | 45182 | [45182-mega-man-8-anniversary-collectors-edition.json](./45182-mega-man-8-anniversary-collectors-edition.json) |
 | Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
+| Mega Man Battle & Chase | 1731 | [1731-mega-man-battle-and-chase.json](./1731-mega-man-battle-and-chase.json) |
 | Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
 | Mega Man Battle Network | 1755 | [1755-mega-man-battle-network.json](./1755-mega-man-battle-network.json) |
 | Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
