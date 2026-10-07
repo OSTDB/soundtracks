@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
 | Neo City Express | 297542 | [297542-neo-city-express.json](./297542-neo-city-express.json) |
+| Neo Contra | 20208 | [20208-neo-contra.json](./20208-neo-contra.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
 | Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
 | Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
+| North | 20393 | [20393-north.json](./20393-north.json) |
 | North & South | 1874 | [1874-north-and-south.json](./1874-north-and-south.json) |
 | North American Hunting Extravaganza | 51079 | [51079-north-american-hunting-extravaganza.json](./51079-north-american-hunting-extravaganza.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
