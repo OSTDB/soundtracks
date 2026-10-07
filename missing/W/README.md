@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | When I Was Young | 117549 | [117549-when-i-was-young.json](./117549-when-i-was-young.json) |
 | When I’m Not Drawing | 392405 | [392405-when-i-m-not-drawing.json](./392405-when-i-m-not-drawing.json) |
+| When In Rome | 34112 | [34112-when-in-rome.json](./34112-when-in-rome.json) |
 | When in Rome 1: Accounting for Taste | 216340 | [216340-when-in-rome-1-accounting-for-taste.json](./216340-when-in-rome-1-accounting-for-taste.json) |
 | When It Hits the Fan | 56593 | [56593-when-it-hits-the-fan.json](./56593-when-it-hits-the-fan.json) |
 | When It Rains | 397045 | [397045-when-it-rains.json](./397045-when-it-rains.json) |
