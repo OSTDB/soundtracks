@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
+| Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
 | Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
+| Paper Sorcerer | 9205 | [9205-paper-sorcerer.json](./9205-paper-sorcerer.json) |
 | Paper Sounds | 99382 | [99382-paper-sounds.json](./99382-paper-sounds.json) |
 | Paper Tanks | 127810 | [127810-paper-tanks.json](./127810-paper-tanks.json) |
 | Paper Toss | 259632 | [259632-paper-toss.json](./259632-paper-toss.json) |
@@ -6173,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
 | Pokémon Café Mix | 135233 | [135233-pokemon-cafe-mix.json](./135233-pokemon-cafe-mix.json) |
 | Pokémon Card Game: Asobikata DS | 131316 | [131316-pokemon-card-game-asobikata-ds.json](./131316-pokemon-card-game-asobikata-ds.json) |
+| Pokémon Card GB2: Great Rocket-Dan Sanjou! | 11720 | [11720-pokemon-card-gb2-great-rocket-dan-sanjou.json](./11720-pokemon-card-gb2-great-rocket-dan-sanjou.json) |
 | Pokémon Castaway | 260097 | [260097-pokemon-castaway.json](./260097-pokemon-castaway.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
