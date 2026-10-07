@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
 | Vex 4 | 133770 | [133770-vex-4.json](./133770-vex-4.json) |
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
+| Vex Blocks | 38872 | [38872-vex-blocks.json](./38872-vex-blocks.json) |
 | Vex Clock | 216857 | [216857-vex-clock.json](./216857-vex-clock.json) |
 | Vex Mage | 360778 | [360778-vex-mage.json](./360778-vex-mage.json) |
 | Vex: World 4 Unlock | 170883 | [170883-vex-world-4-unlock.json](./170883-vex-world-4-unlock.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Defenders | 348906 | [348906-village-defenders.json](./348906-village-defenders.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
+| Village Life: Love & Babies | 38885 | [38885-village-life-love-and-babies.json](./38885-village-life-love-and-babies.json) |
 | Village Mayhem | 179550 | [179550-village-mayhem.json](./179550-village-mayhem.json) |
 | Village Meow | 327172 | [327172-village-meow.json](./327172-village-meow.json) |
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
@@ -1678,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vital Bracelet Arena | 270627 | [270627-vital-bracelet-arena.json](./270627-vital-bracelet-arena.json) |
 | Vital Charge | 400312 | [400312-vital-charge.json](./400312-vital-charge.json) |
 | Vital Force | 62188 | [62188-vital-force.json](./62188-vital-force.json) |
+| Vital Light | 38838 | [38838-vital-light.json](./38838-vital-light.json) |
 | Vital Signs: Emergency Department | 164261 | [164261-vital-signs-emergency-department.json](./164261-vital-signs-emergency-department.json) |
 | Vital Signs: Emergency Department - Infections Package | 225107 | [225107-vital-signs-emergency-department-infections-package.json](./225107-vital-signs-emergency-department-infections-package.json) |
 | Vital Signs: Emergency Department - Injuries Package #1 | 225105 | [225105-vital-signs-emergency-department-injuries-package-1.json](./225105-vital-signs-emergency-department-injuries-package-1.json) |
