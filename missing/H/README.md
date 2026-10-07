@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack the Core | 108367 | [108367-hack-the-core.json](./108367-hack-the-core.json) |
+| Hack the FBI | 29702 | [29702-hack-the-fbi.json](./29702-hack-the-fbi.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
 | Hack the System | 236355 | [236355-hack-the-system.json](./236355-hack-the-system.json) |
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
@@ -1798,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healthy Hospital | 233508 | [233508-healthy-hospital.json](./233508-healthy-hospital.json) |
 | Healthy Living | 144853 | [144853-healthy-living.json](./144853-healthy-living.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
+| HeapVR | 29664 | [29664-heapvr.json](./29664-heapvr.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
