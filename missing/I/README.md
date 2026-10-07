@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulsive Force | 187365 | [187365-impulsive-force.json](./187365-impulsive-force.json) |
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
 | IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
+| Imscared | 33822 | [33822-imscared.json](./33822-imscared.json) |
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | IMVU | 98279 | [98279-imvu.json](./98279-imvu.json) |
@@ -2512,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
+| InnerSpace | 35844 | [35844-innerspace.json](./35844-innerspace.json) |
 | Inniku Dorei no Shu | 97518 | [97518-inniku-dorei-no-shu.json](./97518-inniku-dorei-no-shu.json) |
 | Innkeeper VR | 320917 | [320917-innkeeper-vr.json](./320917-innkeeper-vr.json) |
 | Innkeeper's Basement | 243275 | [243275-innkeepers-basement.json](./243275-innkeepers-basement.json) |
