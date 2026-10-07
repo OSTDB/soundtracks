@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
 | Wetrix GB | 50068 | [50068-wetrix-gb.json](./50068-wetrix-gb.json) |
+| Wetrix+ | 45847 | [45847-wetrix.json](./45847-wetrix.json) |
 | Wetten Dass..? | 122283 | [122283-wetten-dass.json](./122283-wetten-dass.json) |
 | Wetter | 371477 | [371477-wetter.json](./371477-wetter.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
 | Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack 'Em Smack 'Em Byrons | 306459 | [306459-whack-em-smack-em-byrons.json](./306459-whack-em-smack-em-byrons.json) |
+| Whack A Bubble | 45900 | [45900-whack-a-bubble.json](./45900-whack-a-bubble.json) |
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack A Tako | 202179 | [202179-whack-a-tako.json](./202179-whack-a-tako.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
@@ -2781,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
+| Who Wants to Beat Up a Millionaire | 45848 | [45848-who-wants-to-beat-up-a-millionaire.json](./45848-who-wants-to-beat-up-a-millionaire.json) |
 | Who Wants to Strip this Babe? Streamer Girl | 248924 | [248924-who-wants-to-strip-this-babe-streamer-girl.json](./248924-who-wants-to-strip-this-babe-streamer-girl.json) |
 | Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
@@ -4124,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang Japanese | 360710 | [360710-wonderlang-japanese.json](./360710-wonderlang-japanese.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
+| Wondermega Collection | 45870 | [45870-wondermega-collection.json](./45870-wondermega-collection.json) |
 | Wonderputt | 64053 | [64053-wonderputt.json](./64053-wonderputt.json) |
 | Wonderputt Forever | 187829 | [187829-wonderputt-forever.json](./187829-wonderputt-forever.json) |
 | Wonders of the Deep | 369214 | [369214-wonders-of-the-deep.json](./369214-wonders-of-the-deep.json) |
@@ -4419,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordmaster | 92670 | [92670-wordmaster.json](./92670-wordmaster.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
+| Wordplay | 45899 | [45899-wordplay.json](./45899-wordplay.json) |
 | WordPlus: Unique Word Game | 232063 | [232063-wordplus-unique-word-game.json](./232063-wordplus-unique-word-game.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words & Magic | 241538 | [241538-words-and-magic.json](./241538-words-and-magic.json) |
@@ -4804,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball | 46546 | [46546-world-series-baseball.json](./46546-world-series-baseball.json) |
 | World Series Baseball | 81662 | [81662-world-series-baseball.json](./81662-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
+| World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
 | World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
