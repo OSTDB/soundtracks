@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
+| Sandstorm | 30707 | [30707-sandstorm.json](./30707-sandstorm.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
 | Sandstorm! | 260866 | [260866-sandstorm.json](./260866-sandstorm.json) |
 | SandStrike.io | 240287 | [240287-sandstrike-io.json](./240287-sandstrike-io.json) |
@@ -2295,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
+| Sea of Lies: Mutiny of the Heart - Collector's Edition | 30678 | [30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json](./30678-sea-of-lies-mutiny-of-the-heart-collectors-edition.json) |
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
@@ -8567,6 +8569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
+| SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
@@ -10603,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
 | Souls Survivors | 272930 | [272930-souls-survivors.json](./272930-souls-survivors.json) |
 | Souls Unguarded | 129686 | [129686-souls-unguarded.json](./129686-souls-unguarded.json) |
+| SoulSaverOnline | 30733 | [30733-soulsaveronline.json](./30733-soulsaveronline.json) |
 | Soulscape | 120764 | [120764-soulscape.json](./120764-soulscape.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
@@ -13513,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
+| Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
 | Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
@@ -14126,6 +14131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
+| Stargazer Christmas | 30685 | [30685-stargazer-christmas.json](./30685-stargazer-christmas.json) |
 | Stargazer program | 99070 | [99070-stargazer-program.json](./99070-stargazer-program.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargazing | 261426 | [261426-stargazing.json](./261426-stargazing.json) |
