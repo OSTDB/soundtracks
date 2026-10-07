@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
 | SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
 | SkyDungeon Shinobigaeshi Peak | 401709 | [401709-skydungeon-shinobigaeshi-peak.json](./401709-skydungeon-shinobigaeshi-peak.json) |
+| Skye | 130902 | [130902-skye.json](./130902-skye.json) |
 | Skye | 408039 | [408039-skye.json](./408039-skye.json) |
 | Skye in the Sky | 359416 | [359416-skye-in-the-sky.json](./359416-skye-in-the-sky.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
@@ -8461,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
+| Snake III | 133870 | [133870-snake-iii.json](./133870-snake-iii.json) |
 | Snake in the Cube | 158070 | [158070-snake-in-the-cube.json](./158070-snake-in-the-cube.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
 | Snake It | 94325 | [94325-snake-it.json](./94325-snake-it.json) |
