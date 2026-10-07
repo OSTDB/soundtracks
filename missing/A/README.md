@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
+| A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Mansão | 342221 | [342221-a-mansao.json](./342221-a-mansao.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
+| Arktika.1 | 24833 | [24833-arktika-1.json](./24833-arktika-1.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
