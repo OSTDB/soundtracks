@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Universe 3 | 6955 | [6955-dance-dance-revolution-universe-3.json](./6955-dance-dance-revolution-universe-3.json) |
 | Dance Dance Revolution USA | 66659 | [66659-dance-dance-revolution-usa.json](./66659-dance-dance-revolution-usa.json) |
 | Dance Dance Revolution World | 305995 | [305995-dance-dance-revolution-world.json](./305995-dance-dance-revolution-world.json) |
+| Dance Dance Revolution X2 | 43218 | [43218-dance-dance-revolution-x2.json](./43218-dance-dance-revolution-x2.json) |
 | Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
@@ -4551,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik 02: La Gemma di Salomone | 138713 | [138713-diabolik-02-la-gemma-di-salomone.json](./138713-diabolik-02-la-gemma-di-salomone.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
+| Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
 | Diabotical Rogue | 304285 | [304285-diabotical-rogue.json](./304285-diabotical-rogue.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
@@ -5010,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
+| Digital Hitz Factory | 43217 | [43217-digital-hitz-factory.json](./43217-digital-hitz-factory.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
@@ -7418,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
+| Doraemon: Meikyuu Daisakusen | 43194 | [43194-doraemon-meikyuu-daisakusen.json](./43194-doraemon-meikyuu-daisakusen.json) |
 | Doraemon: Midori no Wakusei Doki-doki Daikyuushutsu! | 49265 | [49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json](./49265-doraemon-midori-no-wakusei-doki-doki-daikyuushutsu.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
 | Doraemon: Nobita no Daimakyou | 349416 | [349416-doraemon-nobita-no-daimakyou.json](./349416-doraemon-nobita-no-daimakyou.json) |
@@ -7947,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag n Merge Numbers | 127788 | [127788-drag-n-merge-numbers.json](./127788-drag-n-merge-numbers.json) |
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
+| Drag Racer USA | 43229 | [43229-drag-racer-usa.json](./43229-drag-racer-usa.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
