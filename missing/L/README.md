@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
+| L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
 | Loa: Me and Angel | 81643 | [81643-loa-me-and-angel.json](./81643-loa-me-and-angel.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
+| Load Runner 4 | 39511 | [39511-load-runner-4.json](./39511-load-runner-4.json) |
 | Load Slinging VR Training | 224599 | [224599-load-slinging-vr-training.json](./224599-load-slinging-vr-training.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
 | Loader | 96679 | [96679-loader.json](./96679-loader.json) |
