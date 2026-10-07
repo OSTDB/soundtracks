@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
 | V-Dash Dungeon | 406230 | [406230-v-dash-dungeon.json](./406230-v-dash-dungeon.json) |
+| V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
 | V-Katsu | 106135 | [106135-v-katsu.json](./106135-v-katsu.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
@@ -597,7 +598,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
+| Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
+| Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
@@ -628,6 +631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
 | VectorMan | 16033 | [16033-vectorman.json](./16033-vectorman.json) |
 | Vectors | 172042 | [172042-vectors.json](./172042-vectors.json) |
+| Vectrace | 46507 | [46507-vectrace.json](./46507-vectrace.json) |
+| Vectrexagon | 46518 | [46518-vectrexagon.json](./46518-vectrexagon.json) |
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
@@ -956,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
+| Verzerk | 46508 | [46508-verzerk.json](./46508-verzerk.json) |
 | Vespa's Test | 211655 | [211655-vespas-test.json](./211655-vespas-test.json) |
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper | 377291 | [377291-vesper.json](./377291-vesper.json) |
