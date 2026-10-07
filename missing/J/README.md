@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance 3 | 72767 | [72767-jagged-alliance-3.json](./72767-jagged-alliance-3.json) |
 | Jagged Alliance 3: Tactical Edition | 249259 | [249259-jagged-alliance-3-tactical-edition.json](./249259-jagged-alliance-3-tactical-edition.json) |
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
+| Jagged Alliance Online | 23554 | [23554-jagged-alliance-online.json](./23554-jagged-alliance-online.json) |
 | Jagged Alliance Online: Reloaded | 36036 | [36036-jagged-alliance-online-reloaded.json](./36036-jagged-alliance-online-reloaded.json) |
 | Jagged Alliance Online: Reloaded - Echo | 168753 | [168753-jagged-alliance-online-reloaded-echo.json](./168753-jagged-alliance-online-reloaded-echo.json) |
 | Jagged Alliance Online: Reloaded - Ivan | 168751 | [168751-jagged-alliance-online-reloaded-ivan.json](./168751-jagged-alliance-online-reloaded-ivan.json) |
