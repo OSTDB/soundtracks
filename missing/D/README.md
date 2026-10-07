@@ -5667,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismal Signal | 271320 | [271320-dismal-signal.json](./271320-dismal-signal.json) |
 | Dismantle: Construct Carnage | 114882 | [114882-dismantle-construct-carnage.json](./114882-dismantle-construct-carnage.json) |
 | Dismantled Director's Cut | 201695 | [201695-dismantled-directors-cut.json](./201695-dismantled-directors-cut.json) |
+| Dismantlement: Radio | 25030 | [25030-dismantlement-radio.json](./25030-dismantlement-radio.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
 | Dismember Mind 2 | 177300 | [177300-dismember-mind-2.json](./177300-dismember-mind-2.json) |
 | DisMonster - Catch the shadow! | 103673 | [103673-dismonster-catch-the-shadow.json](./103673-dismonster-catch-the-shadow.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: DLC 5 - Nen Master | 288994 | [288994-dnf-duel-dlc-5-nen-master.json](./288994-dnf-duel-dlc-5-nen-master.json) |
 | DNF Duel: Season Pass | 255679 | [255679-dnf-duel-season-pass.json](./255679-dnf-duel-season-pass.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
+| Dnieper River Line | 24809 | [24809-dnieper-river-line.json](./24809-dnieper-river-line.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
@@ -8734,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
 | Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
+| Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
@@ -9978,6 +9981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
+| Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
@@ -10687,6 +10691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
 | Dynasty Warriors: Origins - Visions of Four Heroes | 377234 | [377234-dynasty-warriors-origins-visions-of-four-heroes.json](./377234-dynasty-warriors-origins-visions-of-four-heroes.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
+| Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
