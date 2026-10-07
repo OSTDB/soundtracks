@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoriana - Steampunk Text Adventure | 123965 | [123965-victoriana-steampunk-text-adventure.json](./123965-victoriana-steampunk-text-adventure.json) |
 | Victorious Boxers: Ippo's Road to Glory | 43527 | [43527-victorious-boxers-ippos-road-to-glory.json](./43527-victorious-boxers-ippos-road-to-glory.json) |
 | Victorious Boxers: Revolution | 5256 | [5256-victorious-boxers-revolution.json](./5256-victorious-boxers-revolution.json) |
+| Victorious Hollywood Arts Debut | 9750 | [9750-victorious-hollywood-arts-debut.json](./9750-victorious-hollywood-arts-debut.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victorious: Taking the Lead | 25165 | [25165-victorious-taking-the-lead.json](./25165-victorious-taking-the-lead.json) |
 | Victorious: Time to Shine | 9751 | [9751-victorious-time-to-shine.json](./9751-victorious-time-to-shine.json) |
