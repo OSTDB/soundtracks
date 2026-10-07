@@ -1034,6 +1034,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-2-1, Rattle Battle! | 51056 | [51056-3-2-1-rattle-battle.json](./51056-3-2-1-rattle-battle.json) |
 | 3-D Docking Mission | 342821 | [342821-3-d-docking-mission.json](./342821-3-d-docking-mission.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
+| 3-D Genesis | 40665 | [40665-3-d-genesis.json](./40665-3-d-genesis.json) |
+| 3-D Havoc | 40664 | [40664-3-d-havoc.json](./40664-3-d-havoc.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
@@ -1155,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
 | 3D Genesis | 268558 | [268558-3d-genesis.json](./268558-3d-genesis.json) |
+| 3D Ghost Attack! | 40666 | [40666-3d-ghost-attack.json](./40666-3d-ghost-attack.json) |
 | 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
