@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 279055 | [279055-r-type.json](./279055-r-type.json) |
 | R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
+| R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
@@ -4245,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rilakkuma Farm | 284426 | [284426-rilakkuma-farm.json](./284426-rilakkuma-farm.json) |
 | Rilakkuma Loop | 283825 | [283825-rilakkuma-loop.json](./283825-rilakkuma-loop.json) |
+| Rilakkuma na Mainichi | 49796 | [49796-rilakkuma-na-mainichi.json](./49796-rilakkuma-na-mainichi.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilakkuma Rhythm: Mattari Kibun de Da Run Run Run | 284429 | [284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json](./284429-rilakkuma-rhythm-mattari-kibun-de-da-run-run-run.json) |
 | Rilakkuma: Ojama Shitemasu 2-shuukan | 70593 | [70593-rilakkuma-ojama-shitemasu-2-shuukan.json](./70593-rilakkuma-ojama-shitemasu-2-shuukan.json) |
@@ -6518,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tsukuuru 2 Taiou: Organic Stone | 150582 | [150582-rpg-tsukuuru-2-taiou-organic-stone.json](./150582-rpg-tsukuuru-2-taiou-organic-stone.json) |
 | RPG Tsukuuru 2 Taiou: Organic Stone Honpen | 151167 | [151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json](./151167-rpg-tsukuuru-2-taiou-organic-stone-honpen.json) |
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
+| RPG Tsukuuru Advance | 49795 | [49795-rpg-tsukuuru-advance.json](./49795-rpg-tsukuuru-advance.json) |
 | RPG Tycoon: Supply & Demand | 164507 | [164507-rpg-tycoon-supply-and-demand.json](./164507-rpg-tycoon-supply-and-demand.json) |
 | RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPG Workshop Max 2 | 262444 | [262444-rpg-workshop-max-2.json](./262444-rpg-workshop-max-2.json) |
