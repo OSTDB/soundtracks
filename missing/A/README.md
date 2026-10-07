@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
+| Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Man | 217943 | [217943-action-man.json](./217943-action-man.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
+| Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
 | Adventures of Ben: Rabbit Run | 248002 | [248002-adventures-of-ben-rabbit-run.json](./248002-adventures-of-ben-rabbit-run.json) |
 | Adventures of Brave Bob | 100364 | [100364-adventures-of-brave-bob.json](./100364-adventures-of-brave-bob.json) |
@@ -6461,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaVista | 393752 | [393752-aquavista.json](./393752-aquavista.json) |
 | Aquazone Desktop Life | 45429 | [45429-aquazone-desktop-life.json](./45429-aquazone-desktop-life.json) |
 | AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
+| Aquila Bird Flight Simulator | 29689 | [29689-aquila-bird-flight-simulator.json](./29689-aquila-bird-flight-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aquitania | 52409 | [52409-aquitania.json](./52409-aquitania.json) |
@@ -9629,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 4685 | [4685-avatar-the-last-airbender-the-burning-earth.json](./4685-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar's Demise | 263488 | [263488-avatars-demise.json](./263488-avatars-demise.json) |
 | Avatara | 231984 | [231984-avatara.json](./231984-avatara.json) |
+| Avatarika | 29692 | [29692-avatarika.json](./29692-avatarika.json) |
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
