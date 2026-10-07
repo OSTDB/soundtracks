@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
 | 7 | 34297 | [34297-7.json](./34297-7.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
+| 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
 | 7 Days Devil | 373016 | [373016-7-days-devil.json](./373016-7-days-devil.json) |
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
 | 7 Days to Die | 5574 | [5574-7-days-to-die.json](./5574-7-days-to-die.json) |
@@ -1725,7 +1726,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Paramedic | 72049 | [72049-911-paramedic.json](./72049-911-paramedic.json) |
 | 911: Cannibal | 245837 | [245837-911-cannibal.json](./245837-911-cannibal.json) |
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
+| 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
+| 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 98xx | 249715 | [249715-98xx.json](./249715-98xx.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
