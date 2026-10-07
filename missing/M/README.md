@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicians: The Devil's Deal | 405080 | [405080-magicians-the-devils-deal.json](./405080-magicians-the-devils-deal.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | MagiCirBrk | 98786 | [98786-magicirbrk.json](./98786-magicirbrk.json) |
+| Magicite | 7883 | [7883-magicite.json](./7883-magicite.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
 | Magicka | 2042 | [2042-magicka.json](./2042-magicka.json) |
 | Magicka 2 | 9807 | [9807-magicka-2.json](./9807-magicka-2.json) |
@@ -9269,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Journey: Nitro | 213898 | [213898-monument-journey-nitro.json](./213898-monument-journey-nitro.json) |
 | Monument Valley | 8900 | [8900-monument-valley.json](./8900-monument-valley.json) |
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
+| Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley+ | 145466 | [145466-monument-valley.json](./145466-monument-valley.json) |
 | Monument Village | 265320 | [265320-monument-village.json](./265320-monument-village.json) |
