@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jenny | 369182 | [369182-jenny.json](./369182-jenny.json) |
+| Jenny LeClue: Detectivu | 21344 | [21344-jenny-leclue-detectivu.json](./21344-jenny-leclue-detectivu.json) |
 | Jenny Love You | 408122 | [408122-jenny-love-you.json](./408122-jenny-love-you.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Action Run | 27709 | [27709-justice-league-action-run.json](./27709-justice-league-action-run.json) |
 | Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice League Heroes | 248573 | [248573-justice-league-heroes.json](./248573-justice-league-heroes.json) |
+| Justice League Heroes | 5872 | [5872-justice-league-heroes.json](./5872-justice-league-heroes.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice League: Laptop Infantil | 297741 | [297741-justice-league-laptop-infantil.json](./297741-justice-league-laptop-infantil.json) |
 | Justice League: Save Planet Earth | 245459 | [245459-justice-league-save-planet-earth.json](./245459-justice-league-save-planet-earth.json) |
