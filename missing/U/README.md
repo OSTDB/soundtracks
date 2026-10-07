@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
 | Ultima Forever: Quest for the Avatar | 64923 | [64923-ultima-forever-quest-for-the-avatar.json](./64923-ultima-forever-quest-for-the-avatar.json) |
+| Ultima II: The Revenge of the Enchantress | 2868 | [2868-ultima-ii-the-revenge-of-the-enchantress.json](./2868-ultima-ii-the-revenge-of-the-enchantress.json) |
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
