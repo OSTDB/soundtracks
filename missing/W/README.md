@@ -5216,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
+| WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
 | Wreak the Havoc | 156564 | [156564-wreak-the-havoc.json](./156564-wreak-the-havoc.json) |
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
