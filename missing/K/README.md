@@ -1711,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur: Knights and Vassals | 164421 | [164421-king-arthur-knights-and-vassals.json](./164421-king-arthur-knights-and-vassals.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
+| King Arthur's Gold | 7209 | [7209-king-arthurs-gold.json](./7209-king-arthurs-gold.json) |
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
@@ -2465,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klondike Solitaire Pro | 391349 | [391349-klondike-solitaire-pro.json](./391349-klondike-solitaire-pro.json) |
 | Klondike's Hike | 321479 | [321479-klondikes-hike.json](./321479-klondikes-hike.json) |
+| Klonoa 2: Dream Champ Tournament | 6493 | [6493-klonoa-2-dream-champ-tournament.json](./6493-klonoa-2-dream-champ-tournament.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
@@ -3377,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumo: The Little Robot | 126986 | [126986-kumo-the-little-robot.json](./126986-kumo-the-little-robot.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kun’tewiktuk: A Mi’kmaw Adventure | 303620 | [303620-kun-tewiktuk-a-mi-kmaw-adventure.json](./303620-kun-tewiktuk-a-mi-kmaw-adventure.json) |
+| Kunai | 114094 | [114094-kunai.json](./114094-kunai.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
 | Kung Food | 12365 | [12365-kung-food.json](./12365-kung-food.json) |
