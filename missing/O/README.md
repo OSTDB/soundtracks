@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
+| One helluva day | 55711 | [55711-one-helluva-day.json](./55711-one-helluva-day.json) |
 | One Helluva Reskin for Pizza Tower | 310667 | [310667-one-helluva-reskin-for-pizza-tower.json](./310667-one-helluva-reskin-for-pizza-tower.json) |
 | One Hit Cowboy | 233097 | [233097-one-hit-cowboy.json](./233097-one-hit-cowboy.json) |
 | One Hit KO | 29218 | [29218-one-hit-ko.json](./29218-one-hit-ko.json) |
@@ -2554,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
+| Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
