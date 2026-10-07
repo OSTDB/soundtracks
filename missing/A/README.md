@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
+| Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
 | Apotheon | 9016 | [9016-apotheon.json](./9016-apotheon.json) |
+| Apotheon Arena | 34065 | [34065-apotheon-arena.json](./34065-apotheon-arena.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
 | Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
 | Apotheosis X | 252089 | [252089-apotheosis-x.json](./252089-apotheosis-x.json) |
