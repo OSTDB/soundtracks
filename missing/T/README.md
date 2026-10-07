@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
+| The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Famous Five Adventure Game | 90845 | [90845-the-famous-five-adventure-game.json](./90845-the-famous-five-adventure-game.json) |
 | The Famous Five: Dangerous Discovery | 13773 | [13773-the-famous-five-dangerous-discovery.json](./13773-the-famous-five-dangerous-discovery.json) |
 | The Famous Five: Five on a Secret Mission | 13774 | [13774-the-famous-five-five-on-a-secret-mission.json](./13774-the-famous-five-five-on-a-secret-mission.json) |
+| The Famous Five: Five on a Treasure Island | 45237 | [45237-the-famous-five-five-on-a-treasure-island.json](./45237-the-famous-five-five-on-a-treasure-island.json) |
 | The Famous Five: Kidnapped | 13772 | [13772-the-famous-five-kidnapped.json](./13772-the-famous-five-kidnapped.json) |
 | The Famous Five: Silver Tower | 13771 | [13771-the-famous-five-silver-tower.json](./13771-the-famous-five-silver-tower.json) |
 | The Famous Five: Treasure Island | 13770 | [13770-the-famous-five-treasure-island.json](./13770-the-famous-five-treasure-island.json) |
@@ -17224,6 +17226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Deep | 206072 | [206072-treasures-of-the-deep.json](./206072-treasures-of-the-deep.json) |
+| Treasures of the Deep | 45209 | [45209-treasures-of-the-deep.json](./45209-treasures-of-the-deep.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
