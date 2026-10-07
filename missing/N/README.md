@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
+| Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Turtles: The Next Mutation | 198840 | [198840-ninja-turtles-the-next-mutation.json](./198840-ninja-turtles-the-next-mutation.json) |
 | Ninja USA | 100277 | [100277-ninja-usa.json](./100277-ninja-usa.json) |
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
+| Ninja Usagimaru: Two Tails of Adventure | 44484 | [44484-ninja-usagimaru-two-tails-of-adventure.json](./44484-ninja-usagimaru-two-tails-of-adventure.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
 | Ninja vs. Zombies | 235893 | [235893-ninja-vs-zombies.json](./235893-ninja-vs-zombies.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
