@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Cottage Simulator | 319559 | [319559-finnish-cottage-simulator.json](./319559-finnish-cottage-simulator.json) |
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
+| Finnish Roller | 29671 | [29671-finnish-roller.json](./29671-finnish-roller.json) |
 | Finque | 31057 | [31057-finque.json](./31057-finque.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
@@ -4202,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatshot | 76588 | [76588-flatshot.json](./76588-flatshot.json) |
 | Flatspace | 73992 | [73992-flatspace.json](./73992-flatspace.json) |
 | Flatspace II | 72979 | [72979-flatspace-ii.json](./72979-flatspace-ii.json) |
+| Flatspace IIk | 29668 | [29668-flatspace-iik.json](./29668-flatspace-iik.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
@@ -4764,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
+| Fly Away | 29682 | [29682-fly-away.json](./29682-fly-away.json) |
 | Fly Caster VR | 265347 | [265347-fly-caster-vr.json](./265347-fly-caster-vr.json) |
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
@@ -6909,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Ruins | 381177 | [381177-from-ruins.json](./381177-from-ruins.json) |
 | From Salt to Sugar | 212803 | [212803-from-salt-to-sugar.json](./212803-from-salt-to-sugar.json) |
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
+| From Shadows | 29680 | [29680-from-shadows.json](./29680-from-shadows.json) |
 | From Space: Mission Pack - Concrete Jungle | 271920 | [271920-from-space-mission-pack-concrete-jungle.json](./271920-from-space-mission-pack-concrete-jungle.json) |
 | From Space: Mission Pack - Molten Iron | 271919 | [271919-from-space-mission-pack-molten-iron.json](./271919-from-space-mission-pack-molten-iron.json) |
 | From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
