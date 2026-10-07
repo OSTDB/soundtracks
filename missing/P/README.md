@@ -7156,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
 | Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
+| Poptropica | 66742 | [66742-poptropica.json](./66742-poptropica.json) |
 | Poptropica Adventures | 47928 | [47928-poptropica-adventures.json](./47928-poptropica-adventures.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
