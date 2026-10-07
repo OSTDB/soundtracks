@@ -3382,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
 | Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
+| Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
 | Godzilla: Save the Earth | 5847 | [5847-godzilla-save-the-earth.json](./5847-godzilla-save-the-earth.json) |
 | Godzilla: Save the Earth - Melee | 301492 | [301492-godzilla-save-the-earth-melee.json](./301492-godzilla-save-the-earth-melee.json) |
 | Godzilla: Smash 3 | 61983 | [61983-godzilla-smash-3.json](./61983-godzilla-smash-3.json) |
@@ -5789,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
+| Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
