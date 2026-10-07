@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
 | Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) | 8656 | [8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json](./8656-leisure-suit-larry-2-goes-looking-for-love-in-several-wrong-places.json) |
+| Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work | 2910 | [2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json](./2910-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.json) |
 | Leisure Suit Larry 6: Shape Up or Slip Out! | 2911 | [2911-leisure-suit-larry-6-shape-up-or-slip-out.json](./2911-leisure-suit-larry-6-shape-up-or-slip-out.json) |
 | Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
@@ -5420,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Game | 318029 | [318029-luigis-game.json](./318029-luigis-game.json) |
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion | 90109 | [90109-luigis-mansion.json](./90109-luigis-mansion.json) |
+| Luigi's Mansion 2 HD | 254328 | [254328-luigis-mansion-2-hd.json](./254328-luigis-mansion-2-hd.json) |
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
