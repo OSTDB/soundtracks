@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
+| Santa Claus no Takara-bako | 41250 | [41250-santa-claus-no-takara-bako.json](./41250-santa-claus-no-takara-bako.json) |
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa Draw Ride | 243725 | [243725-santa-draw-ride.json](./243725-santa-draw-ride.json) |
@@ -17271,6 +17272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowl XX | 59817 | [59817-super-bowl-xx.json](./59817-super-bowl-xx.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
+| Super Boy Allan | 41305 | [41305-super-boy-allan.json](./41305-super-boy-allan.json) |
 | Super Boy Commander Bros | 231881 | [231881-super-boy-commander-bros.json](./231881-super-boy-commander-bros.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
@@ -20187,6 +20189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvarcon 2049: A Cybersecurity Aventure | 213966 | [213966-sylvarcon-2049-a-cybersecurity-aventure.json](./213966-sylvarcon-2049-a-cybersecurity-aventure.json) |
 | Sylvester & Tweety in Cagey Capers | 46190 | [46190-sylvester-and-tweety-in-cagey-capers.json](./46190-sylvester-and-tweety-in-cagey-capers.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
+| Sylviana: Ai Ippai no Boukensha | 41249 | [41249-sylviana-ai-ippai-no-boukensha.json](./41249-sylviana-ai-ippai-no-boukensha.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie Miniature | 306002 | [306002-sylvie-miniature.json](./306002-sylvie-miniature.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
