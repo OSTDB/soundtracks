@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
+| Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
 | Hazel Sky: Deluxe Edition | 227180 | [227180-hazel-sky-deluxe-edition.json](./227180-hazel-sky-deluxe-edition.json) |
+| Hazelnut Bastille | 36927 | [36927-hazelnut-bastille.json](./36927-hazelnut-bastille.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
 | Hazels | 257521 | [257521-hazels.json](./257521-hazels.json) |
@@ -3577,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
+| Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
 | Hexagon Dungeon | 114785 | [114785-hexagon-dungeon.json](./114785-hexagon-dungeon.json) |
 | Hexagon Dungeon: The Arcana Stone | 114786 | [114786-hexagon-dungeon-the-arcana-stone.json](./114786-hexagon-dungeon-the-arcana-stone.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
@@ -6001,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
 | HotDog TD | 264656 | [264656-hotdog-td.json](./264656-hotdog-td.json) |
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
+| Hotel 19-95 | 37004 | [37004-hotel-19-95.json](./37004-hotel-19-95.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel 77 | 303683 | [303683-hotel-77.json](./303683-hotel-77.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
