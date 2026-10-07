@@ -6436,10 +6436,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
 | DoDonPachi DaiOuJou: Black Label | 262448 | [262448-dodonpachi-daioujou-black-label.json](./262448-dodonpachi-daioujou-black-label.json) |
 | DoDonPachi DaiOuJou: Black Label Extra | 77998 | [77998-dodonpachi-daioujou-black-label-extra.json](./77998-dodonpachi-daioujou-black-label-extra.json) |
+| DoDonPachi II | 1674 | [1674-dodonpachi-ii.json](./1674-dodonpachi-ii.json) |
 | DoDonPachi Maximum | 77999 | [77999-dodonpachi-maximum.json](./77999-dodonpachi-maximum.json) |
 | DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
 | DoDonPachi Resurrection Reignite | 398490 | [398490-dodonpachi-resurrection-reignite.json](./398490-dodonpachi-resurrection-reignite.json) |
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
+| DoDonPachi Saidaioujou | 1673 | [1673-dodonpachi-saidaioujou.json](./1673-dodonpachi-saidaioujou.json) |
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
 | DoDoon | 390178 | [390178-dodoon.json](./390178-dodoon.json) |
