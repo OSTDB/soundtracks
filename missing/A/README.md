@@ -9256,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audioglide | 334343 | [334343-audioglide.json](./334343-audioglide.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
 | Audioshield | 18981 | [18981-audioshield.json](./18981-audioshield.json) |
+| Audioship | 47137 | [47137-audioship.json](./47137-audioship.json) |
 | Audiospeed | 415896 | [415896-audiospeed.json](./415896-audiospeed.json) |
 | Audiosurf 2 | 9707 | [9707-audiosurf-2.json](./9707-audiosurf-2.json) |
 | AudioWizards | 129054 | [129054-audiowizards.json](./129054-audiowizards.json) |
