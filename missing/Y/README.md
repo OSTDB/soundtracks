@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 1 Kiwami | 393096 | [393096-yakuza-1-kiwami.json](./393096-yakuza-1-kiwami.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 4 | 2062 | [2062-yakuza-4.json](./2062-yakuza-4.json) |
+| Yakuza 4 Remastered | 103016 | [103016-yakuza-4-remastered.json](./103016-yakuza-4-remastered.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
 | Yakuza GB | 301530 | [301530-yakuza-gb.json](./301530-yakuza-gb.json) |
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
+| Yes, Your Grace | 122729 | [122729-yes-your-grace.json](./122729-yes-your-grace.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
 | Yes! PreCure 5 GoGo! Zenin ShuuGO! Dream Festival | 124149 | [124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json](./124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
