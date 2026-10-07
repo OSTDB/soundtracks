@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Championship Golf Collecter's Edition | 209985 | [209985-pga-championship-golf-collecters-edition.json](./209985-pga-championship-golf-collecters-edition.json) |
 | PGA European Tour | 209984 | [209984-pga-european-tour.json](./209984-pga-european-tour.json) |
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
+| PGA Tour 2K21 | 133939 | [133939-pga-tour-2k21.json](./133939-pga-tour-2k21.json) |
 | PGA Tour 2K21: Baller Edition | 176792 | [176792-pga-tour-2k21-baller-edition.json](./176792-pga-tour-2k21-baller-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
@@ -3004,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Collection | 136803 | [136803-phantasy-star-collection.json](./136803-phantasy-star-collection.json) |
 | Phantasy Star Gaiden | 45252 | [45252-phantasy-star-gaiden.json](./45252-phantasy-star-gaiden.json) |
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
+| Phantasy Star III: Generations of Doom | 1231 | [1231-phantasy-star-iii-generations-of-doom.json](./1231-phantasy-star-iii-generations-of-doom.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
@@ -4112,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
+| Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
 | Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
@@ -5391,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform 10 | 271384 | [271384-platform-10.json](./271384-platform-10.json) |
 | Platform 4 | 326257 | [326257-platform-4.json](./326257-platform-4.json) |
 | Platform 6 Online | 379004 | [379004-platform-6-online.json](./379004-platform-6-online.json) |
+| Platform 8 | 295570 | [295570-platform-8.json](./295570-platform-8.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
@@ -6160,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
+| Pokémon Café Mix | 135233 | [135233-pokemon-cafe-mix.json](./135233-pokemon-cafe-mix.json) |
 | Pokémon Card Game: Asobikata DS | 131316 | [131316-pokemon-card-game-asobikata-ds.json](./131316-pokemon-card-game-asobikata-ds.json) |
 | Pokémon Castaway | 260097 | [260097-pokemon-castaway.json](./260097-pokemon-castaway.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
@@ -6413,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
+| Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
@@ -6522,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokeringo Bingo | 209348 | [209348-pokeringo-bingo.json](./209348-pokeringo-bingo.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
+| PokéRogue | 295252 | [295252-pokerogue.json](./295252-pokerogue.json) |
 | PokeRoku | 227817 | [227817-pokeroku.json](./227817-pokeroku.json) |
 | PokéROM: Mew | 218523 | [218523-pokerom-mew.json](./218523-pokerom-mew.json) |
 | PokéROM: Pikachu | 212725 | [212725-pokerom-pikachu.json](./212725-pokerom-pikachu.json) |
@@ -8276,6 +8283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
 | Prisoner 2 | 93192 | [93192-prisoner-2.json](./93192-prisoner-2.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
+| Prisoner of Ice | 1605 | [1605-prisoner-of-ice.json](./1605-prisoner-of-ice.json) |
 | Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
@@ -8689,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
+| Project CARS 3 | 121173 | [121173-project-cars-3.json](./121173-project-cars-3.json) |
 | Project CARS 3: Electric Pack | 162307 | [162307-project-cars-3-electric-pack.json](./162307-project-cars-3-electric-pack.json) |
 | Project CARS 3: Ignition Pack | 162311 | [162311-project-cars-3-ignition-pack.json](./162311-project-cars-3-ignition-pack.json) |
 | Project CARS 3: Legends Pack | 162309 | [162309-project-cars-3-legends-pack.json](./162309-project-cars-3-legends-pack.json) |
@@ -8842,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project K1 | 264009 | [264009-project-k1.json](./264009-project-k1.json) |
+| Project Kat: Paper Lily Prologue | 131945 | [131945-project-kat-paper-lily-prologue.json](./131945-project-kat-paper-lily-prologue.json) |
 | Project Kepler: Delivery Included! | 363050 | [363050-project-kepler-delivery-included.json](./363050-project-kepler-delivery-included.json) |
 | Project Killdance | 383017 | [383017-project-killdance.json](./383017-project-killdance.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
