@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
+| Echochrome | 18050 | [18050-echochrome.json](./18050-echochrome.json) |
 | Echochrome | 263007 | [263007-echochrome.json](./263007-echochrome.json) |
 | Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
+| Ender Magnolia: Bloom in the Mist | 287846 | [287846-ender-magnolia-bloom-in-the-mist.json](./287846-ender-magnolia-bloom-in-the-mist.json) |
 | Ender Ocean | 368670 | [368670-ender-ocean.json](./368670-ender-ocean.json) |
 | Ender of Fire | 60797 | [60797-ender-of-fire.json](./60797-ender-of-fire.json) |
 | Ender Story: Chapter 1 | 80903 | [80903-ender-story-chapter-1.json](./80903-ender-story-chapter-1.json) |
@@ -3890,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
+| Evil Dead: The Game | 141544 | [141544-evil-dead-the-game.json](./141544-evil-dead-the-game.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - 2013 bundle | 227340 | [227340-evil-dead-the-game-2013-bundle.json](./227340-evil-dead-the-game-2013-bundle.json) |
 | Evil Dead: The Game - Army of Darkness Bundle | 227341 | [227341-evil-dead-the-game-army-of-darkness-bundle.json](./227341-evil-dead-the-game-army-of-darkness-bundle.json) |
