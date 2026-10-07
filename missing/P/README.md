@@ -7442,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
+| Power Lode Runner | 38243 | [38243-power-lode-runner.json](./38243-power-lode-runner.json) |
 | Power Lords | 24005 | [24005-power-lords.json](./24005-power-lords.json) |
 | Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
