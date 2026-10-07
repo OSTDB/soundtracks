@@ -1899,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | FatSheep Crisis II | 372076 | [372076-fatsheep-crisis-ii.json](./372076-fatsheep-crisis-ii.json) |
 | Fattening Career | 260324 | [260324-fattening-career.json](./260324-fattening-career.json) |
+| Fatty Bear's FunPack | 4311 | [4311-fatty-bears-funpack.json](./4311-fatty-bears-funpack.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
 | Fatty Maze's Adventures | 35723 | [35723-fatty-mazes-adventures.json](./35723-fatty-mazes-adventures.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Mustaches | 260201 | [260201-flying-mustaches.json](./260201-flying-mustaches.json) |
 | Flying Neko Delivery | 202136 | [202136-flying-neko-delivery.json](./202136-flying-neko-delivery.json) |
+| Flying Nightmares | 4257 | [4257-flying-nightmares.json](./4257-flying-nightmares.json) |
 | Flying over the Penguin's Hollow | 413134 | [413134-flying-over-the-penguins-hollow.json](./413134-flying-over-the-penguins-hollow.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
@@ -4955,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
 | Foe Frenzy | 126564 | [126564-foe-frenzy.json](./126564-foe-frenzy.json) |
+| Foes of Ali | 4295 | [4295-foes-of-ali.json](./4295-foes-of-ali.json) |
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
 | FOF: Fear Of Failure | 372496 | [372496-fof-fear-of-failure.json](./372496-fof-fear-of-failure.json) |
 | Fog | 201837 | [201837-fog.json](./201837-fog.json) |
