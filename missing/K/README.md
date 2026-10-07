@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
+| Kaz: Pushing the Virtual Divide | 22147 | [22147-kaz-pushing-the-virtual-divide.json](./22147-kaz-pushing-the-virtual-divide.json) |
 | Kaz's Adventure | 207768 | [207768-kazs-adventure.json](./207768-kazs-adventure.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
+| King Bandido | 22136 | [22136-king-bandido.json](./22136-king-bandido.json) |
 | King Battle | 82342 | [82342-king-battle.json](./82342-king-battle.json) |
 | King Boo | 190020 | [190020-king-boo.json](./190020-king-boo.json) |
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Online | 19795 | [19795-knight-online.json](./19795-knight-online.json) |
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
+| Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
 | Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
 | Knight Runner: Blade and Bolt | 301888 | [301888-knight-runner-blade-and-bolt.json](./301888-knight-runner-blade-and-bolt.json) |
