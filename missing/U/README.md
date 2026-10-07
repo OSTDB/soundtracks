@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Neural Network | 168657 | [168657-ultimate-neural-network.json](./168657-ultimate-neural-network.json) |
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
+| Ultimate Noah's Ark | 45896 | [45896-ultimate-noahs-ark.json](./45896-ultimate-noahs-ark.json) |
 | Ultimate Ocean Simulator | 86890 | [86890-ultimate-ocean-simulator.json](./86890-ultimate-ocean-simulator.json) |
 | Ultimate Pac Pack | 85750 | [85750-ultimate-pac-pack.json](./85750-ultimate-pac-pack.json) |
 | Ultimate Pain | 364017 | [364017-ultimate-pain.json](./364017-ultimate-pain.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Uncover the Triad of Terror | 309052 | [309052-uncover-the-triad-of-terror.json](./309052-uncover-the-triad-of-terror.json) |
+| Uncover: Featuring Tatjanna | 45903 | [45903-uncover-featuring-tatjanna.json](./45903-uncover-featuring-tatjanna.json) |
 | Uncovered: 1945 | 282258 | [282258-uncovered-1945.json](./282258-uncovered-1945.json) |
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
