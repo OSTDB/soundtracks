@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Express | 294392 | [294392-galactic-express.json](./294392-galactic-express.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
+| Galactic Fighters | 31706 | [31706-galactic-fighters.json](./31706-galactic-fighters.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
 | Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
@@ -3237,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
+| Gochi-Show! for Girls | 31731 | [31731-gochi-show-for-girls.json](./31731-gochi-show-for-girls.json) |
 | God Awefull Clicker | 101753 | [101753-god-awefull-clicker.json](./101753-god-awefull-clicker.json) |
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
@@ -4751,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Shifter | 157056 | [157056-gravity-shifter.json](./157056-gravity-shifter.json) |
+| Gravity Shot | 31756 | [31756-gravity-shot.json](./31756-gravity-shot.json) |
 | Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
 | Gravity Simulator | 101768 | [101768-gravity-simulator.json](./101768-gravity-simulator.json) |
 | Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
@@ -4925,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Magic | 359080 | [359080-green-magic.json](./359080-green-magic.json) |
+| Green Moon 2 | 31773 | [31773-green-moon-2.json](./31773-green-moon-2.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
