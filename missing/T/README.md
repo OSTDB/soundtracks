@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
+| Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator Salvation | 4204 | [4204-terminator-salvation.json](./4204-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
@@ -9845,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Sphere | 407456 | [407456-the-sphere.json](./407456-the-sphere.json) |
 | The Sphere of Abyss | 126390 | [126390-the-sphere-of-abyss.json](./126390-the-sphere-of-abyss.json) |
+| The Spiderwick Chronicles | 5182 | [5182-the-spiderwick-chronicles.json](./5182-the-spiderwick-chronicles.json) |
 | The Spidy D | 205080 | [205080-the-spidy-d.json](./205080-the-spidy-d.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
@@ -13120,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
+| Tiger Woods PGA Tour 08 | 5221 | [5221-tiger-woods-pga-tour-08.json](./5221-tiger-woods-pga-tour-08.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
 | Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
@@ -13888,6 +13891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
+| Titus the Fox: To Marrakech and Back | 6313 | [6313-titus-the-fox-to-marrakech-and-back.json](./6313-titus-the-fox-to-marrakech-and-back.json) |
 | Tivick'ing! Chronicles | 220698 | [220698-tivicking-chronicles.json](./220698-tivicking-chronicles.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
 | TIZ: Tokyo Insect Zoo | 148436 | [148436-tiz-tokyo-insect-zoo.json](./148436-tiz-tokyo-insect-zoo.json) |
@@ -19028,6 +19032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal: Black | 5413 | [5413-twisted-metal-black.json](./5413-twisted-metal-black.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
 | Twisted Metal: Head-On | 5414 | [5414-twisted-metal-head-on.json](./5414-twisted-metal-head-on.json) |
+| Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
 | Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
