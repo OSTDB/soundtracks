@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
+| Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting with Animals | 303604 | [303604-karting-with-animals.json](./303604-karting-with-animals.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
@@ -1471,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Klowns From Outer Space: Infernal Tank - Gutso | 322736 | [322736-killer-klowns-from-outer-space-infernal-tank-gutso.json](./322736-killer-klowns-from-outer-space-infernal-tank-gutso.json) |
 | Killer Klowns From Outer Space: Infernal Tracker - Slappy | 322734 | [322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json](./322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json) |
 | Killer Koobs | 224078 | [224078-killer-koobs.json](./224078-killer-koobs.json) |
+| Killer Loop | 45210 | [45210-killer-loop.json](./45210-killer-loop.json) |
 | Killer of Kings | 397941 | [397941-killer-of-kings.json](./397941-killer-of-kings.json) |
 | Killer Pool | 175279 | [175279-killer-pool.json](./175279-killer-pool.json) |
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
