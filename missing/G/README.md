@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
 | Galactic Economy | 314445 | [314445-galactic-economy.json](./314445-galactic-economy.json) |
+| Galactic Empire | 13065 | [13065-galactic-empire.json](./13065-galactic-empire.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
 | Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
 | Galactic Escape | 208829 | [208829-galactic-escape.json](./208829-galactic-escape.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galcon 2 | 36325 | [36325-galcon-2.json](./36325-galcon-2.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
+| Galdregon's Domain | 13066 | [13066-galdregons-domain.json](./13066-galdregons-domain.json) |
 | Galdromeda | 394517 | [394517-galdromeda.json](./394517-galdromeda.json) |
 | Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
@@ -2786,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
+| Global Effect | 13051 | [13051-global-effect.json](./13051-global-effect.json) |
 | Global Elite | 298684 | [298684-global-elite.json](./298684-global-elite.json) |
 | Global Farmer | 301913 | [301913-global-farmer.json](./301913-global-farmer.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
@@ -2805,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
+| Globdule | 13067 | [13067-globdule.json](./13067-globdule.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
 | Globe Games | 311566 | [311566-globe-games.json](./311566-globe-games.json) |
 | Globe: Earth Adventures | 230378 | [230378-globe-earth-adventures.json](./230378-globe-earth-adventures.json) |
