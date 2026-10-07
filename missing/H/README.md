@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
 | Hagalegacy | 311113 | [311113-hagalegacy.json](./311113-hagalegacy.json) |
+| Hagane: The Final Conflict | 42611 | [42611-hagane-the-final-conflict.json](./42611-hagane-the-final-conflict.json) |
 | Hagar the Horrible | 47229 | [47229-hagar-the-horrible.json](./47229-hagar-the-horrible.json) |
 | Hageransu | 345631 | [345631-hageransu.json](./345631-hageransu.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
