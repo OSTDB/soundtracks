@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Gunner: Final Mission | 55843 | [55843-night-gunner-final-mission.json](./55843-night-gunner-final-mission.json) |
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
 | Night Head: The Labyrinth | 123475 | [123475-night-head-the-labyrinth.json](./123475-night-head-the-labyrinth.json) |
+| Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
 | Night in the Woods: Lost Constellation | 60719 | [60719-night-in-the-woods-lost-constellation.json](./60719-night-in-the-woods-lost-constellation.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
+| Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
