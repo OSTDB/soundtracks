@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuwashi: Urabure Tantei to Ojou-sama Keiji no Ikebukuro Jiken File | 130237 | [130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json](./130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json) |
 | Inuyasha | 100268 | [100268-inuyasha.json](./100268-inuyasha.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
+| Inuyasha: A Feudal Fairy Tale | 45004 | [45004-inuyasha-a-feudal-fairy-tale.json](./45004-inuyasha-a-feudal-fairy-tale.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
 | Inuyasha: Fuuun Emaki | 37374 | [37374-inuyasha-fuuun-emaki.json](./37374-inuyasha-fuuun-emaki.json) |
