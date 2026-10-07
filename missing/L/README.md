@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
+| Lone Fungus | 146568 | [146568-lone-fungus.json](./146568-lone-fungus.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
 | Lone King | 151046 | [151046-lone-king.json](./151046-lone-king.json) |
 | Lone Labyrinth: Burden of the Just | 352246 | [352246-lone-labyrinth-burden-of-the-just.json](./352246-lone-labyrinth-burden-of-the-just.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumbah Jump | 211789 | [211789-lumbah-jump.json](./211789-lumbah-jump.json) |
+| LumbearJack | 163629 | [163629-lumbearjack.json](./163629-lumbearjack.json) |
 | Lumber and Plunder | 365748 | [365748-lumber-and-plunder.json](./365748-lumber-and-plunder.json) |
 | Lumber Duck: Sky Saw Mill | 28104 | [28104-lumber-duck-sky-saw-mill.json](./28104-lumber-duck-sky-saw-mill.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
