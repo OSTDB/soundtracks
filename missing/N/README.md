@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
+| Nail'd | 7096 | [7096-naild.json](./7096-naild.json) |
 | Nailed It | 189111 | [189111-nailed-it.json](./189111-nailed-it.json) |
 | Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
