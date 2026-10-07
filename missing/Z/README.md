@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
+| Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Killer | 181776 | [181776-zombie-killer.json](./181776-zombie-killer.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killer: Type to Shoot! | 114899 | [114899-zombie-killer-type-to-shoot.json](./114899-zombie-killer-type-to-shoot.json) |
+| Zombie Killin' | 29697 | [29697-zombie-killin.json](./29697-zombie-killin.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
 | Zombie Killtime | 35003 | [35003-zombie-killtime.json](./35003-zombie-killtime.json) |
 | Zombie Land | 239089 | [239089-zombie-land.json](./239089-zombie-land.json) |
