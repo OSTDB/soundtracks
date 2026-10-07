@@ -7593,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
 | The Lost Chrononaut | 141754 | [141754-the-lost-chrononaut.json](./141754-the-lost-chrononaut.json) |
 | The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
+| The Lost City of Atlantis | 14476 | [14476-the-lost-city-of-atlantis.json](./14476-the-lost-city-of-atlantis.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
