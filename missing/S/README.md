@@ -12375,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
+| Spirit: Stallion of the Cimarron | 49257 | [49257-spirit-stallion-of-the-cimarron.json](./49257-spirit-stallion-of-the-cimarron.json) |
 | Spirit's Embrace | 54219 | [54219-spirits-embrace.json](./54219-spirits-embrace.json) |
 | Spiritbound: The Goddess's Quest | 415183 | [415183-spiritbound-the-goddesss-quest.json](./415183-spiritbound-the-goddesss-quest.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
@@ -12719,6 +12720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Games Collection | 403725 | [403725-sports-games-collection.json](./403725-sports-games-collection.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
+| Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
@@ -14971,6 +14973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
+| Steven Gerrard's Total Soccer 2002 | 49249 | [49249-steven-gerrards-total-soccer-2002.json](./49249-steven-gerrards-total-soccer-2002.json) |
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
@@ -17313,6 +17316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Colapse! 3 | 19342 | [19342-super-colapse-3.json](./19342-super-colapse-3.json) |
 | Super Collapse 3 | 42881 | [42881-super-collapse-3.json](./42881-super-collapse-3.json) |
 | Super Collapse! | 84244 | [84244-super-collapse.json](./84244-super-collapse.json) |
+| Super Collapse! II | 49288 | [49288-super-collapse-ii.json](./49288-super-collapse-ii.json) |
 | Super Collapse! Puzzle Gallery | 53686 | [53686-super-collapse-puzzle-gallery.json](./53686-super-collapse-puzzle-gallery.json) |
 | Super Collapse! Puzzle Gallery 2 | 201281 | [201281-super-collapse-puzzle-gallery-2.json](./201281-super-collapse-puzzle-gallery-2.json) |
 | Super Collapse! Puzzle Gallery 3 | 201282 | [201282-super-collapse-puzzle-gallery-3.json](./201282-super-collapse-puzzle-gallery-3.json) |
@@ -17570,6 +17574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Hoopers | 234705 | [234705-super-hoopers.json](./234705-super-hoopers.json) |
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
+| Super Hornet F/A-18F | 49289 | [49289-super-hornet-f-a-18f.json](./49289-super-hornet-f-a-18f.json) |
 | Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
 | Super Hot Potato | 148168 | [148168-super-hot-potato.json](./148168-super-hot-potato.json) |
