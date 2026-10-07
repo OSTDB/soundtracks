@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass | 178447 | [178447-mass.json](./178447-mass.json) |
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Conflict: Ignition | 309458 | [309458-mass-conflict-ignition.json](./309458-mass-conflict-ignition.json) |
+| Mass Effect 2: Arrival | 13794 | [13794-mass-effect-2-arrival.json](./13794-mass-effect-2-arrival.json) |
 | Mass Effect 2: Cerberus Network | 202312 | [202312-mass-effect-2-cerberus-network.json](./202312-mass-effect-2-cerberus-network.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
@@ -4391,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
+| Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
@@ -10247,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move It | 59800 | [59800-move-it.json](./59800-move-it.json) |
 | Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
+| Move or Die | 17012 | [17012-move-or-die.json](./17012-move-or-die.json) |
 | Move or Die: Couch Party Edition | 209130 | [209130-move-or-die-couch-party-edition.json](./209130-move-or-die-couch-party-edition.json) |
 | Move or Fire: Space Desire | 178977 | [178977-move-or-fire-space-desire.json](./178977-move-or-fire-space-desire.json) |
 | Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
