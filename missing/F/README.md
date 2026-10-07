@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Golf Party | 372089 | [372089-flappy-golf-party.json](./372089-flappy-golf-party.json) |
+| Flappy Gravity | 27570 | [27570-flappy-gravity.json](./27570-flappy-gravity.json) |
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
