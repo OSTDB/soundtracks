@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
+| Hard 'n' Heavy | 47178 | [47178-hard-n-heavy.json](./47178-hard-n-heavy.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
@@ -6208,6 +6209,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
 | Hover Attack | 62586 | [62586-hover-attack.json](./62586-hover-attack.json) |
+| Hover Bots VR | 47134 | [47134-hover-bots-vr.json](./47134-hover-bots-vr.json) |
+| Hover Bovver | 47174 | [47174-hover-bovver.json](./47174-hover-bovver.json) |
 | Hover Cross Skills | 249316 | [249316-hover-cross-skills.json](./249316-hover-cross-skills.json) |
 | Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
@@ -7208,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
+| Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
 | Hyzer Sky | 138566 | [138566-hyzer-sky.json](./138566-hyzer-sky.json) |
