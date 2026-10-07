@@ -8024,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
+| Corn Maze | 54893 | [54893-corn-maze.json](./54893-corn-maze.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
