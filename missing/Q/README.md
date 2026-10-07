@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
 | Quarterback | 46853 | [46853-quarterback.json](./46853-quarterback.json) |
+| Quarterback Attack | 4282 | [4282-quarterback-attack.json](./4282-quarterback-attack.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
 | Quarters, Please! | 147647 | [147647-quarters-please.json](./147647-quarters-please.json) |
