@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
+| Officers: World War II - Operation Overlord | 27585 | [27585-officers-world-war-ii-operation-overlord.json](./27585-officers-world-war-ii-operation-overlord.json) |
 | Officespace | 161163 | [161163-officespace.json](./161163-officespace.json) |
 | Official AFL: The Interactive DVD Trivia Game - Adelaide Super Quiz | 275582 | [275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json](./275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - Carlton Super Quiz | 275583 | [275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json](./275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
 | One Small Favor | 163859 | [163859-one-small-favor.json](./163859-one-small-favor.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
+| One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
 | One Step From Eden | 111717 | [111717-one-step-from-eden.json](./111717-one-step-from-eden.json) |
 | One Strike | 28695 | [28695-one-strike.json](./28695-one-strike.json) |
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
