@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland 6: Fire and Ice - Collector's Edition | 337269 | [337269-alices-wonderland-6-fire-and-ice-collectors-edition.json](./337269-alices-wonderland-6-fire-and-ice-collectors-edition.json) |
 | Alice's Wonderland 7: Sugar Rush - Collector's Edition | 337266 | [337266-alices-wonderland-7-sugar-rush-collectors-edition.json](./337266-alices-wonderland-7-sugar-rush-collectors-edition.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
+| Alicemare | 26138 | [26138-alicemare.json](./26138-alicemare.json) |
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alicia Quatermain 2: The Stone of Fate | 104740 | [104740-alicia-quatermain-2-the-stone-of-fate.json](./104740-alicia-quatermain-2-the-stone-of-fate.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Ego | 132717 | [132717-alter-ego.json](./132717-alter-ego.json) |
 | Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
+| Alter Ego | 27888 | [27888-alter-ego.json](./27888-alter-ego.json) |
 | Alter Ego | 305386 | [305386-alter-ego.json](./305386-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
 | Alter Ego S | 316133 | [316133-alter-ego-s.json](./316133-alter-ego-s.json) |
@@ -5999,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antediluvian | 271251 | [271251-antediluvian.json](./271251-antediluvian.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
+| Antenna | 28342 | [28342-antenna.json](./28342-antenna.json) |
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
@@ -7745,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
+| Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
 | Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
 | Army Men Strike: Toy Wars | 280923 | [280923-army-men-strike-toy-wars.json](./280923-army-men-strike-toy-wars.json) |
@@ -10057,6 +10061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayre and the Crystal Comet | 116260 | [116260-ayre-and-the-crystal-comet.json](./116260-ayre-and-the-crystal-comet.json) |
 | Ayrton Senna Kart Duel Special | 285994 | [285994-ayrton-senna-kart-duel-special.json](./285994-ayrton-senna-kart-duel-special.json) |
 | Ayrton Senna Racing | 265881 | [265881-ayrton-senna-racing.json](./265881-ayrton-senna-racing.json) |
+| Ayrton Senna's Super Monaco GP II | 27077 | [27077-ayrton-sennas-super-monaco-gp-ii.json](./27077-ayrton-sennas-super-monaco-gp-ii.json) |
 | Ayse Hairdresser | 293212 | [293212-ayse-hairdresser.json](./293212-ayse-hairdresser.json) |
 | Ayse’s Dog Hairdresser | 293213 | [293213-ayse-s-dog-hairdresser.json](./293213-ayse-s-dog-hairdresser.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
