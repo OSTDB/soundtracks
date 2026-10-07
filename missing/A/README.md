@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist of Pipiforest | 151092 | [151092-alchemist-of-pipiforest.json](./151092-alchemist-of-pipiforest.json) |
 | Alchemist of War | 187202 | [187202-alchemist-of-war.json](./187202-alchemist-of-war.json) |
+| Alchemist Penguin | 32823 | [32823-alchemist-penguin.json](./32823-alchemist-penguin.json) |
 | Alchemist Shop Simulator | 312149 | [312149-alchemist-shop-simulator.json](./312149-alchemist-shop-simulator.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | AploVVare Collection:18+ DLC | 266990 | [266990-aplovvare-collection-18-dlc.json](./266990-aplovvare-collection-18-dlc.json) |
+| Aplowcalypse | 32769 | [32769-aplowcalypse.json](./32769-aplowcalypse.json) |
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
@@ -8356,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
 | Assault on Proxima | 234213 | [234213-assault-on-proxima.json](./234213-assault-on-proxima.json) |
 | Assault on Tei Tenga | 144264 | [144264-assault-on-tei-tenga.json](./144264-assault-on-tei-tenga.json) |
+| Assault on the Necrospire | 32804 | [32804-assault-on-the-necrospire.json](./32804-assault-on-the-necrospire.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
@@ -8590,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Flux | 193273 | [193273-astral-flux.json](./193273-astral-flux.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
+| Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
@@ -9757,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
+| Awakening: The Sunhook Spire - Collector's Edition | 32777 | [32777-awakening-the-sunhook-spire-collectors-edition.json](./32777-awakening-the-sunhook-spire-collectors-edition.json) |
 | Awaking Beauty | 351791 | [351791-awaking-beauty.json](./351791-awaking-beauty.json) |
 | Awankening. | 397083 | [397083-awankening.json](./397083-awankening.json) |
 | Awara | 244395 | [244395-awara.json](./244395-awara.json) |
