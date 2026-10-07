@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
+| 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
