@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
 | Ninja Gaiden Clans | 65046 | [65046-ninja-gaiden-clans.json](./65046-ninja-gaiden-clans.json) |
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
+| Ninja Gaiden II | 6782 | [6782-ninja-gaiden-ii.json](./6782-ninja-gaiden-ii.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
