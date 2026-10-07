@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Crafted World | 37135 | [37135-yoshis-crafted-world.json](./37135-yoshis-crafted-world.json) |
 | Yoshi's Dreamer | 323351 | [323351-yoshis-dreamer.json](./323351-yoshis-dreamer.json) |
 | Yoshi's Egg Toss | 231529 | [231529-yoshis-egg-toss.json](./231529-yoshis-egg-toss.json) |
+| Yoshi's Island | 270350 | [270350-yoshis-island.json](./270350-yoshis-island.json) |
 | Yoshi's Isle: Sonic Style | 323909 | [323909-yoshis-isle-sonic-style.json](./323909-yoshis-isle-sonic-style.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshi's New Island | 4591 | [4591-yoshis-new-island.json](./4591-yoshis-new-island.json) |
