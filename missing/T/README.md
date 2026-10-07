@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Airship Designer | 126606 | [126606-the-airship-designer.json](./126606-the-airship-designer.json) |
 | The Airtight City 2 | 161171 | [161171-the-airtight-city-2.json](./161171-the-airtight-city-2.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
+| The Albatross | 29728 | [29728-the-albatross.json](./29728-the-albatross.json) |
 | The Albino Hunter: Revamp | 392411 | [392411-the-albino-hunter-revamp.json](./392411-the-albino-hunter-revamp.json) |
 | The Alchemist | 178474 | [178474-the-alchemist.json](./178474-the-alchemist.json) |
 | The Alchemist | 207373 | [207373-the-alchemist.json](./207373-the-alchemist.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astra Protocol | 409714 | [409714-the-astra-protocol.json](./409714-the-astra-protocol.json) |
+| The Astral Hero | 29719 | [29719-the-astral-hero.json](./29719-the-astral-hero.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Astronomy Quiz | 73479 | [73479-the-astronomy-quiz.json](./73479-the-astronomy-quiz.json) |
 | The Asylum Closed Ward | 331523 | [331523-the-asylum-closed-ward.json](./331523-the-asylum-closed-ward.json) |
@@ -4121,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Cave of Time | 70040 | [70040-the-cave-of-time.json](./70040-the-cave-of-time.json) |
+| The Cavern | 29684 | [29684-the-cavern.json](./29684-the-cavern.json) |
 | The Caverns | 229736 | [229736-the-caverns.json](./229736-the-caverns.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
@@ -7464,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Lonely Logs of Lincoln Lane | 301920 | [301920-the-lonely-logs-of-lincoln-lane.json](./301920-the-lonely-logs-of-lincoln-lane.json) |
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
+| The Loner | 29712 | [29712-the-loner.json](./29712-the-loner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
 | The Long Dark | 8347 | [8347-the-long-dark.json](./8347-the-long-dark.json) |
@@ -8480,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
+| The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
@@ -8745,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
+| The Rain Spirit : Code Breaker | 29678 | [29678-the-rain-spirit-code-breaker.json](./29678-the-rain-spirit-code-breaker.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
 | The Raincoat Man | 196042 | [196042-the-raincoat-man.json](./196042-the-raincoat-man.json) |
@@ -9040,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
+| The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Saga of the Candy Scroll | 345609 | [345609-the-saga-of-the-candy-scroll.json](./345609-the-saga-of-the-candy-scroll.json) |
