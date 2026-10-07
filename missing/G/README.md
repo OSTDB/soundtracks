@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey Wii | 21440 | [21440-g1-jockey-wii.json](./21440-g1-jockey-wii.json) |
 | G1 Jockey Wii 2008 | 21455 | [21455-g1-jockey-wii-2008.json](./21455-g1-jockey-wii-2008.json) |
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
+| G2: Geeks Unleashed | 53089 | [53089-g2-geeks-unleashed.json](./53089-g2-geeks-unleashed.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
 | GA Geijutsuka Art Design Class: Slapstick Wonderland | 241429 | [241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json](./241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json) |
 | GA1: An Assassin in Orlandes | 175757 | [175757-ga1-an-assassin-in-orlandes.json](./175757-ga1-an-assassin-in-orlandes.json) |
@@ -259,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
+| Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
 | Galactic Civilizations III: Crusade | 27054 | [27054-galactic-civilizations-iii-crusade.json](./27054-galactic-civilizations-iii-crusade.json) |
 | Galactic Civilizations III: Intrigue | 83809 | [83809-galactic-civilizations-iii-intrigue.json](./83809-galactic-civilizations-iii-intrigue.json) |
 | Galactic Civilizations III: Lost Treasures DLC | 163371 | [163371-galactic-civilizations-iii-lost-treasures-dlc.json](./163371-galactic-civilizations-iii-lost-treasures-dlc.json) |
@@ -993,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Circuit | 185006 | [185006-garden-circuit.json](./185006-garden-circuit.json) |
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
+| Garden Defense | 53086 | [53086-garden-defense.json](./53086-garden-defense.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
@@ -1261,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
+| Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
 | Gawr Gura: Quest for Bread | 217217 | [217217-gawr-gura-quest-for-bread.json](./217217-gawr-gura-quest-for-bread.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
 | Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
@@ -1500,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
+| GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
 | Gen.loss | 307213 | [307213-gen-loss.json](./307213-gen-loss.json) |
@@ -1938,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
 | Get Ride! AMDriver: Senkou no Hero Tanjou | 49605 | [49605-get-ride-amdriver-senkou-no-hero-tanjou.json](./49605-get-ride-amdriver-senkou-no-hero-tanjou.json) |
 | Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
+| Get Some | 53083 | [53083-get-some.json](./53083-get-some.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
@@ -2109,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
+| Ghost Run | 53082 | [53082-ghost-run.json](./53082-ghost-run.json) |
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
@@ -2133,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
+| Ghost Town Mysteries: Bodie | 53081 | [53081-ghost-town-mysteries-bodie.json](./53081-ghost-town-mysteries-bodie.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
 | Ghost Towns: Cats of Ulthar | 59499 | [59499-ghost-towns-cats-of-ulthar.json](./59499-ghost-towns-cats-of-ulthar.json) |
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
@@ -2919,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden: Return of the Queen | 163832 | [163832-gnomes-garden-return-of-the-queen.json](./163832-gnomes-garden-return-of-the-queen.json) |
 | Gnomes Solitaire | 195589 | [195589-gnomes-solitaire.json](./195589-gnomes-solitaire.json) |
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
+| Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
 | Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
@@ -3127,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
+| Goblin Defenders: Steel 'n' Wood | 53076 | [53076-goblin-defenders-steel-n-wood.json](./53076-goblin-defenders-steel-n-wood.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
@@ -3549,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun QOL | 269063 | [269063-golden-sun-qol.json](./269063-golden-sun-qol.json) |
 | Golden Sun The Lost Age: Anniversary Mod | 269061 | [269061-golden-sun-the-lost-age-anniversary-mod.json](./269061-golden-sun-the-lost-age-anniversary-mod.json) |
 | Golden Swords | 31195 | [31195-golden-swords.json](./31195-golden-swords.json) |
+| Golden Swords Complete | 53075 | [53075-golden-swords-complete.json](./53075-golden-swords-complete.json) |
 | Golden Tee | 72781 | [72781-golden-tee.json](./72781-golden-tee.json) |
 | Golden Tee 2015 | 60928 | [60928-golden-tee-2015.json](./60928-golden-tee-2015.json) |
 | Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
@@ -3719,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Fireflies | 82355 | [82355-gone-fireflies.json](./82355-gone-fireflies.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
+| Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
@@ -4036,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
+| Gothic: Universe Edition | 53073 | [53073-gothic-universe-edition.json](./53073-gothic-universe-edition.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
 | Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
@@ -4064,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmania | 50837 | [50837-gourmania.json](./50837-gourmania.json) |
 | Gourmania 2: Great Expectations | 54068 | [54068-gourmania-2-great-expectations.json](./54068-gourmania-2-great-expectations.json) |
+| Gourmania 3 | 53072 | [53072-gourmania-3.json](./53072-gourmania-3.json) |
 | Gourmania 3: Zoo Zoom | 54067 | [54067-gourmania-3-zoo-zoom.json](./54067-gourmania-3-zoo-zoom.json) |
 | GourMelee | 118764 | [118764-gourmelee.json](./118764-gourmelee.json) |
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
@@ -4224,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Seox | 233643 | [233643-granblue-fantasy-versus-seox.json](./233643-granblue-fantasy-versus-seox.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Ages: Rome | 8395 | [8395-grand-ages-rome.json](./8395-grand-ages-rome.json) |
+| Grand Ages: Rome - Gold Edition | 53071 | [53071-grand-ages-rome-gold-edition.json](./53071-grand-ages-rome-gold-edition.json) |
 | Grand Attrition | 173044 | [173044-grand-attrition.json](./173044-grand-attrition.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
@@ -4922,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
+| Gremlins, Inc.: The Governor Edition | 53069 | [53069-gremlins-inc-the-governor-edition.json](./53069-gremlins-inc-the-governor-edition.json) |
 | Gremlore | 275065 | [275065-gremlore.json](./275065-gremlore.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
@@ -5506,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
+| Guardians of Middle Earth: Mithril Edition | 53068 | [53068-guardians-of-middle-earth-mithril-edition.json](./53068-guardians-of-middle-earth-mithril-edition.json) |
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
@@ -5601,6 +5618,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: End of Dragons - Deluxe Edition | 161181 | [161181-guild-wars-2-end-of-dragons-deluxe-edition.json](./161181-guild-wars-2-end-of-dragons-deluxe-edition.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
+| Guild Wars 2: Heart of Thorns - Deluxe Edition | 53067 | [53067-guild-wars-2-heart-of-thorns-deluxe-edition.json](./53067-guild-wars-2-heart-of-thorns-deluxe-edition.json) |
+| Guild Wars 2: Heroic Edition | 53066 | [53066-guild-wars-2-heroic-edition.json](./53066-guild-wars-2-heroic-edition.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
 | Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
