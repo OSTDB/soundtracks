@@ -4930,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Girl | 260197 | [260197-dig-girl.json](./260197-dig-girl.json) |
 | Dig In | 399207 | [399207-dig-in.json](./399207-dig-in.json) |
 | Dig Island | 372930 | [372930-dig-island.json](./372930-dig-island.json) |
+| Dig It! | 14490 | [14490-dig-it.json](./14490-dig-it.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
