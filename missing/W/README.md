@@ -3600,7 +3600,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
 | Wipeout 3 | 1540 | [1540-wipeout-3.json](./1540-wipeout-3.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
+| Wipeout 64 | 1539 | [1539-wipeout-64.json](./1539-wipeout-64.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
+| Wipeout Fusion | 1541 | [1541-wipeout-fusion.json](./1541-wipeout-fusion.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
@@ -4609,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
+| World Class Track Meet | 2242 | [2242-world-class-track-meet.json](./2242-world-class-track-meet.json) |
 | World Clock | 90901 | [90901-world-clock.json](./90901-world-clock.json) |
 | World Club Champion Football: Intercontinental Clubs 2011-2012 | 314987 | [314987-world-club-champion-football-intercontinental-clubs-2011-2012.json](./314987-world-club-champion-football-intercontinental-clubs-2011-2012.json) |
 | World Combat | 380513 | [380513-world-combat.json](./380513-world-combat.json) |
