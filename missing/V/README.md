@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaster Claws 3: Dragon Slayer of the God World - Special Pack | 156116 | [156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json](./156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json) |
 | Vastophobia | 334327 | [334327-vastophobia.json](./334327-vastophobia.json) |
 | Vastynex | 184398 | [184398-vastynex.json](./184398-vastynex.json) |
+| Vatlva | 22503 | [22503-vatlva.json](./22503-vatlva.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
 | Vault Circuit | 212743 | [212743-vault-circuit.json](./212743-vault-circuit.json) |
