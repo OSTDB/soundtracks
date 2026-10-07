@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julia: A Science Journey | 235794 | [235794-julia-a-science-journey.json](./235794-julia-a-science-journey.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
 | Julia's Quest | 100273 | [100273-julias-quest.json](./100273-julias-quest.json) |
+| Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
 | July | 62243 | [62243-july.json](./62243-july.json) |
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
