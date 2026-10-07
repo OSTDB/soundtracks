@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection: Humanity's Last Gasp | 34907 | [34907-infection-humanitys-last-gasp.json](./34907-infection-humanitys-last-gasp.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
+| Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
 | International Tennis Tour | 44453 | [44453-international-tennis-tour.json](./44453-international-tennis-tour.json) |
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
+| International Track & Field | 20406 | [20406-international-track-and-field.json](./20406-international-track-and-field.json) |
 | International Track & Field 2000 | 3517 | [3517-international-track-and-field-2000.json](./3517-international-track-and-field-2000.json) |
 | International Volleyball 2004 | 204700 | [204700-international-volleyball-2004.json](./204700-international-volleyball-2004.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
