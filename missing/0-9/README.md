@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
+| 007 Legends | 1649 | [1649-007-legends.json](./1649-007-legends.json) |
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
 | 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
