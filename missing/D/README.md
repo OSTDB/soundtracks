@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Dalek: Dissolution Earth | 239580 | [239580-dalek-dissolution-earth.json](./239580-dalek-dissolution-earth.json) |
 | Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
+| Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
+| Dan Dare II: Mekon's Revenge | 13567 | [13567-dan-dare-ii-mekons-revenge.json](./13567-dan-dare-ii-mekons-revenge.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
 | Dan Dare: Pilot of the Future | 30214 | [30214-dan-dare-pilot-of-the-future.json](./30214-dan-dare-pilot-of-the-future.json) |
 | Dan Factory | 253381 | [253381-dan-factory.json](./253381-dan-factory.json) |
@@ -524,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelion Void | 343376 | [343376-dandelion-void.json](./343376-dandelion-void.json) |
 | Dandelion: Wishes Brought to You | 17800 | [17800-dandelion-wishes-brought-to-you.json](./17800-dandelion-wishes-brought-to-you.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
+| Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
@@ -588,6 +591,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Girl | 45226 | [45226-danger-girl.json](./45226-danger-girl.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger in Body | 247982 | [247982-danger-in-body.json](./247982-danger-in-body.json) |
+| Danger Mouse in Double Trouble | 13569 | [13569-danger-mouse-in-double-trouble.json](./13569-danger-mouse-in-double-trouble.json) |
+| Danger Mouse in Making Whoopee! | 13570 | [13570-danger-mouse-in-making-whoopee.json](./13570-danger-mouse-in-making-whoopee.json) |
 | Danger Mouse: The Danger Games | 85557 | [85557-danger-mouse-the-danger-games.json](./85557-danger-mouse-the-danger-games.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
@@ -1071,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
+| Dark Star | 13571 | [13571-dark-star.json](./13571-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
@@ -1268,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darkwood: Special Edition | 118154 | [118154-darkwood-special-edition.json](./118154-darkwood-special-edition.json) |
 | Darkworld | 273002 | [273002-darkworld.json](./273002-darkworld.json) |
+| Darkwurlde | 13572 | [13572-darkwurlde.json](./13572-darkwurlde.json) |
 | Darkzan Adventure | 376558 | [376558-darkzan-adventure.json](./376558-darkzan-adventure.json) |
 | Darkzan Arena | 244895 | [244895-darkzan-arena.json](./244895-darkzan-arena.json) |
 | Darkzone: Idle RPG | 150759 | [150759-darkzone-idle-rpg.json](./150759-darkzone-idle-rpg.json) |
@@ -1818,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
 | Deacon Blues | 145517 | [145517-deacon-blues.json](./145517-deacon-blues.json) |
+| Deactivators | 13573 | [13573-deactivators.json](./13573-deactivators.json) |
 | Dead | 168127 | [168127-dead.json](./168127-dead.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
@@ -2021,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of the Brain 2 | 66361 | [66361-dead-of-the-brain-2.json](./66361-dead-of-the-brain-2.json) |
 | Dead of the Sea | 235708 | [235708-dead-of-the-sea.json](./235708-dead-of-the-sea.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
+| Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
@@ -2239,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Edge | 52250 | [52250-deadly-edge.json](./52250-deadly-edge.json) |
 | Deadly Endgame | 384132 | [384132-deadly-endgame.json](./384132-deadly-endgame.json) |
+| Deadly Evil | 13576 | [13576-deadly-evil.json](./13576-deadly-evil.json) |
 | Deadly Fight | 164960 | [164960-deadly-fight.json](./164960-deadly-fight.json) |
 | Deadly Fighter 2 | 122906 | [122906-deadly-fighter-2.json](./122906-deadly-fighter-2.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
@@ -2519,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
+| Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
 | Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
@@ -2526,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
 | Death Pirate | 35521 | [35521-death-pirate.json](./35521-death-pirate.json) |
+| Death Pit | 13578 | [13578-death-pit.json](./13578-death-pit.json) |
 | Death Pit Explorer | 339929 | [339929-death-pit-explorer.json](./339929-death-pit-explorer.json) |
 | Death Plunder | 311174 | [311174-death-plunder.json](./311174-death-plunder.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
@@ -2550,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
+| Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
@@ -2574,9 +2587,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Upon An Austrian Sonata: A Dana Knightstone Novel | 132803 | [132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json](./132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json) |
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
+| Death Wake | 13580 | [13580-death-wake.json](./13580-death-wake.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Waves | 114978 | [114978-death-waves.json](./114978-death-waves.json) |
 | Death Wish | 159789 | [159789-death-wish.json](./159789-death-wish.json) |
+| Death Wish 3 | 13581 | [13581-death-wish-3.json](./13581-death-wish-3.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
 | Death Worm | 337201 | [337201-death-worm.json](./337201-death-worm.json) |
 | Death Zone | 144854 | [144854-death-zone.json](./144854-death-zone.json) |
@@ -2639,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
+| Deathsville | 13582 | [13582-deathsville.json](./13582-deathsville.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
 | DeathTower | 302472 | [302472-deathtower.json](./302472-deathtower.json) |
 | DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
@@ -2932,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
+| Deep Strike | 13583 | [13583-deep-strike.json](./13583-deep-strike.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
@@ -3009,6 +3026,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defaction | 178537 | [178537-defaction.json](./178537-defaction.json) |
+| Defcom | 13586 | [13586-defcom.json](./13586-defcom.json) |
+| Defcom 1 | 13584 | [13584-defcom-1.json](./13584-defcom-1.json) |
 | Defcon 1: Alien Invasion | 216151 | [216151-defcon-1-alien-invasion.json](./216151-defcon-1-alien-invasion.json) |
 | Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
