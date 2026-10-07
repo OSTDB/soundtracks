@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Pinball | 124086 | [124086-safari-pinball.json](./124086-safari-pinball.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
+| Safari Race | 6129 | [6129-safari-race.json](./6129-safari-race.json) |
 | Safari Rally | 40416 | [40416-safari-rally.json](./40416-safari-rally.json) |
 | Safari Simulator: Lion | 88154 | [88154-safari-simulator-lion.json](./88154-safari-simulator-lion.json) |
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
@@ -2860,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
+| Sega Flipper | 6130 | [6130-sega-flipper.json](./6130-sega-flipper.json) |
 | Sega Football Club Champions | 346196 | [346196-sega-football-club-champions.json](./346196-sega-football-club-champions.json) |
 | Sega Game Pack 4 in 1 | 79600 | [79600-sega-game-pack-4-in-1.json](./79600-sega-game-pack-4-in-1.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
@@ -2907,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega World Tournament Golf | 46128 | [46128-sega-world-tournament-golf.json](./46128-sega-world-tournament-golf.json) |
 | Sega Worldwide Soccer 2000: Euro Edition | 46554 | [46554-sega-worldwide-soccer-2000-euro-edition.json](./46554-sega-worldwide-soccer-2000-euro-edition.json) |
 | Sega Yon-nin Uchi Mahjong MJ | 164282 | [164282-sega-yon-nin-uchi-mahjong-mj.json](./164282-sega-yon-nin-uchi-mahjong-mj.json) |
+| Sega-Galaga | 6131 | [6131-sega-galaga.json](./6131-sega-galaga.json) |
 | Segagaga | 28151 | [28151-segagaga.json](./28151-segagaga.json) |
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
@@ -3338,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
 | Seris the Devil Killer in Harbor Village | 83148 | [83148-seris-the-devil-killer-in-harbor-village.json](./83148-seris-the-devil-killer-in-harbor-village.json) |
+| Serizawa Hachidan no Tsume Shogi | 6132 | [6132-serizawa-hachidan-no-tsume-shogi.json](./6132-serizawa-hachidan-no-tsume-shogi.json) |
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
@@ -4855,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkyoku Soukai Polyphonica: 0~4 wa Full Pack | 269529 | [269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json](./269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json) |
 | Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
+| Shinnyuushain Tooru-Kun | 6133 | [6133-shinnyuushain-tooru-kun.json](./6133-shinnyuushain-tooru-kun.json) |
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
@@ -6414,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | Sinclair User DoubleHits 5 | 85759 | [85759-sinclair-user-doublehits-5.json](./85759-sinclair-user-doublehits-5.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
+| Sindbad Mystery | 6135 | [6135-sindbad-mystery.json](./6135-sindbad-mystery.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
 | Sindibad - Chitei No Dai Meikyu | 37690 | [37690-sindibad-chitei-no-dai-meikyu.json](./37690-sindibad-chitei-no-dai-meikyu.json) |
 | Sindome | 113464 | [113464-sindome.json](./113464-sindome.json) |
@@ -9104,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
+| Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
@@ -10852,6 +10859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
 | Space Arcade Collection | 208870 | [208870-space-arcade-collection.json](./208870-space-arcade-collection.json) |
 | Space Arena | 101030 | [101030-space-arena.json](./101030-space-arena.json) |
+| Space Armor | 6137 | [6137-space-armor.json](./6137-space-armor.json) |
 | Space Ashes | 109899 | [109899-space-ashes.json](./109899-space-ashes.json) |
 | Space Assault | 42134 | [42134-space-assault.json](./42134-space-assault.json) |
 | Space Attack | 38573 | [38573-space-attack.json](./38573-space-attack.json) |
@@ -11380,6 +11388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
+| Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
@@ -12591,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splash: Ocean Sanctuary | 122902 | [122902-splash-ocean-sanctuary.json](./122902-splash-ocean-sanctuary.json) |
+| Splashdown: Rides Gone Wild | 6150 | [6150-splashdown-rides-gone-wild.json](./6150-splashdown-rides-gone-wild.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
@@ -13063,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
 | Spy Hunter / Super Sprint | 93200 | [93200-spy-hunter-super-sprint.json](./93200-spy-hunter-super-sprint.json) |
+| Spy Hunter II | 6153 | [6153-spy-hunter-ii.json](./6153-spy-hunter-ii.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
 | Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
@@ -13646,6 +13657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
 | Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
+| Star Jacker | 6140 | [6140-star-jacker.json](./6140-star-jacker.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
@@ -14853,6 +14865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Assault | 56668 | [56668-steel-assault.json](./56668-steel-assault.json) |
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
+| Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
@@ -18961,6 +18974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
 | Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
 | Super Tank | 279692 | [279692-super-tank.json](./279692-super-tank.json) |
+| Super Tank | 6141 | [6141-super-tank.json](./6141-super-tank.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
@@ -19172,6 +19186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
 | Superman: The Man of Steel | 12787 | [12787-superman-the-man-of-steel.json](./12787-superman-the-man-of-steel.json) |
+| Superman: The Man of Steel | 6183 | [6183-superman-the-man-of-steel.json](./6183-superman-the-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Superman: World's Finest | 112876 | [112876-superman-worlds-finest.json](./112876-superman-worlds-finest.json) |
 | Supermaneuver | 397777 | [397777-supermaneuver.json](./397777-supermaneuver.json) |
