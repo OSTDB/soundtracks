@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
+| B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
 | B.A.D Battle Armor Division | 34960 | [34960-b-a-d-battle-armor-division.json](./34960-b-a-d-battle-armor-division.json) |
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
 | Balloon Azuna | 167589 | [167589-balloon-azuna.json](./167589-balloon-azuna.json) |
+| Balloon Blowout | 30742 | [30742-balloon-blowout.json](./30742-balloon-blowout.json) |
 | Balloon Bounce | 366401 | [366401-balloon-bounce.json](./366401-balloon-bounce.json) |
 | Balloon Bros | 381095 | [381095-balloon-bros.json](./381095-balloon-bros.json) |
 | Balloon Buster | 360121 | [360121-balloon-buster.json](./360121-balloon-buster.json) |
@@ -4564,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
+| Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 6914 | [6914-bionic-commando.json](./6914-bionic-commando.json) |
@@ -5822,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Blitz | 207280 | [207280-block-blitz.json](./207280-block-blitz.json) |
 | Block Block | 46763 | [46763-block-block.json](./46763-block-block.json) |
 | Block Block Block | 347845 | [347845-block-block-block.json](./347845-block-block-block.json) |
+| Block Blowout | 30741 | [30741-block-blowout.json](./30741-block-blowout.json) |
 | Block Bot: Puzzle Journey | 312158 | [312158-block-bot-puzzle-journey.json](./312158-block-bot-puzzle-journey.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
@@ -10220,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte Bitten | 93183 | [93183-byte-bitten.json](./93183-byte-bitten.json) |
 | Byte Breakers | 314978 | [314978-byte-breakers.json](./314978-byte-breakers.json) |
+| Byte Family | 30750 | [30750-byte-family.json](./30750-byte-family.json) |
 | Byte Fyte: Multiplayer | 226276 | [226276-byte-fyte-multiplayer.json](./226276-byte-fyte-multiplayer.json) |
 | Byte Hack | 287914 | [287914-byte-hack.json](./287914-byte-hack.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
