@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 4 | 2330 | [2330-mario-party-4.json](./2330-mario-party-4.json) |
 | Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
 | Mario Party 5 | 2331 | [2331-mario-party-5.json](./2331-mario-party-5.json) |
+| Mario Party 6 | 2333 | [2333-mario-party-6.json](./2333-mario-party-6.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
 | Mario Party 8 | 328675 | [328675-mario-party-8.json](./328675-mario-party-8.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
 | Mass Effect 2: Lair of the Shadow Broker | 782 | [782-mass-effect-2-lair-of-the-shadow-broker.json](./782-mass-effect-2-lair-of-the-shadow-broker.json) |
+| Mass Effect 2: Overlord | 783 | [783-mass-effect-2-overlord.json](./783-mass-effect-2-overlord.json) |
 | Mass Effect 3 | 245478 | [245478-mass-effect-3.json](./245478-mass-effect-3.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect 3: From Ashes | 13910 | [13910-mass-effect-3-from-ashes.json](./13910-mass-effect-3-from-ashes.json) |
@@ -6269,8 +6271,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cat Heist | 378996 | [378996-midnight-cat-heist.json](./378996-midnight-cat-heist.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
+| Midnight Club 3: DUB Edition | 5928 | [5928-midnight-club-3-dub-edition.json](./5928-midnight-club-3-dub-edition.json) |
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
 | Midnight Club L.A. Remix | 42857 | [42857-midnight-club-l-a-remix.json](./42857-midnight-club-l-a-remix.json) |
+| Midnight Club: Los Angeles | 7071 | [7071-midnight-club-los-angeles.json](./7071-midnight-club-los-angeles.json) |
 | Midnight Club: Los Angeles - Complete Edition | 44581 | [44581-midnight-club-los-angeles-complete-edition.json](./44581-midnight-club-los-angeles-complete-edition.json) |
 | Midnight Club: Street Racing | 194265 | [194265-midnight-club-street-racing.json](./194265-midnight-club-street-racing.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
@@ -7916,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
+| Mixtape | 305157 | [305157-mixtape.json](./305157-mixtape.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island: Remix Plus | 244820 | [244820-mixx-island-remix-plus.json](./244820-mixx-island-remix-plus.json) |
@@ -10150,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount & Blade: Warband - Viking Conquest Reforged Edition | 8761 | [8761-mount-and-blade-warband-viking-conquest-reforged-edition.json](./8761-mount-and-blade-warband-viking-conquest-reforged-edition.json) |
+| Mount & Blade: With Fire and Sword | 8792 | [8792-mount-and-blade-with-fire-and-sword.json](./8792-mount-and-blade-with-fire-and-sword.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
@@ -10635,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudness Offroad: 4x4 Truck Car Simulator | 313210 | [313210-mudness-offroad-4x4-truck-car-simulator.json](./313210-mudness-offroad-4x4-truck-car-simulator.json) |
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
 | Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
+| MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
 | Muffin Knight | 9268 | [9268-muffin-knight.json](./9268-muffin-knight.json) |
 | Muffins on Stream | 239307 | [239307-muffins-on-stream.json](./239307-muffins-on-stream.json) |
