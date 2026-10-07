@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
+| L.A. Noire | 59849 | [59849-l-a-noire.json](./59849-l-a-noire.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
 | L.A. Rush | 5899 | [5899-l-a-rush.json](./5899-l-a-rush.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Photographer 4 | 199567 | [199567-late-photographer-4.json](./199567-late-photographer-4.json) |
 | Late Photographer 5 | 201148 | [201148-late-photographer-5.json](./201148-late-photographer-5.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
+| Late Shift | 27717 | [27717-late-shift.json](./27717-late-shift.json) |
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
@@ -4048,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
+| Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
