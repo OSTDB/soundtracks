@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
 | Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
+| Ladder Slasher | 56878 | [56878-ladder-slasher.json](./56878-ladder-slasher.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Lade's Sandbox | 303621 | [303621-lades-sandbox.json](./303621-lades-sandbox.json) |
@@ -2199,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Spot It! | 252925 | [252925-lets-spot-it.json](./252925-lets-spot-it.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
 | Let's Talk About Me Too | 78336 | [78336-lets-talk-about-me-too.json](./78336-lets-talk-about-me-too.json) |
+| Let's Tap: Tap Runner | 56899 | [56899-lets-tap-tap-runner.json](./56899-lets-tap-tap-runner.json) |
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
 | Let's Worm | 115686 | [115686-lets-worm.json](./115686-lets-worm.json) |
@@ -2553,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a Space Force Captain | 190947 | [190947-life-of-a-space-force-captain.json](./190947-life-of-a-space-force-captain.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
+| Life of Black Tiger | 56892 | [56892-life-of-black-tiger.json](./56892-life-of-black-tiger.json) |
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
@@ -2600,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
 | Lifeline | 83829 | [83829-lifeline.json](./83829-lifeline.json) |
+| Lifeline: Halfway to Infinity | 56888 | [56888-lifeline-halfway-to-infinity.json](./56888-lifeline-halfway-to-infinity.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
