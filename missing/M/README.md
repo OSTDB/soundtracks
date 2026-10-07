@@ -6915,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er II | 59505 | [59505-miner-2049er-ii.json](./59505-miner-2049er-ii.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Clicker | 387598 | [387598-miner-clicker.json](./387598-miner-clicker.json) |
+| Miner Disturbance | 56920 | [56920-miner-disturbance.json](./56920-miner-disturbance.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
 | Miner Lou | 116918 | [116918-miner-lou.json](./116918-miner-lou.json) |
@@ -7557,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Invader | 245435 | [245435-missile-invader.json](./245435-missile-invader.json) |
 | Missile Mayhem | 360139 | [360139-missile-mayhem.json](./360139-missile-mayhem.json) |
+| Missile Strike: War Arcade | 56896 | [56896-missile-strike-war-arcade.json](./56896-missile-strike-war-arcade.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
 | Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
@@ -12027,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Diary: Lost Brother | 32216 | [32216-mystic-diary-lost-brother.json](./32216-mystic-diary-lost-brother.json) |
 | Mystic Duel: Heroes Realm | 299419 | [299419-mystic-duel-heroes-realm.json](./299419-mystic-duel-heroes-realm.json) |
+| Mystic Emporium | 56906 | [56906-mystic-emporium.json](./56906-mystic-emporium.json) |
 | Mystic Escape: Diary of a Prisoner | 130171 | [130171-mystic-escape-diary-of-a-prisoner.json](./130171-mystic-escape-diary-of-a-prisoner.json) |
 | Mystic Explorer | 316642 | [316642-mystic-explorer.json](./316642-mystic-explorer.json) |
 | Mystic Fishing: A Fantasy Fishing RPG | 356077 | [356077-mystic-fishing-a-fantasy-fishing-rpg.json](./356077-mystic-fishing-a-fantasy-fishing-rpg.json) |
