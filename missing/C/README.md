@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino by eGames | 165547 | [165547-casino-by-egames.json](./165547-casino-by-egames.json) |
 | Casino Casualty | 365099 | [365099-casino-casualty.json](./365099-casino-casualty.json) |
 | Casino Challenge | 44640 | [44640-casino-challenge.json](./44640-casino-challenge.json) |
+| Casino Chaos | 25541 | [25541-casino-chaos.json](./25541-casino-chaos.json) |
 | Casino Clicker: Vegas Style | 373221 | [373221-casino-clicker-vegas-style.json](./373221-casino-clicker-vegas-style.json) |
 | Casino Conqueror | 273376 | [273376-casino-conqueror.json](./273376-casino-conqueror.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
+| Cavern Creatures | 25602 | [25602-cavern-creatures.json](./25602-cavern-creatures.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
@@ -4796,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella: An Interactive Fairytale | 114183 | [114183-cinderella-an-interactive-fairytale.json](./114183-cinderella-an-interactive-fairytale.json) |
 | Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
 | Cinderella: Princess of the Magic Kingdom | 319787 | [319787-cinderella-princess-of-the-magic-kingdom.json](./319787-cinderella-princess-of-the-magic-kingdom.json) |
+| Cinderella: The Crystal Fairytale | 25543 | [25543-cinderella-the-crystal-fairytale.json](./25543-cinderella-the-crystal-fairytale.json) |
 | Cinderella's Castle Designer | 50427 | [50427-cinderellas-castle-designer.json](./50427-cinderellas-castle-designer.json) |
 | Cinderella's Dollhouse | 209034 | [209034-cinderellas-dollhouse.json](./209034-cinderellas-dollhouse.json) |
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
@@ -5342,6 +5345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | Classic Action: Devilish | 47890 | [47890-classic-action-devilish.json](./47890-classic-action-devilish.json) |
+| Classic Adventure | 25589 | [25589-classic-adventure.json](./25589-classic-adventure.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
@@ -10408,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
+| Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
@@ -10552,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
 | Cube Monster | 74389 | [74389-cube-monster.json](./74389-cube-monster.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
+| Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
 | Cube Railway | 312695 | [312695-cube-railway.json](./312695-cube-railway.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
