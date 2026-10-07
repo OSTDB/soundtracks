@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
+| Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
 | ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
 | Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures With Oslo: Tools and Gadgets | 206095 | [206095-adventures-with-oslo-tools-and-gadgets.json](./206095-adventures-with-oslo-tools-and-gadgets.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adventurezator: When Pigs Fly | 8373 | [8373-adventurezator-when-pigs-fly.json](./8373-adventurezator-when-pigs-fly.json) |
+| Adventuring Gentleman | 25663 | [25663-adventuring-gentleman.json](./25663-adventuring-gentleman.json) |
 | Adventuro | 280304 | [280304-adventuro.json](./280304-adventuro.json) |
 | AdventurOS | 62816 | [62816-adventuros.json](./62816-adventuros.json) |
 | Adventurous Boy: Màoxiǎn Xiǎozi | 128553 | [128553-adventurous-boy-maoxian-xiaozi.json](./128553-adventurous-boy-maoxian-xiaozi.json) |
@@ -4133,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altaïr | 93148 | [93148-altair.json](./93148-altair.json) |
 | Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
+| Altar | 25598 | [25598-altar.json](./25598-altar.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
 | Altar of Gems | 80167 | [80167-altar-of-gems.json](./80167-altar-of-gems.json) |
@@ -5998,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
+| Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
 | AntMe! | 138000 | [138000-antme.json](./138000-antme.json) |
 | Antonball Deluxe | 139595 | [139595-antonball-deluxe.json](./139595-antonball-deluxe.json) |
