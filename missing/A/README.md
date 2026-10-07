@@ -6923,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
 | Arcade Game Piggy Bank: Atari Breakout | 233649 | [233649-arcade-game-piggy-bank-atari-breakout.json](./233649-arcade-game-piggy-bank-atari-breakout.json) |
+| Arcade Game Series: Dig Dug | 82377 | [82377-arcade-game-series-dig-dug.json](./82377-arcade-game-series-dig-dug.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Game Zone | 279251 | [279251-arcade-game-zone.json](./279251-arcade-game-zone.json) |
 | Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
