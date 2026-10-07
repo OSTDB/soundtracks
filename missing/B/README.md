@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer | 176 | [176-ballblazer.json](./176-ballblazer.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballblazer Champions | 177 | [177-ballblazer-champions.json](./177-ballblazer-champions.json) |
+| BallBuster Collection | 52443 | [52443-ballbuster-collection.json](./52443-ballbuster-collection.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Shapers | 244184 | [244184-battle-shapers.json](./244184-battle-shapers.json) |
 | Battle Shapes | 58614 | [58614-battle-shapes.json](./58614-battle-shapes.json) |
+| Battle Sheep | 52439 | [52439-battle-sheep.json](./52439-battle-sheep.json) |
 | Battle Ship Clapton II | 47547 | [47547-battle-ship-clapton-ii.json](./47547-battle-ship-clapton-ii.json) |
 | Battle Ships | 13869 | [13869-battle-ships.json](./13869-battle-ships.json) |
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
@@ -2346,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
+| Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
 | Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
 | Battle x Battle: Kyoudai Uo Densetsu | 49486 | [49486-battle-x-battle-kyoudai-uo-densetsu.json](./49486-battle-x-battle-kyoudai-uo-densetsu.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
@@ -2659,6 +2662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be a Bee | 386357 | [386357-be-a-bee.json](./386357-be-a-bee.json) |
 | Be A Bee | 351090 | [351090-be-a-bee.json](./351090-be-a-bee.json) |
 | Be a King | 80245 | [80245-be-a-king.json](./80245-be-a-king.json) |
+| Be a King: Golden Empire | 52452 | [52452-be-a-king-golden-empire.json](./52452-be-a-king-golden-empire.json) |
 | Be A Lord | 114293 | [114293-be-a-lord.json](./114293-be-a-lord.json) |
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
@@ -2725,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Love Shop | 138564 | [138564-beach-love-shop.json](./138564-beach-love-shop.json) |
 | Beach Mini Golf 2 | 243740 | [243740-beach-mini-golf-2.json](./243740-beach-mini-golf-2.json) |
 | Beach Paddle | 65860 | [65860-beach-paddle.json](./65860-beach-paddle.json) |
+| Beach Party Craze | 52451 | [52451-beach-party-craze.json](./52451-beach-party-craze.json) |
 | Beach Ping Pong Babes VR | 311171 | [311171-beach-ping-pong-babes-vr.json](./311171-beach-ping-pong-babes-vr.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
 | Beach Relaxation VR | 160146 | [160146-beach-relaxation-vr.json](./160146-beach-relaxation-vr.json) |
@@ -2732,7 +2737,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
+| Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
+| Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
@@ -3119,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
+| Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
@@ -3341,6 +3349,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
+| Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
+| Behind the Reflection 2: Witch's Revenge | 52445 | [52445-behind-the-reflection-2-witchs-revenge.json](./52445-behind-the-reflection-2-witchs-revenge.json) |
 | Behind the Screen & Defoliation | 194974 | [194974-behind-the-screen-and-defoliation.json](./194974-behind-the-screen-and-defoliation.json) |
 | Behind the Smile | 374800 | [374800-behind-the-smile.json](./374800-behind-the-smile.json) |
 | Behind The Truth | 83954 | [83954-behind-the-truth.json](./83954-behind-the-truth.json) |
@@ -3401,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Bellator: MMA Onslaught | 47438 | [47438-bellator-mma-onslaught.json](./47438-bellator-mma-onslaught.json) |
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
+| Bellatorus Deluxe | 52444 | [52444-bellatorus-deluxe.json](./52444-bellatorus-deluxe.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle Citique | 347813 | [347813-belle-citique.json](./347813-belle-citique.json) |
 | Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
@@ -3685,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
+| Best of Tilted Mill | 52466 | [52466-best-of-tilted-mill.json](./52466-best-of-tilted-mill.json) |
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
 | Best Play Baseball | 242686 | [242686-best-play-baseball.json](./242686-best-play-baseball.json) |
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
@@ -3703,6 +3715,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bestri | 263649 | [263649-bestri.json](./263649-bestri.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
+| Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
+| Bet on Soldier: Blood of Sahara | 52463 | [52463-bet-on-soldier-blood-of-sahara.json](./52463-bet-on-soldier-blood-of-sahara.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
@@ -4087,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big City Adventure: Vancouver | 65203 | [65203-big-city-adventure-vancouver.json](./65203-big-city-adventure-vancouver.json) |
 | Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
+| Big City Rigs: Garbage Truck | 52462 | [52462-big-city-rigs-garbage-truck.json](./52462-big-city-rigs-garbage-truck.json) |
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
 | Big Craft Exploration 2 | 105839 | [105839-big-craft-exploration-2.json](./105839-big-craft-exploration-2.json) |
@@ -4155,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Shot Basketball | 116160 | [116160-big-shot-basketball.json](./116160-big-shot-basketball.json) |
 | Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
 | Big Sister's Ass | 97834 | [97834-big-sisters-ass.json](./97834-big-sisters-ass.json) |
+| Big Sky | 52461 | [52461-big-sky.json](./52461-big-sky.json) |
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
 | Big Sky Country: Book 2 | 313718 | [313718-big-sky-country-book-2.json](./313718-big-sky-country-book-2.json) |
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
@@ -4265,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
+| Bilbo: The Four Corners of the World | 52460 | [52460-bilbo-the-four-corners-of-the-world.json](./52460-bilbo-the-four-corners-of-the-world.json) |
 | Bilge Rat's Bounty | 180758 | [180758-bilge-rats-bounty.json](./180758-bilge-rats-bounty.json) |
 | Bilge Su Bullet Baroness | 364509 | [364509-bilge-su-bullet-baroness.json](./364509-bilge-su-bullet-baroness.json) |
 | Bililitz | 390794 | [390794-bililitz.json](./390794-bililitz.json) |
@@ -4290,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
 | Billiard Academy Real Break | 264254 | [264254-billiard-academy-real-break.json](./264254-billiard-academy-real-break.json) |
+| Billiard Club | 52459 | [52459-billiard-club.json](./52459-billiard-club.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
 | Billiard Rampage | 389682 | [389682-billiard-rampage.json](./389682-billiard-rampage.json) |
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
@@ -4442,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Fault | 397052 | [397052-bio-fault.json](./397052-bio-fault.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
+| Bio Guardian | 52458 | [52458-bio-guardian.json](./52458-bio-guardian.json) |
 | Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
 | Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
@@ -4651,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds of Prey | 15673 | [15673-birds-of-prey.json](./15673-birds-of-prey.json) |
 | Birds of War | 390140 | [390140-birds-of-war.json](./390140-birds-of-war.json) |
+| Birds on a Wire | 52457 | [52457-birds-on-a-wire.json](./52457-birds-on-a-wire.json) |
 | Birds On A Wire | 269070 | [269070-birds-on-a-wire.json](./269070-birds-on-a-wire.json) |
 | Birds vs. Dragons | 283998 | [283998-birds-vs-dragons.json](./283998-birds-vs-dragons.json) |
 | Birds Watching | 391179 | [391179-birds-watching.json](./391179-birds-watching.json) |
@@ -4998,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
 | Black Magnetic | 262560 | [262560-black-magnetic.json](./262560-black-magnetic.json) |
 | Black Maou & Rainbow Kingdom | 151285 | [151285-black-maou-and-rainbow-kingdom.json](./151285-black-maou-and-rainbow-kingdom.json) |
+| Black Market | 52471 | [52471-black-market.json](./52471-black-market.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
@@ -5112,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackguards | 5522 | [5522-blackguards.json](./5522-blackguards.json) |
 | Blackguards 2 | 8335 | [8335-blackguards-2.json](./8335-blackguards-2.json) |
+| Blackguards: Deluxe Edition | 52468 | [52468-blackguards-deluxe-edition.json](./52468-blackguards-deluxe-edition.json) |
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
 | Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
@@ -6259,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
 | Bloody Good Friends | 284018 | [284018-bloody-good-friends.json](./284018-bloody-good-friends.json) |
+| Bloody Good Times | 52475 | [52475-bloody-good-times.json](./52475-bloody-good-times.json) |
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
@@ -6429,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
+| Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
@@ -6453,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
+| Blue Ribbon Show Jumper | 52472 | [52472-blue-ribbon-show-jumper.json](./52472-blue-ribbon-show-jumper.json) |
 | Blue Rider | 25742 | [25742-blue-rider.json](./25742-blue-rider.json) |
 | Blue Rider: Collector's Edition | 167046 | [167046-blue-rider-collectors-edition.json](./167046-blue-rider-collectors-edition.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
@@ -8375,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking the Barrier | 268670 | [268670-breaking-the-barrier.json](./268670-breaking-the-barrier.json) |
+| Breaking The Rules: The Roman Tournament | 52477 | [52477-breaking-the-rules-the-roman-tournament.json](./52477-breaking-the-rules-the-roman-tournament.json) |
 | Breaking Up Is Hard To Do | 389660 | [389660-breaking-up-is-hard-to-do.json](./389660-breaking-up-is-hard-to-do.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | BreakingPoint | 395095 | [395095-breakingpoint.json](./395095-breakingpoint.json) |
@@ -8697,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
 | Britannica Sudoku Unlimited | 206681 | [206681-britannica-sudoku-unlimited.json](./206681-britannica-sudoku-unlimited.json) |
+| Britannica Word Search | 52476 | [52476-britannica-word-search.json](./52476-britannica-word-search.json) |
 | Britannica World's Best Solitaire | 206683 | [206683-britannica-worlds-best-solitaire.json](./206683-britannica-worlds-best-solitaire.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
