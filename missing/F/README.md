@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
 | F-Zero: GP Legend | 3493 | [3493-f-zero-gp-legend.json](./3493-f-zero-gp-legend.json) |
 | F-Zero: GP Legend e+ Complete | 173092 | [173092-f-zero-gp-legend-e-complete.json](./173092-f-zero-gp-legend-e-complete.json) |
+| F-Zero: Maximum Velocity | 3491 | [3491-f-zero-maximum-velocity.json](./3491-f-zero-maximum-velocity.json) |
 | F-Zero: The Lost Tracks | 38259 | [38259-f-zero-the-lost-tracks.json](./38259-f-zero-the-lost-tracks.json) |
 | F.1 Manager | 92689 | [92689-f-1-manager.json](./92689-f-1-manager.json) |
 | F.A Cup Football | 93372 | [93372-f-a-cup-football.json](./93372-f-a-cup-football.json) |
@@ -5528,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forging Ahead | 244740 | [244740-forging-ahead.json](./244740-forging-ahead.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forging History Saga: The big bang | 182842 | [182842-forging-history-saga-the-big-bang.json](./182842-forging-history-saga-the-big-bang.json) |
+| Forgive Me Father | 165479 | [165479-forgive-me-father.json](./165479-forgive-me-father.json) |
 | Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
 | Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
 | Forgive or Finalize | 398486 | [398486-forgive-or-finalize.json](./398486-forgive-or-finalize.json) |
@@ -6492,6 +6494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Force | 68361 | [68361-freedom-force.json](./68361-freedom-force.json) |
+| Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
