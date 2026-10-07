@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
 | Kick Off 96 | 94330 | [94330-kick-off-96.json](./94330-kick-off-96.json) |
 | Kick Off 97 | 94954 | [94954-kick-off-97.json](./94954-kick-off-97.json) |
+| Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
 | Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
@@ -2385,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kizuchida Quiz da Gen-San Da! | 62597 | [62597-kizuchida-quiz-da-gen-san-da.json](./62597-kizuchida-quiz-da-gen-san-da.json) |
 | Kizuna AI: Touch the Beat! | 187869 | [187869-kizuna-ai-touch-the-beat.json](./187869-kizuna-ai-touch-the-beat.json) |
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
+| Kizuna Encounter: Super Tag Battle | 39530 | [39530-kizuna-encounter-super-tag-battle.json](./39530-kizuna-encounter-super-tag-battle.json) |
 | Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
 | Kizuna Kirameku Koi Iroha | 77659 | [77659-kizuna-kirameku-koi-iroha.json](./77659-kizuna-kirameku-koi-iroha.json) |
 | Kizuyami | 267009 | [267009-kizuyami.json](./267009-kizuyami.json) |
