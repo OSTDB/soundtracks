@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted In Blood | 303709 | [303709-painted-in-blood.json](./303709-painted-in-blood.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
+| Painted Red | 56883 | [56883-painted-red.json](./56883-painted-red.json) |
 | Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
@@ -1046,6 +1047,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papuan Dominatrixes Are the Best | 385704 | [385704-papuan-dominatrixes-are-the-best.json](./385704-papuan-dominatrixes-are-the-best.json) |
 | Papy Panic | 391263 | [391263-papy-panic.json](./391263-papy-panic.json) |
 | Papyrus | 49864 | [49864-papyrus.json](./49864-papyrus.json) |
+| Papyrus : La Vengeance d'Aker | 56874 | [56874-papyrus-la-vengeance-daker.json](./56874-papyrus-la-vengeance-daker.json) |
+| Papyrus: Le Secret de la Cité Perdue | 56866 | [56866-papyrus-le-secret-de-la-cite-perdue.json](./56866-papyrus-le-secret-de-la-cite-perdue.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
@@ -2819,6 +2822,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson o Findus i Snickarbon | 265643 | [265643-pettson-o-findus-i-snickarbon.json](./265643-pettson-o-findus-i-snickarbon.json) |
 | Pettson o Findus i Trädgården | 70121 | [70121-pettson-o-findus-i-tradgarden.json](./70121-pettson-o-findus-i-tradgarden.json) |
 | Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
+| Pettson's Inventions | 56886 | [56886-pettsons-inventions.json](./56886-pettsons-inventions.json) |
+| Pettson's Inventions 2 | 56885 | [56885-pettsons-inventions-2.json](./56885-pettsons-inventions-2.json) |
+| Pettson's Inventions 3 | 56887 | [56887-pettsons-inventions-3.json](./56887-pettsons-inventions-3.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
@@ -3950,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple 2000 | 277487 | [277487-pineapple-2000.json](./277487-pineapple-2000.json) |
 | Pineapple Arcade | 109542 | [109542-pineapple-arcade.json](./109542-pineapple-arcade.json) |
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
+| Pineapple Heroes | 56875 | [56875-pineapple-heroes.json](./56875-pineapple-heroes.json) |
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
@@ -7251,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
+| Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
@@ -9586,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Porcelain Smile - Collector's Edition | 115526 | [115526-puppetshow-porcelain-smile-collectors-edition.json](./115526-puppetshow-porcelain-smile-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
+| PuppetsVR | 56872 | [56872-puppetsvr.json](./56872-puppetsvr.json) |
 | Puppies vs Undead | 86359 | [86359-puppies-vs-undead.json](./86359-puppies-vs-undead.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Puppis & Choler | 97522 | [97522-puppis-and-choler.json](./97522-puppis-and-choler.json) |
@@ -10265,6 +10274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Shooter | 89515 | [89515-pyramid-shooter.json](./89515-pyramid-shooter.json) |
 | Pyramid Solitaire | 304761 | [304761-pyramid-solitaire.json](./304761-pyramid-solitaire.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
+| Pyramid Solitaire Cube | 56916 | [56916-pyramid-solitaire-cube.json](./56916-pyramid-solitaire-cube.json) |
 | Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramid Solitaire: Card Game | 90061 | [90061-pyramid-solitaire-card-game.json](./90061-pyramid-solitaire-card-game.json) |
