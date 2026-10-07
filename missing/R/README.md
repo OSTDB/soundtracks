@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline Crooks | 252273 | [252273-redline-crooks.json](./252273-redline-crooks.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
 | Redline JDM Drift | 406301 | [406301-redline-jdm-drift.json](./406301-redline-jdm-drift.json) |
+| RedLine Racer | 39508 | [39508-redline-racer.json](./39508-redline-racer.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | Redline Rush | 242003 | [242003-redline-rush.json](./242003-redline-rush.json) |
@@ -2741,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
 | Relicta | 109742 | [109742-relicta.json](./109742-relicta.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
+| Relief Pitcher | 39507 | [39507-relief-pitcher.json](./39507-relief-pitcher.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
@@ -4310,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
+| Ring Rage | 39498 | [39498-ring-rage.json](./39498-ring-rage.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
@@ -4366,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
+| Rip Cord | 39516 | [39516-rip-cord.json](./39516-rip-cord.json) |
 | Rip Current | 370308 | [370308-rip-current.json](./370308-rip-current.json) |
 | Rip N Ship Simulator | 415279 | [415279-rip-n-ship-simulator.json](./415279-rip-n-ship-simulator.json) |
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
@@ -5048,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Battle | 132056 | [132056-robot-battle.json](./132056-robot-battle.json) |
 | Robot Battle V | 400337 | [400337-robot-battle-v.json](./400337-robot-battle-v.json) |
 | Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
+| Robot Bowl | 39518 | [39518-robot-bowl.json](./39518-robot-bowl.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
 | Robot Car War: Transform Battle Machines | 187472 | [187472-robot-car-war-transform-battle-machines.json](./187472-robot-car-war-transform-battle-machines.json) |
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
