@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
 | X Rebirth: Collector's Edition | 52126 | [52126-x-rebirth-collectors-edition.json](./52126-x-rebirth-collectors-edition.json) |
 | X Rebirth: Home of Light | 52125 | [52125-x-rebirth-home-of-light.json](./52125-x-rebirth-home-of-light.json) |
+| X Rebirth: Home of Light - Complete Edition | 51777 | [51777-x-rebirth-home-of-light-complete-edition.json](./51777-x-rebirth-home-of-light-complete-edition.json) |
 | X Rebirth: The Teladi Outpost | 52124 | [52124-x-rebirth-the-teladi-outpost.json](./52124-x-rebirth-the-teladi-outpost.json) |
 | X Rebirth: VR Edition | 52251 | [52251-x-rebirth-vr-edition.json](./52251-x-rebirth-vr-edition.json) |
 | X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Zero | 181210 | [181210-x-zero.json](./181210-x-zero.json) |
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
 | X: Card of Fate | 37348 | [37348-x-card-of-fate.json](./37348-x-card-of-fate.json) |
+| X: Gold | 51776 | [51776-x-gold.json](./51776-x-gold.json) |
 | X.E.T. Xen Exploration Team | 222306 | [222306-x-e-t-xen-exploration-team.json](./222306-x-e-t-xen-exploration-team.json) |
 | X'mas Painter | 206046 | [206046-xmas-painter.json](./206046-xmas-painter.json) |
 | X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
