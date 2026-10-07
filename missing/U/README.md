@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
+| UFC: Tapout 2 | 6219 | [6219-ufc-tapout-2.json](./6219-ufc-tapout-2.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
 | uFighter | 115428 | [115428-ufighter.json](./115428-ufighter.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Super Luigi Wii: Ultimate Green Team | 245452 | [245452-ultimate-super-luigi-wii-ultimate-green-team.json](./245452-ultimate-super-luigi-wii-ultimate-green-team.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
+| Ultimate Tapan Kaikki | 19239 | [19239-ultimate-tapan-kaikki.json](./19239-ultimate-tapan-kaikki.json) |
 | Ultimate Tennis: Revolution | 174841 | [174841-ultimate-tennis-revolution.json](./174841-ultimate-tennis-revolution.json) |
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
 | Ultimate Tic-Tac-Toe | 35501 | [35501-ultimate-tic-tac-toe.json](./35501-ultimate-tic-tac-toe.json) |
