@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildermyth | 83504 | [83504-wildermyth.json](./83504-wildermyth.json) |
 | Wildermyth: Off-hand Item Skin Pack | 324402 | [324402-wildermyth-off-hand-item-skin-pack.json](./324402-wildermyth-off-hand-item-skin-pack.json) |
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
+| Wilderness Campaign | 24802 | [24802-wilderness-campaign.json](./24802-wilderness-campaign.json) |
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
 | Wilderness Mosaic 2: Patagonia | 415984 | [415984-wilderness-mosaic-2-patagonia.json](./415984-wilderness-mosaic-2-patagonia.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
