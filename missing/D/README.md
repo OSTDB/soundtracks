@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - Keppuu Kengeki Royale | 131963 | [131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles | 153054 | [153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json](./153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Digital Deluxe Edition | 176791 | [176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json](./176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json) |
@@ -10007,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
+| Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | DuneCrawl | 318505 | [318505-dunecrawl.json](./318505-dunecrawl.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
