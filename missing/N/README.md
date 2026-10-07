@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
+| Nanatsu Kaze no Shima Monogatari | 18493 | [18493-nanatsu-kaze-no-shima-monogatari.json](./18493-nanatsu-kaze-no-shima-monogatari.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
 | Nanatsuiro Drops | 70642 | [70642-nanatsuiro-drops.json](./70642-nanatsuiro-drops.json) |
 | Nancy Drew Dossier: Resorting to Danger! | 10581 | [10581-nancy-drew-dossier-resorting-to-danger.json](./10581-nancy-drew-dossier-resorting-to-danger.json) |
