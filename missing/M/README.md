@@ -5890,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
+| MicroLeague Baseball | 50383 | [50383-microleague-baseball.json](./50383-microleague-baseball.json) |
 | Microleague Baseball 4 | 51372 | [51372-microleague-baseball-4.json](./51372-microleague-baseball-4.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
