@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
+| Tales of Terror: Estate of the Heart | 19209 | [19209-tales-of-terror-estate-of-the-heart.json](./19209-tales-of-terror-estate-of-the-heart.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
 | Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
@@ -2527,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
+| Tentacles: Enter the dolphin | 19504 | [19504-tentacles-enter-the-dolphin.json](./19504-tentacles-enter-the-dolphin.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
 | Tentaculon | 57487 | [57487-tentaculon.json](./57487-tentaculon.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
@@ -6100,6 +6102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Hermit | 111221 | [111221-the-hermit.json](./111221-the-hermit.json) |
 | The Hermit's Secret | 25131 | [25131-the-hermits-secret.json](./25131-the-hermits-secret.json) |
+| The Hero | 19181 | [19181-the-hero.json](./19181-the-hero.json) |
 | The Hero Business | 180656 | [180656-the-hero-business.json](./180656-the-hero-business.json) |
 | The Hero gives up!... Wait, What!? | 265582 | [265582-the-hero-gives-up-wait-what.json](./265582-the-hero-gives-up-wait-what.json) |
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
@@ -16995,6 +16998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
 | Transport 2 | 308339 | [308339-transport-2.json](./308339-transport-2.json) |
 | Transport Defender | 65828 | [65828-transport-defender.json](./65828-transport-defender.json) |
+| Transport Empire | 19524 | [19524-transport-empire.json](./19524-transport-empire.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
