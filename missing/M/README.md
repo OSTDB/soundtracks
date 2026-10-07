@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 3 | 2329 | [2329-mario-party-3.json](./2329-mario-party-3.json) |
 | Mario Party 3 StarStruck | 248306 | [248306-mario-party-3-starstruck.json](./248306-mario-party-3-starstruck.json) |
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
+| Mario Party 4 | 2330 | [2330-mario-party-4.json](./2330-mario-party-4.json) |
 | Mario Party 4 Deluxe | 323833 | [323833-mario-party-4-deluxe.json](./323833-mario-party-4-deluxe.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
 | Metal Gear & Metal Gear 2: Solid Snake | 254684 | [254684-metal-gear-and-metal-gear-2-solid-snake.json](./254684-metal-gear-and-metal-gear-2-solid-snake.json) |
+| Metal Gear 2: Solid Snake | 377 | [377-metal-gear-2-solid-snake.json](./377-metal-gear-2-solid-snake.json) |
 | Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
@@ -9643,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat | 239168 | [239168-mortal-kombat.json](./239168-mortal-kombat.json) |
 | Mortal Kombat | 242151 | [242151-mortal-kombat.json](./242151-mortal-kombat.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
+| Mortal Kombat 1 | 239392 | [239392-mortal-kombat-1.json](./239392-mortal-kombat-1.json) |
 | Mortal Kombat 1 | 272491 | [272491-mortal-kombat-1.json](./272491-mortal-kombat-1.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
@@ -9731,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
+| Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
 | Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
