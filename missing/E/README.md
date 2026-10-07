@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
+| Eight Characters, a Number, and a Happy Ending | 57507 | [57507-eight-characters-a-number-and-a-happy-ending.json](./57507-eight-characters-a-number-and-a-happy-ending.json) |
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Mini Racers | 33694 | [33694-eight-mini-racers.json](./33694-eight-mini-racers.json) |
@@ -3704,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
 | Evermoon | 238080 | [238080-evermoon.json](./238080-evermoon.json) |
+| Evermore | 57514 | [57514-evermore.json](./57514-evermore.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
