@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
 | Leaf Blower Co. | 347820 | [347820-leaf-blower-co.json](./347820-leaf-blower-co.json) |
 | Leaf Blower Man: This Game Blows! | 244199 | [244199-leaf-blower-man-this-game-blows.json](./244199-leaf-blower-man-this-game-blows.json) |
+| Leaf Blower Revolution: Idle Game | 141416 | [141416-leaf-blower-revolution-idle-game.json](./141416-leaf-blower-revolution-idle-game.json) |
 | Leaf Blower Sim | 276272 | [276272-leaf-blower-sim.json](./276272-leaf-blower-sim.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
