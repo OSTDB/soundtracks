@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
+| Thanksgivingistry | 55656 | [55656-thanksgivingistry.json](./55656-thanksgivingistry.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | Thapster | 86224 | [86224-thapster.json](./86224-thapster.json) |
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
@@ -6376,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
+| The IOTA Project | 55671 | [55671-the-iota-project.json](./55671-the-iota-project.json) |
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
@@ -9794,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
+| The Surprising Adventures of Munchausen | 55659 | [55659-the-surprising-adventures-of-munchausen.json](./55659-the-surprising-adventures-of-munchausen.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
@@ -10396,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
+| The Ultimatest Battle | 55692 | [55692-the-ultimatest-battle.json](./55692-the-ultimatest-battle.json) |
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Umbrella Ninja | 260734 | [260734-the-umbrella-ninja.json](./260734-the-umbrella-ninja.json) |
@@ -14692,6 +14696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
+| Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
 | Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
@@ -15399,6 +15404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Wishes | 149230 | [149230-tower-of-wishes.json](./149230-tower-of-wishes.json) |
 | Tower Of Wishes 3: Japan | 289933 | [289933-tower-of-wishes-3-japan.json](./289933-tower-of-wishes-3-japan.json) |
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
+| Tower Offence! | 55691 | [55691-tower-offence.json](./55691-tower-offence.json) |
 | Tower Offender | 177367 | [177367-tower-offender.json](./177367-tower-offender.json) |
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
@@ -17077,6 +17083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
+| Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
