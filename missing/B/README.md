@@ -2456,7 +2456,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
 | Battlefield : Run | 96215 | [96215-battlefield-run.json](./96215-battlefield-run.json) |
+| Battlefield 1: In the Name of the Tsar | 28966 | [28966-battlefield-1-in-the-name-of-the-tsar.json](./28966-battlefield-1-in-the-name-of-the-tsar.json) |
 | Battlefield 1: Revolution and Titanfall 2: Ultimate Edition Bundle | 136365 | [136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json](./136365-battlefield-1-revolution-and-titanfall-2-ultimate-edition-bundle.json) |
+| Battlefield 1: They Shall Not Pass | 26941 | [26941-battlefield-1-they-shall-not-pass.json](./26941-battlefield-1-they-shall-not-pass.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
 | Battlefield 1: Ultimate Edition | 52640 | [52640-battlefield-1-ultimate-edition.json](./52640-battlefield-1-ultimate-edition.json) |
 | Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
@@ -8455,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2024 Pack | 292744 | [292744-brawlhalla-winter-championship-2024-pack.json](./292744-brawlhalla-winter-championship-2024-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
+| Brawlout | 27419 | [27419-brawlout.json](./27419-brawlout.json) |
 | Brawlout: Deluxe Edition | 119077 | [119077-brawlout-deluxe-edition.json](./119077-brawlout-deluxe-edition.json) |
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
