@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
+| Yellow | 83717 | [83717-yellow.json](./83717-yellow.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
 | Yellow Brick Road | 171898 | [171898-yellow-brick-road.json](./171898-yellow-brick-road.json) |
 | Yellow Brick Road II | 144851 | [144851-yellow-brick-road-ii.json](./144851-yellow-brick-road-ii.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
 | Yu-Gi-Oh! 5D's Decade Duels | 66774 | [66774-yu-gi-oh-5ds-decade-duels.json](./66774-yu-gi-oh-5ds-decade-duels.json) |
 | Yu-Gi-Oh! 5D's Duel Transer | 50716 | [50716-yu-gi-oh-5ds-duel-transer.json](./50716-yu-gi-oh-5ds-duel-transer.json) |
+| Yu-Gi-Oh! 5D's Stardust Accelerator World Championship Tournament 2009 | 21129 | [21129-yu-gi-oh-5ds-stardust-accelerator-world-championship-tournament-2009.json](./21129-yu-gi-oh-5ds-stardust-accelerator-world-championship-tournament-2009.json) |
 | Yu-Gi-Oh! 5D's Tag Force 4 | 42790 | [42790-yu-gi-oh-5ds-tag-force-4.json](./42790-yu-gi-oh-5ds-tag-force-4.json) |
 | Yu-Gi-Oh! 5D's Tag Force 5 | 42854 | [42854-yu-gi-oh-5ds-tag-force-5.json](./42854-yu-gi-oh-5ds-tag-force-5.json) |
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
