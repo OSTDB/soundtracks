@@ -1093,9 +1093,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fight Club: Zenkoku Taisenban | 76144 | [76144-mahjong-fight-club-zenkoku-taisenban.json](./76144-mahjong-fight-club-zenkoku-taisenban.json) |
 | Mahjong Forest Journey | 108591 | [108591-mahjong-forest-journey.json](./108591-mahjong-forest-journey.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
+| Mahjong Gakuen | 37678 | [37678-mahjong-gakuen.json](./37678-mahjong-gakuen.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
+| Mahjong Gakuen Touma Soushirou Toujou Mild | 37679 | [37679-mahjong-gakuen-touma-soushirou-toujou-mild.json](./37679-mahjong-gakuen-touma-soushirou-toujou-mild.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
+| Mahjong Gokuu Special | 37677 | [37677-mahjong-gokuu-special.json](./37677-mahjong-gokuu-special.json) |
 | Mahjong Gokuu Tenjiku | 44443 | [44443-mahjong-gokuu-tenjiku.json](./44443-mahjong-gokuu-tenjiku.json) |
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
@@ -1131,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
+| Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
 | Mahjong Solitaire Epic | 88426 | [88426-mahjong-solitaire-epic.json](./88426-mahjong-solitaire-epic.json) |
@@ -1382,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
+| Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
@@ -1487,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Makoto Wakaido's Case Files: Phantom's Foot | 151811 | [151811-makoto-wakaidos-case-files-phantoms-foot.json](./151811-makoto-wakaidos-case-files-phantoms-foot.json) |
 | Makutsu no Liliane | 310120 | [310120-makutsu-no-liliane.json](./310120-makutsu-no-liliane.json) |
+| Makyou Densetsu | 37674 | [37674-makyou-densetsu.json](./37674-makyou-densetsu.json) |
 | Makyouden | 92122 | [92122-makyouden.json](./92122-makyouden.json) |
 | Mala Petaka | 224535 | [224535-mala-petaka.json](./224535-mala-petaka.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
@@ -7876,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
+| Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
@@ -8388,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
 | Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
 | Momotaro Densetsu 1-2 | 64413 | [64413-momotaro-densetsu-1-2.json](./64413-momotaro-densetsu-1-2.json) |
+| Momotaro Densetsu Gaiden | 37673 | [37673-momotaro-densetsu-gaiden.json](./37673-momotaro-densetsu-gaiden.json) |
 | Momotaro Densetsu Mobile | 186765 | [186765-momotaro-densetsu-mobile.json](./186765-momotaro-densetsu-mobile.json) |
 | Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
 | Momotaro Dentetsu | 48771 | [48771-momotaro-dentetsu.json](./48771-momotaro-dentetsu.json) |
@@ -9486,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
+| Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
