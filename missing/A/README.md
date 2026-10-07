@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
+| Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
@@ -4459,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Basketball: Guns & Balls | 234316 | [234316-american-basketball-guns-and-balls.json](./234316-american-basketball-guns-and-balls.json) |
+| American Battle Dome | 44451 | [44451-american-battle-dome.json](./44451-american-battle-dome.json) |
 | American Car Parking Simulator 2025 | 380705 | [380705-american-car-parking-simulator-2025.json](./380705-american-car-parking-simulator-2025.json) |
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
@@ -7943,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
+| Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
@@ -8877,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
+| Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk DX | 122748 | [122748-atelier-ayesha-the-alchemist-of-dusk-dx.json](./122748-atelier-ayesha-the-alchemist-of-dusk-dx.json) |
 | Atelier Dusk Trilogy Deluxe Pack | 125186 | [125186-atelier-dusk-trilogy-deluxe-pack.json](./125186-atelier-dusk-trilogy-deluxe-pack.json) |
 | Atelier Dusk Trilogy Deluxe Pack: Limited Premium Box Set | 136825 | [136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json](./136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json) |
