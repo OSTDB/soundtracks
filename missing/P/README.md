@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Broken Shadow | 289390 | [289390-persona-3-broken-shadow.json](./289390-persona-3-broken-shadow.json) |
 | Persona 3 Em | 136488 | [136488-persona-3-em.json](./136488-persona-3-em.json) |
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
+| Persona 3 FES: Limited Edition | 41865 | [41865-persona-3-fes-limited-edition.json](./41865-persona-3-fes-limited-edition.json) |
 | Persona 3 Illust Puzzle | 289391 | [289391-persona-3-illust-puzzle.json](./289391-persona-3-illust-puzzle.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
 | Persona 4 Revival: Digital Premium Edition | 407470 | [407470-persona-4-revival-digital-premium-edition.json](./407470-persona-4-revival-digital-premium-edition.json) |
 | Persona 4: Dancing All Night | 11056 | [11056-persona-4-dancing-all-night.json](./11056-persona-4-dancing-all-night.json) |
+| Persona 4: Dancing All Night - Disco Fever Edition | 41873 | [41873-persona-4-dancing-all-night-disco-fever-edition.json](./41873-persona-4-dancing-all-night-disco-fever-edition.json) |
 | Persona 4: Golden - Solid Gold Premium Edition | 89923 | [89923-persona-4-golden-solid-gold-premium-edition.json](./89923-persona-4-golden-solid-gold-premium-edition.json) |
 | Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
@@ -2671,8 +2673,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Funkin' in Starlight | 327858 | [327858-persona-5-funkin-in-starlight.json](./327858-persona-5-funkin-in-starlight.json) |
 | Persona 5: Goro Akechi Dating Simulator | 179107 | [179107-persona-5-goro-akechi-dating-simulator.json](./179107-persona-5-goro-akechi-dating-simulator.json) |
 | Persona 5: Steelbook Edition | 167115 | [167115-persona-5-steelbook-edition.json](./167115-persona-5-steelbook-edition.json) |
+| Persona 5: Take Your Heart - Premium Edition | 41866 | [41866-persona-5-take-your-heart-premium-edition.json](./41866-persona-5-take-your-heart-premium-edition.json) |
 | Persona 6 | 405088 | [405088-persona-6.json](./405088-persona-6.json) |
 | Persona Ain Soph | 71159 | [71159-persona-ain-soph.json](./71159-persona-ain-soph.json) |
+| Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
@@ -5174,6 +5178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetation | 148978 | [148978-planetation.json](./148978-planetation.json) |
 | Planetbase | 13200 | [13200-planetbase.json](./13200-planetbase.json) |
+| Planetbound | 41926 | [41926-planetbound.json](./41926-planetbound.json) |
 | PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
 | PlanetDrop: A Tiny Space Adventure | 180011 | [180011-planetdrop-a-tiny-space-adventure.json](./180011-planetdrop-a-tiny-space-adventure.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
