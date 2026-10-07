@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
+| Rain on Your Parade | 129057 | [129057-rain-on-your-parade.json](./129057-rain-on-your-parade.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
@@ -3197,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Confidential Report File #3 | 402392 | [402392-resident-evil-confidential-report-file-3.json](./402392-resident-evil-confidential-report-file-3.json) |
 | Resident Evil Confidential Report File #4 | 402393 | [402393-resident-evil-confidential-report-file-4.json](./402393-resident-evil-confidential-report-file-4.json) |
 | Resident Evil Crossfire | 316285 | [316285-resident-evil-crossfire.json](./316285-resident-evil-crossfire.json) |
+| Resident Evil Gaiden | 969 | [969-resident-evil-gaiden.json](./969-resident-evil-gaiden.json) |
 | Resident Evil Mercenaries Vs. | 77341 | [77341-resident-evil-mercenaries-vs.json](./77341-resident-evil-mercenaries-vs.json) |
 | Resident Evil Outbreak | 972 | [972-resident-evil-outbreak.json](./972-resident-evil-outbreak.json) |
 | Resident Evil Requiem: Deluxe Kit | 378871 | [378871-resident-evil-requiem-deluxe-kit.json](./378871-resident-evil-requiem-deluxe-kit.json) |
@@ -3663,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
+| Revenge of the Savage Planet | 314243 | [314243-revenge-of-the-savage-planet.json](./314243-revenge-of-the-savage-planet.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
