@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei | 123631 | [123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json](./123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json) |
 | Quraish | 191688 | [191688-quraish.json](./191688-quraish.json) |
 | Qurare: Magic Library | 19605 | [19605-qurare-magic-library.json](./19605-qurare-magic-library.json) |
+| Quur | 25793 | [25793-quur.json](./25793-quur.json) |
 | QuVerse | 207302 | [207302-quverse.json](./207302-quverse.json) |
 | Quynh | 185162 | [185162-quynh.json](./185162-quynh.json) |
 | QV | 141251 | [141251-qv.json](./141251-qv.json) |
