@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
 | Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
+| Operation Flashpoint: Red River | 450 | [450-operation-flashpoint-red-river.json](./450-operation-flashpoint-red-river.json) |
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation Fungus | 124576 | [124576-operation-fungus.json](./124576-operation-fungus.json) |
