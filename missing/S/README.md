@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
+| Schbibinman Zero: Shockman Zero | 38226 | [38226-schbibinman-zero-shockman-zero.json](./38226-schbibinman-zero-shockman-zero.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
 | Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
@@ -2918,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
+| Seijuu Maden Beasts & Blades | 38247 | [38247-seijuu-maden-beasts-and-blades.json](./38247-seijuu-maden-beasts-and-blades.json) |
 | Seikai Kishi Lynn Knight: Chikyuu wa Mamorete mo Kimo Otoko no Inshitsu Tanezuke Seme ni wa Katenakatta yo… | 59028 | [59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json](./59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json) |
 | Seikai no Monshou | 214550 | [214550-seikai-no-monshou.json](./214550-seikai-no-monshou.json) |
 | Seikai no Senki | 214549 | [214549-seikai-no-senki.json](./214549-seikai-no-senki.json) |
@@ -4130,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
+| Shanghai III | 38249 | [38249-shanghai-iii.json](./38249-shanghai-iii.json) |
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
@@ -4639,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
 | Shìjiè Zhīwài de Yúrén Chuán | 373700 | [373700-shijie-zhiwai-de-yuren-chuan.json](./373700-shijie-zhiwai-de-yuren-chuan.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
+| Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
 | Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge-hen | 409001 | [409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json](./409001-shikakui-atama-wo-maru-kusuru-mainichi-minna-no-challenge-hen.json) |
 | Shikanoko Fangame | 324962 | [324962-shikanoko-fangame.json](./324962-shikanoko-fangame.json) |
@@ -4666,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
+| Shimono Masaki no Fishing to Bassing | 38253 | [38253-shimono-masaki-no-fishing-to-bassing.json](./38253-shimono-masaki-no-fishing-to-bassing.json) |
 | Shin Egokoro Kyoushitsu | 141122 | [141122-shin-egokoro-kyoushitsu.json](./141122-shin-egokoro-kyoushitsu.json) |
 | Shin Era Tensei | 365818 | [365818-shin-era-tensei.json](./365818-shin-era-tensei.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
@@ -4679,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Hayarigami: Parasite | 196704 | [196704-shin-hayarigami-parasite.json](./196704-shin-hayarigami-parasite.json) |
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
+| Shin Ikkaku Senkin | 38251 | [38251-shin-ikkaku-senkin.json](./38251-shin-ikkaku-senkin.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
 | Shin Kaku Gi Kou and the 11 Destroyers | 110790 | [110790-shin-kaku-gi-kou-and-the-11-destroyers.json](./110790-shin-kaku-gi-kou-and-the-11-destroyers.json) |
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
@@ -4742,11 +4748,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
+| Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
 | Shin Sedai Robot Senki - Brave Saga | 137393 | [137393-shin-sedai-robot-senki-brave-saga.json](./137393-shin-sedai-robot-senki-brave-saga.json) |
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
+| Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
 | Shin XALX no Monshou 98 | 92124 | [92124-shin-xalx-no-monshou-98.json](./92124-shin-xalx-no-monshou-98.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
@@ -4989,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane no Torikago: The Angels with Strange Wings | 77921 | [77921-shirogane-no-torikago-the-angels-with-strange-wings.json](./77921-shirogane-no-torikago-the-angels-with-strange-wings.json) |
 | Shirogane x Spirits | 216352 | [216352-shirogane-x-spirits.json](./216352-shirogane-x-spirits.json) |
+| Shiroi Ringu he: Twinkle Little Star | 38217 | [38217-shiroi-ringu-he-twinkle-little-star.json](./38217-shiroi-ringu-he-twinkle-little-star.json) |
 | Shiroki Koutetsu no X: The Out of Gunvolt | 136781 | [136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json](./136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json) |
 | Shirokoi Sakura Gram | 370245 | [370245-shirokoi-sakura-gram.json](./370245-shirokoi-sakura-gram.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
@@ -5339,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
 | Shounen Kininden Tsumuji | 67608 | [67608-shounen-kininden-tsumuji.json](./67608-shounen-kininden-tsumuji.json) |
+| Shounen Ninja Sasuke | 38232 | [38232-shounen-ninja-sasuke.json](./38232-shounen-ninja-sasuke.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shounen to Tenkiame | 397943 | [397943-shounen-to-tenkiame.json](./397943-shounen-to-tenkiame.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
@@ -6085,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
 | SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
+| SimCity Jr. | 38225 | [38225-simcity-jr.json](./38225-simcity-jr.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
 | SimCity Societies | 1491 | [1491-simcity-societies.json](./1491-simcity-societies.json) |
 | SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
@@ -17401,6 +17412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Contra X | 48892 | [48892-super-contra-x.json](./48892-super-contra-x.json) |
 | Super Contraption 3D | 255048 | [255048-super-contraption-3d.json](./255048-super-contraption-3d.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
+| Super copa | 38224 | [38224-super-copa.json](./38224-super-copa.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
 | Super Corporate Tax Evader | 199992 | [199992-super-corporate-tax-evader.json](./199992-super-corporate-tax-evader.json) |
 | Super Cosmic Land | 239594 | [239594-super-cosmic-land.json](./239594-super-cosmic-land.json) |
@@ -18487,7 +18499,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
+| Super Robot Taisen EX | 38234 | [38234-super-robot-taisen-ex.json](./38234-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
+| Super Robot Taisen Gaiden: Masou Kishin - The Lord of Elemental | 38233 | [38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json](./38233-super-robot-taisen-gaiden-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
@@ -18853,6 +18867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
+| Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
 | Super Ultra Dead Rising 3 Arcade Remix Hyper Edition EX Plus Alpha | 20095 | [20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json](./20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
 | Super Ultra Mucchin Puripuri Cyborg: Marilyn DX | 271710 | [271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json](./271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json) |
