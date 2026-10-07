@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
+| 9th Dawn Classic | 55684 | [55684-9th-dawn-classic.json](./55684-9th-dawn-classic.json) |
 | 9th Dawn III | 139323 | [139323-9th-dawn-iii.json](./139323-9th-dawn-iii.json) |
 | 9th Land | 249938 | [249938-9th-land.json](./249938-9th-land.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
