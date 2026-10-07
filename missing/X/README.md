@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-COM Alliance | 85869 | [85869-x-com-alliance.json](./85869-x-com-alliance.json) |
 | X-COM Collection | 21224 | [21224-x-com-collection.json](./21224-x-com-collection.json) |
+| X-COM: Apocalypse | 26 | [26-x-com-apocalypse.json](./26-x-com-apocalypse.json) |
 | X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
 | X-Com: From The Ashes | 278079 | [278079-x-com-from-the-ashes.json](./278079-x-com-from-the-ashes.json) |
 | X-Day | 140494 | [140494-x-day.json](./140494-x-day.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
 | XCOM: Enemy Unknown - The Complete Edition | 52118 | [52118-xcom-enemy-unknown-the-complete-edition.json](./52118-xcom-enemy-unknown-the-complete-edition.json) |
+| XCOM: Enemy Within | 143076 | [143076-xcom-enemy-within.json](./143076-xcom-enemy-within.json) |
 | XCOM: Enemy Within - Commander Edition | 307236 | [307236-xcom-enemy-within-commander-edition.json](./307236-xcom-enemy-within-commander-edition.json) |
 | XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
