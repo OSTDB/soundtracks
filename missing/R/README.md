@@ -5815,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Roller | 99776 | [99776-roller.json](./99776-roller.json) |
+| Roller Aces | 40132 | [40132-roller-aces.json](./40132-roller-aces.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
