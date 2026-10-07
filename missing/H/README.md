@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroland: Knowble Edition | 136194 | [136194-heroland-knowble-edition.json](./136194-heroland-knowble-edition.json) |
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
+| HeroQuest | 12142 | [12142-heroquest.json](./12142-heroquest.json) |
 | HeroQuest: Return of the Witch Lord | 47226 | [47226-heroquest-return-of-the-witch-lord.json](./47226-heroquest-return-of-the-witch-lord.json) |
 | Herores Rescue | 39162 | [39162-herores-rescue.json](./39162-herores-rescue.json) |
 | Heros Fight Battle royal | 272273 | [272273-heros-fight-battle-royal.json](./272273-heros-fight-battle-royal.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
 | Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
+| Hollywood Hijinx | 12144 | [12144-hollywood-hijinx.json](./12144-hollywood-hijinx.json) |
 | Hollywood Mogul | 94389 | [94389-hollywood-mogul.json](./94389-hollywood-mogul.json) |
 | Hollywood Mogul 4 | 334337 | [334337-hollywood-mogul-4.json](./334337-hollywood-mogul-4.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
@@ -5743,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horror Villa | 157539 | [157539-horror-villa.json](./157539-horror-villa.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
+| Horror Zombies from the Crypt | 12145 | [12145-horror-zombies-from-the-crypt.json](./12145-horror-zombies-from-the-crypt.json) |
 | Horror: Evil Residents | 303571 | [303571-horror-evil-residents.json](./303571-horror-evil-residents.json) |
 | HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
 | HorrorDriven: A story for the road | 154052 | [154052-horrordriven-a-story-for-the-road.json](./154052-horrordriven-a-story-for-the-road.json) |
@@ -5933,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider | 252257 | [252257-hot-rider.json](./252257-hot-rider.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
+| Hot Rod | 12146 | [12146-hot-rod.json](./12146-hot-rod.json) |
 | Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Rod: Garage to Glory | 73365 | [73365-hot-rod-garage-to-glory.json](./73365-hot-rod-garage-to-glory.json) |
 | Hot Routes: VR Football | 122843 | [122843-hot-routes-vr-football.json](./122843-hot-routes-vr-football.json) |
@@ -6591,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
+| Human Killing Machine | 12148 | [12148-human-killing-machine.json](./12148-human-killing-machine.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
@@ -6798,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted: Survive the Night | 211787 | [211787-hunted-survive-the-night.json](./211787-hunted-survive-the-night.json) |
 | Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
 | Hunter | 112716 | [112716-hunter.json](./112716-hunter.json) |
+| Hunter | 12149 | [12149-hunter.json](./12149-hunter.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
 | Hunter Assassin | 130293 | [130293-hunter-assassin.json](./130293-hunter-assassin.json) |
