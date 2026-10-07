@@ -2295,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Blocks | 379516 | [379516-age-of-blocks.json](./379516-age-of-blocks.json) |
+| Age of Booty | 9948 | [9948-age-of-booty.json](./9948-age-of-booty.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 1 | 171395 | [171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json](./171395-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-1.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
+| Atelier Marie Remake: The Alchemist of Salburg | 236698 | [236698-atelier-marie-remake-the-alchemist-of-salburg.json](./236698-atelier-marie-remake-the-alchemist-of-salburg.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
