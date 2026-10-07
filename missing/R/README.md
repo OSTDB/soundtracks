@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
+| Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden III: Digital Edition | 36271 | [36271-raiden-iii-digital-edition.json](./36271-raiden-iii-digital-edition.json) |
 | Raiden IV | 7154 | [7154-raiden-iv.json](./7154-raiden-iv.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedLantern | 392943 | [392943-redlantern.json](./392943-redlantern.json) |
 | RedLightCenter | 61176 | [61176-redlightcenter.json](./61176-redlightcenter.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
+| Redline | 8681 | [8681-redline.json](./8681-redline.json) |
 | RedLine | 272244 | [272244-redline.json](./272244-redline.json) |
 | Redline Crooks | 252273 | [252273-redline-crooks.json](./252273-redline-crooks.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
