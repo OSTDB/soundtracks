@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
 | 1 4 the $ | 301397 | [301397-1-4-the.json](./301397-1-4-the.json) |
+| 1 Across 2 Down | 38857 | [38857-1-across-2-down.json](./38857-1-across-2-down.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
+| 1497: Five Years After | 38856 | [38856-1497-five-years-after.json](./38856-1497-five-years-after.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 14Days in Dream | 93745 | [93745-14days-in-dream.json](./93745-14days-in-dream.json) |
 | 15 Days | 26208 | [26208-15-days.json](./26208-15-days.json) |
@@ -661,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18Korea | 192177 | [192177-18korea.json](./192177-18korea.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
+| 18th Hole | 38855 | [38855-18th-hole.json](./38855-18th-hole.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
@@ -693,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
+| 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
@@ -1071,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300: Seize Your Glory | 118756 | [118756-300-seize-your-glory.json](./118756-300-seize-your-glory.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
+| 3001: O'Connors Fight | 38853 | [38853-3001-oconnors-fight.json](./38853-3001-oconnors-fight.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
@@ -1136,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Combat Zone | 203863 | [203863-3d-combat-zone.json](./203863-3d-combat-zone.json) |
+| 3D Construction Kit | 38852 | [38852-3d-construction-kit.json](./38852-3d-construction-kit.json) |
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Crazy Ballz | 94538 | [94538-3d-crazy-ballz.json](./94538-3d-crazy-ballz.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
