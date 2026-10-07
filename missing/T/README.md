@@ -3977,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cable Center: Virtual Archive | 29025 | [29025-the-cable-center-virtual-archive.json](./29025-the-cable-center-virtual-archive.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
+| The Cages: Pro Style Batting Practice | 51038 | [51038-the-cages-pro-style-batting-practice.json](./51038-the-cages-pro-style-batting-practice.json) |
 | The Cake is Alive | 330811 | [330811-the-cake-is-alive.json](./330811-the-cake-is-alive.json) |
 | The Cakeman | 274493 | [274493-the-cakeman.json](./274493-the-cakeman.json) |
 | The Caldecott Caper | 305872 | [305872-the-caldecott-caper.json](./305872-the-caldecott-caper.json) |
