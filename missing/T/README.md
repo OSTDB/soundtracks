@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
+| Tales of Vesperia | 1209 | [1209-tales-of-vesperia.json](./1209-tales-of-vesperia.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
 | Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
@@ -3726,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast of Lycan Isle: Collector's Edition | 340991 | [340991-the-beast-of-lycan-isle-collectors-edition.json](./340991-the-beast-of-lycan-isle-collectors-edition.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beast of Torrack Moor | 58855 | [58855-the-beast-of-torrack-moor.json](./58855-the-beast-of-torrack-moor.json) |
+| The Beast Within: A Gabriel Knight Mystery | 1251 | [1251-the-beast-within-a-gabriel-knight-mystery.json](./1251-the-beast-within-a-gabriel-knight-mystery.json) |
 | The Beastmaster Princess | 219546 | [219546-the-beastmaster-princess.json](./219546-the-beastmaster-princess.json) |
 | The Beasts of 9500 | 133193 | [133193-the-beasts-of-9500.json](./133193-the-beasts-of-9500.json) |
 | The Beat Strikes Back | 364691 | [364691-the-beat-strikes-back.json](./364691-the-beat-strikes-back.json) |
@@ -7169,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
 | The Legend of Heroes: Trails in the Dawn M | 212846 | [212846-the-legend-of-heroes-trails-in-the-dawn-m.json](./212846-the-legend-of-heroes-trails-in-the-dawn-m.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
+| The Legend of Heroes: Trails in the Sky SC | 16665 | [16665-the-legend-of-heroes-trails-in-the-sky-sc.json](./16665-the-legend-of-heroes-trails-in-the-sky-sc.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
@@ -14335,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six 3: Athena Sword | 1848 | [1848-tom-clancys-rainbow-six-3-athena-sword.json](./1848-tom-clancys-rainbow-six-3-athena-sword.json) |
 | Tom Clancy's Rainbow Six 3: Black Arrow | 47321 | [47321-tom-clancys-rainbow-six-3-black-arrow.json](./47321-tom-clancys-rainbow-six-3-black-arrow.json) |
 | Tom Clancy's Rainbow Six 3: Gold Edition | 28989 | [28989-tom-clancys-rainbow-six-3-gold-edition.json](./28989-tom-clancys-rainbow-six-3-gold-edition.json) |
+| Tom Clancy's Rainbow Six 3: Raven Shield | 908 | [908-tom-clancys-rainbow-six-3-raven-shield.json](./908-tom-clancys-rainbow-six-3-raven-shield.json) |
 | Tom Clancy's Rainbow Six Collection | 53802 | [53802-tom-clancys-rainbow-six-collection.json](./53802-tom-clancys-rainbow-six-collection.json) |
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
 | Tom Clancy's Rainbow Six Extraction: Deluxe Edition | 152335 | [152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json](./152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json) |
@@ -15062,6 +15066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
+| Total War: Three Kingdoms | 80961 | [80961-total-war-three-kingdoms.json](./80961-total-war-three-kingdoms.json) |
 | Total War: Three Kingdoms - A World Betrayed | 167647 | [167647-total-war-three-kingdoms-a-world-betrayed.json](./167647-total-war-three-kingdoms-a-world-betrayed.json) |
 | Total War: Three Kingdoms - Eight Princes | 167640 | [167640-total-war-three-kingdoms-eight-princes.json](./167640-total-war-three-kingdoms-eight-princes.json) |
 | Total War: Three Kingdoms - Reign of Blood | 167645 | [167645-total-war-three-kingdoms-reign-of-blood.json](./167645-total-war-three-kingdoms-reign-of-blood.json) |
@@ -17467,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
+| Trepang2 | 126212 | [126212-trepang2.json](./126212-trepang2.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
@@ -17537,6 +17543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
+| Trials of Mana | 11227 | [11227-trials-of-mana.json](./11227-trials-of-mana.json) |
+| Trials of Mana | 119391 | [119391-trials-of-mana.json](./119391-trials-of-mana.json) |
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
 | Trials of Proelium Remastered | 348891 | [348891-trials-of-proelium-remastered.json](./348891-trials-of-proelium-remastered.json) |
@@ -17716,6 +17724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimming Sails | 244336 | [244336-trimming-sails.json](./244336-trimming-sails.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
+| Trine 2: Complete Story | 38932 | [38932-trine-2-complete-story.json](./38932-trine-2-complete-story.json) |
 | Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
@@ -18870,6 +18879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
 | Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
+| Twinsen's Little Big Adventure Classic | 8515 | [8515-twinsens-little-big-adventure-classic.json](./8515-twinsens-little-big-adventure-classic.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
