@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
+| A Bug's Life | 49841 | [49841-a-bugs-life.json](./49841-a-bugs-life.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
 | A buggy Adventure | 143353 | [143353-a-buggy-adventure.json](./143353-a-buggy-adventure.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
