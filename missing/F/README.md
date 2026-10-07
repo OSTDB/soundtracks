@@ -6113,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seasons Around the World: Winter in New York | 294389 | [294389-four-seasons-around-the-world-winter-in-new-york.json](./294389-four-seasons-around-the-world-winter-in-new-york.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
+| Four Sided Fantasy | 20104 | [20104-four-sided-fantasy.json](./20104-four-sided-fantasy.json) |
 | Four Smash Hits from Hewson | 97465 | [97465-four-smash-hits-from-hewson.json](./97465-four-smash-hits-from-hewson.json) |
 | Four Trax | 46864 | [46864-four-trax.json](./46864-four-trax.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
@@ -7441,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
+| Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fullvoice Reborn | 114521 | [114521-fullvoice-reborn.json](./114521-fullvoice-reborn.json) |
@@ -7541,6 +7543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Fungus World | 344020 | [344020-fungus-world.json](./344020-fungus-world.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
+| Funk of Titans | 20309 | [20309-funk-of-titans.json](./20309-funk-of-titans.json) |
 | Funk Unplugged | 31623 | [31623-funk-unplugged.json](./31623-funk-unplugged.json) |
 | Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
 | Funkels | 373103 | [373103-funkels.json](./373103-funkels.json) |
