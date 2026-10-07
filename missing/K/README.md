@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
+| Kiteretsu Boy's Gangagan | 54927 | [54927-kiteretsu-boys-gangagan.json](./54927-kiteretsu-boys-gangagan.json) |
 | Kiteretsu Daihyakka Bouken Ooedo Jyuraki | 271712 | [271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json](./271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json) |
 | Kiteretsu Daihyakka: Choujikuu Sugoroku | 37956 | [37956-kiteretsu-daihyakka-choujikuu-sugoroku.json](./37956-kiteretsu-daihyakka-choujikuu-sugoroku.json) |
 | Kiteretsu Daihyakka: Kiteretsu Toki Kyuushutsu Daisakusen Nari | 349444 | [349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json](./349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
+| Knocky Balls | 54894 | [54894-knocky-balls.json](./54894-knocky-balls.json) |
 | Knorrig the Gifted Troublemaker | 229609 | [229609-knorrig-the-gifted-troublemaker.json](./229609-knorrig-the-gifted-troublemaker.json) |
 | Knossos | 55497 | [55497-knossos.json](./55497-knossos.json) |
 | Knossu | 220571 | [220571-knossu.json](./220571-knossu.json) |
@@ -2818,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
+| Koko Adventure | 54899 | [54899-koko-adventure.json](./54899-koko-adventure.json) |
 | Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
