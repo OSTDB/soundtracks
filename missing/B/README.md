@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakugen: Battle Brawlers | 50694 | [50694-bakugen-battle-brawlers.json](./50694-bakugen-battle-brawlers.json) |
+| Bakukyuu Renpatsu!! Super B-Daman | 42520 | [42520-bakukyuu-renpatsu-super-b-daman.json](./42520-bakukyuu-renpatsu-super-b-daman.json) |
 | Bakuman: Mangaka he no Michi | 65745 | [65745-bakuman-mangaka-he-no-michi.json](./65745-bakuman-mangaka-he-no-michi.json) |
 | Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
 | Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Sails: Crab Lord Pack | 226262 | [226262-blazing-sails-crab-lord-pack.json](./226262-blazing-sails-crab-lord-pack.json) |
 | Blazing Sails: Limbs of Lore Pack | 276414 | [276414-blazing-sails-limbs-of-lore-pack.json](./276414-blazing-sails-limbs-of-lore-pack.json) |
 | Blazing Sails: Privateer Pack | 226263 | [226263-blazing-sails-privateer-pack.json](./226263-blazing-sails-privateer-pack.json) |
+| Blazing Skies | 42535 | [42535-blazing-skies.json](./42535-blazing-skies.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
 | Blazing Souls | 5475 | [5475-blazing-souls.json](./5475-blazing-souls.json) |
