@@ -7512,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
+| Borderlands: Game of the Year Edition | 21758 | [21758-borderlands-game-of-the-year-edition.json](./21758-borderlands-game-of-the-year-edition.json) |
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Handsome Jack Doppelganger | 186629 | [186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json](./186629-borderlands-the-pre-sequel-handsome-jack-doppelganger.json) |
@@ -10007,11 +10008,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
 | Burnout | 275040 | [275040-burnout.json](./275040-burnout.json) |
 | Burnout | 410457 | [410457-burnout.json](./410457-burnout.json) |
+| Burnout 2: Point of Impact | 3840 | [3840-burnout-2-point-of-impact.json](./3840-burnout-2-point-of-impact.json) |
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
+| Burnout Paradise Remastered | 78153 | [78153-burnout-paradise-remastered.json](./78153-burnout-paradise-remastered.json) |
 | Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
