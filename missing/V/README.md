@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| V | 47165 | [47165-v.json](./47165-v.json) |
 | V - The Visitors | 39141 | [39141-v-the-visitors.json](./39141-v-the-visitors.json) |
 | V Bomb | 318753 | [318753-v-bomb.json](./318753-v-bomb.json) |
 | V Burster | 202259 | [202259-v-burster.json](./202259-v-burster.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valkkryes: Ashes of War | 221230 | [221230-valkkryes-ashes-of-war.json](./221230-valkkryes-ashes-of-war.json) |
 | Valknut | 74367 | [74367-valknut.json](./74367-valknut.json) |
+| Valkyr | 47152 | [47152-valkyr.json](./47152-valkyr.json) |
 | Valkyria Chronicles 2 | 14674 | [14674-valkyria-chronicles-2.json](./14674-valkyria-chronicles-2.json) |
 | Valkyria Chronicles 2: Banquet of Ghosts | 140338 | [140338-valkyria-chronicles-2-banquet-of-ghosts.json](./140338-valkyria-chronicles-2-banquet-of-ghosts.json) |
 | Valkyria Chronicles 2: Battle at Doeffein EX | 140330 | [140330-valkyria-chronicles-2-battle-at-doeffein-ex.json](./140330-valkyria-chronicles-2-battle-at-doeffein-ex.json) |
@@ -803,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
 | Venom Strikes Back | 39124 | [39124-venom-strikes-back.json](./39124-venom-strikes-back.json) |
+| Venom Strikes Back | 47181 | [47181-venom-strikes-back.json](./47181-venom-strikes-back.json) |
 | Venom Vendetta | 296043 | [296043-venom-vendetta.json](./296043-venom-vendetta.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
