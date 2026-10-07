@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
+| Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomhaven: Mercenaries Edition | 254680 | [254680-gloomhaven-mercenaries-edition.json](./254680-gloomhaven-mercenaries-edition.json) |
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
+| Gloomwood | 134127 | [134127-gloomwood.json](./134127-gloomwood.json) |
 | Gloomy Clues | 360152 | [360152-gloomy-clues.json](./360152-gloomy-clues.json) |
 | Gloomy Detective and Devil Girl | 309982 | [309982-gloomy-detective-and-devil-girl.json](./309982-gloomy-detective-and-devil-girl.json) |
 | Gloomy Eyes | 320289 | [320289-gloomy-eyes.json](./320289-gloomy-eyes.json) |
