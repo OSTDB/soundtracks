@@ -6557,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poliana Cake Crush | 248801 | [248801-poliana-cake-crush.json](./248801-poliana-cake-crush.json) |
 | Polic.io | 138559 | [138559-polic-io.json](./138559-polic-io.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
+| Police 1013 | 10757 | [10757-police-1013.json](./10757-police-1013.json) |
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
 | Police Academy | 198867 | [198867-police-academy.json](./198867-police-academy.json) |
