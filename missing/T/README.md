@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Commander: Battlefield | 384164 | [384164-tank-commander-battlefield.json](./384164-tank-commander-battlefield.json) |
 | Tank Commando 3D | 184947 | [184947-tank-commando-3d.json](./184947-tank-commando-3d.json) |
 | Tank Defender | 187895 | [187895-tank-defender.json](./187895-tank-defender.json) |
+| Tank Defense Division | 31760 | [31760-tank-defense-division.json](./31760-tank-defense-division.json) |
 | Tank Domination | 343877 | [343877-tank-domination.json](./343877-tank-domination.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
 | Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
+| TankYou! | 31685 | [31685-tankyou.json](./31685-tankyou.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
@@ -10327,6 +10329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Tower Stories Green 1 | 295378 | [295378-the-tower-stories-green-1.json](./295378-the-tower-stories-green-1.json) |
 | The Tower: A Bomb's Climb | 64676 | [64676-the-tower-a-bombs-climb.json](./64676-the-tower-a-bombs-climb.json) |
+| The Tower: Last Stand | 31742 | [31742-the-tower-last-stand.json](./31742-the-tower-last-stand.json) |
 | The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
 | The Towers | 406802 | [406802-the-towers.json](./406802-the-towers.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
@@ -11435,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Crisis: Neon Nights | 397168 | [397168-third-crisis-neon-nights.json](./397168-third-crisis-neon-nights.json) |
 | Third Exit | 53094 | [53094-third-exit.json](./53094-third-exit.json) |
 | Third Eye | 261963 | [261963-third-eye.json](./261963-third-eye.json) |
+| Third Eye | 31664 | [31664-third-eye.json](./31664-third-eye.json) |
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
