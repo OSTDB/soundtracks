@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares III: Second Additional Chapter | 375188 | [375188-little-nightmares-iii-second-additional-chapter.json](./375188-little-nightmares-iii-second-additional-chapter.json) |
 | Little Nightmares III: Secrets of The Spiral - Expansion Pass | 370224 | [370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json](./370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json) |
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
+| Little Nightmares: Complete Edition | 53276 | [53276-little-nightmares-complete-edition.json](./53276-little-nightmares-complete-edition.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
 | Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
@@ -3918,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | LocoRoco | 1459 | [1459-locoroco.json](./1459-locoroco.json) |
+| LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
 | LocoRoco Midnight Carnival | 1462 | [1462-locoroco-midnight-carnival.json](./1462-locoroco-midnight-carnival.json) |
 | LocoRoco Midnight Carnival | 247085 | [247085-locoroco-midnight-carnival.json](./247085-locoroco-midnight-carnival.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
 | Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
 | Lost Ronin | 83850 | [83850-lost-ronin.json](./83850-lost-ronin.json) |
+| Lost Ruins | 142596 | [142596-lost-ruins.json](./142596-lost-ruins.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
@@ -5567,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Luna's World Packages | 343382 | [343382-lunas-world-packages.json](./343382-lunas-world-packages.json) |
+| Lunacid | 192291 | [192291-lunacid.json](./192291-lunacid.json) |
 | Lunacy | 262993 | [262993-lunacy.json](./262993-lunacy.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
