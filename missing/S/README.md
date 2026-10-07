@@ -6090,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
+| Silverlicious | 9748 | [9748-silverlicious.json](./9748-silverlicious.json) |
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
 | Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
 | SilverQuest: Gaiden | 36161 | [36161-silverquest-gaiden.json](./36161-silverquest-gaiden.json) |
@@ -6209,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi | 203357 | [203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json](./203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json) |
 | Simple 2000 Series Ultimate Vol. 20: Love*Mahjong 2 | 203358 | [203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json](./203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json) |
 | Simple 2000 Series Ultimate Vol. 22: Stylish Mahjong | 203359 | [203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json](./203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json) |
+| Simple 2000 Series Ultimate Vol. 23: Project Minerva Professional | 9712 | [9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json](./9712-simple-2000-series-ultimate-vol-23-project-minerva-professional.json) |
 | Simple 2000 Series Ultimate Vol. 24: Makai Tenshou | 203360 | [203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json](./203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json) |
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
@@ -6693,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
+| Size Does Matter | 9716 | [9716-size-does-matter.json](./9716-size-does-matter.json) |
 | Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
 | Size It | 186684 | [186684-size-it.json](./186684-size-it.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
@@ -6849,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
+| Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
 | Ski Challenge 2005 | 87784 | [87784-ski-challenge-2005.json](./87784-ski-challenge-2005.json) |
 | Ski Challenge 2006 | 87785 | [87785-ski-challenge-2006.json](./87785-ski-challenge-2006.json) |
@@ -7323,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
+| Slamscape | 9742 | [9742-slamscape.json](./9742-slamscape.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
@@ -8241,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
 | Smuggler Simulator | 154048 | [154048-smuggler-simulator.json](./154048-smuggler-simulator.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
+| Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
 | Smuggler's Run | 248594 | [248594-smugglers-run.json](./248594-smugglers-run.json) |
 | Smuggler's Run | 4154 | [4154-smugglers-run.json](./4154-smugglers-run.json) |
 | Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
@@ -9190,6 +9196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
 | Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
+| Solar Eclipse | 9266 | [9266-solar-eclipse.json](./9266-solar-eclipse.json) |
 | Solar Empire | 255848 | [255848-solar-empire.json](./255848-solar-empire.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
@@ -15575,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
 | Story Craft | 270729 | [270729-story-craft.json](./270729-story-craft.json) |
 | Story Hour Adventures | 50713 | [50713-story-hour-adventures.json](./50713-story-hour-adventures.json) |
+| Story Hour: Adventure | 9754 | [9754-story-hour-adventure.json](./9754-story-hour-adventure.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
 | Story in the Dream World 3: Sinister Island's Mysterious Mist | 245998 | [245998-story-in-the-dream-world-3-sinister-islands-mysterious-mist.json](./245998-story-in-the-dream-world-3-sinister-islands-mysterious-mist.json) |
 | Story Jar | 228353 | [228353-story-jar.json](./228353-story-jar.json) |
@@ -19304,6 +19312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Fighters: Javan Havan the Drunken Fist | 293865 | [293865-supreme-fighters-javan-havan-the-drunken-fist.json](./293865-supreme-fighters-javan-havan-the-drunken-fist.json) |
 | Supreme Heroes | 369687 | [369687-supreme-heroes.json](./369687-supreme-heroes.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
+| Supreme League of Patriots | 8970 | [8970-supreme-league-of-patriots.json](./8970-supreme-league-of-patriots.json) |
 | Supreme OS | 211771 | [211771-supreme-os.json](./211771-supreme-os.json) |
 | Supreme Race on Highway | 195586 | [195586-supreme-race-on-highway.json](./195586-supreme-race-on-highway.json) |
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
