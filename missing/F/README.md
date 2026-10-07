@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 World Grand Prix II for Game Boy Color | 249131 | [249131-f-1-world-grand-prix-ii-for-game-boy-color.json](./249131-f-1-world-grand-prix-ii-for-game-boy-color.json) |
 | F-117 Night Storm | 46216 | [46216-f-117-night-storm.json](./46216-f-117-night-storm.json) |
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
+| F-14 Tomcat | 47179 | [47179-f-14-tomcat.json](./47179-f-14-tomcat.json) |
 | F-15 Strike Eagle | 12261 | [12261-f-15-strike-eagle.json](./12261-f-15-strike-eagle.json) |
 | F-15 Strike Eagle II | 12084 | [12084-f-15-strike-eagle-ii.json](./12084-f-15-strike-eagle-ii.json) |
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
@@ -823,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
 | Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
+| Fame Quest | 47190 | [47190-fame-quest.json](./47190-fame-quest.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
@@ -6481,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
+| Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
