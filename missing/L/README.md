@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lemuria | 344427 | [344427-lemuria.json](./344427-lemuria.json) |
+| Lemurzin | 34116 | [34116-lemurzin.json](./34116-lemurzin.json) |
 | Len'en Monochrome World | 335405 | [335405-lenen-monochrome-world.json](./335405-lenen-monochrome-world.json) |
 | Len'en Mugenri: Evanescent Existence | 125797 | [125797-lenen-mugenri-evanescent-existence.json](./125797-lenen-mugenri-evanescent-existence.json) |
 | Len'en Reiretsuden: Reactivate Majestical Imperial | 125795 | [125795-lenen-reiretsuden-reactivate-majestical-imperial.json](./125795-lenen-reiretsuden-reactivate-majestical-imperial.json) |
