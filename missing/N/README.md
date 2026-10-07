@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco History Vol. 2 | 220151 | [220151-namco-history-vol-2.json](./220151-namco-history-vol-2.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
+| Namco Museum | 28445 | [28445-namco-museum.json](./28445-namco-museum.json) |
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
 | Namco Museum 50th Anniversary | 9889 | [9889-namco-museum-50th-anniversary.json](./9889-namco-museum-50th-anniversary.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racing: 1999 Edition | 69565 | [69565-nascar-racing-1999-edition.json](./69565-nascar-racing-1999-edition.json) |
 | NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
+| NASCAR Thunder 2004 | 5947 | [5947-nascar-thunder-2004.json](./5947-nascar-thunder-2004.json) |
 | NASCAR Unleashed | 334075 | [334075-nascar-unleashed.json](./334075-nascar-unleashed.json) |
 | NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
 | Nascar Web Racing | 209153 | [209153-nascar-web-racing.json](./209153-nascar-web-racing.json) |
@@ -784,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
+| NBA Jam: On Fire Edition | 21076 | [21076-nba-jam-on-fire-edition.json](./21076-nba-jam-on-fire-edition.json) |
 | NBA Live 06 | 4034 | [4034-nba-live-06.json](./4034-nba-live-06.json) |
 | NBA Live 07 | 248770 | [248770-nba-live-07.json](./248770-nba-live-07.json) |
 | NBA Live 07 | 248771 | [248771-nba-live-07.json](./248771-nba-live-07.json) |
@@ -2229,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
+| NHL 2K6 | 5965 | [5965-nhl-2k6.json](./5965-nhl-2k6.json) |
 | NHL 5-On-5 2006 | 57932 | [57932-nhl-5-on-5-2006.json](./57932-nhl-5-on-5-2006.json) |
 | NHL 94 Rewind | 146213 | [146213-nhl-94-rewind.json](./146213-nhl-94-rewind.json) |
 | NHL 95 | 299309 | [299309-nhl-95.json](./299309-nhl-95.json) |
@@ -3188,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh: Complete Edition | 68461 | [68461-nioh-complete-edition.json](./68461-nioh-complete-edition.json) |
 | Nioh: Complete Edition - First-Press Limited Edition | 167111 | [167111-nioh-complete-edition-first-press-limited-edition.json](./167111-nioh-complete-edition-first-press-limited-edition.json) |
 | Nioh: Defiant Honor | 46777 | [46777-nioh-defiant-honor.json](./46777-nioh-defiant-honor.json) |
+| Nioh: Dragon of the North | 28366 | [28366-nioh-dragon-of-the-north.json](./28366-nioh-dragon-of-the-north.json) |
 | Nion Forge | 378922 | [378922-nion-forge.json](./378922-nion-forge.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
