@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
+| East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
 | east van EP | 134510 | [134510-east-van-ep.json](./134510-east-van-ep.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Words | 146766 | [146766-enchanted-words.json](./146766-enchanted-words.json) |
 | Enchanted: Once Upon Andalasia | 49278 | [49278-enchanted-once-upon-andalasia.json](./49278-enchanted-once-upon-andalasia.json) |
 | EnchantedGirl | 368676 | [368676-enchantedgirl.json](./368676-enchantedgirl.json) |
+| Enchanter | 1947 | [1947-enchanter.json](./1947-enchanter.json) |
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Enchanting Mahjong Match | 90097 | [90097-enchanting-mahjong-match.json](./90097-enchanting-mahjong-match.json) |
 | Enchantment 2: Sun's Tear | 337836 | [337836-enchantment-2-suns-tear.json](./337836-enchantment-2-suns-tear.json) |
@@ -3542,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
+| Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
