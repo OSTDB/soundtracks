@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingsuit Thrill | 216839 | [216839-wingsuit-thrill.json](./216839-wingsuit-thrill.json) |
 | WingSuit Wiley 2.0 | 251735 | [251735-wingsuit-wiley-2-0.json](./251735-wingsuit-wiley-2-0.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
+| Winguel | 54210 | [54210-winguel.json](./54210-winguel.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
