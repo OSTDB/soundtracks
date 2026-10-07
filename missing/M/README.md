@@ -9775,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortie College | 370714 | [370714-mortie-college.json](./370714-mortie-college.json) |
 | Mortificare | 201003 | [201003-mortificare.json](./201003-mortificare.json) |
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
+| Mortimer and the Riddles of the Medallion | 194 | [194-mortimer-and-the-riddles-of-the-medallion.json](./194-mortimer-and-the-riddles-of-the-medallion.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Mortis Chronicles: Tale of Cowardice | 190012 | [190012-mortis-chronicles-tale-of-cowardice.json](./190012-mortis-chronicles-tale-of-cowardice.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
