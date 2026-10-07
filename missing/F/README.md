@@ -830,6 +830,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
+| Famicom Grand Prix II: 3D Hot Rally | 41256 | [41256-famicom-grand-prix-ii-3d-hot-rally.json](./41256-famicom-grand-prix-ii-3d-hot-rally.json) |
+| Famicom Grand Prix: F-1 Race | 41251 | [41251-famicom-grand-prix-f-1-race.json](./41251-famicom-grand-prix-f-1-race.json) |
 | Famicom Hinshi Tai | 328619 | [328619-famicom-hinshi-tai.json](./328619-famicom-hinshi-tai.json) |
 | Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
 | Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
@@ -846,6 +848,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mini: Wrecking Crew | 170318 | [170318-famicom-mini-wrecking-crew.json](./170318-famicom-mini-wrecking-crew.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
+| Famicom Mukashibanashi: Yuuyuuki - Kouhen | 41273 | [41273-famicom-mukashibanashi-yuuyuuki-kouhen.json](./41273-famicom-mukashibanashi-yuuyuuki-kouhen.json) |
+| Famicom Mukashibanashi: Yuuyuuki - Zenpen | 41274 | [41274-famicom-mukashibanashi-yuuyuuki-zenpen.json](./41274-famicom-mukashibanashi-yuuyuuki-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
 | Famicom Study Box | 48908 | [48908-famicom-study-box.json](./48908-famicom-study-box.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Kouhen | 47249 | [47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json](./47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json) |
@@ -882,6 +886,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Chess: Ultra Deluxe | 254678 | [254678-family-chess-ultra-deluxe.json](./254678-family-chess-ultra-deluxe.json) |
+| Family Composer | 41287 | [41287-family-composer.json](./41287-family-composer.json) |
+| Family Computer Golf: Japan Course | 41260 | [41260-family-computer-golf-japan-course.json](./41260-family-computer-golf-japan-course.json) |
+| Family Computer Golf: U.S. Course | 41247 | [41247-family-computer-golf-u-s-course.json](./41247-family-computer-golf-u-s-course.json) |
 | Family Dinner | 178470 | [178470-family-dinner.json](./178470-family-dinner.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
@@ -2730,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Clash: Buried Treasures | 109547 | [109547-final-clash-buried-treasures.json](./109547-final-clash-buried-treasures.json) |
 | Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
+| Final Commando: Akai Yousai | 41266 | [41266-final-commando-akai-yousai.json](./41266-final-commando-akai-yousai.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Crisis: Terrestrial Defense Police | 141644 | [141644-final-crisis-terrestrial-defense-police.json](./141644-final-crisis-terrestrial-defense-police.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
@@ -3223,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
+| Fire Bam | 41267 | [41267-fire-bam.json](./41267-fire-bam.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
@@ -3322,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
+| Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
