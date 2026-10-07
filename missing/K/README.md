@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts | 301925 | [301925-kingdom-hearts.json](./301925-kingdom-hearts.json) |
 | Kingdom Hearts | 393742 | [393742-kingdom-hearts.json](./393742-kingdom-hearts.json) |
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
+| Kingdom Hearts 3D: Dream Drop Distance | 1226 | [1226-kingdom-hearts-3d-dream-drop-distance.json](./1226-kingdom-hearts-3d-dream-drop-distance.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
 | Kingdom Hearts Birth by Sleep | 1224 | [1224-kingdom-hearts-birth-by-sleep.json](./1224-kingdom-hearts-birth-by-sleep.json) |
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby & the Amazing Mirror | 3721 | [3721-kirby-and-the-amazing-mirror.json](./3721-kirby-and-the-amazing-mirror.json) |
 | Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
 | Kirby 64: Whispy's Trials | 300264 | [300264-kirby-64-whispys-trials.json](./300264-kirby-64-whispys-trials.json) |
+| Kirby Air Ride | 2777 | [2777-kirby-air-ride.json](./2777-kirby-air-ride.json) |
 | Kirby Air Ride Deluxe | 357344 | [357344-kirby-air-ride-deluxe.json](./357344-kirby-air-ride-deluxe.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby and the Forgotten Land | 172427 | [172427-kirby-and-the-forgotten-land.json](./172427-kirby-and-the-forgotten-land.json) |
