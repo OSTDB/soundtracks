@@ -3197,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
+| Invisible, Inc. | 6044 | [6044-invisible-inc.json](./6044-invisible-inc.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | Invisibox | 74253 | [74253-invisibox.json](./74253-invisibox.json) |
 | Invisigun Reloaded | 122724 | [122724-invisigun-reloaded.json](./122724-invisigun-reloaded.json) |
