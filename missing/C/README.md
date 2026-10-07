@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Tear: Lost World | 211170 | [211170-celestial-tear-lost-world.json](./211170-celestial-tear-lost-world.json) |
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
+| Celestial Vale | 25028 | [25028-celestial-vale.json](./25028-celestial-vale.json) |
 | Celestial-World 2.0 | 130805 | [130805-celestial-world-2-0.json](./130805-celestial-world-2-0.json) |
 | Celestials Door | 380070 | [380070-celestials-door.json](./380070-celestials-door.json) |
 | Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
@@ -6548,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
+| Color Catch | 24817 | [24817-color-catch.json](./24817-color-catch.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Chains | 227905 | [227905-color-chains.json](./227905-color-chains.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
@@ -7201,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Europe at War | 127899 | [127899-company-of-heroes-europe-at-war.json](./127899-company-of-heroes-europe-at-war.json) |
 | Company of Heroes: Far East War | 127897 | [127897-company-of-heroes-far-east-war.json](./127897-company-of-heroes-far-east-war.json) |
 | Company of Heroes: Game of the Year Edition | 53928 | [53928-company-of-heroes-game-of-the-year-edition.json](./53928-company-of-heroes-game-of-the-year-edition.json) |
+| Company of Heroes: Gold - Limited Edition | 24813 | [24813-company-of-heroes-gold-limited-edition.json](./24813-company-of-heroes-gold-limited-edition.json) |
 | Company of Heroes: Gold Edition | 21804 | [21804-company-of-heroes-gold-edition.json](./21804-company-of-heroes-gold-edition.json) |
 | Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
 | Company of Heroes: Limited Edition | 24189 | [24189-company-of-heroes-limited-edition.json](./24189-company-of-heroes-limited-edition.json) |
@@ -7242,6 +7245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CompuChess | 91563 | [91563-compuchess.json](./91563-compuchess.json) |
 | CompuChess 2004 | 79529 | [79529-compuchess-2004.json](./79529-compuchess-2004.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
+| Computer Acquire | 24806 | [24806-computer-acquire.json](./24806-computer-acquire.json) |
+| Computer Air Combat | 24832 | [24832-computer-air-combat.json](./24832-computer-air-combat.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
 | Computer Bismarck | 23996 | [23996-computer-bismarck.json](./23996-computer-bismarck.json) |
@@ -7382,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
 | Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
+| Conflict 2500 | 24805 | [24805-conflict-2500.json](./24805-conflict-2500.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
