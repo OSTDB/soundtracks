@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J-Girl | 110141 | [110141-j-girl.json](./110141-j-girl.json) |
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
 | J-Room | 312131 | [312131-j-room.json](./312131-j-room.json) |
+| J-Stars Victory Vs | 7355 | [7355-j-stars-victory-vs.json](./7355-j-stars-victory-vs.json) |
 | J-Town: A Visual Novel | 249859 | [249859-j-town-a-visual-novel.json](./249859-j-town-a-visual-novel.json) |
 | J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR East Train Simulator: Saikyo-Kawagoe Line - Osaki to Kawagoe E233-7000 series | 239144 | [239144-jr-east-train-simulator-saikyo-kawagoe-line-osaki-to-kawagoe-e233-7000-series.json](./239144-jr-east-train-simulator-saikyo-kawagoe-line-osaki-to-kawagoe-e233-7000-series.json) |
 | JR East Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series | 253926 | [253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json](./253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json) |
 | JR East Train Simulator: Tokaido Line - Tokyo to Atami E233-3000 Series | 227195 | [227195-jr-east-train-simulator-tokaido-line-tokyo-to-atami-e233-3000-series.json](./227195-jr-east-train-simulator-tokaido-line-tokyo-to-atami-e233-3000-series.json) |
+| Jr. Pac-Man | 7453 | [7453-jr-pac-man.json](./7453-jr-pac-man.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | JR's: Enter the Flipside | 231499 | [231499-jrs-enter-the-flipside.json](./231499-jrs-enter-the-flipside.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
