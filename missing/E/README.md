@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Mars | 183949 | [183949-escape-from-mars.json](./183949-escape-from-mars.json) |
 | Escape from Mental Hospital | 377217 | [377217-escape-from-mental-hospital.json](./377217-escape-from-mental-hospital.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
+| Escape from Monster Manor | 4337 | [4337-escape-from-monster-manor.json](./4337-escape-from-monster-manor.json) |
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
 | Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
