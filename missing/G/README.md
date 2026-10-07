@@ -5799,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
 | Guilty Gear Xrd: Sign - Character Colors PlayStation Plus Set | 332655 | [332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json](./332655-guilty-gear-xrd-sign-character-colors-playstation-plus-set.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
+| Guilty Gear XX Accent Core Plus | 5642 | [5642-guilty-gear-xx-accent-core-plus.json](./5642-guilty-gear-xx-accent-core-plus.json) |
 | Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Fairy's Forest Factory | 254564 | [254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json](./254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json) |
