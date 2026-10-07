@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
 | A Pequena Grande Crise 3: A Queda do Gigante | 217818 | [217818-a-pequena-grande-crise-3-a-queda-do-gigante.json](./217818-a-pequena-grande-crise-3-a-queda-do-gigante.json) |
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
+| A Personal Nightmare | 41868 | [41868-a-personal-nightmare.json](./41868-a-personal-nightmare.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
 | Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermath | 380111 | [380111-aftermath.json](./380111-aftermath.json) |
+| Aftermath Y2K | 41900 | [41900-aftermath-y2k.json](./41900-aftermath-y2k.json) |
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
