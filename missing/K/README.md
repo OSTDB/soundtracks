@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Road | 243213 | [243213-knights-of-the-road.json](./243213-knights-of-the-road.json) |
 | Knights of the Rogue Dungeon | 283273 | [283273-knights-of-the-rogue-dungeon.json](./283273-knights-of-the-rogue-dungeon.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
+| Knights of the Round | 6816 | [6816-knights-of-the-round.json](./6816-knights-of-the-round.json) |
 | Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
 | Knights of the Temple: Infernal Crusade | 1222 | [1222-knights-of-the-temple-infernal-crusade.json](./1222-knights-of-the-temple-infernal-crusade.json) |
 | Knights of the Throne | 249927 | [249927-knights-of-the-throne.json](./249927-knights-of-the-throne.json) |
