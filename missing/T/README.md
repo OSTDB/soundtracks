@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
 | Taiheiyou no Arashi: Senkan Yamato, Akatsuki ni Shutsugeki su! | 241437 | [241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json](./241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json) |
 | Taiheiyou no Arashi: Shijou Saidai no Gekisen Normandy Koubousen | 147317 | [147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json](./147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json) |
+| Taiji | 127440 | [127440-taiji.json](./127440-taiji.json) |
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
@@ -2943,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 99 | 115282 | [115282-tetris-99.json](./115282-tetris-99.json) |
 | Tetris 99: Big Block DLC | 133960 | [133960-tetris-99-big-block-dlc.json](./133960-tetris-99-big-block-dlc.json) |
 | Tetris Arcade in a Tin | 234079 | [234079-tetris-arcade-in-a-tin.json](./234079-tetris-arcade-in-a-tin.json) |
+| Tetris Attack | 133313 | [133313-tetris-attack.json](./133313-tetris-attack.json) |
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Blast | 48969 | [48969-tetris-blast.json](./48969-tetris-blast.json) |
@@ -5107,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
 | The Elder Scrolls Online: Blackwood Collection | 146127 | [146127-the-elder-scrolls-online-blackwood-collection.json](./146127-the-elder-scrolls-online-blackwood-collection.json) |
 | The Elder Scrolls Online: Clockwork City | 237335 | [237335-the-elder-scrolls-online-clockwork-city.json](./237335-the-elder-scrolls-online-clockwork-city.json) |
+| The Elder Scrolls Online: Dark Brotherhood | 128473 | [128473-the-elder-scrolls-online-dark-brotherhood.json](./128473-the-elder-scrolls-online-dark-brotherhood.json) |
 | The Elder Scrolls Online: Deadlands | 180605 | [180605-the-elder-scrolls-online-deadlands.json](./180605-the-elder-scrolls-online-deadlands.json) |
 | The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
 | The Elder Scrolls Online: Elsweyr - Collector's Edition | 118908 | [118908-the-elder-scrolls-online-elsweyr-collectors-edition.json](./118908-the-elder-scrolls-online-elsweyr-collectors-edition.json) |
@@ -5115,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Firesong | 237340 | [237340-the-elder-scrolls-online-firesong.json](./237340-the-elder-scrolls-online-firesong.json) |
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
+| The Elder Scrolls Online: Greymoor | 128442 | [128442-the-elder-scrolls-online-greymoor.json](./128442-the-elder-scrolls-online-greymoor.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
 | The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
 | The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
@@ -5614,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flow Experience | 191071 | [191071-the-flow-experience.json](./191071-the-flow-experience.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
+| The Flower Collectors | 131930 | [131930-the-flower-collectors.json](./131930-the-flower-collectors.json) |
 | The Flower Inspector | 348889 | [348889-the-flower-inspector.json](./348889-the-flower-inspector.json) |
 | The Flowers of Robert Mapplethorpe | 141004 | [141004-the-flowers-of-robert-mapplethorpe.json](./141004-the-flowers-of-robert-mapplethorpe.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
@@ -7671,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Battle for Middle-earth Anthology | 260701 | [260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json](./260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
+| The Lord of the Rings: The Third Age | 127953 | [127953-the-lord-of-the-rings-the-third-age.json](./127953-the-lord-of-the-rings-the-third-age.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
 | The Lord of the Rings: War in the North | 1052 | [1052-the-lord-of-the-rings-war-in-the-north.json](./1052-the-lord-of-the-rings-war-in-the-north.json) |
 | The Lord of the Rings: War in the North - Legacy Edition | 413144 | [413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json](./413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json) |
@@ -7780,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
 | The Lost Wild | 182290 | [182290-the-lost-wild.json](./182290-the-lost-wild.json) |
 | The Lost World | 246345 | [246345-the-lost-world.json](./246345-the-lost-world.json) |
+| The Lost World: Jurassic Park | 132135 | [132135-the-lost-world-jurassic-park.json](./132135-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
