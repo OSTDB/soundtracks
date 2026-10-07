@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Baz Home | 318521 | [318521-get-baz-home.json](./318521-get-baz-home.json) |
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
 | Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
+| Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
@@ -4562,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
+| Grave Danger | 26585 | [26585-grave-danger.json](./26585-grave-danger.json) |
 | Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
 | Grave Days | 109167 | [109167-grave-days.json](./109167-grave-days.json) |
 | Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
