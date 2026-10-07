@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Bubbles Deluxe | 25839 | [25839-shoot-the-bubbles-deluxe.json](./25839-shoot-the-bubbles-deluxe.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
+| Shoot the Rocks | 28768 | [28768-shoot-the-rocks.json](./28768-shoot-the-rocks.json) |
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
 | Shoot Them | 126559 | [126559-shoot-them.json](./126559-shoot-them.json) |
 | Shoot Them 2 | 143946 | [143946-shoot-them-2.json](./143946-shoot-them-2.json) |
@@ -6642,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Seals | 384533 | [384533-six-seals.json](./384533-six-seals.json) |
 | Six Seven Nights | 393049 | [393049-six-seven-nights.json](./393049-six-seven-nights.json) |
 | Six Shots | 176796 | [176796-six-shots.json](./176796-six-shots.json) |
+| Six Shots | 28758 | [28758-six-shots.json](./28758-six-shots.json) |
 | Six Sided Sanctuary | 128390 | [128390-six-sided-sanctuary.json](./128390-six-sided-sanctuary.json) |
 | Six Sides of the World | 34930 | [34930-six-sides-of-the-world.json](./34930-six-sides-of-the-world.json) |
 | Six Sides of the World Enhanced | 147980 | [147980-six-sides-of-the-world-enhanced.json](./147980-six-sides-of-the-world-enhanced.json) |
@@ -11976,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Karts | 139304 | [139304-spell-karts.json](./139304-spell-karts.json) |
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
+| Spell of Destruction | 28712 | [28712-spell-of-destruction.json](./28712-spell-of-destruction.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slinger | 238562 | [238562-spell-slinger.json](./238562-spell-slinger.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
@@ -13627,6 +13630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Raiders | 25925 | [25925-star-raiders.json](./25925-star-raiders.json) |
+| Star Raiders II | 28713 | [28713-star-raiders-ii.json](./28713-star-raiders-ii.json) |
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
@@ -15688,6 +15692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Strato-Spear | 268443 | [268443-strato-spear.json](./268443-strato-spear.json) |
+| StratoBash | 28764 | [28764-stratobash.json](./28764-stratobash.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
@@ -19461,6 +19466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
 | Surviving Mars: Colony Design Set | 224998 | [224998-surviving-mars-colony-design-set.json](./224998-surviving-mars-colony-design-set.json) |
+| Surviving Mars: Digital Deluxe Edition | 28747 | [28747-surviving-mars-digital-deluxe-edition.json](./28747-surviving-mars-digital-deluxe-edition.json) |
 | Surviving Mars: First Colony Edition | 96491 | [96491-surviving-mars-first-colony-edition.json](./96491-surviving-mars-first-colony-edition.json) |
 | Surviving Mars: Future Contemporary Cosmetic Pack | 227330 | [227330-surviving-mars-future-contemporary-cosmetic-pack.json](./227330-surviving-mars-future-contemporary-cosmetic-pack.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
@@ -19940,6 +19946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
 | Swelldone | 280900 | [280900-swelldone.json](./280900-swelldone.json) |
 | Swervle | 413686 | [413686-swervle.json](./413686-swervle.json) |
+| Sweven | 28683 | [28683-sweven.json](./28683-sweven.json) |
 | Swevens | 403124 | [403124-swevens.json](./403124-swevens.json) |
 | Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
