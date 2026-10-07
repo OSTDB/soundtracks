@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
 | Life is Strange: Episode 4 - Dark Room | 94087 | [94087-life-is-strange-episode-4-dark-room.json](./94087-life-is-strange-episode-4-dark-room.json) |
 | Life is Strange: Episode 5 - Polarized | 93915 | [93915-life-is-strange-episode-5-polarized.json](./93915-life-is-strange-episode-5-polarized.json) |
+| Life Is Strange: Limited Edition | 41610 | [41610-life-is-strange-limited-edition.json](./41610-life-is-strange-limited-edition.json) |
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
@@ -3482,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
 | Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
 | Little Nightmares: The Depths | 36834 | [36834-little-nightmares-the-depths.json](./36834-little-nightmares-the-depths.json) |
+| Little Nightmares: The Residence | 36837 | [36837-little-nightmares-the-residence.json](./36837-little-nightmares-the-residence.json) |
 | Little Ninja Brothers | 26599 | [26599-little-ninja-brothers.json](./26599-little-ninja-brothers.json) |
 | Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
@@ -5796,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lychnis | 125923 | [125923-lychnis.json](./125923-lychnis.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
+| Lydia | 36468 | [36468-lydia.json](./36468-lydia.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
 | Lylia's Deadline | 265856 | [265856-lylias-deadline.json](./265856-lylias-deadline.json) |
