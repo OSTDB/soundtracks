@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
+| Rail Maze | 19512 | [19512-rail-maze.json](./19512-rail-maze.json) |
 | Rail Maze : Train puzzle | 88743 | [88743-rail-maze-train-puzzle.json](./88743-rail-maze-train-puzzle.json) |
 | Rail Nation | 23617 | [23617-rail-nation.json](./23617-rail-nation.json) |
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
@@ -2548,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
+| Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
 | Reflex Strike - Reaction Time Counter | 101050 | [101050-reflex-strike-reaction-time-counter.json](./101050-reflex-strike-reaction-time-counter.json) |
 | Reflex Unit AR | 197758 | [197758-reflex-unit-ar.json](./197758-reflex-unit-ar.json) |
@@ -4606,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
+| Risk: Global Domination | 19184 | [19184-risk-global-domination.json](./19184-risk-global-domination.json) |
 | Risk: Global Domination - Advanced Map Pack | 226941 | [226941-risk-global-domination-advanced-map-pack.json](./226941-risk-global-domination-advanced-map-pack.json) |
 | Risk: Global Domination - Countries & Continents 2 Map Pack | 164455 | [164455-risk-global-domination-countries-and-continents-2-map-pack.json](./164455-risk-global-domination-countries-and-continents-2-map-pack.json) |
 | Risk: Global Domination - Countries & Continents Map Pack | 164456 | [164456-risk-global-domination-countries-and-continents-map-pack.json](./164456-risk-global-domination-countries-and-continents-map-pack.json) |
@@ -5703,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
 | Rogue Port - Red Nightmare | 32758 | [32758-rogue-port-red-nightmare.json](./32758-rogue-port-red-nightmare.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
+| Rogue Prison | 19179 | [19179-rogue-prison.json](./19179-rogue-prison.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
 | Rogue Quest: The Vault of the Lost Tyrant | 74358 | [74358-rogue-quest-the-vault-of-the-lost-tyrant.json](./74358-rogue-quest-the-vault-of-the-lost-tyrant.json) |
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
@@ -5916,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
+| Rollin | 19227 | [19227-rollin.json](./19227-rollin.json) |
 | Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
@@ -7094,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunnerSky | 264561 | [264561-runnersky.json](./264561-runnersky.json) |
 | Running Askew | 151828 | [151828-running-askew.json](./151828-running-askew.json) |
 | Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
+| Running Battle | 19511 | [19511-running-battle.json](./19511-running-battle.json) |
 | Running Beehind | 399694 | [399694-running-beehind.json](./399694-running-beehind.json) |
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
