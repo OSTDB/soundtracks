@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technophobia: Dead Metal Tournament | 224519 | [224519-technophobia-dead-metal-tournament.json](./224519-technophobia-dead-metal-tournament.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
+| TechnoRun | 9251 | [9251-technorun.json](./9251-technorun.json) |
 | TechnoRunner | 156037 | [156037-technorunner.json](./156037-technorunner.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
@@ -4876,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
+| The Divide: Enemies Within | 8940 | [8940-the-divide-enemies-within.json](./8940-the-divide-enemies-within.json) |
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
 | The Divine Invasion | 148689 | [148689-the-divine-invasion.json](./148689-the-divine-invasion.json) |
 | The Divine Paradox | 32258 | [32258-the-divine-paradox.json](./32258-the-divine-paradox.json) |
@@ -8766,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
 | The Quintessential Quintuplets: Omoide VR - Yotsuba | 243776 | [243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json](./243776-the-quintessential-quintuplets-omoide-vr-yotsuba.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
+| The Quivering | 8943 | [8943-the-quivering.json](./8943-the-quivering.json) |
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
 | The Quiz Quest | 400366 | [400366-the-quiz-quest.json](./400366-the-quiz-quest.json) |
 | The Rabbit and Tamaki are Taking a Break! | 286106 | [286106-the-rabbit-and-tamaki-are-taking-a-break.json](./286106-the-rabbit-and-tamaki-are-taking-a-break.json) |
@@ -9256,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
+| The Seven Cities of Gold: Commemorative Edition | 8996 | [8996-the-seven-cities-of-gold-commemorative-edition.json](./8996-the-seven-cities-of-gold-commemorative-edition.json) |
 | The Seven Crystal Petals: The Blossom Realm | 411155 | [411155-the-seven-crystal-petals-the-blossom-realm.json](./411155-the-seven-crystal-petals-the-blossom-realm.json) |
 | The Seven Days I Spent With You | 390146 | [390146-the-seven-days-i-spent-with-you.json](./390146-the-seven-days-i-spent-with-you.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
@@ -18448,6 +18452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Esprit | 26430 | [26430-turbo-esprit.json](./26430-turbo-esprit.json) |
 | Turbo Fiesta | 206069 | [206069-turbo-fiesta.json](./206069-turbo-fiesta.json) |
+| Turbo Finger Swipe | 9237 | [9237-turbo-finger-swipe.json](./9237-turbo-finger-swipe.json) |
 | Turbo Girl | 39140 | [39140-turbo-girl.json](./39140-turbo-girl.json) |
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
