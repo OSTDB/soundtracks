@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Hills | 12080 | [12080-valhalla-hills.json](./12080-valhalla-hills.json) |
 | Valhalla Hills: Definitive Edition | 28264 | [28264-valhalla-hills-definitive-edition.json](./28264-valhalla-hills-definitive-edition.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
+| Valhalla Hills: Two-Horned Helmet Edition | 51791 | [51791-valhalla-hills-two-horned-helmet-edition.json](./51791-valhalla-hills-two-horned-helmet-edition.json) |
 | Valhalla Knights | 20073 | [20073-valhalla-knights.json](./20073-valhalla-knights.json) |
 | Valhalla Knights 2 | 20071 | [20071-valhalla-knights-2.json](./20071-valhalla-knights-2.json) |
 | Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
@@ -1063,6 +1064,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
 | Victor Vran | 9180 | [9180-victor-vran.json](./9180-victor-vran.json) |
 | Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
+| Victor Vran: Fractured Worlds | 51790 | [51790-victor-vran-fractured-worlds.json](./51790-victor-vran-fractured-worlds.json) |
+| Victor Vran: Motörhead -Through the Ages | 51787 | [51787-victor-vran-motorhead-through-the-ages.json](./51787-victor-vran-motorhead-through-the-ages.json) |
 | Victor's Test Night: Reves | 346224 | [346224-victors-test-night-reves.json](./346224-victors-test-night-reves.json) |
 | Victor's Video Vault | 399194 | [399194-victors-video-vault.json](./399194-victors-video-vault.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
