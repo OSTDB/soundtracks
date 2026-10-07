@@ -1564,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 | 220080 | [220080-cars-2.json](./220080-cars-2.json) |
 | Cars 2 | 230345 | [230345-cars-2.json](./230345-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
+| Cars 2 | 4747 | [4747-cars-2.json](./4747-cars-2.json) |
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
+| Champions of Norrath: Realms of EverQuest | 9813 | [9813-champions-of-norrath-realms-of-everquest.json](./9813-champions-of-norrath-realms-of-everquest.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
 | Champions of Shond: Echoes of Faith | 333699 | [333699-champions-of-shond-echoes-of-faith.json](./333699-champions-of-shond-echoes-of-faith.json) |
@@ -7122,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
+| Commander Keen in Goodbye, Galaxy!: The Armageddon Machine | 2445 | [2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json](./2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander Keen: Battle of the Brains | 288347 | [288347-commander-keen-battle-of-the-brains.json](./288347-commander-keen-battle-of-the-brains.json) |
 | Commander Keen: Dead in the Desert | 288346 | [288346-commander-keen-dead-in-the-desert.json](./288346-commander-keen-dead-in-the-desert.json) |
