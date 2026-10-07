@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
+| Val and Rick | 50411 | [50411-val-and-rick.json](./50411-val-and-rick.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
 | Val d'Isère Ski Park Manager: Gold Edition | 206042 | [206042-val-disere-ski-park-manager-gold-edition.json](./206042-val-disere-ski-park-manager-gold-edition.json) |
