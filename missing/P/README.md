@@ -7871,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
 | Prime Monster | 391820 | [391820-prime-monster.json](./391820-prime-monster.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
+| Prime Shift | 51771 | [51771-prime-shift.json](./51771-prime-shift.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
 | Prime Time | 54714 | [54714-prime-time.json](./54714-prime-time.json) |
 | Prime World | 15037 | [15037-prime-world.json](./15037-prime-world.json) |
