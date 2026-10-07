@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Carnage | 86241 | [86241-mad-carnage.json](./86241-mad-carnage.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cat's World | 120910 | [120910-mad-cats-world.json](./120910-mad-cats-world.json) |
+| Mad City | 48575 | [48575-mad-city.json](./48575-mad-city.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Cow Man and Deep Fried Beef Fat Boy | 73741 | [73741-mad-cow-man-and-deep-fried-beef-fat-boy.json](./73741-mad-cow-man-and-deep-fried-beef-fat-boy.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
@@ -2915,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
+| Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Labyrinth | 45915 | [45915-master-labyrinth.json](./45915-master-labyrinth.json) |
@@ -6385,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
 | Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
+| Mike Tyson's Intergalactic Power Punch | 48573 | [48573-mike-tysons-intergalactic-power-punch.json](./48573-mike-tysons-intergalactic-power-punch.json) |
 | Mike Tyson's Punch Out!!?? | 358438 | [358438-mike-tysons-punch-out.json](./358438-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! | 2195 | [2195-mike-tysons-punch-out.json](./2195-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! SNES | 377739 | [377739-mike-tysons-punch-out-snes.json](./377739-mike-tysons-punch-out-snes.json) |
@@ -9747,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother | 150274 | [150274-mother.json](./150274-mother.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
+| Mother 25th Anniversary Edition | 48561 | [48561-mother-25th-anniversary-edition.json](./48561-mother-25th-anniversary-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
 | Mother 3: Claus's Journey | 173093 | [173093-mother-3-clauss-journey.json](./173093-mother-3-clauss-journey.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
