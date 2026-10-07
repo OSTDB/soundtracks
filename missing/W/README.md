@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
+| Warframe: Plains of Eidolon | 68335 | [68335-warframe-plains-of-eidolon.json](./68335-warframe-plains-of-eidolon.json) |
 | Warframe: Sanctuary | 202147 | [202147-warframe-sanctuary.json](./202147-warframe-sanctuary.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
@@ -967,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
+| Warhawk | 79687 | [79687-warhawk.json](./79687-warhawk.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warheads & Overheads | 410397 | [410397-warheads-and-overheads.json](./410397-warheads-and-overheads.json) |
@@ -4046,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein II: The Freedom Chronicles - Episode 1 | 154940 | [154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json](./154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json) |
 | Wolfenstein II: The Freedom Chronicles - Episode 2 | 154939 | [154939-wolfenstein-ii-the-freedom-chronicles-episode-2.json](./154939-wolfenstein-ii-the-freedom-chronicles-episode-2.json) |
 | Wolfenstein II: The Freedom Chronicles - Episode 3 | 154938 | [154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json](./154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json) |
+| Wolfenstein II: The Freedom Chronicles - Episode Zero | 75843 | [75843-wolfenstein-ii-the-freedom-chronicles-episode-zero.json](./75843-wolfenstein-ii-the-freedom-chronicles-episode-zero.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
 | Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins | 75846 | [75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json](./75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json) |
 | Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
