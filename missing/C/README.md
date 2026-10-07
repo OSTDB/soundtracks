@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Fire: Bloody Sea | 115568 | [115568-cannon-fire-bloody-sea.json](./115568-cannon-fire-bloody-sea.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Fodder | 229022 | [229022-cannon-fodder.json](./229022-cannon-fodder.json) |
+| Cannon Fodder 2 | 11986 | [11986-cannon-fodder-2.json](./11986-cannon-fodder-2.json) |
 | Cannon Guys | 334859 | [334859-cannon-guys.json](./334859-cannon-guys.json) |
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
@@ -2606,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Runner | 278638 | [278638-cave-runner.json](./278638-cave-runner.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
+| Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
@@ -4240,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Magics | 107060 | [107060-choice-of-magics.json](./107060-choice-of-magics.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of Rebels: Uprising | 75651 | [75651-choice-of-rebels-uprising.json](./75651-choice-of-rebels-uprising.json) |
+| Choice of Robots | 13093 | [13093-choice-of-robots.json](./13093-choice-of-robots.json) |
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
@@ -6231,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
+| Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. | 2812 | [2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json](./2812-codename-kids-next-door-operation-v-i-d-e-o-g-a-m-e.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Nanxiangzi | 288826 | [288826-codename-nanxiangzi.json](./288826-codename-nanxiangzi.json) |
@@ -11465,6 +11469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
+| Cybernoid: The Fighting Machine | 12024 | [12024-cybernoid-the-fighting-machine.json](./12024-cybernoid-the-fighting-machine.json) |
 | Cyberoque | 59255 | [59255-cyberoque.json](./59255-cyberoque.json) |
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
 | Cyberpet Graveyard | 176778 | [176778-cyberpet-graveyard.json](./176778-cyberpet-graveyard.json) |
