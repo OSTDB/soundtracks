@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviors of Sapphire Wings/Stranger of Sword City Revisited: Limited Edition | 138565 | [138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json](./138565-saviors-of-sapphire-wings-stranger-of-sword-city-revisited-limited-edition.json) |
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
+| Saw | 7176 | [7176-saw.json](./7176-saw.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
 | Saw Hell | 148960 | [148960-saw-hell.json](./148960-saw-hell.json) |
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
+| Scum | 31712 | [31712-scum.json](./31712-scum.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
@@ -2662,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
+| Secrets of the Ark: A Broken Sword Game | 1152 | [1152-secrets-of-the-ark-a-broken-sword-game.json](./1152-secrets-of-the-ark-a-broken-sword-game.json) |
 | Secrets of the Burrow: Vixoria's Quest | 372135 | [372135-secrets-of-the-burrow-vixorias-quest.json](./372135-secrets-of-the-burrow-vixorias-quest.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
@@ -8711,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Board Championship | 39801 | [39801-snow-board-championship.json](./39801-snow-board-championship.json) |
 | Snow Bound Land | 77419 | [77419-snow-bound-land.json](./77419-snow-bound-land.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
+| Snow Bros. | 6901 | [6901-snow-bros.json](./6901-snow-bros.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
 | Snow Bros. Classic | 345107 | [345107-snow-bros-classic.json](./345107-snow-bros-classic.json) |
 | Snow Bros. Classic Collection | 387669 | [387669-snow-bros-classic-collection.json](./387669-snow-bros-classic-collection.json) |
@@ -9800,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Babies | 326840 | [326840-sonic-babies.json](./326840-sonic-babies.json) |
 | Sonic Bang | 326832 | [326832-sonic-bang.json](./326832-sonic-bang.json) |
 | Sonic Bash | 202255 | [202255-sonic-bash.json](./202255-sonic-bash.json) |
+| Sonic Battle | 6600 | [6600-sonic-battle.json](./6600-sonic-battle.json) |
 | Sonic Battle 2 | 326806 | [326806-sonic-battle-2.json](./326806-sonic-battle-2.json) |
 | Sonic Battle 4: The Call to Chaos | 330280 | [330280-sonic-battle-4-the-call-to-chaos.json](./330280-sonic-battle-4-the-call-to-chaos.json) |
 | Sonic Battle Cards | 338941 | [338941-sonic-battle-cards.json](./338941-sonic-battle-cards.json) |
@@ -12536,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
+| Spirit of the North | 107141 | [107141-spirit-of-the-north.json](./107141-spirit-of-the-north.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
@@ -18964,6 +18970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Star Wars | 20031 | [20031-super-star-wars.json](./20031-super-star-wars.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
+| Super Star Wars: Return of the Jedi | 48939 | [48939-super-star-wars-return-of-the-jedi.json](./48939-super-star-wars-return-of-the-jedi.json) |
 | Super Stardust | 12351 | [12351-super-stardust.json](./12351-super-stardust.json) |
 | Super Stardust Delta | 42694 | [42694-super-stardust-delta.json](./42694-super-stardust-delta.json) |
 | Super Stardust Portable | 234021 | [234021-super-stardust-portable.json](./234021-super-stardust-portable.json) |
