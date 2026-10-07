@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
+| Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
 | Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
+| Weedcraft Inc | 110486 | [110486-weedcraft-inc.json](./110486-weedcraft-inc.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
 | Weedcraft Inc + Crossroads Inn: Weed and Greet Bundle | 288861 | [288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json](./288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json) |
