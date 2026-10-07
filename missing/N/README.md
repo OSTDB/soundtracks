@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
 | NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
+| Neurowake | 41896 | [41896-neurowake.json](./41896-neurowake.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nunholy | 297164 | [297164-nunholy.json](./297164-nunholy.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nurarihyon no Mago: Hyakki Ryouran Taisen | 47426 | [47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json](./47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json) |
+| Nurbits | 41902 | [41902-nurbits.json](./41902-nurbits.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurie de Asobou: Sanrio Characters | 266170 | [266170-nurie-de-asobou-sanrio-characters.json](./266170-nurie-de-asobou-sanrio-characters.json) |
 | Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
