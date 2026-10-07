@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
+| Immerse Creator | 34163 | [34163-immerse-creator.json](./34163-immerse-creator.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
 | Immersion Pack: Europa Universalis IV - Origins | 246898 | [246898-immersion-pack-europa-universalis-iv-origins.json](./246898-immersion-pack-europa-universalis-iv-origins.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
 | In The Dark 2 | 307743 | [307743-in-the-dark-2.json](./307743-in-the-dark-2.json) |
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
+| In the Dead of Night: Urszula's Revenge | 34090 | [34090-in-the-dead-of-night-urszulas-revenge.json](./34090-in-the-dead-of-night-urszulas-revenge.json) |
 | In The Disorderly Courtyard | 303588 | [303588-in-the-disorderly-courtyard.json](./303588-in-the-disorderly-courtyard.json) |
 | In The Dog House | 103996 | [103996-in-the-dog-house.json](./103996-in-the-dog-house.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
@@ -3604,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
 | Iso | 227980 | [227980-iso.json](./227980-iso.json) |
 | Iso Racer | 246353 | [246353-iso-racer.json](./246353-iso-racer.json) |
+| iso-Sphere | 34146 | [34146-iso-sphere.json](./34146-iso-sphere.json) |
 | ISO/2004 | 402492 | [402492-iso-2004.json](./402492-iso-2004.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
