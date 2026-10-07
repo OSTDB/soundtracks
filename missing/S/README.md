@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
+| Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
 | Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Magic | 355186 | [355186-seal-of-magic.json](./355186-seal-of-magic.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
+| Seal of the Pharaoh | 4288 | [4288-seal-of-the-pharaoh.json](./4288-seal-of-the-pharaoh.json) |
 | Seal Online: Blades of Destiny | 109510 | [109510-seal-online-blades-of-destiny.json](./109510-seal-online-blades-of-destiny.json) |
 | Seal Online: Eternal Destiny | 267578 | [267578-seal-online-eternal-destiny.json](./267578-seal-online-eternal-destiny.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
@@ -3399,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
+| Sesame Street: Numbers | 4276 | [4276-sesame-street-numbers.json](./4276-sesame-street-numbers.json) |
 | Sesame Street: Ready, Set, Grover! | 138577 | [138577-sesame-street-ready-set-grover.json](./138577-sesame-street-ready-set-grover.json) |
 | Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
 | Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
@@ -3948,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow: Treachery Cannot Be Tolerated | 90309 | [90309-shadow-treachery-cannot-be-tolerated.json](./90309-shadow-treachery-cannot-be-tolerated.json) |
 | Shadow: Treachery Cannot Be Tolerated - Episode 2: Retaliation | 171950 | [171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json](./171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json) |
+| Shadow: War of Succession | 4325 | [4325-shadow-war-of-succession.json](./4325-shadow-war-of-succession.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
@@ -4171,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai: Mah-Jongg Essentials | 70483 | [70483-shanghai-mah-jongg-essentials.json](./70483-shanghai-mah-jongg-essentials.json) |
 | Shanghai: Shoryuu Sairin | 376060 | [376060-shanghai-shoryuu-sairin.json](./376060-shanghai-shoryuu-sairin.json) |
+| Shanghai: Triple-Threat | 4265 | [4265-shanghai-triple-threat.json](./4265-shanghai-triple-threat.json) |
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai.EXE: Genso Network | 142121 | [142121-shanghai-exe-genso-network.json](./142121-shanghai-exe-genso-network.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
@@ -5082,6 +5087,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
+| Shock Wave | 4301 | [4301-shock-wave.json](./4301-shock-wave.json) |
+| Shock Wave 2: Beyond the Gate | 4280 | [4280-shock-wave-2-beyond-the-gate.json](./4280-shock-wave-2-beyond-the-gate.json) |
+| Shock Wave: Operation JumpGate | 4310 | [4310-shock-wave-operation-jumpgate.json](./4310-shock-wave-operation-jumpgate.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
@@ -8711,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fortress | 26592 | [26592-snow-fortress.json](./26592-snow-fortress.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
+| Snow Job | 4324 | [4324-snow-job.json](./4324-snow-job.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Kingdom | 246544 | [246544-snow-kingdom.json](./246544-snow-kingdom.json) |
 | Snow Light | 17961 | [17961-snow-light.json](./17961-snow-light.json) |
@@ -15005,6 +15014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
 | Stellar 7 | 14513 | [14513-stellar-7.json](./14513-stellar-7.json) |
 | Stellar 7 | 14514 | [14514-stellar-7.json](./14514-stellar-7.json) |
+| Stellar 7: Draxon's Revenge | 4313 | [4313-stellar-7-draxons-revenge.json](./4313-stellar-7-draxons-revenge.json) |
 | Stellar Archipelago | 372612 | [372612-stellar-archipelago.json](./372612-stellar-archipelago.json) |
 | Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
@@ -15646,6 +15656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
+| Strahl | 4336 | [4336-strahl.json](./4336-strahl.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
 | Straight on 8 | 143968 | [143968-straight-on-8.json](./143968-straight-on-8.json) |
@@ -18622,6 +18633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
 | Super Real Mahjong P7 | 342132 | [342132-super-real-mahjong-p7.json](./342132-super-real-mahjong-p7.json) |
+| Super Real Mahjong PV | 4303 | [4303-super-real-mahjong-pv.json](./4303-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV: Paradise | 42227 | [42227-super-real-mahjong-pv-paradise.json](./42227-super-real-mahjong-pv-paradise.json) |
 | Super Real Mahjong PVI | 342131 | [342131-super-real-mahjong-pvi.json](./342131-super-real-mahjong-pvi.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
@@ -19056,6 +19068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
+| Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
@@ -19345,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
+| Supreme Warrior | 4291 | [4291-supreme-warrior.json](./4291-supreme-warrior.json) |
 | Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
 | Suqare: Hired Gun | 333171 | [333171-suqare-hired-gun.json](./333171-suqare-hired-gun.json) |
 | Sur | 159127 | [159127-sur.json](./159127-sur.json) |
