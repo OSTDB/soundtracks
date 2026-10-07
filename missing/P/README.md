@@ -7418,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct | 4476 | [4476-power-instinct.json](./4476-power-instinct.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
+| Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power Lords | 24005 | [24005-power-lords.json](./24005-power-lords.json) |
@@ -7518,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power Surge | 40399 | [40399-power-surge.json](./40399-power-surge.json) |
+| Power Tennis | 43198 | [43198-power-tennis.json](./43198-power-tennis.json) |
 | Power The Light | 254064 | [254064-power-the-light.json](./254064-power-the-light.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power to the People | 145263 | [145263-power-to-the-people.json](./145263-power-to-the-people.json) |
