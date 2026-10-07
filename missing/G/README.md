@@ -4483,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grander Musashi RV | 228555 | [228555-grander-musashi-rv.json](./228555-grander-musashi-rv.json) |
 | Grandfather | 417497 | [417497-grandfather.json](./417497-grandfather.json) |
 | Grandia | 361321 | [361321-grandia.json](./361321-grandia.json) |
+| Grandia | 4127 | [4127-grandia.json](./4127-grandia.json) |
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
@@ -6179,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
+| Guns, Gore & Cannoli | 13187 | [13187-guns-gore-and-cannoli.json](./13187-guns-gore-and-cannoli.json) |
 | Guns, Gore & Cannoli 1 & 2 | 133772 | [133772-guns-gore-and-cannoli-1-and-2.json](./133772-guns-gore-and-cannoli-1-and-2.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
