@@ -994,6 +994,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kendo Rage | 15845 | [15845-kendo-rage.json](./15845-kendo-rage.json) |
 | Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
+| Kengo 2: Sword of the Samurai | 1421 | [1421-kengo-2-sword-of-the-samurai.json](./1421-kengo-2-sword-of-the-samurai.json) |
+| Kengo 3 | 1422 | [1422-kengo-3.json](./1422-kengo-3.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
