@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
 | Acro Storm | 30837 | [30837-acro-storm.json](./30837-acro-storm.json) |
 | Acroama: Company of Strays | 379471 | [379471-acroama-company-of-strays.json](./379471-acroama-company-of-strays.json) |
+| Acrobat Mission | 46770 | [46770-acrobat-mission.json](./46770-acrobat-mission.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
 | Acrodog | 185023 | [185023-acrodog.json](./185023-acrodog.json) |
@@ -3126,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajou Dracula | 322133 | [322133-akumajou-dracula.json](./322133-akumajou-dracula.json) |
 | Akumajou Dracula | 322142 | [322142-akumajou-dracula.json](./322142-akumajou-dracula.json) |
 | Akumajou Dracula | 377248 | [377248-akumajou-dracula.json](./377248-akumajou-dracula.json) |
+| Akumajou Dracula X: Gekka no Yasoukyoku | 45508 | [45508-akumajou-dracula-x-gekka-no-yasoukyoku.json](./45508-akumajou-dracula-x-gekka-no-yasoukyoku.json) |
 | Akumanor Gaiden | 361222 | [361222-akumanor-gaiden.json](./361222-akumanor-gaiden.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
@@ -4190,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer | 38526 | [38526-alpine-racer.json](./38526-alpine-racer.json) |
 | Alpine Racer 2 | 38525 | [38525-alpine-racer-2.json](./38525-alpine-racer-2.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
+| Alpine Ski | 46759 | [46759-alpine-ski.json](./46759-alpine-ski.json) |
 | Alpine Ski Racing 2007 | 68266 | [68266-alpine-ski-racing-2007.json](./68266-alpine-ski-racing-2007.json) |
 | Alpine Skiing | 41532 | [41532-alpine-skiing.json](./41532-alpine-skiing.json) |
 | Alpine Skiing 2005 | 68265 | [68265-alpine-skiing-2005.json](./68265-alpine-skiing-2005.json) |
@@ -8513,6 +8516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
+| Assault Suit Leynos 2 | 45509 | [45509-assault-suit-leynos-2.json](./45509-assault-suit-leynos-2.json) |
 | Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
 | Assault Suits Valken | 375386 | [375386-assault-suits-valken.json](./375386-assault-suits-valken.json) |
 | Assault Suits Valken 2 | 44750 | [44750-assault-suits-valken-2.json](./44750-assault-suits-valken-2.json) |
@@ -9567,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austerity X | 407587 | [407587-austerity-x.json](./407587-austerity-x.json) |
 | Austin Mini Racing | 90933 | [90933-austin-mini-racing.json](./90933-austin-mini-racing.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
+| Austin Powers Pinball | 45085 | [45085-austin-powers-pinball.json](./45085-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Welcome to My Underground Lair! | 18385 | [18385-austin-powers-welcome-to-my-underground-lair.json](./18385-austin-powers-welcome-to-my-underground-lair.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
