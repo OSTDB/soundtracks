@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
 | Warcraft III: Reforged - Version 2.0 | 322145 | [322145-warcraft-iii-reforged-version-2-0.json](./322145-warcraft-iii-reforged-version-2-0.json) |
 | Warcraft Remastered Battle Chest | 322146 | [322146-warcraft-remastered-battle-chest.json](./322146-warcraft-remastered-battle-chest.json) |
+| Warcraft Rumble | 199925 | [199925-warcraft-rumble.json](./199925-warcraft-rumble.json) |
 | Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Grab Bag | 231532 | [231532-warios-grab-bag.json](./231532-warios-grab-bag.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | Wario's Whack Attack | 231531 | [231531-warios-whack-attack.json](./231531-warios-whack-attack.json) |
+| Wario's Woods | 1711 | [1711-warios-woods.json](./1711-warios-woods.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
 | WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | WarioWare, Inc.: Mega Microgame$! | 1703 | [1703-warioware-inc-mega-microgame.json](./1703-warioware-inc-mega-microgame.json) |
@@ -3574,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 2 | 20243 | [20243-wipeout-2.json](./20243-wipeout-2.json) |
 | Wipeout 2048 | 1545 | [1545-wipeout-2048.json](./1545-wipeout-2048.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
+| Wipeout 3 | 1540 | [1540-wipeout-3.json](./1540-wipeout-3.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
