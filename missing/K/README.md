@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwark: Online and Multiplayer | 298129 | [298129-kwark-online-and-multiplayer.json](./298129-kwark-online-and-multiplayer.json) |
 | Kwartikum | 387654 | [387654-kwartikum.json](./387654-kwartikum.json) |
 | Kwazy Kwaks | 93129 | [93129-kwazy-kwaks.json](./93129-kwazy-kwaks.json) |
+| Kwik Snax | 14491 | [14491-kwik-snax.json](./14491-kwik-snax.json) |
 | Kwiks | 335519 | [335519-kwiks.json](./335519-kwiks.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
