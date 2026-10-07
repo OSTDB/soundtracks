@@ -10282,6 +10282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
+| Crying Suns | 95032 | [95032-crying-suns.json](./95032-crying-suns.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
 | Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
@@ -10464,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Crystal: Automaton | 333181 | [333181-crystal-automaton.json](./333181-crystal-automaton.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
+| Crystalis | 3121 | [3121-crystalis.json](./3121-crystalis.json) |
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
 | Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
