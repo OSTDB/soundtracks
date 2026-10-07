@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heatwarped | 414518 | [414518-heatwarped.json](./414518-heatwarped.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
+| Heave Ho | 116685 | [116685-heave-ho.json](./116685-heave-ho.json) |
 | Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
 | Heave-Ho: Uphill | 402349 | [402349-heave-ho-uphill.json](./402349-heave-ho-uphill.json) |
 | Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
