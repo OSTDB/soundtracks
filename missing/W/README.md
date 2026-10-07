@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
+| Who Shot Johnny Rock? | 4281 | [4281-who-shot-johnny-rock.json](./4281-who-shot-johnny-rock.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
