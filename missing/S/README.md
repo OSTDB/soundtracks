@@ -10350,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
 | Sorceress of Fortune | 200063 | [200063-sorceress-of-fortune.json](./200063-sorceress-of-fortune.json) |
 | Sorceress Services | 362889 | [362889-sorceress-services.json](./362889-sorceress-services.json) |
+| Sorcerian | 14486 | [14486-sorcerian.json](./14486-sorcerian.json) |
 | Sorcerian Additional Scenario Vol. 2: Sengoku Sorcerian | 137432 | [137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json](./137432-sorcerian-additional-scenario-vol-2-sengoku-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
@@ -14868,6 +14869,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
 | Steel Panthers III: Brigade Command | 14466 | [14466-steel-panthers-iii-brigade-command.json](./14466-steel-panthers-iii-brigade-command.json) |
 | Steel Panthers: Campaign Disk | 72018 | [72018-steel-panthers-campaign-disk.json](./72018-steel-panthers-campaign-disk.json) |
+| Steel Panthers: Main Battle Tank | 14469 | [14469-steel-panthers-main-battle-tank.json](./14469-steel-panthers-main-battle-tank.json) |
+| Steel Panthers: World at War! | 14468 | [14468-steel-panthers-world-at-war.json](./14468-steel-panthers-world-at-war.json) |
 | Steel Panthers: World War 2 | 14467 | [14467-steel-panthers-world-war-2.json](./14467-steel-panthers-world-war-2.json) |
 | Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
