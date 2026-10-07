@@ -4340,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
+| Choujikuu Yousai Macross: Scrambled Valkyrie | 42537 | [42537-choujikuu-yousai-macross-scrambled-valkyrie.json](./42537-choujikuu-yousai-macross-scrambled-valkyrie.json) |
 | Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
 | Choujin Baseball Stadium | 222225 | [222225-choujin-baseball-stadium.json](./222225-choujin-baseball-stadium.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
