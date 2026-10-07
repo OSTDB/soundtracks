@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikori no Yosaku | 78926 | [78926-kikori-no-yosaku.json](./78926-kikori-no-yosaku.json) |
 | Kikou Busou G-Breaker: Legend of Cloudia | 248211 | [248211-kikou-busou-g-breaker-legend-of-cloudia.json](./248211-kikou-busou-g-breaker-legend-of-cloudia.json) |
 | Kikou Heidan J-Phoenix + | 58879 | [58879-kikou-heidan-j-phoenix.json](./58879-kikou-heidan-j-phoenix.json) |
+| Kikou Keisatsu Metal Jack | 38212 | [38212-kikou-keisatsu-metal-jack.json](./38212-kikou-keisatsu-metal-jack.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
