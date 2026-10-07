@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
+| Ghost Town | 18522 | [18522-ghost-town.json](./18522-ghost-town.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town Mysteries: Bodie | 53081 | [53081-ghost-town-mysteries-bodie.json](./53081-ghost-town-mysteries-bodie.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Trails: The New Western Rush | 54056 | [54056-golden-trails-the-new-western-rush.json](./54056-golden-trails-the-new-western-rush.json) |
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
+| Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
 | Golden war spirit | 119607 | [119607-golden-war-spirit.json](./119607-golden-war-spirit.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
