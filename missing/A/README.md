@@ -5305,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
+| Angry Birds: Pop! | 60224 | [60224-angry-birds-pop.json](./60224-angry-birds-pop.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
 | Angry Brides | 174079 | [174079-angry-brides.json](./174079-angry-brides.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
