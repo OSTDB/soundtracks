@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K Mobile Basketball | 127918 | [127918-nba-2k-mobile-basketball.json](./127918-nba-2k-mobile-basketball.json) |
 | NBA 2K Playgrounds 2 | 96487 | [96487-nba-2k-playgrounds-2.json](./96487-nba-2k-playgrounds-2.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
+| NBA 2K10 | 5054 | [5054-nba-2k10.json](./5054-nba-2k10.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
 | NBA 2K12 | 256894 | [256894-nba-2k12.json](./256894-nba-2k12.json) |
 | NBA 2K12 | 256895 | [256895-nba-2k12.json](./256895-nba-2k12.json) |
@@ -734,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K20 | 114285 | [114285-nba-2k20.json](./114285-nba-2k20.json) |
 | NBA 2K21: Mamba Forever - Legendary Edition | 146184 | [146184-nba-2k21-mamba-forever-legendary-edition.json](./146184-nba-2k21-mamba-forever-legendary-edition.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
+| NBA 2K22 | 157446 | [157446-nba-2k22.json](./157446-nba-2k22.json) |
 | NBA 2K22: Cross-Gen Digital Bundle | 158592 | [158592-nba-2k22-cross-gen-digital-bundle.json](./158592-nba-2k22-cross-gen-digital-bundle.json) |
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
@@ -3875,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
 | Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
+| North & South | 1874 | [1874-north-and-south.json](./1874-north-and-south.json) |
 | North American Hunting Extravaganza | 51079 | [51079-north-american-hunting-extravaganza.json](./51079-north-american-hunting-extravaganza.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Atlantic '86 | 23999 | [23999-north-atlantic-86.json](./23999-north-atlantic-86.json) |
