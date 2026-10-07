@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Runner | 369712 | [369712-sad-virus-runner.json](./369712-sad-virus-runner.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
+| Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
 | Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddies: Attack!! | 60610 | [60610-saddies-attack.json](./60610-saddies-attack.json) |
@@ -6377,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinclair User DoubleHits 5 | 85759 | [85759-sinclair-user-doublehits-5.json](./85759-sinclair-user-doublehits-5.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
+| Sindibad - Chitei No Dai Meikyu | 37690 | [37690-sindibad-chitei-no-dai-meikyu.json](./37690-sindibad-chitei-no-dai-meikyu.json) |
 | Sindome | 113464 | [113464-sindome.json](./113464-sindome.json) |
 | Sindorin Inn | 287143 | [287143-sindorin-inn.json](./287143-sindorin-inn.json) |
 | Sine | 207905 | [207905-sine.json](./207905-sine.json) |
@@ -9547,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
+| Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
@@ -17447,6 +17450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Daisenryaku: Map Collection | 381856 | [381856-super-daisenryaku-map-collection.json](./381856-super-daisenryaku-map-collection.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
+| Super Darius II | 37641 | [37641-super-darius-ii.json](./37641-super-darius-ii.json) |
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
 | Super Darts | 223903 | [223903-super-darts.json](./223903-super-darts.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
@@ -19493,6 +19497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SUS: The Game | 282101 | [282101-sus-the-game.json](./282101-sus-the-game.json) |
 | Sus! | 377065 | [377065-sus.json](./377065-sus.json) |
 | Susan Taxpayer | 265722 | [265722-susan-taxpayer.json](./265722-susan-taxpayer.json) |
+| Susano O Densetsu | 37688 | [37688-susano-o-densetsu.json](./37688-susano-o-densetsu.json) |
 | Susanoo | 409005 | [409005-susanoo.json](./409005-susanoo.json) |
 | Sushi Alone | 151808 | [151808-sushi-alone.json](./151808-sushi-alone.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
