@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
+| Pang! 3 | 39510 | [39510-pang-3.json](./39510-pang-3.json) |
 | Pang.date | 205097 | [205097-pang-date.json](./205097-pang-date.json) |
 | Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
@@ -4361,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall | 139891 | [139891-pitfall.json](./139891-pitfall.json) |
+| Pitfall II: Lost Caverns | 39509 | [39509-pitfall-ii-lost-caverns.json](./39509-pitfall-ii-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 282072 | [282072-pitfall-ii-the-lost-caverns.json](./282072-pitfall-ii-the-lost-caverns.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
 | Pitfall Planet | 32919 | [32919-pitfall-planet.json](./32919-pitfall-planet.json) |
@@ -5722,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Farmery: Idle Pop Farm | 256356 | [256356-pocket-farmery-idle-pop-farm.json](./256356-pocket-farmery-idle-pop-farm.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
+| Pocket Gal | 39501 | [39501-pocket-gal.json](./39501-pocket-gal.json) |
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
