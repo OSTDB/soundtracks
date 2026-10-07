@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Golden Silence | 139779 | [139779-whispered-secrets-golden-silence.json](./139779-whispered-secrets-golden-silence.json) |
 | Whispered Secrets: In the Cards - Collector's Edition | 362836 | [362836-whispered-secrets-in-the-cards-collectors-edition.json](./362836-whispered-secrets-in-the-cards-collectors-edition.json) |
 | Whispered Secrets: Into the Beyond | 139780 | [139780-whispered-secrets-into-the-beyond.json](./139780-whispered-secrets-into-the-beyond.json) |
+| Whispered Secrets: Into the Beyond - Collector's Edition | 43180 | [43180-whispered-secrets-into-the-beyond-collectors-edition.json](./43180-whispered-secrets-into-the-beyond-collectors-edition.json) |
 | Whispered Secrets: Into the Wind | 139781 | [139781-whispered-secrets-into-the-wind.json](./139781-whispered-secrets-into-the-wind.json) |
 | Whispered Secrets: Morbid Obsession - Collector's Edition | 362837 | [362837-whispered-secrets-morbid-obsession-collectors-edition.json](./362837-whispered-secrets-morbid-obsession-collectors-edition.json) |
 | Whispered Secrets: Poisoner's Masquerade | 416626 | [416626-whispered-secrets-poisoners-masquerade.json](./416626-whispered-secrets-poisoners-masquerade.json) |
@@ -3421,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 9: 2022 | 201030 | [201030-winning-post-9-2022.json](./201030-winning-post-9-2022.json) |
 | Winning Post World | 59214 | [59214-winning-post-world.json](./59214-winning-post-world.json) |
 | Winning Run | 64491 | [64491-winning-run.json](./64491-winning-run.json) |
+| Winning Shot | 43190 | [43190-winning-shot.json](./43190-winning-shot.json) |
 | Winning Solution | 47545 | [47545-winning-solution.json](./47545-winning-solution.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | Winoa Wizard's Witchy Quest to Womanhood vs. the Botanical Bitches | 344524 | [344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json](./344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Normandy | 18324 | [18324-wwii-normandy.json](./18324-wwii-normandy.json) |
 | WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
+| WWII: Tank Battles | 43209 | [43209-wwii-tank-battles.json](./43209-wwii-tank-battles.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
 | Wyatt Derp 2: Peacekeeper | 57722 | [57722-wyatt-derp-2-peacekeeper.json](./57722-wyatt-derp-2-peacekeeper.json) |
