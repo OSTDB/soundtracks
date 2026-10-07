@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zangeki Warp | 30287 | [30287-zangeki-warp.json](./30287-zangeki-warp.json) |
 | Zangus | 313249 | [313249-zangus.json](./313249-zangus.json) |
 | Zangyura | 138717 | [138717-zangyura.json](./138717-zangyura.json) |
+| Zanki Zero: Last Beginning | 28245 | [28245-zanki-zero-last-beginning.json](./28245-zanki-zero-last-beginning.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
 | Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
 | Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
