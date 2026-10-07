@@ -495,7 +495,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
+| War for the Overworld: Anniversary Collection | 51786 | [51786-war-for-the-overworld-anniversary-collection.json](./51786-war-for-the-overworld-anniversary-collection.json) |
+| War for the Overworld: Crucible | 51785 | [51785-war-for-the-overworld-crucible.json](./51785-war-for-the-overworld-crucible.json) |
+| War for the Overworld: Heart of Gold | 51784 | [51784-war-for-the-overworld-heart-of-gold.json](./51784-war-for-the-overworld-heart-of-gold.json) |
+| War for the Overworld: My Pet Dungeon | 51783 | [51783-war-for-the-overworld-my-pet-dungeon.json](./51783-war-for-the-overworld-my-pet-dungeon.json) |
+| War for the Overworld: Seasonal Worker Skins | 51781 | [51781-war-for-the-overworld-seasonal-worker-skins.json](./51781-war-for-the-overworld-seasonal-worker-skins.json) |
 | War for the Overworld: The Under Games | 124819 | [124819-war-for-the-overworld-the-under-games.json](./124819-war-for-the-overworld-the-under-games.json) |
+| War for the Overworld: Underlord Edition | 51782 | [51782-war-for-the-overworld-underlord-edition.json](./51782-war-for-the-overworld-underlord-edition.json) |
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
@@ -643,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War War | 168655 | [168655-war-war.json](./168655-war-war.json) |
 | War War War: Smiles vs. Ghosts | 108364 | [108364-war-war-war-smiles-vs-ghosts.json](./108364-war-war-war-smiles-vs-ghosts.json) |
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
+| War Wind II: Human Onslaught | 51780 | [51780-war-wind-ii-human-onslaught.json](./51780-war-wind-ii-human-onslaught.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
@@ -3280,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Arms | 19720 | [19720-wing-arms.json](./19720-wing-arms.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
+| Wing Commander 5: Prophecy - Gold Edition | 51779 | [51779-wing-commander-5-prophecy-gold-edition.json](./51779-wing-commander-5-prophecy-gold-edition.json) |
 | Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
@@ -3335,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Power: WWII Heavy Bombers and Jets | 61709 | [61709-wings-of-power-wwii-heavy-bombers-and-jets.json](./61709-wings-of-power-wwii-heavy-bombers-and-jets.json) |
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
+| Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
