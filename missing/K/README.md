@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawanakajima no Kassen | 76948 | [76948-kawanakajima-no-kassen.json](./76948-kawanakajima-no-kassen.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
+| Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
 | Kaxuki: Hope for Peace | 329044 | [329044-kaxuki-hope-for-peace.json](./329044-kaxuki-hope-for-peace.json) |
 | Kay's Destiny | 242516 | [242516-kays-destiny.json](./242516-kays-destiny.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Boo's Revenge PC | 378293 | [378293-king-boos-revenge-pc.json](./378293-king-boos-revenge-pc.json) |
 | King Boo's Seven Towers | 313302 | [313302-king-boos-seven-towers.json](./313302-king-boos-seven-towers.json) |
 | King Bundle | 279218 | [279218-king-bundle.json](./279218-king-bundle.json) |
+| King Colossus | 46524 | [46524-king-colossus.json](./46524-king-colossus.json) |
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
