@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquittal: Induction | 302599 | [302599-acquittal-induction.json](./302599-acquittal-induction.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
+| Acro Storm | 30837 | [30837-acro-storm.json](./30837-acro-storm.json) |
 | Acroama: Company of Strays | 379471 | [379471-acroama-company-of-strays.json](./379471-acroama-company-of-strays.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
