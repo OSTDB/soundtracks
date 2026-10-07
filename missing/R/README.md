@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | Rampage World Tour | 249132 | [249132-rampage-world-tour.json](./249132-rampage-world-tour.json) |
+| Rampage World Tour | 3056 | [3056-rampage-world-tour.json](./3056-rampage-world-tour.json) |
 | Rampage: AR Unleashed | 97528 | [97528-rampage-ar-unleashed.json](./97528-rampage-ar-unleashed.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampallians | 406854 | [406854-rampallians.json](./406854-rampallians.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
+| Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
 | Rise of the Cones: Planetary Defense | 383576 | [383576-rise-of-the-cones-planetary-defense.json](./383576-rise-of-the-cones-planetary-defense.json) |
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
