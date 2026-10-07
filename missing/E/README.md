@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Night 2: Nemuri no Shihaisha | 43882 | [43882-echo-night-2-nemuri-no-shihaisha.json](./43882-echo-night-2-nemuri-no-shihaisha.json) |
 | Echo Night: Beyond | 9515 | [9515-echo-night-beyond.json](./9515-echo-night-beyond.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
+| Echo Nine | 43186 | [43186-echo-nine.json](./43186-echo-nine.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
 | Echo of Humanity | 390723 | [390723-echo-of-humanity.json](./390723-echo-of-humanity.json) |
 | Echo of Migration | 258617 | [258617-echo-of-migration.json](./258617-echo-of-migration.json) |
@@ -4557,7 +4558,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeshield 21: MAX Devil Power | 124011 | [124011-eyeshield-21-max-devil-power.json](./124011-eyeshield-21-max-devil-power.json) |
 | Eyeshield 21: Portable Edition | 58277 | [58277-eyeshield-21-portable-edition.json](./58277-eyeshield-21-portable-edition.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
+| EyeToy Play: Astro Zoo | 43211 | [43211-eyetoy-play-astro-zoo.json](./43211-eyetoy-play-astro-zoo.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
+| EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
