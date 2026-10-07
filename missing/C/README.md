@@ -3696,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royal | 142699 | [142699-chess-royal.json](./142699-chess-royal.json) |
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
+| Chess Titans | 26679 | [26679-chess-titans.json](./26679-chess-titans.json) |
 | Chess Twist | 284967 | [284967-chess-twist.json](./284967-chess-twist.json) |
 | Chess Undress | 260338 | [260338-chess-undress.json](./260338-chess-undress.json) |
 | Chess Universe | 357416 | [357416-chess-universe.json](./357416-chess-universe.json) |
@@ -7450,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
+| Conflict: Denied Ops | 5634 | [5634-conflict-denied-ops.json](./5634-conflict-denied-ops.json) |
 | Conflict: Desert Storm | 3863 | [3863-conflict-desert-storm.json](./3863-conflict-desert-storm.json) |
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
@@ -9636,6 +9638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
+| Crime Life: Gang Wars | 5791 | [5791-crime-life-gang-wars.json](./5791-crime-life-gang-wars.json) |
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
@@ -11651,6 +11654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytopia | 124038 | [124038-cytopia.json](./124038-cytopia.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
+| Cytus | 27026 | [27026-cytus.json](./27026-cytus.json) |
 | Cytus Alpha | 106290 | [106290-cytus-alpha.json](./106290-cytus-alpha.json) |
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
