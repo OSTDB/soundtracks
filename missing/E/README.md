@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
 | Exovoid | 292238 | [292238-exovoid.json](./292238-exovoid.json) |
 | Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
+| Exowar | 35509 | [35509-exowar.json](./35509-exowar.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
