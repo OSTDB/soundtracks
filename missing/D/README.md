@@ -2985,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Grievances | 397865 | [397865-deepest-grievances.json](./397865-deepest-grievances.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
+| Deepest Sword | 146544 | [146544-deepest-sword.json](./146544-deepest-sword.json) |
 | Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
 | Deepest World | 302050 | [302050-deepest-world.json](./302050-deepest-world.json) |
 | Deepfield | 211202 | [211202-deepfield.json](./211202-deepfield.json) |
@@ -4214,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer: Invasion | 50754 | [50754-destroyer-invasion.json](./50754-destroyer-invasion.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
+| Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
 | Destruction Derby 2 | 1170 | [1170-destruction-derby-2.json](./1170-destruction-derby-2.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge This | 291512 | [291512-dodge-this.json](./291512-dodge-this.json) |
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
 | Dodgeball | 165568 | [165568-dodgeball.json](./165568-dodgeball.json) |
+| Dodgeball Academia | 152255 | [152255-dodgeball-academia.json](./152255-dodgeball-academia.json) |
 | Dodgeball Blast | 356208 | [356208-dodgeball-blast.json](./356208-dodgeball-blast.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
