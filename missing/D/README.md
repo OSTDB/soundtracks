@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
+| Destruction Derby 2 | 1170 | [1170-destruction-derby-2.json](./1170-destruction-derby-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
 | Destruction Joukan | 386343 | [386343-destruction-joukan.json](./386343-destruction-joukan.json) |
