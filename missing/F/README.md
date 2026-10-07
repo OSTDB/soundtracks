@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feline Shenanigans | 279854 | [279854-feline-shenanigans.json](./279854-feline-shenanigans.json) |
 | Feline Sweet | 165430 | [165430-feline-sweet.json](./165430-feline-sweet.json) |
 | Felinea Tales | 328532 | [328532-felinea-tales.json](./328532-felinea-tales.json) |
+| Felis | 56275 | [56275-felis.json](./56275-felis.json) |
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
@@ -7726,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
+| Futurust | 56294 | [56294-futurust.json](./56294-futurust.json) |
 | Futwatch | 69349 | [69349-futwatch.json](./69349-futwatch.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3: Minus3’s Lab | 316181 | [316181-fuu3-minus3-s-lab.json](./316181-fuu3-minus3-s-lab.json) |
