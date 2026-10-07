@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
+| Band of Drones | 35578 | [35578-band-of-drones.json](./35578-band-of-drones.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band of Outlaws | 54491 | [54491-band-of-outlaws.json](./54491-band-of-outlaws.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
