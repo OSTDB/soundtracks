@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
+| Call of Duty: Black Ops II - Revolution | 20153 | [20153-call-of-duty-black-ops-ii-revolution.json](./20153-call-of-duty-black-ops-ii-revolution.json) |
 | Call of Duty: Black Ops II - Uprising | 20154 | [20154-call-of-duty-black-ops-ii-uprising.json](./20154-call-of-duty-black-ops-ii-uprising.json) |
 | Call of Duty: Black Ops II - Vengeance | 20854 | [20854-call-of-duty-black-ops-ii-vengeance.json](./20854-call-of-duty-black-ops-ii-vengeance.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
+| Capcom Fighting Collection 2 | 314942 | [314942-capcom-fighting-collection-2.json](./314942-capcom-fighting-collection-2.json) |
 | Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
@@ -1871,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
+| Castle of Dr. Brain | 7722 | [7722-castle-of-dr-brain.json](./7722-castle-of-dr-brain.json) |
 | Castle of Dragon | 18832 | [18832-castle-of-dragon.json](./18832-castle-of-dragon.json) |
 | Castle of Elite | 125406 | [125406-castle-of-elite.json](./125406-castle-of-elite.json) |
 | Castle of Full Moon | 213985 | [213985-castle-of-full-moon.json](./213985-castle-of-full-moon.json) |
@@ -2676,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
+| Caves (Roguelike) | 141828 | [141828-caves-roguelike.json](./141828-caves-roguelike.json) |
 | Caves of Fear | 302602 | [302602-caves-of-fear.json](./302602-caves-of-fear.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
 | Caves of Olympus | 25852 | [25852-caves-of-olympus.json](./25852-caves-of-olympus.json) |
@@ -10204,6 +10208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
+| Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Line Tycoon | 47938 | [47938-cruise-line-tycoon.json](./47938-cruise-line-tycoon.json) |
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
@@ -10457,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Crush | 70620 | [70620-crystal-crush.json](./70620-crystal-crush.json) |
 | Crystal Daze | 274680 | [274680-crystal-daze.json](./274680-crystal-daze.json) |
 | Crystal Defender | 221126 | [221126-crystal-defender.json](./221126-crystal-defender.json) |
+| Crystal Defenders | 21207 | [21207-crystal-defenders.json](./21207-crystal-defenders.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
