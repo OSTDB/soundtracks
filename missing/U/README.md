@@ -2042,11 +2042,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Uta Macross Sma-Pho De-Culture | 78969 | [78969-uta-macross-sma-pho-de-culture.json](./78969-uta-macross-sma-pho-de-culture.json) |
 | Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
+| Uta no Prince-sama: Amazing Aria | 56298 | [56298-uta-no-prince-sama-amazing-aria.json](./56298-uta-no-prince-sama-amazing-aria.json) |
 | Uta no Prince-sama: Amazing Aria & Sweet Serenade Love | 136840 | [136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json](./136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json) |
 | Uta no Prince-sama: Debut for Nintendo Switch | 136962 | [136962-uta-no-prince-sama-debut-for-nintendo-switch.json](./136962-uta-no-prince-sama-debut-for-nintendo-switch.json) |
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
+| Uta no Prince-sama: Music 2 | 56320 | [56320-uta-no-prince-sama-music-2.json](./56320-uta-no-prince-sama-music-2.json) |
+| Uta no Prince-sama: Music 3 | 56318 | [56318-uta-no-prince-sama-music-3.json](./56318-uta-no-prince-sama-music-3.json) |
+| Uta no Prince-sama: Repeat | 56300 | [56300-uta-no-prince-sama-repeat.json](./56300-uta-no-prince-sama-repeat.json) |
+| Uta no Prince-sama: Repeat Love | 56319 | [56319-uta-no-prince-sama-repeat-love.json](./56319-uta-no-prince-sama-repeat-love.json) |
 | Uta no Prince-sama: Shining Live | 71192 | [71192-uta-no-prince-sama-shining-live.json](./71192-uta-no-prince-sama-shining-live.json) |
+| Uta no Prince-sama: Sweet Serenade | 56299 | [56299-uta-no-prince-sama-sweet-serenade.json](./56299-uta-no-prince-sama-sweet-serenade.json) |
+| Uta Pri Island | 56316 | [56316-uta-pri-island.json](./56316-uta-pri-island.json) |
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
