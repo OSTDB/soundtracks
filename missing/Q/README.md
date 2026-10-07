@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
 | Quadropus Rampage | 39180 | [39180-quadropus-rampage.json](./39180-quadropus-rampage.json) |
 | QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
+| Quadrun | 40713 | [40713-quadrun.json](./40713-quadrun.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
 | QuadSmash | 64201 | [64201-quadsmash.json](./64201-quadsmash.json) |
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
