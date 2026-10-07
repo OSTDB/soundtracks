@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Base | 194273 | [194273-mars-base.json](./194273-mars-base.json) |
 | Mars Base Alley | 390237 | [390237-mars-base-alley.json](./390237-mars-base-alley.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
+| Mars Cars | 22498 | [22498-mars-cars.json](./22498-mars-cars.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Colony: Challenger | 17066 | [17066-mars-colony-challenger.json](./17066-mars-colony-challenger.json) |
@@ -5803,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
 | Mia and me - Free the Unicorns! | 96191 | [96191-mia-and-me-free-the-unicorns.json](./96191-mia-and-me-free-the-unicorns.json) |
 | Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
+| Mia and the Bugaboos | 22121 | [22121-mia-and-the-bugaboos.json](./22121-mia-and-the-bugaboos.json) |
 | Mia and the Dragon Princess | 212737 | [212737-mia-and-the-dragon-princess.json](./212737-mia-and-the-dragon-princess.json) |
 | Mia Fey: Ace Spirit Attorney | 303005 | [303005-mia-fey-ace-spirit-attorney.json](./303005-mia-fey-ace-spirit-attorney.json) |
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
@@ -8029,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
+| Mob Ties: Tokyo | 22120 | [22120-mob-ties-tokyo.json](./22120-mob-ties-tokyo.json) |
 | Mob Trader | 314407 | [314407-mob-trader.json](./314407-mob-trader.json) |
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars | 79184 | [79184-mob-wars.json](./79184-mob-wars.json) |
@@ -11377,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
+| My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
