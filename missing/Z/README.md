@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZanZan | 163343 | [163343-zanzan.json](./163343-zanzan.json) |
 | Zanzibart | 278105 | [278105-zanzibart.json](./278105-zanzibart.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
+| Zaos | 141408 | [141408-zaos.json](./141408-zaos.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
 | Zap Line : Connect the Ends Puzzle Game | 105915 | [105915-zap-line-connect-the-ends-puzzle-game.json](./105915-zap-line-connect-the-ends-puzzle-game.json) |
@@ -1367,6 +1368,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
 | Zup-qop! | 247081 | [247081-zup-qop.json](./247081-zup-qop.json) |
 | Zup-Zup! | 52097 | [52097-zup-zup.json](./52097-zup-zup.json) |
+| Zup! 3 | 27416 | [27416-zup-3.json](./27416-zup-3.json) |
+| Zup! 4 | 27417 | [27417-zup-4.json](./27417-zup-4.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
