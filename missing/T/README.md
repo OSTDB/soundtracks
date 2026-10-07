@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Cup '93 | 46101 | [46101-tecmo-world-cup-93.json](./46101-tecmo-world-cup-93.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
+| TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
 | Tectonicalypse | 185473 | [185473-tectonicalypse.json](./185473-tectonicalypse.json) |
 | Tectron: Command Radar | 385823 | [385823-tectron-command-radar.json](./385823-tectron-command-radar.json) |
@@ -3865,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
+| The Book of Pooh | 50423 | [50423-the-book-of-pooh.json](./50423-the-book-of-pooh.json) |
 | The Book of Prosperity | 404356 | [404356-the-book-of-prosperity.json](./404356-the-book-of-prosperity.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
@@ -4184,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
 | The City of Fury | 260642 | [260642-the-city-of-fury.json](./260642-the-city-of-fury.json) |
 | The City of Lost Children | 20001 | [20001-the-city-of-lost-children.json](./20001-the-city-of-lost-children.json) |
+| The City of Lost Children | 50419 | [50419-the-city-of-lost-children.json](./50419-the-city-of-lost-children.json) |
 | The City of Metronome | 73015 | [73015-the-city-of-metronome.json](./73015-the-city-of-metronome.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
@@ -11467,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
 | Thomas & Friends: Special Delivery | 206224 | [206224-thomas-and-friends-special-delivery.json](./206224-thomas-and-friends-special-delivery.json) |
 | Thomas & Friends: The Great Festival Adventure | 70654 | [70654-thomas-and-friends-the-great-festival-adventure.json](./70654-thomas-and-friends-the-great-festival-adventure.json) |
+| Thomas & Friends: Trouble on the Tracks | 50425 | [50425-thomas-and-friends-trouble-on-the-tracks.json](./50425-thomas-and-friends-trouble-on-the-tracks.json) |
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
@@ -13578,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
+| Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
@@ -15638,6 +15643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Escape | 344530 | [344530-toy-escape.json](./344530-toy-escape.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
+| Toy Golf Extreme | 50400 | [50400-toy-golf-extreme.json](./50400-toy-golf-extreme.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
@@ -18198,6 +18204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
+| Tumiki Fighters | 50414 | [50414-tumiki-fighters.json](./50414-tumiki-fighters.json) |
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
