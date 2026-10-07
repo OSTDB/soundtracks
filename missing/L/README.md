@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Leviathan Dawn | 185018 | [185018-leviathan-dawn.json](./185018-leviathan-dawn.json) |
+| Leviathan Starblade | 30695 | [30695-leviathan-starblade.json](./30695-leviathan-starblade.json) |
 | Leviathan: Streams of Legends | 197255 | [197255-leviathan-streams-of-legends.json](./197255-leviathan-streams-of-legends.json) |
 | Leviathan: The Cargo | 34262 | [34262-leviathan-the-cargo.json](./34262-leviathan-the-cargo.json) |
 | Leviathan: Warships | 10512 | [10512-leviathan-warships.json](./10512-leviathan-warships.json) |
