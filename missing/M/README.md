@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi's Delightful Adventure | 307725 | [307725-mario-and-luigis-delightful-adventure.json](./307725-mario-and-luigis-delightful-adventure.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at the London 2012 Olympic Games | 2708 | [2708-mario-and-sonic-at-the-london-2012-olympic-games.json](./2708-mario-and-sonic-at-the-london-2012-olympic-games.json) |
+| Mario & Sonic at the Olympic Games | 132108 | [132108-mario-and-sonic-at-the-olympic-games.json](./132108-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Winter Games | 2707 | [2707-mario-and-sonic-at-the-olympic-winter-games.json](./2707-mario-and-sonic-at-the-olympic-winter-games.json) |
 | Mario & Sonic at The Olympic Winter Games Pyeongchang 2018 | 313303 | [313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json](./313303-mario-and-sonic-at-the-olympic-winter-games-pyeongchang-2018.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
@@ -4297,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
 | Mega Man 8: Anniversary Collector's Edition | 45182 | [45182-mega-man-8-anniversary-collectors-edition.json](./45182-mega-man-8-anniversary-collectors-edition.json) |
 | Mega Man Again | 332628 | [332628-mega-man-again.json](./332628-mega-man-again.json) |
+| Mega Man Anniversary Collection | 1728 | [1728-mega-man-anniversary-collection.json](./1728-mega-man-anniversary-collection.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man Battle & Chase | 1731 | [1731-mega-man-battle-and-chase.json](./1731-mega-man-battle-and-chase.json) |
 | Mega Man Battle & Fighters | 212341 | [212341-mega-man-battle-and-fighters.json](./212341-mega-man-battle-and-fighters.json) |
@@ -4306,8 +4308,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 3 Blue | 1758 | [1758-mega-man-battle-network-3-blue.json](./1758-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 Blue | 352864 | [352864-mega-man-battle-network-3-blue.json](./352864-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 White | 352863 | [352863-mega-man-battle-network-3-white.json](./352863-mega-man-battle-network-3-white.json) |
+| Mega Man Battle Network 4: Blue Moon | 1760 | [1760-mega-man-battle-network-4-blue-moon.json](./1760-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352328 | [352328-mega-man-battle-network-4-blue-moon.json](./352328-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352867 | [352867-mega-man-battle-network-4-blue-moon.json](./352867-mega-man-battle-network-4-blue-moon.json) |
+| Mega Man Battle Network 4: Red Sun | 1759 | [1759-mega-man-battle-network-4-red-sun.json](./1759-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352331 | [352331-mega-man-battle-network-4-red-sun.json](./352331-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352866 | [352866-mega-man-battle-network-4-red-sun.json](./352866-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 5: Patch Card - Anaconda | 351818 | [351818-mega-man-battle-network-5-patch-card-anaconda.json](./351818-mega-man-battle-network-5-patch-card-anaconda.json) |
@@ -4355,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 5: Team Protoman | 352868 | [352868-mega-man-battle-network-5-team-protoman.json](./352868-mega-man-battle-network-5-team-protoman.json) |
 | Mega Man Battle Network 6: Cybeast Falzar | 352335 | [352335-mega-man-battle-network-6-cybeast-falzar.json](./352335-mega-man-battle-network-6-cybeast-falzar.json) |
 | Mega Man Battle Network 6: Cybeast Falzar | 352874 | [352874-mega-man-battle-network-6-cybeast-falzar.json](./352874-mega-man-battle-network-6-cybeast-falzar.json) |
+| Mega Man Battle Network 6: Cybeast Gregar | 1765 | [1765-mega-man-battle-network-6-cybeast-gregar.json](./1765-mega-man-battle-network-6-cybeast-gregar.json) |
 | Mega Man Battle Network 6: Cybeast Gregar | 352338 | [352338-mega-man-battle-network-6-cybeast-gregar.json](./352338-mega-man-battle-network-6-cybeast-gregar.json) |
 | Mega Man Battle Network 6: Cybeast Gregar | 352873 | [352873-mega-man-battle-network-6-cybeast-gregar.json](./352873-mega-man-battle-network-6-cybeast-gregar.json) |
 | Mega Man Battle Network 6: Patch Card - Admission for Yuika's Show | 352727 | [352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json](./352727-mega-man-battle-network-6-patch-card-admission-for-yuikas-show.json) |
@@ -4398,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Heardle | 203816 | [203816-mega-man-heardle.json](./203816-mega-man-heardle.json) |
 | Mega Man II | 1734 | [1734-mega-man-ii.json](./1734-mega-man-ii.json) |
 | Mega Man II SNES | 377765 | [377765-mega-man-ii-snes.json](./377765-mega-man-ii-snes.json) |
+| Mega Man III | 1735 | [1735-mega-man-iii.json](./1735-mega-man-iii.json) |
 | Mega Man III SNES | 377764 | [377764-mega-man-iii-snes.json](./377764-mega-man-iii-snes.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
@@ -4807,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholy | 278465 | [278465-melancholy.json](./278465-melancholy.json) |
 | Melancholy Date | 245949 | [245949-melancholy-date.json](./245949-melancholy-date.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
+| Melatonin | 157756 | [157756-melatonin.json](./157756-melatonin.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbourne Tatty | 66780 | [66780-melbourne-tatty.json](./66780-melbourne-tatty.json) |
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
@@ -10875,6 +10882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
+| Murder House | 135763 | [135763-murder-house.json](./135763-murder-house.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder Is Game Over | 197110 | [197110-murder-is-game-over.json](./197110-murder-is-game-over.json) |
