@@ -3573,6 +3573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
+| European Superleague | 13059 | [13059-european-superleague.json](./13059-european-superleague.json) |
 | European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
 | European War 2 | 90887 | [90887-european-war-2.json](./90887-european-war-2.json) |
