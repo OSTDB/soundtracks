@@ -7154,6 +7154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
 | Boneless Zombie | 34913 | [34913-boneless-zombie.json](./34913-boneless-zombie.json) |
 | Bonely Hearts Club | 411802 | [411802-bonely-hearts-club.json](./411802-bonely-hearts-club.json) |
+| Boner | 25557 | [25557-boner.json](./25557-boner.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones | 372636 | [372636-bones.json](./372636-bones.json) |
