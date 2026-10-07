@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
+| La-Mulana EX | 22186 | [22186-la-mulana-ex.json](./22186-la-mulana-ex.json) |
 | Lab | 199511 | [199511-lab.json](./199511-lab.json) |
 | Lab 03 Yrinth | 75433 | [75433-lab-03-yrinth.json](./75433-lab-03-yrinth.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leaderboard Executive Edition | 47185 | [47185-leaderboard-executive-edition.json](./47185-leaderboard-executive-edition.json) |
+| Leaderboard Tournament | 22526 | [22526-leaderboard-tournament.json](./22526-leaderboard-tournament.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
 | Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
 | Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
 | LLs | 96524 | [96524-lls.json](./96524-lls.json) |
+| LMA Manager | 22541 | [22541-lma-manager.json](./22541-lma-manager.json) |
 | LMA Manager 2001 | 22543 | [22543-lma-manager-2001.json](./22543-lma-manager-2001.json) |
 | LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
 | LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
