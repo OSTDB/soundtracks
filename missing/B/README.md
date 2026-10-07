@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuten Shoot Beyblade 2002: Ikuze! Bakutou! Chou Jiryoku Battle!! | 49488 | [49488-bakuten-shoot-beyblade-2002-ikuze-bakutou-chou-jiryoku-battle.json](./49488-bakuten-shoot-beyblade-2002-ikuze-bakutou-chou-jiryoku-battle.json) |
 | Bakuten Shoot Beyblade 2002: Takao Version | 49489 | [49489-bakuten-shoot-beyblade-2002-takao-version.json](./49489-bakuten-shoot-beyblade-2002-takao-version.json) |
 | Bakuten Shoot Beyblade: Gekitou! Saikyou Blade | 49491 | [49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json](./49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json) |
+| Bakutou Dochers: Bumps-jima ha Oosawagi | 44449 | [44449-bakutou-dochers-bumps-jima-ha-oosawagi.json](./44449-bakutou-dochers-bumps-jima-ha-oosawagi.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
 | Bal | 290930 | [290930-bal.json](./290930-bal.json) |
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
@@ -1291,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbaros | 153487 | [153487-barbaros.json](./153487-barbaros.json) |
+| Barbarossa | 44448 | [44448-barbarossa.json](./44448-barbarossa.json) |
 | Barbarossa Remake | 255664 | [255664-barbarossa-remake.json](./255664-barbarossa-remake.json) |
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
@@ -1851,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
 | BassDuel | 271172 | [271172-bassduel.json](./271172-bassduel.json) |
 | Bassfishing | 92289 | [92289-bassfishing.json](./92289-bassfishing.json) |
+| Bassin's Black Bass | 44466 | [44466-bassins-black-bass.json](./44466-bassins-black-bass.json) |
 | Bassing Beat | 285997 | [285997-bassing-beat.json](./285997-bassing-beat.json) |
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
 | Bassline Sinker | 110157 | [110157-bassline-sinker.json](./110157-bassline-sinker.json) |
@@ -4735,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
 | Bishoujo Hanafuda Kikou Michinoku Hitou Koi Monogatari Special | 45417 | [45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json](./45417-bishoujo-hanafuda-kikou-michinoku-hitou-koi-monogatari-special.json) |
+| Bishoujo Janshi Suchie-Pai | 44442 | [44442-bishoujo-janshi-suchie-pai.json](./44442-bishoujo-janshi-suchie-pai.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
 | Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he | 115724 | [115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json](./115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json) |
 | Bishoujo Mangekyou: Kotowari to Meikyuu no Shoujo | 128419 | [128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json](./128419-bishoujo-mangekyou-kotowari-to-meikyuu-no-shoujo.json) |
@@ -5540,10 +5544,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
+| Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
 | Bleach Party | 157487 | [157487-bleach-party.json](./157487-bleach-party.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
+| Bleach: Heat the Soul 2 | 44481 | [44481-bleach-heat-the-soul-2.json](./44481-bleach-heat-the-soul-2.json) |
 | Bleach: Heat the Soul 3 | 72793 | [72793-bleach-heat-the-soul-3.json](./72793-bleach-heat-the-soul-3.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: Heat the Soul 5 | 72958 | [72958-bleach-heat-the-soul-5.json](./72958-bleach-heat-the-soul-5.json) |
@@ -9827,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burned Land | 114883 | [114883-burned-land.json](./114883-burned-land.json) |
 | Burned One | 365157 | [365157-burned-one.json](./365157-burned-one.json) |
 | Burned Out | 317456 | [317456-burned-out.json](./317456-burned-out.json) |
+| Burnin Rubber | 44493 | [44493-burnin-rubber.json](./44493-burnin-rubber.json) |
 | Burnin' Rubber | 172601 | [172601-burnin-rubber.json](./172601-burnin-rubber.json) |
 | Burnin' Rubber | 86208 | [86208-burnin-rubber.json](./86208-burnin-rubber.json) |
 | Burnin' Rubber 3 | 133876 | [133876-burnin-rubber-3.json](./133876-burnin-rubber-3.json) |
@@ -10039,6 +10046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
+| Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
 | But Why? | 391821 | [391821-but-why.json](./391821-but-why.json) |
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
