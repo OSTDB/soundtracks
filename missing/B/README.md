@@ -8593,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Fire III | 207256 | [207256-breath-of-fire-iii.json](./207256-breath-of-fire-iii.json) |
+| Breath of Fire IV | 1280 | [1280-breath-of-fire-iv.json](./1280-breath-of-fire-iv.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | Breath of Ghosts 2 | 208856 | [208856-breath-of-ghosts-2.json](./208856-breath-of-ghosts-2.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
