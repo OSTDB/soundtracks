@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Elbow Manager 2 | 99576 | [99576-tennis-elbow-manager-2.json](./99576-tennis-elbow-manager-2.json) |
 | Tennis Esports | 280871 | [280871-tennis-esports.json](./280871-tennis-esports.json) |
 | Tennis Exciting | 247005 | [247005-tennis-exciting.json](./247005-tennis-exciting.json) |
+| Tennis for Two | 6763 | [6763-tennis-for-two.json](./6763-tennis-for-two.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Girl | 292241 | [292241-tennis-girl.json](./292241-tennis-girl.json) |
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
@@ -7571,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Drive | 122589 | [122589-the-long-drive.json](./122589-the-long-drive.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Journey: Adventure | 90791 | [90791-the-long-journey-adventure.json](./90791-the-long-journey-adventure.json) |
+| The Long Reach | 41812 | [41812-the-long-reach.json](./41812-the-long-reach.json) |
 | The Long Return | 117351 | [117351-the-long-return.json](./117351-the-long-return.json) |
 | The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
