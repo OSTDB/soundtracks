@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
 | Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
+| Fears to Fathom: Scratch Creek | 348971 | [348971-fears-to-fathom-scratch-creek.json](./348971-fears-to-fathom-scratch-creek.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
@@ -5695,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
 | Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
 | Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
+| Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
@@ -5724,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One | 12082 | [12082-formula-one.json](./12082-formula-one.json) |
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One | 46551 | [46551-formula-one.json](./46551-formula-one.json) |
+| Formula One 2001 | 8299 | [8299-formula-one-2001.json](./8299-formula-one-2001.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
