@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
 | Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
+| North American Hunting Extravaganza | 51079 | [51079-north-american-hunting-extravaganza.json](./51079-north-american-hunting-extravaganza.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Atlantic '86 | 23999 | [23999-north-atlantic-86.json](./23999-north-atlantic-86.json) |
 | North Atlantic Convoy Raider | 23997 | [23997-north-atlantic-convoy-raider.json](./23997-north-atlantic-convoy-raider.json) |
