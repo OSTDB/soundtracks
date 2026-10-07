@@ -3771,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
+| The Big Deal | 13815 | [13815-the-big-deal.json](./13815-the-big-deal.json) |
 | The Big Elk | 33340 | [33340-the-big-elk.json](./33340-the-big-elk.json) |
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
 | The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
@@ -5140,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
+| The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
@@ -5255,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
+| The Experience | 13651 | [13651-the-experience.json](./13651-the-experience.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experiment | 255864 | [255864-the-experiment.json](./255864-the-experiment.json) |
 | The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
