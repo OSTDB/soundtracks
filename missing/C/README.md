@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
 | Caligo | 65840 | [65840-caligo.json](./65840-caligo.json) |
+| Caliper | 29713 | [29713-caliper.json](./29713-caliper.json) |
 | Caliper 2 | 118226 | [118226-caliper-2.json](./118226-caliper-2.json) |
 | Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Calisteo | 238981 | [238981-calisteo.json](./238981-calisteo.json) |
@@ -6240,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoffeeBiz Tycoon | 111027 | [111027-coffeebiz-tycoon.json](./111027-coffeebiz-tycoon.json) |
 | Coffeehouse | 217374 | [217374-coffeehouse.json](./217374-coffeehouse.json) |
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
+| Coffence | 29688 | [29688-coffence.json](./29688-coffence.json) |
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
