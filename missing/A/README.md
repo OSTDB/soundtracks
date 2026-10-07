@@ -6044,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
+| Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
@@ -8073,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashi | 156990 | [156990-ashi.json](./156990-ashi.json) |
 | Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
 | Ashi: Lake of Light | 104538 | [104538-ashi-lake-of-light.json](./104538-ashi-lake-of-light.json) |
+| Ashiato Reversi: Kumamon Version | 54940 | [54940-ashiato-reversi-kumamon-version.json](./54940-ashiato-reversi-kumamon-version.json) |
 | Ashigaru: The Last Shogun | 206309 | [206309-ashigaru-the-last-shogun.json](./206309-ashigaru-the-last-shogun.json) |
 | Ashihara no Anima | 401842 | [401842-ashihara-no-anima.json](./401842-ashihara-no-anima.json) |
 | Ashimeyama | 177811 | [177811-ashimeyama.json](./177811-ashimeyama.json) |
