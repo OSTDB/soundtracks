@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
+| Paganitzu Part 1: Romancing the Rose | 50428 | [50428-paganitzu-part-1-romancing-the-rose.json](./50428-paganitzu-part-1-romancing-the-rose.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Page Chronica | 64462 | [64462-page-chronica.json](./64462-page-chronica.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perquisite Strata X | 246885 | [246885-perquisite-strata-x.json](./246885-perquisite-strata-x.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
+| Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
@@ -8501,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
+| Project Antumbra | 50438 | [50438-project-antumbra.json](./50438-project-antumbra.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
 | Project Ara - Crucible | 126992 | [126992-project-ara-crucible.json](./126992-project-ara-crucible.json) |
