@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper: The Interactive Adventure | 215183 | [215183-casper-the-interactive-adventure.json](./215183-casper-the-interactive-adventure.json) |
 | Caspers | 337837 | [337837-caspers.json](./337837-caspers.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
+| Cassandra's Journey 2: The Fifth Sun of Nostradamus | 56901 | [56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json](./56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json) |
 | Cassandra's Journey: The Legacy of Nostradamus | 64725 | [64725-cassandras-journey-the-legacy-of-nostradamus.json](./64725-cassandras-journey-the-legacy-of-nostradamus.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
 | Cat Architect | 182875 | [182875-cat-architect.json](./182875-cat-architect.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
+| Cat Attack | 56882 | [56882-cat-attack.json](./56882-cat-attack.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
 | Cat Beauty Salon | 93701 | [93701-cat-beauty-salon.json](./93701-cat-beauty-salon.json) |
@@ -9428,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
 | Cricket 22 | 175987 | [175987-cricket-22.json](./175987-cricket-22.json) |
 | Cricket 24 | 243749 | [243749-cricket-24.json](./243749-cricket-24.json) |
+| Cricket 64 | 56889 | [56889-cricket-64.json](./56889-cricket-64.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
