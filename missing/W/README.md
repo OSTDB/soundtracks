@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Naughtiness | 226154 | [226154-wheel-of-naughtiness.json](./226154-wheel-of-naughtiness.json) |
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
+| Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
@@ -5339,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
+| Wuppo | 26175 | [26175-wuppo.json](./26175-wuppo.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
 | Wuppo: Special Edition | 52121 | [52121-wuppo-special-edition.json](./52121-wuppo-special-edition.json) |
 | Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
