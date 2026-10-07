@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
 | Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
 | Ecco: The Tides of Time | 237314 | [237314-ecco-the-tides-of-time.json](./237314-ecco-the-tides-of-time.json) |
+| Ecco: The Tides of Time | 5379 | [5379-ecco-the-tides-of-time.json](./5379-ecco-the-tides-of-time.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
 | eCheese Zone | 128332 | [128332-echeese-zone.json](./128332-echeese-zone.json) |
 | Echelon | 269106 | [269106-echelon.json](./269106-echelon.json) |
