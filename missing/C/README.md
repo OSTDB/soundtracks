@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
+| Caesar IV | 7508 | [7508-caesar-iv.json](./7508-caesar-iv.json) |
 | Caesar Palace Slots | 200504 | [200504-caesar-palace-slots.json](./200504-caesar-palace-slots.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
@@ -678,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
 | Candivity: Platinum Edition | 385194 | [385194-candivity-platinum-edition.json](./385194-candivity-platinum-edition.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
+| Candle | 19289 | [19289-candle.json](./19289-candle.json) |
 | Candle Fire Run! | 262319 | [262319-candle-fire-run.json](./262319-candle-fire-run.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
 | Candle In Darkness | 158551 | [158551-candle-in-darkness.json](./158551-candle-in-darkness.json) |
@@ -1028,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Eikou no Kiseki | 49521 | [49521-captain-tsubasa-eikou-no-kiseki.json](./49521-captain-tsubasa-eikou-no-kiseki.json) |
 | Captain Tsubasa: Moeyo! Drive Shoot | 385801 | [385801-captain-tsubasa-moeyo-drive-shoot.json](./385801-captain-tsubasa-moeyo-drive-shoot.json) |
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
+| Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
@@ -4308,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter! | 343890 | [343890-choplifter.json](./343890-choplifter.json) |
 | Choplifter! | 343891 | [343891-choplifter.json](./343891-choplifter.json) |
 | Choplifter! | 343897 | [343897-choplifter.json](./343897-choplifter.json) |
+| Choplifter! | 6094 | [6094-choplifter.json](./6094-choplifter.json) |
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
@@ -7723,6 +7727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
 | Contador de Histórias | 290093 | [290093-contador-de-historias.json](./290093-contador-de-historias.json) |
+| Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
 | Container City | 209952 | [209952-container-city.json](./209952-container-city.json) |
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
