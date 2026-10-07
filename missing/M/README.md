@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Manhunt 2 | 1972 | [1972-manhunt-2.json](./1972-manhunt-2.json) |
 | Manhunter | 17415 | [17415-manhunter.json](./17415-manhunter.json) |
+| Manhunter: New York | 7696 | [7696-manhunter-new-york.json](./7696-manhunter-new-york.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
 | Mania | 91736 | [91736-mania.json](./91736-mania.json) |
@@ -7804,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Stars | 266993 | [266993-missing-stars.json](./266993-missing-stars.json) |
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
+| Missing Translation | 19173 | [19173-missing-translation.json](./19173-missing-translation.json) |
 | Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
@@ -10039,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
 | Moto Racer | 10560 | [10560-moto-racer.json](./10560-moto-racer.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
+| Moto Racer 4 | 19345 | [19345-moto-racer-4.json](./19345-moto-racer-4.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
 | Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
@@ -10998,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
+| Murky Divers | 303304 | [303304-murky-divers.json](./303304-murky-divers.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
 | Murmeln und mehr ... | 86061 | [86061-murmeln-und-mehr.json](./86061-murmeln-und-mehr.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
@@ -11704,6 +11708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
+| My Little Pony: A Maretime Bay Adventure | 191956 | [191956-my-little-pony-a-maretime-bay-adventure.json](./191956-my-little-pony-a-maretime-bay-adventure.json) |
 | My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
 | My Little Pony: Adventures in Ponyville | 341163 | [341163-my-little-pony-adventures-in-ponyville.json](./341163-my-little-pony-adventures-in-ponyville.json) |
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
