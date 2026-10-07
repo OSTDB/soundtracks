@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
 | Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
+| Pahelica Revelations | 22116 | [22116-pahelica-revelations.json](./22116-pahelica-revelations.json) |
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
 | Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
+| Phantasmat | 22114 | [22114-phantasmat.json](./22114-phantasmat.json) |
 | Phantasmat: Crucible Peak | 140316 | [140316-phantasmat-crucible-peak.json](./140316-phantasmat-crucible-peak.json) |
 | Phantasmat: Crucible Peak - Collector's Edition | 31066 | [31066-phantasmat-crucible-peak-collectors-edition.json](./31066-phantasmat-crucible-peak-collectors-edition.json) |
 | Phantasmat: Death in Hardcover | 187924 | [187924-phantasmat-death-in-hardcover.json](./187924-phantasmat-death-in-hardcover.json) |
@@ -6910,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
+| Pool Tour Master | 22379 | [22379-pool-tour-master.json](./22379-pool-tour-master.json) |
 | Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool:Shark | 14532 | [14532-pool-shark.json](./14532-pool-shark.json) |
@@ -8499,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2014: Platinum Edition | 53478 | [53478-professional-farmer-2014-platinum-edition.json](./53478-professional-farmer-2014-platinum-edition.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
+| Professional Farmer 2017: Gold Edition | 22160 | [22160-professional-farmer-2017-gold-edition.json](./22160-professional-farmer-2017-gold-edition.json) |
 | Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
 | Professional Farmer: Nintendo Switch Edition | 111759 | [111759-professional-farmer-nintendo-switch-edition.json](./111759-professional-farmer-nintendo-switch-edition.json) |
 | Professional Fisherman's Tour: Big Bass Open | 76170 | [76170-professional-fishermans-tour-big-bass-open.json](./76170-professional-fishermans-tour-big-bass-open.json) |
@@ -10062,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Compound | 152189 | [152189-puzzle-compound.json](./152189-puzzle-compound.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
+| Puzzle Craft 2 | 22115 | [22115-puzzle-craft-2.json](./22115-puzzle-craft-2.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
