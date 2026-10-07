@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap up no Justu: Double | 278410 | [278410-leap-up-no-justu-double.json](./278410-leap-up-no-justu-double.json) |
+| Leap Year | 302965 | [302965-leap-year.json](./302965-leap-year.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
 | Leapbound | 413883 | [413883-leapbound.json](./413883-leapbound.json) |
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
@@ -1349,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
+| Left 4 Dead 2: The Sacrifice | 20416 | [20416-left-4-dead-2-the-sacrifice.json](./20416-left-4-dead-2-the-sacrifice.json) |
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
 | Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Masterpiece Collection | 142953 | [142953-lego-masterpiece-collection.json](./142953-lego-masterpiece-collection.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
+| LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
@@ -4152,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Misty Peak | 202730 | [202730-lonely-mountains-downhill-misty-peak.json](./202730-lonely-mountains-downhill-misty-peak.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
+| Lonely Mountains: Snow Riders | 313812 | [313812-lonely-mountains-snow-riders.json](./313812-lonely-mountains-snow-riders.json) |
 | Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
 | Lonely Owl | 335460 | [335460-lonely-owl.json](./335460-lonely-owl.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
@@ -4552,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
 | Lost Bubbles: Sweet Mates | 185666 | [185666-lost-bubbles-sweet-mates.json](./185666-lost-bubbles-sweet-mates.json) |
+| Lost But Found | 319745 | [319745-lost-but-found.json](./319745-lost-but-found.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
@@ -4792,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
 | Lost Scavenger | 153937 | [153937-lost-scavenger.json](./153937-lost-scavenger.json) |
+| Lost Sea | 19708 | [19708-lost-sea.json](./19708-lost-sea.json) |
 | Lost Secrets Ancient Mysteries | 25061 | [25061-lost-secrets-ancient-mysteries.json](./25061-lost-secrets-ancient-mysteries.json) |
 | Lost Secrets: Bermuda Triangle - Unsolved Mysteries | 209395 | [209395-lost-secrets-bermuda-triangle-unsolved-mysteries.json](./209395-lost-secrets-bermuda-triangle-unsolved-mysteries.json) |
 | Lost Secrets: Caribbean Explorer - Secrets of the Sea | 209396 | [209396-lost-secrets-caribbean-explorer-secrets-of-the-sea.json](./209396-lost-secrets-caribbean-explorer-secrets-of-the-sea.json) |
