@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
+| Paint the Town Red | 13192 | [13192-paint-the-town-red.json](./13192-paint-the-town-red.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint Warfare | 131324 | [131324-paint-warfare.json](./131324-paint-warfare.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
