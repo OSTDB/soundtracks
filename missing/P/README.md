@@ -5845,6 +5845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
+| Point Connect 2 | 55658 | [55658-point-connect-2.json](./55658-point-connect-2.json) |
+| Point Connect 3 | 55657 | [55657-point-connect-3.json](./55657-point-connect-3.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
@@ -6394,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Tower Defense | 197710 | [197710-poker-tower-defense.json](./197710-poker-tower-defense.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
+| Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
 | Poker: Texas & Omaha Hold'em - Premium Edition | 411836 | [411836-poker-texas-and-omaha-holdem-premium-edition.json](./411836-poker-texas-and-omaha-holdem-premium-edition.json) |
@@ -9040,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
+| Protagon | 55654 | [55654-protagon.json](./55654-protagon.json) |
 | Protagonism | 129079 | [129079-protagonism.json](./129079-protagonism.json) |
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
