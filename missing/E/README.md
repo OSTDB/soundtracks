@@ -2649,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Eric's Klondike Solitaire Pack | 95675 | [95675-erics-klondike-solitaire-pack.json](./95675-erics-klondike-solitaire-pack.json) |
 | Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
+| Erica | 75240 | [75240-erica.json](./75240-erica.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Erie | 63380 | [63380-erie.json](./63380-erie.json) |
