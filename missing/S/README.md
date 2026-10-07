@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow of Witch Marionette | 210516 | [210516-shadow-of-witch-marionette.json](./210516-shadow-of-witch-marionette.json) |
+| Shadow Ops: Red Mercury | 6043 | [6043-shadow-ops-red-mercury.json](./6043-shadow-ops-red-mercury.json) |
 | Shadow Over Isolation | 32944 | [32944-shadow-over-isolation.json](./32944-shadow-over-isolation.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
@@ -6210,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sime Is Back: 3D Old School | 340370 | [340370-sime-is-back-3d-old-school.json](./340370-sime-is-back-3d-old-school.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimEarth: The Living Planet | 44456 | [44456-simearth-the-living-planet.json](./44456-simearth-the-living-planet.json) |
+| SimEarth: The Living Planet | 5438 | [5438-simearth-the-living-planet.json](./5438-simearth-the-living-planet.json) |
 | SimFarm | 8804 | [8804-simfarm.json](./8804-simfarm.json) |
 | Simgirls | 289399 | [289399-simgirls.json](./289399-simgirls.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
@@ -10070,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Paradigm | 370259 | [370259-sonic-paradigm.json](./370259-sonic-paradigm.json) |
 | Sonic PC | 300013 | [300013-sonic-pc.json](./300013-sonic-pc.json) |
 | Sonic Phoenix | 326132 | [326132-sonic-phoenix.json](./326132-sonic-phoenix.json) |
+| Sonic Pinball Party | 6601 | [6601-sonic-pinball-party.json](./6601-sonic-pinball-party.json) |
 | Sonic Point of Action | 326136 | [326136-sonic-point-of-action.json](./326136-sonic-point-of-action.json) |
 | Sonic Pong 2 | 330696 | [330696-sonic-pong-2.json](./330696-sonic-pong-2.json) |
 | Sonic Power of Nitro | 330305 | [330305-sonic-power-of-nitro.json](./330305-sonic-power-of-nitro.json) |
@@ -12710,6 +12713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splash: Ocean Sanctuary | 122902 | [122902-splash-ocean-sanctuary.json](./122902-splash-ocean-sanctuary.json) |
+| Splashdown | 6149 | [6149-splashdown.json](./6149-splashdown.json) |
 | Splashdown: Rides Gone Wild | 6150 | [6150-splashdown-rides-gone-wild.json](./6150-splashdown-rides-gone-wild.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Dots | 54679 | [54679-splashy-dots.json](./54679-splashy-dots.json) |
@@ -14149,6 +14153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Clone Wars | 320344 | [320344-star-wars-the-clone-wars.json](./320344-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
+| Star Wars: The Clone Wars - Lightsaber Duels | 5194 | [5194-star-wars-the-clone-wars-lightsaber-duels.json](./5194-star-wars-the-clone-wars-lightsaber-duels.json) |
 | Star Wars: The Clone Wars - Path of the Jedi | 343373 | [343373-star-wars-the-clone-wars-path-of-the-jedi.json](./343373-star-wars-the-clone-wars-path-of-the-jedi.json) |
 | Star Wars: The Clone Wars - Republic Heroes | 193296 | [193296-star-wars-the-clone-wars-republic-heroes.json](./193296-star-wars-the-clone-wars-republic-heroes.json) |
 | Star Wars: The Clone Wars - Republic Heroes | 210 | [210-star-wars-the-clone-wars-republic-heroes.json](./210-star-wars-the-clone-wars-republic-heroes.json) |
@@ -15537,6 +15542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
+| Stolen | 6177 | [6177-stolen.json](./6177-stolen.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
@@ -16089,6 +16095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
+| Street Fighter Anniversary Collection | 6178 | [6178-street-fighter-anniversary-collection.json](./6178-street-fighter-anniversary-collection.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
 | Street Fighter Collection | 45193 | [45193-street-fighter-collection.json](./45193-street-fighter-collection.json) |
 | Street Fighter Collection 2 | 44911 | [44911-street-fighter-collection-2.json](./44911-street-fighter-collection-2.json) |
@@ -16554,6 +16561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Lab: Fashion Design | 208358 | [208358-style-lab-fashion-design.json](./208358-style-lab-fashion-design.json) |
 | Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
 | Style Savvy: Fashion Forward | 22796 | [22796-style-savvy-fashion-forward.json](./22796-style-savvy-fashion-forward.json) |
+| Style Savvy: Trendsetters | 6892 | [6892-style-savvy-trendsetters.json](./6892-style-savvy-trendsetters.json) |
 | Stylish Girls | 271901 | [271901-stylish-girls.json](./271901-stylish-girls.json) |
 | Stylish Guards | 216865 | [216865-stylish-guards.json](./216865-stylish-guards.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
@@ -18824,6 +18832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
+| Super Robot Taisen: Original Generation 2 | 6627 | [6627-super-robot-taisen-original-generation-2.json](./6627-super-robot-taisen-original-generation-2.json) |
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
@@ -19058,6 +19067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spy | 59500 | [59500-super-spy.json](./59500-super-spy.json) |
 | Super Spy Academy | 298269 | [298269-super-spy-academy.json](./298269-super-spy-academy.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
+| Super Spy Hunter | 6154 | [6154-super-spy-hunter.json](./6154-super-spy-hunter.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
 | Super Spyroxo Adventures: Island of Dnfoo | 211685 | [211685-super-spyroxo-adventures-island-of-dnfoo.json](./211685-super-spyroxo-adventures-island-of-dnfoo.json) |
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
