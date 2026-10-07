@@ -8537,6 +8537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Price Is Right | 198872 | [198872-the-price-is-right.json](./198872-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
+| The Price Is Right | 47943 | [47943-the-price-is-right.json](./47943-the-price-is-right.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
 | The Primordial World | 147121 | [147121-the-primordial-world.json](./147121-the-primordial-world.json) |
@@ -10805,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
+| The Wild West | 47889 | [47889-the-wild-west.json](./47889-the-wild-west.json) |
 | The Will 2 - The Castle 1999 | 124682 | [124682-the-will-2-the-castle-1999.json](./124682-the-will-2-the-castle-1999.json) |
 | The Will of a Single Tale | 100117 | [100117-the-will-of-a-single-tale.json](./100117-the-will-of-a-single-tale.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
