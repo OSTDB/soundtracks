@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victorious: Taking the Lead | 25165 | [25165-victorious-taking-the-lead.json](./25165-victorious-taking-the-lead.json) |
 | Victorious: Time to Shine | 9751 | [9751-victorious-time-to-shine.json](./9751-victorious-time-to-shine.json) |
+| Victory | 23570 | [23570-victory.json](./23570-victory.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory and Glory: Napoleon | 33552 | [33552-victory-and-glory-napoleon.json](./33552-victory-and-glory-napoleon.json) |
 | Victory At Sea Ironclad | 171417 | [171417-victory-at-sea-ironclad.json](./171417-victory-at-sea-ironclad.json) |
