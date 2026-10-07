@@ -4640,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 6914 | [6914-bionic-commando.json](./6914-bionic-commando.json) |
+| Bionic Commando | 7786 | [7786-bionic-commando.json](./7786-bionic-commando.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Commando Rearmed 2 | 15858 | [15858-bionic-commando-rearmed-2.json](./15858-bionic-commando-rearmed-2.json) |
 | Bionic Commando: Elite Forces | 44077 | [44077-bionic-commando-elite-forces.json](./44077-bionic-commando-elite-forces.json) |
@@ -7309,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Adventure | 280819 | [280819-bonks-adventure.json](./280819-bonks-adventure.json) |
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
+| Bonk's Revenge | 7795 | [7795-bonks-revenge.json](./7795-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
