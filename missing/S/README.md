@@ -3810,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
 | Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
 | Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
+| Shadow Gambit: The Cursed Crew | 233307 | [233307-shadow-gambit-the-cursed-crew.json](./233307-shadow-gambit-the-cursed-crew.json) |
 | Shadow Gambit: The Cursed Crew – Complete Edition | 279876 | [279876-shadow-gambit-the-cursed-crew-complete-edition.json](./279876-shadow-gambit-the-cursed-crew-complete-edition.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
@@ -7383,6 +7384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
+| Slapshot: Rebound | 132909 | [132909-slapshot-rebound.json](./132909-slapshot-rebound.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
@@ -10130,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Suggests | 136822 | [136822-sonic-suggests.json](./136822-sonic-suggests.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
 | Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
+| Sonic Superstars | 252478 | [252478-sonic-superstars.json](./252478-sonic-superstars.json) |
 | Sonic Superstars: Digital Deluxe Edition featuring LEGO | 263550 | [263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json](./263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json) |
 | Sonic Superstars: Lego Dr. Eggman | 279744 | [279744-sonic-superstars-lego-dr-eggman.json](./279744-sonic-superstars-lego-dr-eggman.json) |
 | Sonic Superstars: Lego Fun Pack | 279743 | [279743-sonic-superstars-lego-fun-pack.json](./279743-sonic-superstars-lego-fun-pack.json) |
@@ -14899,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamshovel Harry | 282809 | [282809-steamshovel-harry.json](./282809-steamshovel-harry.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
+| SteamWorld Build | 232908 | [232908-steamworld-build.json](./232908-steamworld-build.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
@@ -16207,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
 | Strider | 5333 | [5333-strider.json](./5333-strider.json) |
+| Strider 2 | 5923 | [5923-strider-2.json](./5923-strider-2.json) |
 | Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
