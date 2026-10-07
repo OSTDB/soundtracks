@@ -5641,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
+| Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
