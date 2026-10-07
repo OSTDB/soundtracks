@@ -10603,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Urinal Game | 60050 | [60050-the-urinal-game.json](./60050-the-urinal-game.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
+| The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
 | The Valley | 292068 | [292068-the-valley.json](./292068-the-valley.json) |
