@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Beat Her. | 74772 | [74772-he-beat-her.json](./74772-he-beat-her.json) |
 | He Escaped | 270105 | [270105-he-escaped.json](./270105-he-escaped.json) |
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
+| He is Coming | 312870 | [312870-he-is-coming.json](./312870-he-is-coming.json) |
 | He Plays the Piano | 135034 | [135034-he-plays-the-piano.json](./135034-he-plays-the-piano.json) |
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
@@ -1930,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: The Lost City of Un'Goro | 322149 | [322149-hearthstone-the-lost-city-of-ungoro.json](./322149-hearthstone-the-lost-city-of-ungoro.json) |
 | Hearthstone: Titans | 256780 | [256780-hearthstone-titans.json](./256780-hearthstone-titans.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
+| Hearthstone: Whispers of Old Gods | 19162 | [19162-hearthstone-whispers-of-old-gods.json](./19162-hearthstone-whispers-of-old-gods.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
@@ -2450,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellevator | 417429 | [417429-hellevator.json](./417429-hellevator.json) |
 | Hellevators | 286035 | [286035-hellevators.json](./286035-hellevators.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
+| Hellfire | 19503 | [19503-hellfire.json](./19503-hellfire.json) |
 | Hellfire | 274129 | [274129-hellfire.json](./274129-hellfire.json) |
 | Hellfire | 319022 | [319022-hellfire.json](./319022-hellfire.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
@@ -3173,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | here AND there | 118252 | [118252-here-and-there.json](./118252-here-and-there.json) |
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
+| Here Comes Niko! | 142405 | [142405-here-comes-niko.json](./142405-here-comes-niko.json) |
 | Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
@@ -7005,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
 | Hybrid | 178464 | [178464-hybrid.json](./178464-hybrid.json) |
+| Hybrid | 21069 | [21069-hybrid.json](./21069-hybrid.json) |
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
 | Hybrid | 85739 | [85739-hybrid.json](./85739-hybrid.json) |
 | Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
