@@ -6416,6 +6416,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Brawl 2 | 233505 | [233505-college-brawl-2.json](./233505-college-brawl-2.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | College Football Revamped | 150058 | [150058-college-football-revamped.json](./150058-college-football-revamped.json) |
+| College Football USA 96 | 46536 | [46536-college-football-usa-96.json](./46536-college-football-usa-96.json) |
+| College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
+| College Football's National Championship II | 46535 | [46535-college-footballs-national-championship-ii.json](./46535-college-footballs-national-championship-ii.json) |
 | College Gay Sex: Episode 5 | 338876 | [338876-college-gay-sex-episode-5.json](./338876-college-gay-sex-episode-5.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
 | College Kings 2: Episode 1 | 196041 | [196041-college-kings-2-episode-1.json](./196041-college-kings-2-episode-1.json) |
@@ -6917,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Master | 364711 | [364711-combo-master.json](./364711-combo-master.json) |
 | Combo Pool | 177876 | [177876-combo-pool.json](./177876-combo-pool.json) |
 | Combo Postage | 112496 | [112496-combo-postage.json](./112496-combo-postage.json) |
+| Combo Queen | 46500 | [46500-combo-queen.json](./46500-combo-queen.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
