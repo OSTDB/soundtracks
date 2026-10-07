@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Uno | 233989 | [233989-electronic-uno.json](./233989-electronic-uno.json) |
 | Electronic Volleyball | 41573 | [41573-electronic-volleyball.json](./41573-electronic-volleyball.json) |
 | Electronic World Z | 150698 | [150698-electronic-world-z.json](./150698-electronic-world-z.json) |
+| Electronics Circuits Simulator | 41919 | [41919-electronics-circuits-simulator.json](./41919-electronics-circuits-simulator.json) |
 | Electronics Puzzle Lab | 264799 | [264799-electronics-puzzle-lab.json](./264799-electronics-puzzle-lab.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
 | Electroplankton | 18340 | [18340-electroplankton.json](./18340-electroplankton.json) |
@@ -2340,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entschuldigung | 30087 | [30087-entschuldigung.json](./30087-entschuldigung.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
+| Entwined: Strings of Deception | 41915 | [41915-entwined-strings-of-deception.json](./41915-entwined-strings-of-deception.json) |
 | Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
 | EnviroGolf | 126377 | [126377-envirogolf.json](./126377-envirogolf.json) |
@@ -3064,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to the Caf | 222810 | [222810-escape-to-the-caf.json](./222810-escape-to-the-caf.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Together | 151068 | [151068-escape-together.json](./151068-escape-together.json) |
+| Escape Together | 41898 | [41898-escape-together.json](./41898-escape-together.json) |
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
