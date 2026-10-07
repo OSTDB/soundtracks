@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racers' Islands: Crazy Arenas | 69336 | [69336-racers-islands-crazy-arenas.json](./69336-racers-islands-crazy-arenas.json) |
 | Racers' Islands: Crazy Racers | 69337 | [69337-racers-islands-crazy-racers.json](./69337-racers-islands-crazy-racers.json) |
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
+| RacetronicVR | 30746 | [30746-racetronicvr.json](./30746-racetronicvr.json) |
 | Raceway | 245416 | [245416-raceway.json](./245416-raceway.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
 | RaceWorms | 373179 | [373179-raceworms.json](./373179-raceworms.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Christmas Lights 2 | 415881 | [415881-rainbow-mosaics-christmas-lights-2.json](./415881-rainbow-mosaics-christmas-lights-2.json) |
 | Rainbow Mosaics: The Forest's Guardian | 295467 | [295467-rainbow-mosaics-the-forests-guardian.json](./295467-rainbow-mosaics-the-forests-guardian.json) |
 | Rainbow Mosaics: Treasure Trip 2 | 337622 | [337622-rainbow-mosaics-treasure-trip-2.json](./337622-rainbow-mosaics-treasure-trip-2.json) |
+| Rainbow Rage Squad | 30690 | [30690-rainbow-rage-squad.json](./30690-rainbow-rage-squad.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
@@ -5058,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robospierre | 220704 | [220704-robospierre.json](./220704-robospierre.json) |
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
+| RoboSports VR | 30694 | [30694-robosports-vr.json](./30694-robosports-vr.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
 | RoboSquare: Recharged | 416817 | [416817-robosquare-recharged.json](./416817-robosquare-recharged.json) |
@@ -7100,11 +7103,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running Water a.k.a Jugsy | 178424 | [178424-running-water-a-k-a-jugsy.json](./178424-running-water-a-k-a-jugsy.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
+| RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
+| RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RunZ | 55296 | [55296-runz.json](./55296-runz.json) |
