@@ -9114,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
 | BS Fire Emblem: Archanea Saga | 178586 | [178586-bs-fire-emblem-archanea-saga.json](./178586-bs-fire-emblem-archanea-saga.json) |
+| BS Fire Emblem: Archanea Senki-hen | 1446 | [1446-bs-fire-emblem-archanea-senki-hen.json](./1446-bs-fire-emblem-archanea-senki-hen.json) |
 | BS Fire Emblem: Archanea Senki-hen - Dai-1-wa: Palace Kanraku | 178392 | [178392-bs-fire-emblem-archanea-senki-hen-dai-1-wa-palace-kanraku.json](./178392-bs-fire-emblem-archanea-senki-hen-dai-1-wa-palace-kanraku.json) |
 | BS Fire Emblem: Archanea Senki-hen - Dai-2-wa: Akai Ryuu Kishi | 178393 | [178393-bs-fire-emblem-archanea-senki-hen-dai-2-wa-akai-ryuu-kishi.json](./178393-bs-fire-emblem-archanea-senki-hen-dai-2-wa-akai-ryuu-kishi.json) |
 | BS Fire Emblem: Archanea Senki-hen - Dai-3-wa: Seigi no Touzokudan | 178394 | [178394-bs-fire-emblem-archanea-senki-hen-dai-3-wa-seigi-no-touzokudan.json](./178394-bs-fire-emblem-archanea-senki-hen-dai-3-wa-seigi-no-touzokudan.json) |
