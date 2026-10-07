@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telltale's Stranger Things Game | 103355 | [103355-telltales-stranger-things-game.json](./103355-telltales-stranger-things-game.json) |
 | Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
+| Telly Addicts | 43213 | [43213-telly-addicts.json](./43213-telly-addicts.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
@@ -15703,6 +15704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Seeker | 82356 | [82356-toy-seeker.json](./82356-toy-seeker.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
+| Toy Shop Boys | 43195 | [43195-toy-shop-boys.json](./43195-toy-shop-boys.json) |
 | Toy Smash Kaboom! | 347357 | [347357-toy-smash-kaboom.json](./347357-toy-smash-kaboom.json) |
 | Toy soldier: Bastion | 102241 | [102241-toy-soldier-bastion.json](./102241-toy-soldier-bastion.json) |
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
@@ -17762,6 +17764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
+| Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Knight | 219527 | [219527-trophy-knight.json](./219527-trophy-knight.json) |
 | Trophy Truck Racing Tour | 369650 | [369650-trophy-truck-racing-tour.json](./369650-trophy-truck-racing-tour.json) |
