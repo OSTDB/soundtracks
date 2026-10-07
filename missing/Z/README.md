@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
 | Zoonomaly | 223526 | [223526-zoonomaly.json](./223526-zoonomaly.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
+| Zooo: Action Puzzle Game | 49259 | [49259-zooo-action-puzzle-game.json](./49259-zooo-action-puzzle-game.json) |
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
