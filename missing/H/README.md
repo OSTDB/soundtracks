@@ -5829,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
+| Horses | 265637 | [265637-horses.json](./265637-horses.json) |
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
