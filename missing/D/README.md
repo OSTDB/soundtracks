@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
 | Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
+| Dance Dance Revolution Supernova | 6779 | [6779-dance-dance-revolution-supernova.json](./6779-dance-dance-revolution-supernova.json) |
 | Dance Dance Revolution Supernova 2 | 6780 | [6780-dance-dance-revolution-supernova-2.json](./6780-dance-dance-revolution-supernova-2.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
@@ -7729,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Rosetta Stone | 281518 | [281518-double-dragon-3-the-rosetta-stone.json](./281518-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281519 | [281519-double-dragon-3-the-rosetta-stone.json](./281519-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281520 | [281520-double-dragon-3-the-rosetta-stone.json](./281520-double-dragon-3-the-rosetta-stone.json) |
+| Double Dragon Advance | 6384 | [6384-double-dragon-advance.json](./6384-double-dragon-advance.json) |
 | Double Dragon Dodgeball | 374779 | [374779-double-dragon-dodgeball.json](./374779-double-dragon-dodgeball.json) |
 | Double Dragon II SNES Port | 377224 | [377224-double-dragon-ii-snes-port.json](./377224-double-dragon-ii-snes-port.json) |
 | Double Dragon II: The Revenge | 281506 | [281506-double-dragon-ii-the-revenge.json](./281506-double-dragon-ii-the-revenge.json) |
@@ -10837,6 +10839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Gundam 2 | 6978 | [6978-dynasty-warriors-gundam-2.json](./6978-dynasty-warriors-gundam-2.json) |
 | Dynasty Warriors: Gundam 3 | 6982 | [6982-dynasty-warriors-gundam-3.json](./6982-dynasty-warriors-gundam-3.json) |
 | Dynasty Warriors: Origins - Visions of Four Heroes | 377234 | [377234-dynasty-warriors-origins-visions-of-four-heroes.json](./377234-dynasty-warriors-origins-visions-of-four-heroes.json) |
+| Dynasty Warriors: Strikeforce | 6983 | [6983-dynasty-warriors-strikeforce.json](./6983-dynasty-warriors-strikeforce.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
