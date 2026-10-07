@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tencho no Igo | 65565 | [65565-tencho-no-igo.json](./65565-tencho-no-igo.json) |
 | Tenchu 2: Birth of the Stealth Assassins | 4114 | [4114-tenchu-2-birth-of-the-stealth-assassins.json](./4114-tenchu-2-birth-of-the-stealth-assassins.json) |
+| Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tenchu: Wrath of Heaven | 6194 | [6194-tenchu-wrath-of-heaven.json](./6194-tenchu-wrath-of-heaven.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
+| The Bingo Room | 143646 | [143646-the-bingo-room.json](./143646-the-bingo-room.json) |
 | The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
 | The BioWare Bundle | 178402 | [178402-the-bioware-bundle.json](./178402-the-bioware-bundle.json) |
 | The Bird and the Bicycle | 298780 | [298780-the-bird-and-the-bicycle.json](./298780-the-bird-and-the-bicycle.json) |
@@ -3931,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
+| The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
 | The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
 | The Body Changer | 36203 | [36203-the-body-changer.json](./36203-the-body-changer.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
@@ -4246,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
+| The Chosen: Well of Souls | 21228 | [21228-the-chosen-well-of-souls.json](./21228-the-chosen-well-of-souls.json) |
 | The Christmas Pickle | 391279 | [391279-the-christmas-pickle.json](./391279-the-christmas-pickle.json) |
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
@@ -6921,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
+| The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
@@ -7017,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
+| The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
@@ -8696,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
 | The Powerpuff Girls: Battle HIM | 49832 | [49832-the-powerpuff-girls-battle-him.json](./49832-the-powerpuff-girls-battle-him.json) |
+| The Powerpuff Girls: Chemical X-Traction | 19421 | [19421-the-powerpuff-girls-chemical-x-traction.json](./19421-the-powerpuff-girls-chemical-x-traction.json) |
 | The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
 | The Powerpuff Girls: Fast and Flurrious | 144131 | [144131-the-powerpuff-girls-fast-and-flurrious.json](./144131-the-powerpuff-girls-fast-and-flurrious.json) |
 | The Powerpuff Girls: Flipped Out | 90373 | [90373-the-powerpuff-girls-flipped-out.json](./90373-the-powerpuff-girls-flipped-out.json) |
@@ -9143,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
+| The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
 | The Rugrats Movie | 2790 | [2790-the-rugrats-movie.json](./2790-the-rugrats-movie.json) |
 | The Ruins of Cawdor | 54682 | [54682-the-ruins-of-cawdor.json](./54682-the-ruins-of-cawdor.json) |
@@ -11801,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
+| Three Fourths Home: Extended Edition | 20957 | [20957-three-fourths-home-extended-edition.json](./20957-three-fourths-home-extended-edition.json) |
 | Three Games | 178427 | [178427-three-games.json](./178427-three-games.json) |
 | Three Ghostly Roses | 124588 | [124588-three-ghostly-roses.json](./124588-three-ghostly-roses.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
