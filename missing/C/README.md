@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Deer Hunt: 2005 Season | 5765 | [5765-cabelas-deer-hunt-2005-season.json](./5765-cabelas-deer-hunt-2005-season.json) |
 | Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
 | Cabela's Legendary Adventures | 51037 | [51037-cabelas-legendary-adventures.json](./51037-cabelas-legendary-adventures.json) |
+| Cabela's Monster Bass | 43219 | [43219-cabelas-monster-bass.json](./43219-cabelas-monster-bass.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
+| Cheggers' Party Quiz | 43216 | [43216-cheggers-party-quiz.json](./43216-cheggers-party-quiz.json) |
 | Cheitha | 89391 | [89391-cheitha.json](./89391-cheitha.json) |
 | Chelesste | 253995 | [253995-chelesste.json](./253995-chelesste.json) |
 | Chell's Way to Home | 219157 | [219157-chells-way-to-home.json](./219157-chells-way-to-home.json) |
@@ -9179,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Freekick | 233555 | [233555-crazy-freekick.json](./233555-crazy-freekick.json) |
+| Crazy Frog Arcade Racer | 43226 | [43226-crazy-frog-arcade-racer.json](./43226-crazy-frog-arcade-racer.json) |
 | Crazy Frog Collectables: Art School | 140549 | [140549-crazy-frog-collectables-art-school.json](./140549-crazy-frog-collectables-art-school.json) |
 | Crazy Frog Collectables: Faces | 198305 | [198305-crazy-frog-collectables-faces.json](./198305-crazy-frog-collectables-faces.json) |
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
