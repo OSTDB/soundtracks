@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
 | High Fidelity | 34749 | [34749-high-fidelity.json](./34749-high-fidelity.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
+| High Frontier | 15832 | [15832-high-frontier.json](./15832-high-frontier.json) |
 | High Frontier 4 All | 404412 | [404412-high-frontier-4-all.json](./404412-high-frontier-4-all.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Heat Baseball 1999 | 68250 | [68250-high-heat-baseball-1999.json](./68250-high-heat-baseball-1999.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Couture | 313849 | [313849-hot-couture.json](./313849-hot-couture.json) |
 | Hot Cross Buns | 329775 | [329775-hot-cross-buns.json](./329775-hot-cross-buns.json) |
 | Hot Date | 18136 | [18136-hot-date.json](./18136-hot-date.json) |
+| Hot Dish | 15789 | [15789-hot-dish.json](./15789-hot-dish.json) |
 | Hot Dish 2 | 53202 | [53202-hot-dish-2.json](./53202-hot-dish-2.json) |
 | Hot Dish 2: Cross Country Cook-Off | 54083 | [54083-hot-dish-2-cross-country-cook-off.json](./54083-hot-dish-2-cross-country-cook-off.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
