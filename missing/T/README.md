@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
+| Tales Runner | 17932 | [17932-tales-runner.json](./17932-tales-runner.json) |
 | Tales to Enjoy! Little Red Riding Hood | 85428 | [85428-tales-to-enjoy-little-red-riding-hood.json](./85428-tales-to-enjoy-little-red-riding-hood.json) |
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
@@ -4390,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
+| The Count | 18518 | [18518-the-count.json](./18518-the-count.json) |
 | The Count of Monster Disco | 36428 | [36428-the-count-of-monster-disco.json](./36428-the-count-of-monster-disco.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
@@ -7092,6 +7094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Beowulf | 267391 | [267391-the-legend-of-beowulf.json](./267391-the-legend-of-beowulf.json) |
 | The Legend of Blacksilver | 61587 | [61587-the-legend-of-blacksilver.json](./61587-the-legend-of-blacksilver.json) |
 | The Legend of California | 394520 | [394520-the-legend-of-california.json](./394520-the-legend-of-california.json) |
+| The Legend of Candlewind: Nights & Candles | 17910 | [17910-the-legend-of-candlewind-nights-and-candles.json](./17910-the-legend-of-candlewind-nights-and-candles.json) |
 | The Legend of Capa Negra | 215738 | [215738-the-legend-of-capa-negra.json](./215738-the-legend-of-capa-negra.json) |
 | The Legend of Cesar | 160236 | [160236-the-legend-of-cesar.json](./160236-the-legend-of-cesar.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
@@ -9686,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
+| The Sorcerer of Claymorgue Castle | 18526 | [18526-the-sorcerer-of-claymorgue-castle.json](./18526-the-sorcerer-of-claymorgue-castle.json) |
 | The Sorcerer's Sword | 244212 | [244212-the-sorcerers-sword.json](./244212-the-sorcerers-sword.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
