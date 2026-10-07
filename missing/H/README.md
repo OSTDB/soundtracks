@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
+| H1Z1 | 6188 | [6188-h1z1.json](./6188-h1z1.json) |
 | H2O | 99114 | [99114-h2o.json](./99114-h2o.json) |
 | H2O: A Diabolic Game | 14473 | [14473-h2o-a-diabolic-game.json](./14473-h2o-a-diabolic-game.json) |
 | H2O: Footprints in the Sand | 72719 | [72719-h2o-footprints-in-the-sand.json](./72719-h2o-footprints-in-the-sand.json) |
@@ -3671,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Viridis Pack | 323236 | [323236-hexceed-viridis-pack.json](./323236-hexceed-viridis-pack.json) |
 | Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
 | Hexceed: Year 5 Season Pass! | 397888 | [397888-hexceed-year-5-season-pass.json](./397888-hexceed-year-5-season-pass.json) |
+| Hexcells | 9603 | [9603-hexcells.json](./9603-hexcells.json) |
 | Hexcells Infinite | 11061 | [11061-hexcells-infinite.json](./11061-hexcells-infinite.json) |
 | Hexcells Plus | 11060 | [11060-hexcells-plus.json](./11060-hexcells-plus.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
@@ -5272,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld | 749 | [749-homeworld.json](./749-homeworld.json) |
+| Homeworld 2 | 750 | [750-homeworld-2.json](./750-homeworld-2.json) |
 | Homeworld 3: Deluxe Edition | 279045 | [279045-homeworld-3-deluxe-edition.json](./279045-homeworld-3-deluxe-edition.json) |
 | Homeworld 3: Fleet Command Edition | 279046 | [279046-homeworld-3-fleet-command-edition.json](./279046-homeworld-3-fleet-command-edition.json) |
 | Homeworld Mobile | 122124 | [122124-homeworld-mobile.json](./122124-homeworld-mobile.json) |
