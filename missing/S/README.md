@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save Koch | 114808 | [114808-save-koch.json](./114808-save-koch.json) |
+| Save Mary | 40698 | [40698-save-mary.json](./40698-save-mary.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
+| Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
 | Save Our Solar System | 243055 | [243055-save-our-solar-system.json](./243055-save-our-solar-system.json) |
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
@@ -5535,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
+| Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
 | Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
@@ -8226,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
 | Snail | 331342 | [331342-snail.json](./331342-snail.json) |
+| Snail Against Squirrel | 40696 | [40696-snail-against-squirrel.json](./40696-snail-against-squirrel.json) |
 | Snail Bob | 88162 | [88162-snail-bob.json](./88162-snail-bob.json) |
 | Snail Bob 2 | 213637 | [213637-snail-bob-2.json](./213637-snail-bob-2.json) |
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
@@ -10256,6 +10260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
 | Sorcerer Smackdown | 310099 | [310099-sorcerer-smackdown.json](./310099-sorcerer-smackdown.json) |
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
+| Sorcerer's Apprentice | 40695 | [40695-sorcerers-apprentice.json](./40695-sorcerers-apprentice.json) |
 | Sorcerer's Bane | 356842 | [356842-sorcerers-bane.json](./356842-sorcerers-bane.json) |
 | Sorcerer's Cave | 139761 | [139761-sorcerers-cave.json](./139761-sorcerers-cave.json) |
 | Sorcerer's Choice: Angel or Demon? | 237537 | [237537-sorcerers-choice-angel-or-demon.json](./237537-sorcerers-choice-angel-or-demon.json) |
@@ -14805,6 +14810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep: Gold Edition | 53668 | [53668-steep-gold-edition.json](./53668-steep-gold-edition.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
+| Steeple Chase | 40693 | [40693-steeple-chase.json](./40693-steeple-chase.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steer Madness | 66745 | [66745-steer-madness.json](./66745-steer-madness.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
@@ -14829,6 +14835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stela Boss | 334324 | [334324-stela-boss.json](./334324-stela-boss.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
+| Stell-A-Sketch | 40692 | [40692-stell-a-sketch.json](./40692-stell-a-sketch.json) |
 | Stell-A-Sketch/Okie Dokie | 93217 | [93217-stell-a-sketch-okie-dokie.json](./93217-stell-a-sketch-okie-dokie.json) |
 | Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
 | Stella Astrum | 418729 | [418729-stella-astrum.json](./418729-stella-astrum.json) |
@@ -17196,6 +17203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
+| Super Baseball | 40676 | [40676-super-baseball.json](./40676-super-baseball.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
 | Super Baseball 2020 | 186665 | [186665-super-baseball-2020.json](./186665-super-baseball-2020.json) |
 | Super Baseball 2020 | 46193 | [46193-super-baseball-2020.json](./46193-super-baseball-2020.json) |
@@ -19192,6 +19200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
 | Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
 | Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
+| Surfer's Paradise | 40691 | [40691-surfers-paradise.json](./40691-surfers-paradise.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surfers Code | 295511 | [295511-surfers-code.json](./295511-surfers-code.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
@@ -19289,6 +19298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival in Draconia | 309468 | [309468-survival-in-draconia.json](./309468-survival-in-draconia.json) |
 | Survival in Three Kingdoms | 115803 | [115803-survival-in-three-kingdoms.json](./115803-survival-in-three-kingdoms.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
+| Survival Island | 40690 | [40690-survival-island.json](./40690-survival-island.json) |
 | Survival Island: Evolve | 231882 | [231882-survival-island-evolve.json](./231882-survival-island-evolve.json) |
 | Survival Journals | 114889 | [114889-survival-journals.json](./114889-survival-journals.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
