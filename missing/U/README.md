@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
 | Ultima Forever: Quest for the Avatar | 64923 | [64923-ultima-forever-quest-for-the-avatar.json](./64923-ultima-forever-quest-for-the-avatar.json) |
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
+| Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
 | Ultima Online: 9th Anniversary Edition | 206624 | [206624-ultima-online-9th-anniversary-edition.json](./206624-ultima-online-9th-anniversary-edition.json) |
 | Ultima Online: Age of Shadows | 69219 | [69219-ultima-online-age-of-shadows.json](./69219-ultima-online-age-of-shadows.json) |
