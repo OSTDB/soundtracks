@@ -3368,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeTD | 385306 | [385306-beetd.json](./385306-beetd.json) |
 | BeeTheBest | 226252 | [226252-beethebest.json](./226252-beethebest.json) |
 | Beethoven | 228477 | [228477-beethoven.json](./228477-beethoven.json) |
+| Beethoven: The Ultimate Canine Caper! | 19684 | [19684-beethoven-the-ultimate-canine-caper.json](./19684-beethoven-the-ultimate-canine-caper.json) |
 | Beethoven: The Ultimate Canine Caper! | 259654 | [259654-beethoven-the-ultimate-canine-caper.json](./259654-beethoven-the-ultimate-canine-caper.json) |
 | Beethoven's 2nd: The Quest for Pups | 259653 | [259653-beethovens-2nd-the-quest-for-pups.json](./259653-beethovens-2nd-the-quest-for-pups.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
@@ -4268,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
+| Big Red Racing | 19233 | [19233-big-red-racing.json](./19233-big-red-racing.json) |
 | Big Rig | 74021 | [74021-big-rig.json](./74021-big-rig.json) |
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
@@ -5678,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Soul Carnival 2 | 25934 | [25934-bleach-soul-carnival-2.json](./25934-bleach-soul-carnival-2.json) |
 | Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
 | Bleach: Soul Resurrección | 7280 | [7280-bleach-soul-resurreccion.json](./7280-bleach-soul-resurreccion.json) |
+| Bleach: The 3rd Phantom | 19103 | [19103-bleach-the-3rd-phantom.json](./19103-bleach-the-3rd-phantom.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
@@ -6317,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
 | Blood West | 188555 | [188555-blood-west.json](./188555-blood-west.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
+| Blood Will Tell: Tezuka Osamu's Dororo | 18864 | [18864-blood-will-tell-tezuka-osamus-dororo.json](./18864-blood-will-tell-tezuka-osamus-dororo.json) |
 | Blood Within: Path of Vengeance | 337833 | [337833-blood-within-path-of-vengeance.json](./337833-blood-within-path-of-vengeance.json) |
 | Blood Within: Star's Shadow Armor | 323244 | [323244-blood-within-stars-shadow-armor.json](./323244-blood-within-stars-shadow-armor.json) |
 | Blood Within: Thunderstorm Armor | 323246 | [323246-blood-within-thunderstorm-armor.json](./323246-blood-within-thunderstorm-armor.json) |
@@ -9447,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
 | Buddy's Creative Quest! | 157983 | [157983-buddys-creative-quest.json](./157983-buddys-creative-quest.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
+| Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
 | Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
