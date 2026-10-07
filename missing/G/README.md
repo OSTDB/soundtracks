@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
+| Ghost Master | 726 | [726-ghost-master.json](./726-ghost-master.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Maze | 250889 | [250889-ghost-maze.json](./250889-ghost-maze.json) |
@@ -3331,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Betrayal | 21233 | [21233-god-of-war-betrayal.json](./21233-god-of-war-betrayal.json) |
 | God of War: Collector's Edition | 83824 | [83824-god-of-war-collectors-edition.json](./83824-god-of-war-collectors-edition.json) |
 | God of War: Digital Deluxe Edition | 83825 | [83825-god-of-war-digital-deluxe-edition.json](./83825-god-of-war-digital-deluxe-edition.json) |
+| God of War: Ghost of Sparta | 224438 | [224438-god-of-war-ghost-of-sparta.json](./224438-god-of-war-ghost-of-sparta.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
 | God of Yoga | 377785 | [377785-god-of-yoga.json](./377785-god-of-yoga.json) |
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tanks: WW2 Tank Games | 249327 | [249327-grand-tanks-ww2-tank-games.json](./249327-grand-tanks-ww2-tank-games.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto | 44870 | [44870-grand-theft-auto.json](./44870-grand-theft-auto.json) |
+| Grand Theft Auto 2 | 200403 | [200403-grand-theft-auto-2.json](./200403-grand-theft-auto-2.json) |
 | Grand Theft Auto 64 | 198246 | [198246-grand-theft-auto-64.json](./198246-grand-theft-auto-64.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto III: The Definitive Edition | 178123 | [178123-grand-theft-auto-iii-the-definitive-edition.json](./178123-grand-theft-auto-iii-the-definitive-edition.json) |
