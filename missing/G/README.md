@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabibbo Massacre | 319168 | [319168-gabibbo-massacre.json](./319168-gabibbo-massacre.json) |
 | Gabriel Knight 3: Blood of the Sacred, Blood of the Damned | 1252 | [1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json](./1252-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned.json) |
+| Gabriel Knight: Sins of the Fathers | 1250 | [1250-gabriel-knight-sins-of-the-fathers.json](./1250-gabriel-knight-sins-of-the-fathers.json) |
 | Gabriel's Auditory Playground | 197365 | [197365-gabriels-auditory-playground.json](./197365-gabriels-auditory-playground.json) |
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: London 1961 | 13233 | [13233-grand-theft-auto-london-1961.json](./13233-grand-theft-auto-london-1961.json) |
 | Grand Theft Auto: Misterix | 253324 | [253324-grand-theft-auto-misterix.json](./253324-grand-theft-auto-misterix.json) |
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
+| Grand Theft Auto: San Andreas - The Definitive Edition | 178126 | [178126-grand-theft-auto-san-andreas-the-definitive-edition.json](./178126-grand-theft-auto-san-andreas-the-definitive-edition.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
 | Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
@@ -4483,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandia | 361321 | [361321-grandia.json](./361321-grandia.json) |
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
 | Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
+| Grandia II | 9580 | [9580-grandia-ii.json](./9580-grandia-ii.json) |
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
