@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Idle | 248095 | [248095-valkyrie-idle.json](./248095-valkyrie-idle.json) |
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
+| Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
