@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
+| White Shadows | 138208 | [138208-white-shadows.json](./138208-white-shadows.json) |
 | White Shirts Red Blood | 148137 | [148137-white-shirts-red-blood.json](./148137-white-shirts-red-blood.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wigmund | 123970 | [123970-wigmund.json](./123970-wigmund.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
 | Wii Fit | 2186 | [2186-wii-fit.json](./2186-wii-fit.json) |
+| Wii Fit U | 5325 | [5325-wii-fit-u.json](./5325-wii-fit-u.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
 | Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
 | Wii Party: World Edition | 136208 | [136208-wii-party-world-edition.json](./136208-wii-party-world-edition.json) |
@@ -4702,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Glue | 63397 | [63397-world-of-glue.json](./63397-world-of-glue.json) |
 | World of Golf | 31814 | [31814-world-of-golf.json](./31814-world-of-golf.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
+| World of Guns: Gun Disassembly | 7555 | [7555-world-of-guns-gun-disassembly.json](./7555-world-of-guns-gun-disassembly.json) |
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
 | World of Jade Dynasty | 323920 | [323920-world-of-jade-dynasty.json](./323920-world-of-jade-dynasty.json) |
