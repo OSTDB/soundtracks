@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
 | The Cat is Dying | 383075 | [383075-the-cat-is-dying.json](./383075-the-cat-is-dying.json) |
+| The Cat Lady | 11270 | [11270-the-cat-lady.json](./11270-the-cat-lady.json) |
 | The Cat Machine | 34837 | [34837-the-cat-machine.json](./34837-the-cat-machine.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chronicles of Quiver Dick | 104863 | [104863-the-chronicles-of-quiver-dick.json](./104863-the-chronicles-of-quiver-dick.json) |
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
+| The Chronicles of Riddick: Escape from Butcher Bay | 250 | [250-the-chronicles-of-riddick-escape-from-butcher-bay.json](./250-the-chronicles-of-riddick-escape-from-butcher-bay.json) |
 | The Chronicles of Riddick: Escape from Butcher Bay - The Developer's Cut | 24169 | [24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json](./24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json) |
 | The Chronicles of Rovania: Darkest Bridge | 244266 | [244266-the-chronicles-of-rovania-darkest-bridge.json](./244266-the-chronicles-of-rovania-darkest-bridge.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
@@ -5595,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forge Arena | 90078 | [90078-the-forge-arena.json](./90078-the-forge-arena.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
+| The Forgotten City | 103320 | [103320-the-forgotten-city.json](./103320-the-forgotten-city.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
 | The Forgotten Demons | 197195 | [197195-the-forgotten-demons.json](./197195-the-forgotten-demons.json) |
@@ -7585,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
 | The Lord of the Rings: The Return of the King | 135708 | [135708-the-lord-of-the-rings-the-return-of-the-king.json](./135708-the-lord-of-the-rings-the-return-of-the-king.json) |
 | The Lord of the Rings: Total War | 356262 | [356262-the-lord-of-the-rings-total-war.json](./356262-the-lord-of-the-rings-total-war.json) |
+| The Lord of the Rings: War in the North | 1052 | [1052-the-lord-of-the-rings-war-in-the-north.json](./1052-the-lord-of-the-rings-war-in-the-north.json) |
 | The Lord of the Rings: War in the North - Legacy Edition | 413144 | [413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json](./413144-the-lord-of-the-rings-war-in-the-north-legacy-edition.json) |
 | The Lord of the Rings: War of the Ring | 9256 | [9256-the-lord-of-the-rings-war-of-the-ring.json](./9256-the-lord-of-the-rings-war-of-the-ring.json) |
 | The Lord of the Tower | 205601 | [205601-the-lord-of-the-tower.json](./205601-the-lord-of-the-tower.json) |
@@ -11423,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
 | Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
+| Thief II: The Metal Age | 1 | [1-thief-ii-the-metal-age.json](./1-thief-ii-the-metal-age.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
 | Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
@@ -14342,6 +14347,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Siege - Year 5 Deluxe Edition | 136815 | [136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json](./136815-tom-clancys-rainbow-six-siege-year-5-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
+| Tom Clancy's Rainbow Six: Vegas | 909 | [909-tom-clancys-rainbow-six-vegas.json](./909-tom-clancys-rainbow-six-vegas.json) |
+| Tom Clancy's Rainbow Six: Vegas 2 | 1853 | [1853-tom-clancys-rainbow-six-vegas-2.json](./1853-tom-clancys-rainbow-six-vegas-2.json) |
 | Tom Clancy's Rainbow Six: Vegas 2 / Tom Clancy's Ghost Recon: Advanced Warfighter 2 | 130809 | [130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json](./130809-tom-clancys-rainbow-six-vegas-2-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
 | Tom Clancy's Signature Collection | 53823 | [53823-tom-clancys-signature-collection.json](./53823-tom-clancys-signature-collection.json) |
