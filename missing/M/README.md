@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Builder | 18579 | [18579-master-builder.json](./18579-master-builder.json) |
 | Master Builder Simulator | 287720 | [287720-master-builder-simulator.json](./287720-master-builder-simulator.json) |
+| Master Chess | 43231 | [43231-master-chess.json](./43231-master-chess.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Chu and the Drunkard Hu | 48178 | [48178-master-chu-and-the-drunkard-hu.json](./48178-master-chu-and-the-drunkard-hu.json) |
 | Master Cube | 120377 | [120377-master-cube.json](./120377-master-cube.json) |
@@ -8034,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme vs. Maxiboost - On | 128773 | [128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json](./128773-mobile-suit-gundam-extreme-vs-maxiboost-on.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
+| Mobile Suit Gundam: Federation vs. Zeon DX | 43205 | [43205-mobile-suit-gundam-federation-vs-zeon-dx.json](./43205-mobile-suit-gundam-federation-vs-zeon-dx.json) |
 | Mobile Suit Gundam: Giren no Yabou - Axis No Kyoui V | 56743 | [56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json](./56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam | 72783 | [72783-mobile-suit-gundam-gundam-vs-gundam.json](./72783-mobile-suit-gundam-gundam-vs-gundam.json) |
 | Mobile Suit Gundam: Iron-Blooded Orphans Urd's Hunt | 113627 | [113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json](./113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json) |
@@ -9959,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
+| Motorbike King | 43235 | [43235-motorbike-king.json](./43235-motorbike-king.json) |
 | Motorbike Madness | 45244 | [45244-motorbike-madness.json](./45244-motorbike-madness.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
 | Motorbike Racing | 88493 | [88493-motorbike-racing.json](./88493-motorbike-racing.json) |
