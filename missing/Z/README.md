@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crisis | 86515 | [86515-zombie-crisis.json](./86515-zombie-crisis.json) |
 | Zombie Crisis 3D | 91113 | [91113-zombie-crisis-3d.json](./91113-zombie-crisis-3d.json) |
 | Zombie Crisis: Survival | 104234 | [104234-zombie-crisis-survival.json](./104234-zombie-crisis-survival.json) |
+| Zombie Crow 3D | 24800 | [24800-zombie-crow-3d.json](./24800-zombie-crow-3d.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Cubes | 111169 | [111169-zombie-cubes.json](./111169-zombie-cubes.json) |
 | Zombie Cubes | 231997 | [231997-zombie-cubes.json](./231997-zombie-cubes.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
+| ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
 | Zompell | 357439 | [357439-zompell.json](./357439-zompell.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
