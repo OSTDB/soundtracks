@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
+| Macross Ace Frontier | 44486 | [44486-macross-ace-frontier.json](./44486-macross-ace-frontier.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
 | Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
 | Macross Plus Game Edition | 80835 | [80835-macross-plus-game-edition.json](./80835-macross-plus-game-edition.json) |
@@ -1092,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Garden | 366439 | [366439-mahjong-garden.json](./366439-mahjong-garden.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
+| Mahjong Gokuu Tenjiku | 44443 | [44443-mahjong-gokuu-tenjiku.json](./44443-mahjong-gokuu-tenjiku.json) |
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
 | Mahjong Hanjouki | 37938 | [37938-mahjong-hanjouki.json](./37938-mahjong-hanjouki.json) |
@@ -1186,6 +1188,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
+| Mahoujin Guru-guru | 44440 | [44440-mahoujin-guru-guru.json](./44440-mahoujin-guru-guru.json) |
+| Mahoujin Guru-guru 2 | 44439 | [44439-mahoujin-guru-guru-2.json](./44439-mahoujin-guru-guru-2.json) |
 | Mahouka Koukou no Rettousei: Out of Order | 61996 | [61996-mahouka-koukou-no-rettousei-out-of-order.json](./61996-mahouka-koukou-no-rettousei-out-of-order.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
@@ -2777,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
 | Mary Skelter: Locked Up in Love - True End | 410472 | [410472-mary-skelter-locked-up-in-love-true-end.json](./410472-mary-skelter-locked-up-in-love-true-end.json) |
 | Mary Skelter: Locked Up in Love – Blood High | 410471 | [410471-mary-skelter-locked-up-in-love-blood-high.json](./410471-mary-skelter-locked-up-in-love-blood-high.json) |
+| Mary Skelter: Nightmares Remake | 44474 | [44474-mary-skelter-nightmares-remake.json](./44474-mary-skelter-nightmares-remake.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
@@ -5356,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
+| Metal Combat: Falcon's Revenge | 44461 | [44461-metal-combat-falcons-revenge.json](./44461-metal-combat-falcons-revenge.json) |
 | Metal Country | 116933 | [116933-metal-country.json](./116933-metal-country.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Dead | 17433 | [17433-metal-dead.json](./17433-metal-dead.json) |
