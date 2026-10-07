@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpack | 416044 | [416044-warpack.json](./416044-warpack.json) |
 | Warpath | 273349 | [273349-warpath.json](./273349-warpath.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
+| WarPath | 6228 | [6228-warpath.json](./6228-warpath.json) |
 | Warpath 97 | 77306 | [77306-warpath-97.json](./77306-warpath-97.json) |
 | Warpath Ace Shooter | 172683 | [172683-warpath-ace-shooter.json](./172683-warpath-ace-shooter.json) |
 | Warpath: Jurassic Park | 8278 | [8278-warpath-jurassic-park.json](./8278-warpath-jurassic-park.json) |
@@ -3383,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
+| Wings of War | 6235 | [6235-wings-of-war.json](./6235-wings-of-war.json) |
 | Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
 | Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
 | Wings of WW2 | 174112 | [174112-wings-of-ww2.json](./174112-wings-of-ww2.json) |
@@ -4551,6 +4553,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
 | World Championship Poker | 210721 | [210721-world-championship-poker.json](./210721-world-championship-poker.json) |
 | World Championship Poker | 6237 | [6237-world-championship-poker.json](./6237-world-championship-poker.json) |
+| World Championship Pool 2004 | 6238 | [6238-world-championship-pool-2004.json](./6238-world-championship-pool-2004.json) |
+| World Championship Rugby | 6239 | [6239-world-championship-rugby.json](./6239-world-championship-rugby.json) |
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
@@ -4845,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball | 81662 | [81662-world-series-baseball.json](./81662-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
 | World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
+| World Series Baseball 2K2 | 6240 | [6240-world-series-baseball-2k2.json](./6240-world-series-baseball-2k2.json) |
 | World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
@@ -4899,6 +4904,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Heroes | 82962 | [82962-world-war-heroes.json](./82962-world-war-heroes.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
+| World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
+| World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
 | World War II GI | 2533 | [2533-world-war-ii-gi.json](./2533-world-war-ii-gi.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
 | World War II: Frontline Command | 10155 | [10155-world-war-ii-frontline-command.json](./10155-world-war-ii-frontline-command.json) |
