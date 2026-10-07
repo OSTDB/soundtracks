@@ -5887,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Chick | 240876 | [240876-pogo-chick.json](./240876-pogo-chick.json) |
 | Pogo Epoch: Impossible 99% | 329177 | [329177-pogo-epoch-impossible-99.json](./329177-pogo-epoch-impossible-99.json) |
 | Pogo Island | 21401 | [21401-pogo-island.json](./21401-pogo-island.json) |
+| Pogo Joe | 23937 | [23937-pogo-joe.json](./23937-pogo-joe.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo Party | 224587 | [224587-pogo-party.json](./224587-pogo-party.json) |
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
