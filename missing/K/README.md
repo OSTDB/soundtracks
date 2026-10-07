@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Katto | 102966 | [102966-katto.json](./102966-katto.json) |
 | Kattobi Tune | 214618 | [214618-kattobi-tune.json](./214618-kattobi-tune.json) |
+| Kattobi! Takuhai Kun | 37682 | [37682-kattobi-takuhai-kun.json](./37682-kattobi-takuhai-kun.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
 | Katy & Bob: Way Back Home | 54157 | [54157-katy-and-bob-way-back-home.json](./54157-katy-and-bob-way-back-home.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor | 155970 | [155970-kor.json](./155970-kor.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
+| Kore ga Pro Yakyuu '90 | 37686 | [37686-kore-ga-pro-yakyuu-90.json](./37686-kore-ga-pro-yakyuu-90.json) |
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
@@ -3559,6 +3561,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data | 48311 | [48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json](./48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json) |
 | Kyuukyoku Harikiri Stadium III | 48310 | [48310-kyuukyoku-harikiri-stadium-iii.json](./48310-kyuukyoku-harikiri-stadium-iii.json) |
 | Kyuukyoku Harikiri Stadium: Heisei Gannen-ban | 48635 | [48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json](./48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json) |
+| Kyuukyoku Mahjong | 37681 | [37681-kyuukyoku-mahjong.json](./37681-kyuukyoku-mahjong.json) |
+| Kyuukyoku Mahjong II | 37680 | [37680-kyuukyoku-mahjong-ii.json](./37680-kyuukyoku-mahjong-ii.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
 | Kyuusei Senjutsu Niyoru Heisei Kaiun Koyomi | 268510 | [268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json](./268510-kyuusei-senjutsu-niyoru-heisei-kaiun-koyomi.json) |
