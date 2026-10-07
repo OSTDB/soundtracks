@@ -1555,6 +1555,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
 | Dawn of the Dead | 262432 | [262432-dawn-of-the-dead.json](./262432-dawn-of-the-dead.json) |
 | Dawn of the Dead | 356149 | [356149-dawn-of-the-dead.json](./356149-dawn-of-the-dead.json) |
+| Dawn of the Devs | 23847 | [23847-dawn-of-the-devs.json](./23847-dawn-of-the-devs.json) |
+| Dawn of the Dragons | 23629 | [23629-dawn-of-the-dragons.json](./23629-dawn-of-the-dragons.json) |
 | Dawn of the Dragons: Ascension | 117144 | [117144-dawn-of-the-dragons-ascension.json](./117144-dawn-of-the-dragons-ascension.json) |
 | Dawn of the Fred | 82316 | [82316-dawn-of-the-fred.json](./82316-dawn-of-the-fred.json) |
 | Dawn of the Immortals | 38917 | [38917-dawn-of-the-immortals.json](./38917-dawn-of-the-immortals.json) |
@@ -3315,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
+| Delta Squadron | 23947 | [23947-delta-squadron.json](./23947-delta-squadron.json) |
 | Delta Squared | 369240 | [369240-delta-squared.json](./369240-delta-squared.json) |
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
 | Delta T | 109169 | [109169-delta-t.json](./109169-delta-t.json) |
