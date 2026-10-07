@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Inner Walk | 251061 | [251061-an-inner-walk.json](./251061-an-inner-walk.json) |
 | An Introvert's Nightmare | 381762 | [381762-an-introverts-nightmare.json](./381762-an-introverts-nightmare.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
+| An Oath to the Stars | 28756 | [28756-an-oath-to-the-stars.json](./28756-an-oath-to-the-stars.json) |
 | An Occasional Dream | 55690 | [55690-an-occasional-dream.json](./55690-an-occasional-dream.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
