@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
+| Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
 | Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
