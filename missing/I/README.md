@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Illyriad | 85880 | [85880-illyriad.json](./85880-illyriad.json) |
 | Illyriad - 4X Grand Strategy MMO | 30437 | [30437-illyriad-4x-grand-strategy-mmo.json](./30437-illyriad-4x-grand-strategy-mmo.json) |
+| Ilomilo Plus | 50443 | [50443-ilomilo-plus.json](./50443-ilomilo-plus.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
