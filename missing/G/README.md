@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
 | GetHigh.exe | 393798 | [393798-gethigh-exe.json](./393798-gethigh-exe.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
+| Getsu Fuuma Den | 15829 | [15829-getsu-fuuma-den.json](./15829-getsu-fuuma-den.json) |
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Castle: Gengar's Love Quest | 357418 | [357418-ghost-castle-gengars-love-quest.json](./357418-ghost-castle-gengars-love-quest.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
 | Ghost Chaser | 81429 | [81429-ghost-chaser.json](./81429-ghost-chaser.json) |
+| Ghost Chaser Densei | 15828 | [15828-ghost-chaser-densei.json](./15828-ghost-chaser-densei.json) |
 | Ghost College | 150640 | [150640-ghost-college.json](./150640-ghost-college.json) |
 | Ghost College: Hotel Fright - Chapter 1 | 193427 | [193427-ghost-college-hotel-fright-chapter-1.json](./193427-ghost-college-hotel-fright-chapter-1.json) |
 | Ghost Croquet | 32751 | [32751-ghost-croquet.json](./32751-ghost-croquet.json) |
