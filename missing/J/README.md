@@ -289,8 +289,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
 | James 'Buster' Douglas Knock Out Boxing | 46530 | [46530-james-buster-douglas-knock-out-boxing.json](./46530-james-buster-douglas-knock-out-boxing.json) |
 | James Bond 007 | 1639 | [1639-james-bond-007.json](./1639-james-bond-007.json) |
+| James Bond 007: A View to a Kill | 1650 | [1650-james-bond-007-a-view-to-a-kill.json](./1650-james-bond-007-a-view-to-a-kill.json) |
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
+| James Bond 007: Goldfinger | 1633 | [1633-james-bond-007-goldfinger.json](./1633-james-bond-007-goldfinger.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
 | James Bond 007: Quantum of Solace | 52679 | [52679-james-bond-007-quantum-of-solace.json](./52679-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: The Living Daylights | 44099 | [44099-james-bond-007-the-living-daylights.json](./44099-james-bond-007-the-living-daylights.json) |
