@@ -5117,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
+| Planet Miners | 24808 | [24808-planet-miners.json](./24808-planet-miners.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
+| Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
