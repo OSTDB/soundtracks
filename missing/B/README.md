@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball & Gun | 403805 | [403805-ball-and-gun.json](./403805-ball-and-gun.json) |
 | Ball 28 In Space | 334086 | [334086-ball-28-in-space.json](./334086-ball-28-in-space.json) |
+| Ball 2D | 55715 | [55715-ball-2d.json](./55715-ball-2d.json) |
 | Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
 | Ball at Work: A Fun and Unique Game of Skill and Patience! | 139870 | [139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json](./139870-ball-at-work-a-fun-and-unique-game-of-skill-and-patience.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
@@ -5718,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobby Tennis | 36475 | [36475-blobby-tennis.json](./36475-blobby-tennis.json) |
 | Blobby's Quest | 263120 | [263120-blobbys-quest.json](./263120-blobbys-quest.json) |
 | Blobbz Online | 186144 | [186144-blobbz-online.json](./186144-blobbz-online.json) |
+| BlobCat | 55709 | [55709-blobcat.json](./55709-blobcat.json) |
 | Blobert | 158598 | [158598-blobert.json](./158598-blobert.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
 | Blobify | 181741 | [181741-blobify.json](./181741-blobify.json) |
