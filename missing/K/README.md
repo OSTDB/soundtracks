@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Freaks From Outer Space | 132063 | [132063-killer-freaks-from-outer-space.json](./132063-killer-freaks-from-outer-space.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
+| Killer Instinct | 10354 | [10354-killer-instinct.json](./10354-killer-instinct.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
 | Killer Instinct | 2907 | [2907-killer-instinct.json](./2907-killer-instinct.json) |
 | Killer Instinct | 324152 | [324152-killer-instinct.json](./324152-killer-instinct.json) |
