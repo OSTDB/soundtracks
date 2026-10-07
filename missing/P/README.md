@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
 | Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
+| Paradigm | 27762 | [27762-paradigm.json](./27762-paradigm.json) |
 | Paradigm Island | 285976 | [285976-paradigm-island.json](./285976-paradigm-island.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradigm Shift | 9240 | [9240-paradigm-shift.json](./9240-paradigm-shift.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
+| Paratopic | 97690 | [97690-paratopic.json](./97690-paratopic.json) |
 | Paratopic + Food Truck Tycoon | 252703 | [252703-paratopic-food-truck-tycoon.json](./252703-paratopic-food-truck-tycoon.json) |
 | Paratopic + Urban Flow | 246894 | [246894-paratopic-urban-flow.json](./246894-paratopic-urban-flow.json) |
 | Paratopic: Definitive Cut | 107740 | [107740-paratopic-definitive-cut.json](./107740-paratopic-definitive-cut.json) |
