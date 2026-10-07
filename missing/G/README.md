@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geek Fighter | 90816 | [90816-geek-fighter.json](./90816-geek-fighter.json) |
 | Geek Mind | 124663 | [124663-geek-mind.json](./124663-geek-mind.json) |
+| Geeks vs Gangsters | 54903 | [54903-geeks-vs-gangsters.json](./54903-geeks-vs-gangsters.json) |
 | Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
@@ -6150,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
+| Guts | 54925 | [54925-guts.json](./54925-guts.json) |
 | Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
 | Guts 'n Grunts Jr. | 386367 | [386367-guts-n-grunts-jr.json](./386367-guts-n-grunts-jr.json) |
 | Guts 'n Grunts Sr. | 397874 | [397874-guts-n-grunts-sr.json](./397874-guts-n-grunts-sr.json) |
