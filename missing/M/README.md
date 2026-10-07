@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
 | MapleStory iTCG | 320863 | [320863-maplestory-itcg.json](./320863-maplestory-itcg.json) |
+| MapleStory Live | 38880 | [38880-maplestory-live.json](./38880-maplestory-live.json) |
 | MapleStory Mayple Island | 299749 | [299749-maplestory-mayple-island.json](./299749-maplestory-mayple-island.json) |
 | MapleStory N | 343326 | [343326-maplestory-n.json](./343326-maplestory-n.json) |
 | Maplestory Odyssey | 226758 | [226758-maplestory-odyssey.json](./226758-maplestory-odyssey.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Venom | 161318 | [161318-marvel-vs-capcom-infinite-venom.json](./161318-marvel-vs-capcom-infinite-venom.json) |
 | Marvel vs. Capcom: Infinite - Winter Soldier | 161321 | [161321-marvel-vs-capcom-infinite-winter-soldier.json](./161321-marvel-vs-capcom-infinite-winter-soldier.json) |
 | Marvel vs. Capcom: Infinite & Beyond | 305345 | [305345-marvel-vs-capcom-infinite-and-beyond.json](./305345-marvel-vs-capcom-infinite-and-beyond.json) |
+| Marvel War of Heroes | 38875 | [38875-marvel-war-of-heroes.json](./38875-marvel-war-of-heroes.json) |
 | Marvel World of Heroes | 216280 | [216280-marvel-world-of-heroes.json](./216280-marvel-world-of-heroes.json) |
 | Marvel: Avengers Alliance | 77283 | [77283-marvel-avengers-alliance.json](./77283-marvel-avengers-alliance.json) |
 | Marvel: Avengers Alliance 2 | 59380 | [59380-marvel-avengers-alliance-2.json](./59380-marvel-avengers-alliance-2.json) |
@@ -5156,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
+| Merchant Colony | 38835 | [38835-merchant-colony.json](./38835-merchant-colony.json) |
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
@@ -5725,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mevo and the Grooveriders | 7963 | [7963-mevo-and-the-grooveriders.json](./7963-mevo-and-the-grooveriders.json) |
 | Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
+| Méwilo | 38861 | [38861-mewilo.json](./38861-mewilo.json) |
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
 | Mewn | 212772 | [212772-mewn.json](./212772-mewn.json) |
@@ -9685,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
 | Mortem | 409726 | [409726-mortem.json](./409726-mortem.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
+| Morteville Manor | 38863 | [38863-morteville-manor.json](./38863-morteville-manor.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
 | Mortician Inc.: Idle Empire | 245377 | [245377-mortician-inc-idle-empire.json](./245377-mortician-inc-idle-empire.json) |
