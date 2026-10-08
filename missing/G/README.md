@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
 | Get to a Gun | 110511 | [110511-get-to-a-gun.json](./110511-get-to-a-gun.json) |
 | Get to tha Choppa!!1 | 97450 | [97450-get-to-tha-choppa-1.json](./97450-get-to-tha-choppa-1.json) |
+| Get to the Chopper 3D | 416160 | [416160-get-to-the-chopper-3d.json](./416160-get-to-the-chopper-3d.json) |
 | Get to the Gate | 235692 | [235692-get-to-the-gate.json](./235692-get-to-the-gate.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
