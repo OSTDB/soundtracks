@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
+| Maltese's Fluffy Onsen: Horse DLC | 389545 | [389545-malteses-fluffy-onsen-horse-dlc.json](./389545-malteses-fluffy-onsen-horse-dlc.json) |
 | Malu the Princess | 324997 | [324997-malu-the-princess.json](./324997-malu-the-princess.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malus | 133214 | [133214-malus.json](./133214-malus.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master System Handy | 202806 | [202806-master-system-handy.json](./202806-master-system-handy.json) |
 | Master System Plug & Play | 230828 | [230828-master-system-plug-and-play.json](./230828-master-system-plug-and-play.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
+| Master Thief Simulator | 389540 | [389540-master-thief-simulator.json](./389540-master-thief-simulator.json) |
 | Master Thief: Skyscraper Sting | 295920 | [295920-master-thief-skyscraper-sting.json](./295920-master-thief-skyscraper-sting.json) |
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
@@ -12035,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
 | My Last Heatwave | 396556 | [396556-my-last-heatwave.json](./396556-my-last-heatwave.json) |
 | My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
+| My Last Stand: Survivors | 389549 | [389549-my-last-stand-survivors.json](./389549-my-last-stand-survivors.json) |
 | My Legend of Immortal Cultivation | 265317 | [265317-my-legend-of-immortal-cultivation.json](./265317-my-legend-of-immortal-cultivation.json) |
 | My Lego Network | 321552 | [321552-my-lego-network.json](./321552-my-lego-network.json) |
 | My Leisure Time | 395121 | [395121-my-leisure-time.json](./395121-my-leisure-time.json) |
@@ -12152,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
+| My Neighbor's Lonely Wife | 389632 | [389632-my-neighbors-lonely-wife.json](./389632-my-neighbors-lonely-wife.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Neighborhood Arcade | 153503 | [153503-my-neighborhood-arcade.json](./153503-my-neighborhood-arcade.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
@@ -12414,9 +12418,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Weight Loss Coach | 47900 | [47900-my-weight-loss-coach.json](./47900-my-weight-loss-coach.json) |
 | My Wet Leto Comic | 129118 | [129118-my-wet-leto-comic.json](./129118-my-wet-leto-comic.json) |
 | My Wife | 339913 | [339913-my-wife.json](./339913-my-wife.json) |
+| My Wife Is a Football Coach | 389639 | [389639-my-wife-is-a-football-coach.json](./389639-my-wife-is-a-football-coach.json) |
 | My Wife Is a Maid | 385242 | [385242-my-wife-is-a-maid.json](./385242-my-wife-is-a-maid.json) |
+| My Wife Is a Porn Star | 389637 | [389637-my-wife-is-a-porn-star.json](./389637-my-wife-is-a-porn-star.json) |
 | My Wife is a Princess | 216992 | [216992-my-wife-is-a-princess.json](./216992-my-wife-is-a-princess.json) |
+| My Wife Is a Real Estate Agent | 389631 | [389631-my-wife-is-a-real-estate-agent.json](./389631-my-wife-is-a-real-estate-agent.json) |
+| My Wife Is a Slutty Agent | 389630 | [389630-my-wife-is-a-slutty-agent.json](./389630-my-wife-is-a-slutty-agent.json) |
 | My Wife is a Spy?! | 347865 | [347865-my-wife-is-a-spy.json](./347865-my-wife-is-a-spy.json) |
+| My Wife Is An Office Manager | 389634 | [389634-my-wife-is-an-office-manager.json](./389634-my-wife-is-an-office-manager.json) |
 | My Wife Serves the King | 385243 | [385243-my-wife-serves-the-king.json](./385243-my-wife-serves-the-king.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
