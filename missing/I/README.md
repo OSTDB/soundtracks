@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
 | Interrogator 2 | 370239 | [370239-interrogator-2.json](./370239-interrogator-2.json) |
 | Interruption | 208245 | [208245-interruption.json](./208245-interruption.json) |
+| Intersectio | 390069 | [390069-intersectio.json](./390069-intersectio.json) |
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSection | 34237 | [34237-intersection.json](./34237-intersection.json) |
 | Intersection of Three Circles | 374692 | [374692-intersection-of-three-circles.json](./374692-intersection-of-three-circles.json) |
