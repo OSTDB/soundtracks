@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
+| Score | 33624 | [33624-score.json](./33624-score.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Score Gun | 225603 | [225603-score-gun.json](./225603-score-gun.json) |
@@ -4654,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
+| Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
 | Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
@@ -10976,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
 | Soundwave | 398556 | [398556-soundwave.json](./398556-soundwave.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
+| Soup | 33676 | [33676-soup.json](./33676-soup.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
@@ -11593,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
+| Space Rift - Episode 1 | 33655 | [33655-space-rift-episode-1.json](./33655-space-rift-episode-1.json) |
 | Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
@@ -15968,6 +15972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
+| Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
 | Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Story Teller | 119693 | [119693-story-teller.json](./119693-story-teller.json) |
@@ -17124,6 +17129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
+| Sudoku Quest | 33669 | [33669-sudoku-quest.json](./33669-sudoku-quest.json) |
 | Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
 | Sudoku Relax 2 Summer Waves | 124064 | [124064-sudoku-relax-2-summer-waves.json](./124064-sudoku-relax-2-summer-waves.json) |
 | Sudoku Relax 5 Full Bloom | 147618 | [147618-sudoku-relax-5-full-bloom.json](./147618-sudoku-relax-5-full-bloom.json) |
