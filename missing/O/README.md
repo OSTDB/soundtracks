@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okami HD: Limited Edition | 136788 | [136788-okami-hd-limited-edition.json](./136788-okami-hd-limited-edition.json) |
 | Okami Sequel | 325610 | [325610-okami-sequel.json](./325610-okami-sequel.json) |
 | Okashi na Shima no Peter Pan: Sweet Never Land | 218955 | [218955-okashi-na-shima-no-peter-pan-sweet-never-land.json](./218955-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
+| Okay, Panic! | 120051 | [120051-okay-panic.json](./120051-okay-panic.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
 | Okekenuki | 280420 | [280420-okekenuki.json](./280420-okekenuki.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbyss | 343264 | [343264-orbyss.json](./343264-orbyss.json) |
 | Orc and Hypnotized Femdogs | 98543 | [98543-orc-and-hypnotized-femdogs.json](./98543-orc-and-hypnotized-femdogs.json) |
 | Orc Attack | 23944 | [23944-orc-attack.json](./23944-orc-attack.json) |
+| Orc Colony | 119875 | [119875-orc-colony.json](./119875-orc-colony.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
@@ -2312,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Assassin | 102332 | [102332-order-of-the-assassin.json](./102332-order-of-the-assassin.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
+| Order of the Gatekeepers | 120005 | [120005-order-of-the-gatekeepers.json](./120005-order-of-the-gatekeepers.json) |
 | Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
 | Order of the Odonata | 143366 | [143366-order-of-the-odonata.json](./143366-order-of-the-odonata.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
