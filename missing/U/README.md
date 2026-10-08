@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Kaiju Monster Rancher: Starter Pack | 221697 | [221697-ultra-kaiju-monster-rancher-starter-pack.json](./221697-ultra-kaiju-monster-rancher-starter-pack.json) |
 | Ultra Kaiju: Battle Breeders | 223965 | [223965-ultra-kaiju-battle-breeders.json](./223965-ultra-kaiju-battle-breeders.json) |
 | Ultra Keibitai: Monster Attack | 413184 | [413184-ultra-keibitai-monster-attack.json](./413184-ultra-keibitai-monster-attack.json) |
+| Ultra Kingdoms | 410865 | [410865-ultra-kingdoms.json](./410865-ultra-kingdoms.json) |
 | Ultra LMAD | 231320 | [231320-ultra-lmad.json](./231320-ultra-lmad.json) |
 | Ultra Mega Cats | 217344 | [217344-ultra-mega-cats.json](./217344-ultra-mega-cats.json) |
 | Ultra Mega Dungeon 64 | 397662 | [397662-ultra-mega-dungeon-64.json](./397662-ultra-mega-dungeon-64.json) |
