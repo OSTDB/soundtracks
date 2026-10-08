@@ -3379,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Backup | 401178 | [401178-no-backup.json](./401178-no-backup.json) |
+| No Blink Allowed | 400560 | [400560-no-blink-allowed.json](./400560-no-blink-allowed.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
 | No Brakes | 273544 | [273544-no-brakes.json](./273544-no-brakes.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
 | Nothing & Nowhere | 133413 | [133413-nothing-and-nowhere.json](./133413-nothing-and-nowhere.json) |
+| Nothing at Stake | 400507 | [400507-nothing-at-stake.json](./400507-nothing-at-stake.json) |
 | Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
