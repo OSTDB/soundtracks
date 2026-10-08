@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 1 | 331401 | [331401-wheelie-1.json](./331401-wheelie-1.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
+| Wheelie Bad | 397427 | [397427-wheelie-bad.json](./397427-wheelie-bad.json) |
 | Wheelie City | 338378 | [338378-wheelie-city.json](./338378-wheelie-city.json) |
 | Wheelie King 3D | 104656 | [104656-wheelie-king-3d.json](./104656-wheelie-king-3d.json) |
 | Wheelie King 7 | 338377 | [338377-wheelie-king-7.json](./338377-wheelie-king-7.json) |
