@@ -1267,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
+| Banzai Royale | 105476 | [105476-banzai-royale.json](./105476-banzai-royale.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
+| Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
@@ -3913,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware of Falling Angels | 262982 | [262982-beware-of-falling-angels.json](./262982-beware-of-falling-angels.json) |
 | Beware of Space Dragons | 348423 | [348423-beware-of-space-dragons.json](./348423-beware-of-space-dragons.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
+| Beware of Trains | 105583 | [105583-beware-of-trains.json](./105583-beware-of-trains.json) |
 | Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
 | Beware the Shadowcatcher | 217863 | [217863-beware-the-shadowcatcher.json](./217863-beware-the-shadowcatcher.json) |
 | Beware Tomorrow | 320765 | [320765-beware-tomorrow.json](./320765-beware-tomorrow.json) |
@@ -6245,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl III: Season 3 | 302464 | [302464-blood-bowl-iii-season-3.json](./302464-blood-bowl-iii-season-3.json) |
 | Blood Bowl III: Season 4 | 302466 | [302466-blood-bowl-iii-season-4.json](./302466-blood-bowl-iii-season-4.json) |
 | Blood Bowl Tablet | 29030 | [29030-blood-bowl-tablet.json](./29030-blood-bowl-tablet.json) |
+| Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
