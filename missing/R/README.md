@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Aramatsu Bowhead 30T | 374731 | [374731-roadcraft-aramatsu-bowhead-30t.json](./374731-roadcraft-aramatsu-bowhead-30t.json) |
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
+| RoadCraft: Reclaim Expansion | 394795 | [394795-roadcraft-reclaim-expansion.json](./394795-roadcraft-reclaim-expansion.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
 | RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
