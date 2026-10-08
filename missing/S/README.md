@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
+| Saccharine: A Misleading Sim Date | 387038 | [387038-saccharine-a-misleading-sim-date.json](./387038-saccharine-a-misleading-sim-date.json) |
 | Sachin Saga Cricket Champions | 202685 | [202685-sachin-saga-cricket-champions.json](./202685-sachin-saga-cricket-champions.json) |
 | Sachkunde Pfiffikus 2009 | 91618 | [91618-sachkunde-pfiffikus-2009.json](./91618-sachkunde-pfiffikus-2009.json) |
 | Sachova Hra | 319699 | [319699-sachova-hra.json](./319699-sachova-hra.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Maou Golvellius | 125814 | [125814-shin-maou-golvellius.json](./125814-shin-maou-golvellius.json) |
 | Shin Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269614 | [269614-shin-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269614-shin-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
 | Shin Masou Kishin: Panzer Warfare | 166592 | [166592-shin-masou-kishin-panzer-warfare.json](./166592-shin-masou-kishin-panzer-warfare.json) |
+| Shin Master of Monsters Final | 387072 | [387072-shin-master-of-monsters-final.json](./387072-shin-master-of-monsters-final.json) |
 | Shin Master of Monsters Final EX | 111904 | [111904-shin-master-of-monsters-final-ex.json](./111904-shin-master-of-monsters-final-ex.json) |
 | Shin Megami Tensei | 248790 | [248790-shin-megami-tensei.json](./248790-shin-megami-tensei.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
@@ -10321,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
+| Sonic Labyrinth | 387060 | [387060-sonic-labyrinth.json](./387060-sonic-labyrinth.json) |
 | Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
 | Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
 | Sonic Legends | 332594 | [332594-sonic-legends.json](./332594-sonic-legends.json) |
