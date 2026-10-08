@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
 | QatQi | 265844 | [265844-qatqi.json](./265844-qatqi.json) |
 | Qavo | 135031 | [135031-qavo.json](./135031-qavo.json) |
+| Qb | 54827 | [54827-qb.json](./54827-qb.json) |
 | QB - a cube's tale | 96911 | [96911-qb-a-cubes-tale.json](./96911-qb-a-cubes-tale.json) |
 | QB Debugger Hero | 384786 | [384786-qb-debugger-hero.json](./384786-qb-debugger-hero.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quad Battle | 294254 | [294254-quad-battle.json](./294254-quad-battle.json) |
 | Quad Challenge | 46212 | [46212-quad-challenge.json](./46212-quad-challenge.json) |
 | Quad Dice Defence | 195157 | [195157-quad-dice-defence.json](./195157-quad-dice-defence.json) |
+| Quad Hopping | 54887 | [54887-quad-hopping.json](./54887-quad-hopping.json) |
 | Quad Run | 271191 | [271191-quad-run.json](./271191-quad-run.json) |
 | Quadanoid | 245283 | [245283-quadanoid.json](./245283-quadanoid.json) |
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
