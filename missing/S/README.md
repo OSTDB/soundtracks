@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors 3: Empires | 12295 | [12295-samurai-warriors-3-empires.json](./12295-samurai-warriors-3-empires.json) |
+| Samurai Warriors 3: Xtreme Legends | 12286 | [12286-samurai-warriors-3-xtreme-legends.json](./12286-samurai-warriors-3-xtreme-legends.json) |
 | Samurai Warriors 4 | 7290 | [7290-samurai-warriors-4.json](./7290-samurai-warriors-4.json) |
 | Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
+| Sentinel | 11626 | [11626-sentinel.json](./11626-sentinel.json) |
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
 | Sentinel 4: Dark Star | 34835 | [34835-sentinel-4-dark-star.json](./34835-sentinel-4-dark-star.json) |
@@ -4029,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
 | Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
+| Shadowfire | 13034 | [13034-shadowfire.json](./13034-shadowfire.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
@@ -6279,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
 | Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
 | Similo: Spookies | 170926 | [170926-similo-spookies.json](./170926-similo-spookies.json) |
+| SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
@@ -6971,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
+| Sketch Tales | 13161 | [13161-sketch-tales.json](./13161-sketch-tales.json) |
 | Sketch, Share, Solve: Video Games & Animals | 341154 | [341154-sketch-share-solve-video-games-and-animals.json](./341154-sketch-share-solve-video-games-and-animals.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
@@ -7517,6 +7522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash/Dots. | 55653 | [55653-slash-dots.json](./55653-slash-dots.json) |
 | Slash/Jump | 313317 | [313317-slash-jump.json](./313317-slash-jump.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
+| SlashDash | 11651 | [11651-slashdash.json](./11651-slashdash.json) |
 | Slasher | 251048 | [251048-slasher.json](./251048-slasher.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
@@ -10902,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
 | Sound Shapes | 7729 | [7729-sound-shapes.json](./7729-sound-shapes.json) |
+| Sound Shift | 12890 | [12890-sound-shift.json](./12890-sound-shift.json) |
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Soarer | 74357 | [74357-sound-soarer.json](./74357-sound-soarer.json) |
@@ -14579,6 +14586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starport: Galactic Empires | 98266 | [98266-starport-galactic-empires.json](./98266-starport-galactic-empires.json) |
 | StarPrey | 143027 | [143027-starprey.json](./143027-starprey.json) |
 | Starpuffs | 272908 | [272908-starpuffs.json](./272908-starpuffs.json) |
+| Starquake | 12479 | [12479-starquake.json](./12479-starquake.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | Starr Mazer: DSP | 80547 | [80547-starr-mazer-dsp.json](./80547-starr-mazer-dsp.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
@@ -17381,6 +17389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Masks | 130221 | [130221-summon-masks.json](./130221-summon-masks.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night | 13063 | [13063-summon-night.json](./13063-summon-night.json) |
+| Summon Night 2 | 13064 | [13064-summon-night-2.json](./13064-summon-night-2.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
 | Summon Night 6: Lost Borders - Amu Edition | 167110 | [167110-summon-night-6-lost-borders-amu-edition.json](./167110-summon-night-6-lost-borders-amu-edition.json) |
