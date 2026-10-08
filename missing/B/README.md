@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Street | 336704 | [336704-battle-street.json](./336704-battle-street.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
+| Battle Summoners | 36522 | [36522-battle-summoners.json](./36522-battle-summoners.json) |
 | Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
 | Battle Support | 336727 | [336727-battle-support.json](./336727-battle-support.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
@@ -6127,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockies VR | 193204 | [193204-blockies-vr.json](./193204-blockies-vr.json) |
 | Blockiverse | 125799 | [125799-blockiverse.json](./125799-blockiverse.json) |
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
+| Blockle | 36497 | [36497-blockle.json](./36497-blockle.json) |
 | Blockman 1988 | 225722 | [225722-blockman-1988.json](./225722-blockman-1988.json) |
 | Blockman 1989 | 186646 | [186646-blockman-1989.json](./186646-blockman-1989.json) |
 | Blockman Returns | 56427 | [56427-blockman-returns.json](./56427-blockman-returns.json) |
@@ -10190,6 +10192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
 | Burrows | 377195 | [377195-burrows.json](./377195-burrows.json) |
 | Burrows | 380045 | [380045-burrows.json](./380045-burrows.json) |
+| Burst | 36489 | [36489-burst.json](./36489-burst.json) |
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
