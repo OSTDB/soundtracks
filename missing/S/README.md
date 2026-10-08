@@ -16255,6 +16255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Things VR | 225668 | [225668-stranger-things-vr.json](./225668-stranger-things-vr.json) |
 | Stranger Things: 1984 | 72765 | [72765-stranger-things-1984.json](./72765-stranger-things-1984.json) |
 | Stranger Things: Puzzle Tales | 197248 | [197248-stranger-things-puzzle-tales.json](./197248-stranger-things-puzzle-tales.json) |
+| Stranger Things: Tales from '85 | 400515 | [400515-stranger-things-tales-from-85.json](./400515-stranger-things-tales-from-85.json) |
 | Stranger Things: Will's Side Quest | 120708 | [120708-stranger-things-wills-side-quest.json](./120708-stranger-things-wills-side-quest.json) |
 | Strangers at Night | 178511 | [178511-strangers-at-night.json](./178511-strangers-at-night.json) |
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
@@ -17889,6 +17890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex Squares | 105513 | [105513-supaplex-squares.json](./105513-supaplex-squares.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
+| SupaSanta | 400568 | [400568-supasanta.json](./400568-supasanta.json) |
 | SupaSupaCross | 251120 | [251120-supasupacross.json](./251120-supasupacross.json) |
 | Super | 168678 | [168678-super.json](./168678-super.json) |
 | Super | 51970 | [51970-super.json](./51970-super.json) |
