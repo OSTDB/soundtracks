@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fay's Factory | 199440 | [199440-fays-factory.json](./199440-fays-factory.json) |
 | Faybound: Veils of Magic | 405562 | [405562-faybound-veils-of-magic.json](./405562-faybound-veils-of-magic.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
+| Faye King: Jungle Jeopardy | 399894 | [399894-faye-king-jungle-jeopardy.json](./399894-faye-king-jungle-jeopardy.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
@@ -7846,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
 | Furry Came-a-Lot | 374050 | [374050-furry-came-a-lot.json](./374050-furry-came-a-lot.json) |
 | Furry Chronicles | 115612 | [115612-furry-chronicles.json](./115612-furry-chronicles.json) |
+| Furry College | 399871 | [399871-furry-college.json](./399871-furry-college.json) |
 | Furry Company | 347345 | [347345-furry-company.json](./347345-furry-company.json) |
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
