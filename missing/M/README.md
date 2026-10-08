@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 09 | 243242 | [243242-madden-nfl-09.json](./243242-madden-nfl-09.json) |
 | Madden NFL 09 | 4984 | [4984-madden-nfl-09.json](./4984-madden-nfl-09.json) |
 | Madden NFL 09 All-Play | 229192 | [229192-madden-nfl-09-all-play.json](./229192-madden-nfl-09-all-play.json) |
+| Madden NFL 10 | 229203 | [229203-madden-nfl-10.json](./229203-madden-nfl-10.json) |
 | Madden NFL 10 | 229204 | [229204-madden-nfl-10.json](./229204-madden-nfl-10.json) |
 | Madden NFL 10 | 229205 | [229205-madden-nfl-10.json](./229205-madden-nfl-10.json) |
 | Madden NFL 10 | 4985 | [4985-madden-nfl-10.json](./4985-madden-nfl-10.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Date EX: Sotsugyou Kokuhaku Daisakusen | 69211 | [69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json](./69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json) |
 | Magical Date: Doki-doki Kokuhaku Daisakusen | 360723 | [360723-magical-date-doki-doki-kokuhaku-daisakusen.json](./360723-magical-date-doki-doki-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
+| Magical Delicacy | 238948 | [238948-magical-delicacy.json](./238948-magical-delicacy.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
@@ -4291,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Business M: Business World | 199900 | [199900-mega-business-m-business-world.json](./199900-mega-business-m-business-world.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
+| Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
 | Mega Collection: 8 Amazing Games | 399785 | [399785-mega-collection-8-amazing-games.json](./399785-mega-collection-8-amazing-games.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
@@ -8933,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
+| Monster Energy Supercross 6: The Official Videogame | 228861 | [228861-monster-energy-supercross-6-the-official-videogame.json](./228861-monster-energy-supercross-6-the-official-videogame.json) |
 | Monster Energy Supercross: The Official Videogame - Compound | 170941 | [170941-monster-energy-supercross-the-official-videogame-compound.json](./170941-monster-energy-supercross-the-official-videogame-compound.json) |
 | Monster Energy Supercross: The Official Videogame - Monster Energy Cup | 170946 | [170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json](./170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json) |
 | Monster Energy Supercross: The Official Videogame 2 | 111041 | [111041-monster-energy-supercross-the-official-videogame-2.json](./111041-monster-energy-supercross-the-official-videogame-2.json) |
@@ -9509,6 +9513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Moggy | 229769 | [229769-moonlight-moggy.json](./229769-moonlight-moggy.json) |
 | Moonlight Motel | 403091 | [403091-moonlight-motel.json](./403091-moonlight-motel.json) |
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
+| Moonlight Peaks | 237123 | [237123-moonlight-peaks.json](./237123-moonlight-peaks.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
 | Moonlight Sculptor | 150009 | [150009-moonlight-sculptor.json](./150009-moonlight-sculptor.json) |
@@ -11085,6 +11090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murnatan | 62718 | [62718-murnatan.json](./62718-murnatan.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
+| Murtop | 232814 | [232814-murtop.json](./232814-murtop.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
 | Musaic Box | 15992 | [15992-musaic-box.json](./15992-musaic-box.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
