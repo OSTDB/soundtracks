@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jibi Land: Princess Castle | 299211 | [299211-jibi-land-princess-castle.json](./299211-jibi-land-princess-castle.json) |
 | Jibi Land: Princess Town | 299212 | [299212-jibi-land-princess-town.json](./299212-jibi-land-princess-town.json) |
 | Jice | 183978 | [183978-jice.json](./183978-jice.json) |
+| Jidousha Shakai | 28419 | [28419-jidousha-shakai.json](./28419-jidousha-shakai.json) |
 | Jieitai World | 254449 | [254449-jieitai-world.json](./254449-jieitai-world.json) |
 | Jiēxiànyuán de Shǐmìng | 161164 | [161164-jiexianyuan-de-shiming.json](./161164-jiexianyuan-de-shiming.json) |
 | Jig-a-Pix Pets | 209987 | [209987-jig-a-pix-pets.json](./209987-jig-a-pix-pets.json) |
