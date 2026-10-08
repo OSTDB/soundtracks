@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
+| Race Days | 49009 | [49009-race-days.json](./49009-race-days.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
 | Race Driver: Create & Race | 20763 | [20763-race-driver-create-and-race.json](./20763-race-driver-create-and-race.json) |
 | Race Driver: Grid | 2159 | [2159-race-driver-grid.json](./2159-race-driver-grid.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
+| Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
 | Rätsel & Denkspiele | 91604 | [91604-ratsel-and-denkspiele.json](./91604-ratsel-and-denkspiele.json) |
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
 | Ratshaker | 321428 | [321428-ratshaker.json](./321428-ratshaker.json) |
