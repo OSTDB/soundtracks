@@ -2582,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
 | Othello | 54937 | [54937-othello.json](./54937-othello.json) |
+| Othello | 79732 | [79732-othello.json](./79732-othello.json) |
 | Othello 2018 | 104147 | [104147-othello-2018.json](./104147-othello-2018.json) |
 | Othello 3 | 93019 | [93019-othello-3.json](./93019-othello-3.json) |
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
