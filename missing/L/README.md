@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
+| Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
