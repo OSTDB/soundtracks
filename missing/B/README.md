@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannercatch | 362393 | [362393-bannercatch.json](./362393-bannercatch.json) |
 | Banneret | 398398 | [398398-banneret.json](./398398-banneret.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
+| Bannerlings | 419941 | [419941-bannerlings.json](./419941-bannerlings.json) |
 | Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
 | Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
@@ -5472,11 +5473,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Netherworld | 244911 | [244911-blade-of-the-netherworld.json](./244911-blade-of-the-netherworld.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
+| Blade of the Soulway | 419988 | [419988-blade-of-the-soulway.json](./419988-blade-of-the-soulway.json) |
 | Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
 | Blade of Unagi | 110242 | [110242-blade-of-unagi.json](./110242-blade-of-unagi.json) |
 | Blade of Wiz | 358492 | [358492-blade-of-wiz.json](./358492-blade-of-wiz.json) |
 | Blade Prince Academy | 244382 | [244382-blade-prince-academy.json](./244382-blade-prince-academy.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
+| Blade Rising | 419984 | [419984-blade-rising.json](./419984-blade-rising.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
 | Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
 | Blade Runner 9732 | 80854 | [80854-blade-runner-9732.json](./80854-blade-runner-9732.json) |
@@ -5492,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
+| Bladeless Sword: Tale of Qin | 419987 | [419987-bladeless-sword-tale-of-qin.json](./419987-bladeless-sword-tale-of-qin.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
@@ -9643,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy10 | 339397 | [339397-buggy10.json](./339397-buggy10.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
+| BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
