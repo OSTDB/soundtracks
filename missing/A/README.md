@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Attack | 13691 | [13691-android-attack.json](./13691-android-attack.json) |
 | Android Helipad | 123465 | [123465-android-helipad.json](./123465-android-helipad.json) |
 | Android Hunter A | 23852 | [23852-android-hunter-a.json](./23852-android-hunter-a.json) |
+| Android John | 32276 | [32276-android-john.json](./32276-android-john.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
@@ -6144,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
 | Antihero | 26856 | [26856-antihero.json](./26856-antihero.json) |
+| Antihorror | 32249 | [32249-antihorror.json](./32249-antihorror.json) |
 | Antihue | 297461 | [297461-antihue.json](./297461-antihue.json) |
 | AntiKiller | 52415 | [52415-antikiller.json](./52415-antikiller.json) |
 | AntiMatcher | 403582 | [403582-antimatcher.json](./403582-antimatcher.json) |
@@ -8476,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
