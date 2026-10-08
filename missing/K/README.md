@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knighventure | 352318 | [352318-knighventure.json](./352318-knighventure.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
+| Knives Out | 77776 | [77776-knives-out.json](./77776-knives-out.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
 | Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
@@ -2987,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
+| Konami Arcade Classics | 79704 | [79704-konami-arcade-classics.json](./79704-konami-arcade-classics.json) |
 | Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
@@ -3188,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
+| Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kouryaku Casino Bar | 37954 | [37954-kouryaku-casino-bar.json](./37954-kouryaku-casino-bar.json) |
 | Koushien 2 | 37953 | [37953-koushien-2.json](./37953-koushien-2.json) |
