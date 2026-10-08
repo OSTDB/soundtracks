@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pastaria | 210501 | [210501-papas-pastaria.json](./210501-papas-pastaria.json) |
 | Papa's Pizzeria | 206853 | [206853-papas-pizzeria.json](./206853-papas-pizzeria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Papa's Quiz | 142177 | [142177-papas-quiz.json](./142177-papas-quiz.json) |
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
@@ -4911,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Monsters Encore | 139952 | [139952-pixeljunk-monsters-encore.json](./139952-pixeljunk-monsters-encore.json) |
 | PixelJunk Nom Nom Galaxy | 10602 | [10602-pixeljunk-nom-nom-galaxy.json](./10602-pixeljunk-nom-nom-galaxy.json) |
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
+| PixelJunk Raiders | 144140 | [144140-pixeljunk-raiders.json](./144140-pixeljunk-raiders.json) |
 | PixelJunk Shooter | 9912 | [9912-pixeljunk-shooter.json](./9912-pixeljunk-shooter.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
 | PixelJunk VR: Dead Hungry | 27322 | [27322-pixeljunk-vr-dead-hungry.json](./27322-pixeljunk-vr-dead-hungry.json) |
@@ -5377,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
+| Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
@@ -5936,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
 | Pockie Pirates | 23594 | [23594-pockie-pirates.json](./23594-pockie-pirates.json) |
+| Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
@@ -8130,6 +8134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
+| Prince of Persia: Epilogue | 142472 | [142472-prince-of-persia-epilogue.json](./142472-prince-of-persia-epilogue.json) |
 | Prince of Persia: Escape | 320136 | [320136-prince-of-persia-escape.json](./320136-prince-of-persia-escape.json) |
 | Prince of Persia: Evolution | 214715 | [214715-prince-of-persia-evolution.json](./214715-prince-of-persia-evolution.json) |
 | Prince of Persia: Harem Adventures | 212850 | [212850-prince-of-persia-harem-adventures.json](./212850-prince-of-persia-harem-adventures.json) |
@@ -10332,6 +10337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pop | 246361 | [246361-puzzle-pop.json](./246361-puzzle-pop.json) |
 | Puzzle Prism | 215015 | [215015-puzzle-prism.json](./215015-puzzle-prism.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
+| Puzzle Quest 3 | 142769 | [142769-puzzle-quest-3.json](./142769-puzzle-quest-3.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Challenge of the Warlords | 2370 | [2370-puzzle-quest-challenge-of-the-warlords.json](./2370-puzzle-quest-challenge-of-the-warlords.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
