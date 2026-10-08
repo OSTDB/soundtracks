@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
 | Let's Explore the Farm | 35470 | [35470-lets-explore-the-farm.json](./35470-lets-explore-the-farm.json) |
 | Let's Explore the Jungle | 35471 | [35471-lets-explore-the-jungle.json](./35471-lets-explore-the-jungle.json) |
+| Let’s Fall in Love | 392309 | [392309-let-s-fall-in-love.json](./392309-let-s-fall-in-love.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
 | Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
