@@ -5418,6 +5418,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 212162 | [212162-clan-wars.json](./212162-clan-wars.json) |
 | Clan Wars | 356284 | [356284-clan-wars.json](./356284-clan-wars.json) |
+| Clan Wars 2: Red Reign | 403070 | [403070-clan-wars-2-red-reign.json](./403070-clan-wars-2-red-reign.json) |
+| Clan Wars: The Green Goblins Forest | 403021 | [403021-clan-wars-the-green-goblins-forest.json](./403021-clan-wars-the-green-goblins-forest.json) |
 | Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
@@ -8881,8 +8883,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
+| Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
+| Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
 | Covermount | 327295 | [327295-covermount.json](./327295-covermount.json) |
@@ -8957,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
 | Cozy Cabin | 216715 | [216715-cozy-cabin.json](./216715-cozy-cabin.json) |
 | Cozy Cabin: Coffee Boutique | 252241 | [252241-cozy-cabin-coffee-boutique.json](./252241-cozy-cabin-coffee-boutique.json) |
+| Cozy Campfire Club | 402877 | [402877-cozy-campfire-club.json](./402877-cozy-campfire-club.json) |
 | Cozy Campzone | 301994 | [301994-cozy-campzone.json](./301994-cozy-campzone.json) |
 | Cozy Caravan | 290500 | [290500-cozy-caravan.json](./290500-cozy-caravan.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
@@ -9352,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
+| Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 11049 | [11049-crawl.json](./11049-crawl.json) |
 | Crawl Space | 186064 | [186064-crawl-space.json](./186064-crawl-space.json) |
 | Crawl Space: The Mansion | 74674 | [74674-crawl-space-the-mansion.json](./74674-crawl-space-the-mansion.json) |
