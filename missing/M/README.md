@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
+| Magic Scroll Tactics | 96946 | [96946-magic-scroll-tactics.json](./96946-magic-scroll-tactics.json) |
 | Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shop | 186122 | [186122-magic-shop.json](./186122-magic-shop.json) |
@@ -5350,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
+| Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Hidden | 409720 | [409720-merge-hidden.json](./409720-merge-hidden.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
@@ -5432,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
+| Merry Glade | 98698 | [98698-merry-glade.json](./98698-merry-glade.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
