@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom | 146173 | [146173-maelstrom.json](./146173-maelstrom.json) |
 | Maelstrom | 207802 | [207802-maelstrom.json](./207802-maelstrom.json) |
+| Maelstrom | 71446 | [71446-maelstrom.json](./71446-maelstrom.json) |
 | Maelstrom Legacy: The Tesla Mystery | 207714 | [207714-maelstrom-legacy-the-tesla-mystery.json](./207714-maelstrom-legacy-the-tesla-mystery.json) |
 | Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membal | 287163 | [287163-membal.json](./287163-membal.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
+| Membrane | 74285 | [74285-membrane.json](./74285-membrane.json) |
 | Membrillo Hid My Socks | 402527 | [402527-membrillo-hid-my-socks.json](./402527-membrillo-hid-my-socks.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Meme Challenge: Dank Memes | 224000 | [224000-meme-challenge-dank-memes.json](./224000-meme-challenge-dank-memes.json) |
@@ -5290,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
 | Mercury Elopement Syndrome | 395237 | [395237-mercury-elopement-syndrome.json](./395237-mercury-elopement-syndrome.json) |
+| Mercury Fallen | 69385 | [69385-mercury-fallen.json](./69385-mercury-fallen.json) |
 | Mercury Hg | 20142 | [20142-mercury-hg.json](./20142-mercury-hg.json) |
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
@@ -5581,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
 | Metal Max Balls | 249310 | [249310-metal-max-balls.json](./249310-metal-max-balls.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
+| Metal Max Xeno | 74874 | [74874-metal-max-xeno.json](./74874-metal-max-xeno.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
@@ -11257,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Meltdown | 211148 | [211148-mutant-meltdown.json](./211148-mutant-meltdown.json) |
 | Mutant Monster Invasion | 292240 | [292240-mutant-monster-invasion.json](./292240-mutant-monster-invasion.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
+| Mutant Mudds Collection | 72897 | [72897-mutant-mudds-collection.json](./72897-mutant-mudds-collection.json) |
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
 | Mutant Mudds Super Challenge | 20100 | [20100-mutant-mudds-super-challenge.json](./20100-mutant-mudds-super-challenge.json) |
 | Mutant Night | 38562 | [38562-mutant-night.json](./38562-mutant-night.json) |
@@ -11707,6 +11712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
+| My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
 | My Joyful Aquarium | 330902 | [330902-my-joyful-aquarium.json](./330902-my-joyful-aquarium.json) |
@@ -11940,6 +11946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Soul Forever | 226177 | [226177-my-soul-forever.json](./226177-my-soul-forever.json) |
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
+| My Spanish Coach | 72912 | [72912-my-spanish-coach.json](./72912-my-spanish-coach.json) |
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
 | My Splitting Image | 355231 | [355231-my-splitting-image.json](./355231-my-splitting-image.json) |
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
