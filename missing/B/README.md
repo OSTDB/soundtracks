@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy | 328037 | [328037-battle-academy.json](./328037-battle-academy.json) |
+| Battle Academy 2: Eastern Front | 17528 | [17528-battle-academy-2-eastern-front.json](./17528-battle-academy-2-eastern-front.json) |
 | Battle Academy: Operation Market Garden | 167801 | [167801-battle-academy-operation-market-garden.json](./167801-battle-academy-operation-market-garden.json) |
 | Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mage : Card Caster | 127166 | [127166-battle-mage-card-caster.json](./127166-battle-mage-card-caster.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
+| Battle Mages: Sign of Darkness | 17577 | [17577-battle-mages-sign-of-darkness.json](./17577-battle-mages-sign-of-darkness.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
@@ -4756,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird & Beans | 308408 | [308408-bird-and-beans.json](./308408-bird-and-beans.json) |
 | Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
+| Bird Assassin | 17596 | [17596-bird-assassin.json](./17596-bird-assassin.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
 | Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
 | Bird BnB | 137971 | [137971-bird-bnb.json](./137971-bird-bnb.json) |
