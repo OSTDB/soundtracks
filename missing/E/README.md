@@ -4716,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeball-watching flowers bloom | 186019 | [186019-eyeball-watching-flowers-bloom.json](./186019-eyeball-watching-flowers-bloom.json) |
 | Eyeballs are your Enemies! | 166603 | [166603-eyeballs-are-your-enemies.json](./166603-eyeballs-are-your-enemies.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
+| Eyehold Blocks | 399902 | [399902-eyehold-blocks.json](./399902-eyehold-blocks.json) |
 | Eyeland 2 | 272469 | [272469-eyeland-2.json](./272469-eyeland-2.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
