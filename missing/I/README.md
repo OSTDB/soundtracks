@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
+| I Want to Be Human | 36433 | [36433-i-want-to-be-human.json](./36433-i-want-to-be-human.json) |
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
 | I Want to Drive That Van | 357315 | [357315-i-want-to-drive-that-van.json](./357315-i-want-to-drive-that-van.json) |
@@ -2047,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inescapable: No Rules, No Rescue | 244764 | [244764-inescapable-no-rules-no-rescue.json](./244764-inescapable-no-rules-no-rescue.json) |
 | Ineth | 217280 | [217280-ineth.json](./217280-ineth.json) |
 | iNetHack | 351126 | [351126-inethack.json](./351126-inethack.json) |
+| Inevitability | 36491 | [36491-inevitability.json](./36491-inevitability.json) |
 | Inevitable | 179067 | [179067-inevitable.json](./179067-inevitable.json) |
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
@@ -2947,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplay Collection 1 | 130816 | [130816-interplay-collection-1.json](./130816-interplay-collection-1.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay Klondike Solitaire | 308359 | [308359-interplay-klondike-solitaire.json](./308359-interplay-klondike-solitaire.json) |
+| Interplay Solitaire | 36423 | [36423-interplay-solitaire.json](./36423-interplay-solitaire.json) |
 | Interplay Sports Baseball 2000 | 44735 | [44735-interplay-sports-baseball-2000.json](./44735-interplay-sports-baseball-2000.json) |
 | Interplay Sports Baseball 2000 | 94418 | [94418-interplay-sports-baseball-2000.json](./94418-interplay-sports-baseball-2000.json) |
 | Interplay's 10 Year Anthology: Classic Collection | 93381 | [93381-interplays-10-year-anthology-classic-collection.json](./93381-interplays-10-year-anthology-classic-collection.json) |
