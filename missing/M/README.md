@@ -10210,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motamo | 361768 | [361768-motamo.json](./361768-motamo.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
 | MOTAS: Magnum Opus - The Alchemist's Shadow | 313281 | [313281-motas-magnum-opus-the-alchemists-shadow.json](./313281-motas-magnum-opus-the-alchemists-shadow.json) |
+| Mote: The Manuscript | 399293 | [399293-mote-the-manuscript.json](./399293-mote-the-manuscript.json) |
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
 | Motel Life Simulator | 219633 | [219633-motel-life-simulator.json](./219633-motel-life-simulator.json) |
