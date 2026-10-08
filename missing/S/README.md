@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Bundle: Till the last drop of ketchup | 227774 | [227774-sausage-bundle-till-the-last-drop-of-ketchup.json](./227774-sausage-bundle-till-the-last-drop-of-ketchup.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Dog Tends to Infinity | 168629 | [168629-sausage-dog-tends-to-infinity.json](./168629-sausage-dog-tends-to-infinity.json) |
+| Sausage Factory | 396748 | [396748-sausage-factory.json](./396748-sausage-factory.json) |
 | Sausage Fest | 137988 | [137988-sausage-fest.json](./137988-sausage-fest.json) |
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
 | Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
@@ -5657,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
+| Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
 | Shredsauce | 131358 | [131358-shredsauce.json](./131358-shredsauce.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
 | Shrek 2 | 3668 | [3668-shrek-2.json](./3668-shrek-2.json) |
@@ -6948,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizeable | 139605 | [139605-sizeable.json](./139605-sizeable.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
+| Sizzlefist | 396749 | [396749-sizzlefist.json](./396749-sizzlefist.json) |
 | SJ-19 Learns to Love! | 144112 | [144112-sj-19-learns-to-love.json](./144112-sj-19-learns-to-love.json) |
 | SJS1: Streets Of Fear | 310645 | [310645-sjs1-streets-of-fear.json](./310645-sjs1-streets-of-fear.json) |
 | SJS2: Outpost | 310646 | [310646-sjs2-outpost.json](./310646-sjs2-outpost.json) |
@@ -12226,6 +12229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
+| Special Harem Class | 396727 | [396727-special-harem-class.json](./396727-special-harem-class.json) |
 | Special Jinsei Game | 4161 | [4161-special-jinsei-game.json](./4161-special-jinsei-game.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
@@ -13823,6 +13827,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Slayer | 287745 | [287745-stack-slayer.json](./287745-stack-slayer.json) |
 | Stack Surge | 297003 | [297003-stack-surge.json](./297003-stack-surge.json) |
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
+| Stack the States | 396755 | [396755-stack-the-states.json](./396755-stack-the-states.json) |
+| Stack the States 2 | 396763 | [396763-stack-the-states-2.json](./396763-stack-the-states-2.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
@@ -17890,6 +17896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunshore City | 396737 | [396737-sunshore-city.json](./396737-sunshore-city.json) |
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
