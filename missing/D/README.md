@@ -5980,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
+| Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Lion King | 198801 | [198801-disneys-the-lion-king.json](./198801-disneys-the-lion-king.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
@@ -7960,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
+| Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
 | Downtown Nekketsu Monogatari EX | 191676 | [191676-downtown-nekketsu-monogatari-ex.json](./191676-downtown-nekketsu-monogatari-ex.json) |
 | Downtown Nekketsu Story | 191641 | [191641-downtown-nekketsu-story.json](./191641-downtown-nekketsu-story.json) |
