@@ -1033,7 +1033,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
 | PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
+| PapiRiver | 87116 | [87116-papiriver.json](./87116-papiriver.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
+| PapiWall | 87122 | [87122-papiwall.json](./87122-papiwall.json) |
 | Paplion | 306428 | [306428-paplion.json](./306428-paplion.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Papo City Builder | 299225 | [299225-papo-city-builder.json](./299225-papo-city-builder.json) |
@@ -1127,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
+| Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
@@ -4100,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Heroes | 56875 | [56875-pineapple-heroes.json](./56875-pineapple-heroes.json) |
 | Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
+| Pineapple Pen | 87169 | [87169-pineapple-pen.json](./87169-pineapple-pen.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
