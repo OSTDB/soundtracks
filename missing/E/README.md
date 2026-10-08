@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden: Project New Earth | 286228 | [286228-eden-project-new-earth.json](./286228-eden-project-new-earth.json) |
 | Eden: World Builder Simulator | 259626 | [259626-eden-world-builder-simulator.json](./259626-eden-world-builder-simulator.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
+| Eden's Eclipse | 405559 | [405559-edens-eclipse.json](./405559-edens-eclipse.json) |
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
 | Eden's Lair | 149497 | [149497-edens-lair.json](./149497-edens-lair.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
+| Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
 | Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
