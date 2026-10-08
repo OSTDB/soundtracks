@@ -5460,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shovel Game | 361337 | [361337-shovel-game.json](./361337-shovel-game.json) |
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
+| Shovel Knight Showdown | 27242 | [27242-shovel-knight-showdown.json](./27242-shovel-knight-showdown.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
 | Shovel Knight: King of Cards | 27241 | [27241-shovel-knight-king-of-cards.json](./27241-shovel-knight-king-of-cards.json) |
@@ -7331,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
+| Skykeepers | 28024 | [28024-skykeepers.json](./28024-skykeepers.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
@@ -11812,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanky's Quest | 144149 | [144149-spankys-quest.json](./144149-spankys-quest.json) |
 | Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
+| Sparc | 27430 | [27430-sparc.json](./27430-sparc.json) |
 | Spare | 186109 | [186109-spare.json](./186109-spare.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spare Heart | 340549 | [340549-spare-heart.json](./340549-spare-heart.json) |
