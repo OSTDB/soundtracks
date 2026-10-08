@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Over It | 304029 | [304029-heaven-over-it.json](./304029-heaven-over-it.json) |
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven Stroll | 262557 | [262557-heaven-stroll.json](./262557-heaven-stroll.json) |
+| Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
 | Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
@@ -4707,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Fan | 365797 | [365797-hit-the-fan.json](./365797-hit-the-fan.json) |
 | Hit the Hive | 96866 | [96866-hit-the-hive.json](./96866-hit-the-hive.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
+| Hit the Ice | 72923 | [72923-hit-the-ice.json](./72923-hit-the-ice.json) |
 | Hit the Ice: The Video Hockey League | 46208 | [46208-hit-the-ice-the-video-hockey-league.json](./46208-hit-the-ice-the-video-hockey-league.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
