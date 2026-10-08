@@ -8964,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
+| Project Motor Racing | 342092 | [342092-project-motor-racing.json](./342092-project-motor-racing.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project MSX | 133858 | [133858-project-msx.json](./133858-project-msx.json) |
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
