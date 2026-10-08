@@ -4737,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
 | Hitman World of Assassination: Deluxe Edition | 279246 | [279246-hitman-world-of-assassination-deluxe-edition.json](./279246-hitman-world-of-assassination-deluxe-edition.json) |
+| Hitman World of Assassination: Signature Edition | 338082 | [338082-hitman-world-of-assassination-signature-edition.json](./338082-hitman-world-of-assassination-signature-edition.json) |
 | Hitman World of Assassination: The Undying Pack | 287866 | [287866-hitman-world-of-assassination-the-undying-pack.json](./287866-hitman-world-of-assassination-the-undying-pack.json) |
 | Hitman World of Assassination: The Wizard Pack | 405098 | [405098-hitman-world-of-assassination-the-wizard-pack.json](./405098-hitman-world-of-assassination-the-wizard-pack.json) |
 | Hitman World of Assassination: VR Access | 317632 | [317632-hitman-world-of-assassination-vr-access.json](./317632-hitman-world-of-assassination-vr-access.json) |
