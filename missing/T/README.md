@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Beyond the Tomb: The Last Vigil | 329762 | [329762-tales-beyond-the-tomb-the-last-vigil.json](./329762-tales-beyond-the-tomb-the-last-vigil.json) |
 | Tales for the Long Nights | 358461 | [358461-tales-for-the-long-nights.json](./358461-tales-for-the-long-nights.json) |
 | Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
+| Tales from Candlekeep: Tomb of Annihilation | 55805 | [55805-tales-from-candlekeep-tomb-of-annihilation.json](./55805-tales-from-candlekeep-tomb-of-annihilation.json) |
 | Tales from Centropolis | 244239 | [244239-tales-from-centropolis.json](./244239-tales-from-centropolis.json) |
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
 | Tales from Floating Abyss | 377705 | [377705-tales-from-floating-abyss.json](./377705-tales-from-floating-abyss.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Blast | 48969 | [48969-tetris-blast.json](./48969-tetris-blast.json) |
+| Tetris Blitz | 63150 | [63150-tetris-blitz.json](./63150-tetris-blitz.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
 | Tetris Classic | 79545 | [79545-tetris-classic.json](./79545-tetris-classic.json) |
@@ -5929,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Dinosaur: Arlo & Spot's Wild Collection | 230412 | [230412-the-good-dinosaur-arlo-and-spots-wild-collection.json](./230412-the-good-dinosaur-arlo-and-spots-wild-collection.json) |
 | The Good Dinosaur: Dino Crossing | 110265 | [110265-the-good-dinosaur-dino-crossing.json](./110265-the-good-dinosaur-dino-crossing.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
+| The Good Life | 54675 | [54675-the-good-life.json](./54675-the-good-life.json) |
 | The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
 | The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
@@ -17467,6 +17470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraVRsal | 177409 | [177409-travrsal.json](./177409-travrsal.json) |
 | Trawl | 33420 | [33420-trawl.json](./33420-trawl.json) |
 | Trawler’s Empire | 339905 | [339905-trawler-s-empire.json](./339905-trawler-s-empire.json) |
+| Trax | 58986 | [58986-trax.json](./58986-trax.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
@@ -17842,6 +17846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triclinium | 189046 | [189046-triclinium.json](./189046-triclinium.json) |
 | Tricolor | 97514 | [97514-tricolor.json](./97514-tricolor.json) |
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
+| Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
@@ -18567,6 +18572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Repairs | 370258 | [370258-tube-repairs.json](./370258-tube-repairs.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
 | Tube Spin | 106001 | [106001-tube-spin.json](./106001-tube-spin.json) |
+| Tube Tycoon | 58612 | [58612-tube-tycoon.json](./58612-tube-tycoon.json) |
 | Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tube Way Army | 80201 | [80201-tube-way-army.json](./80201-tube-way-army.json) |
 | Tube-It | 69365 | [69365-tube-it.json](./69365-tube-it.json) |
