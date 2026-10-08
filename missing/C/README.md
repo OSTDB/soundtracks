@@ -538,6 +538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
 | Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
+| Camazotz no Ongaku | 394769 | [394769-camazotz-no-ongaku.json](./394769-camazotz-no-ongaku.json) |
+| Camazotz no Shuugou | 394764 | [394764-camazotz-no-shuugou.json](./394764-camazotz-no-shuugou.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
@@ -2574,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
+| Cats vs Trolls | 394763 | [394763-cats-vs-trolls.json](./394763-cats-vs-trolls.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
