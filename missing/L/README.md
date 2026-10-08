@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Idyllic Beauty | 348355 | [348355-land-of-idyllic-beauty.json](./348355-land-of-idyllic-beauty.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of Legends | 130833 | [130833-land-of-legends.json](./130833-land-of-legends.json) |
+| Land of Livia | 398028 | [398028-land-of-livia.json](./398028-land-of-livia.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
 | Land of Mushrooms: Forest of Nightmares - Background | 324469 | [324469-land-of-mushrooms-forest-of-nightmares-background.json](./324469-land-of-mushrooms-forest-of-nightmares-background.json) |
 | Land of Mushrooms: Kawaii Animals - Skin Set | 324429 | [324429-land-of-mushrooms-kawaii-animals-skin-set.json](./324429-land-of-mushrooms-kawaii-animals-skin-set.json) |
@@ -950,6 +951,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Shift | 334692 | [334692-late-night-shift.json](./334692-late-night-shift.json) |
 | Late Night Shop | 59783 | [59783-late-night-shop.json](./59783-late-night-shop.json) |
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
+| Late Night TV | 398040 | [398040-late-night-tv.json](./398040-late-night-tv.json) |
+| Late Night TV: RERUN | 398046 | [398046-late-night-tv-rerun.json](./398046-late-night-tv-rerun.json) |
 | Late Night Wanderer | 98476 | [98476-late-night-wanderer.json](./98476-late-night-wanderer.json) |
 | Late Order | 406926 | [406926-late-order.json](./406926-late-order.json) |
 | Late Photographer | 367995 | [367995-late-photographer.json](./367995-late-photographer.json) |
