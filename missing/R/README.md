@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
+| Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
@@ -3978,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
+| Rhythm Party | 20232 | [20232-rhythm-party.json](./20232-rhythm-party.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
