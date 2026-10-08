@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
+| Last Draft | 401161 | [401161-last-draft.json](./401161-last-draft.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
@@ -3819,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living with Temptation: American Sunset | 293877 | [293877-living-with-temptation-american-sunset.json](./293877-living-with-temptation-american-sunset.json) |
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | Living_City | 330830 | [330830-living-city.json](./330830-living-city.json) |
+| LivingBattle | 401175 | [401175-livingbattle.json](./401175-livingbattle.json) |
 | LivingForest | 306374 | [306374-livingforest.json](./306374-livingforest.json) |
 | Livingmare Cold Calls | 290559 | [290559-livingmare-cold-calls.json](./290559-livingmare-cold-calls.json) |
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
@@ -5493,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
 | LuckyJet | 233444 | [233444-luckyjet.json](./233444-luckyjet.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
+| Lucrezia | 401168 | [401168-lucrezia.json](./401168-lucrezia.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
