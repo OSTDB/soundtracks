@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacMan And The Caber Eater | 314495 | [314495-macman-and-the-caber-eater.json](./314495-macman-and-the-caber-eater.json) |
 | MacMan And The Great Escape | 314496 | [314496-macman-and-the-great-escape.json](./314496-macman-and-the-great-escape.json) |
 | MacNinja | 63661 | [63661-macninja.json](./63661-macninja.json) |
+| Macro Data Refinement Simulator | 388978 | [388978-macro-data-refinement-simulator.json](./388978-macro-data-refinement-simulator.json) |
 | Macro Data Refinement Simulator: Shapes | 333778 | [333778-macro-data-refinement-simulator-shapes.json](./333778-macro-data-refinement-simulator-shapes.json) |
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
 | Macro-TV | 278071 | [278071-macro-tv.json](./278071-macro-tv.json) |
@@ -8766,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
+| Momochan's Brain is So Crazy! | 388979 | [388979-momochans-brain-is-so-crazy.json](./388979-momochans-brain-is-so-crazy.json) |
 | Momodora III | 17436 | [17436-momodora-iii.json](./17436-momodora-iii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
@@ -10062,6 +10064,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11 + The Joker DLC | 136213 | [136213-mortal-kombat-11-the-joker-dlc.json](./136213-mortal-kombat-11-the-joker-dlc.json) |
 | Mortal Kombat 11: Aftermath + Kombat Pack Bundle | 136198 | [136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json](./136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json) |
 | Mortal Kombat 11: Aftermath Kollection | 133955 | [133955-mortal-kombat-11-aftermath-kollection.json](./133955-mortal-kombat-11-aftermath-kollection.json) |
+| Mortal Kombat 11: Avalanche Sub-Zero | 388872 | [388872-mortal-kombat-11-avalanche-sub-zero.json](./388872-mortal-kombat-11-avalanche-sub-zero.json) |
+| Mortal Kombat 11: Cassie Quinn | 388870 | [388870-mortal-kombat-11-cassie-quinn.json](./388870-mortal-kombat-11-cassie-quinn.json) |
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
@@ -10085,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: The Joker | 128009 | [128009-mortal-kombat-11-the-joker.json](./128009-mortal-kombat-11-the-joker.json) |
 | Mortal Kombat 11: Ultimate | 139446 | [139446-mortal-kombat-11-ultimate.json](./139446-mortal-kombat-11-ultimate.json) |
 | Mortal Kombat 11: Ultimate + Injustice 2 Legendary Edition Bundle | 164774 | [164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json](./164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json) |
+| Mortal Kombat 11: War Games Sonya Blade | 388871 | [388871-mortal-kombat-11-war-games-sonya-blade.json](./388871-mortal-kombat-11-war-games-sonya-blade.json) |
 | Mortal Kombat 3 | 1620 | [1620-mortal-kombat-3.json](./1620-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 217929 | [217929-mortal-kombat-3.json](./217929-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 223026 | [223026-mortal-kombat-3.json](./223026-mortal-kombat-3.json) |
@@ -10127,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
 | Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
+| Mortal Kombat: Freddy Krueger | 388985 | [388985-mortal-kombat-freddy-krueger.json](./388985-mortal-kombat-freddy-krueger.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
 | Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
