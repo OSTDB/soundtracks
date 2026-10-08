@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
+| Oops Airlines | 391222 | [391222-oops-airlines.json](./391222-oops-airlines.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Greyboxes! | 262548 | [262548-oops-all-greyboxes.json](./262548-oops-all-greyboxes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
