@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
 | Fantasy Journey | 245368 | [245368-fantasy-journey.json](./245368-fantasy-journey.json) |
 | Fantasy Journey | 413489 | [413489-fantasy-journey.json](./413489-fantasy-journey.json) |
+| Fantasy Kingdom Merchant Simulator | 395531 | [395531-fantasy-kingdom-merchant-simulator.json](./395531-fantasy-kingdom-merchant-simulator.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
 | Fantasy Kommander: Eukarion Wars | 264213 | [264213-fantasy-kommander-eukarion-wars.json](./264213-fantasy-kommander-eukarion-wars.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
+| Final Night At Hotel | 395493 | [395493-final-night-at-hotel.json](./395493-final-night-at-hotel.json) |
 | Final Ninja | 176821 | [176821-final-ninja.json](./176821-final-ninja.json) |
 | Final Ninja Zero | 176868 | [176868-final-ninja-zero.json](./176868-final-ninja-zero.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
@@ -3128,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Splash | 386851 | [386851-final-splash.json](./386851-final-splash.json) |
 | Final Star Force | 40986 | [40986-final-star-force.json](./40986-final-star-force.json) |
 | Final Stardust: Cosmic Nexus | 197262 | [197262-final-stardust-cosmic-nexus.json](./197262-final-stardust-cosmic-nexus.json) |
+| Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
@@ -5956,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
 | Fortnite Festival: Season 11 | 384110 | [384110-fortnite-festival-season-11.json](./384110-fortnite-festival-season-11.json) |
 | Fortnite Festival: Season 12 | 384111 | [384111-fortnite-festival-season-12.json](./384111-fortnite-festival-season-12.json) |
+| Fortnite Festival: Season 13 | 395472 | [395472-fortnite-festival-season-13.json](./395472-fortnite-festival-season-13.json) |
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
