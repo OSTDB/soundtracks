@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Ashes | 384742 | [384742-legacy-of-ashes.json](./384742-legacy-of-ashes.json) |
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
+| Legacy of Discord: Furious Wings | 78668 | [78668-legacy-of-discord-furious-wings.json](./78668-legacy-of-discord-furious-wings.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
