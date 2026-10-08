@@ -5313,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Wars: Card Battle | 108302 | [108302-meow-wars-card-battle.json](./108302-meow-wars-card-battle.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
 | Meow'n'Dash | 172008 | [172008-meowndash.json](./172008-meowndash.json) |
+| Meow's Meow | 400512 | [400512-meows-meow.json](./400512-meows-meow.json) |
 | Meowdoku | 409810 | [409810-meowdoku.json](./409810-meowdoku.json) |
 | Meowdoku | 409811 | [409811-meowdoku.json](./409811-meowdoku.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
@@ -5485,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid City | 310658 | [310658-mermaid-city.json](./310658-mermaid-city.json) |
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
+| Mermaid Life | 400533 | [400533-mermaid-life.json](./400533-mermaid-life.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
@@ -11862,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Gnome Wife Left Me | 278459 | [278459-my-gnome-wife-left-me.json](./278459-my-gnome-wife-left-me.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
+| My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
 | My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
