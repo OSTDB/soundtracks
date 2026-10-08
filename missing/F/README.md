@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
+| Fate Tectonics | 35079 | [35079-fate-tectonics.json](./35079-fate-tectonics.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
@@ -5290,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Mini Stars | 347322 | [347322-football-mini-stars.json](./347322-football-mini-stars.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
+| Football Mogul 2014 | 35185 | [35185-football-mogul-2014.json](./35185-football-mogul-2014.json) |
 | Football on the Magnavox Odyssey | 131477 | [131477-football-on-the-magnavox-odyssey.json](./131477-football-on-the-magnavox-odyssey.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
@@ -5860,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortifend | 406873 | [406873-fortifend.json](./406873-fortifend.json) |
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
 | Fortified Zone | 85637 | [85637-fortified-zone.json](./85637-fortified-zone.json) |
+| Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
 | Fortissimo FA Intl. Ver | 105750 | [105750-fortissimo-fa-intl-ver.json](./105750-fortissimo-fa-intl-ver.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
