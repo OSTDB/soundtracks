@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whipseey and the Lost Atlas | 117311 | [117311-whipseey-and-the-lost-atlas.json](./117311-whipseey-and-the-lost-atlas.json) |
+| Whirl Tour | 4233 | [4233-whirl-tour.json](./4233-whirl-tour.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlight: No Time To Trip | 287707 | [287707-whirlight-no-time-to-trip.json](./287707-whirlight-no-time-to-trip.json) |
 | Whirligig | 12931 | [12931-whirligig.json](./12931-whirligig.json) |
