@@ -7072,6 +7072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
+| Hunting World | 398039 | [398039-hunting-world.json](./398039-hunting-world.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
