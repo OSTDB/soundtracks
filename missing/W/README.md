@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
 | Way of the Cossack | 25550 | [25550-way-of-the-cossack.json](./25550-way-of-the-cossack.json) |
+| Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Hunter | 198388 | [198388-way-of-the-hunter.json](./198388-way-of-the-hunter.json) |
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 64 | 1539 | [1539-wipeout-64.json](./1539-wipeout-64.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
 | Wipeout Fusion | 1541 | [1541-wipeout-fusion.json](./1541-wipeout-fusion.json) |
+| Wipeout In the Zone | 20166 | [20166-wipeout-in-the-zone.json](./20166-wipeout-in-the-zone.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
