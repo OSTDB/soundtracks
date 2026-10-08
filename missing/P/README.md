@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palia | 151467 | [151467-palia.json](./151467-palia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
+| Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
 | Palindrome Syndrome: Escape Room | 139604 | [139604-palindrome-syndrome-escape-room.json](./139604-palindrome-syndrome-escape-room.json) |
 | Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
+| Paper Shakespeare 3: Girl Werewolf Hamlet Absolutely Solves the War of the Roses | 398033 | [398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json](./398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Shakespeare: Stick Julius Caesar (With a Dagger) - War on Xmas | 156179 | [156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json](./156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json) |
 | Paper Shakespeare: The Legend of Rainbow Hollow | 118256 | [118256-paper-shakespeare-the-legend-of-rainbow-hollow.json](./118256-paper-shakespeare-the-legend-of-rainbow-hollow.json) |
@@ -9507,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
+| Protocol: Zero-Day | 397998 | [397998-protocol-zero-day.json](./397998-protocol-zero-day.json) |
 | Protocol:Null | 301982 | [301982-protocol-null.json](./301982-protocol-null.json) |
 | Protocole: Hedera | 270101 | [270101-protocole-hedera.json](./270101-protocole-hedera.json) |
 | Protocore | 109674 | [109674-protocore.json](./109674-protocore.json) |
