@@ -6836,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
 | DokiDoki LoveUnholyc Class | 200012 | [200012-dokidoki-loveunholyc-class.json](./200012-dokidoki-loveunholyc-class.json) |
+| Dokimon Quest: II | 414852 | [414852-dokimon-quest-ii.json](./414852-dokimon-quest-ii.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
@@ -9558,11 +9559,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Forward | 130163 | [130163-drive-forward.json](./130163-drive-forward.json) |
 | Drive Girls | 28243 | [28243-drive-girls.json](./28243-drive-girls.json) |
 | Drive Horizon Story | 411141 | [411141-drive-horizon-story.json](./411141-drive-horizon-story.json) |
+| Drive in the Rain | 414818 | [414818-drive-in-the-rain.json](./414818-drive-in-the-rain.json) |
 | Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
+| Drive of the Dead | 414854 | [414854-drive-of-the-dead.json](./414854-drive-of-the-dead.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
 | Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
