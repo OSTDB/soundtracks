@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanotale: Typing Chronicles | 112378 | [112378-nanotale-typing-chronicles.json](./112378-nanotale-typing-chronicles.json) |
 | Nanotank | 93362 | [93362-nanotank.json](./93362-nanotank.json) |
 | NanoTech | 128409 | [128409-nanotech.json](./128409-nanotech.json) |
+| Nanotek Warrior | 20138 | [20138-nanotek-warrior.json](./20138-nanotek-warrior.json) |
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
 | Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
+| Nickelodeon Dance | 20240 | [20240-nickelodeon-dance.json](./20240-nickelodeon-dance.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
