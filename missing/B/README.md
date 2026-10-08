@@ -9086,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
 | Bring Me... | 317318 | [317318-bring-me.json](./317318-bring-me.json) |
 | Bring the Book Back | 338330 | [338330-bring-the-book-back.json](./338330-bring-the-book-back.json) |
+| Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
@@ -9765,6 +9766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
 | Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
+| Build the Great Temple: Dora Dora Land | 401912 | [401912-build-the-great-temple-dora-dora-land.json](./401912-build-the-great-temple-dora-dora-land.json) |
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
 | Build Your Palace | 134398 | [134398-build-your-palace.json](./134398-build-your-palace.json) |
