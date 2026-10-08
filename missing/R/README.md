@@ -4119,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Transfer: Legacy Edition | 180141 | [180141-riddle-transfer-legacy-edition.json](./180141-riddle-transfer-legacy-edition.json) |
 | Riddle Wired | 125775 | [125775-riddle-wired.json](./125775-riddle-wired.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
+| Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
@@ -6754,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
+| RPGolf | 98161 | [98161-rpgolf.json](./98161-rpgolf.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
 | RPS play | 144615 | [144615-rps-play.json](./144615-rps-play.json) |
@@ -7055,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Jojo Siwa | 95848 | [95848-run-jojo-siwa.json](./95848-run-jojo-siwa.json) |
 | Run Jump Climb Disarm | 344486 | [344486-run-jump-climb-disarm.json](./344486-run-jump-climb-disarm.json) |
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
+| Run Jump Fail | 97029 | [97029-run-jump-fail.json](./97029-run-jump-fail.json) |
 | Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
