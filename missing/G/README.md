@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
+| Gakuen Toshi Vara Noir | 3926 | [3926-gakuen-toshi-vara-noir.json](./3926-gakuen-toshi-vara-noir.json) |
 | Gakuen Utopia Manabi Straight! Kira-kira Happy Festa! | 61449 | [61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json](./61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitotsu Toma L'Arc: Tomarunner Vs L'Arc-en-Ciel | 44761 | [44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json](./44761-gekitotsu-toma-larc-tomarunner-vs-larc-en-ciel.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
+| Gekitou Pro Yakyuu | 3929 | [3929-gekitou-pro-yakyuu.json](./3929-gekitou-pro-yakyuu.json) |
 | Gekitou Senshi Nagerunder | 59202 | [59202-gekitou-senshi-nagerunder.json](./59202-gekitou-senshi-nagerunder.json) |
 | Gekka Ryouran Romance | 212736 | [212736-gekka-ryouran-romance.json](./212736-gekka-ryouran-romance.json) |
 | Gekkeiju Online | 84306 | [84306-gekkeiju-online.json](./84306-gekkeiju-online.json) |
@@ -1612,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generals.io | 56290 | [56290-generals-io.json](./56290-generals-io.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation Nova | 169802 | [169802-generation-nova.json](./169802-generation-nova.json) |
+| Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero | 65445 | [65445-generation-zero.json](./65445-generation-zero.json) |
@@ -3165,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
+| Go! Go! Hypergrind | 3933 | [3933-go-go-hypergrind.json](./3933-go-go-hypergrind.json) |
 | Go! Go! Kokopolo 3D | 56295 | [56295-go-go-kokopolo-3d.json](./56295-go-go-kokopolo-3d.json) |
 | Go! Go! Kokopolo Anniversary Collection | 203793 | [203793-go-go-kokopolo-anniversary-collection.json](./203793-go-go-kokopolo-anniversary-collection.json) |
 | Go! Go! Kokopolo: Harmonious Forest Revenge | 65247 | [65247-go-go-kokopolo-harmonious-forest-revenge.json](./65247-go-go-kokopolo-harmonious-forest-revenge.json) |
@@ -5510,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
 | Groovekeeper: Sort the Record Shop | 415165 | [415165-groovekeeper-sort-the-record-shop.json](./415165-groovekeeper-sort-the-record-shop.json) |
+| Grooverider: Slot Car Thunder | 3937 | [3937-grooverider-slot-car-thunder.json](./3937-grooverider-slot-car-thunder.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grooveyard | 321347 | [321347-grooveyard.json](./321347-grooveyard.json) |
 | Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
