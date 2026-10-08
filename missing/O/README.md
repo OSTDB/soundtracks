@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
+| Only Farms | 420533 | [420533-only-farms.json](./420533-only-farms.json) |
 | Only for Gamers | 333191 | [333191-only-for-gamers.json](./333191-only-for-gamers.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Furry 18+ | 234113 | [234113-only-furry-18.json](./234113-only-furry-18.json) |
