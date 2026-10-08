@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
+| 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats: Kitty House 2 | 320321 | [320321-100-hidden-cats-kitty-house-2.json](./320321-100-hidden-cats-kitty-house-2.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Needles | 188439 | [188439-1000-needles.json](./188439-1000-needles.json) |
 | 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
+| 1000 Questions to Be Chosen by the Cat Lord | 404260 | [404260-1000-questions-to-be-chosen-by-the-cat-lord.json](./404260-1000-questions-to-be-chosen-by-the-cat-lord.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000 Tiny Claws | 21837 | [21837-1000-tiny-claws.json](./21837-1000-tiny-claws.json) |
