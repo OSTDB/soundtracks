@@ -4918,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholic Night | 399688 | [399688-melancholic-night.json](./399688-melancholic-night.json) |
 | Melancholy | 278465 | [278465-melancholy.json](./278465-melancholy.json) |
 | Melancholy Date | 245949 | [245949-melancholy-date.json](./245949-melancholy-date.json) |
+| Melancholy Lake: Camocipher12 Shorts | 408711 | [408711-melancholy-lake-camocipher12-shorts.json](./408711-melancholy-lake-camocipher12-shorts.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melancholy Republic | 33666 | [33666-melancholy-republic.json](./33666-melancholy-republic.json) |
 | Melatonin | 157756 | [157756-melatonin.json](./157756-melatonin.json) |
@@ -5897,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime: Google Translate Edition | 255380 | [255380-metroid-prime-google-translate-edition.json](./255380-metroid-prime-google-translate-edition.json) |
 | Metroid Prime: Trial of Strength | 339260 | [339260-metroid-prime-trial-of-strength.json](./339260-metroid-prime-trial-of-strength.json) |
 | Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
+| Metroid Ravenous | 408719 | [408719-metroid-ravenous.json](./408719-metroid-ravenous.json) |
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
@@ -12013,6 +12015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
+| My Merry May with be | 408848 | [408848-my-merry-may-with-be.json](./408848-my-merry-may-with-be.json) |
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
 | My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
