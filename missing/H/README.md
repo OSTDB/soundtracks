@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Racer | 101020 | [101020-halloween-racer.json](./101020-halloween-racer.json) |
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
+| Halloween Secrets: The Blood Vow | 416583 | [416583-halloween-secrets-the-blood-vow.json](./416583-halloween-secrets-the-blood-vow.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
 | Halloween Sewers | 393136 | [393136-halloween-sewers.json](./393136-halloween-sewers.json) |
 | Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
