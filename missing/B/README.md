@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BatMUD | 126128 | [126128-batmud.json](./126128-batmud.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
+| Batomon Showdown | 398645 | [398645-batomon-showdown.json](./398645-batomon-showdown.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
@@ -6511,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
 | Bloodmoon Rush | 333152 | [333152-bloodmoon-rush.json](./333152-bloodmoon-rush.json) |
+| Bloodmoon Survivors | 398629 | [398629-bloodmoon-survivors.json](./398629-bloodmoon-survivors.json) |
 | Bloodmoored | 399147 | [399147-bloodmoored.json](./399147-bloodmoored.json) |
 | BloodNet | 2214 | [2214-bloodnet.json](./2214-bloodnet.json) |
 | BlooDooMoon Survivor | 265181 | [265181-bloodoomoon-survivor.json](./265181-bloodoomoon-survivor.json) |
@@ -8186,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
+| Box Runners: Deluxe! | 398676 | [398676-box-runners-deluxe.json](./398676-box-runners-deluxe.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box Rush 2: Ice Worlds | 200569 | [200569-box-rush-2-ice-worlds.json](./200569-box-rush-2-ice-worlds.json) |
 | Box the Beat VR | 160213 | [160213-box-the-beat-vr.json](./160213-box-the-beat-vr.json) |
@@ -10488,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly X | 373209 | [373209-butterfly-x.json](./373209-butterfly-x.json) |
 | Butterfly: Inchworm Animation II | 57375 | [57375-butterfly-inchworm-animation-ii.json](./57375-butterfly-inchworm-animation-ii.json) |
 | Butterfly: Rin | 119728 | [119728-butterfly-rin.json](./119728-butterfly-rin.json) |
+| Butterfly's Big Knife Fight | 398640 | [398640-butterflys-big-knife-fight.json](./398640-butterflys-big-knife-fight.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
 | Button Button Up! | 122868 | [122868-button-button-up.json](./122868-button-button-up.json) |
@@ -10561,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Myself | 390185 | [390185-by-myself.json](./390185-by-myself.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
+| By the King's Will | 398694 | [398694-by-the-kings-will.json](./398694-by-the-kings-will.json) |
 | By the Numbers | 413892 | [413892-by-the-numbers.json](./413892-by-the-numbers.json) |
 | By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
