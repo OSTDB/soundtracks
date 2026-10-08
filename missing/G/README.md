@@ -6415,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship X | 52240 | [52240-gunship-x.json](./52240-gunship-x.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
 | Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
+| Gunshot Bride | 394799 | [394799-gunshot-bride.json](./394799-gunshot-bride.json) |
 | GunShy | 229376 | [229376-gunshy.json](./229376-gunshy.json) |
 | Gunsim | 327208 | [327208-gunsim.json](./327208-gunsim.json) |
 | Gunslinger | 131389 | [131389-gunslinger.json](./131389-gunslinger.json) |
