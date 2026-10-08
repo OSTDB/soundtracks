@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
+| Alien Splatter Redux | 50534 | [50534-alien-splatter-redux.json](./50534-alien-splatter-redux.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien street battle | 129675 | [129675-alien-street-battle.json](./129675-alien-street-battle.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
 | America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
 | America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
+| America's Next Top Model | 50613 | [50613-americas-next-top-model.json](./50613-americas-next-top-model.json) |
 | America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
 | America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
@@ -7613,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 273048 | [273048-arkanoid.json](./273048-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
+| Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
 | Arkanoid R 2000 | 43807 | [43807-arkanoid-r-2000.json](./43807-arkanoid-r-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
 | Arkanoid vs. Space Invaders | 56018 | [56018-arkanoid-vs-space-invaders.json](./56018-arkanoid-vs-space-invaders.json) |
