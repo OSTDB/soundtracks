@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 279221 | [279221-r-type.json](./279221-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type Delta | 28397 | [28397-r-type-delta.json](./28397-r-type-delta.json) |
+| R-Type Dimensions III | 381109 | [381109-r-type-dimensions-iii.json](./381109-r-type-dimensions-iii.json) |
 | R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
@@ -1439,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Rayman Ultimate | 193323 | [193323-rayman-ultimate.json](./193323-rayman-ultimate.json) |
+| Rayman: 30th Anniversary Edition | 389429 | [389429-rayman-30th-anniversary-edition.json](./389429-rayman-30th-anniversary-edition.json) |
 | Rayman: The Dreamer's Boundary | 217782 | [217782-rayman-the-dreamers-boundary.json](./217782-rayman-the-dreamers-boundary.json) |
 | Raymundo Aventuras: The Definitive Edition | 290108 | [290108-raymundo-aventuras-the-definitive-edition.json](./290108-raymundo-aventuras-the-definitive-edition.json) |
 | Rayne the Rogue | 256768 | [256768-rayne-the-rogue.json](./256768-rayne-the-rogue.json) |
@@ -5591,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X3: New Year 2021 | 282077 | [282077-rockman-x3-new-year-2021.json](./282077-rockman-x3-new-year-2021.json) |
 | Rockman X3: New Year 2022 | 282078 | [282078-rockman-x3-new-year-2022.json](./282078-rockman-x3-new-year-2022.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
+| Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
