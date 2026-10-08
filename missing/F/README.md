@@ -7607,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
 | Funfair Party Games | 85163 | [85163-funfair-party-games.json](./85163-funfair-party-games.json) |
+| Funfair Ride Simulator 3 | 32190 | [32190-funfair-ride-simulator-3.json](./32190-funfair-ride-simulator-3.json) |
 | Funfair Ride Simulator 3: Ride Pack 2 | 162273 | [162273-funfair-ride-simulator-3-ride-pack-2.json](./162273-funfair-ride-simulator-3-ride-pack-2.json) |
 | Funfair Ride Simulator 3: Ride Pack 3 | 162272 | [162272-funfair-ride-simulator-3-ride-pack-3.json](./162272-funfair-ride-simulator-3-ride-pack-3.json) |
 | Funfair Ride Simulator 3: Ride Pack 4 | 162271 | [162271-funfair-ride-simulator-3-ride-pack-4.json](./162271-funfair-ride-simulator-3-ride-pack-4.json) |
