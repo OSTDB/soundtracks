@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
+| Naenia | 398633 | [398633-naenia.json](./398633-naenia.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
