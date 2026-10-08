@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
+| A-10 VR | 33665 | [33665-a-10-vr.json](./33665-a-10-vr.json) |
 | A-2481 | 263580 | [263580-a-2481.json](./263580-a-2481.json) |
 | A-7 | 98271 | [98271-a-7.json](./98271-a-7.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
@@ -7347,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
 | Arctic Adventures | 42780 | [42780-arctic-adventures.json](./42780-arctic-adventures.json) |
 | Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
+| Arctic alive | 33647 | [33647-arctic-alive.json](./33647-arctic-alive.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
@@ -7447,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena | 366956 | [366956-arena.json](./366956-arena.json) |
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
 | Arena 3000 | 15601 | [15601-arena-3000.json](./15601-arena-3000.json) |
+| Arena 3D | 33631 | [33631-arena-3d.json](./33631-arena-3d.json) |
 | Arena 54: Visual Novel Action Adventure | 163237 | [163237-arena-54-visual-novel-action-adventure.json](./163237-arena-54-visual-novel-action-adventure.json) |
 | Arena Allstars | 125172 | [125172-arena-allstars.json](./125172-arena-allstars.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
@@ -9671,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora's Awakening | 403798 | [403798-auroras-awakening.json](./403798-auroras-awakening.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
+| AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
