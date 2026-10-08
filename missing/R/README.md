@@ -4902,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Racers | 66406 | [66406-road-racers.json](./66406-road-racers.json) |
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
+| Road Rage | 55244 | [55244-road-rage.json](./55244-road-rage.json) |
 | Road Rage 3 | 43536 | [43536-road-rage-3.json](./43536-road-rage-3.json) |
 | Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
@@ -6064,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Red Ball Rush Up Sky | 104451 | [104451-rolling-red-ball-rush-up-sky.json](./104451-rolling-red-ball-rush-up-sky.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
+| Rolling Sky | 57247 | [57247-rolling-sky.json](./57247-rolling-sky.json) |
 | Rolling Sky 2 | 146801 | [146801-rolling-sky-2.json](./146801-rolling-sky-2.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolling Stairs Master-Falling | 223922 | [223922-rolling-stairs-master-falling.json](./223922-rolling-stairs-master-falling.json) |
@@ -7368,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
 | Russian Soul Simulator | 285562 | [285562-russian-soul-simulator.json](./285562-russian-soul-simulator.json) |
 | Russian Square Plus! Edition | 256375 | [256375-russian-square-plus-edition.json](./256375-russian-square-plus-edition.json) |
+| Russian Subway Dogs | 56564 | [56564-russian-subway-dogs.json](./56564-russian-subway-dogs.json) |
 | Russian SuperHero Dead Ivan | 31340 | [31340-russian-superhero-dead-ivan.json](./31340-russian-superhero-dead-ivan.json) |
 | Russian Survivors | 344991 | [344991-russian-survivors.json](./344991-russian-survivors.json) |
 | Russian Train Trip | 189054 | [189054-russian-train-trip.json](./189054-russian-train-trip.json) |
