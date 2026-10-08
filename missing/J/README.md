@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
 | JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
 | JCB Pioneer: Mars | 55194 | [55194-jcb-pioneer-mars.json](./55194-jcb-pioneer-mars.json) |
+| JD Ware Advance | 417567 | [417567-jd-ware-advance.json](./417567-jd-ware-advance.json) |
 | JDG & le RPG | 354052 | [354052-jdg-and-le-rpg.json](./354052-jdg-and-le-rpg.json) |
 | JDM Pixel Street Car Racing | 340526 | [340526-jdm-pixel-street-car-racing.json](./340526-jdm-pixel-street-car-racing.json) |
 | JDM Racing | 147854 | [147854-jdm-racing.json](./147854-jdm-racing.json) |
