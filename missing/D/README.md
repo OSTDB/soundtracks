@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
+| Dance Dance Revolution Konamix | 23794 | [23794-dance-dance-revolution-konamix.json](./23794-dance-dance-revolution-konamix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
 | Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
+| Diamond Mind Baseball 9 | 23802 | [23802-diamond-mind-baseball-9.json](./23802-diamond-mind-baseball-9.json) |
 | Diamond no Kuni no Alice: Wonderful Mirror World | 213845 | [213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json](./213845-diamond-no-kuni-no-alice-wonderful-mirror-world.json) |
 | Diamond no Kuni no Alice: Wonderful Wonder World | 64165 | [64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json](./64165-diamond-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Diamond Painting | 365872 | [365872-diamond-painting.json](./365872-diamond-painting.json) |
@@ -7809,6 +7811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
+| Double Dragon Trilogy | 23805 | [23805-double-dragon-trilogy.json](./23805-double-dragon-trilogy.json) |
 | Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
 | Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
