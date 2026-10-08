@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Assault | 58475 | [58475-galaga-assault.json](./58475-galaga-assault.json) |
 | Galaga Legions | 21347 | [21347-galaga-legions.json](./21347-galaga-legions.json) |
 | Galaga Legions DX | 10762 | [10762-galaga-legions-dx.json](./10762-galaga-legions-dx.json) |
+| Galaga Remix | 21872 | [21872-galaga-remix.json](./21872-galaga-remix.json) |
 | Galaga Wars | 58309 | [58309-galaga-wars.json](./58309-galaga-wars.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
@@ -6468,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyromite | 8578 | [8578-gyromite.json](./8578-gyromite.json) |
 | Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
+| Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
 | Gyruss | 12308 | [12308-gyruss.json](./12308-gyruss.json) |
 | Gyruss | 281033 | [281033-gyruss.json](./281033-gyruss.json) |
 | Gyruss | 281034 | [281034-gyruss.json](./281034-gyruss.json) |
