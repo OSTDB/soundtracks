@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
 | A Link to the Past: ReLink | 219086 | [219086-a-link-to-the-past-relink.json](./219086-a-link-to-the-past-relink.json) |
+| A Little Age | 404181 | [404181-a-little-age.json](./404181-a-little-age.json) |
 | A Little Bus Stop | 176254 | [176254-a-little-bus-stop.json](./176254-a-little-bus-stop.json) |
 | A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
+| A Lost Man | 403628 | [403628-a-lost-man.json](./403628-a-lost-man.json) |
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
@@ -5961,6 +5963,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
 | Anomalith | 402530 | [402530-anomalith.json](./402530-anomalith.json) |
+| Anomalith: Anomaly Zone Countermeasures DLC Set | 404267 | [404267-anomalith-anomaly-zone-countermeasures-dlc-set.json](./404267-anomalith-anomaly-zone-countermeasures-dlc-set.json) |
+| Anomalith: Digital Deluxe Edition | 404273 | [404273-anomalith-digital-deluxe-edition.json](./404273-anomalith-digital-deluxe-edition.json) |
 | Anomalogenos | 404998 | [404998-anomalogenos.json](./404998-anomalogenos.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
@@ -8939,6 +8943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
 | Astral Fantasy | 350662 | [350662-astral-fantasy.json](./350662-astral-fantasy.json) |
 | Astral Flux | 193273 | [193273-astral-flux.json](./193273-astral-flux.json) |
+| Astral Frontier Online | 403629 | [403629-astral-frontier-online.json](./403629-astral-frontier-online.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Guardians | 303188 | [303188-astral-guardians.json](./303188-astral-guardians.json) |
 | Astral Heroes | 32858 | [32858-astral-heroes.json](./32858-astral-heroes.json) |
