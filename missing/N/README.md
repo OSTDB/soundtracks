@@ -3138,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Wars | 118880 | [118880-ninja-wars.json](./118880-ninja-wars.json) |
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
+| Ninja Way | 74635 | [74635-ninja-way.json](./74635-ninja-way.json) |
 | Ninja World | 268104 | [268104-ninja-world.json](./268104-ninja-world.json) |
 | Ninja World 2 | 268105 | [268105-ninja-world-2.json](./268105-ninja-world-2.json) |
 | Ninja World 3 | 268106 | [268106-ninja-world-3.json](./268106-ninja-world-3.json) |
