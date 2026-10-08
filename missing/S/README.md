@@ -3536,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Guardians | 58313 | [58313-seven-guardians.json](./58313-seven-guardians.json) |
 | Seven Hearts | 351108 | [351108-seven-hearts.json](./351108-seven-hearts.json) |
 | Seven Horns From Tilt | 143973 | [143973-seven-horns-from-tilt.json](./143973-seven-horns-from-tilt.json) |
+| Seven Hotties, All My Husbands | 417577 | [417577-seven-hotties-all-my-husbands.json](./417577-seven-hotties-all-my-husbands.json) |
 | Seven Idle Dwarf | 107094 | [107094-seven-idle-dwarf.json](./107094-seven-idle-dwarf.json) |
 | Seven Kingdoms | 859 | [859-seven-kingdoms.json](./859-seven-kingdoms.json) |
 | Seven Kingdoms II: The Fryhtan Wars | 860 | [860-seven-kingdoms-ii-the-fryhtan-wars.json](./860-seven-kingdoms-ii-the-fryhtan-wars.json) |
@@ -3627,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
 | Sex Coach: Hot Yoga | 254038 | [254038-sex-coach-hot-yoga.json](./254038-sex-coach-hot-yoga.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
+| Sex Cruise VR | 417406 | [417406-sex-cruise-vr.json](./417406-sex-cruise-vr.json) |
 | Sex Diary: Double Trouble Teacher | 286532 | [286532-sex-diary-double-trouble-teacher.json](./286532-sex-diary-double-trouble-teacher.json) |
 | Sex Diary: Futanari Jail | 286533 | [286533-sex-diary-futanari-jail.json](./286533-sex-diary-futanari-jail.json) |
 | Sex Diary: Futanari Massage | 368094 | [368094-sex-diary-futanari-massage.json](./368094-sex-diary-futanari-massage.json) |
@@ -3674,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
+| Sex Poker | 417405 | [417405-sex-poker.json](./417405-sex-poker.json) |
 | Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
 | Sex Prison VR | 368090 | [368090-sex-prison-vr.json](./368090-sex-prison-vr.json) |
 | Sex Restaurant: Kuronekotei | 108938 | [108938-sex-restaurant-kuronekotei.json](./108938-sex-restaurant-kuronekotei.json) |
@@ -3729,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
 | Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
+| Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sexstellar | 379531 | [379531-sexstellar.json](./379531-sexstellar.json) |
 | Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
@@ -3883,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
 | Shadow Fighter | 5524 | [5524-shadow-fighter.json](./5524-shadow-fighter.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
+| Shadow Fold | 417456 | [417456-shadow-fold.json](./417456-shadow-fold.json) |
 | Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
 | Shadow Force: Razor Unit | 23461 | [23461-shadow-force-razor-unit.json](./23461-shadow-force-razor-unit.json) |
 | Shadow Gambit: The Cursed Crew | 233307 | [233307-shadow-gambit-the-cursed-crew.json](./233307-shadow-gambit-the-cursed-crew.json) |
@@ -4463,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Point | 343988 | [343988-shatter-point.json](./343988-shatter-point.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
 | Shatter Sky | 148676 | [148676-shatter-sky.json](./148676-shatter-sky.json) |
+| Shatter: Physics Breaker | 417453 | [417453-shatter-physics-breaker.json](./417453-shatter-physics-breaker.json) |
 | Shatterbound | 291053 | [291053-shatterbound.json](./291053-shatterbound.json) |
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
@@ -8318,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmashBox | 25049 | [25049-smashbox.json](./25049-smashbox.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
 | Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
+| SmashCore | 417343 | [417343-smashcore.json](./417343-smashcore.json) |
 | Smashed and Boiled | 322110 | [322110-smashed-and-boiled.json](./322110-smashed-and-boiled.json) |
 | Smashell | 70628 | [70628-smashell.json](./70628-smashell.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
@@ -12760,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinnortality | 51471 | [51471-spinnortality.json](./51471-spinnortality.json) |
 | Spinny Dungeon | 312126 | [312126-spinny-dungeon.json](./312126-spinny-dungeon.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
+| Spinny-Roly 64 | 417550 | [417550-spinny-roly-64.json](./417550-spinny-roly-64.json) |
 | Spinochet | 372030 | [372030-spinochet.json](./372030-spinochet.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
@@ -13504,6 +13512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
+| Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
 | Square Deal | 72021 | [72021-square-deal.json](./72021-square-deal.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
