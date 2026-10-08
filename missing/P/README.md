@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
+| Pako 2 | 29028 | [29028-pako-2.json](./29028-pako-2.json) |
 | Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
 | Pako Caravan | 147830 | [147830-pako-caravan.json](./147830-pako-caravan.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
@@ -5014,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza City | 225591 | [225591-pizza-city.json](./225591-pizza-city.json) |
 | Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
 | Pizza Connection 2 | 27590 | [27590-pizza-connection-2.json](./27590-pizza-connection-2.json) |
+| Pizza Connection 3 | 29142 | [29142-pizza-connection-3.json](./29142-pizza-connection-3.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
@@ -5270,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
+| Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
@@ -5638,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Fuck Me My Sexy Neighbor | 385321 | [385321-please-fuck-me-my-sexy-neighbor.json](./385321-please-fuck-me-my-sexy-neighbor.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
+| Please Knock on My Door | 29064 | [29064-please-knock-on-my-door.json](./29064-please-knock-on-my-door.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
 | Please Leave Me Alone, I Need to Poop | 291187 | [291187-please-leave-me-alone-i-need-to-poop.json](./291187-please-leave-me-alone-i-need-to-poop.json) |
