@@ -5559,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
 | The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
+| The Fifth Day | 17599 | [17599-the-fifth-day.json](./17599-the-fifth-day.json) |
 | The Fifth Expedition | 33260 | [33260-the-fifth-expedition.json](./33260-the-fifth-expedition.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
@@ -13523,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
 | Time Mysteries: Inheritance - Remastered | 35726 | [35726-time-mysteries-inheritance-remastered.json](./35726-time-mysteries-inheritance-remastered.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
+| Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
@@ -14178,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Eat A God | 326143 | [326143-to-eat-a-god.json](./326143-to-eat-a-god.json) |
+| To End All Wars | 17608 | [17608-to-end-all-wars.json](./17608-to-end-all-wars.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
 | To Eternity | 219639 | [219639-to-eternity.json](./219639-to-eternity.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
@@ -18184,6 +18187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
 | Tristia: Legacy | 231522 | [231522-tristia-legacy.json](./231522-tristia-legacy.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
+| Tristoy | 17443 | [17443-tristoy.json](./17443-tristoy.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Triton's Travels | 246525 | [246525-tritons-travels.json](./246525-tritons-travels.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
