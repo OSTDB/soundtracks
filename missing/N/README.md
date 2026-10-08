@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
 | Nada Asatarou / Kojima Takeo no Jissen Mahjong Kyoushitsu | 228566 | [228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json](./228566-nada-asatarou-kojima-takeo-no-jissen-mahjong-kyoushitsu.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
+| Nadia Was Here | 28491 | [28491-nadia-was-here.json](./28491-nadia-was-here.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
 | Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
 | Neighborhorde | 33452 | [33452-neighborhorde.json](./33452-neighborhorde.json) |
+| Neighboring Islands | 28423 | [28423-neighboring-islands.json](./28423-neighboring-islands.json) |
 | Neighbors | 312128 | [312128-neighbors.json](./312128-neighbors.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
