@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
+| Goken | 36608 | [36608-goken.json](./36608-goken.json) |
 | Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
 | Gokudou Simulation Teppoudama Jingi | 376131 | [376131-gokudou-simulation-teppoudama-jingi.json](./376131-gokudou-simulation-teppoudama-jingi.json) |
 | Gokujou Parodius: Kako no Eikou wo Motomete | 186142 | [186142-gokujou-parodius-kako-no-eikou-wo-motomete.json](./186142-gokujou-parodius-kako-no-eikou-wo-motomete.json) |
@@ -5560,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
+| Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero | 249174 | [249174-ground-zero.json](./249174-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
