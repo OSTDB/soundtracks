@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: The Ultimate Fighting | 64213 | [64213-ultraman-the-ultimate-fighting.json](./64213-ultraman-the-ultimate-fighting.json) |
 | Ultraman: Ultraman Chinou UP Dai Sakusen | 63941 | [63941-ultraman-ultraman-chinou-up-dai-sakusen.json](./63941-ultraman-ultraman-chinou-up-dai-sakusen.json) |
 | Ultramarine | 270843 | [270843-ultramarine.json](./270843-ultramarine.json) |
+| Ultramarine | 393561 | [393561-ultramarine.json](./393561-ultramarine.json) |
 | Ultramarine: The Retro Game | 400450 | [400450-ultramarine-the-retro-game.json](./400450-ultramarine-the-retro-game.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Ultranium 4 - Breakout Shooter | 89527 | [89527-ultranium-4-breakout-shooter.json](./89527-ultranium-4-breakout-shooter.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unannounced Survival Game | 125919 | [125919-unannounced-survival-game.json](./125919-unannounced-survival-game.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
+| Unauthorised | 393570 | [393570-unauthorised.json](./393570-unauthorised.json) |
 | Unavowed | 27867 | [27867-unavowed.json](./27867-unavowed.json) |
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
