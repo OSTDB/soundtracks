@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
+| Mahjong Pretty Girls Battle | 28584 | [28584-mahjong-pretty-girls-battle.json](./28584-mahjong-pretty-girls-battle.json) |
 | Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
 | Mahjong Quest Collection | 27850 | [27850-mahjong-quest-collection.json](./27850-mahjong-quest-collection.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
+| Manipulated | 28109 | [28109-manipulated.json](./28109-manipulated.json) |
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
 | Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
@@ -1971,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
+| Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
@@ -4656,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
+| Megalomaniac | 28280 | [28280-megalomaniac.json](./28280-megalomaniac.json) |
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
@@ -6970,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
 | Mindcircus | 275644 | [275644-mindcircus.json](./275644-mindcircus.json) |
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
+| MindCubes: Inside the Twisted Gravity Puzzle | 28276 | [28276-mindcubes-inside-the-twisted-gravity-puzzle.json](./28276-mindcubes-inside-the-twisted-gravity-puzzle.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
 | MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
@@ -7866,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
 | Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
+| Missile Cards | 28157 | [28157-missile-cards.json](./28157-missile-cards.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
 | Missile Collector Man | 246927 | [246927-missile-collector-man.json](./246927-missile-collector-man.json) |
 | Missile Comes Back to Me | 361693 | [361693-missile-comes-back-to-me.json](./361693-missile-comes-back-to-me.json) |
@@ -8229,6 +8235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
+| MMM: Murder Most Misfortunate | 28425 | [28425-mmm-murder-most-misfortunate.json](./28425-mmm-murder-most-misfortunate.json) |
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
