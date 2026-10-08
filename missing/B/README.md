@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
+| Backpack Alchemist | 397995 | [397995-backpack-alchemist.json](./397995-backpack-alchemist.json) |
 | Backpack Boy | 328103 | [328103-backpack-boy.json](./328103-backpack-boy.json) |
 | Backpack Brawl | 309589 | [309589-backpack-brawl.json](./309589-backpack-brawl.json) |
 | Backpack Dungeon | 407407 | [407407-backpack-dungeon.json](./407407-backpack-dungeon.json) |
@@ -7720,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Next-Level Edition | 140897 | [140897-borderlands-3-next-level-edition.json](./140897-borderlands-3-next-level-edition.json) |
 | Borderlands 3: Season Pass 2 | 293719 | [293719-borderlands-3-season-pass-2.json](./293719-borderlands-3-season-pass-2.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
+| Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
