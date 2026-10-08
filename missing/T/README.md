@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team-Z | 167566 | [167566-team-z.json](./167566-team-z.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
+| Team17 Indie Collection | 82411 | [82411-team17-indie-collection.json](./82411-team17-indie-collection.json) |
 | Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
+| The BunnyLord Pro Hater Pack | 82412 | [82412-the-bunnylord-pro-hater-pack.json](./82412-the-bunnylord-pro-hater-pack.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
 | The Bunnyman | 263442 | [263442-the-bunnyman.json](./263442-the-bunnyman.json) |
 | The Bureau of Fantastical & Arcane Affairs | 347886 | [347886-the-bureau-of-fantastical-and-arcane-affairs.json](./347886-the-bureau-of-fantastical-and-arcane-affairs.json) |
@@ -6656,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
+| The Jackbox Party Trilogy | 82410 | [82410-the-jackbox-party-trilogy.json](./82410-the-jackbox-party-trilogy.json) |
 | The Jackbox Party Trilogy 3.0 | 251098 | [251098-the-jackbox-party-trilogy-3-0.json](./251098-the-jackbox-party-trilogy-3-0.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
@@ -8879,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
+| The Pure Bundle | 82409 | [82409-the-pure-bundle.json](./82409-the-pure-bundle.json) |
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
@@ -10235,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
+| The Telltale Undead Survival Bundle | 82408 | [82408-the-telltale-undead-survival-bundle.json](./82408-the-telltale-undead-survival-bundle.json) |
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
 | The Tempest | 217775 | [217775-the-tempest.json](./217775-the-tempest.json) |
@@ -15757,6 +15762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2015 | 60198 | [60198-tour-de-france-2015.json](./60198-tour-de-france-2015.json) |
+| Tour de France 2016 | 82417 | [82417-tour-de-france-2016.json](./82417-tour-de-france-2016.json) |
 | Tour de France 2017 | 36954 | [36954-tour-de-france-2017.json](./36954-tour-de-france-2017.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
