@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement | 28221 | [28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json](./28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json) |
 | Hamlet: The Text Adventure | 146192 | [146192-hamlet-the-text-adventure.json](./146192-hamlet-the-text-adventure.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
+| Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
 | Hammer 2 Reloaded | 165593 | [165593-hammer-2-reloaded.json](./165593-hammer-2-reloaded.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
 | Harold Rabbit: Finder of Lost Things | 333141 | [333141-harold-rabbit-finder-of-lost-things.json](./333141-harold-rabbit-finder-of-lost-things.json) |
+| Harold's Bad Day | 396709 | [396709-harolds-bad-day.json](./396709-harolds-bad-day.json) |
 | Harold's Mission | 330388 | [330388-harolds-mission.json](./330388-harolds-mission.json) |
 | Harold's Walk | 306569 | [306569-harolds-walk.json](./306569-harolds-walk.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
@@ -2879,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
+| Hentai Furry Sheepy | 396715 | [396715-hentai-furry-sheepy.json](./396715-hentai-furry-sheepy.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Gallery: Hidden Charms | 380700 | [380700-hentai-gallery-hidden-charms.json](./380700-hentai-gallery-hidden-charms.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
