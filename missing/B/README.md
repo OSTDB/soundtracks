@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
 | Biohazard: The Mercenaries 3D & Revelations | 140931 | [140931-biohazard-the-mercenaries-3d-and-revelations.json](./140931-biohazard-the-mercenaries-3d-and-revelations.json) |
 | Biok | 175223 | [175223-biok.json](./175223-biok.json) |
+| BioKept | 391679 | [391679-biokept.json](./391679-biokept.json) |
 | Biolab Wars | 121066 | [121066-biolab-wars.json](./121066-biolab-wars.json) |
 | Bioleech | 366419 | [366419-bioleech.json](./366419-bioleech.json) |
 | Biologica! | 68775 | [68775-biologica.json](./68775-biologica.json) |
