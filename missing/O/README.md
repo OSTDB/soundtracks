@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
 | Only Lead Can Stop Them | 197115 | [197115-only-lead-can-stop-them.json](./197115-only-lead-can-stop-them.json) |
+| Only Mining: Cozy Digging Game | 392859 | [392859-only-mining-cozy-digging-game.json](./392859-only-mining-cozy-digging-game.json) |
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
