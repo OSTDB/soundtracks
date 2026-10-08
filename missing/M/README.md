@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Heroes | 68119 | [68119-martial-heroes.json](./68119-martial-heroes.json) |
 | Martial Law | 168099 | [168099-martial-law.json](./168099-martial-law.json) |
 | Martial Law: Our Spring | 293863 | [293863-martial-law-our-spring.json](./293863-martial-law-our-spring.json) |
+| Martial Tricks | 394133 | [394133-martial-tricks.json](./394133-martial-tricks.json) |
 | Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
+| Mass Mayhem 2099 A.D. | 394147 | [394147-mass-mayhem-2099-a-d.json](./394147-mass-mayhem-2099-a-d.json) |
 | Mass Mayhem 4 | 337228 | [337228-mass-mayhem-4.json](./337228-mass-mayhem-4.json) |
 | Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
 | Mass Vector | 34260 | [34260-mass-vector.json](./34260-mass-vector.json) |
@@ -9734,6 +9736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit | 401862 | [401862-moonlit.json](./401862-moonlit.json) |
 | Moonlit Blessed | 383549 | [383549-moonlit-blessed.json](./383549-moonlit-blessed.json) |
 | Moonlit District | 257572 | [257572-moonlit-district.json](./257572-moonlit-district.json) |
+| Moonlit Dreams | 394110 | [394110-moonlit-dreams.json](./394110-moonlit-dreams.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
@@ -11866,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friendly Neighborhood | 172023 | [172023-my-friendly-neighborhood.json](./172023-my-friendly-neighborhood.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Friends | 90916 | [90916-my-friends.json](./90916-my-friends.json) |
+| My Friends the Monster Trainers | 394097 | [394097-my-friends-the-monster-trainers.json](./394097-my-friends-the-monster-trainers.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
