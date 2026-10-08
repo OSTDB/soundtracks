@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
+| Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farland Story: Daichi no Kizuna | 70455 | [70455-farland-story-daichi-no-kizuna.json](./70455-farland-story-daichi-no-kizuna.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Film Morbid | 310115 | [310115-film-morbid.json](./310115-film-morbid.json) |
 | Film Studio Manager | 241298 | [241298-film-studio-manager.json](./241298-film-studio-manager.json) |
+| Filo: Something Filamentous | 420574 | [420574-filo-something-filamentous.json](./420574-filo-something-filamentous.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filter World | 277512 | [277512-filter-world.json](./277512-filter-world.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
@@ -5082,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
+| Folded Fables: Tidy Up The Dragon Hoard | 420591 | [420591-folded-fables-tidy-up-the-dragon-hoard.json](./420591-folded-fables-tidy-up-the-dragon-hoard.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
 | Folder Folder Folder | 414493 | [414493-folder-folder-folder.json](./414493-folder-folder-folder.json) |
 | Folders on the Run | 398497 | [398497-folders-on-the-run.json](./398497-folders-on-the-run.json) |
@@ -8032,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3: Minus3’s Lab | 316181 | [316181-fuu3-minus3-s-lab.json](./316181-fuu3-minus3-s-lab.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
+| Fuu3's Fuun Journey: Redux | 420558 | [420558-fuu3s-fuun-journey-redux.json](./420558-fuu3s-fuun-journey-redux.json) |
 | FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step | 194589 | [194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json](./194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json) |
 | Fuuin | 123388 | [123388-fuuin.json](./123388-fuuin.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
