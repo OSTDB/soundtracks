@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
+| Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
+| PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
 | PDI Check | 119520 | [119520-pdi-check.json](./119520-pdi-check.json) |
 | PDP 10 Timesharing Basketball | 388374 | [388374-pdp-10-timesharing-basketball.json](./388374-pdp-10-timesharing-basketball.json) |
 | Pea Pod Power | 264668 | [264668-pea-pod-power.json](./264668-pea-pod-power.json) |
@@ -3627,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier Pressure | 141532 | [141532-pier-pressure.json](./141532-pier-pressure.json) |
+| Pier Solar and the Great Architects | 4512 | [4512-pier-solar-and-the-great-architects.json](./4512-pier-solar-and-the-great-architects.json) |
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
 | Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
@@ -4008,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
 | Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
+| Pinball Hall of Fame: The Gottlieb Collection | 4067 | [4067-pinball-hall-of-fame-the-gottlieb-collection.json](./4067-pinball-hall-of-fame-the-gottlieb-collection.json) |
 | Pinball Hall of Fame: The Williams Collection | 5099 | [5099-pinball-hall-of-fame-the-williams-collection.json](./5099-pinball-hall-of-fame-the-williams-collection.json) |
 | Pinball Hazard | 74336 | [74336-pinball-hazard.json](./74336-pinball-hazard.json) |
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
@@ -6998,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Nation FX - Lite | 15692 | [15692-pool-nation-fx-lite.json](./15692-pool-nation-fx-lite.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
+| Pool Paradise | 4073 | [4073-pool-paradise.json](./4073-pool-paradise.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
