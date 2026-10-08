@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
+| Party Pop Bubblyz | 387722 | [387722-party-pop-bubblyz.json](./387722-party-pop-bubblyz.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
 | Party Print 'N Play | 79607 | [79607-party-print-n-play.json](./79607-party-print-n-play.json) |
 | Party Project | 273981 | [273981-party-project.json](./273981-party-project.json) |
@@ -3105,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
 | Phantom | 47147 | [47147-phantom.json](./47147-phantom.json) |
+| Phantom 3D | 387492 | [387492-phantom-3d.json](./387492-phantom-3d.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
