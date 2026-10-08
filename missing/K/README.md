@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Backflip 5 | 95599 | [95599-killer-backflip-5.json](./95599-killer-backflip-5.json) |
 | Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
+| Killer Chambers | 116824 | [116824-killer-chambers.json](./116824-killer-chambers.json) |
 | Killer Depths | 362392 | [362392-killer-depths.json](./362392-killer-depths.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
 | Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Warrior | 128319 | [128319-kingdom-warrior.json](./128319-kingdom-warrior.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
+| Kingdom Wars 2: Definitive Edition | 116181 | [116181-kingdom-wars-2-definitive-edition.json](./116181-kingdom-wars-2-definitive-edition.json) |
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
