@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
 | Operation Noogy | 265314 | [265314-operation-noogy.json](./265314-operation-noogy.json) |
 | Operation Nova | 394793 | [394793-operation-nova.json](./394793-operation-nova.json) |
+| Operation Obliteration 2 | 394113 | [394113-operation-obliteration-2.json](./394113-operation-obliteration-2.json) |
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
@@ -3466,6 +3467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oylinder | 223393 | [223393-oylinder.json](./223393-oylinder.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz | 376127 | [376127-oz.json](./376127-oz.json) |
+| Oz Dàluàndòu: Mèngxiǎng de Chuánshuō | 394121 | [394121-oz-daluandou-mengxiang-de-chuanshuo.json](./394121-oz-daluandou-mengxiang-de-chuanshuo.json) |
+| Oz Dàluàndòu: NS | 394124 | [394124-oz-daluandou-ns.json](./394124-oz-daluandou-ns.json) |
 | Oz no Mahoutsukai: Another World - RungRung | 63656 | [63656-oz-no-mahoutsukai-another-world-rungrung.json](./63656-oz-no-mahoutsukai-another-world-rungrung.json) |
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
