@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
+| Edifice | 406145 | [406145-edifice.json](./406145-edifice.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Ys II MSX2 | 328525 | [328525-eggconsole-ys-ii-msx2.json](./328525-eggconsole-ys-ii-msx2.json) |
 | Eggconsole Ys PC-8801mkIISR | 286210 | [286210-eggconsole-ys-pc-8801mkiisr.json](./286210-eggconsole-ys-pc-8801mkiisr.json) |
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
+| Eggconsole Zodiac PC-8801 | 406070 | [406070-eggconsole-zodiac-pc-8801.json](./406070-eggconsole-zodiac-pc-8801.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
 | Eggerland | 41259 | [41259-eggerland.json](./41259-eggerland.json) |
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
@@ -2376,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Chronosphere | 177862 | [177862-enter-the-chronosphere.json](./177862-enter-the-chronosphere.json) |
 | Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
 | Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
+| Enter the Depths | 406137 | [406137-enter-the-depths.json](./406137-enter-the-depths.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
@@ -2450,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon Fleet | 96885 | [96885-eon-fleet.json](./96885-eon-fleet.json) |
 | Eon of the Green | 233577 | [233577-eon-of-the-green.json](./233577-eon-of-the-green.json) |
 | Eon of the Green: Area Crescent | 279138 | [279138-eon-of-the-green-area-crescent.json](./279138-eon-of-the-green-area-crescent.json) |
+| Eon Survivor | 406147 | [406147-eon-survivor.json](./406147-eon-survivor.json) |
 | Eon Trooper | 253962 | [253962-eon-trooper.json](./253962-eon-trooper.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
@@ -3036,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
 | Escape game R00m11 | 395217 | [395217-escape-game-r00m11.json](./395217-escape-game-r00m11.json) |
 | Escape game R00m12 | 399635 | [399635-escape-game-r00m12.json](./399635-escape-game-r00m12.json) |
+| Escape game R00m14 | 406067 | [406067-escape-game-r00m14.json](./406067-escape-game-r00m14.json) |
 | Escape game R00m15 | 410381 | [410381-escape-game-r00m15.json](./410381-escape-game-r00m15.json) |
 | Escape game R00m17 | 420691 | [420691-escape-game-r00m17.json](./420691-escape-game-r00m17.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
