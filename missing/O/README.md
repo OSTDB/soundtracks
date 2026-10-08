@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
 | Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
+| Osteya | 34427 | [34427-osteya.json](./34427-osteya.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
