@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
 | LipTrip: My Boss Is My Heat Suppressant?! | 397215 | [397215-liptrip-my-boss-is-my-heat-suppressant.json](./397215-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
+| Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
