@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
+| Vacuum Pilot 2 | 420557 | [420557-vacuum-pilot-2.json](./420557-vacuum-pilot-2.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
 | Vacuumania | 94334 | [94334-vacuumania.json](./94334-vacuumania.json) |
 | Vade Retro Satana | 366360 | [366360-vade-retro-satana.json](./366360-vade-retro-satana.json) |
