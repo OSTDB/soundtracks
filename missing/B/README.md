@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Island Princess | 3309 | [3309-barbie-as-the-island-princess.json](./3309-barbie-as-the-island-princess.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
+| Barbie Dance Party | 421385 | [421385-barbie-dance-party.json](./421385-barbie-dance-party.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
 | Barbie Epic Road Trip | 228355 | [228355-barbie-epic-road-trip.json](./228355-barbie-epic-road-trip.json) |
 | Barbie Fashion Closet | 103905 | [103905-barbie-fashion-closet.json](./103905-barbie-fashion-closet.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black & White: Creature Isle | 1922 | [1922-black-and-white-creature-isle.json](./1922-black-and-white-creature-isle.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
+| Black Abyss Zero | 421362 | [421362-black-abyss-zero.json](./421362-black-abyss-zero.json) |
 | Black Ace | 191067 | [191067-black-ace.json](./191067-black-ace.json) |
 | Black Armor: Battle For Survivors | 326173 | [326173-black-armor-battle-for-survivors.json](./326173-black-armor-battle-for-survivors.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
@@ -8053,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
+| Bowling Strike | 421386 | [421386-bowling-strike.json](./421386-bowling-strike.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
@@ -8843,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker: Space Outlaw | 140555 | [140555-brick-breaker-space-outlaw.json](./140555-brick-breaker-space-outlaw.json) |
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
+| Brick Buster | 421387 | [421387-brick-buster.json](./421387-brick-buster.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick City Solitaire | 95674 | [95674-brick-city-solitaire.json](./95674-brick-city-solitaire.json) |
 | Brick Cracker 3D | 191029 | [191029-brick-cracker-3d.json](./191029-brick-cracker-3d.json) |
