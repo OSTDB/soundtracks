@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrest: Special Edition | 51792 | [51792-unrest-special-edition.json](./51792-unrest-special-edition.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
+| Unrivaled | 421359 | [421359-unrivaled.json](./421359-unrivaled.json) |
 | Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
 | Unrooted | 204366 | [204366-unrooted.json](./204366-unrooted.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
