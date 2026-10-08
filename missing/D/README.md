@@ -3949,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Schatz im Silbersee | 72045 | [72045-der-schatz-im-silbersee.json](./72045-der-schatz-im-silbersee.json) |
 | Der Spiel Tipp | 91607 | [91607-der-spiel-tipp.json](./91607-der-spiel-tipp.json) |
+| Der unsägliche und vermeidbare Tod des Matthias Claudius | 393522 | [393522-der-unsagliche-und-vermeidbare-tod-des-matthias-claudius.json](./393522-der-unsagliche-und-vermeidbare-tod-des-matthias-claudius.json) |
 | Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
@@ -7737,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
 | Doppleganger | 13606 | [13606-doppleganger.json](./13606-doppleganger.json) |
+| Doppleganger | 393558 | [393558-doppleganger.json](./393558-doppleganger.json) |
 | Doppyun Donpisha | 230224 | [230224-doppyun-donpisha.json](./230224-doppyun-donpisha.json) |
 | Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
@@ -8072,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
 | Down Pit | 412348 | [412348-down-pit.json](./412348-down-pit.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
+| Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
