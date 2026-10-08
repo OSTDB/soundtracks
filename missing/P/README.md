@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
+| Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
@@ -6552,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Fantasy World Edition | 146175 | [146175-poker-pretty-girls-battle-fantasy-world-edition.json](./146175-poker-pretty-girls-battle-fantasy-world-edition.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
+| Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
