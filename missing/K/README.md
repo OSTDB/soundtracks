@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
+| Keep Cutting | 406146 | [406146-keep-cutting.json](./406146-keep-cutting.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
 | Keep Digging | 364702 | [364702-keep-digging.json](./364702-keep-digging.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Friends | 133190 | [133190-kill-your-friends.json](./133190-kill-your-friends.json) |
+| Kill Your Friends | 407298 | [407298-kill-your-friends.json](./407298-kill-your-friends.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
@@ -2959,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokojokoa | 294398 | [294398-kokojokoa.json](./294398-kokojokoa.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
+| Kokoro Appliqué | 407284 | [407284-kokoro-applique.json](./407284-kokoro-applique.json) |
 | Kokoro Clover Part2 | 142151 | [142151-kokoro-clover-part2.json](./142151-kokoro-clover-part2.json) |
 | Kokoro Clover Season 1 | 204950 | [204950-kokoro-clover-season-1.json](./204950-kokoro-clover-season-1.json) |
 | Kokoro Connect: Yochi Random | 112296 | [112296-kokoro-connect-yochi-random.json](./112296-kokoro-connect-yochi-random.json) |
