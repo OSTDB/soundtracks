@@ -6517,6 +6517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino 2008 | 72924 | [72924-hoyle-casino-2008.json](./72924-hoyle-casino-2008.json) |
 | Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
 | Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
+| Hoyle Casino Empire | 23765 | [23765-hoyle-casino-empire.json](./23765-hoyle-casino-empire.json) |
 | Hoyle Casino Games 2011 | 210068 | [210068-hoyle-casino-games-2011.json](./210068-hoyle-casino-games-2011.json) |
 | Hoyle Casino Games 2013 | 46725 | [46725-hoyle-casino-games-2013.json](./46725-hoyle-casino-games-2013.json) |
 | Hoyle Classic Board Game Collection 1 | 90884 | [90884-hoyle-classic-board-game-collection-1.json](./90884-hoyle-classic-board-game-collection-1.json) |
@@ -6531,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Jewels: Swap & Drop It | 210071 | [210071-hoyle-jewels-swap-and-drop-it.json](./210071-hoyle-jewels-swap-and-drop-it.json) |
 | Hoyle Kid's Card Games | 99000 | [99000-hoyle-kids-card-games.json](./99000-hoyle-kids-card-games.json) |
 | Hoyle Kids Games | 210073 | [210073-hoyle-kids-games.json](./210073-hoyle-kids-games.json) |
+| Hoyle Majestic Chess | 23749 | [23749-hoyle-majestic-chess.json](./23749-hoyle-majestic-chess.json) |
 | Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Book of Games: Volume 2 | 73331 | [73331-hoyle-official-book-of-games-volume-2.json](./73331-hoyle-official-book-of-games-volume-2.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
