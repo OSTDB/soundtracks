@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
+| Life of Pixel | 10514 | [10514-life-of-pixel.json](./10514-life-of-pixel.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
 | Life of Tabayama | 344557 | [344557-life-of-tabayama.json](./344557-life-of-tabayama.json) |
@@ -4475,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
 | Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
+| Lords of Football | 10519 | [10519-lords-of-football.json](./10519-lords-of-football.json) |
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
