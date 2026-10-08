@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
 | Quiet as a Stone | 104941 | [104941-quiet-as-a-stone.json](./104941-quiet-as-a-stone.json) |
+| Quiet Bruise | 406665 | [406665-quiet-bruise.json](./406665-quiet-bruise.json) |
 | Quiet Christmas | 58236 | [58236-quiet-christmas.json](./58236-quiet-christmas.json) |
 | Quiet Dan | 379335 | [379335-quiet-dan.json](./379335-quiet-dan.json) |
 | Quiet Express: Cabin 909 | 366348 | [366348-quiet-express-cabin-909.json](./366348-quiet-express-cabin-909.json) |
