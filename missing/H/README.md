@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
+| Hired Ops | 35145 | [35145-hired-ops.json](./35145-hired-ops.json) |
 | Hired Stars | 373169 | [373169-hired-stars.json](./373169-hired-stars.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
