@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
 | Personal Space Station | 183417 | [183417-personal-space-station.json](./183417-personal-space-station.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
+| Personal Trainer: Math | 78996 | [78996-personal-trainer-math.json](./78996-personal-trainer-math.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
 | Personality Dating Sim | 157118 | [157118-personality-dating-sim.json](./157118-personality-dating-sim.json) |
