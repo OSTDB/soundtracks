@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
+| VIP Casino Blackjack | 21823 | [21823-vip-casino-blackjack.json](./21823-vip-casino-blackjack.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
 | VIP Shuttle | 116240 | [116240-vip-shuttle.json](./116240-vip-shuttle.json) |
