@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
 | Hallowed Legends: Ship of Bones | 376641 | [376641-hallowed-legends-ship-of-bones.json](./376641-hallowed-legends-ship-of-bones.json) |
 | Hallowed Legends: Templar - Collector's Edition | 376584 | [376584-hallowed-legends-templar-collectors-edition.json](./376584-hallowed-legends-templar-collectors-edition.json) |
+| Halloweeeen! | 407922 | [407922-halloweeeen.json](./407922-halloweeeen.json) |
 | Halloween | 40790 | [40790-halloween.json](./40790-halloween.json) |
 | Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
 | Halloween 1 | 300824 | [300824-halloween-1.json](./300824-halloween-1.json) |
@@ -7151,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydraulic Press Pocket | 400391 | [400391-hydraulic-press-pocket.json](./400391-hydraulic-press-pocket.json) |
 | Hydraulic Slam | 337773 | [337773-hydraulic-slam.json](./337773-hydraulic-slam.json) |
 | Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
+| Hydro Chicks | 407987 | [407987-hydro-chicks.json](./407987-hydro-chicks.json) |
 | Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
