@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Old Earth | 35054 | [35054-last-days-of-old-earth.json](./35054-last-days-of-old-earth.json) |
+| Last Days of Spring 2 | 30682 | [30682-last-days-of-spring-2.json](./30682-last-days-of-spring-2.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
 | Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
@@ -4448,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
 | Lord BullFrog | 149941 | [149941-lord-bullfrog.json](./149941-lord-bullfrog.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
+| Lord Darydikilkil | 30677 | [30677-lord-darydikilkil.json](./30677-lord-darydikilkil.json) |
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
 | Lord Legend: Match Brawl | 196585 | [196585-lord-legend-match-brawl.json](./196585-lord-legend-match-brawl.json) |
 | Lord Liberty Quest II: Pure White | 416022 | [416022-lord-liberty-quest-ii-pure-white.json](./416022-lord-liberty-quest-ii-pure-white.json) |
@@ -5702,6 +5704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
+| Lunar Stone: Origin of Blood | 30578 | [30578-lunar-stone-origin-of-blood.json](./30578-lunar-stone-origin-of-blood.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
