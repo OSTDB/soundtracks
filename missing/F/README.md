@@ -4442,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Risk | 304624 | [304624-flight-risk.json](./304624-flight-risk.json) |
+| Flight Sim World | 28453 | [28453-flight-sim-world.json](./28453-flight-sim-world.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
