@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
+| Tank Warfare: Tunisia 1943 | 28214 | [28214-tank-warfare-tunisia-1943.json](./28214-tank-warfare-tunisia-1943.json) |
 | Tank Wars | 18946 | [18946-tank-wars.json](./18946-tank-wars.json) |
 | Tank Wars | 352345 | [352345-tank-wars.json](./352345-tank-wars.json) |
 | Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
@@ -4688,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Legacy | 287312 | [287312-the-cursed-legacy.json](./287312-the-cursed-legacy.json) |
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
+| The Cursed Revolver | 28237 | [28237-the-cursed-revolver.json](./28237-the-cursed-revolver.json) |
 | The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Tower | 83617 | [83617-the-cursed-tower.json](./83617-the-cursed-tower.json) |
@@ -5144,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge of Allegoria | 219553 | [219553-the-edge-of-allegoria.json](./219553-the-edge-of-allegoria.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
+| The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Editor | 239783 | [239783-the-editor.json](./239783-the-editor.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
@@ -14024,6 +14027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
+| Titan Slayer | 28324 | [28324-titan-slayer.json](./28324-titan-slayer.json) |
 | Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
 | Titan Souls: Digital Special Edition | 53807 | [53807-titan-souls-digital-special-edition.json](./53807-titan-souls-digital-special-edition.json) |
 | Titan Station | 217319 | [217319-titan-station.json](./217319-titan-station.json) |
@@ -16007,6 +16011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
 | Tower! Simulator 3: WSSS Airport | 396513 | [396513-tower-simulator-3-wsss-airport.json](./396513-tower-simulator-3-wsss-airport.json) |
 | Tower! Simulator 3: ZSPD Airport | 396516 | [396516-tower-simulator-3-zspd-airport.json](./396516-tower-simulator-3-zspd-airport.json) |
+| Tower!2011:SE | 28279 | [28279-tower-2011-se.json](./28279-tower-2011-se.json) |
 | Tower!2011:SE - Chicago KORD Airport | 168194 | [168194-tower-2011-se-chicago-kord-airport.json](./168194-tower-2011-se-chicago-kord-airport.json) |
 | Tower!2011:SE - Frankfurt EDDF Airport | 168191 | [168191-tower-2011-se-frankfurt-eddf-airport.json](./168191-tower-2011-se-frankfurt-eddf-airport.json) |
 | Tower!2011:SE - Honolulu PHNL Airport | 168198 | [168198-tower-2011-se-honolulu-phnl-airport.json](./168198-tower-2011-se-honolulu-phnl-airport.json) |
@@ -16298,6 +16303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
+| Trackless | 28322 | [28322-trackless.json](./28322-trackless.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
 | TrackMania | 18728 | [18728-trackmania.json](./18728-trackmania.json) |
 | TrackMania 2: Canyon | 508 | [508-trackmania-2-canyon.json](./508-trackmania-2-canyon.json) |
