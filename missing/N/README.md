@@ -2803,12 +2803,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
 | Nightron Wars | 161729 | [161729-nightron-wars.json](./161729-nightron-wars.json) |
 | Nights at the Clown Maze | 111611 | [111611-nights-at-the-clown-maze.json](./111611-nights-at-the-clown-maze.json) |
+| Nights at the Convenience Store | 408014 | [408014-nights-at-the-convenience-store.json](./408014-nights-at-the-convenience-store.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
 | Nights of Azure: Limited Edition | 51533 | [51533-nights-of-azure-limited-edition.json](./51533-nights-of-azure-limited-edition.json) |
+| Nights of the Sleeping God | 408011 | [408011-nights-of-the-sleeping-god.json](./408011-nights-of-the-sleeping-god.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
@@ -4037,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Northstar Courier | 357367 | [357367-northstar-courier.json](./357367-northstar-courier.json) |
+| Northward | 408026 | [408026-northward.json](./408026-northward.json) |
 | Northwest Fur Trader | 387691 | [387691-northwest-fur-trader.json](./387691-northwest-fur-trader.json) |
 | Northwind | 190958 | [190958-northwind.json](./190958-northwind.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
