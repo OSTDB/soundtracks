@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will It Ever End? | 143572 | [143572-will-it-ever-end.json](./143572-will-it-ever-end.json) |
 | Will Not Let Me Go | 138139 | [138139-will-not-let-me-go.json](./138139-will-not-let-me-go.json) |
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
+| Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
 | Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will to Live Online | 74849 | [74849-will-to-live-online.json](./74849-will-to-live-online.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor | 3157 | [3157-world-of-warcraft-warlords-of-draenor.json](./3157-world-of-warcraft-warlords-of-draenor.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
+| World of Warcraft: Wrath of the Lich King - Collector's Edition | 23788 | [23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json](./23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
 | World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Doh | 110291 | [110291-world-war-doh.json](./110291-world-war-doh.json) |
 | World War Heroes | 82962 | [82962-world-war-heroes.json](./82962-world-war-heroes.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
+| World War I: The Great War | 23745 | [23745-world-war-i-the-great-war.json](./23745-world-war-i-the-great-war.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
 | World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
@@ -5506,6 +5509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K26 | 387782 | [387782-wwe-2k26.json](./387782-wwe-2k26.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
+| WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
