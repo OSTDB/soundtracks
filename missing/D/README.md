@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
 | Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
+| Deiland: Pocket Planet | 145240 | [145240-deiland-pocket-planet.json](./145240-deiland-pocket-planet.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Ate My Neighbors! | 138676 | [138676-demons-ate-my-neighbors.json](./138676-demons-ate-my-neighbors.json) |
 | Demons Gate | 131425 | [131425-demons-gate.json](./131425-demons-gate.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
+| Demons of Asteborg | 142485 | [142485-demons-of-asteborg.json](./142485-demons-of-asteborg.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Dex | 229219 | [229219-demons-of-dex.json](./229219-demons-of-dex.json) |
 | Demons of Mercy | 66435 | [66435-demons-of-mercy.json](./66435-demons-of-mercy.json) |
@@ -6472,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
+| Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
@@ -7390,6 +7393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
+| Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 64 | 224522 | [224522-doom-64.json](./224522-doom-64.json) |
 | Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
