@@ -7012,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Break 3D Billiards 8 Ball, 9 Ball, Snooker | 100147 | [100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json](./100147-pool-break-3d-billiards-8-ball-9-ball-snooker.json) |
 | Pool Break Pro 3D Billiards | 96292 | [96292-pool-break-pro-3d-billiards.json](./96292-pool-break-pro-3d-billiards.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
+| Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
 | Pool Fever Cue to Glory | 378964 | [378964-pool-fever-cue-to-glory.json](./378964-pool-fever-cue-to-glory.json) |
 | Pool Fever: Prime Edition | 332513 | [332513-pool-fever-prime-edition.json](./332513-pool-fever-prime-edition.json) |
