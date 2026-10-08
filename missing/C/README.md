@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
+| Card Eater | 406051 | [406051-card-eater.json](./406051-card-eater.json) |
 | Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
 | Card Fable Quest | 334188 | [334188-card-fable-quest.json](./334188-card-fable-quest.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
 | Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
 | Chico Bento: Um Dia na Roça | 216294 | [216294-chico-bento-um-dia-na-roca.json](./216294-chico-bento-um-dia-na-roca.json) |
+| Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
 | ChicScape | 152777 | [152777-chicscape.json](./152777-chicscape.json) |
 | Chief Bubble Officer | 413163 | [413163-chief-bubble-officer.json](./413163-chief-bubble-officer.json) |
@@ -4380,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
+| Choose Your Paul! | 406139 | [406139-choose-your-paul.json](./406139-choose-your-paul.json) |
 | Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
 | Choose Your Weapon | 234719 | [234719-choose-your-weapon.json](./234719-choose-your-weapon.json) |
 | Choose Your Weapon 2 | 234720 | [234720-choose-your-weapon-2.json](./234720-choose-your-weapon-2.json) |
@@ -4803,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
+| Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
 | Chu's Dynasty | 66164 | [66164-chus-dynasty.json](./66164-chus-dynasty.json) |
 | Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
@@ -9497,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer: Christmas Edition | 210554 | [210554-crazy-frog-racer-christmas-edition.json](./210554-crazy-frog-racer-christmas-edition.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
 | Crazy Frog's Dancing | 224454 | [224454-crazy-frogs-dancing.json](./224454-crazy-frogs-dancing.json) |
+| Crazy Fruit Shooter | 406142 | [406142-crazy-fruit-shooter.json](./406142-crazy-fruit-shooter.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
