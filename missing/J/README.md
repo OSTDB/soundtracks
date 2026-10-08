@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
+| Job Burnout | 414153 | [414153-job-burnout.json](./414153-job-burnout.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
 | Job Interview | 295508 | [295508-job-interview.json](./295508-job-interview.json) |
@@ -2336,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Day at the Office | 134507 | [134507-just-another-day-at-the-office.json](./134507-just-another-day-at-the-office.json) |
 | Just Another Escape | 383567 | [383567-just-another-escape.json](./383567-just-another-escape.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
+| Just Another Guild Day | 414156 | [414156-just-another-guild-day.json](./414156-just-another-guild-day.json) |
 | Just Another Jump and Run | 195554 | [195554-just-another-jump-and-run.json](./195554-just-another-jump-and-run.json) |
 | Just Another Memory | 120914 | [120914-just-another-memory.json](./120914-just-another-memory.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
