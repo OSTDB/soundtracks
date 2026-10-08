@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Aria: Classic | 298244 | [298244-legends-of-aria-classic.json](./298244-legends-of-aria-classic.json) |
 | Legends of Aria: Master Pack | 170802 | [170802-legends-of-aria-master-pack.json](./170802-legends-of-aria-master-pack.json) |
+| Legends of Arthengard | 388174 | [388174-legends-of-arthengard.json](./388174-legends-of-arthengard.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
