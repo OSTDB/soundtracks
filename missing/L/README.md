@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Ascendance | 389453 | [389453-legacy-of-kain-ascendance.json](./389453-legacy-of-kain-ascendance.json) |
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
+| Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
 | Legacy of Kain: Soul Reaver 2 | 7893 | [7893-legacy-of-kain-soul-reaver-2.json](./7893-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
