@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
 | Re:birth Colony -Lost Azurite- | 60049 | [60049-re-birth-colony-lost-azurite.json](./60049-re-birth-colony-lost-azurite.json) |
 | Re:Birthday Song - Koi wo Utau Shinigami | 54920 | [54920-re-birthday-song-koi-wo-utau-shinigami.json](./54920-re-birthday-song-koi-wo-utau-shinigami.json) |
+| Re:Blue | 415482 | [415482-re-blue.json](./415482-re-blue.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
+| Rockets.com | 415449 | [415449-rockets-com.json](./415449-rockets-com.json) |
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | RocketStarz | 143344 | [143344-rocketstarz.json](./143344-rocketstarz.json) |
@@ -6282,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romi | 96285 | [96285-romi.json](./96285-romi.json) |
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
+| Romut | 415471 | [415471-romut.json](./415471-romut.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
 | RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
