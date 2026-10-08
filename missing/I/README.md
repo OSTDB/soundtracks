@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
 | Insect | 152139 | [152139-insect.json](./152139-insect.json) |
+| Insect | 392232 | [392232-insect.json](./392232-insect.json) |
 | Insect Adventure | 140373 | [140373-insect-adventure.json](./140373-insect-adventure.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
