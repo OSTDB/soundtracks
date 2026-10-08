@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.E.S.S. | 313264 | [313264-m-e-s-s.json](./313264-m-e-s-s.json) |
+| M.exe | 32238 | [32238-m-exe.json](./32238-m-exe.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
 | M.I.A.: Mission in Asia | 53384 | [53384-m-i-a-mission-in-asia.json](./53384-m-i-a-mission-in-asia.json) |
 | M.I.C.E. | 168676 | [168676-m-i-c-e.json](./168676-m-i-c-e.json) |
@@ -1544,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
+| Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
 | Malcade | 366997 | [366997-malcade.json](./366997-malcade.json) |
 | Maldark: Conqueror of All Worlds | 195069 | [195069-maldark-conqueror-of-all-worlds.json](./195069-maldark-conqueror-of-all-worlds.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
@@ -6547,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
+| Might | 32223 | [32223-might.json](./32223-might.json) |
 | Might & Magic Collection | 53357 | [53357-might-and-magic-collection.json](./53357-might-and-magic-collection.json) |
 | Might & Magic Heroes VI: Complete Edition | 53356 | [53356-might-and-magic-heroes-vi-complete-edition.json](./53356-might-and-magic-heroes-vi-complete-edition.json) |
 | Might & Magic Heroes VII - Trial by Fire | 33474 | [33474-might-and-magic-heroes-vii-trial-by-fire.json](./33474-might-and-magic-heroes-vii-trial-by-fire.json) |
@@ -8623,6 +8626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Momento Pole | 373767 | [373767-momento-pole.json](./373767-momento-pole.json) |
+| Momento Temporis: Light from the Deep | 32230 | [32230-momento-temporis-light-from-the-deep.json](./32230-momento-temporis-light-from-the-deep.json) |
 | Momentous: Monumentum | 298822 | [298822-momentous-monumentum.json](./298822-momentous-monumentum.json) |
 | Moments | 297555 | [297555-moments.json](./297555-moments.json) |
 | Moments | 356702 | [356702-moments.json](./356702-moments.json) |
