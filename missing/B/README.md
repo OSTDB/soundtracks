@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banned Tapes | 333650 | [333650-banned-tapes.json](./333650-banned-tapes.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
 | Banner of Blood | 211090 | [211090-banner-of-blood.json](./211090-banner-of-blood.json) |
+| Banner of the Maid | 97932 | [97932-banner-of-the-maid.json](./97932-banner-of-the-maid.json) |
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
 | Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
 | BannerBound | 345032 | [345032-bannerbound.json](./345032-bannerbound.json) |
@@ -6727,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
 | Bluey: Let's Play! | 266418 | [266418-bluey-lets-play.json](./266418-bluey-lets-play.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
+| Bluey's Quest for the Gold Pen | 375072 | [375072-blueys-quest-for-the-gold-pen.json](./375072-blueys-quest-for-the-gold-pen.json) |
 | Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
