@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
+| Inu to Neko, Tokidoki Panda | 410088 | [410088-inu-to-neko-tokidoki-panda.json](./410088-inu-to-neko-tokidoki-panda.json) |
 | Inua: A Story in Ice and Time | 159773 | [159773-inua-a-story-in-ice-and-time.json](./159773-inua-a-story-in-ice-and-time.json) |
 | Inugamike no Ichizoku | 130701 | [130701-inugamike-no-ichizoku.json](./130701-inugamike-no-ichizoku.json) |
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
