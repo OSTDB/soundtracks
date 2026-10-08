@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Town Mysteries: Bodie | 53081 | [53081-ghost-town-mysteries-bodie.json](./53081-ghost-town-mysteries-bodie.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
 | Ghost Towns: Cats of Ulthar | 59499 | [59499-ghost-towns-cats-of-ulthar.json](./59499-ghost-towns-cats-of-ulthar.json) |
+| Ghost Train | 91152 | [91152-ghost-train.json](./91152-ghost-train.json) |
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
@@ -3831,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
+| Golf Zero | 91121 | [91121-golf-zero.json](./91121-golf-zero.json) |
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
 | Golf-ko Open | 56536 | [56536-golf-ko-open.json](./56536-golf-ko-open.json) |
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
