@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Country | 260303 | [260303-garbage-country.json](./260303-garbage-country.json) |
+| Garbage Day | 11785 | [11785-garbage-day.json](./11785-garbage-day.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
 | Garbage Packer | 404406 | [404406-garbage-packer.json](./404406-garbage-packer.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
+| Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
 | Get Fit: K-Pop Fitness | 420689 | [420689-get-fit-k-pop-fitness.json](./420689-get-fit-k-pop-fitness.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
@@ -2445,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giggleport | 412346 | [412346-giggleport.json](./412346-giggleport.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
+| Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gilded Eternal | 217226 | [217226-gilded-eternal.json](./217226-gilded-eternal.json) |
@@ -3334,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater: Off Shot - Twin Pack Vol. 5 | 148159 | [148159-god-eater-off-shot-twin-pack-vol-5.json](./148159-god-eater-off-shot-twin-pack-vol-5.json) |
 | God Eater: Off Shot - Twin Pack Vol. 6 | 216268 | [216268-god-eater-off-shot-twin-pack-vol-6.json](./216268-god-eater-off-shot-twin-pack-vol-6.json) |
 | God Eater: Off Shot - Twin Pack Vol. 7 | 216269 | [216269-god-eater-off-shot-twin-pack-vol-7.json](./216269-god-eater-off-shot-twin-pack-vol-7.json) |
+| GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God Girl | 250927 | [250927-god-girl.json](./250927-god-girl.json) |
 | God Give Me One More Chance | 400282 | [400282-god-give-me-one-more-chance.json](./400282-god-give-me-one-more-chance.json) |
@@ -4794,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
 | GraviTV | 187291 | [187291-gravitv.json](./187291-gravitv.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
+| Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
 | Gravity | 361682 | [361682-gravity.json](./361682-gravity.json) |
