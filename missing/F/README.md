@@ -4902,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux | 140475 | [140475-flux.json](./140475-flux.json) |
 | Flux | 183373 | [183373-flux.json](./183373-flux.json) |
 | Flux | 202357 | [202357-flux.json](./202357-flux.json) |
+| Flux Ascendant | 403544 | [403544-flux-ascendant.json](./403544-flux-ascendant.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
@@ -5157,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
+| Foobse | 403541 | [403541-foobse.json](./403541-foobse.json) |
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
