@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
+| Fire Rides | 74960 | [74960-fire-rides.json](./74960-fire-rides.json) |
 | Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
@@ -5528,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
 | Forever Fox | 106487 | [106487-forever-fox.json](./106487-forever-fox.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
+| Forever Home | 74608 | [74608-forever-home.json](./74608-forever-home.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
 | Forever Lost | 207739 | [207739-forever-lost.json](./207739-forever-lost.json) |
@@ -5562,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
+| Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
@@ -7052,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 2089 | 1504 | [1504-front-mission-2089.json](./1504-front-mission-2089.json) |
 | Front Mission 2089-II | 1507 | [1507-front-mission-2089-ii.json](./1507-front-mission-2089-ii.json) |
+| Front Mission 2089: Border of Madness | 72662 | [72662-front-mission-2089-border-of-madness.json](./72662-front-mission-2089-border-of-madness.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
 | Front Mission 3: Remake | 217552 | [217552-front-mission-3-remake.json](./217552-front-mission-3-remake.json) |
 | Front Mission 5: Scars of the War | 1506 | [1506-front-mission-5-scars-of-the-war.json](./1506-front-mission-5-scars-of-the-war.json) |
