@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
+| Maze: Path of Light - Oasis Edition | 404280 | [404280-maze-path-of-light-oasis-edition.json](./404280-maze-path-of-light-oasis-edition.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
@@ -7823,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver | 116285 | [116285-misadventures-of-laura-silver.json](./116285-misadventures-of-laura-silver.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
+| Misaki's Deduction 2: The Sweet Island Murder Case | 404265 | [404265-misakis-deduction-2-the-sweet-island-murder-case.json](./404265-misakis-deduction-2-the-sweet-island-murder-case.json) |
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
 | Misaligned | 239698 | [239698-misaligned.json](./239698-misaligned.json) |
 | Misao | 47097 | [47097-misao.json](./47097-misao.json) |
@@ -8287,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | MMM: Murder Most Misfortunate | 28425 | [28425-mmm-murder-most-misfortunate.json](./28425-mmm-murder-most-misfortunate.json) |
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
+| MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
 | MMX Hill Dash | 86927 | [86927-mmx-hill-dash.json](./86927-mmx-hill-dash.json) |
@@ -9012,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
+| Monst | 404184 | [404184-monst.json](./404184-monst.json) |
 | Monsta Bounce | 240923 | [240923-monsta-bounce.json](./240923-monsta-bounce.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonstaFish | 79190 | [79190-monstafish.json](./79190-monstafish.json) |
@@ -9982,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
 | Mortal Kombat 1: Takahashi Takeda | 266223 | [266223-mortal-kombat-1-takahashi-takeda.json](./266223-mortal-kombat-1-takahashi-takeda.json) |
+| Mortal Kombat 1: Tournament Liu Kang Skin | 404780 | [404780-mortal-kombat-1-tournament-liu-kang-skin.json](./404780-mortal-kombat-1-tournament-liu-kang-skin.json) |
 | Mortal Kombat 1+2+3 | 154416 | [154416-mortal-kombat-1-2-3.json](./154416-mortal-kombat-1-2-3.json) |
 | Mortal Kombat 11 + The Joker DLC | 136213 | [136213-mortal-kombat-11-the-joker-dlc.json](./136213-mortal-kombat-11-the-joker-dlc.json) |
 | Mortal Kombat 11: Aftermath + Kombat Pack Bundle | 136198 | [136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json](./136198-mortal-kombat-11-aftermath-kombat-pack-bundle.json) |
@@ -10226,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Restored | 307055 | [307055-mother-restored.json](./307055-mother-restored.json) |
 | Mother Stone | 188951 | [188951-mother-stone.json](./188951-mother-stone.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
+| Mother Zina | 404790 | [404790-mother-zina.json](./404790-mother-zina.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
@@ -10294,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
 | Moto Rush GT + Food Truck Tycoon | 251111 | [251111-moto-rush-gt-food-truck-tycoon.json](./251111-moto-rush-gt-food-truck-tycoon.json) |
 | Moto Rush GT Asphalt Fury | 378968 | [378968-moto-rush-gt-asphalt-fury.json](./378968-moto-rush-gt-asphalt-fury.json) |
+| Moto Rush GT: Add-on Edition | 404282 | [404282-moto-rush-gt-add-on-edition.json](./404282-moto-rush-gt-add-on-edition.json) |
 | Moto Rush GT: Advanced Edition | 315871 | [315871-moto-rush-gt-advanced-edition.json](./315871-moto-rush-gt-advanced-edition.json) |
 | Moto Rush GT: Back To School Edition | 263541 | [263541-moto-rush-gt-back-to-school-edition.json](./263541-moto-rush-gt-back-to-school-edition.json) |
 | Moto Rush GT: Comprehensive Edition | 399823 | [399823-moto-rush-gt-comprehensive-edition.json](./399823-moto-rush-gt-comprehensive-edition.json) |
@@ -10402,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing Bundle | 226786 | [226786-motorbike-racing-bundle.json](./226786-motorbike-racing-bundle.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
+| Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
 | Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
