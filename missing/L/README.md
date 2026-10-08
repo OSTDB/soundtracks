@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
+| Letterpress: Word Game | 87168 | [87168-letterpress-word-game.json](./87168-letterpress-word-game.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters | 57502 | [57502-letters.json](./57502-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
