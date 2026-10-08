@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
 | Korgan | 83810 | [83810-korgan.json](./83810-korgan.json) |
+| Kori | 392224 | [392224-kori.json](./392224-kori.json) |
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
 | Kori's Fable Visual Novel | 232442 | [232442-koris-fable-visual-novel.json](./232442-koris-fable-visual-novel.json) |
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
