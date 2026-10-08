@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Guessers | 154079 | [154079-cave-guessers.json](./154079-cave-guessers.json) |
 | Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
+| Cave Looters | 410829 | [410829-cave-looters.json](./410829-cave-looters.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Avarice | 166680 | [166680-cave-of-avarice.json](./166680-cave-of-avarice.json) |
 | Cave of Cards | 339995 | [339995-cave-of-cards.json](./339995-cave-of-cards.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
 | Celebrity Kombat | 264090 | [264090-celebrity-kombat.json](./264090-celebrity-kombat.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
+| Celebrity Memory - 12in12 Game 1 | 410737 | [410737-celebrity-memory-12in12-game-1.json](./410737-celebrity-memory-12in12-game-1.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
@@ -4910,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
 | Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
+| Cinder & Crowns | 410867 | [410867-cinder-and-crowns.json](./410867-cinder-and-crowns.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
@@ -5136,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Sleeper | 152271 | [152271-citizen-sleeper.json](./152271-citizen-sleeper.json) |
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
+| Citizen Vigilante | 410862 | [410862-citizen-vigilante.json](./410862-citizen-vigilante.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
@@ -8128,6 +8132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
 | Cooking Witch | 28741 | [28741-cooking-witch.json](./28741-cooking-witch.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
@@ -11111,6 +11116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
 | Cup Heroes: Diamond Bag Bundle | 397885 | [397885-cup-heroes-diamond-bag-bundle.json](./397885-cup-heroes-diamond-bag-bundle.json) |
+| Cup Heroes: Diamond Satchel Bundle | 410855 | [410855-cup-heroes-diamond-satchel-bundle.json](./410855-cup-heroes-diamond-satchel-bundle.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
@@ -11398,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut WallStreet2 | 255031 | [255031-cut-wallstreet2.json](./255031-cut-wallstreet2.json) |
 | Cute & Cozy 5-in-1 | 390510 | [390510-cute-and-cozy-5-in-1.json](./390510-cute-and-cozy-5-in-1.json) |
 | Cute & Cozy Farm 5-in-1 | 399816 | [399816-cute-and-cozy-farm-5-in-1.json](./399816-cute-and-cozy-farm-5-in-1.json) |
+| Cute & Cozy Relax 5‑in‑1 | 410841 | [410841-cute-and-cozy-relax-5-in-1.json](./410841-cute-and-cozy-relax-5-in-1.json) |
 | Cute & Dead | 408863 | [408863-cute-and-dead.json](./408863-cute-and-dead.json) |
 | Cute Adventure | 114323 | [114323-cute-adventure.json](./114323-cute-adventure.json) |
 | Cute and Creepy | 241412 | [241412-cute-and-creepy.json](./241412-cute-and-creepy.json) |
