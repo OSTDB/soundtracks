@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Resistance | 146545 | [146545-max-resistance.json](./146545-max-resistance.json) |
 | Max Savage | 398489 | [398489-max-savage.json](./398489-max-savage.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
+| Max Speed: Mingo Pack | 410851 | [410851-max-speed-mingo-pack.json](./410851-max-speed-mingo-pack.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
@@ -10285,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Infinite Edition | 317909 | [317909-moto-rush-gt-infinite-edition.json](./317909-moto-rush-gt-infinite-edition.json) |
+| Moto Rush GT: Luxury Edition | 410858 | [410858-moto-rush-gt-luxury-edition.json](./410858-moto-rush-gt-luxury-edition.json) |
 | Moto Rush GT: Mega Edition | 324373 | [324373-moto-rush-gt-mega-edition.json](./324373-moto-rush-gt-mega-edition.json) |
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
@@ -10381,6 +10383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing Bundle | 226786 | [226786-motorbike-racing-bundle.json](./226786-motorbike-racing-bundle.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
+| Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcross Mania 2 | 200477 | [200477-motorcross-mania-2.json](./200477-motorcross-mania-2.json) |
 | Motorcycle Combat | 326197 | [326197-motorcycle-combat.json](./326197-motorcycle-combat.json) |
