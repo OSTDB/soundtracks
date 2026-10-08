@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
 | White Chocolate | 330247 | [330247-white-chocolate.json](./330247-white-chocolate.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
+| White Clouds | 414152 | [414152-white-clouds.json](./414152-white-clouds.json) |
 | White Coat, Red Hands | 415479 | [415479-white-coat-red-hands.json](./415479-white-coat-red-hands.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
@@ -4096,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Balls | 100590 | [100590-wolf-balls.json](./100590-wolf-balls.json) |
 | Wolf Boot Camp | 232052 | [232052-wolf-boot-camp.json](./232052-wolf-boot-camp.json) |
 | Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
+| Wolf Commando | 414138 | [414138-wolf-commando.json](./414138-wolf-commando.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
