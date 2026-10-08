@@ -5546,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
 | Shred and Tear: Explosive Kajun | 192702 | [192702-shred-and-tear-explosive-kajun.json](./192702-shred-and-tear-explosive-kajun.json) |
 | Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
+| Shred It! | 20017 | [20017-shred-it.json](./20017-shred-it.json) |
 | Shred Off | 331955 | [331955-shred-off.json](./331955-shred-off.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shred! | 34974 | [34974-shred.json](./34974-shred.json) |
@@ -10244,6 +10245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic RPG: Episode 7 | 273562 | [273562-sonic-rpg-episode-7.json](./273562-sonic-rpg-episode-7.json) |
 | Sonic Rumble Party | 300454 | [300454-sonic-rumble-party.json](./300454-sonic-rumble-party.json) |
 | Sonic Run 3 | 331983 | [331983-sonic-run-3.json](./331983-sonic-run-3.json) |
+| Sonic Runners | 20023 | [20023-sonic-runners.json](./20023-sonic-runners.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
 | Sonic Rush Adventure | 19261 | [19261-sonic-rush-adventure.json](./19261-sonic-rush-adventure.json) |
@@ -13260,6 +13262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
+| Sprung | 20209 | [20209-sprung.json](./20209-sprung.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
@@ -17355,6 +17358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
+| Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Valley Hike | 255267 | [255267-summer-valley-hike.json](./255267-summer-valley-hike.json) |
@@ -17574,6 +17578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
 | Sunset Overdrive | 3247 | [3247-sunset-overdrive.json](./3247-sunset-overdrive.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
+| Sunset Overdrive: Mystery of the Mooil Rig | 20050 | [20050-sunset-overdrive-mystery-of-the-mooil-rig.json](./20050-sunset-overdrive-mystery-of-the-mooil-rig.json) |
 | Sunset Racer | 284485 | [284485-sunset-racer.json](./284485-sunset-racer.json) |
 | Sunset Racer | 344488 | [344488-sunset-racer.json](./344488-sunset-racer.json) |
 | Sunset Racing | 391305 | [391305-sunset-racing.json](./391305-sunset-racing.json) |
@@ -20091,6 +20096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzu to Mari no Bouken 2: Lost Colors and Golden Bells | 206177 | [206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json](./206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json) |
 | Suzu to Mari no Bouken: The Ghost of Friend | 206176 | [206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json](./206176-suzu-to-mari-no-bouken-the-ghost-of-friend.json) |
 | Suzuki Bakuhatsu | 43852 | [43852-suzuki-bakuhatsu.json](./43852-suzuki-bakuhatsu.json) |
+| Suzuki TT Superbikes: Real Road Racing | 20211 | [20211-suzuki-tt-superbikes-real-road-racing.json](./20211-suzuki-tt-superbikes-real-road-racing.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
