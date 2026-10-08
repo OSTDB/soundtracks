@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
+| AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Journey | 286114 | [286114-afk-journey.json](./286114-afk-journey.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
@@ -8514,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
 | Aspect Heroes | 277331 | [277331-aspect-heroes.json](./277331-aspect-heroes.json) |
 | Aspect of Daedalus | 275207 | [275207-aspect-of-daedalus.json](./275207-aspect-of-daedalus.json) |
+| Aspectless One | 405547 | [405547-aspectless-one.json](./405547-aspectless-one.json) |
 | Aspects of change | 121631 | [121631-aspects-of-change.json](./121631-aspects-of-change.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Aspen | 201116 | [201116-aspen.json](./201116-aspen.json) |
@@ -9292,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Iris: Eternal Mana | 19634 | [19634-atelier-iris-eternal-mana.json](./19634-atelier-iris-eternal-mana.json) |
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
 | Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories | 405457 | [405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json](./405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json) |
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lilie: The Alchemist of Salburg 3 | 26441 | [26441-atelier-lilie-the-alchemist-of-salburg-3.json](./26441-atelier-lilie-the-alchemist-of-salburg-3.json) |
 | Atelier Lina: The Alchemist of Strahl | 67708 | [67708-atelier-lina-the-alchemist-of-strahl.json](./67708-atelier-lina-the-alchemist-of-strahl.json) |
