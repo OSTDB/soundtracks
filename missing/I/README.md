@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated | 86116 | [86116-isolated.json](./86116-isolated.json) |
 | Isolated Hours | 381855 | [381855-isolated-hours.json](./381855-isolated-hours.json) |
 | Isolated Island | 114300 | [114300-isolated-island.json](./114300-isolated-island.json) |
+| Isolated Island: After the Flood | 412908 | [412908-isolated-island-after-the-flood.json](./412908-isolated-island-after-the-flood.json) |
 | Isolated Life | 156119 | [156119-isolated-life.json](./156119-isolated-life.json) |
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
 | Isolation | 268654 | [268654-isolation.json](./268654-isolation.json) |
