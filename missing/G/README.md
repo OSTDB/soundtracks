@@ -2014,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Baz Home | 318521 | [318521-get-baz-home.json](./318521-get-baz-home.json) |
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
 | Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
+| Get Clucked | 387084 | [387084-get-clucked.json](./387084-get-clucked.json) |
 | Get Dexter | 26462 | [26462-get-dexter.json](./26462-get-dexter.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
@@ -3545,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Havoc: Into the Void - Rise of the AI | 171412 | [171412-gods-of-havoc-into-the-void-rise-of-the-ai.json](./171412-gods-of-havoc-into-the-void-rise-of-the-ai.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
+| Gods of Nowhere | 387040 | [387040-gods-of-nowhere.json](./387040-gods-of-nowhere.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
 | Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
