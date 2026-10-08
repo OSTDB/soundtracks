@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
 | Weltschmerz | 177809 | [177809-weltschmerz.json](./177809-weltschmerz.json) |
 | Wembley International Soccer | 38839 | [38839-wembley-international-soccer.json](./38839-wembley-international-soccer.json) |
+| Wend | 405456 | [405456-wend.json](./405456-wend.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
 | Wendetta 2175 | 38840 | [38840-wendetta-2175.json](./38840-wendetta-2175.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
@@ -4081,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobble | 246374 | [246374-wobble.json](./246374-wobble.json) |
 | Wobble Bros | 414536 | [414536-wobble-bros.json](./414536-wobble-bros.json) |
 | Wobble Jump | 118950 | [118950-wobble-jump.json](./118950-wobble-jump.json) |
+| Wobble Ops! | 405555 | [405555-wobble-ops.json](./405555-wobble-ops.json) |
 | Wobble Pole | 178423 | [178423-wobble-pole.json](./178423-wobble-pole.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobble Wobble | 397923 | [397923-wobble-wobble.json](./397923-wobble-wobble.json) |
