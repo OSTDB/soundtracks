@@ -8584,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
 | Cosmic Fire Birds | 60038 | [60038-cosmic-fire-birds.json](./60038-cosmic-fire-birds.json) |
 | Cosmic Flow: A Relaxing VR Experience | 133162 | [133162-cosmic-flow-a-relaxing-vr-experience.json](./133162-cosmic-flow-a-relaxing-vr-experience.json) |
+| Cosmic Galaxy Wars | 396754 | [396754-cosmic-galaxy-wars.json](./396754-cosmic-galaxy-wars.json) |
 | Cosmic Gravity | 106755 | [106755-cosmic-gravity.json](./106755-cosmic-gravity.json) |
 | Cosmic Guerilla | 276388 | [276388-cosmic-guerilla.json](./276388-cosmic-guerilla.json) |
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
@@ -10177,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Fire 2 | 26982 | [26982-cross-fire-2.json](./26982-cross-fire-2.json) |
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
+| Cross Helix | 396733 | [396733-cross-helix.json](./396733-cross-helix.json) |
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Love - Episode 1 | 110524 | [110524-cross-love-episode-1.json](./110524-cross-love-episode-1.json) |
