@@ -4809,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
 | Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
+| Shift Happens | 401864 | [401864-shift-happens.json](./401864-shift-happens.json) |
 | Shift II | 291005 | [291005-shift-ii.json](./291005-shift-ii.json) |
 | Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
@@ -6758,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
+| Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
 | Sinoepoch | 197135 | [197135-sinoepoch.json](./197135-sinoepoch.json) |
 | Sinoven | 235714 | [235714-sinoven.json](./235714-sinoven.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
@@ -9365,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda-Powered Penguin | 216734 | [216734-soda-powered-penguin.json](./216734-soda-powered-penguin.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
+| SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
 | Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
 | SOF: Enemy from the future | 305955 | [305955-sof-enemy-from-the-future.json](./305955-sof-enemy-from-the-future.json) |
 | SOF/Raiders | 78594 | [78594-sof-raiders.json](./78594-sof-raiders.json) |
@@ -14074,6 +14077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
+| Star Fox: Event Horizon | 401708 | [401708-star-fox-event-horizon.json](./401708-star-fox-event-horizon.json) |
 | Star Fur Day | 313091 | [313091-star-fur-day.json](./313091-star-fur-day.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
 | Star Garden | 334856 | [334856-star-garden.json](./334856-star-garden.json) |
@@ -14990,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshapes | 249864 | [249864-starshapes.json](./249864-starshapes.json) |
+| Starshard Brigands | 401860 | [401860-starshard-brigands.json](./401860-starshard-brigands.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
 | Starshield | 374752 | [374752-starshield.json](./374752-starshield.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
@@ -19306,6 +19311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sarrador | 208238 | [208238-super-sarrador.json](./208238-super-sarrador.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
+| Super Schwarzschild 2 | 401871 | [401871-super-schwarzschild-2.json](./401871-super-schwarzschild-2.json) |
 | Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
