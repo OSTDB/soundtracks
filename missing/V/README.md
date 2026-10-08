@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
 | Veil of Ashes | 350025 | [350025-veil-of-ashes.json](./350025-veil-of-ashes.json) |
 | Veil of Clay | 262951 | [262951-veil-of-clay.json](./262951-veil-of-clay.json) |
+| Veil of Crows | 28292 | [28292-veil-of-crows.json](./28292-veil-of-crows.json) |
 | Veil of Darkness | 14450 | [14450-veil-of-darkness.json](./14450-veil-of-darkness.json) |
 | Veil of Darkness | 272498 | [272498-veil-of-darkness.json](./272498-veil-of-darkness.json) |
 | Veil of Dust: A Homesteading Game | 157104 | [157104-veil-of-dust-a-homesteading-game.json](./157104-veil-of-dust-a-homesteading-game.json) |
