@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
+| End of End | 394122 | [394122-end-of-end.json](./394122-end-of-end.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Knights | 253965 | [253965-end-of-knights.json](./253965-end-of-knights.json) |
 | End Of Life | 280346 | [280346-end-of-life.json](./280346-end-of-life.json) |
@@ -3599,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurekas | 374776 | [374776-eurekas.json](./374776-eurekas.json) |
 | Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Eurit | 42246 | [42246-eurit.json](./42246-eurit.json) |
+| Euro 3v3 | 394119 | [394119-euro-3v3.json](./394119-euro-3v3.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Fishing: Collector's Edition | 173108 | [173108-euro-fishing-collectors-edition.json](./173108-euro-fishing-collectors-edition.json) |
 | Euro Fishing: The Moat | 151065 | [151065-euro-fishing-the-moat.json](./151065-euro-fishing-the-moat.json) |
