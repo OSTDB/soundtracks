@@ -6671,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
+| Police Quest: SWAT | 309 | [309-police-quest-swat.json](./309-police-quest-swat.json) |
 | Police Quest: SWAT 2 | 311 | [311-police-quest-swat-2.json](./311-police-quest-swat-2.json) |
 | Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
 | Police Rage | 223985 | [223985-police-rage.json](./223985-police-rage.json) |
