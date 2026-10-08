@@ -6751,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
+| Miles Between Us | 396122 | [396122-miles-between-us.json](./396122-miles-between-us.json) |
 | Miles Edgeworth: Ace Attorney - Shattered Glass | 303030 | [303030-miles-edgeworth-ace-attorney-shattered-glass.json](./303030-miles-edgeworth-ace-attorney-shattered-glass.json) |
 | Miles Edgeworth: Ace Attorney 2 - Trial by Fire | 303032 | [303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json](./303032-miles-edgeworth-ace-attorney-2-trial-by-fire.json) |
 | Miles From Tomorrowland: Missions | 249365 | [249365-miles-from-tomorrowland-missions.json](./249365-miles-from-tomorrowland-missions.json) |
@@ -7711,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minty Fresh Adventure | 342826 | [342826-minty-fresh-adventure.json](./342826-minty-fresh-adventure.json) |
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
+| Minus Nine | 396014 | [396014-minus-nine.json](./396014-minus-nine.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
@@ -9006,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mononoke no Kuni | 270069 | [270069-mononoke-no-kuni.json](./270069-mononoke-no-kuni.json) |
 | Mononoke Tantei: Nobuta no Ayakashi Jikenbo | 222361 | [222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json](./222361-mononoke-tantei-nobuta-no-ayakashi-jikenbo.json) |
 | Monophobia | 122821 | [122821-monophobia.json](./122821-monophobia.json) |
+| Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
@@ -9808,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
+| Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
 | Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
@@ -12156,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pizza Story | 248101 | [248101-my-pizza-story.json](./248101-my-pizza-story.json) |
 | My Place Diary | 405652 | [405652-my-place-diary.json](./405652-my-place-diary.json) |
 | My Planet [RTS] | 120717 | [120717-my-planet-rts.json](./120717-my-planet-rts.json) |
+| My Planet: Moon Child | 396004 | [396004-my-planet-moon-child.json](./396004-my-planet-moon-child.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
 | My Pokémon Ranch | 4563 | [4563-my-pokemon-ranch.json](./4563-my-pokemon-ranch.json) |
@@ -12760,6 +12765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystillion | 245910 | [245910-mystillion.json](./245910-mystillion.json) |
 | Mystina: Remaster Online | 403159 | [403159-mystina-remaster-online.json](./403159-mystina-remaster-online.json) |
 | Mystiqa | 134476 | [134476-mystiqa.json](./134476-mystiqa.json) |
+| Mystologia: The Witch & the Noisy Forest | 396015 | [396015-mystologia-the-witch-and-the-noisy-forest.json](./396015-mystologia-the-witch-and-the-noisy-forest.json) |
 | Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
