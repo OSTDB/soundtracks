@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
 | A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
+| A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-10 VR | 33665 | [33665-a-10-vr.json](./33665-a-10-vr.json) |
 | A-2481 | 263580 | [263580-a-2481.json](./263580-a-2481.json) |
+| A-2481 Remastered: Death Vault | 394808 | [394808-a-2481-remastered-death-vault.json](./394808-a-2481-remastered-death-vault.json) |
 | A-7 | 98271 | [98271-a-7.json](./98271-a-7.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
@@ -3144,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
 | Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
+| Akeiro ni Somaru, Utsukushiki Yashiro de | 394791 | [394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json](./394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json) |
 | Akemi-tan | 150550 | [150550-akemi-tan.json](./150550-akemi-tan.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
