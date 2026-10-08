@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
+| Hellbridge | 399268 | [399268-hellbridge.json](./399268-hellbridge.json) |
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
@@ -6348,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
+| House Of 1000 Fowl | 399249 | [399249-house-of-1000-fowl.json](./399249-house-of-1000-fowl.json) |
 | House of Alice | 32091 | [32091-house-of-alice.json](./32091-house-of-alice.json) |
 | House of Cards: A Modern Fantasy Story Game | 134555 | [134555-house-of-cards-a-modern-fantasy-story-game.json](./134555-house-of-cards-a-modern-fantasy-story-game.json) |
 | House of Cards: TD | 298128 | [298128-house-of-cards-td.json](./298128-house-of-cards-td.json) |
@@ -6748,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
 | Hulk Hogan's Main Event | 20163 | [20163-hulk-hogans-main-event.json](./20163-hulk-hogans-main-event.json) |
+| Hull Rupture | 399255 | [399255-hull-rupture.json](./399255-hull-rupture.json) |
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
 | Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
@@ -7103,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hushaby Baby | 59216 | [59216-hushaby-baby.json](./59216-hushaby-baby.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
+| Husk Protocol | 399266 | [399266-husk-protocol.json](./399266-husk-protocol.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
