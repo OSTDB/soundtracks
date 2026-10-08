@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
+| SD Gundam Gashapon Wars | 4098 | [4098-sd-gundam-gashapon-wars.json](./4098-sd-gundam-gashapon-wars.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
 | SD Gundam Online | 23616 | [23616-sd-gundam-online.json](./23616-sd-gundam-online.json) |
@@ -11528,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
 | Space Raiders | 320906 | [320906-space-raiders.json](./320906-space-raiders.json) |
+| Space Raiders | 4159 | [4159-space-raiders.json](./4159-space-raiders.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
@@ -12039,6 +12041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
+| Special Jinsei Game | 4161 | [4161-special-jinsei-game.json](./4161-special-jinsei-game.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
 | Special Operation 85: Hostage Rescue | 191673 | [191673-special-operation-85-hostage-rescue.json](./191673-special-operation-85-hostage-rescue.json) |
@@ -12776,6 +12779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
+| Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits of Carter Mansion | 189053 | [189053-spirits-of-carter-mansion.json](./189053-spirits-of-carter-mansion.json) |
 | Spirits of Light | 188455 | [188455-spirits-of-light.json](./188455-spirits-of-light.json) |
@@ -14120,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
+| Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
@@ -20744,6 +20749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
+| SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
