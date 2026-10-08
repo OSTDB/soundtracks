@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Circuit | 185006 | [185006-garden-circuit.json](./185006-garden-circuit.json) |
 | Garden City | 151118 | [151118-garden-city.json](./151118-garden-city.json) |
 | Garden City Bundle | 295257 | [295257-garden-city-bundle.json](./295257-garden-city-bundle.json) |
+| Garden Cleanup Simulator | 407366 | [407366-garden-cleanup-simulator.json](./407366-garden-cleanup-simulator.json) |
 | Garden Defense | 53086 | [53086-garden-defense.json](./53086-garden-defense.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
@@ -3581,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gogoo | 151001 | [151001-gogoo.json](./151001-gogoo.json) |
 | Gogte | 188523 | [188523-gogte.json](./188523-gogte.json) |
 | Gohan Quest | 96103 | [96103-gohan-quest.json](./96103-gohan-quest.json) |
+| Gohei | 406074 | [406074-gohei.json](./406074-gohei.json) |
 | GoHome | 259599 | [259599-gohome.json](./259599-gohome.json) |
 | Gohorobo | 90122 | [90122-gohorobo.json](./90122-gohorobo.json) |
 | Goi: Let's Play Together | 235995 | [235995-goi-lets-play-together.json](./235995-goi-lets-play-together.json) |
@@ -3975,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
 | Good Girl Gone Bad | 127911 | [127911-good-girl-gone-bad.json](./127911-good-girl-gone-bad.json) |
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
+| Good Girls: Seduction Starts With a Smile | 406066 | [406066-good-girls-seduction-starts-with-a-smile.json](./406066-good-girls-seduction-starts-with-a-smile.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
 | Good Guy Card | 158535 | [158535-good-guy-card.json](./158535-good-guy-card.json) |
