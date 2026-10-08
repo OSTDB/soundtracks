@@ -6842,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Gardenia | 138517 | [138517-the-kingdom-of-gardenia.json](./138517-the-kingdom-of-gardenia.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
 | The Kingdoms of Ædloran | 389674 | [389674-the-kingdoms-of-dloran.json](./389674-the-kingdoms-of-dloran.json) |
+| The Kings Crusade | 2039 | [2039-the-kings-crusade.json](./2039-the-kings-crusade.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
 | The Kings Crusade: Teutonic Knights | 10977 | [10977-the-kings-crusade-teutonic-knights.json](./10977-the-kings-crusade-teutonic-knights.json) |
@@ -13177,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 13: Masters Collector's Edition | 47419 | [47419-tiger-woods-pga-tour-13-masters-collectors-edition.json](./47419-tiger-woods-pga-tour-13-masters-collectors-edition.json) |
 | Tiger Woods PGA Tour 14: Masters Historic Edition | 21694 | [21694-tiger-woods-pga-tour-14-masters-historic-edition.json](./21694-tiger-woods-pga-tour-14-masters-historic-edition.json) |
 | Tiger Woods PGA Tour 2000 | 249152 | [249152-tiger-woods-pga-tour-2000.json](./249152-tiger-woods-pga-tour-2000.json) |
+| Tiger Woods PGA Tour 2003 | 904 | [904-tiger-woods-pga-tour-2003.json](./904-tiger-woods-pga-tour-2003.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
@@ -19224,6 +19226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
+| Ty the Tasmanian Tiger 3: Night of the Quinkan | 1324 | [1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json](./1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json) |
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
