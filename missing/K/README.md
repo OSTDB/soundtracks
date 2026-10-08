@@ -2844,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
 | Knuckle Joe | 39874 | [39874-knuckle-joe.json](./39874-knuckle-joe.json) |
+| Knuckle Paradise | 399286 | [399286-knuckle-paradise.json](./399286-knuckle-paradise.json) |
 | Knucklebones Neon | 420539 | [420539-knucklebones-neon.json](./420539-knucklebones-neon.json) |
 | KnuckleFighter-Alpha | 172692 | [172692-knucklefighter-alpha.json](./172692-knucklefighter-alpha.json) |
 | KnuckleFighter-X | 172691 | [172691-knucklefighter-x.json](./172691-knucklefighter-x.json) |
