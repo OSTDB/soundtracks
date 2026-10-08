@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headquarters: World War II - Market Garden | 324932 | [324932-headquarters-world-war-ii-market-garden.json](./324932-headquarters-world-war-ii-market-garden.json) |
 | Headroom | 364690 | [364690-headroom.json](./364690-headroom.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
+| Headrush Arena | 416166 | [416166-headrush-arena.json](./416166-headrush-arena.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
 | Heads Up Texas Hold 'Em | 92293 | [92293-heads-up-texas-hold-em.json](./92293-heads-up-texas-hold-em.json) |
 | Heads Up! | 79823 | [79823-heads-up.json](./79823-heads-up.json) |
@@ -5118,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
 | Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
 | Hollywood Hijinx | 12144 | [12144-hollywood-hijinx.json](./12144-hollywood-hijinx.json) |
+| Hollywood Hustle: A Prop Collector Simulator | 416134 | [416134-hollywood-hustle-a-prop-collector-simulator.json](./416134-hollywood-hustle-a-prop-collector-simulator.json) |
 | Hollywood Mogul | 94389 | [94389-hollywood-mogul.json](./94389-hollywood-mogul.json) |
 | Hollywood Mogul 4 | 334337 | [334337-hollywood-mogul-4.json](./334337-hollywood-mogul-4.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
