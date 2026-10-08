@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
 | Girls Academy | 224048 | [224048-girls-academy.json](./224048-girls-academy.json) |
+| Girls and Dungeons | 54869 | [54869-girls-and-dungeons.json](./54869-girls-and-dungeons.json) |
 | Girls and Quiz | 40710 | [40710-girls-and-quiz.json](./40710-girls-and-quiz.json) |
 | Girls and Robots | 266761 | [266761-girls-and-robots.json](./266761-girls-and-robots.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
 | Golem | 310610 | [310610-golem.json](./310610-golem.json) |
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
+| Golem Creation Kit | 54990 | [54990-golem-creation-kit.json](./54990-golem-creation-kit.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
@@ -5395,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
+| Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grimwalker | 244887 | [244887-grimwalker.json](./244887-grimwalker.json) |
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
@@ -5985,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
 | Guǐyāchuáng | 386346 | [386346-guiyachuang.json](./386346-guiyachuang.json) |
+| GuJian | 54824 | [54824-gujian.json](./54824-gujian.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
