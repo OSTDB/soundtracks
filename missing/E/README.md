@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
 | EA Playground | 175780 | [175780-ea-playground.json](./175780-ea-playground.json) |
+| EA Playground | 4825 | [4825-ea-playground.json](./4825-ea-playground.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
@@ -3251,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
 | ESPN Major League Baseball | 72275 | [72275-espn-major-league-baseball.json](./72275-espn-major-league-baseball.json) |
+| ESPN MLS ExtraTime 2002 | 3906 | [3906-espn-mls-extratime-2002.json](./3906-espn-mls-extratime-2002.json) |
 | ESPN National Hockey Night | 370312 | [370312-espn-national-hockey-night.json](./370312-espn-national-hockey-night.json) |
 | ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
