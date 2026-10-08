@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
 | Kingdom Come: Deliverance II - The Lion’s Crest | 337179 | [337179-kingdom-come-deliverance-ii-the-lion-s-crest.json](./337179-kingdom-come-deliverance-ii-the-lion-s-crest.json) |
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
+| Kingdom Come: Salvation | 402334 | [402334-kingdom-come-salvation.json](./402334-kingdom-come-salvation.json) |
 | Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
