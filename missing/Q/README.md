@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Monkey Land: King of Fruits | 301355 | [301355-qs-monkey-land-king-of-fruits.json](./301355-qs-monkey-land-king-of-fruits.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | QT | 130386 | [130386-qt.json](./130386-qt.json) |
+| Qtz | 419999 | [419999-qtz.json](./419999-qtz.json) |
 | QuAaargh!!! | 147306 | [147306-quaaargh.json](./147306-quaaargh.json) |
 | Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
 | Quack Attack | 293835 | [293835-quack-attack.json](./293835-quack-attack.json) |
