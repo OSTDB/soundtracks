@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One Military Camp: Multiplayer Mode | 277370 | [277370-one-military-camp-multiplayer-mode.json](./277370-one-military-camp-multiplayer-mode.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
+| One Mind | 390594 | [390594-one-mind.json](./390594-one-mind.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
+| Opening | 390710 | [390710-opening.json](./390710-opening.json) |
 | Opening Night | 287325 | [287325-opening-night.json](./287325-opening-night.json) |
 | Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
 | Opening Night at the Großen Schauspielhaus: Berlin 1927 | 171409 | [171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json](./171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json) |
