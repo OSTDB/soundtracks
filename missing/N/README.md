@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
 | Natsuyasumi | 327917 | [327917-natsuyasumi.json](./327917-natsuyasumi.json) |
 | Natsuyasumi ga Machidooshii | 307833 | [307833-natsuyasumi-ga-machidooshii.json](./307833-natsuyasumi-ga-machidooshii.json) |
+| Natsuyume Nagisa | 396029 | [396029-natsuyume-nagisa.json](./396029-natsuyume-nagisa.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
 | Natsuzora no Monologue: Another Memory | 287895 | [287895-natsuzora-no-monologue-another-memory.json](./287895-natsuzora-no-monologue-another-memory.json) |
 | Natti | 236911 | [236911-natti.json](./236911-natti.json) |
