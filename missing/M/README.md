@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
+| Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Stern | 31197 | [31197-max-stern.json](./31197-max-stern.json) |
 | Max Strong 2 | 310605 | [310605-max-strong-2.json](./310605-max-strong-2.json) |
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
+| Max Surfing 2nd | 398002 | [398002-max-surfing-2nd.json](./398002-max-surfing-2nd.json) |
 | Max Time Traveler: From the Future | 186645 | [186645-max-time-traveler-from-the-future.json](./186645-max-time-traveler-from-the-future.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
@@ -9930,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphatrons Raptor | 198827 | [198827-morphatrons-raptor.json](./198827-morphatrons-raptor.json) |
 | MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
+| Morpheus | 398019 | [398019-morpheus.json](./398019-morpheus.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
