@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
+| Pangolick Quest | 417350 | [417350-pangolick-quest.json](./417350-pangolick-quest.json) |
 | Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
 | Pangolin Love: Day 1 - Ghana | 375812 | [375812-pangolin-love-day-1-ghana.json](./375812-pangolin-love-day-1-ghana.json) |
 | Pangolin Love: Day 2 - India | 375813 | [375813-pangolin-love-day-2-india.json](./375813-pangolin-love-day-2-india.json) |
@@ -1138,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
+| Paradise Corner 2 | 417351 | [417351-paradise-corner-2.json](./417351-paradise-corner-2.json) |
 | Paradise Cracked | 71647 | [71647-paradise-cracked.json](./71647-paradise-cracked.json) |
 | Paradise Delight | 379547 | [379547-paradise-delight.json](./379547-paradise-delight.json) |
 | Paradise Duty | 185498 | [185498-paradise-duty.json](./185498-paradise-duty.json) |
@@ -7306,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porkshire Hero | 331485 | [331485-porkshire-hero.json](./331485-porkshire-hero.json) |
 | Porky Pig's Haunted Holiday | 42472 | [42472-porky-pigs-haunted-holiday.json](./42472-porky-pigs-haunted-holiday.json) |
 | Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
+| Porn Handyman VR | 417408 | [417408-porn-handyman-vr.json](./417408-porn-handyman-vr.json) |
 | Porn Pizza Delivery Boy | 369674 | [369674-porn-pizza-delivery-boy.json](./369674-porn-pizza-delivery-boy.json) |
 | Porn Star Island | 385795 | [385795-porn-star-island.json](./385795-porn-star-island.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
