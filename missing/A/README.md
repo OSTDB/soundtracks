@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
+| A Shock of Dimension | 422154 | [422154-a-shock-of-dimension.json](./422154-a-shock-of-dimension.json) |
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Short Game About Nothing | 395167 | [395167-a-short-game-about-nothing.json](./395167-a-short-game-about-nothing.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in Dreamland | 240733 | [240733-alice-in-dreamland.json](./240733-alice-in-dreamland.json) |
 | Alice in Musicland | 392492 | [392492-alice-in-musicland.json](./392492-alice-in-musicland.json) |
+| Alice in Pumpkinland | 422096 | [422096-alice-in-pumpkinland.json](./422096-alice-in-pumpkinland.json) |
 | Alice in Stardom | 116838 | [116838-alice-in-stardom.json](./116838-alice-in-stardom.json) |
 | Alice in the Manor | 351269 | [351269-alice-in-the-manor.json](./351269-alice-in-the-manor.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
@@ -5809,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
 | Anna: The Series Test | 156645 | [156645-anna-the-series-test.json](./156645-anna-the-series-test.json) |
+| Anna's Bakery Shop | 422138 | [422138-annas-bakery-shop.json](./422138-annas-bakery-shop.json) |
 | Anna's Gram | 94252 | [94252-annas-gram.json](./94252-annas-gram.json) |
 | Anna's Quest | 11367 | [11367-annas-quest.json](./11367-annas-quest.json) |
 | Annabel | 92055 | [92055-annabel.json](./92055-annabel.json) |
@@ -6383,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Racer | 321515 | [321515-apex-racer.json](./321515-apex-racer.json) |
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
+| Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
 | Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
