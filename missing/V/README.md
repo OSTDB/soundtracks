@@ -539,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vape Store Miami | 406824 | [406824-vape-store-miami.json](./406824-vape-store-miami.json) |
+| Vapinupituru | 393537 | [393537-vapinupituru.json](./393537-vapinupituru.json) |
 | Vapor Maze | 178543 | [178543-vapor-maze.json](./178543-vapor-maze.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Music Tour | 160172 | [160172-vapor-music-tour.json](./160172-vapor-music-tour.json) |
