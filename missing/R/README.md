@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
+| Rail Simulator | 10740 | [10740-rail-simulator.json](./10740-rail-simulator.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
 | Rail Walkers | 197174 | [197174-rail-walkers.json](./197174-rail-walkers.json) |
 | Rail Wars! | 86197 | [86197-rail-wars.json](./86197-rail-wars.json) |
@@ -6650,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
+| Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
