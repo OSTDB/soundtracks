@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Assetia: The Clicker Game | 166621 | [166621-kingdom-of-assetia-the-clicker-game.json](./166621-kingdom-of-assetia-the-clicker-game.json) |
 | Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
 | Kingdom of Atham: Crown of the Champions | 166715 | [166715-kingdom-of-atham-crown-of-the-champions.json](./166715-kingdom-of-atham-crown-of-the-champions.json) |
+| Kingdom of Aurelia: Mystery of the Poisoned Dagger | 30683 | [30683-kingdom-of-aurelia-mystery-of-the-poisoned-dagger.json](./30683-kingdom-of-aurelia-mystery-of-the-poisoned-dagger.json) |
 | Kingdom of Bärn | 279129 | [279129-kingdom-of-barn.json](./279129-kingdom-of-barn.json) |
 | Kingdom of Bees | 158602 | [158602-kingdom-of-bees.json](./158602-kingdom-of-bees.json) |
 | Kingdom of Blades | 82339 | [82339-kingdom-of-blades.json](./82339-kingdom-of-blades.json) |
