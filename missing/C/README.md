@@ -4863,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
+| Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella Phenomenon: Evermore | 156586 | [156586-cinderella-phenomenon-evermore.json](./156586-cinderella-phenomenon-evermore.json) |
@@ -6725,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
+| Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
@@ -7266,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community Button | 402383 | [402383-community-button.json](./402383-community-button.json) |
 | Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
+| Community College Hero: Trial by Fire | 34205 | [34205-community-college-hero-trial-by-fire.json](./34205-community-college-hero-trial-by-fire.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
 | CommunityUs | 117570 | [117570-communityus.json](./117570-communityus.json) |
@@ -9185,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
+| Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
@@ -11190,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
+| Curvatron | 34417 | [34417-curvatron.json](./34417-curvatron.json) |
 | Curve Digital PS4 Mega Bundle | 99807 | [99807-curve-digital-ps4-mega-bundle.json](./99807-curve-digital-ps4-mega-bundle.json) |
 | Curve Digital Triple Features - Action Pack | 99806 | [99806-curve-digital-triple-features-action-pack.json](./99806-curve-digital-triple-features-action-pack.json) |
 | Curve Digital Triple Features - Adventure Pack | 99805 | [99805-curve-digital-triple-features-adventure-pack.json](./99805-curve-digital-triple-features-adventure-pack.json) |
