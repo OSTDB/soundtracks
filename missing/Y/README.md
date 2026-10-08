@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Fledgling" | 315495 | [315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json](./315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Lucky Outfit" | 315496 | [315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json](./315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Trendy Schoolgirl" | 315498 | [315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json](./315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json) |
+| Yohjo Simulator | 34201 | [34201-yohjo-simulator.json](./34201-yohjo-simulator.json) |
 | Yoiks! | 202173 | [202173-yoiks.json](./202173-yoiks.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yoiyami Dancers | 100556 | [100556-yoiyami-dancers.json](./100556-yoiyami-dancers.json) |
