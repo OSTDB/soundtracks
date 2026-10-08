@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
+| Deeper Club | 396698 | [396698-deeper-club.json](./396698-deeper-club.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
@@ -3606,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
+| Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Core | 110239 | [110239-demon-core.json](./110239-demon-core.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
@@ -4540,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: The Conspiracy | 78367 | [78367-deus-ex-the-conspiracy.json](./78367-deus-ex-the-conspiracy.json) |
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
 | Deus Ex: Zodiac | 230249 | [230249-deus-ex-zodiac.json](./230249-deus-ex-zodiac.json) |
+| Deus Exia | 396741 | [396741-deus-exia.json](./396741-deus-exia.json) |
 | Deus Proxy | 291536 | [291536-deus-proxy.json](./291536-deus-proxy.json) |
 | Deus Vult | 139763 | [139763-deus-vult.json](./139763-deus-vult.json) |
 | Deus Vult II | 139765 | [139765-deus-vult-ii.json](./139765-deus-vult-ii.json) |
@@ -4741,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
+| DFClicker | 396731 | [396731-dfclicker.json](./396731-dfclicker.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
