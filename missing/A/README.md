@@ -4308,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvastia Chronicles | 113623 | [113623-alvastia-chronicles.json](./113623-alvastia-chronicles.json) |
 | Alvegia Online | 218397 | [218397-alvegia-online.json](./218397-alvegia-online.json) |
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
+| Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
 | Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
@@ -9384,6 +9385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
+| Attack of the Movies 3D | 4683 | [4683-attack-of-the-movies-3d.json](./4683-attack-of-the-movies-3d.json) |
 | Attack of the Mutant Camels | 13823 | [13823-attack-of-the-mutant-camels.json](./13823-attack-of-the-mutant-camels.json) |
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
