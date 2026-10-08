@@ -5605,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
+| Blasphemous 2: Complete Sacrament Edition | 402946 | [402946-blasphemous-2-complete-sacrament-edition.json](./402946-blasphemous-2-complete-sacrament-edition.json) |
 | Blasphemous 2: Mea Culpa Edition | 324383 | [324383-blasphemous-2-mea-culpa-edition.json](./324383-blasphemous-2-mea-culpa-edition.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
@@ -8044,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
 | Bountiful Life | 149503 | [149503-bountiful-life.json](./149503-bountiful-life.json) |
 | Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
+| Bounty Bash | 403226 | [403226-bounty-bash.json](./403226-bounty-bash.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
@@ -10379,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
 | BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
+| Businessman Simulator 2 | 402971 | [402971-businessman-simulator-2.json](./402971-businessman-simulator-2.json) |
 | Businessman Simulator 3 | 402973 | [402973-businessman-simulator-3.json](./402973-businessman-simulator-3.json) |
 | Businessmen | 301398 | [301398-businessmen.json](./301398-businessmen.json) |
 | Busou Shinki: Battle Masters | 66641 | [66641-busou-shinki-battle-masters.json](./66641-busou-shinki-battle-masters.json) |
