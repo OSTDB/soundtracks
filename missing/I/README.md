@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry Attack: Golden Backup Edition | 371435 | [371435-infantry-attack-golden-backup-edition.json](./371435-infantry-attack-golden-backup-edition.json) |
 | Infantry Attack: Strike from Above | 303579 | [303579-infantry-attack-strike-from-above.json](./303579-infantry-attack-strike-from-above.json) |
 | Infasia | 260190 | [260190-infasia.json](./260190-infasia.json) |
+| Infect and Destroy | 17511 | [17511-infect-and-destroy.json](./17511-infect-and-destroy.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
@@ -3744,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
+| Isomer | 17595 | [17595-isomer.json](./17595-isomer.json) |
 | Isometria | 266430 | [266430-isometria.json](./266430-isometria.json) |
 | Isometric & Karate Exercise: Wii de Kotsuban Fitness | 134478 | [134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json](./134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
