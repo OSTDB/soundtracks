@@ -6282,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Renegade | 139449 | [139449-rooftop-renegade.json](./139449-rooftop-renegade.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
+| Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
