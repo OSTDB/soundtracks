@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Boss | 344501 | [344501-despicable-boss.json](./344501-despicable-boss.json) |
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
+| Despicable Me: The Game - Minion Mayhem | 80085 | [80085-despicable-me-the-game-minion-mayhem.json](./80085-despicable-me-the-game-minion-mayhem.json) |
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
 | Destination Earthstar | 22410 | [22410-destination-earthstar.json](./22410-destination-earthstar.json) |
 | Destination Paradise | 295273 | [295273-destination-paradise.json](./295273-destination-paradise.json) |
+| Destination Primus Vita | 77657 | [77657-destination-primus-vita.json](./77657-destination-primus-vita.json) |
 | Destination Sol | 15737 | [15737-destination-sol.json](./15737-destination-sol.json) |
 | Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
@@ -5889,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
 | Disney Sports Basketball | 243192 | [243192-disney-sports-basketball.json](./243192-disney-sports-basketball.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
+| Disney Sports Football | 78590 | [78590-disney-sports-football.json](./78590-disney-sports-football.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
@@ -6890,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
+| Domino Rally | 77114 | [77114-domino-rally.json](./77114-domino-rally.json) |
 | Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
