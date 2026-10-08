@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
 | Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
+| Carnival Games Mini Golf | 4058 | [4058-carnival-games-mini-golf.json](./4058-carnival-games-mini-golf.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
 | Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
@@ -3335,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
+| Charinko Hero | 3854 | [3854-charinko-hero.json](./3854-charinko-hero.json) |
 | Chariot | 7897 | [7897-chariot.json](./7897-chariot.json) |
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
