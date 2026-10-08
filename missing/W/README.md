@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Surfer Bus | 202766 | [202766-water-surfer-bus.json](./202766-water-surfer-bus.json) |
 | Water Tank | 239718 | [239718-water-tank.json](./239718-water-tank.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
+| Water Warfare | 21212 | [21212-water-warfare.json](./21212-water-warfare.json) |
 | Water You Doing? | 406878 | [406878-water-you-doing.json](./406878-water-you-doing.json) |
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
 | Water's Fine | 134565 | [134565-waters-fine.json](./134565-waters-fine.json) |
