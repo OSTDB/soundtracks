@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
+| A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
@@ -7034,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Boss Simulator | 345567 | [345567-arcade-boss-simulator.json](./345567-arcade-boss-simulator.json) |
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Boy | 152873 | [152873-arcade-boy.json](./152873-arcade-boy.json) |
+| Arcade Breakout | 412241 | [412241-arcade-breakout.json](./412241-arcade-breakout.json) |
 | Arcade Bundle | 294821 | [294821-arcade-bundle.json](./294821-arcade-bundle.json) |
 | Arcade Cats | 252704 | [252704-arcade-cats.json](./252704-arcade-cats.json) |
 | Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
