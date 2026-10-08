@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
+| Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cholo | 12984 | [12984-cholo.json](./12984-cholo.json) |
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
 | Chomp Chomp | 290097 | [290097-chomp-chomp.json](./290097-chomp-chomp.json) |
+| Chomp Garden | 419945 | [419945-chomp-garden.json](./419945-chomp-garden.json) |
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
 | Chompania | 284969 | [284969-chompania.json](./284969-chompania.json) |
@@ -10523,6 +10525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
 | Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
+| Cryptid Hunt feat. Mothman | 419997 | [419997-cryptid-hunt-feat-mothman.json](./419997-cryptid-hunt-feat-mothman.json) |
 | Cryptid Kitchen | 244328 | [244328-cryptid-kitchen.json](./244328-cryptid-kitchen.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
 | Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
