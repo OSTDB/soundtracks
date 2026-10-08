@@ -5124,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
 | Hollow Doll | 322060 | [322060-hollow-doll.json](./322060-hollow-doll.json) |
 | Hollow Earth | 291689 | [291689-hollow-earth.json](./291689-hollow-earth.json) |
+| Hollow Faces | 388186 | [388186-hollow-faces.json](./388186-hollow-faces.json) |
 | Hollow Floor | 296617 | [296617-hollow-floor.json](./296617-hollow-floor.json) |
 | Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
@@ -5403,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
 | Homer's Odyssey | 123977 | [123977-homers-odyssey.json](./123977-homers-odyssey.json) |
 | Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
+| HomeRun | 388193 | [388193-homerun.json](./388193-homerun.json) |
 | Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
 | Homerun Clash | 109568 | [109568-homerun-clash.json](./109568-homerun-clash.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
