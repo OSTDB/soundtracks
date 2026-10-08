@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
+| Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrawlQuest | 103637 | [103637-brawlquest.json](./103637-brawlquest.json) |
 | Brawlygon | 276252 | [276252-brawlygon.json](./276252-brawlygon.json) |
 | Brayan Odleys Numbers | 74377 | [74377-brayan-odleys-numbers.json](./74377-brayan-odleys-numbers.json) |
+| Brayz | 407998 | [407998-brayz.json](./407998-brayz.json) |
 | Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
 | Brazen Thief | 230882 | [230882-brazen-thief.json](./230882-brazen-thief.json) |
@@ -9959,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Boat Kids Tilt | 197705 | [197705-bumper-boat-kids-tilt.json](./197705-bumper-boat-kids-tilt.json) |
 | Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
+| Bumper Bout | 408105 | [408105-bumper-bout.json](./408105-bumper-bout.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Stickers Archipelago Edition | 271950 | [271950-bumper-stickers-archipelago-edition.json](./271950-bumper-stickers-archipelago-edition.json) |
 | Bumper Stickers MZX | 271949 | [271949-bumper-stickers-mzx.json](./271949-bumper-stickers-mzx.json) |
