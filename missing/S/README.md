@@ -7064,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
+| SkidStorm | 54977 | [54977-skidstorm.json](./54977-skidstorm.json) |
 | Skidz | 15369 | [15369-skidz.json](./15369-skidz.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
@@ -7735,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Ages | 329055 | [329055-slice-of-ages.json](./329055-slice-of-ages.json) |
+| Slice of Life | 55276 | [55276-slice-of-life.json](./55276-slice-of-life.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
 | Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
 | Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
@@ -9281,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
+| Sojourner | 54901 | [54901-sojourner.json](./54901-sojourner.json) |
 | Sok Max | 82364 | [82364-sok-max.json](./82364-sok-max.json) |
 | Sok Min | 96888 | [96888-sok-min.json](./96888-sok-min.json) |
 | Sok Min: Pro | 196129 | [196129-sok-min-pro.json](./196129-sok-min-pro.json) |
@@ -9486,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
 | Soldiers Lost Forever (1914-1918) | 105256 | [105256-soldiers-lost-forever-1914-1918.json](./105256-soldiers-lost-forever-1914-1918.json) |
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
+| Soldiers of Freedom | 54847 | [54847-soldiers-of-freedom.json](./54847-soldiers-of-freedom.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
@@ -9772,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Strange has Come Over God's Country Tonight | 335515 | [335515-something-strange-has-come-over-gods-country-tonight.json](./335515-something-strange-has-come-over-gods-country-tonight.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
 | Something That Shouldn't Be There Is Visible. | 410371 | [410371-something-that-shouldnt-be-there-is-visible.json](./410371-something-that-shouldnt-be-there-is-visible.json) |
+| Something to Do with Love | 54839 | [54839-something-to-do-with-love.json](./54839-something-to-do-with-love.json) |
 | Something To Write About: Unbroken - Book One | 336066 | [336066-something-to-write-about-unbroken-book-one.json](./336066-something-to-write-about-unbroken-book-one.json) |
 | Something Took Her | 335247 | [335247-something-took-her.json](./335247-something-took-her.json) |
 | Something Wicked Lies Beneath | 250873 | [250873-something-wicked-lies-beneath.json](./250873-something-wicked-lies-beneath.json) |
@@ -18956,6 +18961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinball Adventure | 365250 | [365250-super-pinball-adventure.json](./365250-super-pinball-adventure.json) |
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
 | Super Pinball: Behind the Mask | 42455 | [42455-super-pinball-behind-the-mask.json](./42455-super-pinball-behind-the-mask.json) |
+| Super Ping Pong Trick Shot | 54959 | [54959-super-ping-pong-trick-shot.json](./54959-super-ping-pong-trick-shot.json) |
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
@@ -19644,6 +19650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
+| Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
@@ -19688,6 +19695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersonic Fight | 216712 | [216712-supersonic-fight.json](./216712-supersonic-fight.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | Supersonic Mario | 308471 | [308471-supersonic-mario.json](./308471-supersonic-mario.json) |
+| Supersonic Tank Cats | 55299 | [55299-supersonic-tank-cats.json](./55299-supersonic-tank-cats.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | SuperSpeed Deluxe | 366963 | [366963-superspeed-deluxe.json](./366963-superspeed-deluxe.json) |
 | Supersportic | 68273 | [68273-supersportic.json](./68273-supersportic.json) |
