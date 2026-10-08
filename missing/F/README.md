@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Pocket | 49579 | [49579-fancy-pocket.json](./49579-fancy-pocket.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
+| Fancy Skulls | 17535 | [17535-fancy-skulls.json](./17535-fancy-skulls.json) |
 | Fancy Slingshot VR | 31670 | [31670-fancy-slingshot-vr.json](./31670-fancy-slingshot-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy Tale | 109523 | [109523-fancy-tale.json](./109523-fancy-tale.json) |
@@ -6496,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
 | Freakland | 216722 | [216722-freakland.json](./216722-freakland.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
+| FreakOut: Extreme Freeride | 17493 | [17493-freakout-extreme-freeride.json](./17493-freakout-extreme-freeride.json) |
 | Freakshow | 348840 | [348840-freakshow.json](./348840-freakshow.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
 | Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
@@ -7208,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
+| Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
