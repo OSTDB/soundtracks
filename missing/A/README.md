@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Transitional Eve | 397044 | [397044-a-transitional-eve.json](./397044-a-transitional-eve.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
+| A Trip to Yugoslavia: Director's Cut | 30888 | [30888-a-trip-to-yugoslavia-directors-cut.json](./30888-a-trip-to-yugoslavia-directors-cut.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Lullaby | 171476 | [171476-alices-lullaby.json](./171476-alices-lullaby.json) |
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
+| Alice's Patchworks 2 | 31438 | [31438-alices-patchworks-2.json](./31438-alices-patchworks-2.json) |
 | Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
 | Alice's Spiritual Judge | 202677 | [202677-alices-spiritual-judge.json](./202677-alices-spiritual-judge.json) |
 | Alice's Tea Cup Madness | 64706 | [64706-alices-tea-cup-madness.json](./64706-alices-tea-cup-madness.json) |
@@ -7549,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
 | Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
+| ARK Park | 31250 | [31250-ark-park.json](./31250-ark-park.json) |
 | Ark Re:Code | 367393 | [367393-ark-re-code.json](./367393-ark-re-code.json) |
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
