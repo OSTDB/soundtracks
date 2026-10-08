@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
+| 3079: Block Action RPG | 11431 | [11431-3079-block-action-rpg.json](./11431-3079-block-action-rpg.json) |
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
