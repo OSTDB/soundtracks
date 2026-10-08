@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ends | 247099 | [247099-ends.json](./247099-ends.json) |
 | Ends | 302078 | [302078-ends.json](./302078-ends.json) |
 | EndSeeker | 333143 | [333143-endseeker.json](./333143-endseeker.json) |
+| Endstation | 390070 | [390070-endstation.json](./390070-endstation.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 13642 | [13642-endurance.json](./13642-endurance.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
