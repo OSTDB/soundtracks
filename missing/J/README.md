@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
 | Jenesis | 141115 | [141115-jenesis.json](./141115-jenesis.json) |
 | Jenga Cat | 336649 | [336649-jenga-cat.json](./336649-jenga-cat.json) |
+| Jenga World Tour | 4941 | [4941-jenga-world-tour.json](./4941-jenga-world-tour.json) |
 | Jenni's Dong has got it Goin' On: The Jenni Trilogy | 226854 | [226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json](./226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json) |
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
@@ -666,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeremiah | 181691 | [181691-jeremiah.json](./181691-jeremiah.json) |
 | Jeremy Goes Jumping | 128469 | [128469-jeremy-goes-jumping.json](./128469-jeremy-goes-jumping.json) |
 | Jeremy McGrath Supercross 98 | 4125 | [4125-jeremy-mcgrath-supercross-98.json](./4125-jeremy-mcgrath-supercross-98.json) |
+| Jeremy McGrath Supercross World | 3960 | [3960-jeremy-mcgrath-supercross-world.json](./3960-jeremy-mcgrath-supercross-world.json) |
 | Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
@@ -2270,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World: Primal Ops | 208018 | [208018-jurassic-world-primal-ops.json](./208018-jurassic-world-primal-ops.json) |
 | Jurassic World: The Game | 10530 | [10530-jurassic-world-the-game.json](./10530-jurassic-world-the-game.json) |
 | Jurassic Wrap | 381736 | [381736-jurassic-wrap.json](./381736-jurassic-wrap.json) |
+| Jurassic: The Hunted | 4946 | [4946-jurassic-the-hunted.json](./4946-jurassic-the-hunted.json) |
 | Jurig Escape | 117768 | [117768-jurig-escape.json](./117768-jurig-escape.json) |
 | Jurisdiction | 144183 | [144183-jurisdiction.json](./144183-jurisdiction.json) |
 | Jurl | 244189 | [244189-jurl.json](./244189-jurl.json) |
