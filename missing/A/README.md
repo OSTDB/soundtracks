@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
+| Agile Cube | 416183 | [416183-agile-cube.json](./416183-agile-cube.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
 | Agility Dogs | 175165 | [175165-agility-dogs.json](./175165-agility-dogs.json) |
@@ -9613,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Au Pays des PooYoos: Activités d'Éveil | 408976 | [408976-au-pays-des-pooyoos-activites-deveil.json](./408976-au-pays-des-pooyoos-activites-deveil.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
 | Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
+| Aubac | 416163 | [416163-aubac.json](./416163-aubac.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
 | Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
