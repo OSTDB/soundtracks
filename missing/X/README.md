@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-COM: Apocalypse | 26 | [26-x-com-apocalypse.json](./26-x-com-apocalypse.json) |
 | X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
 | X-Com: From The Ashes | 278079 | [278079-x-com-from-the-ashes.json](./278079-x-com-from-the-ashes.json) |
+| X-COM: Interceptor | 27 | [27-x-com-interceptor.json](./27-x-com-interceptor.json) |
 | X-Day | 140494 | [140494-x-day.json](./140494-x-day.json) |
 | X-Day 2 | 140495 | [140495-x-day-2.json](./140495-x-day-2.json) |
 | X-Files: Resist or Serve | 24136 | [24136-x-files-resist-or-serve.json](./24136-x-files-resist-or-serve.json) |
