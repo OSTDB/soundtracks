@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overclocked: The Aclockalypse | 96863 | [96863-overclocked-the-aclockalypse.json](./96863-overclocked-the-aclockalypse.json) |
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
+| Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
 | Overcooked! 2: Too Many Cooks Pack | 151307 | [151307-overcooked-2-too-many-cooks-pack.json](./151307-overcooked-2-too-many-cooks-pack.json) |
 | Overcooked! All You Can Eat | 135915 | [135915-overcooked-all-you-can-eat.json](./135915-overcooked-all-you-can-eat.json) |
