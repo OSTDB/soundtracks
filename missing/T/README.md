@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
+| The Golden Caravan | 399928 | [399928-the-golden-caravan.json](./399928-the-golden-caravan.json) |
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
 | The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
@@ -14733,6 +14734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
 | Tom Clancy's Ghost Recon 2: Summit Strike | 1299 | [1299-tom-clancys-ghost-recon-2-summit-strike.json](./1299-tom-clancys-ghost-recon-2-summit-strike.json) |
 | Tom Clancy's Ghost Recon Advanced Warfighter 2 | 1301 | [1301-tom-clancys-ghost-recon-advanced-warfighter-2.json](./1301-tom-clancys-ghost-recon-advanced-warfighter-2.json) |
+| Tom Clancy's Ghost Recon Breakpoint: Sentinel Corp. Pack | 399903 | [399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json](./399903-tom-clancys-ghost-recon-breakpoint-sentinel-corp-pack.json) |
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
 | Tom Clancy's Ghost Recon Predator | 1302 | [1302-tom-clancys-ghost-recon-predator.json](./1302-tom-clancys-ghost-recon-predator.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
@@ -14867,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Defender | 207198 | [207198-tomb-defender.json](./207198-tomb-defender.json) |
 | Tomb Explorer VR | 204422 | [204422-tomb-explorer-vr.json](./204422-tomb-explorer-vr.json) |
+| Tomb Guard | 399901 | [399901-tomb-guard.json](./399901-tomb-guard.json) |
 | Tomb Guard VR | 28874 | [28874-tomb-guard-vr.json](./28874-tomb-guard-vr.json) |
 | Tomb Joe | 29874 | [29874-tomb-joe.json](./29874-tomb-joe.json) |
 | Tomb Keeper Mansion Deluxe Pinball | 193215 | [193215-tomb-keeper-mansion-deluxe-pinball.json](./193215-tomb-keeper-mansion-deluxe-pinball.json) |
@@ -17902,6 +17905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Deep | 206072 | [206072-treasures-of-the-deep.json](./206072-treasures-of-the-deep.json) |
 | Treasures of the Deep | 45209 | [45209-treasures-of-the-deep.json](./45209-treasures-of-the-deep.json) |
+| Treasures of the Goblin King | 399910 | [399910-treasures-of-the-goblin-king.json](./399910-treasures-of-the-goblin-king.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Treasures of the Inca | 416186 | [416186-treasures-of-the-inca.json](./416186-treasures-of-the-inca.json) |
 | Treasures of the Planet Ziberium | 416185 | [416185-treasures-of-the-planet-ziberium.json](./416185-treasures-of-the-planet-ziberium.json) |
@@ -18221,6 +18225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigon: Space Story - Deluxe Edition | 227186 | [227186-trigon-space-story-deluxe-edition.json](./227186-trigon-space-story-deluxe-edition.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trigonarium | 34718 | [34718-trigonarium.json](./34718-trigonarium.json) |
+| Trigonometric Equations | 399883 | [399883-trigonometric-equations.json](./399883-trigonometric-equations.json) |
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
