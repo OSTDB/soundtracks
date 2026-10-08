@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
 | Oh Snap | 92086 | [92086-oh-snap.json](./92086-oh-snap.json) |
+| Oh Snow! | 408051 | [408051-oh-snow.json](./408051-oh-snow.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
 | One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
+| One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
