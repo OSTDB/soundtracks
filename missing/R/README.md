@@ -6859,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Clicker | 183885 | [183885-rpg-clicker.json](./183885-rpg-clicker.json) |
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
+| RPG Fitness VR | 388900 | [388900-rpg-fitness-vr.json](./388900-rpg-fitness-vr.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
