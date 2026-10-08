@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
 | OMG Police: Car Chase TV Simulator | 147907 | [147907-omg-police-car-chase-tv-simulator.json](./147907-omg-police-car-chase-tv-simulator.json) |
 | OMG Words | 292541 | [292541-omg-words.json](./292541-omg-words.json) |
+| OMG Zombies! | 16781 | [16781-omg-zombies.json](./16781-omg-zombies.json) |
 | OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
 | OMG: One Million Guns | 160219 | [160219-omg-one-million-guns.json](./160219-omg-one-million-guns.json) |
 | OMG: One More Goal - Basic Campaigns Pack | 226124 | [226124-omg-one-more-goal-basic-campaigns-pack.json](./226124-omg-one-more-goal-basic-campaigns-pack.json) |
@@ -1885,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
 | Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
+| Oozi: Earth Adventure | 16738 | [16738-oozi-earth-adventure.json](./16738-oozi-earth-adventure.json) |
 | Oozin' in Space! | 179552 | [179552-oozin-in-space.json](./179552-oozin-in-space.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
