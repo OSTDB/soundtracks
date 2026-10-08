@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligent Destruction | 384165 | [384165-intelligent-destruction.json](./384165-intelligent-destruction.json) |
 | Intellivania | 270284 | [270284-intellivania.json](./270284-intellivania.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
+| Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
