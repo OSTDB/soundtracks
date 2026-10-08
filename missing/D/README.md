@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
+| Dealer's Dice | 410091 | [410091-dealers-dice.json](./410091-dealers-dice.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dealey Plaza Paintball | 59863 | [59863-dealey-plaza-paintball.json](./59863-dealey-plaza-paintball.json) |
 | Dear | 148388 | [148388-dear.json](./148388-dear.json) |
@@ -5857,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disintegration | 120625 | [120625-disintegration.json](./120625-disintegration.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
+| Disjoined | 410204 | [410204-disjoined.json](./410204-disjoined.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
 | Disk Dashers | 244739 | [244739-disk-dashers.json](./244739-disk-dashers.json) |
@@ -8934,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
+| Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
@@ -10795,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
+| Duskdog | 410185 | [410185-duskdog.json](./410185-duskdog.json) |
 | Duskers 2.0 | 405061 | [405061-duskers-2-0.json](./405061-duskers-2-0.json) |
 | Duskfade | 310665 | [310665-duskfade.json](./310665-duskfade.json) |
 | Duskfall | 316260 | [316260-duskfall.json](./316260-duskfall.json) |
