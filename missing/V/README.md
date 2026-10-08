@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
 | Void Terrarium++ | 143999 | [143999-void-terrarium.json](./143999-void-terrarium.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
+| Void Vikings | 33573 | [33573-void-vikings.json](./33573-void-vikings.json) |
 | Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void Warfare | 148889 | [148889-void-warfare.json](./148889-void-warfare.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
