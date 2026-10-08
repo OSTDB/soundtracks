@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
 | Maybe: Interactive Stories - Royal Blood | 103997 | [103997-maybe-interactive-stories-royal-blood.json](./103997-maybe-interactive-stories-royal-blood.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
+| Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech Merc Company | 121498 | [121498-mech-merc-company.json](./121498-mech-merc-company.json) |
+| Mech My Day | 392861 | [392861-mech-my-day.json](./392861-mech-my-day.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
@@ -9752,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
 | Moonring | 266774 | [266774-moonring.json](./266774-moonring.json) |
 | Moonring DX | 334849 | [334849-moonring-dx.json](./334849-moonring-dx.json) |
+| Moonripple Lake | 392888 | [392888-moonripple-lake.json](./392888-moonripple-lake.json) |
 | Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
 | Moonrot | 391818 | [391818-moonrot.json](./391818-moonrot.json) |
