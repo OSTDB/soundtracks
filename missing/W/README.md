@@ -5131,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
+| Worldly: Country & Maps Quiz | 406058 | [406058-worldly-country-and-maps-quiz.json](./406058-worldly-country-and-maps-quiz.json) |
 | WorldNeverlan: Elnea Kingdom - Bee Apparel Set | 304808 | [304808-worldneverlan-elnea-kingdom-bee-apparel-set.json](./304808-worldneverlan-elnea-kingdom-bee-apparel-set.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Chocolate Donut Fair | 287173 | [287173-worldneverland-chocolate-donut-fair.json](./287173-worldneverland-chocolate-donut-fair.json) |
