@@ -6722,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
+| Royal Trouble: Hidden Honeymoon Havoc | 87093 | [87093-royal-trouble-hidden-honeymoon-havoc.json](./87093-royal-trouble-hidden-honeymoon-havoc.json) |
 | Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
