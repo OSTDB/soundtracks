@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: Pacific | 44090 | [44090-tank-battle-pacific.json](./44090-tank-battle-pacific.json) |
 | Tank Beat | 21532 | [21532-tank-beat.json](./21532-tank-beat.json) |
 | Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
+| Tank Brawl | 33648 | [33648-tank-brawl.json](./33648-tank-brawl.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
@@ -8623,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
 | The Pandemonium | 276377 | [276377-the-pandemonium.json](./276377-the-pandemonium.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
+| The Panic Room | 33664 | [33664-the-panic-room.json](./33664-the-panic-room.json) |
 | The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
@@ -11151,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispered World | 7145 | [7145-the-whispered-world.json](./7145-the-whispered-world.json) |
+| The Whisperer in Darkness | 33700 | [33700-the-whisperer-in-darkness.json](./33700-the-whisperer-in-darkness.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
 | The Whispering Woods | 335361 | [335361-the-whispering-woods.json](./335361-the-whispering-woods.json) |
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
