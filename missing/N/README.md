@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
 | Nurtopu: Fetö ile Mücadele | 204357 | [204357-nurtopu-feto-ile-mucadele.json](./204357-nurtopu-feto-ile-mucadele.json) |
 | Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
+| Nusakana | 34496 | [34496-nusakana.json](./34496-nusakana.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
 | Nusantara: Bermuda Triangle | 177329 | [177329-nusantara-bermuda-triangle.json](./177329-nusantara-bermuda-triangle.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
