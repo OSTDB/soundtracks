@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactilite | 397160 | [397160-tactilite.json](./397160-tactilite.json) |
 | Tactix | 379981 | [379981-tactix.json](./379981-tactix.json) |
+| Tactorius | 397994 | [397994-tactorius.json](./397994-tactorius.json) |
 | Tactris | 384800 | [384800-tactris.json](./384800-tactris.json) |
 | TacWars | 94881 | [94881-tacwars.json](./94881-tacwars.json) |
 | Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
+| That Summer: Hannah's Summer Vacation | 398043 | [398043-that-summer-hannahs-summer-vacation.json](./398043-that-summer-hannahs-summer-vacation.json) |
 | That Time I Became Friends with The Royal Scuttlebug Family and Fell From Space | 304155 | [304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json](./304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json) |
 | That time I got reincarnated as a fictional Defence Lawyer in an Ace Attorney fangame and had to defend myself against incredibly unfair odds. | 309990 | [309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json](./309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json) |
 | That Time I Got Reincarnated as a Slime | 174881 | [174881-that-time-i-got-reincarnated-as-a-slime.json](./174881-that-time-i-got-reincarnated-as-a-slime.json) |
@@ -5642,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
 | The Finals: Season 1 | 279659 | [279659-the-finals-season-1.json](./279659-the-finals-season-1.json) |
+| The Finals: Season 10 - Fantasy League | 398016 | [398016-the-finals-season-10-fantasy-league.json](./398016-the-finals-season-10-fantasy-league.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Finals: Season 6 - Rising Stars! | 400948 | [400948-the-finals-season-6-rising-stars.json](./400948-the-finals-season-6-rising-stars.json) |
@@ -5683,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
 | The Fish Fillets 2 | 9841 | [9841-the-fish-fillets-2.json](./9841-the-fish-fillets-2.json) |
 | The Fish Master! | 104099 | [104099-the-fish-master.json](./104099-the-fish-master.json) |
+| The Fish Shack | 398010 | [398010-the-fish-shack.json](./398010-the-fish-shack.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
@@ -16224,6 +16228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
+| Towerix91 | 398029 | [398029-towerix91.json](./398029-towerix91.json) |
 | Towerland | 195588 | [195588-towerland.json](./195588-towerland.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
 | TowerMadness HD | 96896 | [96896-towermadness-hd.json](./96896-towermadness-hd.json) |
@@ -17823,9 +17828,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Adventure Game | 11837 | [11837-treasure-adventure-game.json](./11837-treasure-adventure-game.json) |
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
+| Treasure Blast Quest | 398030 | [398030-treasure-blast-quest.json](./398030-treasure-blast-quest.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
+| Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
 | Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
@@ -17943,6 +17950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
+| Trees Adventure | 398044 | [398044-trees-adventure.json](./398044-trees-adventure.json) |
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
