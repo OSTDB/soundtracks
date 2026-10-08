@@ -6777,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
+| Million Dollar Adventure | 88658 | [88658-million-dollar-adventure.json](./88658-million-dollar-adventure.json) |
 | Million Dollar Password: 2009 Edition | 67397 | [67397-million-dollar-password-2009-edition.json](./67397-million-dollar-password-2009-edition.json) |
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
@@ -12148,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Town : Street Fun | 104474 | [104474-my-town-street-fun.json](./104474-my-town-street-fun.json) |
+| My Town: Airport | 88533 | [88533-my-town-airport.json](./88533-my-town-airport.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
 | My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
