@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Busty JK Teaches How to Do Petit Compensated Dating | 83168 | [83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json](./83168-a-busty-jk-teaches-how-to-do-petit-compensated-dating.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
+| A Butterfly in the District of Dreams | 28914 | [28914-a-butterfly-in-the-district-of-dreams.json](./28914-a-butterfly-in-the-district-of-dreams.json) |
 | A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
 | A Buttload of Free Games | 135226 | [135226-a-buttload-of-free-games.json](./135226-a-buttload-of-free-games.json) |
 | A Caçadora: Sorriso de Vampiro | 215792 | [215792-a-cacadora-sorriso-de-vampiro.json](./215792-a-cacadora-sorriso-de-vampiro.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
+| Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk | 143000 | [143000-across-the-obelisk.json](./143000-across-the-obelisk.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
@@ -2076,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aesos | 379565 | [379565-aesos.json](./379565-aesos.json) |
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
+| Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
@@ -2121,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
+| Affliction | 28913 | [28913-affliction.json](./28913-affliction.json) |
 | Affogato | 210654 | [210654-affogato.json](./210654-affogato.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
@@ -2227,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
+| Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
@@ -2521,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
+| Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
@@ -4435,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
+| Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
@@ -7034,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
+| Arcade Tale | 28902 | [28902-arcade-tale.json](./28902-arcade-tale.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
 | Arcade Tanks World: Tank Battle Simulator | 312093 | [312093-arcade-tanks-world-tank-battle-simulator.json](./312093-arcade-tanks-world-tank-battle-simulator.json) |
 | Arcade Ultimate | 202783 | [202783-arcade-ultimate.json](./202783-arcade-ultimate.json) |
@@ -7179,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
+| Arcfall | 28686 | [28686-arcfall.json](./28686-arcfall.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
 | Arcforce | 193793 | [193793-arcforce.json](./193793-arcforce.json) |
 | Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
