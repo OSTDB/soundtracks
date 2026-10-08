@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Through Hell | 324983 | [324983-chained-through-hell.json](./324983-chained-through-hell.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
+| Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
 | Chainmail Bikini | 235825 | [235825-chainmail-bikini.json](./235825-chainmail-bikini.json) |
 | ChainMan | 39763 | [39763-chainman.json](./39763-chainman.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
@@ -3128,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chamber of the Sci-Mutant Priestess | 81786 | [81786-chamber-of-the-sci-mutant-priestess.json](./81786-chamber-of-the-sci-mutant-priestess.json) |
 | Chamber One | 394528 | [394528-chamber-one.json](./394528-chamber-one.json) |
+| Chamber Shift | 393536 | [393536-chamber-shift.json](./393536-chamber-shift.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
@@ -5030,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
 | Circle Up | 344567 | [344567-circle-up.json](./344567-circle-up.json) |
+| Circle With a Gun | 393543 | [393543-circle-with-a-gun.json](./393543-circle-with-a-gun.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
 | Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
@@ -7244,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
 | Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
+| Comfwee Café | 393517 | [393517-comfwee-cafe.json](./393517-comfwee-cafe.json) |
 | Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
@@ -11717,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tile | 297082 | [297082-cyber-tile.json](./297082-cyber-tile.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
 | Cyber Tower 2048 | 357840 | [357840-cyber-tower-2048.json](./357840-cyber-tower-2048.json) |
+| Cyber Traps & the Detective Squad | 393533 | [393533-cyber-traps-and-the-detective-squad.json](./393533-cyber-traps-and-the-detective-squad.json) |
 | Cyber Troopers Virtual-On | 46775 | [46775-cyber-troopers-virtual-on.json](./46775-cyber-troopers-virtual-on.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Troopers Virtual-On Masterpiece 1995 - 2001 | 126474 | [126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json](./126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json) |
