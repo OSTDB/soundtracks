@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
+| Egg Mania: Eggstreme Madness | 3903 | [3903-egg-mania-eggstreme-madness.json](./3903-egg-mania-eggstreme-madness.json) |
 | Egg Meister | 344483 | [344483-egg-meister.json](./344483-egg-meister.json) |
 | Egg Monster Hero | 67364 | [67364-egg-monster-hero.json](./67364-egg-monster-hero.json) |
 | Egg of Empire | 156210 | [156210-egg-of-empire.json](./156210-egg-of-empire.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
 | Eisei Meijin III: Game Creator Yoshimura Nobuhiro no Zunou | 283253 | [283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json](./283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json) |
+| Eisei Meijin VI | 3904 | [3904-eisei-meijin-vi.json](./3904-eisei-meijin-vi.json) |
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
@@ -4067,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
 | Evolution of War | 173023 | [173023-evolution-of-war.json](./173023-evolution-of-war.json) |
 | Evolution RTS | 36359 | [36359-evolution-rts.json](./36359-evolution-rts.json) |
+| Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
 | Evolution: Battle for Utopia | 131458 | [131458-evolution-battle-for-utopia.json](./131458-evolution-battle-for-utopia.json) |
