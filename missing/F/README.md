@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
 | Fall of the New Age: Premium Edition | 36265 | [36265-fall-of-the-new-age-premium-edition.json](./36265-fall-of-the-new-age-premium-edition.json) |
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
+| Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
@@ -3812,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
+| Fishing Cat's Slack-off Diary | 392862 | [392862-fishing-cats-slack-off-diary.json](./392862-fishing-cats-slack-off-diary.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Clash: Catching Fish Game. Bass Hunting 3D | 99389 | [99389-fishing-clash-catching-fish-game-bass-hunting-3d.json](./99389-fishing-clash-catching-fish-game-bass-hunting-3d.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
@@ -6831,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' 64 | 294774 | [294774-friday-night-funkin-64.json](./294774-friday-night-funkin-64.json) |
 | Friday Night Funkin' Battle Waifu | 205627 | [205627-friday-night-funkin-battle-waifu.json](./205627-friday-night-funkin-battle-waifu.json) |
 | Friday Night Funkin' D-Sides | 198304 | [198304-friday-night-funkin-d-sides.json](./198304-friday-night-funkin-d-sides.json) |
+| Friday Night Funkin' D-Sides Redux | 392875 | [392875-friday-night-funkin-d-sides-redux.json](./392875-friday-night-funkin-d-sides-redux.json) |
 | Friday Night Funkin' Lullaby | 198347 | [198347-friday-night-funkin-lullaby.json](./198347-friday-night-funkin-lullaby.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
