@@ -1640,6 +1640,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
+| KimiKiss: Chotto Matome Gekijou | 411517 | [411517-kimikiss-chotto-matome-gekijou.json](./411517-kimikiss-chotto-matome-gekijou.json) |
+| KimiKiss: Chotto Omake Gekijou | 411521 | [411521-kimikiss-chotto-omake-gekijou.json](./411521-kimikiss-chotto-omake-gekijou.json) |
 | KimiMuzi: The Merciless Queen of the Pigs | 381774 | [381774-kimimuzi-the-merciless-queen-of-the-pigs.json](./381774-kimimuzi-the-merciless-queen-of-the-pigs.json) |
 | KimiSuta: Kimi to Study | 287899 | [287899-kimisuta-kimi-to-study.json](./287899-kimisuta-kimi-to-study.json) |
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
