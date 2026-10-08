@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
+| Qora | 17492 | [17492-qora.json](./17492-qora.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
