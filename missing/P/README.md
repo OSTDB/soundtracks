@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
+| Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man VR | 65001 | [65001-pac-man-vr.json](./65001-pac-man-vr.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platoon Leader | 152132 | [152132-platoon-leader.json](./152132-platoon-leader.json) |
 | Platro | 31346 | [31346-platro.json](./31346-platro.json) |
 | Platswarmers | 374235 | [374235-platswarmers.json](./374235-platswarmers.json) |
+| Plättchen Twist 'n' Paint | 21801 | [21801-plattchen-twist-n-paint.json](./21801-plattchen-twist-n-paint.json) |
 | Plattis | 341569 | [341569-plattis.json](./341569-plattis.json) |
 | Platty Game | 417678 | [417678-platty-game.json](./417678-platty-game.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
@@ -6664,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position II | 293758 | [293758-pole-position-ii.json](./293758-pole-position-ii.json) |
+| Pole Position: Remix | 21875 | [21875-pole-position-remix.json](./21875-pole-position-remix.json) |
 | Pole Riders | 342166 | [342166-pole-riders.json](./342166-pole-riders.json) |
 | Poled Apart | 415319 | [415319-poled-apart.json](./415319-poled-apart.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
@@ -7080,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
+| Pop | 21828 | [21828-pop.json](./21828-pop.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
 | Pop and Well | 158626 | [158626-pop-and-well.json](./158626-pop-and-well.json) |
@@ -7512,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
 | Potions: A Curious Tale | 22554 | [22554-potions-a-curious-tale.json](./22554-potions-a-curious-tale.json) |
+| Potpourrii | 21799 | [21799-potpourrii.json](./21799-potpourrii.json) |
 | Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
 | Potrick Snap 2 | 341012 | [341012-potrick-snap-2.json](./341012-potrick-snap-2.json) |
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
@@ -9392,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protostar Drift | 103679 | [103679-protostar-drift.json](./103679-protostar-drift.json) |
 | Protostar Twilight | 294716 | [294716-protostar-twilight.json](./294716-protostar-twilight.json) |
 | Protostar: War on the Frontier | 73495 | [73495-protostar-war-on-the-frontier.json](./73495-protostar-war-on-the-frontier.json) |
+| Protöthea | 21821 | [21821-protothea.json](./21821-protothea.json) |
 | Prototype | 119662 | [119662-prototype.json](./119662-prototype.json) |
 | Prototype | 220684 | [220684-prototype.json](./220684-prototype.json) |
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
