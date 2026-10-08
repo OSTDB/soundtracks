@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
 | Marl Jong!! | 165594 | [165594-marl-jong.json](./165594-marl-jong.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
+| Marle: The Labyrinth of the Black Sea | 112937 | [112937-marle-the-labyrinth-of-the-black-sea.json](./112937-marle-the-labyrinth-of-the-black-sea.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
 | Marley & Marley | 250502 | [250502-marley-and-marley.json](./250502-marley-and-marley.json) |
@@ -3457,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Matta Blatta | 60346 | [60346-matta-blatta.json](./60346-matta-blatta.json) |
 | Mattel Match | 406255 | [406255-mattel-match.json](./406255-mattel-match.json) |
+| Matter | 112900 | [112900-matter.json](./112900-matter.json) |
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
 | Matterhorn | 306001 | [306001-matterhorn.json](./306001-matterhorn.json) |
@@ -4207,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Story | 47162 | [47162-medieval-story.json](./47162-medieval-story.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
+| Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
 | Medieval Warriors | 72139 | [72139-medieval-warriors.json](./72139-medieval-warriors.json) |
@@ -7486,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
+| Mining Empire: Earth Resources | 112868 | [112868-mining-empire-earth-resources.json](./112868-mining-empire-earth-resources.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
 | Mining Industry | 36239 | [36239-mining-industry.json](./36239-mining-industry.json) |
 | Mining Mechs: Camel Chaos | 340578 | [340578-mining-mechs-camel-chaos.json](./340578-mining-mechs-camel-chaos.json) |
@@ -10653,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Magic | 169833 | [169833-mr-magic.json](./169833-mr-magic.json) |
 | Mr. Mat Hematic | 234572 | [234572-mr-mat-hematic.json](./234572-mr-mat-hematic.json) |
 | Mr. Maymunshine’s Christmas Land | 342216 | [342216-mr-maymunshine-s-christmas-land.json](./342216-mr-maymunshine-s-christmas-land.json) |
+| Mr. Maze | 112865 | [112865-mr-maze.json](./112865-mr-maze.json) |
 | Mr. Meat 2: Prison Break | 212496 | [212496-mr-meat-2-prison-break.json](./212496-mr-meat-2-prison-break.json) |
 | Mr. Meat: Horror Escape Room | 356633 | [356633-mr-meat-horror-escape-room.json](./356633-mr-meat-horror-escape-room.json) |
 | Mr. Meaty | 320747 | [320747-mr-meaty.json](./320747-mr-meaty.json) |
