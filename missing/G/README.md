@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town | 18522 | [18522-ghost-town.json](./18522-ghost-town.json) |
+| Ghost Town | 335127 | [335127-ghost-town.json](./335127-ghost-town.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town Mysteries: Bodie | 53081 | [53081-ghost-town-mysteries-bodie.json](./53081-ghost-town-mysteries-bodie.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
@@ -4276,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius IV: Revival | 1486 | [1486-gradius-iv-revival.json](./1486-gradius-iv-revival.json) |
 | Gradius NEO | 377214 | [377214-gradius-neo.json](./377214-gradius-neo.json) |
 | Gradius NEO Imperial | 377215 | [377215-gradius-neo-imperial.json](./377215-gradius-neo-imperial.json) |
+| Gradius Origins | 337028 | [337028-gradius-origins.json](./337028-gradius-origins.json) |
 | Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
@@ -5447,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Arcaea Pack | 361671 | [361671-groove-coaster-arcaea-pack.json](./361671-groove-coaster-arcaea-pack.json) |
 | Groove Coaster: Bad Apple!! feat. nomico | 358959 | [358959-groove-coaster-bad-apple-feat-nomico.json](./358959-groove-coaster-bad-apple-feat-nomico.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
+| Groove Coaster: Future Performers | 343412 | [343412-groove-coaster-future-performers.json](./343412-groove-coaster-future-performers.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
 | Groove Coaster: Groove Master Pack 01 | 361699 | [361699-groove-coaster-groove-master-pack-01.json](./361699-groove-coaster-groove-master-pack-01.json) |
 | Groove Coaster: Touhou DLC Pack 01 | 361703 | [361703-groove-coaster-touhou-dlc-pack-01.json](./361703-groove-coaster-touhou-dlc-pack-01.json) |
