@@ -7956,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
+| Slime City: Trials | 389550 | [389550-slime-city-trials.json](./389550-slime-city-trials.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
 | Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
@@ -11226,6 +11227,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign | 61128 | [61128-sovereign.json](./61128-sovereign.json) |
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
 | Sovereign Elect | 290506 | [290506-sovereign-elect.json](./290506-sovereign-elect.json) |
+| Sovereign Elect: Necromancer Pack | 389554 | [389554-sovereign-elect-necromancer-pack.json](./389554-sovereign-elect-necromancer-pack.json) |
+| Sovereign Elect: Rain Dancer Pack | 389555 | [389555-sovereign-elect-rain-dancer-pack.json](./389555-sovereign-elect-rain-dancer-pack.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
 | Sovereign Syndicate | 211267 | [211267-sovereign-syndicate.json](./211267-sovereign-syndicate.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
@@ -11729,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Postman Story | 180647 | [180647-space-postman-story.json](./180647-space-postman-story.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
+| Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
 | Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
@@ -14414,6 +14418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
 | Star Voyager | 3283 | [3283-star-voyager.json](./3283-star-voyager.json) |
 | Star Voyager | 3284 | [3284-star-voyager.json](./3284-star-voyager.json) |
+| Star Voyagers: Hentai Jigsaw | 389626 | [389626-star-voyagers-hentai-jigsaw.json](./389626-star-voyagers-hentai-jigsaw.json) |
 | Star Waker | 55275 | [55275-star-waker.json](./55275-star-waker.json) |
 | Star Warfare 2: Payback | 39784 | [39784-star-warfare-2-payback.json](./39784-star-warfare-2-payback.json) |
 | Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
@@ -17762,13 +17767,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
 | Sun Fang Dougram | 284445 | [284445-sun-fang-dougram.json](./284445-sun-fang-dougram.json) |
 | Sun Haven | 144098 | [144098-sun-haven.json](./144098-sun-haven.json) |
+| Sun Haven: Astral Pack | 389565 | [389565-sun-haven-astral-pack.json](./389565-sun-haven-astral-pack.json) |
 | Sun Haven: Bloom and Doom Pack | 306506 | [306506-sun-haven-bloom-and-doom-pack.json](./306506-sun-haven-bloom-and-doom-pack.json) |
 | Sun Haven: Celestial Pack | 306507 | [306507-sun-haven-celestial-pack.json](./306507-sun-haven-celestial-pack.json) |
 | Sun Haven: Claws and Paws Pack | 306505 | [306505-sun-haven-claws-and-paws-pack.json](./306505-sun-haven-claws-and-paws-pack.json) |
+| Sun Haven: Cozy Cottage Pack | 389563 | [389563-sun-haven-cozy-cottage-pack.json](./389563-sun-haven-cozy-cottage-pack.json) |
+| Sun Haven: Cyberknight Pack | 389566 | [389566-sun-haven-cyberknight-pack.json](./389566-sun-haven-cyberknight-pack.json) |
 | Sun Haven: Cyberpop Pack | 272915 | [272915-sun-haven-cyberpop-pack.json](./272915-sun-haven-cyberpop-pack.json) |
 | Sun Haven: Deep Sea Pack | 306504 | [306504-sun-haven-deep-sea-pack.json](./306504-sun-haven-deep-sea-pack.json) |
+| Sun Haven: Día de Delights Pack | 389562 | [389562-sun-haven-dia-de-delights-pack.json](./389562-sun-haven-dia-de-delights-pack.json) |
 | Sun Haven: Emerald Elegance Pack | 389574 | [389574-sun-haven-emerald-elegance-pack.json](./389574-sun-haven-emerald-elegance-pack.json) |
 | Sun Haven: Flames and Ashes Pack | 389575 | [389575-sun-haven-flames-and-ashes-pack.json](./389575-sun-haven-flames-and-ashes-pack.json) |
+| Sun Haven: Garden Party Pack | 389561 | [389561-sun-haven-garden-party-pack.json](./389561-sun-haven-garden-party-pack.json) |
+| Sun Haven: Gearwork Glamour Pack | 389564 | [389564-sun-haven-gearwork-glamour-pack.json](./389564-sun-haven-gearwork-glamour-pack.json) |
+| Sun Haven: Myths and Muses Pack | 389567 | [389567-sun-haven-myths-and-muses-pack.json](./389567-sun-haven-myths-and-muses-pack.json) |
 | Sun Haven: Once Upon a Time Pack | 389569 | [389569-sun-haven-once-upon-a-time-pack.json](./389569-sun-haven-once-upon-a-time-pack.json) |
 | Sun Haven: Pop Sensation Pack | 306503 | [306503-sun-haven-pop-sensation-pack.json](./306503-sun-haven-pop-sensation-pack.json) |
 | Sun Haven: Radiant Royalty Pack | 389568 | [389568-sun-haven-radiant-royalty-pack.json](./389568-sun-haven-radiant-royalty-pack.json) |
@@ -20766,6 +20778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Warrior | 339433 | [339433-sweet-warrior.json](./339433-sweet-warrior.json) |
 | Sweet Wave | 97710 | [97710-sweet-wave.json](./97710-sweet-wave.json) |
 | Sweet Wedding | 339432 | [339432-sweet-wedding.json](./339432-sweet-wedding.json) |
+| Sweet Wife | 389633 | [389633-sweet-wife.json](./389633-sweet-wife.json) |
 | Sweet Winter | 339431 | [339431-sweet-winter.json](./339431-sweet-winter.json) |
 | Sweet X'mas | 326183 | [326183-sweet-xmas.json](./326183-sweet-xmas.json) |
 | Sweet Zodiac 1 | 339429 | [339429-sweet-zodiac-1.json](./339429-sweet-zodiac-1.json) |
