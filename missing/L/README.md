@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
 | La Ruota Della Sfortuna: Prima parte | 318571 | [318571-la-ruota-della-sfortuna-prima-parte.json](./318571-la-ruota-della-sfortuna-prima-parte.json) |
 | La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
+| LA Soul | 405428 | [405428-la-soul.json](./405428-la-soul.json) |
 | La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
 | La storia della Arcana Famiglia 2 | 213834 | [213834-la-storia-della-arcana-famiglia-2.json](./213834-la-storia-della-arcana-famiglia-2.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
