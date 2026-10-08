@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank2 | 94581 | [94581-tank2.json](./94581-tank2.json) |
 | Tankalot | 96240 | [96240-tankalot.json](./96240-tankalot.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
+| TankBlitz | 28791 | [28791-tankblitz.json](./28791-tankblitz.json) |
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
+| The Archotek Project | 29092 | [29092-the-archotek-project.json](./29092-the-archotek-project.json) |
 | The Arcslinger | 95557 | [95557-the-arcslinger.json](./95557-the-arcslinger.json) |
 | The Area 51 Secret: Boombox Killer | 127024 | [127024-the-area-51-secret-boombox-killer.json](./127024-the-area-51-secret-boombox-killer.json) |
 | The Area Where You Can't Place Arrows | 185529 | [185529-the-area-where-you-cant-place-arrows.json](./185529-the-area-where-you-cant-place-arrows.json) |
@@ -5092,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
+| The Eagle's Heir | 29125 | [29125-the-eagles-heir.json](./29125-the-eagles-heir.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Early Years of Flight | 21380 | [21380-the-early-years-of-flight.json](./21380-the-early-years-of-flight.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
@@ -6526,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
 | The Inescapable Nightmare | 357239 | [357239-the-inescapable-nightmare.json](./357239-the-inescapable-nightmare.json) |
+| The Inevitability | 28804 | [28804-the-inevitability.json](./28804-the-inevitability.json) |
 | The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
@@ -9541,6 +9545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
+| The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Siege of Khe Sanh | 66412 | [66412-the-siege-of-khe-sanh.json](./66412-the-siege-of-khe-sanh.json) |
@@ -13562,6 +13567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeman One | 13040 | [13040-timeman-one.json](./13040-timeman-one.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timemoon | 330892 | [330892-timemoon.json](./330892-timemoon.json) |
+| Timen runner | 28689 | [28689-timen-runner.json](./28689-timen-runner.json) |
 | TimeNot | 365265 | [365265-timenot.json](./365265-timenot.json) |
 | Timension | 75059 | [75059-timension.json](./75059-timension.json) |
 | Timeout | 305953 | [305953-timeout.json](./305953-timeout.json) |
@@ -14646,6 +14652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
+| Tomato Jones 2 | 28648 | [28648-tomato-jones-2.json](./28648-tomato-jones-2.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
