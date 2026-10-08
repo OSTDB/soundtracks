@@ -7011,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
+| Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Out! | 107792 | [107792-frog-out.json](./107792-frog-out.json) |
 | Frog Paradise | 276800 | [276800-frog-paradise.json](./276800-frog-paradise.json) |
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
+| Frog Pond Simulator | 394780 | [394780-frog-pond-simulator.json](./394780-frog-pond-simulator.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
