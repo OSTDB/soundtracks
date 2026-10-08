@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
+| Utopian Mining | 408744 | [408744-utopian-mining.json](./408744-utopian-mining.json) |
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
 | Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
