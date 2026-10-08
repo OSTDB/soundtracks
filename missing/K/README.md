@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
+| K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
+| Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwari | 21544 | [21544-kwari.json](./21544-kwari.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
