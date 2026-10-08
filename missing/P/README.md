@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Doom | 262564 | [262564-pac-man-doom.json](./262564-pac-man-doom.json) |
 | Pac-Man Double Feature | 378397 | [378397-pac-man-double-feature.json](./378397-pac-man-double-feature.json) |
+| Pac-Man Forever | 396714 | [396714-pac-man-forever.json](./396714-pac-man-forever.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
 | Phantom Peak | 257985 | [257985-phantom-peak.json](./257985-phantom-peak.json) |
+| Phantom Pharaoh's Treasure Trap | 396704 | [396704-phantom-pharaohs-treasure-trap.json](./396704-phantom-pharaohs-treasure-trap.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
 | Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
@@ -4308,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
+| Pipedreamz | 396705 | [396705-pipedreamz.json](./396705-pipedreamz.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
@@ -5731,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
 | Please Find Me | 120173 | [120173-please-find-me.json](./120173-please-find-me.json) |
+| Please Fix the Mess | 396700 | [396700-please-fix-the-mess.json](./396700-please-fix-the-mess.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Fuck Me My Sexy Neighbor | 385321 | [385321-please-fuck-me-my-sexy-neighbor.json](./385321-please-fuck-me-my-sexy-neighbor.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
@@ -6735,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
+| Polar Bear Payback | 396706 | [396706-polar-bear-payback.json](./396706-polar-bear-payback.json) |
 | Polar Bear Riding A Ninja | 204320 | [204320-polar-bear-riding-a-ninja.json](./204320-polar-bear-riding-a-ninja.json) |
 | Polar Bear Simulator | 106147 | [106147-polar-bear-simulator.json](./106147-polar-bear-simulator.json) |
 | Polar Bowler | 44071 | [44071-polar-bowler.json](./44071-polar-bowler.json) |
@@ -8402,6 +8407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Indigo DX | 298242 | [298242-prism-indigo-dx.json](./298242-prism-indigo-dx.json) |
+| Prism Panic | 396707 | [396707-prism-panic.json](./396707-prism-panic.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
 | Prism Wilds | 382404 | [382404-prism-wilds.json](./382404-prism-wilds.json) |
 | Prism: Light the Way | 20765 | [20765-prism-light-the-way.json](./20765-prism-light-the-way.json) |
@@ -9095,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Luminext | 372653 | [372653-project-luminext.json](./372653-project-luminext.json) |
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
+| Project Lunky | 396762 | [396762-project-lunky.json](./396762-project-lunky.json) |
 | Project Lynx | 326165 | [326165-project-lynx.json](./326165-project-lynx.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
 | Project M | 174687 | [174687-project-m.json](./174687-project-m.json) |
