@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
+| Ballgame | 393571 | [393571-ballgame.json](./393571-ballgame.json) |
 | Ballgame 2 | 79224 | [79224-ballgame-2.json](./79224-ballgame-2.json) |
 | Ballgirl and the 64 Lost Gems | 181720 | [181720-ballgirl-and-the-64-lost-gems.json](./181720-ballgirl-and-the-64-lost-gems.json) |
 | Ballimals | 67594 | [67594-ballimals.json](./67594-ballimals.json) |
@@ -8794,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
+| Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking the Barrier | 268670 | [268670-breaking-the-barrier.json](./268670-breaking-the-barrier.json) |
 | Breaking The Rules: The Roman Tournament | 52477 | [52477-breaking-the-rules-the-roman-tournament.json](./52477-breaking-the-rules-the-roman-tournament.json) |
@@ -9893,6 +9895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Girls Phantasia | 57021 | [57021-bullet-girls-phantasia.json](./57021-bullet-girls-phantasia.json) |
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
+| Bullet Head | 393531 | [393531-bullet-head.json](./393531-bullet-head.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
@@ -9962,6 +9965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullseye | 213298 | [213298-bullseye.json](./213298-bullseye.json) |
 | Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
+| BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
