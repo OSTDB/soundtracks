@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
+| Neural Drive | 390584 | [390584-neural-drive.json](./390584-neural-drive.json) |
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
 | Neural Maze | 415283 | [415283-neural-maze.json](./415283-neural-maze.json) |
 | Neural Nest | 244206 | [244206-neural-nest.json](./244206-neural-nest.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
 | Nights of Azure: Limited Edition | 51533 | [51533-nights-of-azure-limited-edition.json](./51533-nights-of-azure-limited-edition.json) |
+| Nights of Nil | 390581 | [390581-nights-of-nil.json](./390581-nights-of-nil.json) |
 | Nights of the Sleeping God | 408011 | [408011-nights-of-the-sleeping-god.json](./408011-nights-of-the-sleeping-god.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
@@ -3514,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Outlet | 201633 | [201633-no-outlet.json](./201633-no-outlet.json) |
+| No Pain No Gain | 390604 | [390604-no-pain-no-gain.json](./390604-no-pain-no-gain.json) |
 | No Paint No Gain | 312754 | [312754-no-paint-no-gain.json](./312754-no-paint-no-gain.json) |
 | No Pantsu!! | 97378 | [97378-no-pantsu.json](./97378-no-pantsu.json) |
 | No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
@@ -4337,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | NPC Blacksmith Simulator | 417475 | [417475-npc-blacksmith-simulator.json](./417475-npc-blacksmith-simulator.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
+| NPC Simulator | 390595 | [390595-npc-simulator.json](./390595-npc-simulator.json) |
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
 | NPCs | 113054 | [113054-npcs.json](./113054-npcs.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
