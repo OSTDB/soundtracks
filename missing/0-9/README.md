@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Atorb. | 330318 | [330318-atorb.json](./330318-atorb.json) |
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
+| .Curator | 413458 | [413458-curator.json](./413458-curator.json) |
 | .Decluster: Into the Bullet Hell | 142934 | [142934-decluster-into-the-bullet-hell.json](./142934-decluster-into-the-bullet-hell.json) |
 | .Detuned | 7724 | [7724-detuned.json](./7724-detuned.json) |
 | .ExE | 202236 | [202236-exe.json](./202236-exe.json) |
