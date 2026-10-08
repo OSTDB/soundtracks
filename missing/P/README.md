@@ -8592,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Series Drag Racing | 91081 | [91081-pro-series-drag-racing.json](./91081-pro-series-drag-racing.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
+| Pro Skater 2D | 30648 | [30648-pro-skater-2d.json](./30648-pro-skater-2d.json) |
 | Pro Snooker & Pool 2018 | 87554 | [87554-pro-snooker-and-pool-2018.json](./87554-pro-snooker-and-pool-2018.json) |
 | Pro Soccer | 385779 | [385779-pro-soccer.json](./385779-pro-soccer.json) |
 | PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
