@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
+| Rally Championship | 4080 | [4080-rally-championship.json](./4080-rally-championship.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
 | Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
+| Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
@@ -4983,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
+| RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
