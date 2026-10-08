@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare, Inc.: Mega Microgame$! | 341062 | [341062-warioware-inc-mega-microgame.json](./341062-warioware-inc-mega-microgame.json) |
 | WarioWare: D.I.Y. Showcase | 50705 | [50705-warioware-d-i-y-showcase.json](./50705-warioware-d-i-y-showcase.json) |
 | WarioWare: Get It Together! | 152358 | [152358-warioware-get-it-together.json](./152358-warioware-get-it-together.json) |
+| WarioWare: Snapped! | 1707 | [1707-warioware-snapped.json](./1707-warioware-snapped.json) |
 | WarioWare: Twisted! | 1704 | [1704-warioware-twisted.json](./1704-warioware-twisted.json) |
 | WarioWare: Twisted! - Marble Maze Game | 231530 | [231530-warioware-twisted-marble-maze-game.json](./231530-warioware-twisted-marble-maze-game.json) |
 | Warium | 87768 | [87768-warium.json](./87768-warium.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: The Bloodline Edition Bonus Pack | 353990 | [353990-wwe-2k25-the-bloodline-edition-bonus-pack.json](./353990-wwe-2k25-the-bloodline-edition-bonus-pack.json) |
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
 | WWE 2K25: Wyatt Sicks Pack | 353992 | [353992-wwe-2k25-wyatt-sicks-pack.json](./353992-wwe-2k25-wyatt-sicks-pack.json) |
+| WWE 2K26 | 387782 | [387782-wwe-2k26.json](./387782-wwe-2k26.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
