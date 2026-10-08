@@ -6948,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skellies Ain't Scary | 199390 | [199390-skellies-aint-scary.json](./199390-skellies-aint-scary.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
+| Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
@@ -7453,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
+| Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
@@ -11836,6 +11838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
+| Spaghet | 96652 | [96652-spaghet.json](./96652-spaghet.json) |
 | Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
@@ -12784,6 +12787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitfire 40 | 15375 | [15375-spitfire-40.json](./15375-spitfire-40.json) |
 | Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
+| Spitkiss | 98074 | [98074-spitkiss.json](./98074-spitkiss.json) |
 | Spitlings | 114483 | [114483-spitlings.json](./114483-spitlings.json) |
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
@@ -15502,6 +15506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
 | Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
+| Stickman Legends: Shadow Wars | 96810 | [96810-stickman-legends-shadow-wars.json](./96810-stickman-legends-shadow-wars.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
 | Stickman Ninja Warriors | 108603 | [108603-stickman-ninja-warriors.json](./108603-stickman-ninja-warriors.json) |
 | Stickman Odyssey | 329578 | [329578-stickman-odyssey.json](./329578-stickman-odyssey.json) |
