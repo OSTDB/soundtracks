@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of Tanks: Blitzkrieg | 288435 | [288435-war-of-tanks-blitzkrieg.json](./288435-war-of-tanks-blitzkrieg.json) |
 | War of the AI | 256239 | [256239-war-of-the-ai.json](./256239-war-of-the-ai.json) |
+| War of the Austrian Succession | 412212 | [412212-war-of-the-austrian-succession.json](./412212-war-of-the-austrian-succession.json) |
 | War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
 | Weggye's Adventures | 240785 | [240785-weggyes-adventures.json](./240785-weggyes-adventures.json) |
+| WEGO World War II: Overlord | 412244 | [412244-wego-world-war-ii-overlord.json](./412244-wego-world-war-ii-overlord.json) |
 | Wehrschach | 139335 | [139335-wehrschach.json](./139335-wehrschach.json) |
 | WeightWare | 334162 | [334162-weightware.json](./334162-weightware.json) |
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
@@ -3576,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games | 281647 | [281647-winter-games.json](./281647-winter-games.json) |
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
 | Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
+| Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
 | Winter Magic | 182929 | [182929-winter-magic.json](./182929-winter-magic.json) |
@@ -3672,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
 | Wiping | 38558 | [38558-wiping.json](./38558-wiping.json) |
+| Wira | 412232 | [412232-wira.json](./412232-wira.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
