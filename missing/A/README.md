@@ -9534,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
+| ATV Quad Power Racing 2 | 4173 | [4173-atv-quad-power-racing-2.json](./4173-atv-quad-power-racing-2.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Stand Up Power Sports: Dirt Bike Racing Game | 108907 | [108907-atv-stand-up-power-sports-dirt-bike-racing-game.json](./108907-atv-stand-up-power-sports-dirt-bike-racing-game.json) |
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
