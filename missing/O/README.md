@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscura | 162841 | [162841-obscura.json](./162841-obscura.json) |
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
+| Obscure Chronicle of Dynastia | 392217 | [392217-obscure-chronicle-of-dynastia.json](./392217-obscure-chronicle-of-dynastia.json) |
 | Obscure Depths | 258111 | [258111-obscure-depths.json](./258111-obscure-depths.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Figures | 387648 | [387648-obscure-figures.json](./387648-obscure-figures.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
+| Otaku and Bubbly Girl | 392312 | [392312-otaku-and-bubbly-girl.json](./392312-otaku-and-bubbly-girl.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
 | Otaku no Omocha in Acolyte | 97489 | [97489-otaku-no-omocha-in-acolyte.json](./97489-otaku-no-omocha-in-acolyte.json) |
 | Otaku no Omocha in High Priest | 108944 | [108944-otaku-no-omocha-in-high-priest.json](./108944-otaku-no-omocha-in-high-priest.json) |
