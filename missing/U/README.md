@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno Free Fall | 300352 | [300352-uno-free-fall.json](./300352-uno-free-fall.json) |
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno Online | 242116 | [242116-uno-online.json](./242116-uno-online.json) |
+| Uno x Anime | 387575 | [387575-uno-x-anime.json](./387575-uno-x-anime.json) |
 | Uno: Arcade Edition | 346722 | [346722-uno-arcade-edition.json](./346722-uno-arcade-edition.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
