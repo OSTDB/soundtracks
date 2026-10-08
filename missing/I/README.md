@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am An Air Traffic Controller: Airport Hero Shinchitose | 56476 | [56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json](./56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json) |
 | I Am Bad at People, but Turns Out I’m Even Worse at Making Games | 260147 | [260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json](./260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json) |
 | I am Ball | 131973 | [131973-i-am-ball.json](./131973-i-am-ball.json) |
+| I Am Better Than You | 400532 | [400532-i-am-better-than-you.json](./400532-i-am-better-than-you.json) |
 | I Am Blondi | 109521 | [109521-i-am-blondi.json](./109521-i-am-blondi.json) |
 | I am Bread | 7868 | [7868-i-am-bread.json](./7868-i-am-bread.json) |
 | I Am Brewing You Alive but You Can Leave at Any Time If You Really Want To | 135669 | [135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json](./135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json) |
@@ -2408,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
+| Infra Et Intus | 400509 | [400509-infra-et-intus.json](./400509-infra-et-intus.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Infraspace | 149691 | [149691-infraspace.json](./149691-infraspace.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
