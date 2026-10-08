@@ -6421,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
+| Middle Earth Open World game | 402344 | [402344-middle-earth-open-world-game.json](./402344-middle-earth-open-world-game.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
@@ -10508,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Bike Rally | 42485 | [42485-mountain-bike-rally.json](./42485-mountain-bike-rally.json) |
 | Mountain Bike Xtreme | 369170 | [369170-mountain-bike-xtreme.json](./369170-mountain-bike-xtreme.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
+| Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mountain Madness | 236387 | [236387-mountain-madness.json](./236387-mountain-madness.json) |
