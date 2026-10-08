@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Plane | 149682 | [149682-dangerous-plane.json](./149682-dangerous-plane.json) |
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
+| Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
 | Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
@@ -5500,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
 | Dino Shift | 311064 | [311064-dino-shift.json](./311064-dino-shift.json) |
 | Dino Skater | 175237 | [175237-dino-skater.json](./175237-dino-skater.json) |
+| Dino Slug | 395462 | [395462-dino-slug.json](./395462-dino-slug.json) |
 | Dino Space Station | 345100 | [345100-dino-space-station.json](./345100-dino-space-station.json) |
 | Dino SpeedBoat | 341024 | [341024-dino-speedboat.json](./341024-dino-speedboat.json) |
 | Dino Stalker | 22065 | [22065-dino-stalker.json](./22065-dino-stalker.json) |
@@ -10939,6 +10941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
 | DVD Dealer Simulator | 407475 | [407475-dvd-dealer-simulator.json](./407475-dvd-dealer-simulator.json) |
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
+| DVD Survivors | 395479 | [395479-dvd-survivors.json](./395479-dvd-survivors.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dvergatal: Thorin's Quest | 178420 | [178420-dvergatal-thorins-quest.json](./178420-dvergatal-thorins-quest.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
