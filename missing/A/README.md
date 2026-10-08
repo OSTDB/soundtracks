@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanita August | 334793 | [334793-amanita-august.json](./334793-amanita-august.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
+| Amaoto to Taikutsu | 395504 | [395504-amaoto-to-taikutsu.json](./395504-amaoto-to-taikutsu.json) |
 | Amaranth III | 69264 | [69264-amaranth-iii.json](./69264-amaranth-iii.json) |
 | Amaranthine | 33200 | [33200-amaranthine.json](./33200-amaranthine.json) |
 | Amaranthine Voyage: Legacy of the Guardians - Collector's Edition | 416874 | [416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json](./416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json) |
@@ -6588,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
+| Apple Man Sam | 395502 | [395502-apple-man-sam.json](./395502-apple-man-sam.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
 | Apple Pie | 133257 | [133257-apple-pie.json](./133257-apple-pie.json) |
 | Apple Pie | 13692 | [13692-apple-pie.json](./13692-apple-pie.json) |
