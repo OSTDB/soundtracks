@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Dreadfuls: Sweeney Todd - Premium Edition | 208877 | [208877-penny-dreadfuls-sweeney-todd-premium-edition.json](./208877-penny-dreadfuls-sweeney-todd-premium-edition.json) |
 | Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
+| Penny Potluck | 413501 | [413501-penny-potluck.json](./413501-penny-potluck.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -5744,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
 | Plink by Pokerist | 401764 | [401764-plink-by-pokerist.json](./401764-plink-by-pokerist.json) |
 | Plink Game | 239187 | [239187-plink-game.json](./239187-plink-game.json) |
+| Plink Void | 413499 | [413499-plink-void.json](./413499-plink-void.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plinko: Ball Falling | 264795 | [264795-plinko-ball-falling.json](./264795-plinko-ball-falling.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
@@ -9362,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propagation: Paradise Hotel | 190483 | [190483-propagation-paradise-hotel.json](./190483-propagation-paradise-hotel.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
+| Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
