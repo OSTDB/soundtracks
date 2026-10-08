@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabuto Park + Minami Lane Bundle | 402427 | [402427-kabuto-park-minami-lane-bundle.json](./402427-kabuto-park-minami-lane-bundle.json) |
 | Kaby Arena | 182286 | [182286-kaby-arena.json](./182286-kaby-arena.json) |
 | Kacau | 390811 | [390811-kacau.json](./390811-kacau.json) |
+| Kachinka | 421328 | [421328-kachinka.json](./421328-kachinka.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
 | Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
@@ -777,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Pet Megu | 315629 | [315629-kawaii-pet-megu.json](./315629-kawaii-pet-megu.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
+| Kawaii Push | 421318 | [421318-kawaii-push.json](./421318-kawaii-push.json) |
 | Kawaii Rainbow Portal | 93789 | [93789-kawaii-rainbow-portal.json](./93789-kawaii-rainbow-portal.json) |
 | Kawaii Slime | 314295 | [314295-kawaii-slime.json](./314295-kawaii-slime.json) |
 | Kawaii Slime Arena | 189969 | [189969-kawaii-slime-arena.json](./189969-kawaii-slime-arena.json) |
