@@ -18178,6 +18178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
+| Trivia Vault: 1980's Trivia 2 | 54879 | [54879-trivia-vault-1980s-trivia-2.json](./54879-trivia-vault-1980s-trivia-2.json) |
 | Trivia Vault: Boxing Trivia | 90180 | [90180-trivia-vault-boxing-trivia.json](./90180-trivia-vault-boxing-trivia.json) |
 | Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
@@ -18705,6 +18706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TT Isle of Man: Ride on the Edge 3 | 228729 | [228729-tt-isle-of-man-ride-on-the-edge-3.json](./228729-tt-isle-of-man-ride-on-the-edge-3.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | TTT Classic | 374211 | [374211-ttt-classic.json](./374211-ttt-classic.json) |
+| TTV2 | 55301 | [55301-ttv2.json](./55301-ttv2.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
