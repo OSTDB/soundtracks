@@ -6267,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House M.D.: Episode 4 - Crashed | 85175 | [85175-house-m-d-episode-4-crashed.json](./85175-house-m-d-episode-4-crashed.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House Mansion Flipper | 330233 | [330233-house-mansion-flipper.json](./330233-house-mansion-flipper.json) |
+| House of 1000 Doors: Evil Inside | 116059 | [116059-house-of-1000-doors-evil-inside.json](./116059-house-of-1000-doors-evil-inside.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
