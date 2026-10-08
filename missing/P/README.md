@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
 | Pin Ball | 59809 | [59809-pin-ball.json](./59809-pin-ball.json) |
+| Pin Ball Voyage | 100768 | [100768-pin-ball-voyage.json](./100768-pin-ball-voyage.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
 | Pin City | 236344 | [236344-pin-city.json](./236344-pin-city.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
+| Pinball 2018 | 100587 | [100587-pinball-2018.json](./100587-pinball-2018.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
@@ -4352,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
+| Pirate Tales | 100779 | [100779-pirate-tales.json](./100779-pirate-tales.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
