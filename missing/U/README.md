@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
 | Unnamed Experiment | 265145 | [265145-unnamed-experiment.json](./265145-unnamed-experiment.json) |
 | Unnamed Fiasco | 34775 | [34775-unnamed-fiasco.json](./34775-unnamed-fiasco.json) |
+| Unnamed Pogo Game | 410176 | [410176-unnamed-pogo-game.json](./410176-unnamed-pogo-game.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
 | Unnatural | 104951 | [104951-unnatural.json](./104951-unnatural.json) |
@@ -2059,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | UrlX | 350541 | [350541-urlx.json](./350541-urlx.json) |
+| Urmels großer Flug | 410090 | [410090-urmels-gro-er-flug.json](./410090-urmels-gro-er-flug.json) |
 | Urok | 319766 | [319766-urok.json](./319766-urok.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Ursid | 367572 | [367572-ursid.json](./367572-ursid.json) |
