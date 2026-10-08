@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanish | 28150 | [28150-vanish.json](./28150-vanish.json) |
 | Vanished Anniversary | 305366 | [305366-vanished-anniversary.json](./305366-vanished-anniversary.json) |
 | Vanished Maiden | 403042 | [403042-vanished-maiden.json](./403042-vanished-maiden.json) |
+| Vanished Puzzle Quest | 397395 | [397395-vanished-puzzle-quest.json](./397395-vanished-puzzle-quest.json) |
 | Vanishing Grace | 133883 | [133883-vanishing-grace.json](./133883-vanishing-grace.json) |
 | Vanishing Point | 33969 | [33969-vanishing-point.json](./33969-vanishing-point.json) |
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
