@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Static | 216166 | [216166-tasty-static.json](./216166-tasty-static.json) |
 | Tasty Town | 114793 | [114793-tasty-town.json](./114793-tasty-town.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
+| TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
@@ -4608,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
 | The Cube | 120141 | [120141-the-cube.json](./120141-the-cube.json) |
 | The Cube | 61686 | [61686-the-cube.json](./61686-the-cube.json) |
+| The Cube | 88652 | [88652-the-cube.json](./88652-the-cube.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cube Hotel: Ning's Wing 2 | 31059 | [31059-the-cube-hotel-nings-wing-2.json](./31059-the-cube-hotel-nings-wing-2.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
@@ -8282,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
+| The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
 | The Mystery of the Nautilus | 73345 | [73345-the-mystery-of-the-nautilus.json](./73345-the-mystery-of-the-nautilus.json) |
@@ -9399,6 +9402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
+| The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
