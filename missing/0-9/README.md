@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
 | 1 vs. 100 | 220070 | [220070-1-vs-100.json](./220070-1-vs-100.json) |
+| 1 vs. 100 | 74406 | [74406-1-vs-100.json](./74406-1-vs-100.json) |
 | 1-2 in Rich District | 395191 | [395191-1-2-in-rich-district.json](./395191-1-2-in-rich-district.json) |
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
+| 88 Heroes: 98 Heroes Edition | 74315 | [74315-88-heroes-98-heroes-edition.json](./74315-88-heroes-98-heroes-edition.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
