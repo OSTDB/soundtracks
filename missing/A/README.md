@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
+| ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
@@ -1644,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
 | Adore Picture Difference: Long Distance Love | 102894 | [102894-adore-picture-difference-long-distance-love.json](./102894-adore-picture-difference-long-distance-love.json) |
+| Adore Picture Difference: Long Distance Love Lite | 88560 | [88560-adore-picture-difference-long-distance-love-lite.json](./88560-adore-picture-difference-long-distance-love-lite.json) |
 | Adore Puzzle | 99711 | [99711-adore-puzzle.json](./99711-adore-puzzle.json) |
 | Adore Puzzle 2 | 99712 | [99712-adore-puzzle-2.json](./99712-adore-puzzle-2.json) |
 | Adorimon: Arena of Ancients | 283891 | [283891-adorimon-arena-of-ancients.json](./283891-adorimon-arena-of-ancients.json) |
@@ -2772,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
+| Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
 | Air Hockey Arcade: Casual Board Game | 242589 | [242589-air-hockey-arcade-casual-board-game.json](./242589-air-hockey-arcade-casual-board-game.json) |
 | Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey Halloween | 243737 | [243737-air-hockey-halloween.json](./243737-air-hockey-halloween.json) |
@@ -3995,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
 | All-in-One Board Games | 197708 | [197708-all-in-one-board-games.json](./197708-all-in-one-board-games.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
+| All-in-One Solitaire | 88608 | [88608-all-in-one-solitaire.json](./88608-all-in-one-solitaire.json) |
 | All-In-One Sports VR | 150755 | [150755-all-in-one-sports-vr.json](./150755-all-in-one-sports-vr.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
@@ -8392,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Mahjong | 164270 | [164270-asian-mahjong.json](./164270-asian-mahjong.json) |
+| Asian Riddles 2 | 88599 | [88599-asian-riddles-2.json](./88599-asian-riddles-2.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
 | Asistent detektiva Zbyška | 391284 | [391284-asistent-detektiva-zbyska.json](./391284-asistent-detektiva-zbyska.json) |
