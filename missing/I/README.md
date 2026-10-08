@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
 | Incredible Dracula: Academy of Shadows - Collector's Edition | 337242 | [337242-incredible-dracula-academy-of-shadows-collectors-edition.json](./337242-incredible-dracula-academy-of-shadows-collectors-edition.json) |
 | Incredible Dracula: Chasing Love | 53226 | [53226-incredible-dracula-chasing-love.json](./53226-incredible-dracula-chasing-love.json) |
+| Incredible Dracula: Chasing Love - Collector's Edition | 33703 | [33703-incredible-dracula-chasing-love-collectors-edition.json](./33703-incredible-dracula-chasing-love-collectors-edition.json) |
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
 | Incredible Dracula: License to Relax - Collector's Edition | 341025 | [341025-incredible-dracula-license-to-relax-collectors-edition.json](./341025-incredible-dracula-license-to-relax-collectors-edition.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Void | 167706 | [167706-inside-the-void.json](./167706-inside-the-void.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Inside Us | 236846 | [236846-inside-us.json](./236846-inside-us.json) |
+| Inside: Before Birth | 33645 | [33645-inside-before-birth.json](./33645-inside-before-birth.json) |
 | Insider Tales: The Stolen Venus 2 | 202114 | [202114-insider-tales-the-stolen-venus-2.json](./202114-insider-tales-the-stolen-venus-2.json) |
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
