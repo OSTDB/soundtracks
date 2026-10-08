@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
 | Sayonara Wild Hearts | 113107 | [113107-sayonara-wild-hearts.json](./113107-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
+| Sayonara, Space Rocks | 409424 | [409424-sayonara-space-rocks.json](./409424-sayonara-space-rocks.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
+| Senpai, Suki Desu...... Osu!: Boku o Shitatte Kureru Kouhai wa Chibikko Bishoujo de...... Yankee!? | 409418 | [409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json](./409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senpon | 295998 | [295998-senpon.json](./295998-senpon.json) |
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
@@ -9869,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Wicked This Way Comes | 196637 | [196637-something-wicked-this-way-comes.json](./196637-something-wicked-this-way-comes.json) |
 | Something's in the Air Redux | 255102 | [255102-somethings-in-the-air-redux.json](./255102-somethings-in-the-air-redux.json) |
 | Something's Not Right | 298047 | [298047-somethings-not-right.json](./298047-somethings-not-right.json) |
+| Something's Off in This World: Era Anomaly Quiz | 409517 | [409517-somethings-off-in-this-world-era-anomaly-quiz.json](./409517-somethings-off-in-this-world-era-anomaly-quiz.json) |
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
 | Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
 | Sometimes Always Monsters | 20122 | [20122-sometimes-always-monsters.json](./20122-sometimes-always-monsters.json) |
@@ -10679,6 +10682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Kingdom | 46197 | [46197-sorcerers-kingdom.json](./46197-sorcerers-kingdom.json) |
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
+| Sorcerer's Refuge | 409518 | [409518-sorcerers-refuge.json](./409518-sorcerers-refuge.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorceress | 235363 | [235363-sorceress.json](./235363-sorceress.json) |
 | Sorceress | 88580 | [88580-sorceress.json](./88580-sorceress.json) |
@@ -13281,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
+| Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
@@ -15797,6 +15802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
+| Still Rolling | 409423 | [409423-still-rolling.json](./409423-still-rolling.json) |
 | Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Still Sorting | 419995 | [419995-still-sorting.json](./419995-still-sorting.json) |
@@ -15869,6 +15875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stomping Grounds | 275711 | [275711-stomping-grounds.json](./275711-stomping-grounds.json) |
+| Stompy's Big Adventure | 409515 | [409515-stompys-big-adventure.json](./409515-stompys-big-adventure.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
 | Stone | 131356 | [131356-stone.json](./131356-stone.json) |
 | Stone 4 Souls | 343989 | [343989-stone-4-souls.json](./343989-stone-4-souls.json) |
@@ -16653,6 +16660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
+| Strike Pack | 409514 | [409514-strike-pack.json](./409514-strike-pack.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
