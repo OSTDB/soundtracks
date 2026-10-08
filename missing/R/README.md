@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
+| Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccooneering | 306601 | [306601-raccooneering.json](./306601-raccooneering.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race | 295994 | [295994-race.json](./295994-race.json) |
+| Race | 82336 | [82336-race.json](./82336-race.json) |
 | Race | 97438 | [97438-race.json](./97438-race.json) |
 | Race & Destroy | 32738 | [32738-race-and-destroy.json](./32738-race-and-destroy.json) |
 | Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
@@ -5369,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
 | Rock Band 3 | 2691 | [2691-rock-band-3.json](./2691-rock-band-3.json) |
 | Rock Band 3: Deluxe | 303612 | [303612-rock-band-3-deluxe.json](./303612-rock-band-3-deluxe.json) |
+| Rock Band 4: 30 Song Mega Pack | 82460 | [82460-rock-band-4-30-song-mega-pack.json](./82460-rock-band-4-30-song-mega-pack.json) |
 | Rock Band 4: 6th Anniversary Free DLC Pack | 365736 | [365736-rock-band-4-6th-anniversary-free-dlc-pack.json](./365736-rock-band-4-6th-anniversary-free-dlc-pack.json) |
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
 | Rock Band 4: Rivals Expansion | 175664 | [175664-rock-band-4-rivals-expansion.json](./175664-rock-band-4-rivals-expansion.json) |
@@ -6233,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
+| Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome Empire War: Strategy Games | 175702 | [175702-rome-empire-war-strategy-games.json](./175702-rome-empire-war-strategy-games.json) |
@@ -6360,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
+| Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
@@ -6898,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
+| Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
 | Rugby League | 6021 | [6021-rugby-league.json](./6021-rugby-league.json) |
