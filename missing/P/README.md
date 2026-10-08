@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papergames.io | 334918 | [334918-papergames-io.json](./334918-papergames-io.json) |
 | Paperhead Ep. 0 | 321587 | [321587-paperhead-ep-0.json](./321587-paperhead-ep-0.json) |
 | PaperKlay | 204531 | [204531-paperklay.json](./204531-paperklay.json) |
+| Paperlands | 418267 | [418267-paperlands.json](./418267-paperlands.json) |
 | Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris: Jigsaw Puzzles | 104078 | [104078-paris-jigsaw-puzzles.json](./104078-paris-jigsaw-puzzles.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
+| Parity Shot | 418311 | [418311-parity-shot.json](./418311-parity-shot.json) |
 | Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
 | Park Alien: A ludo in the space | 153496 | [153496-park-alien-a-ludo-in-the-space.json](./153496-park-alien-a-ludo-in-the-space.json) |
@@ -7113,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
+| Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Bunny! | 239132 | [239132-poor-bunny.json](./239132-poor-bunny.json) |
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
