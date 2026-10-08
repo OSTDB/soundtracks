@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 277392 | [277392-galaxian.json](./277392-galaxian.json) |
 | Galaxian | 4614 | [4614-galaxian.json](./4614-galaxian.json) |
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
+| Galaxian Wars: Alien Shooter | 411525 | [411525-galaxian-wars-alien-shooter.json](./411525-galaxian-wars-alien-shooter.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
 | Galaxian3: Project Dragoon | 140478 | [140478-galaxian3-project-dragoon.json](./140478-galaxian3-project-dragoon.json) |
 | Galaxians | 308354 | [308354-galaxians.json](./308354-galaxians.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaciered | 211671 | [211671-glaciered.json](./211671-glaciered.json) |
 | Glad Valakas Simulator | 104566 | [104566-glad-valakas-simulator.json](./104566-glad-valakas-simulator.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
+| Glade and Ritual | 411535 | [411535-glade-and-ritual.json](./411535-glade-and-ritual.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
@@ -3993,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night, Egg | 181727 | [181727-good-night-egg.json](./181727-good-night-egg.json) |
 | Good Night, Every Night | 244197 | [244197-good-night-every-night.json](./244197-good-night-every-night.json) |
 | Good Night, Knight | 122122 | [122122-good-night-knight.json](./122122-good-night-knight.json) |
+| Good Night, Mare | 411495 | [411495-good-night-mare.json](./411495-good-night-mare.json) |
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
 | Good Pizza, Great Pizza | 87367 | [87367-good-pizza-great-pizza.json](./87367-good-pizza-great-pizza.json) |
