@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
+| Jackie’s Forest: Outsourced | 396716 | [396716-jackie-s-forest-outsourced.json](./396716-jackie-s-forest-outsourced.json) |
 | Jackie's Tapes | 339402 | [339402-jackies-tapes.json](./339402-jackies-tapes.json) |
 | Jackplot | 346774 | [346774-jackplot.json](./346774-jackplot.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
