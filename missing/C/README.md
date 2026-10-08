@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Pawsome | 244856 | [244856-captain-pawsome.json](./244856-captain-pawsome.json) |
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
+| Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
 | Captain Power and the Soldiers of the Future | 84294 | [84294-captain-power-and-the-soldiers-of-the-future.json](./84294-captain-power-and-the-soldiers-of-the-future.json) |
 | Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
@@ -2765,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
 | Cazzarion: Jetpack Fighter | 378178 | [378178-cazzarion-jetpack-fighter.json](./378178-cazzarion-jetpack-fighter.json) |
+| Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
@@ -11940,5 +11942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
+| Cywall | 399878 | [399878-cywall.json](./399878-cywall.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
 | Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
