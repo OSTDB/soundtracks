@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 3 | 270866 | [270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json](./270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
+| Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
 | Aerial_Knight's Never Yield | 138206 | [138206-aerial-knights-never-yield.json](./138206-aerial-knights-never-yield.json) |
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
@@ -2078,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
+| Aether & Iron | 335238 | [335238-aether-and-iron.json](./335238-aether-and-iron.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
@@ -2122,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFK Journey | 286114 | [286114-afk-journey.json](./286114-afk-journey.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
+| AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | AFL Evolution | 33701 | [33701-afl-evolution.json](./33701-afl-evolution.json) |
@@ -2338,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires II: Definitive Edition - The Last Chieftains | 386971 | [386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json](./386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json) |
 | Age of Empires II: Definitive Edition - The Mountain Royals | 272328 | [272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json](./272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json) |
+| Age of Empires II: Definitive Edition - The Three Kingdoms | 342809 | [342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json](./342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json) |
 | Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
 | Age of Empires II: Forgotten Empires | 9950 | [9950-age-of-empires-ii-forgotten-empires.json](./9950-age-of-empires-ii-forgotten-empires.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
@@ -5408,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima De Machina | 309975 | [309975-anima-de-machina.json](./309975-anima-de-machina.json) |
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
+| Anima Gate of Memories: I & II Remaster | 346952 | [346952-anima-gate-of-memories-i-and-ii-remaster.json](./346952-anima-gate-of-memories-i-and-ii-remaster.json) |
 | Anima Mundi | 350000 | [350000-anima-mundi.json](./350000-anima-mundi.json) |
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
@@ -6719,6 +6724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
+| Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
@@ -10230,6 +10236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
+| Azure Striker Gunvolt Trilogy Enhanced | 335400 | [335400-azure-striker-gunvolt-trilogy-enhanced.json](./335400-azure-striker-gunvolt-trilogy-enhanced.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azurea Juncture | 30454 | [30454-azurea-juncture.json](./30454-azurea-juncture.json) |
 | Azurea: Sora no Uta | 216219 | [216219-azurea-sora-no-uta.json](./216219-azurea-sora-no-uta.json) |
