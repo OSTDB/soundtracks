@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Xcape | 304702 | [304702-phantom-xcape.json](./304702-phantom-xcape.json) |
 | Phantom Zone Daimons | 236831 | [236831-phantom-zone-daimons.json](./236831-phantom-zone-daimons.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
+| Phantom: Covert Ops | 118872 | [118872-phantom-covert-ops.json](./118872-phantom-covert-ops.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
 | Phantomas 2 | 45344 | [45344-phantomas-2.json](./45344-phantomas-2.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Rift Adventure | 342737 | [342737-pixel-rift-adventure.json](./342737-pixel-rift-adventure.json) |
 | Pixel Ripped 1978 | 242384 | [242384-pixel-ripped-1978.json](./242384-pixel-ripped-1978.json) |
 | Pixel Ripped 1989 | 29839 | [29839-pixel-ripped-1989.json](./29839-pixel-ripped-1989.json) |
+| Pixel Ripped 1995 | 119336 | [119336-pixel-ripped-1995.json](./119336-pixel-ripped-1995.json) |
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
@@ -8204,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
+| Princess Project | 120596 | [120596-princess-project.json](./120596-princess-project.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
 | Princess Quest | 286070 | [286070-princess-quest.json](./286070-princess-quest.json) |
 | Princess Quest | 77600 | [77600-princess-quest.json](./77600-princess-quest.json) |
