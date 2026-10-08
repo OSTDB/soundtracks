@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
 | Captain's Room | 181130 | [181130-captains-room.json](./181130-captains-room.json) |
+| Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
+| Capybara Pizza Cafe | 411553 | [411553-capybara-pizza-cafe.json](./411553-capybara-pizza-cafe.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
 | Capybara Spa | 186141 | [186141-capybara-spa.json](./186141-capybara-spa.json) |
 | Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
@@ -7703,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Season VI - Scourge of Winter | 158101 | [158101-conquerors-blade-season-vi-scourge-of-winter.json](./158101-conquerors-blade-season-vi-scourge-of-winter.json) |
 | Conqueror's Blade: Season VII - Wolves of Ragnarok | 158108 | [158108-conquerors-blade-season-vii-wolves-of-ragnarok.json](./158108-conquerors-blade-season-vii-wolves-of-ragnarok.json) |
 | Conqueror's Blade: Season VIII - Dynasty | 158110 | [158110-conquerors-blade-season-viii-dynasty.json](./158110-conquerors-blade-season-viii-dynasty.json) |
+| Conqueror's Blade: Three Kingdoms | 411543 | [411543-conquerors-blade-three-kingdoms.json](./411543-conquerors-blade-three-kingdoms.json) |
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest Age | 62235 | [62235-conquest-age.json](./62235-conquest-age.json) |
@@ -8442,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
+| Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
 | Cosmantic Cluster | 258492 | [258492-cosmantic-cluster.json](./258492-cosmantic-cluster.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Make no Kiseki | 70674 | [70674-cosmetic-paradise-make-no-kiseki.json](./70674-cosmetic-paradise-make-no-kiseki.json) |
@@ -8710,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown 3: The Mind | 229149 | [229149-countdown-3-the-mind.json](./229149-countdown-3-the-mind.json) |
 | Countdown To Death | 315707 | [315707-countdown-to-death.json](./315707-countdown-to-death.json) |
 | Countdown to Doom | 13706 | [13706-countdown-to-doom.json](./13706-countdown-to-doom.json) |
+| Countdown to Eclipse | 411413 | [411413-countdown-to-eclipse.json](./411413-countdown-to-eclipse.json) |
 | Countdown to Extinction | 313858 | [313858-countdown-to-extinction.json](./313858-countdown-to-extinction.json) |
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
