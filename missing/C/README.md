@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
 | Champions of Shond: Echoes of Faith | 333699 | [333699-champions-of-shond-echoes-of-faith.json](./333699-champions-of-shond-echoes-of-faith.json) |
+| Champions of Sparta | 391703 | [391703-champions-of-sparta.json](./391703-champions-of-sparta.json) |
 | Champions of Thora | 130125 | [130125-champions-of-thora.json](./130125-champions-of-thora.json) |
 | Champions of Titan | 105082 | [105082-champions-of-titan.json](./105082-champions-of-titan.json) |
 | Champions of Zulula | 71604 | [71604-champions-of-zulula.json](./71604-champions-of-zulula.json) |
@@ -7623,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned 2: Bloodshot | 6943 | [6943-condemned-2-bloodshot.json](./6943-condemned-2-bloodshot.json) |
 | Condemned To Be Free | 345538 | [345538-condemned-to-be-free.json](./345538-condemned-to-be-free.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
+| Condemned: Nightfall | 391706 | [391706-condemned-nightfall.json](./391706-condemned-nightfall.json) |
 | Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
@@ -8762,6 +8764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costume Quest | 5637 | [5637-costume-quest.json](./5637-costume-quest.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
+| Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
@@ -10064,6 +10067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Crispy Chicken Speedmap Session 5: Paint It Doom | 323912 | [323912-crispy-chicken-speedmap-session-5-paint-it-doom.json](./323912-crispy-chicken-speedmap-session-5-paint-it-doom.json) |
+| Crispy Kart | 391771 | [391771-crispy-kart.json](./391771-crispy-kart.json) |
 | Criss Cross | 152756 | [152756-criss-cross.json](./152756-criss-cross.json) |
 | Criss Cross | 67520 | [67520-criss-cross.json](./67520-criss-cross.json) |
 | Criss Cross Bomb | 322064 | [322064-criss-cross-bomb.json](./322064-criss-cross-bomb.json) |
@@ -10250,6 +10254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
+| Crossed Tiles | 391696 | [391696-crossed-tiles.json](./391696-crossed-tiles.json) |
 | Crossed Wires | 291191 | [291191-crossed-wires.json](./291191-crossed-wires.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
@@ -10672,6 +10677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptis | 250895 | [250895-cryptis.json](./250895-cryptis.json) |
 | Cryptmaster | 213029 | [213029-cryptmaster.json](./213029-cryptmaster.json) |
+| Crypto Clicker | 391693 | [391693-crypto-clicker.json](./391693-crypto-clicker.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
 | Crypto Girls: SexCoin | 175796 | [175796-crypto-girls-sexcoin.json](./175796-crypto-girls-sexcoin.json) |
