@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Panic | 404799 | [404799-team-panic.json](./404799-team-panic.json) |
+| Team Principal: A Racing Manager | 396011 | [396011-team-principal-a-racing-manager.json](./396011-team-principal-a-racing-manager.json) |
 | Team Racing League | 32141 | [32141-team-racing-league.json](./32141-team-racing-league.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
 | Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
@@ -13507,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
+| Tiles of War | 396027 | [396027-tiles-of-war.json](./396027-tiles-of-war.json) |
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
 | Tileshire | 413042 | [413042-tileshire.json](./413042-tileshire.json) |
