@@ -4855,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River City Super Sports Challenge | 47973 | [47973-river-city-super-sports-challenge.json](./47973-river-city-super-sports-challenge.json) |
 | River City Super Sports Challenge: All Stars Special | 36210 | [36210-river-city-super-sports-challenge-all-stars-special.json](./36210-river-city-super-sports-challenge-all-stars-special.json) |
+| River City Survivors | 418254 | [418254-river-city-survivors.json](./418254-river-city-survivors.json) |
 | River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
 | River Climbing | 333166 | [333166-river-climbing.json](./333166-river-climbing.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
+| Rogueflite Extraction | 418314 | [418314-rogueflite-extraction.json](./418314-rogueflite-extraction.json) |
 | Roguefort | 396405 | [396405-roguefort.json](./396405-roguefort.json) |
 | Roguegg: Hardboiled Survivors | 390798 | [390798-roguegg-hardboiled-survivors.json](./390798-roguegg-hardboiled-survivors.json) |
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
@@ -6028,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
 | Roll the TP | 328677 | [328677-roll-the-tp.json](./328677-roll-the-tp.json) |
+| Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll! | 110114 | [110114-roll.json](./110114-roll.json) |
 | Roll.io | 108260 | [108260-roll-io.json](./108260-roll-io.json) |
@@ -6145,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollocoBall | 26598 | [26598-rollocoball.json](./26598-rollocoball.json) |
 | RollOn | 194388 | [194388-rollon.json](./194388-rollon.json) |
 | Rollout | 31870 | [31870-rollout.json](./31870-rollout.json) |
+| Rollout Inline | 418263 | [418263-rollout-inline.json](./418263-rollout-inline.json) |
 | RollOver | 72302 | [72302-rollover.json](./72302-rollover.json) |
 | Rollover Alien | 358490 | [358490-rollover-alien.json](./358490-rollover-alien.json) |
 | Rolloverture | 40914 | [40914-rolloverture.json](./40914-rolloverture.json) |
