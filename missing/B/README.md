@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 3 | 286628 | [286628-battle-gear-3.json](./286628-battle-gear-3.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
+| Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
 | Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grid | 234675 | [234675-battle-grid.json](./234675-battle-grid.json) |
@@ -5289,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
+| Blackfaun | 34279 | [34279-blackfaun.json](./34279-blackfaun.json) |
 | Blackfire Crusade | 403082 | [403082-blackfire-crusade.json](./403082-blackfire-crusade.json) |
 | Blackfrost: The Long Dark 2 | 325596 | [325596-blackfrost-the-long-dark-2.json](./325596-blackfrost-the-long-dark-2.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
@@ -8951,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brilliant Hamsters! | 62569 | [62569-brilliant-hamsters.json](./62569-brilliant-hamsters.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
+| Brilliant Shadows: Part One of the Book of Gray Magic | 34291 | [34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json](./34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json) |
 | Brimstone | 25894 | [25894-brimstone.json](./25894-brimstone.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
 | Brimstone | 347874 | [347874-brimstone.json](./347874-brimstone.json) |
