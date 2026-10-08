@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Earth | 230962 | [230962-save-the-earth.json](./230962-save-the-earth.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
+| Save the Flame‪!‬ | 395513 | [395513-save-the-flame.json](./395513-save-the-flame.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
 | Save the Girl | 108382 | [108382-save-the-girl.json](./108382-save-the-girl.json) |
@@ -5731,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
+| Shu | 395471 | [395471-shu.json](./395471-shu.json) |
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
@@ -13032,6 +13034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
+| Splash Divers | 395524 | [395524-splash-divers.json](./395524-splash-divers.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
@@ -15545,6 +15548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Expansion | 176368 | [176368-stellar-expansion.json](./176368-stellar-expansion.json) |
 | Stellar Fight | 218978 | [218978-stellar-fight.json](./218978-stellar-fight.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
+| Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
 | Stellar Gun | 167146 | [167146-stellar-gun.json](./167146-stellar-gun.json) |
 | Stellar Howl: Galactic Repairs | 417368 | [417368-stellar-howl-galactic-repairs.json](./417368-stellar-howl-galactic-repairs.json) |
 | Stellar Industrialist | 390182 | [390182-stellar-industrialist.json](./390182-stellar-industrialist.json) |
