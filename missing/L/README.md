@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
 | League of Tanks: Global War | 330353 | [330353-league-of-tanks-global-war.json](./330353-league-of-tanks-global-war.json) |
 | League of War: Mercenaries | 261424 | [261424-league-of-war-mercenaries.json](./261424-league-of-war-mercenaries.json) |
+| League of War: VR Arena | 54661 | [54661-league-of-war-vr-arena.json](./54661-league-of-war-vr-arena.json) |
 | League Space | 173220 | [173220-league-space.json](./173220-league-space.json) |
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Cook Together 2 | 203251 | [203251-lets-cook-together-2.json](./203251-lets-cook-together-2.json) |
+| Let's Create! Pottery | 64876 | [64876-lets-create-pottery.json](./64876-lets-create-pottery.json) |
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
