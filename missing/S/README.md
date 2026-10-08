@@ -6543,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
+| Singled Out | 122145 | [122145-singled-out.json](./122145-singled-out.json) |
 | Singles 2: Triple Trouble | 27606 | [27606-singles-2-triple-trouble.json](./27606-singles-2-triple-trouble.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
 | SingSpace | 128458 | [128458-singspace.json](./128458-singspace.json) |
