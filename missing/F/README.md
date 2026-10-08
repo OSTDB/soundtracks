@@ -3389,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
+| Fire Emblem: Archanea Reimagined | 401857 | [401857-fire-emblem-archanea-reimagined.json](./401857-fire-emblem-archanea-reimagined.json) |
 | Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
@@ -5099,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus and Find Stereogram Training | 364087 | [364087-focus-and-find-stereogram-training.json](./364087-focus-and-find-stereogram-training.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
+| Fodders Grapple Gauntlet | 401602 | [401602-fodders-grapple-gauntlet.json](./401602-fodders-grapple-gauntlet.json) |
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
 | Foe Frenzy | 126564 | [126564-foe-frenzy.json](./126564-foe-frenzy.json) |
 | Foes of Ali | 4295 | [4295-foes-of-ali.json](./4295-foes-of-ali.json) |
@@ -6076,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
+| Forward Toward Uranus X | 401897 | [401897-forward-toward-uranus-x.json](./401897-forward-toward-uranus-x.json) |
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Foryster | 312225 | [312225-foryster.json](./312225-foryster.json) |
