@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
+| In Ruins | 418307 | [418307-in-ruins.json](./418307-in-ruins.json) |
 | In Search of Dr. Riptide | 69578 | [69578-in-search-of-dr-riptide.json](./69578-in-search-of-dr-riptide.json) |
 | In Search of Freedom | 383563 | [383563-in-search-of-freedom.json](./383563-in-search-of-freedom.json) |
 | In Search of Heroes! | 303584 | [303584-in-search-of-heroes.json](./303584-in-search-of-heroes.json) |
