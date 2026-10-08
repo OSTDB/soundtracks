@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warning Forever | 50111 | [50111-warning-forever.json](./50111-warning-forever.json) |
 | Warno | 187246 | [187246-warno.json](./187246-warno.json) |
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
+| Warno: Gold Edition | 402945 | [402945-warno-gold-edition.json](./402945-warno-gold-edition.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | Warno: Nemesis #4 - Capital Defence | 376081 | [376081-warno-nemesis-4-capital-defence.json](./376081-warno-nemesis-4-capital-defence.json) |
 | Warno: Northag | 302063 | [302063-warno-northag.json](./302063-warno-northag.json) |
