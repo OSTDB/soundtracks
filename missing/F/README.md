@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
+| Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
 | Find Together on Stream | 289411 | [289411-find-together-on-stream.json](./289411-find-together-on-stream.json) |
 | Find Up! | 264212 | [264212-find-up.json](./264212-find-up.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
@@ -6099,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Fighters | 20978 | [20978-fossil-fighters.json](./20978-fossil-fighters.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
+| Fossil Hunters | 55242 | [55242-fossil-hunters.json](./55242-fossil-hunters.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
 | Fossil League | 21393 | [21393-fossil-league.json](./21393-fossil-league.json) |
 | Fossil League: Dino Tournament Championship | 73049 | [73049-fossil-league-dino-tournament-championship.json](./73049-fossil-league-dino-tournament-championship.json) |
