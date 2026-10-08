@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Election Simulator In Russia! | 217253 | [217253-best-election-simulator-in-russia.json](./217253-best-election-simulator-in-russia.json) |
 | Best Eleven: Champions Club | 196596 | [196596-best-eleven-champions-club.json](./196596-best-eleven-champions-club.json) |
 | Best Elf | 169783 | [169783-best-elf.json](./169783-best-elf.json) |
+| Best Fiends | 59922 | [59922-best-fiends.json](./59922-best-fiends.json) |
 | Best Fiends Forever | 57363 | [57363-best-fiends-forever.json](./57363-best-fiends-forever.json) |
 | Best Fighter | 283991 | [283991-best-fighter.json](./283991-best-fighter.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
@@ -5089,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dawn II | 124725 | [124725-black-dawn-ii.json](./124725-black-dawn-ii.json) |
 | Black Dawn Rebirth | 124712 | [124712-black-dawn-rebirth.json](./124712-black-dawn-rebirth.json) |
 | Black Dawn VI: Hellbound | 124724 | [124724-black-dawn-vi-hellbound.json](./124724-black-dawn-vi-hellbound.json) |
+| Black Day | 55603 | [55603-black-day.json](./55603-black-day.json) |
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
 | Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
@@ -9707,6 +9709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Express | 185477 | [185477-bullet-express.json](./185477-bullet-express.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
+| Bullet Girls Phantasia | 57021 | [57021-bullet-girls-phantasia.json](./57021-bullet-girls-phantasia.json) |
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
