@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubes | 348943 | [348943-qubes.json](./348943-qubes.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
 | Qubic | 31906 | [31906-qubic.json](./31906-qubic.json) |
+| Qubic | 388284 | [388284-qubic.json](./388284-qubic.json) |
 | Qubic 2025 Bestsellers | 393051 | [393051-qubic-2025-bestsellers.json](./393051-qubic-2025-bestsellers.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
@@ -414,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QUByte Classics: Thunderbolt Collection by Piko | 210630 | [210630-qubyte-classics-thunderbolt-collection-by-piko.json](./210630-qubyte-classics-thunderbolt-collection-by-piko.json) |
 | QUByte Classics: Tinhead | 221296 | [221296-qubyte-classics-tinhead.json](./221296-qubyte-classics-tinhead.json) |
 | Que ~Ancient Leaf no Yousei~ | 62408 | [62408-que-ancient-leaf-no-yousei.json](./62408-que-ancient-leaf-no-yousei.json) |
+| Que No Importa el Mañana Si No Lo Veo de Llegar | 388181 | [388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json](./388181-que-no-importa-el-manana-si-no-lo-veo-de-llegar.json) |
 | Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
 | Quebra-cabeça | 290079 | [290079-quebra-cabeca.json](./290079-quebra-cabeca.json) |
 | Quebrantar Chapter 3: The Frozen Spears | 315699 | [315699-quebrantar-chapter-3-the-frozen-spears.json](./315699-quebrantar-chapter-3-the-frozen-spears.json) |
