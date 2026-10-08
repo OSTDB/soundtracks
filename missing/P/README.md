@@ -2431,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
+| Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
 | Pentapus | 292099 | [292099-pentapus.json](./292099-pentapus.json) |
 | Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
@@ -5312,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
 | Planetoid Evasion | 310141 | [310141-planetoid-evasion.json](./310141-planetoid-evasion.json) |
 | Planetoid Pioneers | 27501 | [27501-planetoid-pioneers.json](./27501-planetoid-pioneers.json) |
+| Planetoid Pioneers Online | 119988 | [119988-planetoid-pioneers-online.json](./119988-planetoid-pioneers-online.json) |
 | Planetoidas | 178630 | [178630-planetoidas.json](./178630-planetoidas.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
@@ -7409,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
+| Post Soviet Zombies | 120403 | [120403-post-soviet-zombies.json](./120403-post-soviet-zombies.json) |
 | Post War Dreams | 28947 | [28947-post-war-dreams.json](./28947-post-war-dreams.json) |
 | Post-apocalyptic Old man | 283236 | [283236-post-apocalyptic-old-man.json](./283236-post-apocalyptic-old-man.json) |
 | Post-Disclosure, Devil's Night | 218407 | [218407-post-disclosure-devils-night.json](./218407-post-disclosure-devils-night.json) |
