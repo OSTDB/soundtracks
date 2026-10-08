@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
+| Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
 | Find Yourself | 143776 | [143776-find-yourself.json](./143776-find-yourself.json) |
 | Find-a-frog | 229011 | [229011-find-a-frog.json](./229011-find-a-frog.json) |
@@ -4970,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyland Wars: 3 Model Trains | 173041 | [173041-flyland-wars-3-model-trains.json](./173041-flyland-wars-3-model-trains.json) |
 | FlyManMissile | 368666 | [368666-flymanmissile.json](./368666-flymanmissile.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
+| Flynn & Freckles | 97346 | [97346-flynn-and-freckles.json](./97346-flynn-and-freckles.json) |
 | Flynn: Son of Crimson | 71595 | [71595-flynn-son-of-crimson.json](./71595-flynn-son-of-crimson.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
