@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Counter | 149686 | [149686-under-the-counter.json](./149686-under-the-counter.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
+| Under the Heavens | 398011 | [398011-under-the-heavens.json](./398011-under-the-heavens.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
 | Under the Moon: Crescent | 203289 | [203289-under-the-moon-crescent.json](./203289-under-the-moon-crescent.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale 3D | 324938 | [324938-undertale-3d.json](./324938-undertale-3d.json) |
 | Undertale Hard Mode: Director's Cut | 364600 | [364600-undertale-hard-mode-directors-cut.json](./364600-undertale-hard-mode-directors-cut.json) |
 | Undertale Patience | 307154 | [307154-undertale-patience.json](./307154-undertale-patience.json) |
+| Undertale Perseverance | 398006 | [398006-undertale-perseverance.json](./398006-undertale-perseverance.json) |
 | Undertale Plus | 329655 | [329655-undertale-plus.json](./329655-undertale-plus.json) |
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Together | 231306 | [231306-undertale-together.json](./231306-undertale-together.json) |
