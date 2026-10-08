@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
+| Machine Hunt | 30849 | [30849-machine-hunt.json](./30849-machine-hunt.json) |
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
 | Machine Learning: Episode I | 90571 | [90571-machine-learning-episode-i.json](./90571-machine-learning-episode-i.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 131431 | [131431-mahjong.json](./131431-mahjong.json) |
 | Mahjong | 306028 | [306028-mahjong.json](./306028-mahjong.json) |
+| Mahjong | 31012 | [31012-mahjong.json](./31012-mahjong.json) |
 | Mahjong | 86367 | [86367-mahjong.json](./86367-mahjong.json) |
 | Mahjong | 86409 | [86409-mahjong.json](./86409-mahjong.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
@@ -2910,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
+| Masked Forces | 30527 | [30527-masked-forces.json](./30527-masked-forces.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
@@ -5363,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
+| Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
@@ -6318,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
+| Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
 | Middle Age Conquest | 151289 | [151289-middle-age-conquest.json](./151289-middle-age-conquest.json) |
 | Middle Ages Hero | 115147 | [115147-middle-ages-hero.json](./115147-middle-ages-hero.json) |
@@ -7427,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimapperz | 337302 | [337302-minimapperz.json](./337302-minimapperz.json) |
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
 | Minimize | 88665 | [88665-minimize.json](./88665-minimize.json) |
+| Minimized | 31457 | [31457-minimized.json](./31457-minimized.json) |
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
