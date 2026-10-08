@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Glee: Volume 3 | 50616 | [50616-karaoke-revolution-glee-volume-3.json](./50616-karaoke-revolution-glee-volume-3.json) |
 | Karaoke Revolution Party | 24145 | [24145-karaoke-revolution-party.json](./24145-karaoke-revolution-party.json) |
+| Karaoke Revolution Presents: American Idol | 21382 | [21382-karaoke-revolution-presents-american-idol.json](./21382-karaoke-revolution-presents-american-idol.json) |
 | Karaoke Revolution Presents: American Idol Encore | 21350 | [21350-karaoke-revolution-presents-american-idol-encore.json](./21350-karaoke-revolution-presents-american-idol-encore.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
