@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
+| Godway: Only Up Simulator | 391134 | [391134-godway-only-up-simulator.json](./391134-godway-only-up-simulator.json) |
 | GodWright | 414172 | [414172-godwright.json](./414172-godwright.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
@@ -5704,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
+| Growth | 391148 | [391148-growth.json](./391148-growth.json) |
 | Growth Experiment | 285526 | [285526-growth-experiment.json](./285526-growth-experiment.json) |
 | Growth Spurt: A Meandering Intermission into the Afterhours of a Miscalculation | 301910 | [301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json](./301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json) |
 | Grozs Fantasy World | 262921 | [262921-grozs-fantasy-world.json](./262921-grozs-fantasy-world.json) |
