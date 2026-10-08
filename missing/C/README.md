@@ -1047,6 +1047,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa | 78088 | [78088-captain-tsubasa.json](./78088-captain-tsubasa.json) |
 | Captain Tsubasa II: World Fighters | 388427 | [388427-captain-tsubasa-ii-world-fighters.json](./388427-captain-tsubasa-ii-world-fighters.json) |
+| Captain Tsubasa II: World Fighters - 2026 Japan National Team & World Youth Jersey Set | 407291 | [407291-captain-tsubasa-ii-world-fighters-2026-japan-national-team-and-world-youth-jersey-set.json](./407291-captain-tsubasa-ii-world-fighters-2026-japan-national-team-and-world-youth-jersey-set.json) |
+| Captain Tsubasa II: World Fighters - Deluxe Edition | 407287 | [407287-captain-tsubasa-ii-world-fighters-deluxe-edition.json](./407287-captain-tsubasa-ii-world-fighters-deluxe-edition.json) |
+| Captain Tsubasa II: World Fighters - DLC Character Pack 1 | 407288 | [407288-captain-tsubasa-ii-world-fighters-dlc-character-pack-1.json](./407288-captain-tsubasa-ii-world-fighters-dlc-character-pack-1.json) |
+| Captain Tsubasa II: World Fighters - DLC Character Pack 2 | 407289 | [407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json](./407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json) |
+| Captain Tsubasa II: World Fighters - DLC Character Pack 3 | 407290 | [407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json](./407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
 | Captain Tsubasa J: Zenkoku Seiha he no Chousen | 65009 | [65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json](./65009-captain-tsubasa-j-zenkoku-seiha-he-no-chousen.json) |
@@ -1186,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
 | Car Saler Simulator 2023 | 267347 | [267347-car-saler-simulator-2023.json](./267347-car-saler-simulator-2023.json) |
 | Car Sales Simulator | 403738 | [403738-car-sales-simulator.json](./403738-car-sales-simulator.json) |
+| Car Sales Simulator | 407368 | [407368-car-sales-simulator.json](./407368-car-sales-simulator.json) |
 | Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
 | Car Scrapyard Simulator | 217267 | [217267-car-scrapyard-simulator.json](./217267-car-scrapyard-simulator.json) |
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
@@ -1741,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cash Invaders | 92826 | [92826-cash-invaders.json](./92826-cash-invaders.json) |
+| Cash Movers | 407286 | [407286-cash-movers.json](./407286-cash-movers.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
@@ -3348,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Char's Ennui | 384774 | [384774-chars-ennui.json](./384774-chars-ennui.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
+| Character Limit | 406637 | [406637-character-limit.json](./406637-character-limit.json) |
 | Character Sheets, Please | 209941 | [209941-character-sheets-please.json](./209941-character-sheets-please.json) |
 | Charade Maniacs | 69343 | [69343-charade-maniacs.json](./69343-charade-maniacs.json) |
 | Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
@@ -3793,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessboard Kingdoms | 109556 | [109556-chessboard-kingdoms.json](./109556-chessboard-kingdoms.json) |
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
 | Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
+| Chesscent | 406666 | [406666-chesscent.json](./406666-chesscent.json) |
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
@@ -6769,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
+| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -7904,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contagion VR: Outbreak | 82047 | [82047-contagion-vr-outbreak.json](./82047-contagion-vr-outbreak.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
 | Container City | 209952 | [209952-container-city.json](./209952-container-city.json) |
+| Container Hunter Simulator | 407367 | [407367-container-hunter-simulator.json](./407367-container-hunter-simulator.json) |
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
@@ -8941,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Catch | 352355 | [352355-cozy-catch.json](./352355-cozy-catch.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Claw Machine | 321513 | [321513-cozy-claw-machine.json](./321513-cozy-claw-machine.json) |
+| Cozy Cleanup | 407203 | [407203-cozy-cleanup.json](./407203-cozy-cleanup.json) |
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
 | Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Cooking: Tiny Tastes | 356847 | [356847-cozy-cooking-tiny-tastes.json](./356847-cozy-cooking-tiny-tastes.json) |
@@ -8968,6 +8980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
 | Cozy Home Unpacking | 403736 | [403736-cozy-home-unpacking.json](./403736-cozy-home-unpacking.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
+| Cozy Interiors | 407204 | [407204-cozy-interiors.json](./407204-cozy-interiors.json) |
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
@@ -11044,6 +11057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
+| Cuffed | 406659 | [406659-cuffed.json](./406659-cuffed.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
 | Cuit | 28331 | [28331-cuit.json](./28331-cuit.json) |
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
@@ -11659,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
+| CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
