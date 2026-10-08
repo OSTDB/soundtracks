@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Landing | 390651 | [390651-alice-landing.json](./390651-alice-landing.json) |
 | Alice Lorange Adventures Season 2 | 393111 | [393111-alice-lorange-adventures-season-2.json](./393111-alice-lorange-adventures-season-2.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
+| Alice on Delivery | 396708 | [396708-alice-on-delivery.json](./396708-alice-on-delivery.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
 | Alice Sisters | 157033 | [157033-alice-sisters.json](./157033-alice-sisters.json) |
@@ -4314,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
 | Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
+| Alsmic Lizzi | 396777 | [396777-alsmic-lizzi.json](./396777-alsmic-lizzi.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
 | Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
 | Alt Tarot | 178477 | [178477-alt-tarot.json](./178477-alt-tarot.json) |
