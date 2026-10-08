@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack | 342659 | [342659-pack.json](./342659-pack.json) |
 | Pack 2 Games Pony Friends 2 + My Riding Stables: Life with Horses | 147465 | [147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json](./147465-pack-2-games-pony-friends-2-my-riding-stables-life-with-horses.json) |
 | Pack 5 Puzzle Games | 100021 | [100021-pack-5-puzzle-games.json](./100021-pack-5-puzzle-games.json) |
+| Pack A Plush! | 422163 | [422163-pack-a-plush.json](./422163-pack-a-plush.json) |
 | Pack A Truck | 54729 | [54729-pack-a-truck.json](./54729-pack-a-truck.json) |
 | Pack and Ship: Warehouse Simulator | 389963 | [389963-pack-and-ship-warehouse-simulator.json](./389963-pack-and-ship-warehouse-simulator.json) |
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palpus X: Annihilation | 327993 | [327993-palpus-x-annihilation.json](./327993-palpus-x-annihilation.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
 | PalSync | 341599 | [341599-palsync.json](./341599-palsync.json) |
+| Paluah's Trench | 422099 | [422099-paluahs-trench.json](./422099-paluahs-trench.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Palworld: Palfarm | 369677 | [369677-palworld-palfarm.json](./369677-palworld-palfarm.json) |
 | Palworld: Pokémon Mod | 296045 | [296045-palworld-pokemon-mod.json](./296045-palworld-pokemon-mod.json) |
@@ -1514,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Partum Artifex | 186115 | [186115-partum-artifex.json](./186115-partum-artifex.json) |
+| Partway | 422092 | [422092-partway.json](./422092-partway.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
