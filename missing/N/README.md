@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
+| Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
 | Newton Museum - Kyouryuu Nendaiki Zenpen | 63961 | [63961-newton-museum-kyouryuu-nendaiki-zenpen.json](./63961-newton-museum-kyouryuu-nendaiki-zenpen.json) |
 | Newton Museum: Kyouryuu Nendaiki Kouhen | 63960 | [63960-newton-museum-kyouryuu-nendaiki-kouhen.json](./63960-newton-museum-kyouryuu-nendaiki-kouhen.json) |
@@ -3551,6 +3552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | Noah's Quest | 399854 | [399854-noahs-quest.json](./399854-noahs-quest.json) |
+| Noahmund | 96249 | [96249-noahmund.json](./96249-noahmund.json) |
 | Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
