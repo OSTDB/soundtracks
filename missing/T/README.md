@@ -4585,12 +4585,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Audi Double Car Pack | 393735 | [393735-the-crew-motorfest-audi-double-car-pack.json](./393735-the-crew-motorfest-audi-double-car-pack.json) |
 | The Crew: Motorfest - BMW Double Car Pack | 408887 | [408887-the-crew-motorfest-bmw-double-car-pack.json](./408887-the-crew-motorfest-bmw-double-car-pack.json) |
 | The Crew: Motorfest - Chase Squad Pack | 408883 | [408883-the-crew-motorfest-chase-squad-pack.json](./408883-the-crew-motorfest-chase-squad-pack.json) |
+| The Crew: Motorfest - Chevrolet Pack | 408844 | [408844-the-crew-motorfest-chevrolet-pack.json](./408844-the-crew-motorfest-chevrolet-pack.json) |
 | The Crew: Motorfest - Deluxe Edition | 275807 | [275807-the-crew-motorfest-deluxe-edition.json](./275807-the-crew-motorfest-deluxe-edition.json) |
 | The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Ford Triple Car Pack | 408885 | [408885-the-crew-motorfest-ford-triple-car-pack.json](./408885-the-crew-motorfest-ford-triple-car-pack.json) |
 | The Crew: Motorfest - Porsche Triple Car Pack | 408886 | [408886-the-crew-motorfest-porsche-triple-car-pack.json](./408886-the-crew-motorfest-porsche-triple-car-pack.json) |
+| The Crew: Motorfest - RC Frenzy Pack | 408845 | [408845-the-crew-motorfest-rc-frenzy-pack.json](./408845-the-crew-motorfest-rc-frenzy-pack.json) |
 | The Crew: Motorfest - Season 10 | 408914 | [408914-the-crew-motorfest-season-10.json](./408914-the-crew-motorfest-season-10.json) |
+| The Crew: Motorfest - Season 8 | 408847 | [408847-the-crew-motorfest-season-8.json](./408847-the-crew-motorfest-season-8.json) |
 | The Crew: Motorfest - Season 9 | 408911 | [408911-the-crew-motorfest-season-9.json](./408911-the-crew-motorfest-season-9.json) |
 | The Crew: Motorfest - Triple Bike Pack | 393737 | [393737-the-crew-motorfest-triple-bike-pack.json](./393737-the-crew-motorfest-triple-bike-pack.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
@@ -5077,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
 | The Draugr | 107004 | [107004-the-draugr.json](./107004-the-draugr.json) |
+| The Drawn Hour | 408727 | [408727-the-drawn-hour.json](./408727-the-drawn-hour.json) |
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
 | The Dreadnaught Factor | 5672 | [5672-the-dreadnaught-factor.json](./5672-the-dreadnaught-factor.json) |
@@ -6643,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
 | The Intern: Temptation at Work | 420652 | [420652-the-intern-temptation-at-work.json](./420652-the-intern-temptation-at-work.json) |
 | The Internship | 102319 | [102319-the-internship.json](./102319-the-internship.json) |
+| The Internship | 408836 | [408836-the-internship.json](./408836-the-internship.json) |
 | The Interstate '76 Arsenal | 74075 | [74075-the-interstate-76-arsenal.json](./74075-the-interstate-76-arsenal.json) |
 | The Intertwined Imprints | 293697 | [293697-the-intertwined-imprints.json](./293697-the-intertwined-imprints.json) |
 | The Interval Bureau: Extension 0 | 379028 | [379028-the-interval-bureau-extension-0.json](./379028-the-interval-bureau-extension-0.json) |
@@ -10425,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
+| The Three Cardinals | 408709 | [408709-the-three-cardinals.json](./408709-the-three-cardinals.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
 | The Three Kingdoms of China | 115489 | [115489-the-three-kingdoms-of-china.json](./115489-the-three-kingdoms-of-china.json) |
 | The Three Kingdoms of Destiny | 312653 | [312653-the-three-kingdoms-of-destiny.json](./312653-the-three-kingdoms-of-destiny.json) |
@@ -17743,6 +17749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TraVRsal | 177409 | [177409-travrsal.json](./177409-travrsal.json) |
 | Trawl | 33420 | [33420-trawl.json](./33420-trawl.json) |
 | Trawler’s Empire | 339905 | [339905-trawler-s-empire.json](./339905-trawler-s-empire.json) |
+| Trawler's Wake | 408729 | [408729-trawlers-wake.json](./408729-trawlers-wake.json) |
 | Trax | 58986 | [58986-trax.json](./58986-trax.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
