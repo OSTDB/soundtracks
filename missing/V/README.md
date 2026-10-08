@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
 | Vampirijagd 2 Nightrace | 84437 | [84437-vampirijagd-2-nightrace.json](./84437-vampirijagd-2-nightrace.json) |
+| Vampirium: 1997 | 409402 | [409402-vampirium-1997.json](./409402-vampirium-1997.json) |
 | Vampolitics: Vassals of the Void | 375375 | [375375-vampolitics-vassals-of-the-void.json](./375375-vampolitics-vassals-of-the-void.json) |
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
