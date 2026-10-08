@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
+| Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of the Pharaoh | 4288 | [4288-seal-of-the-pharaoh.json](./4288-seal-of-the-pharaoh.json) |
 | Seal Online: Blades of Destiny | 109510 | [109510-seal-online-blades-of-destiny.json](./109510-seal-online-blades-of-destiny.json) |
 | Seal Online: Eternal Destiny | 267578 | [267578-seal-online-eternal-destiny.json](./267578-seal-online-eternal-destiny.json) |
+| Seal Save: Royal Decree | 419124 | [419124-seal-save-royal-decree.json](./419124-seal-save-royal-decree.json) |
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
@@ -8603,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
+| Snake: Gridbreaker | 419187 | [419187-snake-gridbreaker.json](./419187-snake-gridbreaker.json) |
 | Snake: Road to apple | 74909 | [74909-snake-road-to-apple.json](./74909-snake-road-to-apple.json) |
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
@@ -8726,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snakes | 49025 | [49025-sneaky-snakes.json](./49025-sneaky-snakes.json) |
+| Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
