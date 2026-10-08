@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkou wo Tsukurou!! Advance | 49565 | [49565-gakkou-wo-tsukurou-advance.json](./49565-gakkou-wo-tsukurou-advance.json) |
 | Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
+| Gaku Ou: The Royal Seven Stars + Meteor | 399882 | [399882-gaku-ou-the-royal-seven-stars-meteor.json](./399882-gaku-ou-the-royal-seven-stars-meteor.json) |
 | Gakuen Alice: Doki-doki Fushigi Taiken | 49564 | [49564-gakuen-alice-doki-doki-fushigi-taiken.json](./49564-gakuen-alice-doki-doki-fushigi-taiken.json) |
 | Gakuen Alice: Waku-waku Happy Friends | 70676 | [70676-gakuen-alice-waku-waku-happy-friends.json](./70676-gakuen-alice-waku-waku-happy-friends.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geo-Political Simulator 5 | 315068 | [315068-geo-political-simulator-5.json](./315068-geo-political-simulator-5.json) |
+| Geo: The Iron Age | 399930 | [399930-geo-the-iron-age.json](./399930-geo-the-iron-age.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | GeoBingo.io | 172403 | [172403-geobingo-io.json](./172403-geobingo-io.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
