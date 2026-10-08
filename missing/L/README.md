@@ -4247,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
 | Lonely Owl | 335460 | [335460-lonely-owl.json](./335460-lonely-owl.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
+| Lonely Penguin | 392865 | [392865-lonely-penguin.json](./392865-lonely-penguin.json) |
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
 | Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
 | Lonely Red Night | 149700 | [149700-lonely-red-night.json](./149700-lonely-red-night.json) |
@@ -4665,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
+| Lost Children of the Mansion | 392857 | [392857-lost-children-of-the-mansion.json](./392857-lost-children-of-the-mansion.json) |
 | Lost Chronicles of Zerzura | 17559 | [17559-lost-chronicles-of-zerzura.json](./17559-lost-chronicles-of-zerzura.json) |
 | Lost Chronicles: Fall of Caesar | 137437 | [137437-lost-chronicles-fall-of-caesar.json](./137437-lost-chronicles-fall-of-caesar.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
