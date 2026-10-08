@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
+| Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
 | LingeriesOffice | 334786 | [334786-lingeriesoffice.json](./334786-lingeriesoffice.json) |
 | Lingering | 171965 | [171965-lingering.json](./171965-lingering.json) |
+| Lingering Fragrance | 105599 | [105599-lingering-fragrance.json](./105599-lingering-fragrance.json) |
 | Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
 | Lingering Shadows | 352320 | [352320-lingering-shadows.json](./352320-lingering-shadows.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
@@ -4916,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
 | Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
+| Lotus Simulator | 105548 | [105548-lotus-simulator.json](./105548-lotus-simulator.json) |
 | Lotus Simulator: Addon - Düsseldorf 1981 | 167754 | [167754-lotus-simulator-addon-dusseldorf-1981.json](./167754-lotus-simulator-addon-dusseldorf-1981.json) |
 | Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
 | Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
@@ -5097,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
 | Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
+| Love ritual | 105352 | [105352-love-ritual.json](./105352-love-ritual.json) |
 | Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
