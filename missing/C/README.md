@@ -5316,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil War Strategy | 271790 | [271790-civil-war-strategy.json](./271790-civil-war-strategy.json) |
 | Civil War: 1862 | 31079 | [31079-civil-war-1862.json](./31079-civil-war-1862.json) |
+| Civil War: 1863 | 33668 | [33668-civil-war-1863.json](./33668-civil-war-1863.json) |
 | Civil War: 1863 Gold | 107390 | [107390-civil-war-1863-gold.json](./107390-civil-war-1863-gold.json) |
 | Civil War: 1864 Gold | 99176 | [99176-civil-war-1864-gold.json](./99176-civil-war-1864-gold.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
