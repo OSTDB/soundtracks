@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killrun | 145940 | [145940-killrun.json](./145940-killrun.json) |
+| Killsquad | 118600 | [118600-killsquad.json](./118600-killsquad.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
 | Killzone 2 | 1866 | [1866-killzone-2.json](./1866-killzone-2.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
+| Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
 | Knightly Gnomes | 309508 | [309508-knightly-gnomes.json](./309508-knightly-gnomes.json) |
 | KnightMan | 257387 | [257387-knightman.json](./257387-knightman.json) |
 | Knightmare | 12166 | [12166-knightmare.json](./12166-knightmare.json) |
