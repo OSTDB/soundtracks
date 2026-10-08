@@ -2731,6 +2731,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Armory | 303587 | [303587-instant-armory.json](./303587-instant-armory.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Indie Collection: Vol. 2 | 99766 | [99766-instant-indie-collection-vol-2.json](./99766-instant-indie-collection-vol-2.json) |
+| Instant Indie Collection: Vol. 4 | 82455 | [82455-instant-indie-collection-vol-4.json](./82455-instant-indie-collection-vol-4.json) |
+| Instant Indie Collection: Vol. 5 | 82454 | [82454-instant-indie-collection-vol-5.json](./82454-instant-indie-collection-vol-5.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
 | Instant Sports Tennis | 144207 | [144207-instant-sports-tennis.json](./144207-instant-sports-tennis.json) |
