@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
+| Marble Castle | 413496 | [413496-marble-castle.json](./413496-marble-castle.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
@@ -9247,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
+| Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster Nursery | 411821 | [411821-monster-nursery.json](./411821-monster-nursery.json) |
@@ -9594,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
+| Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchild | 36180 | [36180-moonchild.json](./36180-moonchild.json) |
