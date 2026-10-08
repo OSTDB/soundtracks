@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
 | Hong Kong Phooey: No.1 Super Guy | 71528 | [71528-hong-kong-phooey-no-1-super-guy.json](./71528-hong-kong-phooey-no-1-super-guy.json) |
+| Hong Lou Meng: Lin Daiyu yu Bei Jing Wang | 394801 | [394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json](./394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
 | Honk III | 180779 | [180779-honk-iii.json](./180779-honk-iii.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
@@ -7345,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
 | Hyperdimension Neptunia Re;Birth1 - DLC pack | 154605 | [154605-hyperdimension-neptunia-re-birth1-dlc-pack.json](./154605-hyperdimension-neptunia-re-birth1-dlc-pack.json) |
 | Hyperdimension Neptunia Re;Birth1 - DLC pack 2 | 154604 | [154604-hyperdimension-neptunia-re-birth1-dlc-pack-2.json](./154604-hyperdimension-neptunia-re-birth1-dlc-pack-2.json) |
+| Hyperdimension Neptunia Re;Birth1 - Limited Edition | 394768 | [394768-hyperdimension-neptunia-re-birth1-limited-edition.json](./394768-hyperdimension-neptunia-re-birth1-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 1 | 167238 | [167238-hyperdimension-neptunia-re-birth1-additional-content-1.json](./167238-hyperdimension-neptunia-re-birth1-additional-content-1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 2 | 167240 | [167240-hyperdimension-neptunia-re-birth1-additional-content-2.json](./167240-hyperdimension-neptunia-re-birth1-additional-content-2.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 3 | 167234 | [167234-hyperdimension-neptunia-re-birth1-additional-content-3.json](./167234-hyperdimension-neptunia-re-birth1-additional-content-3.json) |
@@ -7368,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack | 154607 | [154607-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack.json](./154607-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - DLC Pack 2 | 154606 | [154606-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack-2.json](./154606-hyperdimension-neptunia-re-birth2-sisters-generation-dlc-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 388189 | [388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
+| Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 394770 | [394770-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./394770-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation | 9869 | [9869-hyperdimension-neptunia-re-birth3-v-generation.json](./9869-hyperdimension-neptunia-re-birth3-v-generation.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack | 154609 | [154609-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack.json](./154609-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack.json) |
 | Hyperdimension Neptunia Re;Birth3: V Generation - DLC Pack 2 | 154608 | [154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json](./154608-hyperdimension-neptunia-re-birth3-v-generation-dlc-pack-2.json) |
