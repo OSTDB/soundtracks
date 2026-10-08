@@ -2954,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
 | Koihime Enbu RyoRaiRai Version 3 | 146203 | [146203-koihime-enbu-ryorairai-version-3.json](./146203-koihime-enbu-ryorairai-version-3.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
+| Koikata: How Our Love Grows | 387050 | [387050-koikata-how-our-love-grows.json](./387050-koikata-how-our-love-grows.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
 | KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
@@ -3243,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotoro | 218964 | [218964-kotoro.json](./218964-kotoro.json) |
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
+| Kotyxa | 387053 | [387053-kotyxa.json](./387053-kotyxa.json) |
 | Kouchuu Kakutou: Mushi 1 Grand Prix | 122898 | [122898-kouchuu-kakutou-mushi-1-grand-prix.json](./122898-kouchuu-kakutou-mushi-1-grand-prix.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouchuu Ouja Mushiking: Nebu-Hakase to Kazu Katachi ni Challenge! | 125809 | [125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json](./125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json) |
