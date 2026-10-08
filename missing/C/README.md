@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Avengers | 299407 | [299407-cluck-avengers.json](./299407-cluck-avengers.json) |
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
+| Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
 | Cludbugz's Twisted Magic | 51969 | [51969-cludbugzs-twisted-magic.json](./51969-cludbugzs-twisted-magic.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
+| Cooking Witch | 28741 | [28741-cooking-witch.json](./28741-cooking-witch.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
@@ -10895,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckwork: Mama pays for her useless son's failures with her body | 82898 | [82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json](./82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json) |
 | Cuco | 68195 | [68195-cuco.json](./68195-cuco.json) |
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
+| Cucumber Blues | 28917 | [28917-cucumber-blues.json](./28917-cucumber-blues.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cuddle Corner | 360729 | [360729-cuddle-corner.json](./360729-cuddle-corner.json) |
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
