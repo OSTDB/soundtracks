@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
 | Glyph | 50290 | [50290-glyph.json](./50290-glyph.json) |
 | Glyph Chess | 384226 | [384226-glyph-chess.json](./384226-glyph-chess.json) |
+| Glyph Gambit: Endgame | 398047 | [398047-glyph-gambit-endgame.json](./398047-glyph-gambit-endgame.json) |
 | Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glyph-Bound: Kotodama | 211653 | [211653-glyph-bound-kotodama.json](./211653-glyph-bound-kotodama.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
