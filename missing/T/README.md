@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takkyuubin | 345629 | [345629-takkyuubin.json](./345629-takkyuubin.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
+| Tako to Ika 3 | 410183 | [410183-tako-to-ika-3.json](./410183-tako-to-ika-3.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takt of Magic | 91755 | [91755-takt-of-magic.json](./91755-takt-of-magic.json) |
@@ -1808,6 +1809,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TD Ultimate | 101022 | [101022-td-ultimate.json](./101022-td-ultimate.json) |
 | TD: Goblin Defenders | 101650 | [101650-td-goblin-defenders.json](./101650-td-goblin-defenders.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
+| TDF: Kaijuu Daisensou | 410186 | [410186-tdf-kaijuu-daisensou.json](./410186-tdf-kaijuu-daisensou.json) |
+| TDF: Kaijuu Daisensou | 410188 | [410188-tdf-kaijuu-daisensou.json](./410188-tdf-kaijuu-daisensou.json) |
+| TDF: Kaijuu Daisensou | 410193 | [410193-tdf-kaijuu-daisensou.json](./410193-tdf-kaijuu-daisensou.json) |
+| TDF: Kaijuu Daisensou | 410194 | [410194-tdf-kaijuu-daisensou.json](./410194-tdf-kaijuu-daisensou.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
@@ -10006,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The SoulKeeper VR | 27193 | [27193-the-soulkeeper-vr.json](./27193-the-soulkeeper-vr.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
+| The Sound of Piano | 410190 | [410190-the-sound-of-piano.json](./410190-the-sound-of-piano.json) |
 | The Source | 249923 | [249923-the-source.json](./249923-the-source.json) |
 | The source of evil | 29790 | [29790-the-source-of-evil.json](./29790-the-source-of-evil.json) |
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
@@ -13601,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Recoil | 27785 | [27785-time-recoil.json](./27785-time-recoil.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
 | Time Runner | 94955 | [94955-time-runner.json](./94955-time-runner.json) |
+| Time Rush Racing | 410080 | [410080-time-rush-racing.json](./410080-time-rush-racing.json) |
 | Time Sail Entanglement | 392377 | [392377-time-sail-entanglement.json](./392377-time-sail-entanglement.json) |
 | Time Scanner | 12865 | [12865-time-scanner.json](./12865-time-scanner.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
@@ -15561,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
 | Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
 | Toto Temple Deluxe | 20963 | [20963-toto-temple-deluxe.json](./20963-toto-temple-deluxe.json) |
+| Toto's Journey | 410200 | [410200-totos-journey.json](./410200-totos-journey.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
