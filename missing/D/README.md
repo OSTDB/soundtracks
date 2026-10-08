@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
 | Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
+| Dance Paradise | 20169 | [20169-dance-paradise.json](./20169-dance-paradise.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
 | Descent II: The Vertigo Series | 82175 | [82175-descent-ii-the-vertigo-series.json](./82175-descent-ii-the-vertigo-series.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
+| Descent Maximum | 20130 | [20130-descent-maximum.json](./20130-descent-maximum.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
 | Descent the Abyss | 303474 | [303474-descent-the-abyss.json](./303474-descent-the-abyss.json) |
@@ -6142,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive: The Medes Islands Secret | 50723 | [50723-dive-the-medes-islands-secret.json](./50723-dive-the-medes-islands-secret.json) |
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
+| Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
 | Diver Boy | 39871 | [39871-diver-boy.json](./39871-diver-boy.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
@@ -10942,6 +10945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
+| Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynopunk | 147348 | [147348-dynopunk.json](./147348-dynopunk.json) |
 | Dynopunk: Welcome to Synth-City | 244703 | [244703-dynopunk-welcome-to-synth-city.json](./244703-dynopunk-welcome-to-synth-city.json) |
