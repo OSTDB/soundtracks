@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
+| Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
