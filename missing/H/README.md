@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
+| Heavy Barrel | 412812 | [412812-heavy-barrel.json](./412812-heavy-barrel.json) |
 | Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
