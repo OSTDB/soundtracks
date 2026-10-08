@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oda | 122324 | [122324-oda.json](./122324-oda.json) |
 | Oda Nobunaga | 240157 | [240157-oda-nobunaga.json](./240157-oda-nobunaga.json) |
 | Oda-hen | 292161 | [292161-oda-hen.json](./292161-oda-hen.json) |
+| Odama | 4050 | [4050-odama.json](./4050-odama.json) |
 | Odania Sports Arena | 226130 | [226130-odania-sports-arena.json](./226130-odania-sports-arena.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
