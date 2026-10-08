@@ -2371,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Cause Mobile | 141548 | [141548-just-cause-mobile.json](./141548-just-cause-mobile.json) |
+| Just Clean Your Room | 415502 | [415502-just-clean-your-room.json](./415502-just-clean-your-room.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
 | Just Coffee with the Café Guy | 417582 | [417582-just-coffee-with-the-cafe-guy.json](./417582-just-coffee-with-the-cafe-guy.json) |
 | Just Crow Things | 264321 | [264321-just-crow-things.json](./264321-just-crow-things.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
+| Just Forgot to Eat | 415507 | [415507-just-forgot-to-eat.json](./415507-just-forgot-to-eat.json) |
 | Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
 | Just Futanari | 236899 | [236899-just-futanari.json](./236899-just-futanari.json) |
 | Just Get 2048: A Simple Puzzle Game! | 264218 | [264218-just-get-2048-a-simple-puzzle-game.json](./264218-just-get-2048-a-simple-puzzle-game.json) |
