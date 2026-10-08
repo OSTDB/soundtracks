@@ -5020,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
+| Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
@@ -6742,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
+| Dokuro | 17734 | [17734-dokuro.json](./17734-dokuro.json) |
 | Dokutsu Randamu | 384656 | [384656-dokutsu-randamu.json](./384656-dokutsu-randamu.json) |
 | Dokutsujima | 222396 | [222396-dokutsujima.json](./222396-dokutsujima.json) |
 | Dokyusei: Bangin' Summer - Home Edition | 304282 | [304282-dokyusei-bangin-summer-home-edition.json](./304282-dokyusei-bangin-summer-home-edition.json) |
@@ -7521,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
+| Doorways: Prelude | 16640 | [16640-doorways-prelude.json](./16640-doorways-prelude.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
 | Doozie the Unicorn | 253307 | [253307-doozie-the-unicorn.json](./253307-doozie-the-unicorn.json) |
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
@@ -7699,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
+| Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
 | Double Block | 172533 | [172533-double-block.json](./172533-double-block.json) |
@@ -9345,6 +9349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
+| Drifting Lands | 17835 | [17835-drifting-lands.json](./17835-drifting-lands.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
 | Driftmania | 287360 | [287360-driftmania.json](./287360-driftmania.json) |
