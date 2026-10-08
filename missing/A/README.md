@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
+| Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
 | Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
@@ -8748,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
+| Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
