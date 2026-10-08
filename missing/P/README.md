@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
 | Path of Exile 2 | 125642 | [125642-path-of-exile-2.json](./125642-path-of-exile-2.json) |
+| Path of Exile 2: Runes of Aldur | 403535 | [403535-path-of-exile-2-runes-of-aldur.json](./403535-path-of-exile-2-runes-of-aldur.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
+| Pets and Friends Summer Vibes | 404270 | [404270-pets-and-friends-summer-vibes.json](./404270-pets-and-friends-summer-vibes.json) |
 | Pets and Friends: Christmas Pack | 378873 | [378873-pets-and-friends-christmas-pack.json](./378873-pets-and-friends-christmas-pack.json) |
 | Pets and Friends: Cuties Bundle | 400207 | [400207-pets-and-friends-cuties-bundle.json](./400207-pets-and-friends-cuties-bundle.json) |
 | Pets and Friends: Cuties Pack | 400208 | [400208-pets-and-friends-cuties-pack.json](./400208-pets-and-friends-cuties-pack.json) |
@@ -4470,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piss Off | 331295 | [331295-piss-off.json](./331295-piss-off.json) |
 | Pissed Off: Peeing Simulator | 326262 | [326262-pissed-off-peeing-simulator.json](./326262-pissed-off-peeing-simulator.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
+| Pistol Cat | 404895 | [404895-pistol-cat.json](./404895-pistol-cat.json) |
 | Pistola | 202750 | [202750-pistola.json](./202750-pistola.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
 | Pit & Run | 40402 | [40402-pit-and-run.json](./40402-pit-and-run.json) |
@@ -9090,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
 | Project Motor Racing | 342092 | [342092-project-motor-racing.json](./342092-project-motor-racing.json) |
+| Project Mourning Reign | 403642 | [403642-project-mourning-reign.json](./403642-project-mourning-reign.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project MSX | 133858 | [133858-project-msx.json](./133858-project-msx.json) |
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
@@ -9814,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
+| Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
 | Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
