@@ -6687,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Merchant | 122167 | [122167-royal-merchant.json](./122167-royal-merchant.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Montgomery Raceways | 321418 | [321418-royal-montgomery-raceways.json](./321418-royal-montgomery-raceways.json) |
+| Royal Offense | 28928 | [28928-royal-offense.json](./28928-royal-offense.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
 | Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
