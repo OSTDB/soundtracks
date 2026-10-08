@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
+| What’s Behind the Door? | 419105 | [419105-what-s-behind-the-door.json](./419105-what-s-behind-the-door.json) |
 | What's Cooking? Jamie Oliver | 80202 | [80202-whats-cooking-jamie-oliver.json](./80202-whats-cooking-jamie-oliver.json) |
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
