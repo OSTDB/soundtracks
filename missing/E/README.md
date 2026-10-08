@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
 | Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
+| Ecity | 87099 | [87099-ecity.json](./87099-ecity.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
