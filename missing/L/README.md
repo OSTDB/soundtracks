@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
+| Lexicon | 412907 | [412907-lexicon.json](./412907-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
 | Lexie the Takeover | 81651 | [81651-lexie-the-takeover.json](./81651-lexie-the-takeover.json) |
 | Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
+| Little Picnic | 412806 | [412806-little-picnic.json](./412806-little-picnic.json) |
 | Little Pilot | 370227 | [370227-little-pilot.json](./370227-little-pilot.json) |
 | Little Plane | 246467 | [246467-little-plane.json](./246467-little-plane.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
