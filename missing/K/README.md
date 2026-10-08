@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickflip the Horse | 180693 | [180693-kickflip-the-horse.json](./180693-kickflip-the-horse.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickin Momma | 92489 | [92489-kickin-momma.json](./92489-kickin-momma.json) |
+| Kicking Balls World | 394777 | [394777-kicking-balls-world.json](./394777-kicking-balls-world.json) |
 | Kicking Kittens: Putin Saves the World | 81653 | [81653-kicking-kittens-putin-saves-the-world.json](./81653-kicking-kittens-putin-saves-the-world.json) |
 | Kicking The Ball Over Mountains Of Stuff | 310398 | [310398-kicking-the-ball-over-mountains-of-stuff.json](./310398-kicking-the-ball-over-mountains-of-stuff.json) |
 | Kickle Cubicle | 40238 | [40238-kickle-cubicle.json](./40238-kickle-cubicle.json) |
