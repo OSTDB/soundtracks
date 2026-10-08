@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
 | Magic Tower Story | 197647 | [197647-magic-tower-story.json](./197647-magic-tower-story.json) |
+| Magic Tower: Cao Cao | 415513 | [415513-magic-tower-cao-cao.json](./415513-magic-tower-cao-cao.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
