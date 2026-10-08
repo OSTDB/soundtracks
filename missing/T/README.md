@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brittle Epoch | 261751 | [261751-the-brittle-epoch.json](./261751-the-brittle-epoch.json) |
 | The Broken Balance | 216753 | [216753-the-broken-balance.json](./216753-the-broken-balance.json) |
 | The Broken Moon | 263137 | [263137-the-broken-moon.json](./263137-the-broken-moon.json) |
+| The Broken Seal | 74493 | [74493-the-broken-seal.json](./74493-the-broken-seal.json) |
 | The Broken Seal: Arena | 86434 | [86434-the-broken-seal-arena.json](./86434-the-broken-seal-arena.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Broston Saga | 143932 | [143932-the-broston-saga.json](./143932-the-broston-saga.json) |
@@ -4273,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
 | The Cheetahmen: The Creation | 63348 | [63348-the-cheetahmen-the-creation.json](./63348-the-cheetahmen-the-creation.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
+| The Chemist | 74603 | [74603-the-chemist.json](./74603-the-chemist.json) |
 | The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
@@ -7798,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Lost Froglins | 401070 | [401070-the-lost-froglins.json](./401070-the-lost-froglins.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
+| The Lost Gardens | 74646 | [74646-the-lost-gardens.json](./74646-the-lost-gardens.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
 | The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
 | The Lost Heir 2: Forging a Kingdom | 33593 | [33593-the-lost-heir-2-forging-a-kingdom.json](./33593-the-lost-heir-2-forging-a-kingdom.json) |
@@ -9309,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
+| The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
 | The Sarah Jane Adventures: Plant and Animal Habitats | 343939 | [343939-the-sarah-jane-adventures-plant-and-animal-habitats.json](./343939-the-sarah-jane-adventures-plant-and-animal-habitats.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
@@ -10139,6 +10143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
 | The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
+| The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
@@ -11438,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
+| TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
 | theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
@@ -17291,6 +17297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
+| Transcend | 74857 | [74857-transcend.json](./74857-transcend.json) |
 | Transcend | 94916 | [94916-transcend.json](./94916-transcend.json) |
 | Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
@@ -17416,6 +17423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
 | Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
+| Trap Labs | 74606 | [74606-trap-labs.json](./74606-trap-labs.json) |
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
@@ -17988,6 +17996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridek: Creatures of Galena | 63142 | [63142-tridek-creatures-of-galena.json](./63142-tridek-creatures-of-galena.json) |
 | Trident | 159647 | [159647-trident.json](./159647-trident.json) |
 | Trident's Tale | 336161 | [336161-tridents-tale.json](./336161-tridents-tale.json) |
+| Trident's Wake | 74813 | [74813-tridents-wake.json](./74813-tridents-wake.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
