@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
+| QP Shooting: Dangerous!! | 11569 | [11569-qp-shooting-dangerous.json](./11569-qp-shooting-dangerous.json) |
 | Qpang | 144094 | [144094-qpang.json](./144094-qpang.json) |
 | QPet Zoo | 362487 | [362487-qpet-zoo.json](./362487-qpet-zoo.json) |
 | QQ Chinese Chess | 86193 | [86193-qq-chinese-chess.json](./86193-qq-chinese-chess.json) |
