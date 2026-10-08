@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
 | Japanese Swordsmith | 414530 | [414530-japanese-swordsmith.json](./414530-japanese-swordsmith.json) |
 | Japanese TeTris | 211156 | [211156-japanese-tetris.json](./211156-japanese-tetris.json) |
+| Japanese Women - Animated Jigsaws | 28920 | [28920-japanese-women-animated-jigsaws.json](./28920-japanese-women-animated-jigsaws.json) |
 | Japaritale | 313292 | [313292-japaritale.json](./313292-japaritale.json) |
 | Japocaliptyca | 120358 | [120358-japocaliptyca.json](./120358-japocaliptyca.json) |
 | JAPP: Just Another Precise Platformer | 268984 | [268984-japp-just-another-precise-platformer.json](./268984-japp-just-another-precise-platformer.json) |
@@ -482,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jartycuck's Basics in Coal and Goonin 2 'p | 400943 | [400943-jartycucks-basics-in-coal-and-goonin-2-p.json](./400943-jartycucks-basics-in-coal-and-goonin-2-p.json) |
 | Jarvis | 59383 | [59383-jarvis.json](./59383-jarvis.json) |
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
+| JASEM: Just Another Shooter with Electronic Music | 29109 | [29109-jasem-just-another-shooter-with-electronic-music.json](./29109-jasem-just-another-shooter-with-electronic-music.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jasmine Summer | 113761 | [113761-jasmine-summer.json](./113761-jasmine-summer.json) |
@@ -1491,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
+| Joint Operations: Combined Arms Gold | 29200 | [29200-joint-operations-combined-arms-gold.json](./29200-joint-operations-combined-arms-gold.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
 | Joint Task Force | 19354 | [19354-joint-task-force.json](./19354-joint-task-force.json) |
