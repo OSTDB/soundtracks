@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
+| Tales of Hongyuan | 90995 | [90995-tales-of-hongyuan.json](./90995-tales-of-hongyuan.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
 | Tales of Inca: Lost Land | 68873 | [68873-tales-of-inca-lost-land.json](./68873-tales-of-inca-lost-land.json) |
 | Tales of Innocence | 1208 | [1208-tales-of-innocence.json](./1208-tales-of-innocence.json) |
@@ -13910,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
 | TinyArmored | 209937 | [209937-tinyarmored.json](./209937-tinyarmored.json) |
+| tinyBuild High-Speed Bundle | 90975 | [90975-tinybuild-high-speed-bundle.json](./90975-tinybuild-high-speed-bundle.json) |
 | TinyCrack | 169869 | [169869-tinycrack.json](./169869-tinycrack.json) |
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
