@@ -2134,6 +2134,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
 | Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
 | Dead Outbreak | 274113 | [274113-dead-outbreak.json](./274113-dead-outbreak.json) |
+| Dead Paradise 2 | 404248 | [404248-dead-paradise-2.json](./404248-dead-paradise-2.json) |
+| Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
+| Dead Paradise 4 | 404385 | [404385-dead-paradise-4.json](./404385-dead-paradise-4.json) |
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
@@ -2924,6 +2927,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Sushi | 414377 | [414377-deep-blue-sushi.json](./414377-deep-blue-sushi.json) |
 | Deep Blue: Devour and Evolve | 334299 | [334299-deep-blue-devour-and-evolve.json](./334299-deep-blue-devour-and-evolve.json) |
 | Deep Chalk Dive | 123613 | [123613-deep-chalk-dive.json](./123613-deep-chalk-dive.json) |
+| Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
+| Deep Chalk: Third Phase | 404191 | [404191-deep-chalk-third-phase.json](./404191-deep-chalk-third-phase.json) |
 | Deep City 2030 | 110234 | [110234-deep-city-2030.json](./110234-deep-city-2030.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
@@ -8940,6 +8945,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | Draknek and Friends Puzzle Bundle | 168691 | [168691-draknek-and-friends-puzzle-bundle.json](./168691-draknek-and-friends-puzzle-bundle.json) |
 | DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
+| Drakojan Skies | 404239 | [404239-drakojan-skies.json](./404239-drakojan-skies.json) |
+| Drakojan Skies: Acolytes | 404211 | [404211-drakojan-skies-acolytes.json](./404211-drakojan-skies-acolytes.json) |
+| Drakojan Skies: Mission 1 | 404212 | [404212-drakojan-skies-mission-1.json](./404212-drakojan-skies-mission-1.json) |
+| Drakojan Skies: Mission 2 | 404218 | [404218-drakojan-skies-mission-2.json](./404218-drakojan-skies-mission-2.json) |
+| Drakojan Skies: Mission 3 | 404221 | [404221-drakojan-skies-mission-3.json](./404221-drakojan-skies-mission-3.json) |
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
