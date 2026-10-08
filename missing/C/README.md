@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CallBack | 113575 | [113575-callback.json](./113575-callback.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
+| Caller's Bane | 2600 | [2600-callers-bane.json](./2600-callers-bane.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
 | Calling All Cars! | 20701 | [20701-calling-all-cars.json](./20701-calling-all-cars.json) |
 | Calling All Mixels | 61143 | [61143-calling-all-mixels.json](./61143-calling-all-mixels.json) |
@@ -6102,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastline to Atmosphere | 214388 | [214388-coastline-to-atmosphere.json](./214388-coastline-to-atmosphere.json) |
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
+| Cobalt | 2999 | [2999-cobalt.json](./2999-cobalt.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobi Golf Shots | 96283 | [96283-cobi-golf-shots.json](./96283-cobi-golf-shots.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
