@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
+| Dark Alley | 420537 | [420537-dark-alley.json](./420537-dark-alley.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
 | Dark Alleys: Penumbra Motel | 139755 | [139755-dark-alleys-penumbra-motel.json](./139755-dark-alleys-penumbra-motel.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
@@ -2739,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
+| Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
