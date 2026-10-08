@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Fallen Dragons | 30076 | [30076-tale-of-fallen-dragons.json](./30076-tale-of-fallen-dragons.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
+| Tale of Immortal Ring | 390592 | [390592-tale-of-immortal-ring.json](./390592-tale-of-immortal-ring.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
 | Tale of MoWu | 158111 | [158111-tale-of-mowu.json](./158111-tale-of-mowu.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
+| Terra Division | 390608 | [390608-terra-division.json](./390608-terra-division.json) |
 | Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
 | Terra Exodus | 294373 | [294373-terra-exodus.json](./294373-terra-exodus.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
@@ -3400,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
+| The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
 | The Adventures of Sam Carlisle: The Hunt for the L | 76876 | [76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json](./76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json) |
@@ -8084,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Market Place | 62024 | [62024-the-market-place.json](./62024-the-market-place.json) |
 | The Mars Agenda | 113508 | [113508-the-mars-agenda.json](./113508-the-mars-agenda.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
+| The Martial World of Drinking: Wu Song | 390603 | [390603-the-martial-world-of-drinking-wu-song.json](./390603-the-martial-world-of-drinking-wu-song.json) |
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
 | The Marvellous Miss Take | 8780 | [8780-the-marvellous-miss-take.json](./8780-the-marvellous-miss-take.json) |
@@ -8604,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
+| The Ones Beyond | 390597 | [390597-the-ones-beyond.json](./390597-the-ones-beyond.json) |
 | The Ones Who Answered | 410340 | [410340-the-ones-who-answered.json](./410340-the-ones-who-answered.json) |
 | The Oni Sellsword | 106403 | [106403-the-oni-sellsword.json](./106403-the-oni-sellsword.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
@@ -14320,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be a HerpWitch | 135033 | [135033-to-be-a-herpwitch.json](./135033-to-be-a-herpwitch.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
 | To Be Besieged | 416765 | [416765-to-be-besieged.json](./416765-to-be-besieged.json) |
+| To Be Connected | 390596 | [390596-to-be-connected.json](./390596-to-be-connected.json) |
 | To Be In Love With Girls Group | 289941 | [289941-to-be-in-love-with-girls-group.json](./289941-to-be-in-love-with-girls-group.json) |
 | To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
 | To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
