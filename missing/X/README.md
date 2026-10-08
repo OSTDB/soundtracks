@@ -368,8 +368,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
+| Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
+| Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3D | 9553 | [9553-xenoblade-chronicles-3d.json](./9553-xenoblade-chronicles-3d.json) |
 | Xenoblade Chronicles X | 2366 | [2366-xenoblade-chronicles-x.json](./2366-xenoblade-chronicles-x.json) |
 | Xenoblade Chronicles X: Limited Edition | 51145 | [51145-xenoblade-chronicles-x-limited-edition.json](./51145-xenoblade-chronicles-x-limited-edition.json) |
@@ -377,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles: Definitive Edition | 122238 | [122238-xenoblade-chronicles-definitive-edition.json](./122238-xenoblade-chronicles-definitive-edition.json) |
 | Xenoblade Chronicles: Definitive Edition - Collector's Set | 136777 | [136777-xenoblade-chronicles-definitive-edition-collectors-set.json](./136777-xenoblade-chronicles-definitive-edition-collectors-set.json) |
 | Xenoblade Chronicles: Future Connected | 134328 | [134328-xenoblade-chronicles-future-connected.json](./134328-xenoblade-chronicles-future-connected.json) |
+| Xenoblade Genesis | 405450 | [405450-xenoblade-genesis.json](./405450-xenoblade-genesis.json) |
 | XenoBloom | 34734 | [34734-xenobloom.json](./34734-xenobloom.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
