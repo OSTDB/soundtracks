@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
 | Making History: The Great War | 17085 | [17085-making-history-the-great-war.json](./17085-making-history-the-great-war.json) |
 | Making History: The Great War - The Red Army | 170808 | [170808-making-history-the-great-war-the-red-army.json](./170808-making-history-the-great-war-the-red-army.json) |
+| Making History: The Second World War | 54805 | [54805-making-history-the-second-world-war.json](./54805-making-history-the-second-world-war.json) |
 | Making History: The World Wars | 54214 | [54214-making-history-the-world-wars.json](./54214-making-history-the-world-wars.json) |
 | Making it Home | 123463 | [123463-making-it-home.json](./123463-making-it-home.json) |
 | Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
@@ -6367,6 +6368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microwave Story | 311060 | [311060-microwave-story.json](./311060-microwave-story.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
+| Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
