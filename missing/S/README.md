@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba Shooter | 95650 | [95650-samba-shooter.json](./95650-samba-shooter.json) |
 | Sambaquis: A Story before Brazil | 216192 | [216192-sambaquis-a-story-before-brazil.json](./216192-sambaquis-a-story-before-brazil.json) |
 | SambaSim | 299382 | [299382-sambasim.json](./299382-sambasim.json) |
+| Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -11061,6 +11062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
 | Souten Koihime: Shigen no Ou | 326788 | [326788-souten-koihime-shigen-no-ou.json](./326788-souten-koihime-shigen-no-ou.json) |
 | Souten no Shiroki Kami no Kura: Great Peak | 166501 | [166501-souten-no-shiroki-kami-no-kura-great-peak.json](./166501-souten-no-shiroki-kami-no-kura-great-peak.json) |
+| Souterrain | 413481 | [413481-souterrain.json](./413481-souterrain.json) |
 | South of Hell | 273560 | [273560-south-of-hell.json](./273560-south-of-hell.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South of Real: Rough Beast | 124671 | [124671-south-of-real-rough-beast.json](./124671-south-of-real-rough-beast.json) |
@@ -13012,6 +13014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
 | Split Personality Doctor | 257920 | [257920-split-personality-doctor.json](./257920-split-personality-doctor.json) |
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
+| Split Second Volley | 413485 | [413485-split-second-volley.json](./413485-split-second-volley.json) |
 | Split Signal | 128970 | [128970-split-signal.json](./128970-split-signal.json) |
 | Split Souls | 369634 | [369634-split-souls.json](./369634-split-souls.json) |
 | Split Tactics | 386281 | [386281-split-tactics.json](./386281-split-tactics.json) |
@@ -16614,6 +16617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
+| Strike Force 1940 | 413464 | [413464-strike-force-1940.json](./413464-strike-force-1940.json) |
 | Strike Force 2: Terrorist Hunt | 147654 | [147654-strike-force-2-terrorist-hunt.json](./147654-strike-force-2-terrorist-hunt.json) |
 | Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
 | Strike Force Bowling | 4185 | [4185-strike-force-bowling.json](./4185-strike-force-bowling.json) |
@@ -20258,6 +20262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susuki Kaidan | 413865 | [413865-susuki-kaidan.json](./413865-susuki-kaidan.json) |
 | Susume Choujou Genshou Kenkyuubu! | 66209 | [66209-susume-choujou-genshou-kenkyuubu.json](./66209-susume-choujou-genshou-kenkyuubu.json) |
 | Susume Tactics | 193724 | [193724-susume-tactics.json](./193724-susume-tactics.json) |
+| Susume! Crusader-chan: Hamabe no Otakara Daisakusen! | 413468 | [413468-susume-crusader-chan-hamabe-no-otakara-daisakusen.json](./413468-susume-crusader-chan-hamabe-no-otakara-daisakusen.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
 | Susume! Taisen Puzzle Dama: Toukon! Marutama Chou | 136858 | [136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json](./136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json) |
 | Susume!! Mamotte Knight: Hime no Totsugeki Serenade | 112887 | [112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json](./112887-susume-mamotte-knight-hime-no-totsugeki-serenade.json) |
@@ -20361,6 +20366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap Sword | 98539 | [98539-swap-sword.json](./98539-swap-sword.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
+| Swap Wand User | 413490 | [413490-swap-wand-user.json](./413490-swap-wand-user.json) |
 | Swap-Swap Panda | 336122 | [336122-swap-swap-panda.json](./336122-swap-swap-panda.json) |
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
 | Swap! Swap! Swap! | 106405 | [106405-swap-swap-swap.json](./106405-swap-swap-swap.json) |
@@ -21208,6 +21214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Restore | 219562 | [219562-system-restore.json](./219562-system-restore.json) |
 | System Shock | 18375 | [18375-system-shock.json](./18375-system-shock.json) |
+| System Shock VR | 413511 | [413511-system-shock-vr.json](./413511-system-shock-vr.json) |
 | System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
 | System Shooterz | 310139 | [310139-system-shooterz.json](./310139-system-shooterz.json) |
