@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Online | 67649 | [67649-galaxy-online.json](./67649-galaxy-online.json) |
 | Galaxy Pass Station | 190467 | [190467-galaxy-pass-station.json](./190467-galaxy-pass-station.json) |
+| Galaxy Pirates | 392305 | [392305-galaxy-pirates.json](./392305-galaxy-pirates.json) |
 | Galaxy Princess Zorana | 327953 | [327953-galaxy-princess-zorana.json](./327953-galaxy-princess-zorana.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Punch | 100774 | [100774-galaxy-punch.json](./100774-galaxy-punch.json) |
