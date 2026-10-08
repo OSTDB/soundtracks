@@ -14854,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Search and Rescue | 7955 | [7955-tonka-search-and-rescue.json](./7955-tonka-search-and-rescue.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
+| Tonka: Rescue Patrol | 4202 | [4202-tonka-rescue-patrol.json](./4202-tonka-rescue-patrol.json) |
 | Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
 | Tonko | 159213 | [159213-tonko.json](./159213-tonko.json) |
 | Tonko 2 | 159215 | [159215-tonko-2.json](./159215-tonko-2.json) |
@@ -17363,6 +17364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
 | Transversion | 57343 | [57343-transversion.json](./57343-transversion.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
+| TransWorld Surf | 4209 | [4209-transworld-surf.json](./4209-transworld-surf.json) |
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
 | Transylmania Deluxe | 265880 | [265880-transylmania-deluxe.json](./265880-transylmania-deluxe.json) |
