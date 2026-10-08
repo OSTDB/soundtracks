@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
 | BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
 | Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
+| Battleminer | 77772 | [77772-battleminer.json](./77772-battleminer.json) |
 | Battleminer Giants | 322116 | [322116-battleminer-giants.json](./322116-battleminer-giants.json) |
 | Battlemon | 359514 | [359514-battlemon.json](./359514-battlemon.json) |
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
