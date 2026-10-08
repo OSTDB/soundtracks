@@ -3452,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iruna Online | 54541 | [54541-iruna-online.json](./54541-iruna-online.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is Anna OK? | 286661 | [286661-is-anna-ok.json](./286661-is-anna-ok.json) |
+| IS Defense | 17467 | [17467-is-defense.json](./17467-is-defense.json) |
 | Is Everyone Mad at Me? | 394505 | [394505-is-everyone-mad-at-me.json](./394505-is-everyone-mad-at-me.json) |
 | Is Guilty | 389583 | [389583-is-guilty.json](./389583-is-guilty.json) |
 | Is it Love ? Nicolae Vampire | 109023 | [109023-is-it-love-nicolae-vampire.json](./109023-is-it-love-nicolae-vampire.json) |
