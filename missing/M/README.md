@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Major Marble | 296589 | [296589-major-marble.json](./296589-major-marble.json) |
+| Major Mayhem | 16855 | [16855-major-mayhem.json](./16855-major-mayhem.json) |
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
 | Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
@@ -11039,6 +11040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
+| Musaic Box | 15992 | [15992-musaic-box.json](./15992-musaic-box.json) |
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
