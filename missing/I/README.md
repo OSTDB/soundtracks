@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
+| I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
+| I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, Zombie | 9879 | [9879-i-zombie.json](./9879-i-zombie.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
