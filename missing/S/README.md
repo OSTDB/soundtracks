@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Bumblebrook | 410461 | [410461-saving-bumblebrook.json](./410461-saving-bumblebrook.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
 | Saving Diary | 316655 | [316655-saving-diary.json](./316655-saving-diary.json) |
+| Saving from the Devil | 405463 | [405463-saving-from-the-devil.json](./405463-saving-from-the-devil.json) |
 | Saving Ghost | 159710 | [159710-saving-ghost.json](./159710-saving-ghost.json) |
 | Saving Healer | 223435 | [223435-saving-healer.json](./223435-saving-healer.json) |
 | Saving Mr. Sparkles | 139363 | [139363-saving-mr-sparkles.json](./139363-saving-mr-sparkles.json) |
