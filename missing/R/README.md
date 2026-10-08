@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Run | 172003 | [172003-retro-run.json](./172003-retro-run.json) |
 | Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
+| Retro Runners X2 | 387725 | [387725-retro-runners-x2.json](./387725-retro-runners-x2.json) |
 | Retro Santa Run | 327434 | [327434-retro-santa-run.json](./327434-retro-santa-run.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
 | Retro Shooting | 57329 | [57329-retro-shooting.json](./57329-retro-shooting.json) |
@@ -5337,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Ponkottsu Star Version | 50551 | [50551-robot-ponkottsu-star-version.json](./50551-robot-ponkottsu-star-version.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
+| Robot R & D | 387699 | [387699-robot-r-and-d.json](./387699-robot-r-and-d.json) |
 | Robot Rage Rearmed | 123392 | [123392-robot-rage-rearmed.json](./123392-robot-rage-rearmed.json) |
 | Robot Rampage | 343366 | [343366-robot-rampage.json](./343366-robot-rampage.json) |
 | Robot Rascals | 28709 | [28709-robot-rascals.json](./28709-robot-rascals.json) |
@@ -6445,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Junk Town | 368588 | [368588-room-football-junk-town.json](./368588-room-football-junk-town.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
+| Room Football: Sun Shrine | 387491 | [387491-room-football-sun-shrine.json](./387491-room-football-sun-shrine.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
