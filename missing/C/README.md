@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
+| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -2348,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
+| Catapulteers | 404171 | [404171-catapulteers.json](./404171-catapulteers.json) |
 | Catapulture | 408024 | [408024-catapulture.json](./408024-catapulture.json) |
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
 | Cataractnacon & Zeangala | 271801 | [271801-cataractnacon-and-zeangala.json](./271801-cataractnacon-and-zeangala.json) |
@@ -3485,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the Unseen | 223414 | [223414-chasing-the-unseen.json](./223414-chasing-the-unseen.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
+| Chasing Whiskers | 403617 | [403617-chasing-whiskers.json](./403617-chasing-whiskers.json) |
 | ChasingCube | 243083 | [243083-chasingcube.json](./243083-chasingcube.json) |
 | Chasm | 255661 | [255661-chasm.json](./255661-chasm.json) |
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
@@ -3838,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
+| Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
@@ -4426,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
+| Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
@@ -8160,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Extended Edition | 332511 | [332511-cooking-tycoons-3-in-1-bundle-extended-edition.json](./332511-cooking-tycoons-3-in-1-bundle-extended-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle Diamond Edition | 410854 | [410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json](./410854-cooking-tycoons-3-in-1-bundle-diamond-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle Elite Edition | 404275 | [404275-cooking-tycoons-3-in-1-bundle-elite-edition.json](./404275-cooking-tycoons-3-in-1-bundle-elite-edition.json) |
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
 | Cooking Witch | 28741 | [28741-cooking-witch.json](./28741-cooking-witch.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
@@ -8169,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
 | Cooking: Pizzeria Edition | 362375 | [362375-cooking-pizzeria-edition.json](./362375-cooking-pizzeria-edition.json) |
 | Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
+| Cookingo | 403623 | [403623-cookingo.json](./403623-cookingo.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
@@ -10820,6 +10827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 339350 | [339350-cube.json](./339350-cube.json) |
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
+| Cube | 403618 | [403618-cube.json](./403618-cube.json) |
 | Cube & Seek | 409711 | [409711-cube-and-seek.json](./409711-cube-and-seek.json) |
 | Cube & Star: An Arbitrary Love | 16812 | [16812-cube-and-star-an-arbitrary-love.json](./16812-cube-and-star-an-arbitrary-love.json) |
 | Cube 2x1 | 267970 | [267970-cube-2x1.json](./267970-cube-2x1.json) |
@@ -11508,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Clash | 85071 | [85071-cutie-clash.json](./85071-cutie-clash.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
+| Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
