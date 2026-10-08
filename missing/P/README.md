@@ -4546,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
 | Pixel Artist: Color Number, Pixel Coloring Book | 105847 | [105847-pixel-artist-color-number-pixel-coloring-book.json](./105847-pixel-artist-color-number-pixel-coloring-book.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
+| Pixel Become Human: The Hostage | 411552 | [411552-pixel-become-human-the-hostage.json](./411552-pixel-become-human-the-hostage.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
@@ -6830,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
 | Polo | 40661 | [40661-polo.json](./40661-polo.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
+| PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
@@ -6994,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong | 198869 | [198869-pong.json](./198869-pong.json) |
+| Pong | 411527 | [411527-pong.json](./411527-pong.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
@@ -8721,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
+| Professional Chef | 411492 | [411492-professional-chef.json](./411492-professional-chef.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2014 America | 53476 | [53476-professional-farmer-2014-america.json](./53476-professional-farmer-2014-america.json) |
 | Professional Farmer 2014: Collector's Edition | 53477 | [53477-professional-farmer-2014-collectors-edition.json](./53477-professional-farmer-2014-collectors-edition.json) |
