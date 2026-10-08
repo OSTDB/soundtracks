@@ -4721,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
+| Graveheart | 419172 | [419172-graveheart.json](./419172-graveheart.json) |
 | Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
 | Gravehold: Survival | 399136 | [399136-gravehold-survival.json](./399136-gravehold-survival.json) |
 | Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
@@ -5031,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
+| Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
