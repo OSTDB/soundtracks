@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
 | Obeebok | 266395 | [266395-obeebok.json](./266395-obeebok.json) |
 | Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
+| Obelisk | 391668 | [391668-obelisk.json](./391668-obelisk.json) |
 | Obelix | 71703 | [71703-obelix.json](./71703-obelix.json) |
 | Obelus Manor | 374844 | [374844-obelus-manor.json](./374844-obelus-manor.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
@@ -1845,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | OnlyFuck 2: Scarlett | 173831 | [173831-onlyfuck-2-scarlett.json](./173831-onlyfuck-2-scarlett.json) |
 | OnlyGame: Working Girls | 167829 | [167829-onlygame-working-girls.json](./167829-onlygame-working-girls.json) |
+| Onlympic Up! | 391698 | [391698-onlympic-up.json](./391698-onlympic-up.json) |
 | OnlySluts: Waifu Match | 384717 | [384717-onlysluts-waifu-match.json](./384717-onlysluts-waifu-match.json) |
 | OnlySociety: Dawn | 223381 | [223381-onlysociety-dawn.json](./223381-onlysociety-dawn.json) |
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
