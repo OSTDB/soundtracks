@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
+| Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
