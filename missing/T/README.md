@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayto Runner | 330348 | [330348-tayto-runner.json](./330348-tayto-runner.json) |
 | Tayto Says | 330349 | [330349-tayto-says.json](./330349-tayto-says.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
+| Tayutama 2: You're the only one | 30612 | [30612-tayutama-2-youre-the-only-one.json](./30612-tayutama-2-youre-the-only-one.json) |
 | Tayutama: Kiss on My Deity | 403095 | [403095-tayutama-kiss-on-my-deity.json](./403095-tayutama-kiss-on-my-deity.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
 | The Butterbies | 180097 | [180097-the-butterbies.json](./180097-the-butterbies.json) |
 | The Butterfly Dreams | 319021 | [319021-the-butterfly-dreams.json](./319021-the-butterfly-dreams.json) |
+| The Butterfly Sign: Human Error | 30543 | [30543-the-butterfly-sign-human-error.json](./30543-the-butterfly-sign-human-error.json) |
 | The Button | 181743 | [181743-the-button.json](./181743-the-button.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
 | The Button Be: Daylight | 225589 | [225589-the-button-be-daylight.json](./225589-the-button-be-daylight.json) |
@@ -8902,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
+| The Purge Day | 30607 | [30607-the-purge-day.json](./30607-the-purge-day.json) |
 | The Purge Man | 120315 | [120315-the-purge-man.json](./120315-the-purge-man.json) |
 | The Purification | 164892 | [164892-the-purification.json](./164892-the-purification.json) |
 | The Purity of the Surf | 71173 | [71173-the-purity-of-the-surf.json](./71173-the-purity-of-the-surf.json) |
@@ -9014,6 +9017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
 | The Rake: Hostel | 342195 | [342195-the-rake-hostel.json](./342195-the-rake-hostel.json) |
+| The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
@@ -13377,6 +13381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
+| Tiles & Tales | 30592 | [30592-tiles-and-tales.json](./30592-tiles-and-tales.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
 | Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
@@ -13452,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
+| Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Commando | 9646 | [9646-time-commando.json](./9646-time-commando.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
