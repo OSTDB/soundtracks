@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
+| Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
@@ -4776,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
 | Lost in the Dungeon | 77774 | [77774-lost-in-the-dungeon.json](./77774-lost-in-the-dungeon.json) |
 | Lost in the Grotto: Thievery | 344517 | [344517-lost-in-the-grotto-thievery.json](./344517-lost-in-the-grotto-thievery.json) |
+| Lost in the Hole | 401605 | [401605-lost-in-the-hole.json](./401605-lost-in-the-hole.json) |
 | Lost in the Mine | 306377 | [306377-lost-in-the-mine.json](./306377-lost-in-the-mine.json) |
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Nightmare | 71719 | [71719-lost-in-the-nightmare.json](./71719-lost-in-the-nightmare.json) |
