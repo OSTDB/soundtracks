@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
+| Abandoned: A Tale of Forgotten Lives | 391231 | [391231-abandoned-a-tale-of-forgotten-lives.json](./391231-abandoned-a-tale-of-forgotten-lives.json) |
 | Abandoned: Chestnut Lodge Asylum | 34552 | [34552-abandoned-chestnut-lodge-asylum.json](./34552-abandoned-chestnut-lodge-asylum.json) |
 | Abandoned: Discovery Island | 272811 | [272811-abandoned-discovery-island.json](./272811-abandoned-discovery-island.json) |
 | Abandoned: Discovery Island - Jeff The Killer | 242614 | [242614-abandoned-discovery-island-jeff-the-killer.json](./242614-abandoned-discovery-island-jeff-the-killer.json) |
@@ -10325,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge 2 | 127269 | [127269-axiom-verge-2.json](./127269-axiom-verge-2.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
+| Axiomatik | 391225 | [391225-axiomatik.json](./391225-axiomatik.json) |
 | Axion | 34999 | [34999-axion.json](./34999-axion.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
