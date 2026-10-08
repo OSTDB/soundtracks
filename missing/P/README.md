@@ -4489,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
+| Pitiri 1977 | 17513 | [17513-pitiri-1977.json](./17513-pitiri-1977.json) |
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
@@ -7152,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-Up Pilgrims | 90094 | [90094-pop-up-pilgrims.json](./90094-pop-up-pilgrims.json) |
+| POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
