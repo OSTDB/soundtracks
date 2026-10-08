@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
+| ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
@@ -2861,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
+| Aircraft Evolution | 82077 | [82077-aircraft-evolution.json](./82077-aircraft-evolution.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
 | Aircraft Sketch Shooter | 142997 | [142997-aircraft-sketch-shooter.json](./142997-aircraft-sketch-shooter.json) |
 | Aircraft War: Car Wars | 170954 | [170954-aircraft-war-car-wars.json](./170954-aircraft-war-car-wars.json) |
@@ -6561,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
+| Aqua Kitty UDX: Xbox One Ultra Edition | 82379 | [82379-aqua-kitty-udx-xbox-one-ultra-edition.json](./82379-aqua-kitty-udx-xbox-one-ultra-edition.json) |
 | Aqua Kitty: Milk Mine Defender | 8642 | [8642-aqua-kitty-milk-mine-defender.json](./8642-aqua-kitty-milk-mine-defender.json) |
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
@@ -7003,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Galaxy Builder | 263998 | [263998-arcade-galaxy-builder.json](./263998-arcade-galaxy-builder.json) |
 | Arcade Game Construction Kit | 44125 | [44125-arcade-game-construction-kit.json](./44125-arcade-game-construction-kit.json) |
 | Arcade Game Piggy Bank: Atari Breakout | 233649 | [233649-arcade-game-piggy-bank-atari-breakout.json](./233649-arcade-game-piggy-bank-atari-breakout.json) |
+| Arcade Game Series 3-in-1 Pack | 82378 | [82378-arcade-game-series-3-in-1-pack.json](./82378-arcade-game-series-3-in-1-pack.json) |
 | Arcade Game Series: Dig Dug | 82377 | [82377-arcade-game-series-dig-dug.json](./82377-arcade-game-series-dig-dug.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
 | Arcade Game Zone | 279251 | [279251-arcade-game-zone.json](./279251-arcade-game-zone.json) |
