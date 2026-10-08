@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Dummy Hunt | 411812 | [411812-chameleon-dummy-hunt.json](./411812-chameleon-dummy-hunt.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
+| Chameleon Run | 58656 | [58656-chameleon-run.json](./58656-chameleon-run.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
@@ -6332,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cogito: Requiem | 402434 | [402434-cogito-requiem.json](./402434-cogito-requiem.json) |
+| Cogmind | 60212 | [60212-cogmind.json](./60212-cogmind.json) |
 | Cogmo | 286072 | [286072-cogmo.json](./286072-cogmo.json) |
 | Cogmount | 341638 | [341638-cogmount.json](./341638-cogmount.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
@@ -7827,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
 | Contract Killer | 162258 | [162258-contract-killer.json](./162258-contract-killer.json) |
+| Contract Killer 2: Shadow Conspiracy | 63917 | [63917-contract-killer-2-shadow-conspiracy.json](./63917-contract-killer-2-shadow-conspiracy.json) |
 | Contract Killer: Sniper | 127049 | [127049-contract-killer-sniper.json](./127049-contract-killer-sniper.json) |
 | Contract Killer: Zombies | 127050 | [127050-contract-killer-zombies.json](./127050-contract-killer-zombies.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
