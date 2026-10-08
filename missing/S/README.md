@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
 | Secret Weapons Over Normandy | 203 | [203-secret-weapons-over-normandy.json](./203-secret-weapons-over-normandy.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
+| Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
