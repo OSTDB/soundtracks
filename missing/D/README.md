@@ -2671,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
+| Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathloop: Deluxe Edition | 141033 | [141033-deathloop-deluxe-edition.json](./141033-deathloop-deluxe-edition.json) |
@@ -7537,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
 | Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
+| Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
