@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
+| Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
 | Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
 | Valve Limit R | 198311 | [198311-valve-limit-r.json](./198311-valve-limit-r.json) |
 | Valves | 270717 | [270717-valves.json](./270717-valves.json) |
@@ -2038,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
 | Volcanon | 195193 | [195193-volcanon.json](./195193-volcanon.json) |
 | VolChaos | 35658 | [35658-volchaos.json](./35658-volchaos.json) |
+| Voldark | 413507 | [413507-voldark.json](./413507-voldark.json) |
 | Volden Idle | 274500 | [274500-volden-idle.json](./274500-volden-idle.json) |
 | Vole Complexity | 123496 | [123496-vole-complexity.json](./123496-vole-complexity.json) |
 | Voleur! | 411693 | [411693-voleur.json](./411693-voleur.json) |
@@ -2120,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
 | VortX | 375264 | [375264-vortx.json](./375264-vortx.json) |
+| Vorzain | 413494 | [413494-vorzain.json](./413494-vorzain.json) |
 | Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
