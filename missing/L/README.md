@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
+| Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
@@ -5888,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxuriant | 356714 | [356714-luxuriant.json](./356714-luxuriant.json) |
 | Luxury Fun Triple Scoop | 99808 | [99808-luxury-fun-triple-scoop.json](./99808-luxury-fun-triple-scoop.json) |
 | Luxury Garden Bundle | 227855 | [227855-luxury-garden-bundle.json](./227855-luxury-garden-bundle.json) |
+| Luxury Girls | 417404 | [417404-luxury-girls.json](./417404-luxury-girls.json) |
 | Luxury Hotel Emporium | 34787 | [34787-luxury-hotel-emporium.json](./34787-luxury-hotel-emporium.json) |
 | Luxury House Renovation | 114960 | [114960-luxury-house-renovation.json](./114960-luxury-house-renovation.json) |
 | Luyen Nguc | 255237 | [255237-luyen-nguc.json](./255237-luyen-nguc.json) |
