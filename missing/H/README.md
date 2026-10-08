@@ -7405,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypothetimania | 278405 | [278405-hypothetimania.json](./278405-hypothetimania.json) |
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
+| Hyrax Hill | 419963 | [419963-hyrax-hill.json](./419963-hyrax-hill.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
 | Hyrule Warriors: Age of Calamity - Expansion Pass | 143618 | [143618-hyrule-warriors-age-of-calamity-expansion-pass.json](./143618-hyrule-warriors-age-of-calamity-expansion-pass.json) |
 | Hyrule Warriors: Age of Calamity - Wave 1: Pulse of the Ancients | 184509 | [184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json](./184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json) |
