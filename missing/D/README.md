@@ -7165,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Puke! | 295317 | [295317-dont-puke.json](./295317-dont-puke.json) |
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
+| Don’t Pull Me! | 409389 | [409389-don-t-pull-me.json](./409389-don-t-pull-me.json) |
 | Don't Punch Me | 265613 | [265613-dont-punch-me.json](./265613-dont-punch-me.json) |
 | Don't Push Me | 188444 | [188444-dont-push-me.json](./188444-dont-push-me.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
