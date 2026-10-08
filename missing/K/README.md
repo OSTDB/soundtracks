@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | KingdomScape | 329104 | [329104-kingdomscape.json](./329104-kingdomscape.json) |
+| Kingfisher: An Autism Tale | 388913 | [388913-kingfisher-an-autism-tale.json](./388913-kingfisher-an-autism-tale.json) |
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingless Dungeon | 350041 | [350041-kingless-dungeon.json](./350041-kingless-dungeon.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
