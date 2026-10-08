@@ -1936,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Dev Story | 183878 | [183878-indie-dev-story.json](./183878-indie-dev-story.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
 | Indie Essentials: Walking Simulators 2 | 332028 | [332028-indie-essentials-walking-simulators-2.json](./332028-indie-essentials-walking-simulators-2.json) |
+| Indie Game Battle | 34345 | [34345-indie-game-battle.json](./34345-indie-game-battle.json) |
 | Indie Game Sim | 26552 | [26552-indie-game-sim.json](./26552-indie-game-sim.json) |
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
 | Indie Gems Bundle - Nonograms edition | 147794 | [147794-indie-gems-bundle-nonograms-edition.json](./147794-indie-gems-bundle-nonograms-edition.json) |
@@ -2653,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
 | Inside Kitty's Outside Adventure | 97444 | [97444-inside-kittys-outside-adventure.json](./97444-inside-kittys-outside-adventure.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
+| Inside Me | 34375 | [34375-inside-me.json](./34375-inside-me.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
 | Inside My Mind 2 | 226851 | [226851-inside-my-mind-2.json](./226851-inside-my-mind-2.json) |
 | Inside My Radio - Deluxe | 53233 | [53233-inside-my-radio-deluxe.json](./53233-inside-my-radio-deluxe.json) |
