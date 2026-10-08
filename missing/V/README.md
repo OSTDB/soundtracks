@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentine Candy Break 2 Head to Head | 194393 | [194393-valentine-candy-break-2-head-to-head.json](./194393-valentine-candy-break-2-head-to-head.json) |
 | Valentine Candy: Break Head to Head | 214567 | [214567-valentine-candy-break-head-to-head.json](./214567-valentine-candy-break-head-to-head.json) |
 | Valentine Disaster | 184893 | [184893-valentine-disaster.json](./184893-valentine-disaster.json) |
+| Valentine for Futureless Butterfly | 396031 | [396031-valentine-for-futureless-butterfly.json](./396031-valentine-for-futureless-butterfly.json) |
 | Valentine Panic | 68587 | [68587-valentine-panic.json](./68587-valentine-panic.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentine's Venture: True Love Odyssey | 333742 | [333742-valentines-venture-true-love-odyssey.json](./333742-valentines-venture-true-love-odyssey.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
+| Vaunted | 396028 | [396028-vaunted.json](./396028-vaunted.json) |
 | Vavala | 188412 | [188412-vavala.json](./188412-vavala.json) |
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vay | 304287 | [304287-vay.json](./304287-vay.json) |
