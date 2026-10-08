@@ -5295,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbeard's Billions | 90877 | [90877-blackbeards-billions.json](./90877-blackbeards-billions.json) |
 | Blackbeard's Cove | 86577 | [86577-blackbeards-cove.json](./86577-blackbeards-cove.json) |
 | Blackberry | 123952 | [123952-blackberry.json](./123952-blackberry.json) |
+| Blackberry Honey | 74602 | [74602-blackberry-honey.json](./74602-blackberry-honey.json) |
 | BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
