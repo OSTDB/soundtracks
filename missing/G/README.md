@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigawing Generations | 43477 | [43477-gigawing-generations.json](./43477-gigawing-generations.json) |
 | Giggleland | 340535 | [340535-giggleland.json](./340535-giggleland.json) |
 | Giggleport | 412346 | [412346-giggleport.json](./412346-giggleport.json) |
+| Gigils | 391762 | [391762-gigils.json](./391762-gigils.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Boy The Long Night | 356888 | [356888-good-boy-the-long-night.json](./356888-good-boy-the-long-night.json) |
 | Good Boy! | 99629 | [99629-good-boy.json](./99629-good-boy.json) |
 | Good Bye Rebeca | 151573 | [151573-good-bye-rebeca.json](./151573-good-bye-rebeca.json) |
+| Good Catch! | 391682 | [391682-good-catch.json](./391682-good-catch.json) |
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
