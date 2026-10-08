@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
+| Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimal: Collector's Edition | 378339 | [378339-reanimal-collectors-edition.json](./378339-reanimal-collectors-edition.json) |
 | Reanimal: Deluxe Edition | 378346 | [378346-reanimal-deluxe-edition.json](./378346-reanimal-deluxe-edition.json) |
 | Reanimal: Digital Deluxe Edition | 378343 | [378343-reanimal-digital-deluxe-edition.json](./378343-reanimal-digital-deluxe-edition.json) |
+| Reanimal: Foxhead and Muttonhead Masks | 389542 | [389542-reanimal-foxhead-and-muttonhead-masks.json](./389542-reanimal-foxhead-and-muttonhead-masks.json) |
 | Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
 | Reanimal: The Expanded World - Chapter 3 | 395673 | [395673-reanimal-the-expanded-world-chapter-3.json](./395673-reanimal-the-expanded-world-chapter-3.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
@@ -5901,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Fortune | 415285 | [415285-rogue-fortune.json](./415285-rogue-fortune.json) |
 | Rogue Galaxy | 11292 | [11292-rogue-galaxy.json](./11292-rogue-galaxy.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
+| Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Hearts | 88529 | [88529-rogue-hearts.json](./88529-rogue-hearts.json) |
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
