@@ -3060,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
+| Texas Hold'em: Daily Poke it! | 87154 | [87154-texas-holdem-daily-poke-it.json](./87154-texas-holdem-daily-poke-it.json) |
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
 | Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
@@ -11717,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think | 100765 | [100765-think.json](./100765-think.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
+| Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think or Die Collection Pack | 312097 | [312097-think-or-die-collection-pack.json](./312097-think-or-die-collection-pack.json) |
@@ -15055,6 +15057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Secret | 75967 | [75967-top-secret.json](./75967-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
+| Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
 | Top Speed 2: Drag Rivals & Nitro Racing | 200464 | [200464-top-speed-2-drag-rivals-and-nitro-racing.json](./200464-top-speed-2-drag-rivals-and-nitro-racing.json) |
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
 | Top Speed: Drag & Fast Racing | 88441 | [88441-top-speed-drag-and-fast-racing.json](./88441-top-speed-drag-and-fast-racing.json) |
@@ -16144,6 +16147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
+| Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Raid | 68254 | [68254-toy-raid.json](./68254-toy-raid.json) |
 | Toy Road Constructor | 111601 | [111601-toy-road-constructor.json](./111601-toy-road-constructor.json) |
 | Toy Robo Force | 54896 | [54896-toy-robo-force.json](./54896-toy-robo-force.json) |
