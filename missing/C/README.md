@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Care Karts | 280788 | [280788-care-bears-care-karts.json](./280788-care-bears-care-karts.json) |
 | Care Bears: Care-a-lot Jamboree | 65502 | [65502-care-bears-care-a-lot-jamboree.json](./65502-care-bears-care-a-lot-jamboree.json) |
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
+| Care Bears: Rainbow Ride | 421388 | [421388-care-bears-rainbow-ride.json](./421388-care-bears-rainbow-ride.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
+| Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
@@ -4604,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
 | Chroma Circuit | 223509 | [223509-chroma-circuit.json](./223509-chroma-circuit.json) |
+| Chroma Crew | 421389 | [421389-chroma-crew.json](./421389-chroma-crew.json) |
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
@@ -7919,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
 | Contract Sudoku | 277920 | [277920-contract-sudoku.json](./277920-contract-sudoku.json) |
+| Contract Terminated | 421366 | [421366-contract-terminated.json](./421366-contract-terminated.json) |
 | Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
 | Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
