@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR Dream | 277959 | [277959-ntr-dream.json](./277959-ntr-dream.json) |
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | NTR Hunter: Hisako’s Secret | 386949 | [386949-ntr-hunter-hisako-s-secret.json](./386949-ntr-hunter-hisako-s-secret.json) |
+| NTR Life | 392884 | [392884-ntr-life.json](./392884-ntr-life.json) |
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
 | NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
