@@ -6292,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
+| Rondo's Romp | 422137 | [422137-rondos-romp.json](./422137-rondos-romp.json) |
 | Rong Yu Zhi Hui Guan | 283406 | [283406-rong-yu-zhi-hui-guan.json](./283406-rong-yu-zhi-hui-guan.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
