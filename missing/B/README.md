@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | Babs' Potion Shop | 238449 | [238449-babs-potion-shop.json](./238449-babs-potion-shop.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
+| Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
