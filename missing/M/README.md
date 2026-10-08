@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Maritime Mecha Mystery | 291558 | [291558-maritime-mecha-mystery.json](./291558-maritime-mecha-mystery.json) |
 | Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
+| Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
@@ -3570,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
+| MaxPlay Classic Games Volume 1 | 3996 | [3996-maxplay-classic-games-volume-1.json](./3996-maxplay-classic-games-volume-1.json) |
 | MaXplosion | 92153 | [92153-maxplosion.json](./92153-maxplosion.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
@@ -8293,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Federation vs. Zeon DX | 43205 | [43205-mobile-suit-gundam-federation-vs-zeon-dx.json](./43205-mobile-suit-gundam-federation-vs-zeon-dx.json) |
 | Mobile Suit Gundam: Giren no Yabou - Axis No Kyoui V | 56743 | [56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json](./56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam | 72783 | [72783-mobile-suit-gundam-gundam-vs-gundam.json](./72783-mobile-suit-gundam-gundam-vs-gundam.json) |
+| Mobile Suit Gundam: Gundam vs. Zeta Gundam | 3964 | [3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json](./3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json) |
 | Mobile Suit Gundam: Iron-Blooded Orphans Urd's Hunt | 113627 | [113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json](./113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json) |
 | Mobile Suit Gundam: Journey to Jaburo | 43461 | [43461-mobile-suit-gundam-journey-to-jaburo.json](./43461-mobile-suit-gundam-journey-to-jaburo.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
@@ -8628,6 +8631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Densetsu Mobile | 186765 | [186765-momotaro-densetsu-mobile.json](./186765-momotaro-densetsu-mobile.json) |
 | Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
 | Momotaro Dentetsu | 48771 | [48771-momotaro-dentetsu.json](./48771-momotaro-dentetsu.json) |
+| Momotaro Dentetsu 11: Black Bonbii Shutsugen! no Maki | 4014 | [4014-momotaro-dentetsu-11-black-bonbii-shutsugen-no-maki.json](./4014-momotaro-dentetsu-11-black-bonbii-shutsugen-no-maki.json) |
+| Momotaro Dentetsu 12: Nishi Nihon-hen mo Arimasse! | 4015 | [4015-momotaro-dentetsu-12-nishi-nihon-hen-mo-arimasse.json](./4015-momotaro-dentetsu-12-nishi-nihon-hen-mo-arimasse.json) |
 | Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
 | Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
 | Momotaro Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki | 79273 | [79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json](./79273-momotaro-dentetsu-2010-sengoku-ishin-no-hero-daishuugou-no-maki.json) |
@@ -8915,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
+| Monster 4x4: Masters of Metal | 4017 | [4017-monster-4x4-masters-of-metal.json](./4017-monster-4x4-masters-of-metal.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
@@ -11145,6 +11151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Car 3: Illegal Street | 71742 | [71742-muscle-car-3-illegal-street.json](./71742-muscle-car-3-illegal-street.json) |
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
+| Muscle Champion: Kinnikutou Kessen | 4022 | [4022-muscle-champion-kinnikutou-kessen.json](./4022-muscle-champion-kinnikutou-kessen.json) |
 | Muscle Girl Lisa: Training Diary | 310063 | [310063-muscle-girl-lisa-training-diary.json](./310063-muscle-girl-lisa-training-diary.json) |
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
@@ -11357,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
+| Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Mutual Place | 252920 | [252920-mutual-place.json](./252920-mutual-place.json) |
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
