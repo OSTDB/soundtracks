@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Town Defense | 287701 | [287701-west-town-defense.json](./287701-west-town-defense.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | Westale: Peelgrimage | 356828 | [356828-westale-peelgrimage.json](./356828-westale-peelgrimage.json) |
+| Westboro | 28296 | [28296-westboro.json](./28296-westboro.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
@@ -4544,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
 | Wordland 2 | 151265 | [151265-wordland-2.json](./151265-wordland-2.json) |
 | Wordland: Let's Travel | 204928 | [204928-wordland-lets-travel.json](./204928-wordland-lets-travel.json) |
+| Wordlase | 28429 | [28429-wordlase.json](./28429-wordlase.json) |
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
@@ -5613,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
+| Wyrmsun | 28362 | [28362-wyrmsun.json](./28362-wyrmsun.json) |
 | WyshBound | 337300 | [337300-wyshbound.json](./337300-wyshbound.json) |
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
