@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
 | Match Three Pack | 244821 | [244821-match-three-pack.json](./244821-match-three-pack.json) |
 | Match Three Pirates! Heir to Davy Jones | 116917 | [116917-match-three-pirates-heir-to-davy-jones.json](./116917-match-three-pirates-heir-to-davy-jones.json) |
+| Match Three: Farm Shoppers | 391684 | [391684-match-three-farm-shoppers.json](./391684-match-three-farm-shoppers.json) |
 | Match Tree | 282693 | [282693-match-tree.json](./282693-match-tree.json) |
 | Match Up | 81405 | [81405-match-up.json](./81405-match-up.json) |
 | Match Up! | 85618 | [85618-match-up.json](./85618-match-up.json) |
@@ -5071,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | Memento*Fragment | 410256 | [410256-memento-fragment.json](./410256-memento-fragment.json) |
 | Mementos | 201629 | [201629-mementos.json](./201629-mementos.json) |
+| Mementos: Lost Things | 391681 | [391681-mementos-lost-things.json](./391681-mementos-lost-things.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
@@ -6709,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
+| Mikaira (Archived) | 391701 | [391701-mikaira-archived.json](./391701-mikaira-archived.json) |
 | Mikan | 61313 | [61313-mikan.json](./61313-mikan.json) |
 | Mikan Muzou | 150055 | [150055-mikan-muzou.json](./150055-mikan-muzou.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
