@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tamriel Rebuilt | 186650 | [186650-tamriel-rebuilt.json](./186650-tamriel-rebuilt.json) |
 | Tamura Mitsuaki no Mahjong Seminar | 48886 | [48886-tamura-mitsuaki-no-mahjong-seminar.json](./48886-tamura-mitsuaki-no-mahjong-seminar.json) |
+| Tamzin Twins: The Tyranny of Tyrek | 388879 | [388879-tamzin-twins-the-tyranny-of-tyrek.json](./388879-tamzin-twins-the-tyranny-of-tyrek.json) |
 | Tàn Dǎo Hǎiguītāng | 373715 | [373715-tan-dao-haiguitang.json](./373715-tan-dao-haiguitang.json) |
 | Tan Tank 2 | 296008 | [296008-tan-tank-2.json](./296008-tan-tank-2.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
@@ -3104,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texas Wildcatter Experience | 106753 | [106753-texas-wildcatter-experience.json](./106753-texas-wildcatter-experience.json) |
+| Texmaster | 388897 | [388897-texmaster.json](./388897-texmaster.json) |
 | Texnoplazm | 269190 | [269190-texnoplazm.json](./269190-texnoplazm.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
@@ -7034,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Krion Conquest | 48173 | [48173-the-krion-conquest.json](./48173-the-krion-conquest.json) |
 | The Kristal | 12168 | [12168-the-kristal.json](./12168-the-kristal.json) |
 | The Krypton Factor | 12955 | [12955-the-krypton-factor.json](./12955-the-krypton-factor.json) |
+| The Kulka | 388915 | [388915-the-kulka.json](./388915-the-kulka.json) |
 | The Kutar's Tabipero | 340039 | [340039-the-kutars-tabipero.json](./340039-the-kutars-tabipero.json) |
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
@@ -7121,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
+| The Last Day of Adolf | 388884 | [388884-the-last-day-of-adolf.json](./388884-the-last-day-of-adolf.json) |
 | The Last day of Han Dynasty | 284602 | [284602-the-last-day-of-han-dynasty.json](./284602-the-last-day-of-han-dynasty.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
 | The Last Days of Sodom | 192662 | [192662-the-last-days-of-sodom.json](./192662-the-last-days-of-sodom.json) |
@@ -10317,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
 | The Swarm is Coming | 311674 | [311674-the-swarm-is-coming.json](./311674-the-swarm-is-coming.json) |
+| The Swashbugglers | 388910 | [388910-the-swashbugglers.json](./388910-the-swashbugglers.json) |
 | The Sweet Little Monster | 240186 | [240186-the-sweet-little-monster.json](./240186-the-sweet-little-monster.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
