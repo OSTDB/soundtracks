@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Goody Two Shoes | 137243 | [137243-little-goody-two-shoes.json](./137243-little-goody-two-shoes.json) |
 | Little Green Frog | 302076 | [302076-little-green-frog.json](./302076-little-green-frog.json) |
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
+| Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Helper Cafe | 358353 | [358353-little-helper-cafe.json](./358353-little-helper-cafe.json) |
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
