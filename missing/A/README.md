@@ -4047,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allblack Phase 1 | 121585 | [121585-allblack-phase-1.json](./121585-allblack-phase-1.json) |
 | AllBoomGame | 198489 | [198489-allboomgame.json](./198489-allboomgame.json) |
 | Allegiance | 595 | [595-allegiance.json](./595-allegiance.json) |
+| Allegro Molto ga Ikinokoru Game | 416658 | [416658-allegro-molto-ga-ikinokoru-game.json](./416658-allegro-molto-ga-ikinokoru-game.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Allegro Molto wo Kiku Game | 355188 | [355188-allegro-molto-wo-kiku-game.json](./355188-allegro-molto-wo-kiku-game.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaranth III | 69264 | [69264-amaranth-iii.json](./69264-amaranth-iii.json) |
 | Amaranthine | 33200 | [33200-amaranthine.json](./33200-amaranthine.json) |
+| Amaranthine Voyage: Legacy of the Guardians - Collector's Edition | 416874 | [416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json](./416874-amaranthine-voyage-legacy-of-the-guardians-collectors-edition.json) |
 | Amaranthine Voyage: The Living Mountain | 58027 | [58027-amaranthine-voyage-the-living-mountain.json](./58027-amaranthine-voyage-the-living-mountain.json) |
 | Amaranthine Voyage: The Obsidian Book | 58028 | [58028-amaranthine-voyage-the-obsidian-book.json](./58028-amaranthine-voyage-the-obsidian-book.json) |
 | Amaranthine Voyage: The Obsidian Book - Collector's Edition | 105338 | [105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json](./105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json) |
@@ -4465,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranthine Voyage: The Sky | 89143 | [89143-amaranthine-voyage-the-sky.json](./89143-amaranthine-voyage-the-sky.json) |
 | Amaranthine Voyage: The Tree of Life | 58029 | [58029-amaranthine-voyage-the-tree-of-life.json](./58029-amaranthine-voyage-the-tree-of-life.json) |
 | Amaranthine Voyage: Winter Neverending | 58026 | [58026-amaranthine-voyage-winter-neverending.json](./58026-amaranthine-voyage-winter-neverending.json) |
+| Amaranthine Voyage: Winter Neverending - Collector's Edition | 416876 | [416876-amaranthine-voyage-winter-neverending-collectors-edition.json](./416876-amaranthine-voyage-winter-neverending-collectors-edition.json) |
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
@@ -4509,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
 | Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
+| Amazing Cruise: Mediterranean | 416878 | [416878-amazing-cruise-mediterranean.json](./416878-amazing-cruise-mediterranean.json) |
 | Amazing Cultivation Simulator | 127939 | [127939-amazing-cultivation-simulator.json](./127939-amazing-cultivation-simulator.json) |
 | Amazing Cultivation Simulator: Deep in the bamboo Forest | 166058 | [166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json](./166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json) |
 | Amazing Cultivation Simulator: Immortal Tales of WuDang | 166053 | [166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json](./166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json) |
@@ -4523,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
+| Amazing Heists: Dillinger | 416882 | [416882-amazing-heists-dillinger.json](./416882-amazing-heists-dillinger.json) |
 | Amazing Hidden Objects | 99091 | [99091-amazing-hidden-objects.json](./99091-amazing-hidden-objects.json) |
 | Amazing Human | 81741 | [81741-amazing-human.json](./81741-amazing-human.json) |
 | Amazing Island | 3784 | [3784-amazing-island.json](./3784-amazing-island.json) |
@@ -5966,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Brick in Space | 95601 | [95601-another-brick-in-space.json](./95601-another-brick-in-space.json) |
+| Another Card Game | 416585 | [416585-another-card-game.json](./416585-another-card-game.json) |
 | Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
 | Another Castle | 63660 | [63660-another-castle.json](./63660-another-castle.json) |
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
