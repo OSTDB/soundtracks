@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Kart 2: All You Can Drift - Garfing Cosmeowtics | 387615 | [387615-garfield-kart-2-all-you-can-drift-garfing-cosmeowtics.json](./387615-garfield-kart-2-all-you-can-drift-garfing-cosmeowtics.json) |
 | Garfield Kart 2: All You Can Drift - Pack Lazy-nya | 356821 | [356821-garfield-kart-2-all-you-can-drift-pack-lazy-nya.json](./356821-garfield-kart-2-all-you-can-drift-pack-lazy-nya.json) |
+| Garfield Kart Road 67 2 in 1 | 409522 | [409522-garfield-kart-road-67-2-in-1.json](./409522-garfield-kart-road-67-2-in-1.json) |
 | Garfield Kart: Furious Racing | 121230 | [121230-garfield-kart-furious-racing.json](./121230-garfield-kart-furious-racing.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
 | Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
+| Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
@@ -2003,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
 | Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
+| Get Fit: Beach Girls | 409520 | [409520-get-fit-beach-girls.json](./409520-get-fit-beach-girls.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
 | Get Fit: K-Pop Fitness | 420689 | [420689-get-fit-k-pop-fitness.json](./420689-get-fit-k-pop-fitness.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
@@ -3309,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
+| Goblin Solitaire | 409401 | [409401-goblin-solitaire.json](./409401-goblin-solitaire.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
 | Goblin Stone | 144764 | [144764-goblin-stone.json](./144764-goblin-stone.json) |
 | Goblin Storm | 337772 | [337772-goblin-storm.json](./337772-goblin-storm.json) |
@@ -3881,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
 | Golfinity | 60075 | [60075-golfinity.json](./60075-golfinity.json) |
+| Golfish | 409519 | [409519-golfish.json](./409519-golfish.json) |
 | Golfme | 390748 | [390748-golfme.json](./390748-golfme.json) |
 | Golfslinger | 330943 | [330943-golfslinger.json](./330943-golfslinger.json) |
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
@@ -5050,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
+| Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
