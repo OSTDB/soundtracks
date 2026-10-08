@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
+| 8BallAllstars | 55079 | [55079-8ballallstars.json](./55079-8ballallstars.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8Bit Fiesta: Game Pack 1 | 167670 | [167670-8bit-fiesta-game-pack-1.json](./167670-8bit-fiesta-game-pack-1.json) |
 | 8Bit Fiesta: Game Pack 2 | 167671 | [167671-8bit-fiesta-game-pack-2.json](./167671-8bit-fiesta-game-pack-2.json) |
