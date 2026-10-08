@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chronicle of Occultism in Skinnerburg | 304672 | [304672-a-chronicle-of-occultism-in-skinnerburg.json](./304672-a-chronicle-of-occultism-in-skinnerburg.json) |
 | A Circle Among Squares | 153012 | [153012-a-circle-among-squares.json](./153012-a-circle-among-squares.json) |
 | A Circle of Charity | 237474 | [237474-a-circle-of-charity.json](./237474-a-circle-of-charity.json) |
+| A City Sleeps | 17702 | [17702-a-city-sleeps.json](./17702-a-city-sleeps.json) |
 | A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
 | Alchemy Merge Puzzle Game | 330932 | [330932-alchemy-merge-puzzle-game.json](./330932-alchemy-merge-puzzle-game.json) |
+| Alchemy Mysteries: Prague Legends | 17899 | [17899-alchemy-mysteries-prague-legends.json](./17899-alchemy-mysteries-prague-legends.json) |
 | Alchemy Odyssey 2: Tears of the Elements | 417519 | [417519-alchemy-odyssey-2-tears-of-the-elements.json](./417519-alchemy-odyssey-2-tears-of-the-elements.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy of the Earth | 288750 | [288750-alchemy-of-the-earth.json](./288750-alchemy-of-the-earth.json) |
@@ -6606,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Ar tonelico II: Melody of Metafalica | 43658 | [43658-ar-tonelico-ii-melody-of-metafalica.json](./43658-ar-tonelico-ii-melody-of-metafalica.json) |
 | Ar Tonelico Qoga: Knell of Ar Ciel | 7274 | [7274-ar-tonelico-qoga-knell-of-ar-ciel.json](./7274-ar-tonelico-qoga-knell-of-ar-ciel.json) |
+| Ar-K | 16929 | [16929-ar-k.json](./16929-ar-k.json) |
 | Ar-K: End Game | 110962 | [110962-ar-k-end-game.json](./110962-ar-k-end-game.json) |
 | AR-K: The Great Escape | 24334 | [24334-ar-k-the-great-escape.json](./24334-ar-k-the-great-escape.json) |
 | Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
@@ -7285,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcus | 80836 | [80836-arcus.json](./80836-arcus.json) |
 | Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Arcus III | 98263 | [98263-arcus-iii.json](./98263-arcus-iii.json) |
+| Arcus Odyssey | 16138 | [16138-arcus-odyssey.json](./16138-arcus-odyssey.json) |
 | Arcuz | 161152 | [161152-arcuz.json](./161152-arcuz.json) |
 | Arcuz II: Dungeons | 161153 | [161153-arcuz-ii-dungeons.json](./161153-arcuz-ii-dungeons.json) |
 | Arcy 2 | 18377 | [18377-arcy-2.json](./18377-arcy-2.json) |
@@ -9656,6 +9660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
 | Automation Station | 201069 | [201069-automation-station.json](./201069-automation-station.json) |
+| Automation: The Car Company Tycoon Game | 17239 | [17239-automation-the-car-company-tycoon-game.json](./17239-automation-the-car-company-tycoon-game.json) |
 | Automaton | 266852 | [266852-automaton.json](./266852-automaton.json) |
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automaton Kingdom | 201665 | [201665-automaton-kingdom.json](./201665-automaton-kingdom.json) |
