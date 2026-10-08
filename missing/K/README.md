@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Glee: Volume 3 | 50616 | [50616-karaoke-revolution-glee-volume-3.json](./50616-karaoke-revolution-glee-volume-3.json) |
 | Karaoke Revolution Party | 24145 | [24145-karaoke-revolution-party.json](./24145-karaoke-revolution-party.json) |
+| Karaoke Revolution Presents: American Idol Encore | 21350 | [21350-karaoke-revolution-presents-american-idol-encore.json](./21350-karaoke-revolution-presents-american-idol-encore.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
@@ -2979,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
+| Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami GB Collection Vol. 1 | 49835 | [49835-konami-gb-collection-vol-1.json](./49835-konami-gb-collection-vol-1.json) |
