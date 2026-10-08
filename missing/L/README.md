@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
 | Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shelter: War Z | 414472 | [414472-last-shelter-war-z.json](./414472-last-shelter-war-z.json) |
+| Last Shift: Gas Station | 389640 | [389640-last-shift-gas-station.json](./389640-last-shift-gas-station.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
