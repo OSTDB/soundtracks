@@ -7392,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
 | The Legend of Lotus Spring | 71044 | [71044-the-legend-of-lotus-spring.json](./71044-the-legend-of-lotus-spring.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
+| The Legend of Mala Tokmachka | 414149 | [414149-the-legend-of-mala-tokmachka.json](./414149-the-legend-of-mala-tokmachka.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
 | The Legend of Monster Mountain | 106490 | [106490-the-legend-of-monster-mountain.json](./106490-the-legend-of-monster-mountain.json) |
@@ -15613,6 +15614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Touge R | 60621 | [60621-touge-r.json](./60621-touge-r.json) |
+| Touge: JDM Dealership Simulator | 414158 | [414158-touge-jdm-dealership-simulator.json](./414158-touge-jdm-dealership-simulator.json) |
 | Tougen Anki: Crimson Inferno | 396591 | [396591-tougen-anki-crimson-inferno.json](./396591-tougen-anki-crimson-inferno.json) |
 | Tougenkyou | 151807 | [151807-tougenkyou.json](./151807-tougenkyou.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
@@ -18848,6 +18850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
+| Tulpa the Unseen Lover | 414136 | [414136-tulpa-the-unseen-lover.json](./414136-tulpa-the-unseen-lover.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
 | Tumble | 25088 | [25088-tumble.json](./25088-tumble.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
