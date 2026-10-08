@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
+| I Have an Adventure House | 417345 | [417345-i-have-an-adventure-house.json](./417345-i-have-an-adventure-house.json) |
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
 | I Have Died | 375956 | [375956-i-have-died.json](./375956-i-have-died.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Paladin | 192181 | [192181-idle-paladin.json](./192181-idle-paladin.json) |
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
+| Idle Physio: Clinic Tycoon | 417461 | [417461-idle-physio-clinic-tycoon.json](./417461-idle-physio-clinic-tycoon.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pirate Legend | 281448 | [281448-idle-pirate-legend.json](./281448-idle-pirate-legend.json) |
 | Idle Pirate Ship | 220164 | [220164-idle-pirate-ship.json](./220164-idle-pirate-ship.json) |
@@ -3809,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lives in the Woods | 212149 | [212149-it-lives-in-the-woods.json](./212149-it-lives-in-the-woods.json) |
 | It Lives in the Woods | 313737 | [313737-it-lives-in-the-woods.json](./313737-it-lives-in-the-woods.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
+| It Lurks | 417353 | [417353-it-lurks.json](./417353-it-lurks.json) |
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
