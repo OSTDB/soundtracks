@@ -5230,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball 2012 | 52219 | [52219-foosball-2012.json](./52219-foosball-2012.json) |
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
+| Foosball Manager | 406042 | [406042-foosball-manager.json](./406042-foosball-manager.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
