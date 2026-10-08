@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
+| Cards of Calling | 422144 | [422144-cards-of-calling.json](./422144-cards-of-calling.json) |
 | Cards of Cthulhu | 31146 | [31146-cards-of-cthulhu.json](./31146-cards-of-cthulhu.json) |
 | Cards of Curse | 97997 | [97997-cards-of-curse.json](./97997-cards-of-curse.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
@@ -8743,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Tales 2: New Frontiers | 337239 | [337239-country-tales-2-new-frontiers.json](./337239-country-tales-2-new-frontiers.json) |
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
+| Countryball Football Online | 422142 | [422142-countryball-football-online.json](./422142-countryball-football-online.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: Power Protocol | 349473 | [349473-countryballs-power-protocol.json](./349473-countryballs-power-protocol.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
