@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Parkour Runner | 363938 | [363938-zombie-parkour-runner.json](./363938-zombie-parkour-runner.json) |
 | Zombie Parkour Runner Plus | 364047 | [364047-zombie-parkour-runner-plus.json](./364047-zombie-parkour-runner-plus.json) |
 | Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
+| Zombie Party | 27113 | [27113-zombie-party.json](./27113-zombie-party.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
 | Zombie Pixel Zombie | 56314 | [56314-zombie-pixel-zombie.json](./56314-zombie-pixel-zombie.json) |
