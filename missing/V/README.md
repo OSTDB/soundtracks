@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
+| Victorian Admirals Anthology | 36399 | [36399-victorian-admirals-anthology.json](./36399-victorian-admirals-anthology.json) |
 | Victorian Admirals: Caroline Crisis 1885 | 58290 | [58290-victorian-admirals-caroline-crisis-1885.json](./58290-victorian-admirals-caroline-crisis-1885.json) |
 | Victorian Admirals: Marianas Incident 1887 | 58293 | [58293-victorian-admirals-marianas-incident-1887.json](./58293-victorian-admirals-marianas-incident-1887.json) |
 | Victorian Admirals: Panama Crisis 1885 | 58291 | [58291-victorian-admirals-panama-crisis-1885.json](./58291-victorian-admirals-panama-crisis-1885.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
+| Voidrunner | 36569 | [36569-voidrunner.json](./36569-voidrunner.json) |
 | Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
 | Voidrunner | 52755 | [52755-voidrunner.json](./52755-voidrunner.json) |
 | Voids Adrift | 144103 | [144103-voids-adrift.json](./144103-voids-adrift.json) |
