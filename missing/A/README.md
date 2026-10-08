@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 | 405639 | [405639-a-train-9.json](./405639-a-train-9.json) |
 | A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
+| A-Train 9 V4.0: Japan Rail Simulator | 36406 | [36406-a-train-9-v4-0-japan-rail-simulator.json](./36406-a-train-9-v4-0-japan-rail-simulator.json) |
 | A-Train 9 V4.0: Japan Rail Simulator - Mega Japan Train Pack | 171908 | [171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json](./171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json) |
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
@@ -9958,6 +9959,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
 | Aveyond 1: Rhen's Quest | 10010 | [10010-aveyond-1-rhens-quest.json](./10010-aveyond-1-rhens-quest.json) |
 | Aveyond 2: Ean's Quest | 10011 | [10011-aveyond-2-eans-quest.json](./10011-aveyond-2-eans-quest.json) |
+| Aveyond 3-1: Lord of Twilight | 36389 | [36389-aveyond-3-1-lord-of-twilight.json](./36389-aveyond-3-1-lord-of-twilight.json) |
+| Aveyond 3-2: Gates of Night | 36404 | [36404-aveyond-3-2-gates-of-night.json](./36404-aveyond-3-2-gates-of-night.json) |
 | Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
 | Aveyond 3-4: The Darkthrop Prophecy | 36242 | [36242-aveyond-3-4-the-darkthrop-prophecy.json](./36242-aveyond-3-4-the-darkthrop-prophecy.json) |
 | Aveyond 3: Orbs of Magic - Chapter 1: Lord of Twilight | 10012 | [10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json](./10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json) |
