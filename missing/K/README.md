@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
 | King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
 | King Flappy | 97460 | [97460-king-flappy.json](./97460-king-flappy.json) |
+| King For a Week | 397373 | [397373-king-for-a-week.json](./397373-king-for-a-week.json) |
 | King God Castle | 203220 | [203220-king-god-castle.json](./203220-king-god-castle.json) |
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
 | King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
@@ -2960,6 +2961,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koisuru Otome to Shugo no Tate: The Shield of Aigis - Koi no Theresia Box | 413708 | [413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json](./413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
+| Koiyasumi Encore!: Everlasting Summer | 397388 | [397388-koiyasumi-encore-everlasting-summer.json](./397388-koiyasumi-encore-everlasting-summer.json) |
+| Koiyasumi Encore!: Lovely Golden Week | 397387 | [397387-koiyasumi-encore-lovely-golden-week.json](./397387-koiyasumi-encore-lovely-golden-week.json) |
+| Koiyasumi: Kanojo no Hada ni Tokeru Konayuki | 397385 | [397385-koiyasumi-kanojo-no-hada-ni-tokeru-konayuki.json](./397385-koiyasumi-kanojo-no-hada-ni-tokeru-konayuki.json) |
+| Koiyasumi: Yuudachi ni Nureta Osananajimi | 397384 | [397384-koiyasumi-yuudachi-ni-nureta-osananajimi.json](./397384-koiyasumi-yuudachi-ni-nureta-osananajimi.json) |
 | Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
