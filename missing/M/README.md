@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matts & the Metamagicians | 181684 | [181684-matts-and-the-metamagicians.json](./181684-matts-and-the-metamagicians.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
+| Mattyflexx’s Pokeslots | 390708 | [390708-mattyflexx-s-pokeslots.json](./390708-mattyflexx-s-pokeslots.json) |
 | Mature Comedy Visual Novel | 265330 | [265330-mature-comedy-visual-novel.json](./265330-mature-comedy-visual-novel.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
@@ -7373,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
+| Ming Dynasty: Cards & Court | 390606 | [390606-ming-dynasty-cards-and-court.json](./390606-ming-dynasty-cards-and-court.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
 | Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
@@ -7385,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
+| Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
@@ -8200,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix Universe | 341015 | [341015-mix-universe.json](./341015-mix-universe.json) |
 | Mix-A-Max | 230929 | [230929-mix-a-max.json](./230929-mix-a-max.json) |
 | Mix-Sign: Girl with 3 Signs | 127845 | [127845-mix-sign-girl-with-3-signs.json](./127845-mix-sign-girl-with-3-signs.json) |
+| Mixatro | 390611 | [390611-mixatro.json](./390611-mixatro.json) |
 | Mixberry MGC 105 | 245434 | [245434-mixberry-mgc-105.json](./245434-mixberry-mgc-105.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
 | Mixed Estate | 111229 | [111229-mixed-estate.json](./111229-mixed-estate.json) |
@@ -11516,6 +11520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
+| Mutagenic 2 | 390610 | [390610-mutagenic-2.json](./390610-mutagenic-2.json) |
 | Mutan Zone | 39120 | [39120-mutan-zone.json](./39120-mutan-zone.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
