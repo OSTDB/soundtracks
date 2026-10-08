@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
+| I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
 | I Have a Dream | 255703 | [255703-i-have-a-dream.json](./255703-i-have-a-dream.json) |
 | I Have an Adventure House | 417345 | [417345-i-have-an-adventure-house.json](./417345-i-have-an-adventure-house.json) |
@@ -3565,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISDDS: Drone VR Simulator | 163919 | [163919-isdds-drone-vr-simulator.json](./163919-isdds-drone-vr-simulator.json) |
 | Ise Shima Mystery Annai: Itsuwari no Kuro Shinju | 69363 | [69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json](./69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json) |
 | Isee | 51514 | [51514-isee.json](./51514-isee.json) |
+| Iseijin Kara no Okurimono | 401835 | [401835-iseijin-kara-no-okurimono.json](./401835-iseijin-kara-no-okurimono.json) |
 | Isekai Adventurer Guild | 348401 | [348401-isekai-adventurer-guild.json](./348401-isekai-adventurer-guild.json) |
 | Isekai Awakening | 296942 | [296942-isekai-awakening.json](./296942-isekai-awakening.json) |
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
