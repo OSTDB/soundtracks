@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Lost: Episode 2 SD | 100336 | [100336-forever-lost-episode-2-sd.json](./100336-forever-lost-episode-2-sd.json) |
 | Forever Night | 155673 | [155673-forever-night.json](./155673-forever-night.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
+| Forever Skies: The Final Echoes Update | 404906 | [404906-forever-skies-the-final-echoes-update.json](./404906-forever-skies-the-final-echoes-update.json) |
 | Forever Space | 89366 | [89366-forever-space.json](./89366-forever-space.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever Tunnel | 422084 | [422084-forever-tunnel.json](./422084-forever-tunnel.json) |
@@ -7739,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
+| Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
