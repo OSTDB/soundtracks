@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Rock Zombie Truck Plastiline | 109870 | [109870-hard-rock-zombie-truck-plastiline.json](./109870-hard-rock-zombie-truck-plastiline.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
+| Hard Time | 54453 | [54453-hard-time.json](./54453-hard-time.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
@@ -3343,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Youseijyo | 208275 | [208275-hero-youseijyo.json](./208275-hero-youseijyo.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
+| Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
 | Hero's Delirium | 266758 | [266758-heros-delirium.json](./266758-heros-delirium.json) |
@@ -5155,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! Compedium: Badge Edition | 139833 | [139833-holy-potatoes-compedium-badge-edition.json](./139833-holy-potatoes-compedium-badge-edition.json) |
 | Holy Potatoes! Compendium | 137674 | [137674-holy-potatoes-compendium.json](./137674-holy-potatoes-compendium.json) |
 | Holy Potatoes! We're in Space?! | 27339 | [27339-holy-potatoes-were-in-space.json](./27339-holy-potatoes-were-in-space.json) |
+| Holy Potatoes! What the Hell?! | 55695 | [55695-holy-potatoes-what-the-hell.json](./55695-holy-potatoes-what-the-hell.json) |
 | Holy Road | 115216 | [115216-holy-road.json](./115216-holy-road.json) |
 | Holy Sheet | 110952 | [110952-holy-sheet.json](./110952-holy-sheet.json) |
 | Holy Shift | 320337 | [320337-holy-shift.json](./320337-holy-shift.json) |
