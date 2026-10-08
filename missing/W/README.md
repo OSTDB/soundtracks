@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Fairy of Daya | 249752 | [249752-wheat-fairy-of-daya.json](./249752-wheat-fairy-of-daya.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
+| Wheatley's Unscientific Tests | 416797 | [416797-wheatleys-unscientific-tests.json](./416797-wheatleys-unscientific-tests.json) |
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
