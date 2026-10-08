@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's True Love | 68946 | [68946-delicious-emilys-true-love.json](./68946-delicious-emilys-true-love.json) |
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
+| Delicious! Pretty Girls Mahjong Solitaire | 31053 | [31053-delicious-pretty-girls-mahjong-solitaire.json](./31053-delicious-pretty-girls-mahjong-solitaire.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
 | Delila's Gift | 28740 | [28740-delilas-gift.json](./28740-delilas-gift.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
+| Doodle God: 8-bit Mania | 31000 | [31000-doodle-god-8-bit-mania.json](./31000-doodle-god-8-bit-mania.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
 | Doodle God: Evolution | 114180 | [114180-doodle-god-evolution.json](./114180-doodle-god-evolution.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
@@ -9057,6 +9059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
+| Dream Quest | 30475 | [30475-dream-quest.json](./30475-dream-quest.json) |
 | Dream Quest: Knight and Princess | 225555 | [225555-dream-quest-knight-and-princess.json](./225555-dream-quest-knight-and-princess.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
