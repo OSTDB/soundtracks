@@ -10050,6 +10050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubble Bubble Shooter | 106017 | [106017-dubble-bubble-shooter.json](./106017-dubble-bubble-shooter.json) |
 | Dubio | 293859 | [293859-dubio.json](./293859-dubio.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
+| Dubspace: Chapter 1 | 394775 | [394775-dubspace-chapter-1.json](./394775-dubspace-chapter-1.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
 | Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
 | Dubstep Sound Pack | 343860 | [343860-dubstep-sound-pack.json](./343860-dubstep-sound-pack.json) |
@@ -10275,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duline | 199489 | [199489-duline.json](./199489-duline.json) |
 | Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
 | Dull Acres | 303495 | [303495-dull-acres.json](./303495-dull-acres.json) |
+| Dullahan-san no Atama wo Omochikaeri Suru | 394771 | [394771-dullahan-san-no-atama-wo-omochikaeri-suru.json](./394771-dullahan-san-no-atama-wo-omochikaeri-suru.json) |
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
