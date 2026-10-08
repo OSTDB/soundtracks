@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
 | We are Broken | 146090 | [146090-we-are-broken.json](./146090-we-are-broken.json) |
+| We Are Chicago | 26868 | [26868-we-are-chicago.json](./26868-we-are-chicago.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We Are Doomed | 20894 | [20894-we-are-doomed.json](./20894-we-are-doomed.json) |
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
