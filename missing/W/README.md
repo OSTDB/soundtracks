@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
 | Weapons of Ra | 199990 | [199990-weapons-of-ra.json](./199990-weapons-of-ra.json) |
+| Weapons Simulator | 390165 | [390165-weapons-simulator.json](./390165-weapons-simulator.json) |
 | Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
 | WeAreDreaming | 243648 | [243648-wearedreaming.json](./243648-wearedreaming.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
 | Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
 | Wings of Angels | 247991 | [247991-wings-of-angels.json](./247991-wings-of-angels.json) |
+| Wings of Aviora | 390085 | [390085-wings-of-aviora.json](./390085-wings-of-aviora.json) |
 | Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
