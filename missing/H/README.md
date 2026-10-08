@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
+| Hayfever | 120868 | [120868-hayfever.json](./120868-hayfever.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
