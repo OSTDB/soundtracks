@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
+| Backrooms: Code Yellow | 416594 | [416594-backrooms-code-yellow.json](./416594-backrooms-code-yellow.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
 | Backrooms: Eternal Shadows | 293849 | [293849-backrooms-eternal-shadows.json](./293849-backrooms-eternal-shadows.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
 | Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
+| Ballzy: PvP Block Puzzle | 416801 | [416801-ballzy-pvp-block-puzzle.json](./416801-ballzy-pvp-block-puzzle.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
@@ -6211,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
 | Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
+| Blocky Run | 416884 | [416884-blocky-run.json](./416884-blocky-run.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Snake | 195558 | [195558-blocky-snake.json](./195558-blocky-snake.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
@@ -7380,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
 | Bonesaw | 316799 | [316799-bonesaw.json](./316799-bonesaw.json) |
 | Bonesaw: The Game | 65432 | [65432-bonesaw-the-game.json](./65432-bonesaw-the-game.json) |
+| Bonespire | 416733 | [416733-bonespire.json](./416733-bonespire.json) |
 | BoneStagE | 141773 | [141773-bonestage.json](./141773-bonestage.json) |
 | Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
