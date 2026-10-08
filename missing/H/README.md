@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
+| Hanako: Honor & Blade | 36605 | [36605-hanako-honor-and-blade.json](./36605-hanako-honor-and-blade.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
 | Hell University | 264140 | [264140-hell-university.json](./264140-hell-university.json) |
 | Hell Warders | 28009 | [28009-hell-warders.json](./28009-hell-warders.json) |
+| Hell Warders - Beta | 36473 | [36473-hell-warders-beta.json](./36473-hell-warders-beta.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
 | Hell Wedding | 114502 | [114502-hell-wedding.json](./114502-hell-wedding.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
@@ -3270,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Allstars: Void Invasion | 158120 | [158120-hero-allstars-void-invasion.json](./158120-hero-allstars-void-invasion.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
 | Hero and Daughter | 58887 | [58887-hero-and-daughter.json](./58887-hero-and-daughter.json) |
+| Hero and Daughter+ | 36388 | [36388-hero-and-daughter.json](./36388-hero-and-daughter.json) |
 | Hero Bank | 61446 | [61446-hero-bank.json](./61446-hero-bank.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
