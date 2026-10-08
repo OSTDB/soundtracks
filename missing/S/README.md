@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Helper | 41491 | [41491-santas-helper.json](./41491-santas-helper.json) |
 | Santa's Hitlist CEO Edition | 347346 | [347346-santas-hitlist-ceo-edition.json](./347346-santas-hitlist-ceo-edition.json) |
 | Santa's Holiday | 127010 | [127010-santas-holiday.json](./127010-santas-holiday.json) |
+| Santa's Legacy | 391114 | [391114-santas-legacy.json](./391114-santas-legacy.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's Reindeer Run | 106367 | [106367-santas-reindeer-run.json](./106367-santas-reindeer-run.json) |
 | Santa's Salvation | 200040 | [200040-santas-salvation.json](./200040-santas-salvation.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
+| Shady O'Grady's Overnight Sensation | 391234 | [391234-shady-ogradys-overnight-sensation.json](./391234-shady-ogradys-overnight-sensation.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
@@ -4664,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Is Cool | 328048 | [328048-shell-is-cool.json](./328048-shell-is-cool.json) |
 | Shell Kingdom | 185087 | [185087-shell-kingdom.json](./185087-shell-kingdom.json) |
 | Shell of a King | 250961 | [250961-shell-of-a-king.json](./250961-shell-of-a-king.json) |
+| Shell of the Coward | 391236 | [391236-shell-of-the-coward.json](./391236-shell-of-the-coward.json) |
 | Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
 | Shell Out Showdown | 148437 | [148437-shell-out-showdown.json](./148437-shell-out-showdown.json) |
 | Shell Racers | 116463 | [116463-shell-racers.json](./116463-shell-racers.json) |
@@ -5805,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutix | 120230 | [120230-shutix.json](./120230-shutix.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
+| Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
 | Shutter Heist | 154065 | [154065-shutter-heist.json](./154065-shutter-heist.json) |
