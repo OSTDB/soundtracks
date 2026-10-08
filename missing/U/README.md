@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Angel | 237450 | [237450-unholy-angel.json](./237450-unholy-angel.json) |
 | Unholy Angel 2 | 243066 | [243066-unholy-angel-2.json](./243066-unholy-angel-2.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
+| UnHolY DisAsTeR | 105350 | [105350-unholy-disaster.json](./105350-unholy-disaster.json) |
 | Unholy Eyeballs | 177945 | [177945-unholy-eyeballs.json](./177945-unholy-eyeballs.json) |
 | Unholy Heights | 16648 | [16648-unholy-heights.json](./16648-unholy-heights.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
