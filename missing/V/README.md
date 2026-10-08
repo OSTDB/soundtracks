@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
 | Vektron Revenge | 33100 | [33100-vektron-revenge.json](./33100-vektron-revenge.json) |
 | VekWars | 135009 | [135009-vekwars.json](./135009-vekwars.json) |
+| Velada StreamHub | 418280 | [418280-velada-streamhub.json](./418280-velada-streamhub.json) |
 | Velana Adventures: Chapter I | 335348 | [335348-velana-adventures-chapter-i.json](./335348-velana-adventures-chapter-i.json) |
 | Velanit: The Forgotten Cottage | 403019 | [403019-velanit-the-forgotten-cottage.json](./403019-velanit-the-forgotten-cottage.json) |
 | Velaster | 212213 | [212213-velaster.json](./212213-velaster.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
+| Villain Boys: Date the Dark Side | 418321 | [418321-villain-boys-date-the-dark-side.json](./418321-villain-boys-date-the-dark-side.json) |
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
