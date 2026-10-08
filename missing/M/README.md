@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Troopers | 105229 | [105229-mars-troopers.json](./105229-mars-troopers.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
+| Mars VR | 91120 | [91120-mars-vr.json](./91120-mars-vr.json) |
 | Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
 | Mars Wars | 117583 | [117583-mars-wars.json](./117583-mars-wars.json) |
 | Mars Xplorer | 239114 | [239114-mars-xplorer.json](./239114-mars-xplorer.json) |
@@ -6397,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Bowling | 21802 | [21802-midnight-bowling.json](./21802-midnight-bowling.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
+| Midnight Calling: Anabel | 91139 | [91139-midnight-calling-anabel.json](./91139-midnight-calling-anabel.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
@@ -7259,6 +7261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
+| MineSweeper Reloaded | 91089 | [91089-minesweeper-reloaded.json](./91089-minesweeper-reloaded.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | MineSweeper Rush | 362387 | [362387-minesweeper-rush.json](./362387-minesweeper-rush.json) |
 | Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
@@ -12405,6 +12408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Twisted Tales | 206625 | [206625-mystery-masters-twisted-tales.json](./206625-mystery-masters-twisted-tales.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
+| Mystery Mosaics 2 | 91090 | [91090-mystery-mosaics-2.json](./91090-mystery-mosaics-2.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
@@ -12412,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Fortune 2 Refine | 187850 | [187850-mystery-of-fortune-2-refine.json](./187850-mystery-of-fortune-2-refine.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
+| Mystery of Haunted Hollow: Point Click Escape Game | 91066 | [91066-mystery-of-haunted-hollow-point-click-escape-game.json](./91066-mystery-of-haunted-hollow-point-click-escape-game.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
