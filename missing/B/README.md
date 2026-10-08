@@ -3444,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
+| Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Legacy | 71165 | [71165-before-the-legacy.json](./71165-before-the-legacy.json) |
 | Before the Moon | 311067 | [311067-before-the-moon.json](./311067-before-the-moon.json) |
@@ -5864,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
 | Blind Quest: The Ivy Queen | 295498 | [295498-blind-quest-the-ivy-queen.json](./295498-blind-quest-the-ivy-queen.json) |
+| Blind Rage | 411498 | [411498-blind-rage.json](./411498-blind-rage.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Sound | 236892 | [236892-blind-sound.json](./236892-blind-sound.json) |
@@ -7648,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
 | Borb the Birb | 135057 | [135057-borb-the-birb.json](./135057-borb-the-birb.json) |
 | Borbo's Quest | 178582 | [178582-borbos-quest.json](./178582-borbos-quest.json) |
+| Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
@@ -7950,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
 | BounciBall | 78293 | [78293-bounciball.json](./78293-bounciball.json) |
 | Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
+| Bouncing Animals | 411509 | [411509-bouncing-animals.json](./411509-bouncing-animals.json) |
 | Bouncing Babies | 377828 | [377828-bouncing-babies.json](./377828-bouncing-babies.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
 | Bouncing Ball | 25865 | [25865-bouncing-ball.json](./25865-bouncing-ball.json) |
