@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Minute To Close | 310005 | [310005-one-minute-to-close.json](./310005-one-minute-to-close.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
+| One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
 | One More Dash | 260105 | [260105-one-more-dash.json](./260105-one-more-dash.json) |
 | One More Dig! | 405576 | [405576-one-more-dig.json](./405576-one-more-dig.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
