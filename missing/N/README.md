@@ -2343,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
+| Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
 | Nibiruman: 2080 | 185503 | [185503-nibiruman-2080.json](./185503-nibiruman-2080.json) |
 | Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
@@ -4539,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyan-Tech | 80157 | [80157-nyan-tech.json](./80157-nyan-tech.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
+| Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
 | Nyanco Mine | 164284 | [164284-nyanco-mine.json](./164284-nyanco-mine.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
