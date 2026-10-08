@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
 | Nightsky Blue Magical Girl | 308912 | [308912-nightsky-blue-magical-girl.json](./308912-nightsky-blue-magical-girl.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
+| Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
