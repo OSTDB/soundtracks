@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
+| Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
@@ -4469,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
+| The Council: Episode 5 - Checkmate | 120976 | [120976-the-council-episode-5-checkmate.json](./120976-the-council-episode-5-checkmate.json) |
 | The Count | 18518 | [18518-the-count.json](./18518-the-count.json) |
 | The Count of Monster Disco | 36428 | [36428-the-count-of-monster-disco.json](./36428-the-count-of-monster-disco.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
@@ -5352,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
+| The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
@@ -11130,6 +11133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's House MV | 111081 | [111081-the-witchs-house-mv.json](./111081-the-witchs-house-mv.json) |
 | The Witch's Isle | 55764 | [55764-the-witchs-isle.json](./55764-the-witchs-isle.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
+| The Witch's Love Diary | 120528 | [120528-the-witchs-love-diary.json](./120528-the-witchs-love-diary.json) |
 | The Witch's Night Watch | 288988 | [288988-the-witchs-night-watch.json](./288988-the-witchs-night-watch.json) |
 | The Witch's Realm | 346583 | [346583-the-witchs-realm.json](./346583-the-witchs-realm.json) |
 | The Witch's Redemption | 298629 | [298629-the-witchs-redemption.json](./298629-the-witchs-redemption.json) |
@@ -11726,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is the Only Level 3 | 141673 | [141673-this-is-the-only-level-3.json](./141673-this-is-the-only-level-3.json) |
+| This Is the Zodiac Speaking | 119502 | [119502-this-is-the-zodiac-speaking.json](./119502-this-is-the-zodiac-speaking.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
