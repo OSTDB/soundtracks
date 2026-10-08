@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathgasm | 352381 | [352381-deathgasm.json](./352381-deathgasm.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
+| DeathGuessr | 419182 | [419182-deathguessr.json](./419182-deathguessr.json) |
 | Deathkeep | 4270 | [4270-deathkeep.json](./4270-deathkeep.json) |
 | Deathlands | 74513 | [74513-deathlands.json](./74513-deathlands.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
@@ -6305,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Boy | 28038 | [28038-dj-boy.json](./28038-dj-boy.json) |
 | DJ Bunny | 389673 | [389673-dj-bunny.json](./389673-dj-bunny.json) |
 | DJ Clicker: World Tour | 264655 | [264655-dj-clicker-world-tour.json](./264655-dj-clicker-world-tour.json) |
+| DJ Fuzz Ball | 419206 | [419206-dj-fuzz-ball.json](./419206-dj-fuzz-ball.json) |
 | DJ Hero | 2679 | [2679-dj-hero.json](./2679-dj-hero.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
