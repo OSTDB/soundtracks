@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obliteracers | 18082 | [18082-obliteracers.json](./18082-obliteracers.json) |
 | Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
+| Obliterate Everything 2 | 416769 | [416769-obliterate-everything-2.json](./416769-obliterate-everything-2.json) |
 | Obliterator | 25563 | [25563-obliterator.json](./25563-obliterator.json) |
 | Oblitus | 17523 | [17523-oblitus.json](./17523-oblitus.json) |
 | Oblitus Casa | 231425 | [231425-oblitus-casa.json](./231425-oblitus-casa.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
+| One Week at Flumpty's Fan-Made | 416762 | [416762-one-week-at-flumptys-fan-made.json](./416762-one-week-at-flumptys-fan-made.json) |
 | One Week at Freddy's | 274102 | [274102-one-week-at-freddys.json](./274102-one-week-at-freddys.json) |
 | One Week At Pan | 148416 | [148416-one-week-at-pan.json](./148416-one-week-at-pan.json) |
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
@@ -2632,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherwar | 190983 | [190983-otherwar.json](./190983-otherwar.json) |
 | Otherwar: Deluxe Edition | 406196 | [406196-otherwar-deluxe-edition.json](./406196-otherwar-deluxe-edition.json) |
 | OtherWordly | 152150 | [152150-otherwordly.json](./152150-otherwordly.json) |
+| Otherworld Convergence: After | 416582 | [416582-otherworld-convergence-after.json](./416582-otherworld-convergence-after.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Aigneis | 235678 | [235678-otherworld-legends-aigneis.json](./235678-otherworld-legends-aigneis.json) |
