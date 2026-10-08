@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hagane: The Final Conflict | 42611 | [42611-hagane-the-final-conflict.json](./42611-hagane-the-final-conflict.json) |
 | Hagar the Horrible | 47229 | [47229-hagar-the-horrible.json](./47229-hagar-the-horrible.json) |
 | Hageransu | 345631 | [345631-hageransu.json](./345631-hageransu.json) |
+| Haggle Simulator | 407370 | [407370-haggle-simulator.json](./407370-haggle-simulator.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
 | Hags Castle | 105824 | [105824-hags-castle.json](./105824-hags-castle.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
+| Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
@@ -806,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hangman: Fun Word Game | 89236 | [89236-hangman-fun-word-game.json](./89236-hangman-fun-word-game.json) |
+| Hangman: Mathematics and More | 407249 | [407249-hangman-mathematics-and-more.json](./407249-hangman-mathematics-and-more.json) |
 | Hangman's Revenge | 67973 | [67973-hangmans-revenge.json](./67973-hangmans-revenge.json) |
 | Hangmaniac | 102619 | [102619-hangmaniac.json](./102619-hangmaniac.json) |
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
