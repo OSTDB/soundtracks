@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakpok | 181214 | [181214-pakpok.json](./181214-pakpok.json) |
 | Paku Paku | 282047 | [282047-paku-paku.json](./282047-paku-paku.json) |
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
+| Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
 | PAL: Shinken Densetsu | 166517 | [166517-pal-shinken-densetsu.json](./166517-pal-shinken-densetsu.json) |
 | Palace Jam 1 | 343389 | [343389-palace-jam-1.json](./343389-palace-jam-1.json) |
