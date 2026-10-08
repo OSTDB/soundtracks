@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
+| Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
 | Lilac: Side Wizard | 397191 | [397191-lilac-side-wizard.json](./397191-lilac-side-wizard.json) |
 | lilGunBois | 101364 | [101364-lilgunbois.json](./101364-lilgunbois.json) |
