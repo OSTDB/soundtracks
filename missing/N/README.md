@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
 | NCAA Basketball 09: March Madness Edition | 47427 | [47427-ncaa-basketball-09-march-madness-edition.json](./47427-ncaa-basketball-09-march-madness-edition.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
+| NCAA College Basketball 2K3 | 4038 | [4038-ncaa-college-basketball-2k3.json](./4038-ncaa-college-basketball-2k3.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
 | NCAA Final Four 2002 | 68262 | [68262-ncaa-final-four-2002.json](./68262-ncaa-final-four-2002.json) |
@@ -2217,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Pro Era | 198225 | [198225-nfl-pro-era.json](./198225-nfl-pro-era.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Pro League Football | 80204 | [80204-nfl-pro-league-football.json](./80204-nfl-pro-league-football.json) |
+| NFL QB Club 2002 | 4040 | [4040-nfl-qb-club-2002.json](./4040-nfl-qb-club-2002.json) |
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
@@ -3223,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Nightmare Deluxe | 313341 | [313341-nintendo-nightmare-deluxe.json](./313341-nintendo-nightmare-deluxe.json) |
 | Nintendo Pocket Football Club | 47645 | [47645-nintendo-pocket-football-club.json](./47645-nintendo-pocket-football-club.json) |
 | Nintendo Presents: Crossword Collection | 23255 | [23255-nintendo-presents-crossword-collection.json](./23255-nintendo-presents-crossword-collection.json) |
+| Nintendo Puzzle Collection | 4049 | [4049-nintendo-puzzle-collection.json](./4049-nintendo-puzzle-collection.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nintendo World Championships 1990 | 9250 | [9250-nintendo-world-championships-1990.json](./9250-nintendo-world-championships-1990.json) |
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
