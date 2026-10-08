@@ -2320,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
+| Hell Apartment | 415448 | [415448-hell-apartment.json](./415448-hell-apartment.json) |
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Garden Lulu | 394461 | [394461-home-garden-lulu.json](./394461-home-garden-lulu.json) |
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
+| Home Invasion | 415491 | [415491-home-invasion.json](./415491-home-invasion.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
 | Home Maid: Owari no Tachi | 70581 | [70581-home-maid-owari-no-tachi.json](./70581-home-maid-owari-no-tachi.json) |
@@ -6706,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugs | 179542 | [179542-hugs.json](./179542-hugs.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
+| Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
@@ -6756,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human's Red Destiny | 410266 | [410266-humans-red-destiny.json](./410266-humans-red-destiny.json) |
 | HumanBloodSandwich | 389406 | [389406-humanbloodsandwich.json](./389406-humanbloodsandwich.json) |
 | Humanelfo: Um Segredo Vai Te Libertar | 338936 | [338936-humanelfo-um-segredo-vai-te-libertar.json](./338936-humanelfo-um-segredo-vai-te-libertar.json) |
+| Humani Project | 415476 | [415476-humani-project.json](./415476-humani-project.json) |
 | Humanitarian Helicopter | 85172 | [85172-humanitarian-helicopter.json](./85172-humanitarian-helicopter.json) |
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanities Legend: Dark Horizon | 217225 | [217225-humanities-legend-dark-horizon.json](./217225-humanities-legend-dark-horizon.json) |
