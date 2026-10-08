@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
+| Fairy Forge | 418282 | [418282-fairy-forge.json](./418282-fairy-forge.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
@@ -7700,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Football | 287218 | [287218-funny-football.json](./287218-funny-football.json) |
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
 | Funny Park | 257452 | [257452-funny-park.json](./257452-funny-park.json) |
+| Funny Park Reawakening | 418253 | [418253-funny-park-reawakening.json](./418253-funny-park-reawakening.json) |
 | Funny Pizza Land | 123615 | [123615-funny-pizza-land.json](./123615-funny-pizza-land.json) |
 | Funny Racer | 291008 | [291008-funny-racer.json](./291008-funny-racer.json) |
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
