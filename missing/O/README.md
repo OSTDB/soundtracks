@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oases | 134393 | [134393-oases.json](./134393-oases.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
+| Oasis | 390094 | [390094-oasis.json](./390094-oasis.json) |
 | Oasis | 821 | [821-oasis.json](./821-oasis.json) |
 | Oasis Bistro | 220154 | [220154-oasis-bistro.json](./220154-oasis-bistro.json) |
 | Oasis Blitz | 319690 | [319690-oasis-blitz.json](./319690-oasis-blitz.json) |
