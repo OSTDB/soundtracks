@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navitune: Dragon Koukaigi | 400947 | [400947-navitune-dragon-koukaigi.json](./400947-navitune-dragon-koukaigi.json) |
 | Navy challenge | 326137 | [326137-navy-challenge.json](./326137-navy-challenge.json) |
 | Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
+| Navy Mission | 406046 | [406046-navy-mission.json](./406046-navy-mission.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy Strike | 69220 | [69220-navy-strike.json](./69220-navy-strike.json) |
