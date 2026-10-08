@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
+| Leave | 419910 | [419910-leave.json](./419910-leave.json) |
 | Leave Home | 91518 | [91518-leave-home.json](./91518-leave-home.json) |
 | Leave Me Alone: A Trip to Hell | 33497 | [33497-leave-me-alone-a-trip-to-hell.json](./33497-leave-me-alone-a-trip-to-hell.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
