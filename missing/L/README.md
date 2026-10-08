@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
+| Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
 | Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
@@ -4612,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
 | Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
 | Lose95 | 227216 | [227216-lose95.json](./227216-lose95.json) |
+| Loser Got Isekai’d: Gotta Conquer the Girls Before Conquering the World | 395466 | [395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json](./395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json) |
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
