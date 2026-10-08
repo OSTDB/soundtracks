@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | Raycast Racer | 185508 | [185508-raycast-racer.json](./185508-raycast-racer.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
+| RayCity | 388167 | [388167-raycity.json](./388167-raycity.json) |
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
