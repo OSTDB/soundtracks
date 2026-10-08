@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCraft Chapter One: The Forgotten | 79289 | [79289-gemcraft-chapter-one-the-forgotten.json](./79289-gemcraft-chapter-one-the-forgotten.json) |
 | GemCraft Chapter Zero: Gem of Eternity | 62003 | [62003-gemcraft-chapter-zero-gem-of-eternity.json](./62003-gemcraft-chapter-zero-gem-of-eternity.json) |
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
+| GemCraft: Frostborn Wrath | 119980 | [119980-gemcraft-frostborn-wrath.json](./119980-gemcraft-frostborn-wrath.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
