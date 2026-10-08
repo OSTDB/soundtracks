@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
 | Zelda II: The Adventure of Link SNES | 377747 | [377747-zelda-ii-the-adventure-of-link-snes.json](./377747-zelda-ii-the-adventure-of-link-snes.json) |
+| Zelda II: The Adventure of Mario | 408731 | [408731-zelda-ii-the-adventure-of-mario.json](./408731-zelda-ii-the-adventure-of-mario.json) |
 | Zelda II: The Nightmare of Ganon | 215167 | [215167-zelda-ii-the-nightmare-of-ganon.json](./215167-zelda-ii-the-nightmare-of-ganon.json) |
 | Zelda III: Hyrule Explorer | 219085 | [219085-zelda-iii-hyrule-explorer.json](./219085-zelda-iii-hyrule-explorer.json) |
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
