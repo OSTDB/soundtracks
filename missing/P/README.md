@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
+| Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
 | Pawker | 359528 | [359528-pawker.json](./359528-pawker.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws & Potions | 337301 | [337301-paws-and-potions.json](./337301-paws-and-potions.json) |
 | Paws and Claws: Pet Vet 2 | 123380 | [123380-paws-and-claws-pet-vet-2.json](./123380-paws-and-claws-pet-vet-2.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
+| Paws Coven | 390076 | [390076-paws-coven.json](./390076-paws-coven.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
@@ -2213,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
 | Peasant Dream: Ascension | 377782 | [377782-peasant-dream-ascension.json](./377782-peasant-dream-ascension.json) |
 | Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
+| Peasant or Rebel? | 390071 | [390071-peasant-or-rebel.json](./390071-peasant-or-rebel.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
@@ -3169,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Stars | 297184 | [297184-phantom-stars.json](./297184-phantom-stars.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
+| Phantom the Huntress | 390092 | [390092-phantom-the-huntress.json](./390092-phantom-the-huntress.json) |
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Tides | 223952 | [223952-phantom-tides.json](./223952-phantom-tides.json) |
 | Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
@@ -6146,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
+| Point Zero: Victoria | 390084 | [390084-point-zero-victoria.json](./390084-point-zero-victoria.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
@@ -6164,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poke-Man | 25149 | [25149-poke-man.json](./25149-poke-man.json) |
 | Poke646 | 140318 | [140318-poke646.json](./140318-poke646.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
+| Pokechill | 390153 | [390153-pokechill.json](./390153-pokechill.json) |
 | Pokecolo | 269069 | [269069-pokecolo.json](./269069-pokecolo.json) |
 | Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
@@ -7363,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
 | Poptropica | 66742 | [66742-poptropica.json](./66742-poptropica.json) |
 | Poptropica Adventures | 47928 | [47928-poptropica-adventures.json](./47928-poptropica-adventures.json) |
+| Poptropica Legacy | 390160 | [390160-poptropica-legacy.json](./390160-poptropica-legacy.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
