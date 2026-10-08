@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
+| One Man Army | 402565 | [402565-one-man-army.json](./402565-one-man-army.json) |
 | One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
 | One Man Army VR | 89397 | [89397-one-man-army-vr.json](./89397-one-man-army-vr.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
