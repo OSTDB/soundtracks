@@ -6065,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
+| Co-omets | 287247 | [287247-co-omets.json](./287247-co-omets.json) |
 | Co-Op Bundle | 311047 | [311047-co-op-bundle.json](./311047-co-op-bundle.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
@@ -10339,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryep | 98751 | [98751-cryep.json](./98751-cryep.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
+| Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Crying Suns | 95032 | [95032-crying-suns.json](./95032-crying-suns.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
