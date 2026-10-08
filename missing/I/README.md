@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Grace | 159717 | [159717-imperial-grace.json](./159717-imperial-grace.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
+| Imperial Kingdoms | 391765 | [391765-imperial-kingdoms.json](./391765-imperial-kingdoms.json) |
 | Imperial SaGa | 11316 | [11316-imperial-saga.json](./11316-imperial-saga.json) |
 | Imperial Saga: Eclipse | 265624 | [265624-imperial-saga-eclipse.json](./265624-imperial-saga-eclipse.json) |
 | Imperial Settlers Roll & Write | 175292 | [175292-imperial-settlers-roll-and-write.json](./175292-imperial-settlers-roll-and-write.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Sports: All-Stars | 195094 | [195094-instant-sports-all-stars.json](./195094-instant-sports-all-stars.json) |
 | Instant Tennis | 108255 | [108255-instant-tennis.json](./108255-instant-tennis.json) |
 | Instant War | 116425 | [116425-instant-war.json](./116425-instant-war.json) |
+| Instantale | 391769 | [391769-instantale.json](./391769-instantale.json) |
 | Instants | 313808 | [313808-instants.json](./313808-instants.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
@@ -3116,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
+| Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
@@ -3737,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
 | Isle of Dinosaurs 2D | 126979 | [126979-isle-of-dinosaurs-2d.json](./126979-isle-of-dinosaurs-2d.json) |
+| Isle of Finbari | 391699 | [391699-isle-of-finbari.json](./391699-isle-of-finbari.json) |
 | Isle of Genesis: Avalon | 175707 | [175707-isle-of-genesis-avalon.json](./175707-isle-of-genesis-avalon.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
 | Isle of Jura Fishing Trip | 242055 | [242055-isle-of-jura-fishing-trip.json](./242055-isle-of-jura-fishing-trip.json) |
