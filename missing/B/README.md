@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Battlezone: Battle Grounds | 238578 | [238578-battlezone-battle-grounds.json](./238578-battlezone-battle-grounds.json) |
 | Battlezone: Evolved | 329636 | [329636-battlezone-evolved.json](./329636-battlezone-evolved.json) |
+| Battlezone: Gold Edition | 97044 | [97044-battlezone-gold-edition.json](./97044-battlezone-gold-edition.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
 | Battlic | 341091 | [341091-battlic.json](./341091-battlic.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binding Tower | 271785 | [271785-binding-tower.json](./271785-binding-tower.json) |
 | Bindmancer | 254006 | [254006-bindmancer.json](./254006-bindmancer.json) |
 | Bing Bong Blippo | 274436 | [274436-bing-bong-blippo.json](./274436-bing-bong-blippo.json) |
+| Bing Bong XL | 96956 | [96956-bing-bong-xl.json](./96956-bing-bong-xl.json) |
 | Bing Chilling | 371333 | [371333-bing-chilling.json](./371333-bing-chilling.json) |
 | Bing in Wonderland | 216705 | [216705-bing-in-wonderland.json](./216705-bing-in-wonderland.json) |
 | Bing In Wonderland: Deluxe Edition | 291676 | [291676-bing-in-wonderland-deluxe-edition.json](./291676-bing-in-wonderland-deluxe-edition.json) |
@@ -8093,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxer's Road | 61437 | [61437-boxers-road.json](./61437-boxers-road.json) |
 | Boxer's Road 2: The Real | 61438 | [61438-boxers-road-2-the-real.json](./61438-boxers-road-2-the-real.json) |
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
+| Boxes Inc. | 97231 | [97231-boxes-inc.json](./97231-boxes-inc.json) |
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
 | BoxesWithGuns | 20198 | [20198-boxeswithguns.json](./20198-boxeswithguns.json) |
@@ -8743,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew & Brawl: Gnomes vs. Dwarves | 140530 | [140530-brew-and-brawl-gnomes-vs-dwarves.json](./140530-brew-and-brawl-gnomes-vs-dwarves.json) |
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
 | Brew & Defend | 412495 | [412495-brew-and-defend.json](./412495-brew-and-defend.json) |
+| Brew Town | 96583 | [96583-brew-town.json](./96583-brew-town.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
@@ -10286,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustin-Out | 64946 | [64946-bustin-out.json](./64946-bustin-out.json) |
 | Bustin' the Bastille | 166670 | [166670-bustin-the-bastille.json](./166670-bustin-the-bastille.json) |
 | Bustina and the Search for Booty | 352189 | [352189-bustina-and-the-search-for-booty.json](./352189-bustina-and-the-search-for-booty.json) |
+| Bustories | 96690 | [96690-bustories.json](./96690-bustories.json) |
 | Bustout | 42153 | [42153-bustout.json](./42153-bustout.json) |
 | Busty Balls Brick Breaker | 175882 | [175882-busty-balls-brick-breaker.json](./175882-busty-balls-brick-breaker.json) |
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
