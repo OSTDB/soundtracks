@@ -7184,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of the Survivors | 333647 | [333647-the-last-of-the-survivors.json](./333647-the-last-of-the-survivors.json) |
 | The Last of Them | 223417 | [223417-the-last-of-them.json](./223417-the-last-of-them.json) |
 | The Last of Them | 339800 | [339800-the-last-of-them.json](./339800-the-last-of-them.json) |
+| The Last of Touch | 406057 | [406057-the-last-of-touch.json](./406057-the-last-of-touch.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last of Us Online | 386719 | [386719-the-last-of-us-online.json](./386719-the-last-of-us-online.json) |
@@ -12429,6 +12430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Toys | 364033 | [364033-tidy-toys.json](./364033-tidy-toys.json) |
+| Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
@@ -19508,6 +19510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two of Swords | 248805 | [248805-two-of-swords.json](./248805-two-of-swords.json) |
 | Two of Us | 286777 | [286777-two-of-us.json](./286777-two-of-us.json) |
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
+| Two Pipes 2 | 406047 | [406047-two-pipes-2.json](./406047-two-pipes-2.json) |
+| Two Pipes 3 | 406049 | [406049-two-pipes-3.json](./406049-two-pipes-3.json) |
 | Two Point Campus: Brainy Bundle | 276941 | [276941-two-point-campus-brainy-bundle.json](./276941-two-point-campus-brainy-bundle.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Campus: Medical School | 260716 | [260716-two-point-campus-medical-school.json](./260716-two-point-campus-medical-school.json) |
