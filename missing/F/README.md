@@ -5494,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Secrets: Alien Town - Collector's Edition | 53035 | [53035-forbidden-secrets-alien-town-collectors-edition.json](./53035-forbidden-secrets-alien-town-collectors-edition.json) |
 | Forbidden Siren 2 | 14411 | [14411-forbidden-siren-2.json](./14411-forbidden-siren-2.json) |
 | Forbidden Solitaire | 330176 | [330176-forbidden-solitaire.json](./330176-forbidden-solitaire.json) |
+| Forbidden Solitarie | 399264 | [399264-forbidden-solitarie.json](./399264-forbidden-solitarie.json) |
 | Forbidden Tapes | 260623 | [260623-forbidden-tapes.json](./260623-forbidden-tapes.json) |
 | Forbidden Terror: Board Game | 375448 | [375448-forbidden-terror-board-game.json](./375448-forbidden-terror-board-game.json) |
 | Forbidden Trip | 238443 | [238443-forbidden-trip.json](./238443-forbidden-trip.json) |
