@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecaster 2 | 386231 | [386231-battlecaster-2.json](./386231-battlecaster-2.json) |
 | Battlechat | 276245 | [276245-battlechat.json](./276245-battlechat.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
+| BattleCommand! | 21903 | [21903-battlecommand.json](./21903-battlecommand.json) |
 | Battlecon: Online - Season 1 | 174140 | [174140-battlecon-online-season-1.json](./174140-battlecon-online-season-1.json) |
 | Battlecon: Online - Season 2 | 174141 | [174141-battlecon-online-season-2.json](./174141-battlecon-online-season-2.json) |
 | BattleCore Arena | 65825 | [65825-battlecore-arena.json](./65825-battlecore-arena.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground Collection 1 | 77287 | [77287-battleground-collection-1.json](./77287-battleground-collection-1.json) |
 | Battleground Collection 2 | 79377 | [79377-battleground-collection-2.json](./79377-battleground-collection-2.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
+| Battleground Z | 21889 | [21889-battleground-z.json](./21889-battleground-z.json) |
 | Battleground: Bulge-Ardennes | 22614 | [22614-battleground-bulge-ardennes.json](./22614-battleground-bulge-ardennes.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
@@ -7407,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
+| Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
