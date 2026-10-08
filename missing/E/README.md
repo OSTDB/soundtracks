@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
 | Encounters | 311181 | [311181-encounters.json](./311181-encounters.json) |
 | Encourage | 113142 | [113142-encourage.json](./113142-encourage.json) |
+| Encrafted | 411546 | [411546-encrafted.json](./411546-encrafted.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
 | Encroaching Shadows | 401053 | [401053-encroaching-shadows.json](./401053-encroaching-shadows.json) |
 | Encrypted | 184063 | [184063-encrypted.json](./184063-encrypted.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
+| Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
 | EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | EreaDrone: FPV Simulator | 112216 | [112216-ereadrone-fpv-simulator.json](./112216-ereadrone-fpv-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
