@@ -11118,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
+| Muppled | 410077 | [410077-muppled.json](./410077-muppled.json) |
 | Muppy The Bunny: The Danger of Wishes | 117608 | [117608-muppy-the-bunny-the-danger-of-wishes.json](./117608-muppy-the-bunny-the-danger-of-wishes.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
