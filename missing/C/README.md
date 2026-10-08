@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic FC Club Football | 267883 | [267883-celtic-fc-club-football.json](./267883-celtic-fc-club-football.json) |
 | Celtic FC Club Football 2005 | 267902 | [267902-celtic-fc-club-football-2005.json](./267902-celtic-fc-club-football-2005.json) |
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
+| Celtic Kings: Rage of War | 11271 | [11271-celtic-kings-rage-of-war.json](./11271-celtic-kings-rage-of-war.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
@@ -10942,6 +10943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
+| Cultures 2: The Gates of Asgard | 11380 | [11380-cultures-2-the-gates-of-asgard.json](./11380-cultures-2-the-gates-of-asgard.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Abenteuerbox | 85764 | [85764-cultures-die-abenteuerbox.json](./85764-cultures-die-abenteuerbox.json) |
