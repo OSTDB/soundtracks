@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Batman: Vengeance | 5740 | [5740-batman-vengeance.json](./5740-batman-vengeance.json) |
+| BatMUD | 126128 | [126128-batmud.json](./126128-batmud.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
@@ -8408,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
+| Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
 | Bravery | 211141 | [211141-bravery.json](./211141-bravery.json) |
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
