@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
+| Pegs X Stickers | 399929 | [399929-pegs-x-stickers.json](./399929-pegs-x-stickers.json) |
 | Pegshot: Vendetta | 346743 | [346743-pegshot-vendetta.json](./346743-pegshot-vendetta.json) |
 | PegSoli+ | 211650 | [211650-pegsoli.json](./211650-pegsoli.json) |
 | Pegture | 389722 | [389722-pegture.json](./389722-pegture.json) |
@@ -10668,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Robot in the Dungeon | 358465 | [358465-puzzling-robot-in-the-dungeon.json](./358465-puzzling-robot-in-the-dungeon.json) |
 | Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
 | Puzzlink | 283379 | [283379-puzzlink.json](./283379-puzzlink.json) |
+| Puzzlor | 399884 | [399884-puzzlor.json](./399884-puzzlor.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
