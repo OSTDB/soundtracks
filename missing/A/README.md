@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
+| After the Stream Went Dark | 396010 | [396010-after-the-stream-went-dark.json](./396010-after-the-stream-went-dark.json) |
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Iijima: Good Island Cafe | 45446 | [45446-ai-iijima-good-island-cafe.json](./45446-ai-iijima-good-island-cafe.json) |
 | AI is home | 413840 | [413840-ai-is-home.json](./413840-ai-is-home.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
+| Ai Kiss FD: Nanase After | 396021 | [396021-ai-kiss-fd-nanase-after.json](./396021-ai-kiss-fd-nanase-after.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -3645,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
+| Alien Deathstorm | 396023 | [396023-alien-deathstorm.json](./396023-alien-deathstorm.json) |
 | Alien Decimation | 211164 | [211164-alien-decimation.json](./211164-alien-decimation.json) |
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
 | Alien Destroyer | 146183 | [146183-alien-destroyer.json](./146183-alien-destroyer.json) |
@@ -8229,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
+| Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
 | Artificial Entanglement | 192768 | [192768-artificial-entanglement.json](./192768-artificial-entanglement.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Fashionista: Summer Collection | 336694 | [336694-artificial-fashionista-summer-collection.json](./336694-artificial-fashionista-summer-collection.json) |
