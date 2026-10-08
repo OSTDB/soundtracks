@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
+| A Few of Us: Operation Nightshade | 388171 | [388171-a-few-of-us-operation-nightshade.json](./388171-a-few-of-us-operation-nightshade.json) |
 | A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
 | A Gorilla vs. 100 Men Simulator | 359567 | [359567-a-gorilla-vs-100-men-simulator.json](./359567-a-gorilla-vs-100-men-simulator.json) |
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
+| A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
 | A Grim Chase | 407948 | [407948-a-grim-chase.json](./407948-a-grim-chase.json) |
@@ -8992,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
 | Astraeus Odyssey | 365307 | [365307-astraeus-odyssey.json](./365307-astraeus-odyssey.json) |
 | Astragali | 330861 | [330861-astragali.json](./330861-astragali.json) |
+| Astragaloi | 388160 | [388160-astragaloi.json](./388160-astragaloi.json) |
 | Astraia Land | 311188 | [311188-astraia-land.json](./311188-astraia-land.json) |
 | Astral | 111566 | [111566-astral.json](./111566-astral.json) |
 | Astral | 14273 | [14273-astral.json](./14273-astral.json) |
@@ -9278,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
 | At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
+| At Night: The Nurse | 388279 | [388279-at-night-the-nurse.json](./388279-at-night-the-nurse.json) |
 | At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
