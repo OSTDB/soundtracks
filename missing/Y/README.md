@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
+| YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
 | Yelling At Cats: The Game | 395727 | [395727-yelling-at-cats-the-game.json](./395727-yelling-at-cats-the-game.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | YumeCore | 81845 | [81845-yumecore.json](./81845-yumecore.json) |
+| Yumeiro Patisserie: My Sweets Cooking | 394778 | [394778-yumeiro-patisserie-my-sweets-cooking.json](./394778-yumeiro-patisserie-my-sweets-cooking.json) |
 | Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | Yumemidori Nostalgia | 147272 | [147272-yumemidori-nostalgia.json](./147272-yumemidori-nostalgia.json) |
 | Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
