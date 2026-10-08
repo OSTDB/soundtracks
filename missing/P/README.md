@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
+| PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegshot: Vendetta | 346743 | [346743-pegshot-vendetta.json](./346743-pegshot-vendetta.json) |
 | PegSoli+ | 211650 | [211650-pegsoli.json](./211650-pegsoli.json) |
@@ -3823,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikot: Stream Chat Games | 141738 | [141738-pikot-stream-chat-games.json](./141738-pikot-stream-chat-games.json) |
 | Piksels | 225287 | [225287-piksels.json](./225287-piksels.json) |
 | Pikubo | 302681 | [302681-pikubo.json](./302681-pikubo.json) |
+| Pikuniku 2 | 405455 | [405455-pikuniku-2.json](./405455-pikuniku-2.json) |
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
 | PikuPiku | 349972 | [349972-pikupiku.json](./349972-pikupiku.json) |
 | Pilam Sky | 38503 | [38503-pilam-sky.json](./38503-pilam-sky.json) |
