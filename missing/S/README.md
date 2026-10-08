@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
 | Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
+| Salvaged | 32142 | [32142-salvaged.json](./32142-salvaged.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
+| Senza Peso | 32225 | [32225-senza-peso.json](./32225-senza-peso.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
 | Seoul Apocalypse | 256454 | [256454-seoul-apocalypse.json](./256454-seoul-apocalypse.json) |
@@ -4340,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes5 | 55682 | [55682-shapes5.json](./55682-shapes5.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
+| ShapeShifter | 32217 | [32217-shapeshifter.json](./32217-shapeshifter.json) |
 | ShapeShifter | 344569 | [344569-shapeshifter.json](./344569-shapeshifter.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
 | ShapeSim | 106492 | [106492-shapesim.json](./106492-shapesim.json) |
@@ -4366,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
+| Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
@@ -5272,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Giant Robots and Wallrun | 293688 | [293688-shoot-giant-robots-and-wallrun.json](./293688-shoot-giant-robots-and-wallrun.json) |
 | Shoot Girl | 113022 | [113022-shoot-girl.json](./113022-shoot-girl.json) |
 | Shoot Hit | 107103 | [107103-shoot-hit.json](./107103-shoot-hit.json) |
+| Shoot Mania VR: Fun Zombies | 32213 | [32213-shoot-mania-vr-fun-zombies.json](./32213-shoot-mania-vr-fun-zombies.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
@@ -16405,6 +16410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
 | Street Legal | 73757 | [73757-street-legal.json](./73757-street-legal.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
+| Street Legal Racing: Redline v2.3.1 | 32221 | [32221-street-legal-racing-redline-v2-3-1.json](./32221-street-legal-racing-redline-v2-3-1.json) |
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
