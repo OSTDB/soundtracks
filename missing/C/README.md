@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
+| Call to Arms | 17432 | [17432-call-to-arms.json](./17432-call-to-arms.json) |
 | Call to Arms: Gates of Hell - Liberation | 261780 | [261780-call-to-arms-gates-of-hell-liberation.json](./261780-call-to-arms-gates-of-hell-liberation.json) |
 | Call to Arms: Gates of Hell - Ostfront | 211196 | [211196-call-to-arms-gates-of-hell-ostfront.json](./211196-call-to-arms-gates-of-hell-ostfront.json) |
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
@@ -4258,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of Rebels: Uprising | 75651 | [75651-choice-of-rebels-uprising.json](./75651-choice-of-rebels-uprising.json) |
 | Choice of Robots | 13093 | [13093-choice-of-robots.json](./13093-choice-of-robots.json) |
+| Choice of the Deathless | 17744 | [17744-choice-of-the-deathless.json](./17744-choice-of-the-deathless.json) |
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
@@ -5044,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
+| Cities: Skylines - Snowfall | 16602 | [16602-cities-skylines-snowfall.json](./16602-cities-skylines-snowfall.json) |
 | Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
 | Cities: Skylines - Sunset Harbor | 142107 | [142107-cities-skylines-sunset-harbor.json](./142107-cities-skylines-sunset-harbor.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
@@ -10722,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
 | Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
+| Cubemen | 16346 | [16346-cubemen.json](./16346-cubemen.json) |
 | Cubenen Gardens: Befriend | 316148 | [316148-cubenen-gardens-befriend.json](./316148-cubenen-gardens-befriend.json) |
 | Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
