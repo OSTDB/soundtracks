@@ -4266,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
+| Chocolate | 54825 | [54825-chocolate.json](./54825-chocolate.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
 | Chocolate Castle | 50445 | [50445-chocolate-castle.json](./50445-chocolate-castle.json) |
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
@@ -6115,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | CMYW | 34607 | [34607-cmyw.json](./34607-cmyw.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
+| Co-Co Corn Mafia | 54838 | [54838-co-co-corn-mafia.json](./54838-co-co-corn-mafia.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
 | Co-omets | 287247 | [287247-co-omets.json](./287247-co-omets.json) |
 | Co-Op Bundle | 311047 | [311047-co-op-bundle.json](./311047-co-op-bundle.json) |
@@ -6483,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Shell | 118150 | [118150-cold-shell.json](./118150-cold-shell.json) |
 | Cold Shift | 302481 | [302481-cold-shift.json](./302481-cold-shift.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
+| Cold Space | 54826 | [54826-cold-space.json](./54826-cold-space.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Steel | 373518 | [373518-cold-steel.json](./373518-cold-steel.json) |
 | Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
@@ -7051,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
+| Combat Raccoon | 54857 | [54857-combat-raccoon.json](./54857-combat-raccoon.json) |
 | Combat Racers | 33461 | [33461-combat-racers.json](./33461-combat-racers.json) |
 | Combat Rally | 326213 | [326213-combat-rally.json](./326213-combat-rally.json) |
 | Combat Reloaded | 98242 | [98242-combat-reloaded.json](./98242-combat-reloaded.json) |
