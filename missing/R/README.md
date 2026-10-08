@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
+| REM Hemispheres | 408701 | [408701-rem-hemispheres.json](./408701-rem-hemispheres.json) |
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
@@ -6392,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
+| Room.txt | 408703 | [408703-room-txt.json](./408703-room-txt.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
@@ -6595,6 +6597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
+| Rouge's Flush | 408728 | [408728-rouges-flush.json](./408728-rouges-flush.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
