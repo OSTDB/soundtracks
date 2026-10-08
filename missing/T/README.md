@@ -15779,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
 | Touhou Heardle | 205617 | [205617-touhou-heardle.json](./205617-touhou-heardle.json) |
 | Touhou Heisatsu Yuugi | 294407 | [294407-touhou-heisatsu-yuugi.json](./294407-touhou-heisatsu-yuugi.json) |
+| Touhou Hero of Ice Fairy: Immortal Phoenix And Lunarian Princess | 402554 | [402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json](./402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json) |
 | Touhou Hisouten: Scarlet Weather Rhapsody | 27160 | [27160-touhou-hisouten-scarlet-weather-rhapsody.json](./27160-touhou-hisouten-scarlet-weather-rhapsody.json) |
 | Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe | 27157 | [27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json](./27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json) |
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
