@@ -2639,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Toll | 74762 | [74762-death-toll.json](./74762-death-toll.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
+| Death Tractor | 35115 | [35115-death-tractor.json](./35115-death-tractor.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
+| DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
 | Dinotopia: The Sunstone Odyssey | 3879 | [3879-dinotopia-the-sunstone-odyssey.json](./3879-dinotopia-the-sunstone-odyssey.json) |
