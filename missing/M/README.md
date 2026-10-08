@@ -5435,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
 | Merge Monastery | 389110 | [389110-merge-monastery.json](./389110-merge-monastery.json) |
 | Merge Numbers | 329197 | [329197-merge-numbers.json](./329197-merge-numbers.json) |
+| Merge Orbz | 401855 | [401855-merge-orbz.json](./401855-merge-orbz.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
@@ -6849,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
+| Millionaire: The Stock Market Simulation | 401794 | [401794-millionaire-the-stock-market-simulation.json](./401794-millionaire-the-stock-market-simulation.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
 | Millipede / Super Breakout / Lunar Lander | 78289 | [78289-millipede-super-breakout-lunar-lander.json](./78289-millipede-super-breakout-lunar-lander.json) |
@@ -8876,6 +8878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
 | Monkey Gems | 366443 | [366443-monkey-gems.json](./366443-monkey-gems.json) |
 | Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
+| Monkey GO Happy 5 | 401787 | [401787-monkey-go-happy-5.json](./401787-monkey-go-happy-5.json) |
+| Monkey GO Happy 6 | 401800 | [401800-monkey-go-happy-6.json](./401800-monkey-go-happy-6.json) |
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
@@ -9695,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
+| Moonlit | 401862 | [401862-moonlit.json](./401862-moonlit.json) |
 | Moonlit Blessed | 383549 | [383549-moonlit-blessed.json](./383549-moonlit-blessed.json) |
 | Moonlit District | 257572 | [257572-moonlit-district.json](./257572-moonlit-district.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
