@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War of the Wormholes: Janitor Duty | 397991 | [397991-war-of-the-wormholes-janitor-duty.json](./397991-war-of-the-wormholes-janitor-duty.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
 | War of Thrones | 245263 | [245263-war-of-thrones.json](./245263-war-of-thrones.json) |
 | War of Warship | 338398 | [338398-war-of-warship.json](./338398-war-of-warship.json) |
@@ -3780,6 +3781,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
 | Witch It | 30408 | [30408-witch-it.json](./30408-witch-it.json) |
+| Witch Machine | 398023 | [398023-witch-machine.json](./398023-witch-machine.json) |
+| Witch Machine: Spilled Vessel | 398025 | [398025-witch-machine-spilled-vessel.json](./398025-witch-machine-spilled-vessel.json) |
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
