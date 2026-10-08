@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
+| Yoyo Blade | 419983 | [419983-yoyo-blade.json](./419983-yoyo-blade.json) |
 | Yoyo Fighter | 339992 | [339992-yoyo-fighter.json](./339992-yoyo-fighter.json) |
 | Yoyo Punk | 349375 | [349375-yoyo-punk.json](./349375-yoyo-punk.json) |
 | Yoyo's Puzzle Park | 44718 | [44718-yoyos-puzzle-park.json](./44718-yoyos-puzzle-park.json) |
