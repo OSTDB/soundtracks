@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.U.T.T. | 400324 | [400324-o-u-t-t.json](./400324-o-u-t-t.json) |
 | O.W.L Projekt | 309527 | [309527-o-w-l-projekt.json](./309527-o-w-l-projekt.json) |
 | O.W.L.: One Wave Length | 341579 | [341579-o-w-l-one-wave-length.json](./341579-o-w-l-one-wave-length.json) |
+| O'Fox life | 74577 | [74577-ofox-life.json](./74577-ofox-life.json) |
 | O'Leary Manager 2000 | 50550 | [50550-oleary-manager-2000.json](./50550-oleary-manager-2000.json) |
 | O'Riley's Mine | 23971 | [23971-orileys-mine.json](./23971-orileys-mine.json) |
 | O2 | 407435 | [407435-o2.json](./407435-o2.json) |
