@@ -4447,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cafe 21 | 232065 | [232065-word-cafe-21.json](./232065-word-cafe-21.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
+| Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
 | Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
