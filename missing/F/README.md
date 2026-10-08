@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Superstars | 304276 | [304276-fifa-superstars.json](./304276-fifa-superstars.json) |
 | FIFA World | 7433 | [7433-fifa-world.json](./7433-fifa-world.json) |
 | FIFA World Cup Germany 2006 | 240285 | [240285-fifa-world-cup-germany-2006.json](./240285-fifa-world-cup-germany-2006.json) |
+| FIFA World Cup Germany 2006 | 49300 | [49300-fifa-world-cup-germany-2006.json](./49300-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi and the Flowertots: Fifi's Garden Party | 336176 | [336176-fifi-and-the-flowertots-fifis-garden-party.json](./336176-fifi-and-the-flowertots-fifis-garden-party.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying over the Penguin's Hollow | 413134 | [413134-flying-over-the-penguins-hollow.json](./413134-flying-over-the-penguins-hollow.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
+| Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
 | Flying Rock: Arena | 41927 | [41927-flying-rock-arena.json](./41927-flying-rock-arena.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
@@ -5220,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Girls: Dream Team | 102374 | [102374-football-girls-dream-team.json](./102374-football-girls-dream-team.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
+| Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
