@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qi Shen Nong Gui | 277960 | [277960-qi-shen-nong-gui.json](./277960-qi-shen-nong-gui.json) |
 | Qian-Shan Village | 119626 | [119626-qian-shan-village.json](./119626-qian-shan-village.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
+| Qianhu Miao Village in Guizhou Province | 392854 | [392854-qianhu-miao-village-in-guizhou-province.json](./392854-qianhu-miao-village-in-guizhou-province.json) |
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qianling Mainland | 220744 | [220744-qianling-mainland.json](./220744-qianling-mainland.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
