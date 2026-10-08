@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Juanito Arcade Mayhem | 36629 | [36629-juanito-arcade-mayhem.json](./36629-juanito-arcade-mayhem.json) |
+| Jubaku | 422123 | [422123-jubaku.json](./422123-jubaku.json) |
 | Jubeat | 79960 | [79960-jubeat.json](./79960-jubeat.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
 | Jubeat Copious | 84438 | [84438-jubeat-copious.json](./84438-jubeat-copious.json) |
