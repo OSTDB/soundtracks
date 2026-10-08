@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechTroid | 83804 | [83804-mechtroid.json](./83804-mechtroid.json) |
 | MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
+| MechWarrior 2: Arcade Combat Edition | 19992 | [19992-mechwarrior-2-arcade-combat-edition.json](./19992-mechwarrior-2-arcade-combat-edition.json) |
 | MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: Mercenaries | 785 | [785-mechwarrior-2-mercenaries.json](./785-mechwarrior-2-mercenaries.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
@@ -7343,6 +7344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
+| Mini Ninjas Adventures | 20234 | [20234-mini-ninjas-adventures.json](./20234-mini-ninjas-adventures.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
@@ -9134,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
+| Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
@@ -11243,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Maker | 100265 | [100265-music-maker.json](./100265-music-maker.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
+| Music of the Spheres | 20107 | [20107-music-of-the-spheres.json](./20107-music-of-the-spheres.json) |
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
 | Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
