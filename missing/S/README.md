@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
 | Scary Evil Horror | 320927 | [320927-scary-evil-horror.json](./320927-scary-evil-horror.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
+| Scary Game 2: The Mad Shepherd | 401144 | [401144-scary-game-2-the-mad-shepherd.json](./401144-scary-game-2-the-mad-shepherd.json) |
 | Scary Girl | 16284 | [16284-scary-girl.json](./16284-scary-girl.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
 | Scary Gourmet | 177933 | [177933-scary-gourmet.json](./177933-scary-gourmet.json) |
@@ -13567,6 +13568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqdef | 194297 | [194297-sqdef.json](./194297-sqdef.json) |
 | SQGT | 332647 | [332647-sqgt.json](./332647-sqgt.json) |
 | Sqiek | 78903 | [78903-sqiek.json](./78903-sqiek.json) |
+| SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
@@ -15817,6 +15819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
+| Sticky Feet | 401182 | [401182-sticky-feet.json](./401182-sticky-feet.json) |
 | Sticky Friends | 184368 | [184368-sticky-friends.json](./184368-sticky-friends.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
 | Sticky Linky | 53673 | [53673-sticky-linky.json](./53673-sticky-linky.json) |
