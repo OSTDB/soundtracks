@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
 | Tessera | 333113 | [333113-tessera.json](./333113-tessera.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
+| Tesserae | 71921 | [71921-tesserae.json](./71921-tesserae.json) |
 | Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
@@ -3699,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale IV: Barrows Deep - Ultimate Edition | 102801 | [102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json](./102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json) |
 | The Bard's Tale IV: Director's Cut | 120645 | [120645-the-bards-tale-iv-directors-cut.json](./120645-the-bards-tale-iv-directors-cut.json) |
 | The Bard's Tale IV: Director's Cut - Deluxe Edition | 124816 | [124816-the-bards-tale-iv-directors-cut-deluxe-edition.json](./124816-the-bards-tale-iv-directors-cut-deluxe-edition.json) |
+| The Bard's Tale Trilogy | 71800 | [71800-the-bards-tale-trilogy.json](./71800-the-bards-tale-trilogy.json) |
 | The Bard's Tale: Remastered and Resnarkled | 313094 | [313094-the-bards-tale-remastered-and-resnarkled.json](./313094-the-bards-tale-remastered-and-resnarkled.json) |
 | The Bard's Tale: Tales of the Unknown | 394232 | [394232-the-bards-tale-tales-of-the-unknown.json](./394232-the-bards-tale-tales-of-the-unknown.json) |
 | The Bardic Rites | 58856 | [58856-the-bardic-rites.json](./58856-the-bardic-rites.json) |
@@ -8033,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Milk Lake | 211775 | [211775-the-milk-lake.json](./211775-the-milk-lake.json) |
 | The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
+| The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
 | The Mind of Moai | 185482 | [185482-the-mind-of-moai.json](./185482-the-mind-of-moai.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
@@ -12174,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
+| Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
 | Ticket to Ride: India | 154472 | [154472-ticket-to-ride-india.json](./154472-ticket-to-ride-india.json) |
