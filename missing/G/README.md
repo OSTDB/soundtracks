@@ -2486,7 +2486,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
+| Gin Rummy Royale | 88576 | [88576-gin-rummy-royale.json](./88576-gin-rummy-royale.json) |
 | Gin Rummy Ultra | 87640 | [87640-gin-rummy-ultra.json](./87640-gin-rummy-ultra.json) |
+| Gin Rummy: Casino Card Game | 88612 | [88612-gin-rummy-casino-card-game.json](./88612-gin-rummy-casino-card-game.json) |
 | Gin: The Silver Wind | 275729 | [275729-gin-the-silver-wind.json](./275729-gin-the-silver-wind.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | GINAB: Logic and Puzzle Collection in a 3D Style | 83863 | [83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json](./83863-ginab-logic-and-puzzle-collection-in-a-3d-style.json) |
@@ -3633,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
+| Gold Strike | 88650 | [88650-gold-strike.json](./88650-gold-strike.json) |
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
@@ -6314,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
 | Gunship III: Combat Flight Simulator - Strike Package | 88624 | [88624-gunship-iii-combat-flight-simulator-strike-package.json](./88624-gunship-iii-combat-flight-simulator-strike-package.json) |
+| Gunship III: Combat Flight Simulator - U.S. Navy | 88609 | [88609-gunship-iii-combat-flight-simulator-u-s-navy.json](./88609-gunship-iii-combat-flight-simulator-u-s-navy.json) |
 | Gunship III: Flight Simulator - Strike Package | 90846 | [90846-gunship-iii-flight-simulator-strike-package.json](./90846-gunship-iii-flight-simulator-strike-package.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
