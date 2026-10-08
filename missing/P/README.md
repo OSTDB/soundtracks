@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
 | Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
+| Paver: Tidy Up Together | 414817 | [414817-paver-tidy-up-together.json](./414817-paver-tidy-up-together.json) |
 | Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
@@ -5126,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
 | PKR Let's Play | 62804 | [62804-pkr-lets-play.json](./62804-pkr-lets-play.json) |
+| PKXD Runner | 414839 | [414839-pkxd-runner.json](./414839-pkxd-runner.json) |
 | Pl¢tfarmer | 307036 | [307036-pl-tfarmer.json](./307036-pl-tfarmer.json) |
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
 | Pla-toon 2 | 420543 | [420543-pla-toon-2.json](./420543-pla-toon-2.json) |
@@ -5867,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Bomberman Blast Heroes | 232511 | [232511-pocket-bomberman-blast-heroes.json](./232511-pocket-bomberman-blast-heroes.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
+| Pocket Bravery MD | 414847 | [414847-pocket-bravery-md.json](./414847-pocket-bravery-md.json) |
 | Pocket Breeder: Oguri Cap II-sei | 284458 | [284458-pocket-breeder-oguri-cap-ii-sei.json](./284458-pocket-breeder-oguri-cap-ii-sei.json) |
 | Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
@@ -6512,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
 | Pokemon Supreme Fire | 327263 | [327263-pokemon-supreme-fire.json](./327263-pokemon-supreme-fire.json) |
+| Pokémon Survivor Burst | 414864 | [414864-pokemon-survivor-burst.json](./414864-pokemon-survivor-burst.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
