@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | Wetware | 62828 | [62828-wetware.json](./62828-wetware.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
+| Weyrwood | 112923 | [112923-weyrwood.json](./112923-weyrwood.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
@@ -5092,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
+| Worlds Collide | 113017 | [113017-worlds-collide.json](./113017-worlds-collide.json) |
 | Worlds Explorers | 398332 | [398332-worlds-explorers.json](./398332-worlds-explorers.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
