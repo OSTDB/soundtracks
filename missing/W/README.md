@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
 | Willy Wonka & The Chocolate Factory | 130786 | [130786-willy-wonka-and-the-chocolate-factory.json](./130786-willy-wonka-and-the-chocolate-factory.json) |
+| Willy-Nilly Knight | 29101 | [29101-willy-nilly-knight.json](./29101-willy-nilly-knight.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
 | Willy's Horrorland | 233565 | [233565-willys-horrorland.json](./233565-willys-horrorland.json) |
 | Willy's Wonderland | 233044 | [233044-willys-wonderland.json](./233044-willys-wonderland.json) |
