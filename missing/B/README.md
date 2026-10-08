@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit-cremental: Fishistry Color | 387693 | [387693-bit-cremental-fishistry-color.json](./387693-bit-cremental-fishistry-color.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
 | Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
+| Bit.Trip Complete | 4719 | [4719-bit-trip-complete.json](./4719-bit-trip-complete.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
 | Bit.Trip Void 2 | 323786 | [323786-bit-trip-void-2.json](./323786-bit-trip-void-2.json) |
@@ -5548,6 +5549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
+| Blast Works: Build, Trade, Destroy | 4720 | [4720-blast-works-build-trade-destroy.json](./4720-blast-works-build-trade-destroy.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
@@ -8402,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Tales | 188953 | [188953-brave-tales.json](./188953-brave-tales.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
+| Brave: A Warrior's Tale | 4729 | [4729-brave-a-warriors-tale.json](./4729-brave-a-warriors-tale.json) |
 | Brave: The Search for Spirit Dancer | 20689 | [20689-brave-the-search-for-spirit-dancer.json](./20689-brave-the-search-for-spirit-dancer.json) |
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
 | Braveland | 8999 | [8999-braveland.json](./8999-braveland.json) |
@@ -10245,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-a-Move 4 | 6826 | [6826-bust-a-move-4.json](./6826-bust-a-move-4.json) |
 | Bust-A-Move Again | 146217 | [146217-bust-a-move-again.json](./146217-bust-a-move-again.json) |
 | Bust-A-Move Again | 267008 | [267008-bust-a-move-again.json](./267008-bust-a-move-again.json) |
+| Bust-A-Move Bash! | 4734 | [4734-bust-a-move-bash.json](./4734-bust-a-move-bash.json) |
 | Bust-a-Move DS | 22572 | [22572-bust-a-move-ds.json](./22572-bust-a-move-ds.json) |
 | Bust-A-Move Frenzy | 138682 | [138682-bust-a-move-frenzy.json](./138682-bust-a-move-frenzy.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
