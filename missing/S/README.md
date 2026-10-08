@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Pro Edition | 399827 | [399827-s-n-i-p-e-r-hunter-scope-pro-edition.json](./399827-s-n-i-p-e-r-hunter-scope-pro-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Supreme Edition | 324369 | [324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json](./324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope Hostile Territory | 378966 | [378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json](./378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json) |
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
+| Scary Shawarma Shop | 410837 | [410837-scary-shawarma-shop.json](./410837-scary-shawarma-shop.json) |
 | Scary Spider Train Survival 1 | 245370 | [245370-scary-spider-train-survival-1.json](./245370-scary-spider-train-survival-1.json) |
 | Scary Stickmen | 386963 | [386963-scary-stickmen.json](./386963-scary-stickmen.json) |
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
@@ -13545,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
+| Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
 | Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
 | Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
@@ -16330,6 +16333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Raiders | 125893 | [125893-stream-raiders.json](./125893-stream-raiders.json) |
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
+| Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
@@ -18256,6 +18260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
+| Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
