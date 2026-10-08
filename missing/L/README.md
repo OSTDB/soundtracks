@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
 | Lotus: The Self-Made Witch | 226674 | [226674-lotus-the-self-made-witch.json](./226674-lotus-the-self-made-witch.json) |
 | LotusMeditation | 403193 | [403193-lotusmeditation.json](./403193-lotusmeditation.json) |
+| Lotwick Hill | 422109 | [422109-lotwick-hill.json](./422109-lotwick-hill.json) |
 | Lotzo and The Ray of Light | 391251 | [391251-lotzo-and-the-ray-of-light.json](./391251-lotzo-and-the-ray-of-light.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
@@ -5155,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
+| Love X Love | 422083 | [422083-love-x-love.json](./422083-love-x-love.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
 | Love You More | 361862 | [361862-love-you-more.json](./361862-love-you-more.json) |
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
