@@ -5145,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
+| Black Hat | 90892 | [90892-black-hat.json](./90892-black-hat.json) |
 | Black Hat Cooperative | 32019 | [32019-black-hat-cooperative.json](./32019-black-hat-cooperative.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
@@ -5286,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
 | BlackBay Asylum | 10048 | [10048-blackbay-asylum.json](./10048-blackbay-asylum.json) |
 | Blackbeard the Cursed Jungle | 123526 | [123526-blackbeard-the-cursed-jungle.json](./123526-blackbeard-the-cursed-jungle.json) |
+| Blackbeard's Billions | 90877 | [90877-blackbeards-billions.json](./90877-blackbeards-billions.json) |
 | Blackbeard's Cove | 86577 | [86577-blackbeards-cove.json](./86577-blackbeards-cove.json) |
 | Blackberry | 123952 | [123952-blackberry.json](./123952-blackberry.json) |
 | BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
@@ -5335,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
+| Blackjack Royale | 90986 | [90986-blackjack-royale.json](./90986-blackjack-royale.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack Simulator 2025 | 359000 | [359000-blackjack-simulator-2025.json](./359000-blackjack-simulator-2025.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
@@ -5681,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Angels: Squadrons of WWII | 3124 | [3124-blazing-angels-squadrons-of-wwii.json](./3124-blazing-angels-squadrons-of-wwii.json) |
 | Blazing Aries | 153904 | [153904-blazing-aries.json](./153904-blazing-aries.json) |
 | Blazing Chrome | 55042 | [55042-blazing-chrome.json](./55042-blazing-chrome.json) |
+| Blazing Core | 91140 | [91140-blazing-core.json](./91140-blazing-core.json) |
 | Blazing Dragon | 258502 | [258502-blazing-dragon.json](./258502-blazing-dragon.json) |
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
@@ -7850,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Ball Blitz | 272382 | [272382-bounce-ball-blitz.json](./272382-bounce-ball-blitz.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
+| Bounce Forever! | 91085 | [91085-bounce-forever.json](./91085-bounce-forever.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
 | Bounce It | 363033 | [363033-bounce-it.json](./363033-bounce-it.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
