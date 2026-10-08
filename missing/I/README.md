@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Woke up in an RPG | 415871 | [415871-i-woke-up-in-an-rpg.json](./415871-i-woke-up-in-an-rpg.json) |
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
+| I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
 | I-Dolls | 360764 | [360764-i-dolls.json](./360764-i-dolls.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Gumball Machine | 365835 | [365835-idle-gumball-machine.json](./365835-idle-gumball-machine.json) |
 | Idle Guy | 352244 | [352244-idle-guy.json](./352244-idle-guy.json) |
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
+| Idle Hacking: An Inaction RPG | 397396 | [397396-idle-hacking-an-inaction-rpg.json](./397396-idle-hacking-an-inaction-rpg.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
@@ -2568,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
+| Innbc Starfighter | 397394 | [397394-innbc-starfighter.json](./397394-innbc-starfighter.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Innecto | 87097 | [87097-innecto.json](./87097-innecto.json) |
 | Inner | 121487 | [121487-inner.json](./121487-inner.json) |
