@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
+| Rapid Puppet | 391122 | [391122-rapid-puppet.json](./391122-rapid-puppet.json) |
 | Rapid Racing | 107746 | [107746-rapid-racing.json](./107746-rapid-racing.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
@@ -2890,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
+| Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
