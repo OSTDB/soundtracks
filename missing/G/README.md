@@ -2207,6 +2207,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Marine Shooter Pro | 87536 | [87536-ghost-marine-shooter-pro.json](./87536-ghost-marine-shooter-pro.json) |
 | Ghost Master | 726 | [726-ghost-master.json](./726-ghost-master.json) |
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
+| Ghost Master: Resurrection - Between Worlds | 396128 | [396128-ghost-master-resurrection-between-worlds.json](./396128-ghost-master-resurrection-between-worlds.json) |
+| Ghost Master: Resurrection - Blood & Stone | 396129 | [396129-ghost-master-resurrection-blood-and-stone.json](./396129-ghost-master-resurrection-blood-and-stone.json) |
+| Ghost Master: Resurrection - Frightful Night | 396130 | [396130-ghost-master-resurrection-frightful-night.json](./396130-ghost-master-resurrection-frightful-night.json) |
+| Ghost Master: Resurrection - Relics of the Past | 396127 | [396127-ghost-master-resurrection-relics-of-the-past.json](./396127-ghost-master-resurrection-relics-of-the-past.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Maze | 250889 | [250889-ghost-maze.json](./250889-ghost-maze.json) |
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
@@ -3817,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
+| Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
 | Golf Blitz | 114534 | [114534-golf-blitz.json](./114534-golf-blitz.json) |
@@ -4205,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
+| Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
 | Gorilla Slot Infinity | 326704 | [326704-gorilla-slot-infinity.json](./326704-gorilla-slot-infinity.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
