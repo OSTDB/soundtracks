@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of Song | 287342 | [287342-saga-of-song.json](./287342-saga-of-song.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
+| Saga of the North Wind | 30630 | [30630-saga-of-the-north-wind.json](./30630-saga-of-the-north-wind.json) |
 | Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
 | Saga of Weil | 265094 | [265094-saga-of-weil.json](./265094-saga-of-weil.json) |
 | Saga of Yurina | 373196 | [373196-saga-of-yurina.json](./373196-saga-of-yurina.json) |
@@ -14484,6 +14485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
+| Stardrop | 30634 | [30634-stardrop.json](./30634-stardrop.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Starduino | 228389 | [228389-starduino.json](./228389-starduino.json) |
 | Stardust | 12774 | [12774-stardust.json](./12774-stardust.json) |
