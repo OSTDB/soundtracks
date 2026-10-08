@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Mission Breakout | 343406 | [343406-z-mission-breakout.json](./343406-z-mission-breakout.json) |
 | Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
 | Z Ops: DeadZone | 337764 | [337764-z-ops-deadzone.json](./337764-z-ops-deadzone.json) |
+| Z Route: Redemption | 395510 | [395510-z-route-redemption.json](./395510-z-route-redemption.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z Virus: Outbreak | 362983 | [362983-z-virus-outbreak.json](./362983-z-virus-outbreak.json) |
 | Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
@@ -69,6 +70,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Aerobatics Table | 158490 | [158490-zaccaria-pinball-aerobatics-table.json](./158490-zaccaria-pinball-aerobatics-table.json) |
 | Zaccaria Pinball: Blackbelt Deluxe Pinball Table | 349924 | [349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json](./349924-zaccaria-pinball-blackbelt-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Blackbelt Table | 158494 | [158494-zaccaria-pinball-blackbelt-table.json](./158494-zaccaria-pinball-blackbelt-table.json) |
+| Zaccaria Pinball: Blood West Table Pack | 395458 | [395458-zaccaria-pinball-blood-west-table-pack.json](./395458-zaccaria-pinball-blood-west-table-pack.json) |
+| Zaccaria Pinball: Chernobylite Table Pack | 395457 | [395457-zaccaria-pinball-chernobylite-table-pack.json](./395457-zaccaria-pinball-chernobylite-table-pack.json) |
 | Zaccaria Pinball: Clown Deluxe Pinball Table | 349914 | [349914-zaccaria-pinball-clown-deluxe-pinball-table.json](./349914-zaccaria-pinball-clown-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Clown Table | 158492 | [158492-zaccaria-pinball-clown-table.json](./158492-zaccaria-pinball-clown-table.json) |
 | Zaccaria Pinball: Deluxe Table Pack 2 | 411006 | [411006-zaccaria-pinball-deluxe-table-pack-2.json](./411006-zaccaria-pinball-deluxe-table-pack-2.json) |
@@ -76,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Deluxe Tables Pack 1 | 208453 | [208453-zaccaria-pinball-deluxe-tables-pack-1.json](./208453-zaccaria-pinball-deluxe-tables-pack-1.json) |
 | Zaccaria Pinball: Earth Wind Fire Deluxe Pinball Table | 349922 | [349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json](./349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Electro-Mechanical Table Pack 2 | 411008 | [411008-zaccaria-pinball-electro-mechanical-table-pack-2.json](./411008-zaccaria-pinball-electro-mechanical-table-pack-2.json) |
+| Zaccaria Pinball: Fallen Aces Table Pack | 395459 | [395459-zaccaria-pinball-fallen-aces-table-pack.json](./395459-zaccaria-pinball-fallen-aces-table-pack.json) |
 | Zaccaria Pinball: Future World Deluxe Pinball Table | 349923 | [349923-zaccaria-pinball-future-world-deluxe-pinball-table.json](./349923-zaccaria-pinball-future-world-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Locomotion 2018 Table | 158489 | [158489-zaccaria-pinball-locomotion-2018-table.json](./158489-zaccaria-pinball-locomotion-2018-table.json) |
 | Zaccaria Pinball: Magic Castle Deluxe Pinball Table | 349915 | [349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json](./349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json) |
