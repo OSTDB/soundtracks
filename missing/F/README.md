@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
+| Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
+| Feeding Yuyuko | 412226 | [412226-feeding-yuyuko.json](./412226-feeding-yuyuko.json) |
 | Feedn' Chloe | 206051 | [206051-feedn-chloe.json](./206051-feedn-chloe.json) |
 | FeedVid Live | 214433 | [214433-feedvid-live.json](./214433-feedvid-live.json) |
 | Feeet | 150242 | [150242-feeet.json](./150242-feeet.json) |
@@ -6734,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
+| Frenfield | 412196 | [412196-frenfield.json](./412196-frenfield.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
 | Frenzic | 66739 | [66739-frenzic.json](./66739-frenzic.json) |
