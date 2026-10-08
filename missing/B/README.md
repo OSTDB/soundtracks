@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
+| Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
@@ -3396,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
+| Beerserker: The Stolen Brew | 420553 | [420553-beerserker-the-stolen-brew.json](./420553-beerserker-the-stolen-brew.json) |
 | Bees vs. Ants | 175164 | [175164-bees-vs-ants.json](./175164-bees-vs-ants.json) |
 | Beeswing | 35357 | [35357-beeswing.json](./35357-beeswing.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
@@ -5455,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
+| Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
 | Blade Master | 10458 | [10458-blade-master.json](./10458-blade-master.json) |
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
@@ -6813,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
+| Blutkapelle | 420555 | [420555-blutkapelle.json](./420555-blutkapelle.json) |
 | Blym | 108914 | [108914-blym.json](./108914-blym.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
@@ -7737,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
 | Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
+| Boss Key | 420585 | [420585-boss-key.json](./420585-boss-key.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
