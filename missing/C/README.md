@@ -5734,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
+| Clear Rain | 387047 | [387047-clear-rain.json](./387047-clear-rain.json) |
 | Clear Sky 1941 | 95553 | [95553-clear-sky-1941.json](./95553-clear-sky-1941.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
@@ -6764,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
 | Colony | 211667 | [211667-colony.json](./211667-colony.json) |
 | Colony | 327447 | [327447-colony.json](./327447-colony.json) |
+| Colony | 387083 | [387083-colony.json](./387083-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
@@ -7154,6 +7156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
+| Combat Instinct | 387086 | [387086-combat-instinct.json](./387086-combat-instinct.json) |
+| Combat Instinct II | 387087 | [387087-combat-instinct-ii.json](./387087-combat-instinct-ii.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
