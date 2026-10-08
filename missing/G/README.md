@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
+| Goblinfall: Defend Da Fort | 419939 | [419939-goblinfall-defend-da-fort.json](./419939-goblinfall-defend-da-fort.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God(s) | 128433 | [128433-god-s.json](./128433-god-s.json) |
 | God5 | 174763 | [174763-god5.json](./174763-god5.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
+| Godblade | 419986 | [419986-godblade.json](./419986-godblade.json) |
 | Godbreakers | 358248 | [358248-godbreakers.json](./358248-godbreakers.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
 | Goddess Detective 2 | 255125 | [255125-goddess-detective-2.json](./255125-goddess-detective-2.json) |
