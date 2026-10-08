@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raz | 107758 | [107758-raz.json](./107758-raz.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
+| Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | Razgovor Online | 253878 | [253878-razgovor-online.json](./253878-razgovor-online.json) |
@@ -3928,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewind | 33621 | [33621-rewind.json](./33621-rewind.json) |
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
+| Rewind Night | 390698 | [390698-rewind-night.json](./390698-rewind-night.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
