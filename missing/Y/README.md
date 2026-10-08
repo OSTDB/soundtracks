@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Cozy Unboxing | 414538 | [414538-your-cozy-unboxing.json](./414538-your-cozy-unboxing.json) |
 | Your Crown Is Mine | 332580 | [332580-your-crown-is-mine.json](./332580-your-crown-is-mine.json) |
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
+| Your Debt Is Paid | 422098 | [422098-your-debt-is-paid.json](./422098-your-debt-is-paid.json) |
 | Your Digital Cookbook | 365738 | [365738-your-digital-cookbook.json](./365738-your-digital-cookbook.json) |
 | Your Doodles Are Bugged! | 50875 | [50875-your-doodles-are-bugged.json](./50875-your-doodles-are-bugged.json) |
 | Your Dry Delight | 108341 | [108341-your-dry-delight.json](./108341-your-dry-delight.json) |
