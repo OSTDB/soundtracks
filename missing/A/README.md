@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Trainer Asylum | 361917 | [361917-aim-trainer-asylum.json](./361917-aim-trainer-asylum.json) |
 | Aim Trainer Gauntlet | 337802 | [337802-aim-trainer-gauntlet.json](./337802-aim-trainer-gauntlet.json) |
 | Aim Trainer Pro | 81623 | [81623-aim-trainer-pro.json](./81623-aim-trainer-pro.json) |
+| Aim Trainer X | 403223 | [403223-aim-trainer-x.json](./403223-aim-trainer-x.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aima | 60507 | [60507-aima.json](./60507-aima.json) |
@@ -6777,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
+| Arai-san Mansion Exploration Game: Incarnation | 402949 | [402949-arai-san-mansion-exploration-game-incarnation.json](./402949-arai-san-mansion-exploration-game-incarnation.json) |
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
 | Arakion | 64487 | [64487-arakion.json](./64487-arakion.json) |
