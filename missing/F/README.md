@@ -5934,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
 | Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
+| Fort Boyard: The Challenge | 388268 | [388268-fort-boyard-the-challenge.json](./388268-fort-boyard-the-challenge.json) |
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
 | Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
@@ -6563,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
 | Frantic Freddy | 40894 | [40894-frantic-freddy.json](./40894-frantic-freddy.json) |
 | Frantic Freighter | 32022 | [32022-frantic-freighter.json](./32022-frantic-freighter.json) |
+| Frantic Frigates | 388194 | [388194-frantic-frigates.json](./388194-frantic-frigates.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
