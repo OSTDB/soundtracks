@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
+| Bear Horror | 408726 | [408726-bear-horror.json](./408726-bear-horror.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
@@ -4287,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
+| Big Golden Rock | 408713 | [408713-big-golden-rock.json](./408713-big-golden-rock.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
@@ -6688,6 +6690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
+| Blue | 408640 | [408640-blue.json](./408640-blue.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
