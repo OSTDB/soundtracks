@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Space 54 | 316618 | [316618-vampire-survivors-space-54.json](./316618-vampire-survivors-space-54.json) |
 | Vampire Survivors: The Coop | 339631 | [339631-vampire-survivors-the-coop.json](./339631-vampire-survivors-the-coop.json) |
 | Vampire Survivors: The Darkasso | 316619 | [316619-vampire-survivors-the-darkasso.json](./316619-vampire-survivors-the-darkasso.json) |
+| Vampire Survivors: Tides of the Foscari | 243440 | [243440-vampire-survivors-tides-of-the-foscari.json](./243440-vampire-survivors-tides-of-the-foscari.json) |
 | Vampire Survivors: Whiteout | 272828 | [272828-vampire-survivors-whiteout.json](./272828-vampire-survivors-whiteout.json) |
 | Vampire Survivors+ | 357404 | [357404-vampire-survivors.json](./357404-vampire-survivors.json) |
 | Vampire Sweetie | 203779 | [203779-vampire-sweetie.json](./203779-vampire-sweetie.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
 | Verjaded | 179512 | [179512-verjaded.json](./179512-verjaded.json) |
+| Verlet Swing | 97333 | [97333-verlet-swing.json](./97333-verlet-swing.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
 | Verlore Drome van Slange Bundle | 331496 | [331496-verlore-drome-van-slange-bundle.json](./331496-verlore-drome-van-slange-bundle.json) |
