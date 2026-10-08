@@ -7051,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger TV Arcade | 220091 | [220091-frogger-tv-arcade.json](./220091-frogger-tv-arcade.json) |
 | Frogger: Ancient Shadow | 3924 | [3924-frogger-ancient-shadow.json](./3924-frogger-ancient-shadow.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
+| Frogger: Walkable City | 408851 | [408851-frogger-walkable-city.json](./408851-frogger-walkable-city.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
 | Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
