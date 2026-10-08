@@ -2947,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Boxing Turbo | 14837 | [14837-beast-boxing-turbo.json](./14837-beast-boxing-turbo.json) |
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
 | Beast Brawlers | 97293 | [97293-beast-brawlers.json](./97293-beast-brawlers.json) |
+| Beast Breaker | 145426 | [145426-beast-breaker.json](./145426-beast-breaker.json) |
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
 | Beast Busters Featuring KoF | 60771 | [60771-beast-busters-featuring-kof.json](./60771-beast-busters-featuring-kof.json) |
 | Beast Busters: Second Nightmare | 28137 | [28137-beast-busters-second-nightmare.json](./28137-beast-busters-second-nightmare.json) |
@@ -4841,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Birthseederia | 30098 | [30098-birthseederia.json](./30098-birthseederia.json) |
 | Birushana Senki: Ichijuu no Kaze | 225540 | [225540-birushana-senki-ichijuu-no-kaze.json](./225540-birushana-senki-ichijuu-no-kaze.json) |
+| Birushana: Rising Flower of Genpei | 145094 | [145094-birushana-rising-flower-of-genpei.json](./145094-birushana-rising-flower-of-genpei.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
@@ -5352,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | BlackSmith HIT | 31917 | [31917-blacksmith-hit.json](./31917-blacksmith-hit.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
+| Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
@@ -5667,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Maidens | 374309 | [374309-blazing-maidens.json](./374309-blazing-maidens.json) |
+| Blazing Rangers | 143052 | [143052-blazing-rangers.json](./143052-blazing-rangers.json) |
 | Blazing Sails | 114776 | [114776-blazing-sails.json](./114776-blazing-sails.json) |
 | Blazing Sails: Barbary Corsair Pack | 226260 | [226260-blazing-sails-barbary-corsair-pack.json](./226260-blazing-sails-barbary-corsair-pack.json) |
 | Blazing Sails: Conquistador Pack | 226261 | [226261-blazing-sails-conquistador-pack.json](./226261-blazing-sails-conquistador-pack.json) |
