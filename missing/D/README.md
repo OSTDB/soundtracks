@@ -9935,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Fred in the Cell | 320915 | [320915-drunk-fred-in-the-cell.json](./320915-drunk-fred-in-the-cell.json) |
 | Drunk Games | 203940 | [203940-drunk-games.json](./203940-drunk-games.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
+| Drunk n Puke | 394135 | [394135-drunk-n-puke.json](./394135-drunk-n-puke.json) |
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
@@ -10432,6 +10433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
+| Dungeon Defender | 394105 | [394105-dungeon-defender.json](./394105-dungeon-defender.json) |
 | Dungeon Defenders II | 3202 | [3202-dungeon-defenders-ii.json](./3202-dungeon-defenders-ii.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
 | Dungeon Defenders Ultimate Collection | 341661 | [341661-dungeon-defenders-ultimate-collection.json](./341661-dungeon-defenders-ultimate-collection.json) |
@@ -11151,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dyo | 83936 | [83936-dyo.json](./83936-dyo.json) |
 | Dyping Escape | 339959 | [339959-dyping-escape.json](./339959-dyping-escape.json) |
+| Dyrocraft 2: Reborn | 394107 | [394107-dyrocraft-2-reborn.json](./394107-dyrocraft-2-reborn.json) |
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
