@@ -6547,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
+| CoinClave | 390607 | [390607-coinclave.json](./390607-coinclave.json) |
 | Coincremental | 358992 | [358992-coincremental.json](./358992-coincremental.json) |
 | Coindle | 376642 | [376642-coindle.json](./376642-coindle.json) |
 | Coinflate!! | 345135 | [345135-coinflate.json](./345135-coinflate.json) |
@@ -9071,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
+| Cozy Puzzles | 390702 | [390702-cozy-puzzles.json](./390702-cozy-puzzles.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
 | Cozy Sanctuary | 337692 | [337692-cozy-sanctuary.json](./337692-cozy-sanctuary.json) |
 | Cozy Solitaire | 339330 | [339330-cozy-solitaire.json](./339330-cozy-solitaire.json) |
