@@ -6819,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
 | RPG Maker II | 43556 | [43556-rpg-maker-ii.json](./43556-rpg-maker-ii.json) |
+| RPG Maker U2U | 402546 | [402546-rpg-maker-u2u.json](./402546-rpg-maker-u2u.json) |
 | RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
