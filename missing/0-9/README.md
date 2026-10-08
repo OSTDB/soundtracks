@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
+| 007 First Light: Deluxe Edition | 405431 | [405431-007-first-light-deluxe-edition.json](./405431-007-first-light-deluxe-edition.json) |
 | 007 Legends | 1649 | [1649-007-legends.json](./1649-007-legends.json) |
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
 | 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 em 1: Game 18 | 245236 | [245236-20-em-1-game-18.json](./245236-20-em-1-game-18.json) |
 | 20 em 1: Game 19 | 245237 | [245237-20-em-1-game-19.json](./245237-20-em-1-game-19.json) |
 | 20 em 1: Game 20 | 245238 | [245238-20-em-1-game-20.json](./245238-20-em-1-game-20.json) |
+| 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
