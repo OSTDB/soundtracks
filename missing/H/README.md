@@ -3059,6 +3059,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
 | Hentai Senpai: Cyberpussy 2069 | 244392 | [244392-hentai-senpai-cyberpussy-2069.json](./244392-hentai-senpai-cyberpussy-2069.json) |
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
+| Hentai Senpai: Hot Summer Beach Resort | 389623 | [389623-hentai-senpai-hot-summer-beach-resort.json](./389623-hentai-senpai-hot-summer-beach-resort.json) |
+| Hentai Senpai: Kairaku No Maid Service | 389625 | [389625-hentai-senpai-kairaku-no-maid-service.json](./389625-hentai-senpai-kairaku-no-maid-service.json) |
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
@@ -3705,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
 | Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
 | Hexa Buzzle | 105845 | [105845-hexa-buzzle.json](./105845-hexa-buzzle.json) |
+| Hexa Castle | 389535 | [389535-hexa-castle.json](./389535-hexa-castle.json) |
 | Hexa Faction | 57044 | [57044-hexa-faction.json](./57044-hexa-faction.json) |
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
@@ -7463,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
+| Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
