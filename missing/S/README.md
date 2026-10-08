@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
+| Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
 | SCAMP 2025 | 376048 | [376048-scamp-2025.json](./376048-scamp-2025.json) |
@@ -12790,6 +12791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
+| Spirit Legends: Time for Change | 422082 | [422082-spirit-legends-time-for-change.json](./422082-spirit-legends-time-for-change.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirit Lords | 59784 | [59784-spirit-lords.json](./59784-spirit-lords.json) |
 | Spirit Magician | 376663 | [376663-spirit-magician.json](./376663-spirit-magician.json) |
@@ -17574,6 +17576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
+| Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
 | Sunday Funday: The Ride | 11166 | [11166-sunday-funday-the-ride.json](./11166-sunday-funday-the-ride.json) |
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
