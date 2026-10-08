@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamui | 10983 | [10983-kamui.json](./10983-kamui.json) |
 | Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
+| Kana Mind | 387571 | [387571-kana-mind.json](./387571-kana-mind.json) |
 | Kana No Mado | 364728 | [364728-kana-no-mado.json](./364728-kana-no-mado.json) |
 | Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Satellites | 18570 | [18570-killer-satellites.json](./18570-killer-satellites.json) |
 | Killer Score | 83160 | [83160-killer-score.json](./83160-killer-score.json) |
 | Killer Shark | 18203 | [18203-killer-shark.json](./18203-killer-shark.json) |
+| Killer Sudoku | 387569 | [387569-killer-sudoku.json](./387569-killer-sudoku.json) |
 | Killer Trait | 333190 | [333190-killer-trait.json](./333190-killer-trait.json) |
 | Killer Watt | 25864 | [25864-killer-watt.json](./25864-killer-watt.json) |
 | Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
@@ -3222,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kost | 303618 | [303618-kost.json](./303618-kost.json) |
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
+| Kotamon: My Sis Found a Super-Rare Card in Her Cereal Box, so I Became a Garbage Man to Find the Entire Collection and Earn $1,000,000 | 387714 | [387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json](./387714-kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1-000-000.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
