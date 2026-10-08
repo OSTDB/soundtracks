@@ -5508,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
 | Blades or Bets | 380647 | [380647-blades-or-bets.json](./380647-blades-or-bets.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
+| BladeShield | 30566 | [30566-bladeshield.json](./30566-bladeshield.json) |
 | Bladesong | 254662 | [254662-bladesong.json](./254662-bladesong.json) |
 | Bladestorm: The Hundred Years' War | 6919 | [6919-bladestorm-the-hundred-years-war.json](./6919-bladestorm-the-hundred-years-war.json) |
 | Blaine Bananatree | 97458 | [97458-blaine-bananatree.json](./97458-blaine-bananatree.json) |
