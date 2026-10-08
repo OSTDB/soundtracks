@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
 | Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
+| UniBall | 34331 | [34331-uniball.json](./34331-uniball.json) |
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Uniboom: War of Unicorns | 164921 | [164921-uniboom-war-of-unicorns.json](./164921-uniboom-war-of-unicorns.json) |
 | Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
