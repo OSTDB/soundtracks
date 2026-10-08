@@ -5044,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Empire | 151104 | [151104-pizza-empire.json](./151104-pizza-empire.json) |
 | Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
+| Pizza Express | 35121 | [35121-pizza-express.json](./35121-pizza-express.json) |
 | Pizza Fighter Deluxe | 90391 | [90391-pizza-fighter-deluxe.json](./90391-pizza-fighter-deluxe.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Hero | 262899 | [262899-pizza-hero.json](./262899-pizza-hero.json) |
@@ -8317,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
+| Prismatica | 35033 | [35033-prismatica.json](./35033-prismatica.json) |
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
@@ -9782,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
 | Pump It Up: Exceed Portable | 60087 | [60087-pump-it-up-exceed-portable.json](./60087-pump-it-up-exceed-portable.json) |
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
+| Pump-Action Captain | 35053 | [35053-pump-action-captain.json](./35053-pump-action-captain.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
