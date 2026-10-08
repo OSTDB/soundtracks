@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Got Compagnie! | 263124 | [263124-we-got-compagnie.json](./263124-we-got-compagnie.json) |
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
+| We Happy Few: They Came From Below | 116682 | [116682-we-happy-few-they-came-from-below.json](./116682-we-happy-few-they-came-from-below.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
 | We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
@@ -4152,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
 | Wonder Boy Returns | 31404 | [31404-wonder-boy-returns.json](./31404-wonder-boy-returns.json) |
+| Wonder Boy Returns Remix | 115993 | [115993-wonder-boy-returns-remix.json](./115993-wonder-boy-returns-remix.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
 | Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
