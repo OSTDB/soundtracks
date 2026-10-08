@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
+| Last Pirates: Die Together | 397402 | [397402-last-pirates-die-together.json](./397402-last-pirates-die-together.json) |
 | Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
 | Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
@@ -5841,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
 | Lurker Legends | 162425 | [162425-lurker-legends.json](./162425-lurker-legends.json) |
 | Lurking | 176866 | [176866-lurking.json](./176866-lurking.json) |
+| Lurking | 397408 | [397408-lurking.json](./397408-lurking.json) |
 | Lurking Danger | 337745 | [337745-lurking-danger.json](./337745-lurking-danger.json) |
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
