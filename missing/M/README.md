@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Spot | 40365 | [40365-magical-spot.json](./40365-magical-spot.json) |
 | Magical Spot II | 40364 | [40364-magical-spot-ii.json](./40364-magical-spot-ii.json) |
 | Magical Squadron | 263691 | [263691-magical-squadron.json](./263691-magical-squadron.json) |
+| Magical Squash | 74578 | [74578-magical-squash.json](./74578-magical-squash.json) |
 | Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
 | Magical Starsign | 15839 | [15839-magical-starsign.json](./15839-magical-starsign.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
@@ -6504,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midnight Train: New Moon | 401047 | [401047-midnight-train-new-moon.json](./401047-midnight-train-new-moon.json) |
 | Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
+| Midnight Ultra | 74592 | [74592-midnight-ultra.json](./74592-midnight-ultra.json) |
 | Midnight Wanderers: Quest for the Chariot | 361330 | [361330-midnight-wanderers-quest-for-the-chariot.json](./361330-midnight-wanderers-quest-for-the-chariot.json) |
 | Midnight Watch | 310097 | [310097-midnight-watch.json](./310097-midnight-watch.json) |
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
