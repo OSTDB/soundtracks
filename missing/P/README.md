@@ -2501,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
 | Perceptum | 386968 | [386968-perceptum.json](./386968-perceptum.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
+| Perchang | 58242 | [58242-perchang.json](./58242-perchang.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percussion Master | 382980 | [382980-percussion-master.json](./382980-percussion-master.json) |
@@ -9867,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
 | Pure Farming 17 | 36997 | [36997-pure-farming-17.json](./36997-pure-farming-17.json) |
+| Pure Farming 2018 | 58066 | [58066-pure-farming-2018.json](./58066-pure-farming-2018.json) |
 | Pure Football 2018 | 81926 | [81926-pure-football-2018.json](./81926-pure-football-2018.json) |
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
 | Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
