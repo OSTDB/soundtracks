@@ -4352,6 +4352,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Celeste - "Resurrections" | 352269 | [352269-rift-of-the-necrodancer-celeste-resurrections.json](./352269-rift-of-the-necrodancer-celeste-resurrections.json) |
 | Rift of the NecroDancer: Celeste - "Scattered and Lost" | 352267 | [352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json](./352267-rift-of-the-necrodancer-celeste-scattered-and-lost.json) |
 | Rift of the NecroDancer: Celeste Music Pack | 401754 | [401754-rift-of-the-necrodancer-celeste-music-pack.json](./401754-rift-of-the-necrodancer-celeste-music-pack.json) |
+| Rift of the NecroDancer: Friday Night Funkin' - "Blammed" - Kawai Sprite | 401881 | [401881-rift-of-the-necrodancer-friday-night-funkin-blammed-kawai-sprite.json](./401881-rift-of-the-necrodancer-friday-night-funkin-blammed-kawai-sprite.json) |
+| Rift of the NecroDancer: Friday Night Funkin' - "Dad Battle" - Kawai Sprite | 401875 | [401875-rift-of-the-necrodancer-friday-night-funkin-dad-battle-kawai-sprite.json](./401875-rift-of-the-necrodancer-friday-night-funkin-dad-battle-kawai-sprite.json) |
+| Rift of the NecroDancer: Friday Night Funkin' - "Darnell" - Kawai Sprite | 401878 | [401878-rift-of-the-necrodancer-friday-night-funkin-darnell-kawai-sprite.json](./401878-rift-of-the-necrodancer-friday-night-funkin-darnell-kawai-sprite.json) |
+| Rift of the NecroDancer: Friday Night Funkin' - "Senpai": Kawai Sprite | 401880 | [401880-rift-of-the-necrodancer-friday-night-funkin-senpai-kawai-sprite.json](./401880-rift-of-the-necrodancer-friday-night-funkin-senpai-kawai-sprite.json) |
+| Rift of the NecroDancer: Friday Night Funkin' - "Stress" - Kawai Sprite | 401877 | [401877-rift-of-the-necrodancer-friday-night-funkin-stress-kawai-sprite.json](./401877-rift-of-the-necrodancer-friday-night-funkin-stress-kawai-sprite.json) |
+| Rift of the NecroDancer: Friday Night Funkin' - "Ugh": Kawai Sprite | 401876 | [401876-rift-of-the-necrodancer-friday-night-funkin-ugh-kawai-sprite.json](./401876-rift-of-the-necrodancer-friday-night-funkin-ugh-kawai-sprite.json) |
 | Rift of the NecroDancer: Hatsune Miku - "Intergalactic Bound" | 352279 | [352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json](./352279-rift-of-the-necrodancer-hatsune-miku-intergalactic-bound.json) |
 | Rift of the NecroDancer: Hatsune Miku - "Just 1dB Louder" | 352278 | [352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json](./352278-rift-of-the-necrodancer-hatsune-miku-just-1db-louder.json) |
 | Rift of the NecroDancer: Hatsune Miku - "M@gical Cure! Love Shot!" | 352276 | [352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json](./352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json) |
@@ -4378,8 +4384,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Shovel Knight - "La Danse Macabre (Lich Yard)" - Jake Kaufman | 375967 | [375967-rift-of-the-necrodancer-shovel-knight-la-danse-macabre-lich-yard-jake-kaufman.json](./375967-rift-of-the-necrodancer-shovel-knight-la-danse-macabre-lich-yard-jake-kaufman.json) |
 | Rift of the NecroDancer: Shovel Knight - "Main Theme" - Jake Kaufman | 375963 | [375963-rift-of-the-necrodancer-shovel-knight-main-theme-jake-kaufman.json](./375963-rift-of-the-necrodancer-shovel-knight-main-theme-jake-kaufman.json) |
 | Rift of the NecroDancer: Shovel Knight - "Strike the Earth! (Plains of Passage)" - Jake Kaufman | 375968 | [375968-rift-of-the-necrodancer-shovel-knight-strike-the-earth-plains-of-passage-jake-kaufman.json](./375968-rift-of-the-necrodancer-shovel-knight-strike-the-earth-plains-of-passage-jake-kaufman.json) |
+| Rift of the NecroDancer: Spin Rhythm XD - "The Magician" - Seejay | 401872 | [401872-rift-of-the-necrodancer-spin-rhythm-xd-the-magician-seejay.json](./401872-rift-of-the-necrodancer-spin-rhythm-xd-the-magician-seejay.json) |
+| Rift of the NecroDancer: Unbeatable - “Worn Out Tapes [Tally-Ho Version]” - Peak Divide ft. Rachel Lake | 401879 | [401879-rift-of-the-necrodancer-unbeatable-worn-out-tapes-tally-ho-version-peak-divide-ft-rachel-lake.json](./401879-rift-of-the-necrodancer-unbeatable-worn-out-tapes-tally-ho-version-peak-divide-ft-rachel-lake.json) |
 | Rift of the Necrodancer: Undertale - "Spider Dance" - Toby Fox | 398364 | [398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json](./398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json) |
 | Rift of the NecroDancer: Undertale Music Pack | 397807 | [397807-rift-of-the-necrodancer-undertale-music-pack.json](./397807-rift-of-the-necrodancer-undertale-music-pack.json) |
+| Rift of the NecroDancer: VA-11 Hall-A - "Yliad" - Garoad | 401874 | [401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json](./401874-rift-of-the-necrodancer-va-11-hall-a-yliad-garoad.json) |
+| Rift of the NecroDancer: VA-11 Hall-A Music Pack | 401873 | [401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json](./401873-rift-of-the-necrodancer-va-11-hall-a-music-pack.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
 | Rift Survivors | 273442 | [273442-rift-survivors.json](./273442-rift-survivors.json) |
@@ -5909,6 +5919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
 | Rogue Reaper | 113522 | [113522-rogue-reaper.json](./113522-rogue-reaper.json) |
+| Rogue Reunion | 401887 | [401887-rogue-reunion.json](./401887-rogue-reunion.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
@@ -7145,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
 | Run for the Bus | 292264 | [292264-run-for-the-bus.json](./292264-run-for-the-bus.json) |
+| Run for the Money | 401793 | [401793-run-for-the-money.json](./401793-run-for-the-money.json) |
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
