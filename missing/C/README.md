@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Your Pet 2: Returns | 240842 | [240842-can-your-pet-2-returns.json](./240842-can-your-pet-2-returns.json) |
 | Can't Be Touched | 252892 | [252892-cant-be-touched.json](./252892-cant-be-touched.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
+| Can't Drive This | 27097 | [27097-cant-drive-this.json](./27097-cant-drive-this.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
@@ -2558,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
+| Causality | 27072 | [27072-causality.json](./27072-causality.json) |
 | Causality Effect | 228343 | [228343-causality-effect.json](./228343-causality-effect.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Cause to Exist | 365174 | [365174-cause-to-exist.json](./365174-cause-to-exist.json) |
@@ -5526,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Shooter | 192981 | [192981-clay-shooter.json](./192981-clay-shooter.json) |
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clay-Scape | 301905 | [301905-clay-scape.json](./301905-clay-scape.json) |
+| Claybook | 28730 | [28730-claybook.json](./28730-claybook.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Claybreaker: VR Clay Shooting | 41920 | [41920-claybreaker-vr-clay-shooting.json](./41920-claybreaker-vr-clay-shooting.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
@@ -9817,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
+| Critical Ops | 28896 | [28896-critical-ops.json](./28896-critical-ops.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
@@ -10531,6 +10535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
+| Crystalline | 28944 | [28944-crystalline.json](./28944-crystalline.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
