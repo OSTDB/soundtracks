@@ -4373,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
+| Choiceline Brawl | 389538 | [389538-choiceline-brawl.json](./389538-choiceline-brawl.json) |
 | Choices | 181725 | [181725-choices.json](./181725-choices.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
+| Chrysalis: Chrome Butterfly | 389559 | [389559-chrysalis-chrome-butterfly.json](./389559-chrysalis-chrome-butterfly.json) |
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
@@ -5185,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
+| Citizen Life | 389560 | [389560-citizen-life.json](./389560-citizen-life.json) |
 | Citizen of Rome - Dynasty Ascendant | 116958 | [116958-citizen-of-rome-dynasty-ascendant.json](./116958-citizen-of-rome-dynasty-ascendant.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Siege | 72778 | [72778-citizen-siege.json](./72778-citizen-siege.json) |
@@ -5933,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwerk | 285156 | [285156-clockwerk.json](./285156-clockwerk.json) |
+| Clockwillows Voy Quest | 389546 | [389546-clockwillows-voy-quest.json](./389546-clockwillows-voy-quest.json) |
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
 | Clockwizzze | 29162 | [29162-clockwizzze.json](./29162-clockwizzze.json) |
@@ -6734,6 +6738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
+| Colobus | 389628 | [389628-colobus.json](./389628-colobus.json) |
 | Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
 | ColocoDX | 388962 | [388962-colocodx.json](./388962-colocodx.json) |
 | Cologne | 33506 | [33506-cologne.json](./33506-cologne.json) |
@@ -10362,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
+| Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
