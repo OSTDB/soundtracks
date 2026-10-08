@@ -3597,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
+| Kyle Simulator | 120133 | [120133-kyle-simulator.json](./120133-kyle-simulator.json) |
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
