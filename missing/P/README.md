@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
 | Pareidolia (or, Why I Saw Pac-Man Everywhere In 2020) | 143343 | [143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json](./143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
+| ParelVR | 410164 | [410164-parelvr.json](./410164-parelvr.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake | 167107 | [167107-parfait-remake.json](./167107-parfait-remake.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal to the Metal | 214485 | [214485-pedal-to-the-metal.json](./214485-pedal-to-the-metal.json) |
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
 | Pedal-Olli 3D | 114800 | [114800-pedal-olli-3d.json](./114800-pedal-olli-3d.json) |
+| Pedals in Panic | 410168 | [410168-pedals-in-panic.json](./410168-pedals-in-panic.json) |
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
