@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Maddog Williams in the Dungeons of Duridian | 9664 | [9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
+| The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Mr. Poop | 147419 | [147419-the-adventures-of-mr-poop.json](./147419-the-adventures-of-mr-poop.json) |
 | The Adventures of Mr. Willickers the Rotting Mule | 238547 | [238547-the-adventures-of-mr-willickers-the-rotting-mule.json](./238547-the-adventures-of-mr-willickers-the-rotting-mule.json) |
@@ -4878,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep Library | 374691 | [374691-the-deep-library.json](./374691-the-deep-library.json) |
 | The Deep Lost | 195576 | [195576-the-deep-lost.json](./195576-the-deep-lost.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
+| The Deep Paths: Labyrinth of Andokost | 35088 | [35088-the-deep-paths-labyrinth-of-andokost.json](./35088-the-deep-paths-labyrinth-of-andokost.json) |
 | The Deep Waits | 414545 | [414545-the-deep-waits.json](./414545-the-deep-waits.json) |
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepening: Eco-Offensive | 155992 | [155992-the-deepening-eco-offensive.json](./155992-the-deepening-eco-offensive.json) |
@@ -6988,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of the Seazogs | 107372 | [107372-the-land-of-the-seazogs.json](./107372-the-land-of-the-seazogs.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lands of Hyberian | 289996 | [289996-the-lands-of-hyberian.json](./289996-the-lands-of-hyberian.json) |
+| The Language Game | 35157 | [35157-the-language-game.json](./35157-the-language-game.json) |
 | The Language of Love | 118052 | [118052-the-language-of-love.json](./118052-the-language-of-love.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Lara Croft Collection | 253646 | [253646-the-lara-croft-collection.json](./253646-the-lara-croft-collection.json) |
@@ -7040,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Delivery: Nightmare Courier | 380066 | [380066-the-last-delivery-nightmare-courier.json](./380066-the-last-delivery-nightmare-courier.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
+| The Last Dogma | 35149 | [35149-the-last-dogma.json](./35149-the-last-dogma.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Door on the Left | 177314 | [177314-the-last-door-on-the-left.json](./177314-the-last-door-on-the-left.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
@@ -10426,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Cabin: Cabin Panic | 92139 | [92139-the-tower-of-cabin-cabin-panic.json](./92139-the-tower-of-cabin-cabin-panic.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
+| The Tower of Elements | 35074 | [35074-the-tower-of-elements.json](./35074-the-tower-of-elements.json) |
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
@@ -13684,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
+| Tin Star | 35116 | [35116-tin-star.json](./35116-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin Toy | 80787 | [80787-tin-toy.json](./80787-tin-toy.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
@@ -17437,6 +17443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
+| Trap Them | 35098 | [35098-trap-them.json](./35098-trap-them.json) |
 | Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
 | Trap Tower Trials | 298137 | [298137-trap-tower-trials.json](./298137-trap-tower-trials.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
