@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
 | Eclipsic | 341111 | [341111-eclipsic.json](./341111-eclipsic.json) |
 | Ecliptic | 337151 | [337151-ecliptic.json](./337151-ecliptic.json) |
+| Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
 | Eco | 34939 | [34939-eco.json](./34939-eco.json) |
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
@@ -3537,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos Mythos | 419975 | [419975-ethos-mythos.json](./419975-ethos-mythos.json) |
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
+| Ethoterria's Last Soldier | 398042 | [398042-ethoterrias-last-soldier.json](./398042-ethoterrias-last-soldier.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
 | Etiquette Elegance | 346195 | [346195-etiquette-elegance.json](./346195-etiquette-elegance.json) |
 | Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
@@ -3830,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everfront | 400550 | [400550-everfront.json](./400550-everfront.json) |
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
+| Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitus | 290619 | [290619-exitus.json](./290619-exitus.json) |
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
+| Exo | 398008 | [398008-exo.json](./398008-exo.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Helljumper: Descent X | 345074 | [345074-exo-helljumper-descent-x.json](./345074-exo-helljumper-descent-x.json) |
