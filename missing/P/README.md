@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
+| Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
 | Pictures of Life | 120748 | [120748-pictures-of-life.json](./120748-pictures-of-life.json) |
 | Piczle Cells | 150262 | [150262-piczle-cells.json](./150262-piczle-cells.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
@@ -8692,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
 | Problem Attic | 76159 | [76159-problem-attic.json](./76159-problem-attic.json) |
 | Problem Sleuth | 336732 | [336732-problem-sleuth.json](./336732-problem-sleuth.json) |
+| Problematic | 409388 | [409388-problematic.json](./409388-problematic.json) |
 | Problemlöser | 277936 | [277936-problemloser.json](./277936-problemloser.json) |
 | Problems and Solutions | 342733 | [342733-problems-and-solutions.json](./342733-problems-and-solutions.json) |
 | Probo Rush | 235876 | [235876-probo-rush.json](./235876-probo-rush.json) |
@@ -8797,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Knight | 177814 | [177814-progress-knight.json](./177814-progress-knight.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
+| Progress98 | 409400 | [409400-progress98.json](./409400-progress98.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Progressbar95 | 198477 | [198477-progressbar95.json](./198477-progressbar95.json) |
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
