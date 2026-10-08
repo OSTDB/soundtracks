@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 12 Days of Doomas! | 262565 | [262565-the-12-days-of-doomas.json](./262565-the-12-days-of-doomas.json) |
+| The 13th Doll: A Fan Game of The 7th Guest | 120368 | [120368-the-13th-doll-a-fan-game-of-the-7th-guest.json](./120368-the-13th-doll-a-fan-game-of-the-7th-guest.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Heir - Ragnarok Chapter 2 | 76503 | [76503-the-13th-heir-ragnarok-chapter-2.json](./76503-the-13th-heir-ragnarok-chapter-2.json) |
@@ -3631,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Babysitter | 166037 | [166037-the-babysitter.json](./166037-the-babysitter.json) |
 | The Babysitter | 231454 | [231454-the-babysitter.json](./231454-the-babysitter.json) |
 | The Backroom: Lost and Found | 207763 | [207763-the-backroom-lost-and-found.json](./207763-the-backroom-lost-and-found.json) |
+| The Backrooms | 120761 | [120761-the-backrooms.json](./120761-the-backrooms.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms | 374795 | [374795-the-backrooms.json](./374795-the-backrooms.json) |
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
@@ -8870,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
+| The Purge Man | 120315 | [120315-the-purge-man.json](./120315-the-purge-man.json) |
 | The Purification | 164892 | [164892-the-purification.json](./164892-the-purification.json) |
 | The Purity of the Surf | 71173 | [71173-the-purity-of-the-surf.json](./71173-the-purity-of-the-surf.json) |
 | The Purple Coin: Club Saturn Edition | 381765 | [381765-the-purple-coin-club-saturn-edition.json](./381765-the-purple-coin-club-saturn-edition.json) |
@@ -11270,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
+| The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Decadence | 53791 | [53791-the-world-of-decadence.json](./53791-the-world-of-decadence.json) |
@@ -11416,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
+| theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
@@ -13526,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Traveler | 24804 | [24804-time-traveler.json](./24804-time-traveler.json) |
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
+| Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
 | Time Trio | 358840 | [358840-time-trio.json](./358840-time-trio.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
@@ -14087,6 +14093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Ash | 33226 | [33226-to-ash.json](./33226-to-ash.json) |
 | To Ash & Ember | 157493 | [157493-to-ash-and-ember.json](./157493-to-ash-and-ember.json) |
 | To Azimuth | 18436 | [18436-to-azimuth.json](./18436-to-azimuth.json) |
+| To Battle!: Hell's Crusade | 120404 | [120404-to-battle-hells-crusade.json](./120404-to-battle-hells-crusade.json) |
 | To Be A Dummy Head VR | 118377 | [118377-to-be-a-dummy-head-vr.json](./118377-to-be-a-dummy-head-vr.json) |
 | To Be A Dummy Head VR: Ferris Wheel Story | 118379 | [118379-to-be-a-dummy-head-vr-ferris-wheel-story.json](./118379-to-be-a-dummy-head-vr-ferris-wheel-story.json) |
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
@@ -15741,6 +15748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
+| Touring Karts | 120478 | [120478-touring-karts.json](./120478-touring-karts.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
 | Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
 | Tourist Bus Simulator: Comfort Class HD | 168888 | [168888-tourist-bus-simulator-comfort-class-hd.json](./168888-tourist-bus-simulator-comfort-class-hd.json) |
