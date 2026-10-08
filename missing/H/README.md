@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
 | Hard to be a King | 120854 | [120854-hard-to-be-a-king.json](./120854-hard-to-be-a-king.json) |
 | Hard Truck | 94917 | [94917-hard-truck.json](./94917-hard-truck.json) |
+| Hard Truck Apocalypse: Rise of Clans | 17170 | [17170-hard-truck-apocalypse-rise-of-clans.json](./17170-hard-truck-apocalypse-rise-of-clans.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
