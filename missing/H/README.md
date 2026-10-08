@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
+| Heavenly Guitars | 391226 | [391226-heavenly-guitars.json](./391226-heavenly-guitars.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
 | Heavenly Martyr | 377250 | [377250-heavenly-martyr.json](./377250-heavenly-martyr.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | His Chuunibyou Cannot Be Cured! | 65823 | [65823-his-chuunibyou-cannot-be-cured.json](./65823-his-chuunibyou-cannot-be-cured.json) |
 | His Dark Majesty | 362473 | [362473-his-dark-majesty.json](./362473-his-dark-majesty.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
+| His World | 391118 | [391118-his-world.json](./391118-his-world.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
 | HIS: Heroes in the Sky - AVRO Spade Julia Mackin Pack | 170405 | [170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json](./170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json) |
 | HIS: Heroes in the Sky - BV P188 Julia Mackin Pack | 170403 | [170403-his-heroes-in-the-sky-bv-p188-julia-mackin-pack.json](./170403-his-heroes-in-the-sky-bv-p188-julia-mackin-pack.json) |
