@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
+| 3 on 3 Dunk Madness | 406696 | [406696-3-on-3-dunk-madness.json](./406696-3-on-3-dunk-madness.json) |
 | 3 on 3 Soccer | 351237 | [351237-3-on-3-soccer.json](./351237-3-on-3-soccer.json) |
 | 3 on 3 Super Robot Hockey | 115805 | [115805-3-on-3-super-robot-hockey.json](./115805-3-on-3-super-robot-hockey.json) |
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
