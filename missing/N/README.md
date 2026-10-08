@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Unbound: Vol.6 - Premium Speed Pass | 297156 | [297156-need-for-speed-unbound-vol-6-premium-speed-pass.json](./297156-need-for-speed-unbound-vol-6-premium-speed-pass.json) |
 | Need for Speed Unbound: Volkswagen Beetle (1963) - Legendary Custom Pack | 271924 | [271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json](./271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
+| Need for Speed: Carbon | 248121 | [248121-need-for-speed-carbon.json](./248121-need-for-speed-carbon.json) |
 | Need for Speed: Carbon | 248123 | [248123-need-for-speed-carbon.json](./248123-need-for-speed-carbon.json) |
 | Need for Speed: Carbon - Collector's Edition | 43494 | [43494-need-for-speed-carbon-collectors-edition.json](./43494-need-for-speed-carbon-collectors-edition.json) |
 | Need for Speed: Carbon - Own the City | 11639 | [11639-need-for-speed-carbon-own-the-city.json](./11639-need-for-speed-carbon-own-the-city.json) |
