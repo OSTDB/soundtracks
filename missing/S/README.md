@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Tower | 186761 | [186761-secret-tower.json](./186761-secret-tower.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
 | Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
+| Secret Weapons Over Normandy | 203 | [203-secret-weapons-over-normandy.json](./203-secret-weapons-over-normandy.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
@@ -5021,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator 2006: Collector's Edition | 51361 | [51361-ship-simulator-2006-collectors-edition.json](./51361-ship-simulator-2006-collectors-edition.json) |
 | Ship Simulator 2006: Gold Edition | 53655 | [53655-ship-simulator-2006-gold-edition.json](./53655-ship-simulator-2006-gold-edition.json) |
 | Ship Simulator 2008: Collector's Edition | 54390 | [54390-ship-simulator-2008-collectors-edition.json](./54390-ship-simulator-2008-collectors-edition.json) |
+| Ship Simulator Extremes | 3209 | [3209-ship-simulator-extremes.json](./3209-ship-simulator-extremes.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10824 | [10824-ship-simulator-extremes-cargo-vessel.json](./10824-ship-simulator-extremes-cargo-vessel.json) |
 | Ship Simulator Extremes: Cargo Vessel | 10825 | [10825-ship-simulator-extremes-cargo-vessel.json](./10825-ship-simulator-extremes-cargo-vessel.json) |
 | Ship Simulator Extremes: Ferry Pack | 10826 | [10826-ship-simulator-extremes-ferry-pack.json](./10826-ship-simulator-extremes-ferry-pack.json) |
@@ -6525,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful Catalyst CH1: Ethereal Camellia | 253858 | [253858-sinful-catalyst-ch1-ethereal-camellia.json](./253858-sinful-catalyst-ch1-ethereal-camellia.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
+| Sing Party | 3108 | [3108-sing-party.json](./3108-sing-party.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Singaria | 120762 | [120762-singaria.json](./120762-singaria.json) |
 | Singer Izek | 93161 | [93161-singer-izek.json](./93161-singer-izek.json) |
@@ -13263,6 +13266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
 | Spy-Trek Adventure | 70060 | [70060-spy-trek-adventure.json](./70060-spy-trek-adventure.json) |
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
+| Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
 | Spyhack | 90138 | [90138-spyhack.json](./90138-spyhack.json) |
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
@@ -14379,6 +14383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFlyers: Royal Jewel Rescue | 122950 | [122950-starflyers-royal-jewel-rescue.json](./122950-starflyers-royal-jewel-rescue.json) |
 | StarForce: 2193 | 34475 | [34475-starforce-2193.json](./34475-starforce-2193.json) |
 | Starforge | 172038 | [172038-starforge.json](./172038-starforge.json) |
+| Starforge | 2649 | [2649-starforge.json](./2649-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
 | Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
@@ -15801,6 +15806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
+| Story of Seasons: Grand Bazaar | 337026 | [337026-story-of-seasons-grand-bazaar.json](./337026-story-of-seasons-grand-bazaar.json) |
 | Story of Seasons: Grand Bazaar - Digital Deluxe Edition | 342241 | [342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json](./342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json) |
 | Story of Seasons: Pioneers of Olive Town | 140500 | [140500-story-of-seasons-pioneers-of-olive-town.json](./140500-story-of-seasons-pioneers-of-olive-town.json) |
 | Story of Seasons: Pioneers of Olive Town - Buffalo Costume | 365902 | [365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json](./365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json) |
@@ -18413,6 +18419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario FX | 257524 | [257524-super-mario-fx.json](./257524-super-mario-fx.json) |
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
+| Super Mario Galaxy + Super Mario Galaxy 2 | 366878 | [366878-super-mario-galaxy-super-mario-galaxy-2.json](./366878-super-mario-galaxy-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
 | Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
