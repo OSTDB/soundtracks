@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Leviathan Dawn | 185018 | [185018-leviathan-dawn.json](./185018-leviathan-dawn.json) |
 | Leviathan Starblade | 30695 | [30695-leviathan-starblade.json](./30695-leviathan-starblade.json) |
+| Leviathan: Rhino | 413486 | [413486-leviathan-rhino.json](./413486-leviathan-rhino.json) |
 | Leviathan: Streams of Legends | 197255 | [197255-leviathan-streams-of-legends.json](./197255-leviathan-streams-of-legends.json) |
 | Leviathan: The Cargo | 34262 | [34262-leviathan-the-cargo.json](./34262-leviathan-the-cargo.json) |
 | Leviathan: Warships | 10512 | [10512-leviathan-warships.json](./10512-leviathan-warships.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linum | 337830 | [337830-linum.json](./337830-linum.json) |
 | Linus Spacehead's Cosmic Crusade | 48185 | [48185-linus-spaceheads-cosmic-crusade.json](./48185-linus-spaceheads-cosmic-crusade.json) |
 | Linux Jank | 275213 | [275213-linux-jank.json](./275213-linux-jank.json) |
+| Linwu: Spirit Beast Ranch | 413457 | [413457-linwu-spirit-beast-ranch.json](./413457-linwu-spirit-beast-ranch.json) |
 | Linx Battle Arena | 55961 | [55961-linx-battle-arena.json](./55961-linx-battle-arena.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
