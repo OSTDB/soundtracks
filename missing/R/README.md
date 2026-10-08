@@ -6010,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Funfare | 94009 | [94009-roller-coaster-funfare.json](./94009-roller-coaster-funfare.json) |
 | Roller Coaster Mania | 144896 | [144896-roller-coaster-mania.json](./144896-roller-coaster-mania.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Riot | 132703 | [132703-roller-riot.json](./132703-roller-riot.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
