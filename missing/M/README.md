@@ -6543,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
+| Midnight Serenade | 397426 | [397426-midnight-serenade.json](./397426-midnight-serenade.json) |
 | Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
@@ -6800,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Pot | 210112 | [210112-milk-pot.json](./210112-milk-pot.json) |
 | Milk Quest: Repasteurized | 369220 | [369220-milk-quest-repasteurized.json](./369220-milk-quest-repasteurized.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
+| Milk the Cow | 397419 | [397419-milk-the-cow.json](./397419-milk-the-cow.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
 | MilkChoco | 104019 | [104019-milkchoco.json](./104019-milkchoco.json) |
 | Milker Clicker | 367062 | [367062-milker-clicker.json](./367062-milker-clicker.json) |
@@ -8820,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Mondar's Dungeon | 181228 | [181228-mondars-dungeon.json](./181228-mondars-dungeon.json) |
 | Monday | 179062 | [179062-monday.json](./179062-monday.json) |
+| Monday Left Me Broken Collection | 397397 | [397397-monday-left-me-broken-collection.json](./397397-monday-left-me-broken-collection.json) |
 | Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
 | Monday Night Monsters Football | 196626 | [196626-monday-night-monsters-football.json](./196626-monday-night-monsters-football.json) |
@@ -8921,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
 | Monkey Shines | 80849 | [80849-monkey-shines.json](./80849-monkey-shines.json) |
+| Monkey Shines 2: Gorilla Warfare | 397411 | [397411-monkey-shines-2-gorilla-warfare.json](./397411-monkey-shines-2-gorilla-warfare.json) |
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
@@ -11554,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
 | MV Mazes | 150272 | [150272-mv-mazes.json](./150272-mv-mazes.json) |
+| MV-017 Metal Armor | 397417 | [397417-mv-017-metal-armor.json](./397417-mv-017-metal-armor.json) |
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MVP 07: NCAA Baseball | 21388 | [21388-mvp-07-ncaa-baseball.json](./21388-mvp-07-ncaa-baseball.json) |
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
@@ -11908,6 +11913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero Academia: Ultra Impact | 186112 | [186112-my-hero-academia-ultra-impact.json](./186112-my-hero-academia-ultra-impact.json) |
+| My Hero Academia: United Survival | 397382 | [397382-my-hero-academia-united-survival.json](./397382-my-hero-academia-united-survival.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero Kitty | 299402 | [299402-my-hero-kitty.json](./299402-my-hero-kitty.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
@@ -12663,6 +12669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | Mystery: Moscow | 146690 | [146690-mystery-moscow.json](./146690-mystery-moscow.json) |
 | MysteryHouse-fivestones- | 107778 | [107778-mysteryhouse-fivestones.json](./107778-mysteryhouse-fivestones.json) |
+| MysteryOS | 397398 | [397398-mysteryos.json](./397398-mysteryos.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
 | Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
