@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
 | Viktor | 17328 | [17328-viktor.json](./17328-viktor.json) |
 | Viktor Crysworth | 132731 | [132731-viktor-crysworth.json](./132731-viktor-crysworth.json) |
+| Viktor, a Steampunk Adventure | 30670 | [30670-viktor-a-steampunk-adventure.json](./30670-viktor-a-steampunk-adventure.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
