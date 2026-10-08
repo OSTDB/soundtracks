@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
+| Battle Blocks | 389031 | [389031-battle-blocks.json](./389031-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
 | Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
@@ -5736,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Central Fiction - Special Edition | 109607 | [109607-blazblue-central-fiction-special-edition.json](./109607-blazblue-central-fiction-special-edition.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
 | BlazBlue: Chrono Phantasma Extend | 11612 | [11612-blazblue-chrono-phantasma-extend.json](./11612-blazblue-chrono-phantasma-extend.json) |
+| BlazBlue: Chrono Phantasma Extend - Additional Character Color 1 | 388880 | [388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json](./388880-blazblue-chrono-phantasma-extend-additional-character-color-1.json) |
 | BlazBlue: Continuum Shift | 6750 | [6750-blazblue-continuum-shift.json](./6750-blazblue-continuum-shift.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
 | BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
@@ -9105,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
 | Brilliance: Catch the light | 205012 | [205012-brilliance-catch-the-light.json](./205012-brilliance-catch-the-light.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
+| Brilliant Crystals | 389033 | [389033-brilliant-crystals.json](./389033-brilliant-crystals.json) |
 | Brilliant Hamsters! | 62569 | [62569-brilliant-hamsters.json](./62569-brilliant-hamsters.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brilliant Shadows: Part One of the Book of Gray Magic | 34291 | [34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json](./34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json) |
@@ -9930,6 +9933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
 | Bullet Time | 254581 | [254581-bullet-time.json](./254581-bullet-time.json) |
+| Bullet Time Agent | 388999 | [388999-bullet-time-agent.json](./388999-bullet-time-agent.json) |
 | Bullet Time Battle | 247995 | [247995-bullet-time-battle.json](./247995-bullet-time-battle.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
