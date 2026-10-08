@@ -7428,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
+| Mini Soccer Manager | 411494 | [411494-mini-soccer-manager.json](./411494-mini-soccer-manager.json) |
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Spheres | 72311 | [72311-mini-spheres.json](./72311-mini-spheres.json) |
@@ -12781,6 +12782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
 | Mythsfall | 419973 | [419973-mythsfall.json](./419973-mythsfall.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
+| Mythterra | 411538 | [411538-mythterra.json](./411538-mythterra.json) |
 | Mythvale | 419967 | [419967-mythvale.json](./419967-mythvale.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
