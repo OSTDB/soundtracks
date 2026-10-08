@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines | 69524 | [69524-piczle-lines.json](./69524-piczle-lines.json) |
+| Piczle Lines 2: Into the Puzzleverse | 237363 | [237363-piczle-lines-2-into-the-puzzleverse.json](./237363-piczle-lines-2-into-the-puzzleverse.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Lines DX+α | 116247 | [116247-piczle-lines-dx.json](./116247-piczle-lines-dx.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
