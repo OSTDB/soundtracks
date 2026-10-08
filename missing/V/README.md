@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Cruise Director 4 | 193220 | [193220-vacation-adventures-cruise-director-4.json](./193220-vacation-adventures-cruise-director-4.json) |
 | Vacation Adventures: Cruise Director 5 | 180009 | [180009-vacation-adventures-cruise-director-5.json](./180009-vacation-adventures-cruise-director-5.json) |
 | Vacation Adventures: Cruise Director 6 | 201597 | [201597-vacation-adventures-cruise-director-6.json](./201597-vacation-adventures-cruise-director-6.json) |
+| Vacation Adventures: Cruise Director 6 - Collector's Edition | 416159 | [416159-vacation-adventures-cruise-director-6-collectors-edition.json](./416159-vacation-adventures-cruise-director-6-collectors-edition.json) |
 | Vacation Adventures: Cruise Director 8 - Collector's Edition | 248015 | [248015-vacation-adventures-cruise-director-8-collectors-edition.json](./248015-vacation-adventures-cruise-director-8-collectors-edition.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Mogul | 53877 | [53877-vacation-mogul.json](./53877-vacation-mogul.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
+| Vacation Paradise: France | 416158 | [416158-vacation-paradise-france.json](./416158-vacation-paradise-france.json) |
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
 | Vacation Quest Australia | 50862 | [50862-vacation-quest-australia.json](./50862-vacation-quest-australia.json) |
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
@@ -505,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
 | Vanilla | 399755 | [399755-vanilla.json](./399755-vanilla.json) |
+| Vanilla & Chocolate | 416155 | [416155-vanilla-and-chocolate.json](./416155-vanilla-and-chocolate.json) |
 | Vanilla Brain Exam | 367608 | [367608-vanilla-brain-exam.json](./367608-vanilla-brain-exam.json) |
 | Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
@@ -904,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
 | Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
+| Vermillion Watch: Fleshbound - Collector's Edition | 416147 | [416147-vermillion-watch-fleshbound-collectors-edition.json](./416147-vermillion-watch-fleshbound-collectors-edition.json) |
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin | 78072 | [78072-vermin.json](./78072-vermin.json) |
@@ -918,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vernal Edge | 138365 | [138365-vernal-edge.json](./138365-vernal-edge.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
+| Veronica Rivers: The Order of Conspiracy | 416145 | [416145-veronica-rivers-the-order-of-conspiracy.json](./416145-veronica-rivers-the-order-of-conspiracy.json) |
 | Veronikka's To-Do | 277948 | [277948-veronikkas-to-do.json](./277948-veronikkas-to-do.json) |
 | Veros Veros Veros | 389040 | [389040-veros-veros-veros.json](./389040-veros-veros-veros.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
@@ -1014,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vestigia: Joust | 364706 | [364706-vestigia-joust.json](./364706-vestigia-joust.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
+| Vesuvia | 416143 | [416143-vesuvia.json](./416143-vesuvia.json) |
 | Vesuvius | 323332 | [323332-vesuvius.json](./323332-vesuvius.json) |
 | Vesyolyi Povar | 245447 | [245447-vesyolyi-povar.json](./245447-vesyolyi-povar.json) |
 | Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
@@ -1259,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
 | Viking Brothers 3 CE | 104452 | [104452-viking-brothers-3-ce.json](./104452-viking-brothers-3-ce.json) |
 | Viking Brothers IV | 99436 | [99436-viking-brothers-iv.json](./99436-viking-brothers-iv.json) |
+| Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
@@ -1307,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
 | Vile Matter | 126997 | [126997-vile-matter.json](./126997-vile-matter.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
+| Villa Banana | 416140 | [416140-villa-banana.json](./416140-villa-banana.json) |
 | Villa Escape | 272874 | [272874-villa-escape.json](./272874-villa-escape.json) |
 | Villa Nocturne | 377796 | [377796-villa-nocturne.json](./377796-villa-nocturne.json) |
 | Villa's Blinds | 142157 | [142157-villas-blinds.json](./142157-villas-blinds.json) |
@@ -1331,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
 | Village of Zombies: Abandoned City | 192231 | [192231-village-of-zombies-abandoned-city.json](./192231-village-of-zombies-abandoned-city.json) |
 | Village of Zombies: Tropical | 192230 | [192230-village-of-zombies-tropical.json](./192230-village-of-zombies-tropical.json) |
+| Village Quest | 416150 | [416150-village-quest.json](./416150-village-quest.json) |
 | Village RPG | 188438 | [188438-village-rpg.json](./188438-village-rpg.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
