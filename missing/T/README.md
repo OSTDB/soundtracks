@@ -2775,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terro bot | 108360 | [108360-terro-bot.json](./108360-terro-bot.json) |
 | Terro Eliminator | 309023 | [309023-terro-eliminator.json](./309023-terro-eliminator.json) |
 | Terro Lunkka Adventures | 127022 | [127022-terro-lunkka-adventures.json](./127022-terro-lunkka-adventures.json) |
+| Terroir | 28753 | [28753-terroir.json](./28753-terroir.json) |
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
 | Terror at Oakheart | 258945 | [258945-terror-at-oakheart.json](./258945-terror-at-oakheart.json) |
 | Terror Brain: Night Out | 211258 | [211258-terror-brain-night-out.json](./211258-terror-brain-night-out.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golden Tulip | 184460 | [184460-the-golden-tulip.json](./184460-the-golden-tulip.json) |
 | The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
+| The Golf Club 2 | 28247 | [28247-the-golf-club-2.json](./28247-the-golf-club-2.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
@@ -13398,6 +13400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
 | Time Ramesside (A New Reckoning) | 36351 | [36351-time-ramesside-a-new-reckoning.json](./36351-time-ramesside-a-new-reckoning.json) |
 | Time Re:Quest | 329083 | [329083-time-re-quest.json](./329083-time-re-quest.json) |
+| Time Recoil | 27785 | [27785-time-recoil.json](./27785-time-recoil.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
 | Time Runner | 94955 | [94955-time-runner.json](./94955-time-runner.json) |
 | Time Sail Entanglement | 392377 | [392377-time-sail-entanglement.json](./392377-time-sail-entanglement.json) |
