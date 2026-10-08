@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have No Change | 348311 | [348311-i-have-no-change.json](./348311-i-have-no-change.json) |
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
 | I Have One Day | 320247 | [320247-i-have-one-day.json](./320247-i-have-one-day.json) |
+| I Hear the Forest | 414146 | [414146-i-hear-the-forest.json](./414146-i-hear-the-forest.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
 | I Heart Geeks! | 84456 | [84456-i-heart-geeks.json](./84456-i-heart-geeks.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
 | I'm Lost | 75189 | [75189-im-lost.json](./75189-im-lost.json) |
+| I'm not a Psycho Invader | 414142 | [414142-im-not-a-psycho-invader.json](./414142-im-not-a-psycho-invader.json) |
 | I'm Not a Robot! | 373117 | [373117-im-not-a-robot.json](./373117-im-not-a-robot.json) |
 | I'm Not Alone | 346713 | [346713-im-not-alone.json](./346713-im-not-alone.json) |
 | I'm Not Alone | 66893 | [66893-im-not-alone.json](./66893-im-not-alone.json) |
@@ -1079,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
 | Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
+| Iegami Nyoubou: Koisuru Inaba ha Kinpatsu Usagi | 414147 | [414147-iegami-nyoubou-koisuru-inaba-ha-kinpatsu-usagi.json](./414147-iegami-nyoubou-koisuru-inaba-ha-kinpatsu-usagi.json) |
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
 | If | 166573 | [166573-if.json](./166573-if.json) |
 | If | 204401 | [204401-if.json](./204401-if.json) |
@@ -3172,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invariant | 326224 | [326224-invariant.json](./326224-invariant.json) |
 | Invariant | 410973 | [410973-invariant.json](./410973-invariant.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
+| Invasia | 414161 | [414161-invasia.json](./414161-invasia.json) |
 | Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
 | Invasion | 320342 | [320342-invasion.json](./320342-invasion.json) |
