@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
+| Agro Simulator: Season 26 | 389539 | [389539-agro-simulator-season-26.json](./389539-agro-simulator-season-26.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
@@ -4230,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Evolution | 218527 | [218527-alpaca-evolution.json](./218527-alpaca-evolution.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
+| Alpaca Party: Grab & Run | 389635 | [389635-alpaca-party-grab-and-run.json](./389635-alpaca-party-grab-and-run.json) |
 | Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
 | Alpaca Sprint | 247670 | [247670-alpaca-sprint.json](./247670-alpaca-sprint.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
@@ -6081,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
+| Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
 | Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
@@ -9968,6 +9971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automount | 341637 | [341637-automount.json](./341637-automount.json) |
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
 | Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
+| Autonomous Swarm: The Replication War | 389641 | [389641-autonomous-swarm-the-replication-war.json](./389641-autonomous-swarm-the-replication-war.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
@@ -10055,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Deathmatch City | 77596 | [77596-avatar-deathmatch-city.json](./77596-avatar-deathmatch-city.json) |
 | Avatar Drop | 91630 | [91630-avatar-drop.json](./91630-avatar-drop.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
+| Avatar Island | 389644 | [389644-avatar-island.json](./389644-avatar-island.json) |
 | Avatar Laser Wars | 77599 | [77599-avatar-laser-wars.json](./77599-avatar-laser-wars.json) |
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
