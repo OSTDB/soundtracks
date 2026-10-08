@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
+| Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
 | Margikarman ItoA | 180084 | [180084-margikarman-itoa.json](./180084-margikarman-itoa.json) |
@@ -10445,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
 | Moving Out 2: F.A.R.Tastic Four Pack | 261858 | [261858-moving-out-2-f-a-r-tastic-four-pack.json](./261858-moving-out-2-f-a-r-tastic-four-pack.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
+| Moving Out: Movers in Paradise | 143880 | [143880-moving-out-movers-in-paradise.json](./143880-moving-out-movers-in-paradise.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
 | Moving Simulator | 346719 | [346719-moving-simulator.json](./346719-moving-simulator.json) |
 | Moving Through Life | 238476 | [238476-moving-through-life.json](./238476-moving-through-life.json) |
