@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
 | A House for Alesa 2 | 303036 | [303036-a-house-for-alesa-2.json](./303036-a-house-for-alesa-2.json) |
+| A House for Alesa Remake | 398636 | [398636-a-house-for-alesa-remake.json](./398636-a-house-for-alesa-remake.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
@@ -5424,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds Epic | 19276 | [19276-angry-birds-epic.json](./19276-angry-birds-epic.json) |
+| Angry Birds Explore | 398679 | [398679-angry-birds-explore.json](./398679-angry-birds-explore.json) |
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
@@ -6263,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
 | Ants March TD | 374200 | [374200-ants-march-td.json](./374200-ants-march-td.json) |
 | Ants of Duty | 226169 | [226169-ants-of-duty.json](./226169-ants-of-duty.json) |
+| Ants Times Infinity | 398648 | [398648-ants-times-infinity.json](./398648-ants-times-infinity.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
 | Antuel's Lament | 315621 | [315621-antuels-lament.json](./315621-antuels-lament.json) |
@@ -7775,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
+| Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
 | Arktika.1 | 24833 | [24833-arktika-1.json](./24833-arktika-1.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
