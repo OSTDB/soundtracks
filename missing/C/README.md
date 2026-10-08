@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cafe: Idle Bird Collector | 393813 | [393813-cafe-cafe-idle-bird-collector.json](./393813-cafe-cafe-idle-bird-collector.json) |
 | Cafe Crawlers | 184885 | [184885-cafe-crawlers.json](./184885-cafe-crawlers.json) |
+| Cafe Crush | 119723 | [119723-cafe-crush.json](./119723-cafe-crush.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Cafe Deux Femmes | 139210 | [139210-cafe-deux-femmes.json](./139210-cafe-deux-femmes.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
+| CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | Castlevania | 1130 | [1130-castlevania.json](./1130-castlevania.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
@@ -6937,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
+| Comanche | 121758 | [121758-comanche.json](./121758-comanche.json) |
 | Comanche 2 | 5610 | [5610-comanche-2.json](./5610-comanche-2.json) |
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
 | Comanche 4 | 4203 | [4203-comanche-4.json](./4203-comanche-4.json) |
@@ -7626,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
+| Conscious Existence - A Journey Within | 119690 | [119690-conscious-existence-a-journey-within.json](./119690-conscious-existence-a-journey-within.json) |
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
