@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackRooms New | 213437 | [213437-backrooms-new.json](./213437-backrooms-new.json) |
 | Backrooms Not Escape | 392920 | [392920-backrooms-not-escape.json](./392920-backrooms-not-escape.json) |
 | Backrooms of Reality | 207298 | [207298-backrooms-of-reality.json](./207298-backrooms-of-reality.json) |
+| Backrooms Phases | 406069 | [406069-backrooms-phases.json](./406069-backrooms-phases.json) |
 | Backrooms Project: The Lost File | 245831 | [245831-backrooms-project-the-lost-file.json](./245831-backrooms-project-the-lost-file.json) |
 | Backrooms Protocol | 407406 | [407406-backrooms-protocol.json](./407406-backrooms-protocol.json) |
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdog Ultimate Collector's Pack | 136374 | [136374-beamdog-ultimate-collectors-pack.json](./136374-beamdog-ultimate-collectors-pack.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
+| Beaming | 406150 | [406150-beaming.json](./406150-beaming.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
