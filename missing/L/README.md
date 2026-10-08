@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
 | La torre de Mario | 374170 | [374170-la-torre-de-mario.json](./374170-la-torre-de-mario.json) |
 | La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
+| La Vie d'Emma: Infirmière de Choc | 406653 | [406653-la-vie-demma-infirmiere-de-choc.json](./406653-la-vie-demma-infirmiere-de-choc.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
 | La Voix | 286217 | [286217-la-voix.json](./286217-la-voix.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Chaka King | 142733 | [142733-labyrinth-of-the-chaka-king.json](./142733-labyrinth-of-the-chaka-king.json) |
+| Labyrinth of the Crystal Princess | 406652 | [406652-labyrinth-of-the-crystal-princess.json](./406652-labyrinth-of-the-crystal-princess.json) |
 | Labyrinth of the Witch | 118268 | [118268-labyrinth-of-the-witch.json](./118268-labyrinth-of-the-witch.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Brain Right Brain 2 | 21223 | [21223-left-brain-right-brain-2.json](./21223-left-brain-right-brain-2.json) |
 | Left Dex | 158109 | [158109-left-dex.json](./158109-left-dex.json) |
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
+| Left Fore Dead: Zombie Battle Golf | 406646 | [406646-left-fore-dead-zombie-battle-golf.json](./406646-left-fore-dead-zombie-battle-golf.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
 | Left Right | 347283 | [347283-left-right.json](./347283-left-right.json) |
@@ -2125,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
+| Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
@@ -4225,6 +4229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Planet | 374174 | [374174-lonely-planet.json](./374174-lonely-planet.json) |
 | Lonely Red Night | 149700 | [149700-lonely-red-night.json](./149700-lonely-red-night.json) |
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
+| Lonely Silver Rose | 407201 | [407201-lonely-silver-rose.json](./407201-lonely-silver-rose.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
@@ -4417,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
+| Loot Goblins | 406662 | [406662-loot-goblins.json](./406662-loot-goblins.json) |
 | Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
@@ -5086,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
 | Love Island | 303636 | [303636-love-island.json](./303636-love-island.json) |
+| Love Island: Forbidden Girls Temptation | 407285 | [407285-love-island-forbidden-girls-temptation.json](./407285-love-island-forbidden-girls-temptation.json) |
 | Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Island: The Game - The Boat Party | 263663 | [263663-love-island-the-game-the-boat-party.json](./263663-love-island-the-game-the-boat-party.json) |
