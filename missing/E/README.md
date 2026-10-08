@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
+| Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
 | Earth Under Siege | 17867 | [17867-earth-under-siege.json](./17867-earth-under-siege.json) |
@@ -1810,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Ants: Limited Edition | 291541 | [291541-empire-of-the-ants-limited-edition.json](./291541-empire-of-the-ants-limited-edition.json) |
 | Empire of the Dead Souls | 93748 | [93748-empire-of-the-dead-souls.json](./93748-empire-of-the-dead-souls.json) |
 | Empire of the Fallen Steel | 37388 | [37388-empire-of-the-fallen-steel.json](./37388-empire-of-the-fallen-steel.json) |
+| Empire of the Gods | 33662 | [33662-empire-of-the-gods.json](./33662-empire-of-the-gods.json) |
 | Empire of the Insects | 350011 | [350011-empire-of-the-insects.json](./350011-empire-of-the-insects.json) |
 | Empire of the Over-Mind | 18470 | [18470-empire-of-the-over-mind.json](./18470-empire-of-the-over-mind.json) |
 | Empire of the Wicked | 157982 | [157982-empire-of-the-wicked.json](./157982-empire-of-the-wicked.json) |
@@ -3168,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Left to die | 236416 | [236416-escape-left-to-die.json](./236416-escape-left-to-die.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escape: Sierra Leone | 33570 | [33570-escape-sierra-leone.json](./33570-escape-sierra-leone.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
