@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
 | Foxy Jumper 2 | 255647 | [255647-foxy-jumper-2.json](./255647-foxy-jumper-2.json) |
 | Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
+| Foxy the First Steps | 409412 | [409412-foxy-the-first-steps.json](./409412-foxy-the-first-steps.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
@@ -7723,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Farm Animal Jigsaw Puzzle Game for Kids and Toddlers | 165619 | [165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json](./165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json) |
 | Funny Farm Learning Games for Toddlers and Kids | 295263 | [295263-funny-farm-learning-games-for-toddlers-and-kids.json](./295263-funny-farm-learning-games-for-toddlers-and-kids.json) |
 | Funny Fingers | 99589 | [99589-funny-fingers.json](./99589-funny-fingers.json) |
+| Funny Folks Cafe | 409524 | [409524-funny-folks-cafe.json](./409524-funny-folks-cafe.json) |
 | Funny Football | 287218 | [287218-funny-football.json](./287218-funny-football.json) |
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
 | Funny Park | 257452 | [257452-funny-park.json](./257452-funny-park.json) |
