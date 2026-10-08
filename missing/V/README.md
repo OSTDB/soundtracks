@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2: Premium Edition | 370897 | [370897-vampire-the-masquerade-bloodlines-2-premium-edition.json](./370897-vampire-the-masquerade-bloodlines-2-premium-edition.json) |
 | Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Heartless Lullaby | 197222 | [197222-vampire-the-masquerade-heartless-lullaby.json](./197222-vampire-the-masquerade-heartless-lullaby.json) |
+| Vampire: The Masquerade - Heartless Symphony | 394759 | [394759-vampire-the-masquerade-heartless-symphony.json](./394759-vampire-the-masquerade-heartless-symphony.json) |
 | Vampire: The Masquerade - Justice | 251559 | [251559-vampire-the-masquerade-justice.json](./251559-vampire-the-masquerade-justice.json) |
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Night Road: Secrets and Shadows | 174170 | [174170-vampire-the-masquerade-night-road-secrets-and-shadows.json](./174170-vampire-the-masquerade-night-road-secrets-and-shadows.json) |
