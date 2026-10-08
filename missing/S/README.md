@@ -4951,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
+| Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
 | Shin SD Sengoku-den: Daishogun Retsuden | 38250 | [38250-shin-sd-sengoku-den-daishogun-retsuden.json](./38250-shin-sd-sengoku-den-daishogun-retsuden.json) |
 | Shin SD Sengokuden: Chijou Saikyou-hen - Ryuuko Daigekitotsu! | 385789 | [385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json](./385789-shin-sd-sengokuden-chijou-saikyou-hen-ryuuko-daigekitotsu.json) |
