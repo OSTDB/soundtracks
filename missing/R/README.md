@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
 | R.T.O. Tales of the Dark Lands: Deluxe Edition | 157560 | [157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json](./157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json) |
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
+| R.U.S.H.: Rival Ultimate Steel Hand | 395527 | [395527-r-u-s-h-rival-ultimate-steel-hand.json](./395527-r-u-s-h-rival-ultimate-steel-hand.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
@@ -6531,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
+| Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
 | Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
 | Rosas are Red | 280777 | [280777-rosas-are-red.json](./280777-rosas-are-red.json) |
