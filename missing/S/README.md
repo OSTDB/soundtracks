@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
+| Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
@@ -5676,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
+| Shroom Soup | 410074 | [410074-shroom-soup.json](./410074-shroom-soup.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
 | Shroomer | 346178 | [346178-shroomer.json](./346178-shroomer.json) |
 | Shroomio's Adventure | 185455 | [185455-shroomios-adventure.json](./185455-shroomios-adventure.json) |
@@ -6070,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
 | Silencer | 93197 | [93197-silencer.json](./93197-silencer.json) |
 | Silencio | 301909 | [301909-silencio.json](./301909-silencio.json) |
+| Silency: Cube 666 | 410202 | [410202-silency-cube-666.json](./410202-silency-cube-666.json) |
 | SilenGames Bundle 2024 | 331517 | [331517-silengames-bundle-2024.json](./331517-silengames-bundle-2024.json) |
 | Silent | 298086 | [298086-silent.json](./298086-silent.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
@@ -7869,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slim World | 101930 | [101930-slim-world.json](./101930-slim-world.json) |
 | Slime | 285052 | [285052-slime.json](./285052-slime.json) |
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
+| Slime | 410085 | [410085-slime.json](./410085-slime.json) |
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
 | Slime 3K: Rise Against Despot | 244377 | [244377-slime-3k-rise-against-despot.json](./244377-slime-3k-rise-against-despot.json) |
 | Slime 64 | 144114 | [144114-slime-64.json](./144114-slime-64.json) |
