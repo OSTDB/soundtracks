@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
 | Reverie Knights Tactics: Prologue | 156214 | [156214-reverie-knights-tactics-prologue.json](./156214-reverie-knights-tactics-prologue.json) |
 | Reverie: A Heroes Tale | 89951 | [89951-reverie-a-heroes-tale.json](./89951-reverie-a-heroes-tale.json) |
+| Reverie: An Odd Sim Date | 419152 | [419152-reverie-an-odd-sim-date.json](./419152-reverie-an-odd-sim-date.json) |
 | Reverie: Sweet As Edition | 114418 | [114418-reverie-sweet-as-edition.json](./114418-reverie-sweet-as-edition.json) |
 | Reveries: Soul Collector HD | 93829 | [93829-reveries-soul-collector-hd.json](./93829-reveries-soul-collector-hd.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
