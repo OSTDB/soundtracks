@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Hike | 362423 | [362423-bike-hike.json](./362423-bike-hike.json) |
+| Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 234695 | [234695-bike-racing.json](./234695-bike-racing.json) |
@@ -5223,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
 | Black Sheep Town | 217805 | [217805-black-sheep-town.json](./217805-black-sheep-town.json) |
+| Black Sigil: Blade of the Exiled | 21124 | [21124-black-sigil-blade-of-the-exiled.json](./21124-black-sigil-blade-of-the-exiled.json) |
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black Skylands | 122132 | [122132-black-skylands.json](./122132-black-skylands.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
