@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
 | 9th Dawn | 50404 | [50404-9th-dawn.json](./50404-9th-dawn.json) |
 | 9th Dawn Classic | 55684 | [55684-9th-dawn-classic.json](./55684-9th-dawn-classic.json) |
+| 9th Dawn II | 36407 | [36407-9th-dawn-ii.json](./36407-9th-dawn-ii.json) |
 | 9th Dawn III | 139323 | [139323-9th-dawn-iii.json](./139323-9th-dawn-iii.json) |
 | 9th Land | 249938 | [249938-9th-land.json](./249938-9th-land.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
