@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
 | Welcome to the Game II | 68576 | [68576-welcome-to-the-game-ii.json](./68576-welcome-to-the-game-ii.json) |
 | Welcome to the Game III | 375315 | [375315-welcome-to-the-game-iii.json](./375315-welcome-to-the-game-iii.json) |
+| Welcome To The Gap | 399252 | [399252-welcome-to-the-gap.json](./399252-welcome-to-the-gap.json) |
 | Welcome to the Information Superhighway | 104250 | [104250-welcome-to-the-information-superhighway.json](./104250-welcome-to-the-information-superhighway.json) |
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
