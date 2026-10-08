@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
+| Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
 | BioEntity | 82328 | [82328-bioentity.json](./82328-bioentity.json) |
 | Biofall: Survival | 349519 | [349519-biofall-survival.json](./349519-biofall-survival.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
@@ -9644,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buhumi II | 91581 | [91581-buhumi-ii.json](./91581-buhumi-ii.json) |
 | Buichi Terasawa's Takeru: Letter of the Law | 79537 | [79537-buichi-terasawas-takeru-letter-of-the-law.json](./79537-buichi-terasawas-takeru-letter-of-the-law.json) |
 | Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
+| Build 'n Bump | 35094 | [35094-build-n-bump.json](./35094-build-n-bump.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build & Feast Collection | 328561 | [328561-build-and-feast-collection.json](./328561-build-and-feast-collection.json) |
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
