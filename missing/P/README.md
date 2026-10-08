@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario Multiplayer | 159325 | [159325-paper-mario-multiplayer.json](./159325-paper-mario-multiplayer.json) |
 | Paper Mario Randomizer | 304045 | [304045-paper-mario-randomizer.json](./304045-paper-mario-randomizer.json) |
+| Paper Mario ReCut | 403229 | [403229-paper-mario-recut.json](./403229-paper-mario-recut.json) |
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piecrust | 311699 | [311699-piecrust.json](./311699-piecrust.json) |
 | Pieklo | 274135 | [274135-pieklo.json](./274135-pieklo.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
+| PiePlex | 402950 | [402950-pieplex.json](./402950-pieplex.json) |
 | Pier Game | 340543 | [340543-pier-game.json](./340543-pier-game.json) |
 | Pier Pressure | 141532 | [141532-pier-pressure.json](./141532-pier-pressure.json) |
 | Pier Solar and the Great Architects | 4512 | [4512-pier-solar-and-the-great-architects.json](./4512-pier-solar-and-the-great-architects.json) |
@@ -3929,6 +3931,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
 | Piñata Go Boom | 345537 | [345537-pinata-go-boom.json](./345537-pinata-go-boom.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
+| Pinata Hunter 2 | 402880 | [402880-pinata-hunter-2.json](./402880-pinata-hunter-2.json) |
+| Pinata Hunter 3 | 402881 | [402881-pinata-hunter-3.json](./402881-pinata-hunter-3.json) |
+| Pinata Hunter 4 | 402886 | [402886-pinata-hunter-4.json](./402886-pinata-hunter-4.json) |
 | Piñata Puppy World | 330386 | [330386-pinata-puppy-world.json](./330386-pinata-puppy-world.json) |
 | Pinball | 131467 | [131467-pinball.json](./131467-pinball.json) |
 | Pinball | 131482 | [131482-pinball.json](./131482-pinball.json) |
