@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
+| Reveal Your Monster | 392895 | [392895-reveal-your-monster.json](./392895-reveal-your-monster.json) |
 | Reveal! Multiplayer Edition | 232070 | [232070-reveal-multiplayer-edition.json](./232070-reveal-multiplayer-edition.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revector | 46516 | [46516-revector.json](./46516-revector.json) |
