@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bizarre Creations of Keith the Magnificent | 34691 | [34691-the-bizarre-creations-of-keith-the-magnificent.json](./34691-the-bizarre-creations-of-keith-the-magnificent.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
 | The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
+| The Black Death | 34155 | [34155-the-black-death.json](./34155-the-black-death.json) |
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
@@ -5559,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
+| The Final Take | 34480 | [34480-the-final-take.json](./34480-the-final-take.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
@@ -5792,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game Of Death | 276156 | [276156-the-game-of-death.json](./276156-the-game-of-death.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
+| The Game of Life | 34432 | [34432-the-game-of-life.json](./34432-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2 | 141523 | [141523-the-game-of-life-2.json](./141523-the-game-of-life-2.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
@@ -9145,6 +9148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
+| The Rivers of Alice: Extended Version | 34183 | [34183-the-rivers-of-alice-extended-version.json](./34183-the-rivers-of-alice-extended-version.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
@@ -11729,6 +11733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
+| This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
 | This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
 | This Call May Be Recorded | 135038 | [135038-this-call-may-be-recorded.json](./135038-this-call-may-be-recorded.json) |
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
