@@ -3511,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
+| No Signal: Chornobyl | 414165 | [414165-no-signal-chornobyl.json](./414165-no-signal-chornobyl.json) |
 | No Skirt Convenience Shop | 212193 | [212193-no-skirt-convenience-shop.json](./212193-no-skirt-convenience-shop.json) |
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, I'm not a Voenkom | 377757 | [377757-no-im-not-a-voenkom.json](./377757-no-im-not-a-voenkom.json) |
 | No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
+| No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
 | No70: Eye of Basir | 35238 | [35238-no70-eye-of-basir.json](./35238-no70-eye-of-basir.json) |
