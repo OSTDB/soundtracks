@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Age 2 | 127098 | [127098-dead-age-2.json](./127098-dead-age-2.json) |
 | Dead Age: Survivors | 238452 | [238452-dead-age-survivors.json](./238452-dead-age-survivors.json) |
 | Dead Ahead | 356286 | [356286-dead-ahead.json](./356286-dead-ahead.json) |
+| Dead Ahead: Enforcers | 421372 | [421372-dead-ahead-enforcers.json](./421372-dead-ahead-enforcers.json) |
 | Dead Ahead: Zombie Warfare | 56166 | [56166-dead-ahead-zombie-warfare.json](./56166-dead-ahead-zombie-warfare.json) |
 | Dead Air | 330949 | [330949-dead-air.json](./330949-dead-air.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
@@ -1957,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
 | Dead City | 244380 | [244380-dead-city.json](./244380-dead-city.json) |
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
+| Dead City: Red Protocol | 421333 | [421333-dead-city-red-protocol.json](./421333-dead-city-red-protocol.json) |
 | Dead City: Sci-Fi Pack | 254051 | [254051-dead-city-sci-fi-pack.json](./254051-dead-city-sci-fi-pack.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
@@ -2850,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
+| Decommission Protocol | 421367 | [421367-decommission-protocol.json](./421367-decommission-protocol.json) |
 | Decommissioned Tech Repair Mechanic Simulator 2099 | 365763 | [365763-decommissioned-tech-repair-mechanic-simulator-2099.json](./365763-decommissioned-tech-repair-mechanic-simulator-2099.json) |
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
@@ -7159,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Steal My Christmas! | 235271 | [235271-dont-steal-my-christmas.json](./235271-dont-steal-my-christmas.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
+| Don't Stop Cutting The Trees! | 421363 | [421363-dont-stop-cutting-the-trees.json](./421363-dont-stop-cutting-the-trees.json) |
 | Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
 | Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
