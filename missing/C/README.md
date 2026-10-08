@@ -7066,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
+| Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
 | Combined Arms: World War II | 59523 | [59523-combined-arms-world-war-ii.json](./59523-combined-arms-world-war-ii.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
@@ -9103,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craps | 88483 | [88483-craps.json](./88483-craps.json) |
 | Craps at Aces Casino | 150260 | [150260-craps-at-aces-casino.json](./150260-craps-at-aces-casino.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
+| Craps-Shooter | 91012 | [91012-craps-shooter.json](./91012-craps-shooter.json) |
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
 | CrapsVR | 31932 | [31932-crapsvr.json](./31932-crapsvr.json) |
