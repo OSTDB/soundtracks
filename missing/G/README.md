@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. joe: Special Ops | 81200 | [81200-g-i-joe-special-ops.json](./81200-g-i-joe-special-ops.json) |
 | G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
+| G.I. Joe: Wrath of Cobra | 264313 | [264313-g-i-joe-wrath-of-cobra.json](./264313-g-i-joe-wrath-of-cobra.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
 | G.O.M.P! | 245903 | [245903-g-o-m-p.json](./245903-g-o-m-p.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
@@ -3334,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
 | God of Math: Train Your Brain | 232061 | [232061-god-of-math-train-your-brain.json](./232061-god-of-math-train-your-brain.json) |
 | God of Riffs | 148697 | [148697-god-of-riffs.json](./148697-god-of-riffs.json) |
+| God of Rock | 214507 | [214507-god-of-rock.json](./214507-god-of-rock.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
@@ -4582,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Cars | 253300 | [253300-grapple-cars.json](./253300-grapple-cars.json) |
 | Grapple Dog | 144028 | [144028-grapple-dog.json](./144028-grapple-dog.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
+| Grapple Dogs: Cosmic Canines | 263347 | [263347-grapple-dogs-cosmic-canines.json](./263347-grapple-dogs-cosmic-canines.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
@@ -6086,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 2 | 44552 | [44552-gundam-breaker-2.json](./44552-gundam-breaker-2.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Breaker 3: Break Edition | 136193 | [136193-gundam-breaker-3-break-edition.json](./136193-gundam-breaker-3-break-edition.json) |
+| Gundam Breaker 4 | 287853 | [287853-gundam-breaker-4.json](./287853-gundam-breaker-4.json) |
 | Gundam Breaker 4: Diorama Pack 1 - Colony Set | 324396 | [324396-gundam-breaker-4-diorama-pack-1-colony-set.json](./324396-gundam-breaker-4-diorama-pack-1-colony-set.json) |
 | Gundam Breaker 4: Diorama Pack 2 - Mobile Weapon & Colony Laser Inner Wall | 324397 | [324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json](./324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json) |
 | Gundam Breaker 4: Diorama Pack 3 - Class Room Set & Haro | 324398 | [324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json](./324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json) |
