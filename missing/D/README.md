@@ -3825,6 +3825,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
+| Denshattack: Digital Deluxe Edition | 410845 | [410845-denshattack-digital-deluxe-edition.json](./410845-denshattack-digital-deluxe-edition.json) |
+| Denshattack: Hanafuda Throwback | 410848 | [410848-denshattack-hanafuda-throwback.json](./410848-denshattack-hanafuda-throwback.json) |
+| Denshattack: Seasonal Skins Pack | 410847 | [410847-denshattack-seasonal-skins-pack.json](./410847-denshattack-seasonal-skins-pack.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Denshi Maid Techou: Koi no Iroha | 59403 | [59403-denshi-maid-techou-koi-no-iroha.json](./59403-denshi-maid-techou-koi-no-iroha.json) |
 | Density Limit | 243284 | [243284-density-limit.json](./243284-density-limit.json) |
@@ -9630,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
+| Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
@@ -9708,6 +9712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
+| Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
