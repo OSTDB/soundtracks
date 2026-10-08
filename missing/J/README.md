@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetstrike | 37108 | [37108-jetstrike.json](./37108-jetstrike.json) |
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
+| Jett Rocket II: The Wrath of Taikai | 63769 | [63769-jett-rocket-ii-the-wrath-of-taikai.json](./63769-jett-rocket-ii-the-wrath-of-taikai.json) |
 | Jett Tailfin Racers | 60759 | [60759-jett-tailfin-racers.json](./60759-jett-tailfin-racers.json) |
 | Jett: The Far Shore | 134591 | [134591-jett-the-far-shore.json](./134591-jett-the-far-shore.json) |
 | Jett: The Far Shore - Given Time | 231858 | [231858-jett-the-far-shore-given-time.json](./231858-jett-the-far-shore-given-time.json) |
