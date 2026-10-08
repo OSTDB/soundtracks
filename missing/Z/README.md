@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 4 | 27417 | [27417-zup-4.json](./27417-zup-4.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
+| Zup! 9 | 119469 | [119469-zup-9.json](./119469-zup-9.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
