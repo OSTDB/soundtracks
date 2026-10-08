@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Turn To Thrive | 413776 | [413776-your-turn-to-thrive.json](./413776-your-turn-to-thrive.json) |
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
+| Your Way Out | 395998 | [395998-your-way-out.json](./395998-your-way-out.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Your Wife Oh | 337757 | [337757-your-wife-oh.json](./337757-your-wife-oh.json) |
 | Your_New_Life_Letter.rtf.exe | 234563 | [234563-your-new-life-letter-rtf-exe.json](./234563-your-new-life-letter-rtf-exe.json) |
