@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
 | Occupy White Walls | 105594 | [105594-occupy-white-walls.json](./105594-occupy-white-walls.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
+| Ocean and Fish | 387059 | [387059-ocean-and-fish.json](./387059-ocean-and-fish.json) |
 | Ocean Avenue | 177904 | [177904-ocean-avenue.json](./177904-ocean-avenue.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean Cat | 245902 | [245902-ocean-cat.json](./245902-ocean-cat.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odin's Tea Party | 226131 | [226131-odins-tea-party.json](./226131-odins-tea-party.json) |
+| Odinochestvo Skufa | 387055 | [387055-odinochestvo-skufa.json](./387055-odinochestvo-skufa.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
 | Odoru? Pokémon Ongakutai | 60055 | [60055-odoru-pokemon-ongakutai.json](./60055-odoru-pokemon-ongakutai.json) |
@@ -1377,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Hundred Ways | 13218 | [13218-one-hundred-ways.json](./13218-one-hundred-ways.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
+| One Iced Latte: Milk Song | 387052 | [387052-one-iced-latte-milk-song.json](./387052-one-iced-latte-milk-song.json) |
 | One in 20,000 Raindrops | 405674 | [405674-one-in-20-000-raindrops.json](./405674-one-in-20-000-raindrops.json) |
 | One in a Thousand: Clover Book | 417358 | [417358-one-in-a-thousand-clover-book.json](./417358-one-in-a-thousand-clover-book.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
