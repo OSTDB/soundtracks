@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
+| Deadbeat Heroes | 74197 | [74197-deadbeat-heroes.json](./74197-deadbeat-heroes.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
+| Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
@@ -6049,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
+| Distant Space 2 | 75007 | [75007-distant-space-2.json](./75007-distant-space-2.json) |
 | Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
@@ -7028,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Look! | 372019 | [372019-dont-look.json](./372019-dont-look.json) |
+| Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
@@ -9604,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplette | 291169 | [291169-droplette.json](./291169-droplette.json) |
 | Droplitz | 10250 | [10250-droplitz.json](./10250-droplitz.json) |
 | Droplitz Delight | 65295 | [65295-droplitz-delight.json](./65295-droplitz-delight.json) |
+| DropMix | 71592 | [71592-dropmix.json](./71592-dropmix.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
@@ -10115,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
 | Dune: The Battle for Arrakis | 77207 | [77207-dune-the-battle-for-arrakis.json](./77207-dune-the-battle-for-arrakis.json) |
+| Dune! | 74550 | [74550-dune.json](./74550-dune.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | DuneCrawl | 318505 | [318505-dunecrawl.json](./318505-dunecrawl.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
