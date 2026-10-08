@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol Time PriPara Yume All Star Live! | 136938 | [136938-idol-time-pripara-yume-all-star-live.json](./136938-idol-time-pripara-yume-all-star-live.json) |
+| Idol Ura Eigyou: Kegasareta Stage Ishou | 409425 | [409425-idol-ura-eigyou-kegasareta-stage-ishou.json](./409425-idol-ura-eigyou-kegasareta-stage-ishou.json) |
 | Idol vs Furries | 264798 | [264798-idol-vs-furries.json](./264798-idol-vs-furries.json) |
 | Idol Wars Online | 110261 | [110261-idol-wars-online.json](./110261-idol-wars-online.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
