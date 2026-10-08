@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigiri Run | 351781 | [351781-onigiri-run.json](./351781-onigiri-run.json) |
 | Onigiri Shop Simulator | 361911 | [361911-onigiri-shop-simulator.json](./361911-onigiri-shop-simulator.json) |
 | Onigo Hunter | 133618 | [133618-onigo-hunter.json](./133618-onigo-hunter.json) |
+| Onii Kiss: Onii-chan, Where's My Kiss? | 401171 | [401171-onii-kiss-onii-chan-wheres-my-kiss.json](./401171-onii-kiss-onii-chan-wheres-my-kiss.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
 | Ore no Dungeon | 58165 | [58165-ore-no-dungeon.json](./58165-ore-no-dungeon.json) |
+| Ore no Hitomi de Maruhadaka! Fukachi na Mirai to Misukasu Vision | 401162 | [401162-ore-no-hitomi-de-maruhadaka-fukachi-na-mirai-to-misukasu-vision.json](./401162-ore-no-hitomi-de-maruhadaka-fukachi-na-mirai-to-misukasu-vision.json) |
 | Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable | 66192 | [66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json](./66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json) |
 | Ore no Imouto ga Konnani Kawaii Wake ga Nai. HappyenD | 62803 | [62803-ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-happyend.json](./62803-ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-happyend.json) |
 | Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
@@ -2566,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
 | OshiRabu: Waifus Over Husbandos - Love or Die | 150239 | [150239-oshirabu-waifus-over-husbandos-love-or-die.json](./150239-oshirabu-waifus-over-husbandos-love-or-die.json) |
 | Oshiri Princess | 90936 | [90936-oshiri-princess.json](./90936-oshiri-princess.json) |
