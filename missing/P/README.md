@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
 | Petz Wild Animals: Dolphinz | 47902 | [47902-petz-wild-animals-dolphinz.json](./47902-petz-wild-animals-dolphinz.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
+| Petz: Catz Playground | 401138 | [401138-petz-catz-playground.json](./401138-petz-catz-playground.json) |
 | Petz: Dogz Fashion | 123373 | [123373-petz-dogz-fashion.json](./123373-petz-dogz-fashion.json) |
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
@@ -3385,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
+| Physician of Armiosion | 401160 | [401160-physician-of-armiosion.json](./401160-physician-of-armiosion.json) |
 | Physician Simulator | 407364 | [407364-physician-simulator.json](./407364-physician-simulator.json) |
 | Physics Balls | 101107 | [101107-physics-balls.json](./101107-physics-balls.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
