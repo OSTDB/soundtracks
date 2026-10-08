@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
+| Tabletop Foosball | 409513 | [409513-tabletop-foosball.json](./409513-tabletop-foosball.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
 | Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
+| Tenshi no Uta: The Angel's Verse Collection | 409512 | [409512-tenshi-no-uta-the-angels-verse-collection.json](./409512-tenshi-no-uta-the-angels-verse-collection.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshi-tachi no Gogo IV: Yuuko | 271421 | [271421-tenshi-tachi-no-gogo-iv-yuuko.json](./271421-tenshi-tachi-no-gogo-iv-yuuko.json) |
@@ -5767,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
+| The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Ones | 419850 | [419850-the-forgotten-ones.json](./419850-the-forgotten-ones.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
@@ -6152,6 +6155,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grimsworth Reports: Woodfall | 75004 | [75004-the-grimsworth-reports-woodfall.json](./75004-the-grimsworth-reports-woodfall.json) |
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
+| The Grinch 2: Saving Christmas | 409510 | [409510-the-grinch-2-saving-christmas.json](./409510-the-grinch-2-saving-christmas.json) |
+| The Grinch: 2 in 1 Game Collection | 409511 | [409511-the-grinch-2-in-1-game-collection.json](./409511-the-grinch-2-in-1-game-collection.json) |
 | The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
 | The Grinch: Christmas Adventures - Merry & Mischievous Edition | 370827 | [370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json](./370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
@@ -7295,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
+| The Laws of Probability | 409407 | [409407-the-laws-of-probability.json](./409407-the-laws-of-probability.json) |
 | The Lays of Althas : Sundered Order | 7575 | [7575-the-lays-of-althas-sundered-order.json](./7575-the-lays-of-althas-sundered-order.json) |
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
@@ -7876,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Medallion | 64356 | [64356-the-lost-medallion.json](./64356-the-lost-medallion.json) |
 | The Lost Mind of Dr. Brain | 79885 | [79885-the-lost-mind-of-dr-brain.json](./79885-the-lost-mind-of-dr-brain.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
+| The Lost Mixtape | 409411 | [409411-the-lost-mixtape.json](./409411-the-lost-mixtape.json) |
 | The Lost Moonbase | 270697 | [270697-the-lost-moonbase.json](./270697-the-lost-moonbase.json) |
 | The Lost Mystic Ornament | 220194 | [220194-the-lost-mystic-ornament.json](./220194-the-lost-mystic-ornament.json) |
 | The Lost Myth | 340573 | [340573-the-lost-myth.json](./340573-the-lost-myth.json) |
@@ -8755,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perplexing Orb: Bounce Mania | 384744 | [384744-the-perplexing-orb-bounce-mania.json](./384744-the-perplexing-orb-bounce-mania.json) |
 | The Perplexing Orb: Bounce N' Roll | 276155 | [276155-the-perplexing-orb-bounce-n-roll.json](./276155-the-perplexing-orb-bounce-n-roll.json) |
 | The Persistence | 37282 | [37282-the-persistence.json](./37282-the-persistence.json) |
+| The Person Living Next Door | 409509 | [409509-the-person-living-next-door.json](./409509-the-person-living-next-door.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
@@ -10387,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thaumaturge | 239942 | [239942-the-thaumaturge.json](./239942-the-thaumaturge.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
+| The Therapist Impostor | 409414 | [409414-the-therapist-impostor.json](./409414-the-therapist-impostor.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
@@ -12234,6 +12243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
+| Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
@@ -13805,6 +13815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkertown | 133078 | [133078-tinkertown.json](./133078-tinkertown.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
+| Tinny Strays | 409507 | [409507-tinny-strays.json](./409507-tinny-strays.json) |
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
@@ -14499,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
+| Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
@@ -14647,6 +14659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
 | Told God-The Legacy of Cthulhu | 100813 | [100813-told-god-the-legacy-of-cthulhu.json](./100813-told-god-the-legacy-of-cthulhu.json) |
 | Told God: The Legacy of Cthulhu | 306363 | [306363-told-god-the-legacy-of-cthulhu.json](./306363-told-god-the-legacy-of-cthulhu.json) |
+| Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
@@ -14924,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Life | 6403 | [6403-tomodachi-life.json](./6403-tomodachi-life.json) |
 | Tomodachi Life: The Gay Mod | 350609 | [350609-tomodachi-life-the-gay-mod.json](./350609-tomodachi-life-the-gay-mod.json) |
+| Tomodachi no Haha: Jukujuku Taru Omoi | 409420 | [409420-tomodachi-no-haha-jukujuku-taru-omoi.json](./409420-tomodachi-no-haha-jukujuku-taru-omoi.json) |
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomomi: Denkitomodachi | 130251 | [130251-tomomi-denkitomodachi.json](./130251-tomomi-denkitomodachi.json) |
@@ -15047,6 +15061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Tough and the Night of Roasted Moths | 10792 | [10792-tony-tough-and-the-night-of-roasted-moths.json](./10792-tony-tough-and-the-night-of-roasted-moths.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
+| Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Fast | 183913 | [183913-too-fast.json](./183913-too-fast.json) |
@@ -16544,6 +16559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
 | Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
+| Train Graveyard Simulator | 409406 | [409406-train-graveyard-simulator.json](./409406-train-graveyard-simulator.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
@@ -17636,6 +17652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 86012 | [86012-trauma.json](./86012-trauma.json) |
 | Trauma Center: New Blood | 1525 | [1525-trauma-center-new-blood.json](./1525-trauma-center-new-blood.json) |
 | Trauma Center: Second Opinion | 1524 | [1524-trauma-center-second-opinion.json](./1524-trauma-center-second-opinion.json) |
+| Trauma Pets | 409415 | [409415-trauma-pets.json](./409415-trauma-pets.json) |
 | Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
@@ -18248,6 +18265,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Track | 416584 | [416584-triple-track.json](./416584-triple-track.json) |
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
+| Triple Trouble: Midnight Club | 409504 | [409504-triple-trouble-midnight-club.json](./409504-triple-trouble-midnight-club.json) |
+| Triple Trouble: Private Lesson | 409503 | [409503-triple-trouble-private-lesson.json](./409503-triple-trouble-private-lesson.json) |
 | Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zombie Collection | 274443 | [274443-triple-zombie-collection.json](./274443-triple-zombie-collection.json) |
@@ -18579,6 +18598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trucy's Magical Catastrophe | 309992 | [309992-trucys-magical-catastrophe.json](./309992-trucys-magical-catastrophe.json) |
+| Trudge | 409399 | [409399-trudge.json](./409399-trudge.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Backgammon HD | 87922 | [87922-true-backgammon-hd.json](./87922-true-backgammon-hd.json) |
