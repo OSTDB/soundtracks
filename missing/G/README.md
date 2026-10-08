@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Pass Station | 190467 | [190467-galaxy-pass-station.json](./190467-galaxy-pass-station.json) |
 | Galaxy Princess Zorana | 327953 | [327953-galaxy-princess-zorana.json](./327953-galaxy-princess-zorana.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
+| Galaxy Punch | 100774 | [100774-galaxy-punch.json](./100774-galaxy-punch.json) |
 | Galaxy Quest | 294393 | [294393-galaxy-quest.json](./294393-galaxy-quest.json) |
 | Galaxy Racers | 76130 | [76130-galaxy-racers.json](./76130-galaxy-racers.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
 | Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
+| Glory of Thrones: War of Conquest | 100785 | [100785-glory-of-thrones-war-of-conquest.json](./100785-glory-of-thrones-war-of-conquest.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
@@ -3006,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
+| GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
@@ -4089,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
+| Gopnik Simulator | 100399 | [100399-gopnik-simulator.json](./100399-gopnik-simulator.json) |
 | GoPogo | 235681 | [235681-gopogo.json](./235681-gopogo.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Goraku-Ou Tango! | 281521 | [281521-goraku-ou-tango.json](./281521-goraku-ou-tango.json) |
@@ -5361,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
 | GrimmVeil | 387628 | [387628-grimmveil.json](./387628-grimmveil.json) |
+| Grimmwood | 100580 | [100580-grimmwood.json](./100580-grimmwood.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
 | Grimoire Arena | 125328 | [125328-grimoire-arena.json](./125328-grimoire-arena.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
