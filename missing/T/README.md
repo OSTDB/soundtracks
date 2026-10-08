@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
+| Table Tennis VR | 32289 | [32289-table-tennis-vr.json](./32289-table-tennis-vr.json) |
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
@@ -4054,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
+| The Braves & Bows | 32292 | [32292-the-braves-and-bows.json](./32292-the-braves-and-bows.json) |
 | The Brazil | 294851 | [294851-the-brazil.json](./294851-the-brazil.json) |
 | The Breach | 361308 | [361308-the-breach.json](./361308-the-breach.json) |
 | The Breach: A VR Escape Game | 120119 | [120119-the-breach-a-vr-escape-game.json](./120119-the-breach-a-vr-escape-game.json) |
@@ -4394,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
+| The Cold War Era | 32133 | [32133-the-cold-war-era.json](./32133-the-cold-war-era.json) |
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
@@ -4476,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
+| The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
@@ -9845,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
 | The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
+| The Slingshot VR | 32212 | [32212-the-slingshot-vr.json](./32212-the-slingshot-vr.json) |
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
 | The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
@@ -10872,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
+| The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 2158 | [2158-the-urbz-sims-in-the-city.json](./2158-the-urbz-sims-in-the-city.json) |
@@ -18490,6 +18496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
+| True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
 | True Nightmare: Diner Loop | 413209 | [413209-true-nightmare-diner-loop.json](./413209-true-nightmare-diner-loop.json) |
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
@@ -19250,6 +19257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
+| Twisted Arrow | 32285 | [32285-twisted-arrow.json](./32285-twisted-arrow.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Detective | 301488 | [301488-twisted-detective.json](./301488-twisted-detective.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
