@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Football | 402377 | [402377-global-football.json](./402377-global-football.json) |
 | Global Fortune | 119604 | [119604-global-fortune.json](./119604-global-fortune.json) |
 | Global Gladiators | 6828 | [6828-global-gladiators.json](./6828-global-gladiators.json) |
+| Global Hero | 390155 | [390155-global-hero.json](./390155-global-hero.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess of Card War: DLC-2 | 170419 | [170419-goddess-of-card-war-dlc-2.json](./170419-goddess-of-card-war-dlc-2.json) |
 | Goddess of Fate IV: Lilith | 281447 | [281447-goddess-of-fate-iv-lilith.json](./281447-goddess-of-fate-iv-lilith.json) |
 | Goddess of Math | 116116 | [116116-goddess-of-math.json](./116116-goddess-of-math.json) |
+| Goddess of Strategy | 390170 | [390170-goddess-of-strategy.json](./390170-goddess-of-strategy.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Goddess of the Miracle | 367549 | [367549-goddess-of-the-miracle.json](./367549-goddess-of-the-miracle.json) |
 | Goddess of War Ashley | 144222 | [144222-goddess-of-war-ashley.json](./144222-goddess-of-war-ashley.json) |
@@ -5761,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
+| GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
 | GTR3 | 56269 | [56269-gtr3.json](./56269-gtr3.json) |
 | GTRevival | 271259 | [271259-gtrevival.json](./271259-gtrevival.json) |
@@ -6164,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
+| Gun Nose | 390152 | [390152-gun-nose.json](./390152-gun-nose.json) |
 | Gun of Fate: The Silver Gun of Ylia | 373149 | [373149-gun-of-fate-the-silver-gun-of-ylia.json](./373149-gun-of-fate-the-silver-gun-of-ylia.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
 | Gun Paradise | 348260 | [348260-gun-paradise.json](./348260-gun-paradise.json) |
