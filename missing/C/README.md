@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
+| Calon Arang Nightmare of Revenge | 387557 | [387557-calon-arang-nightmare-of-revenge.json](./387557-calon-arang-nightmare-of-revenge.json) |
 | Calorie-kun vs. Moguranian | 301953 | [301953-calorie-kun-vs-moguranian.json](./301953-calorie-kun-vs-moguranian.json) |
 | CalorieMate Liquid for Game Creators | 316719 | [316719-caloriemate-liquid-for-game-creators.json](./316719-caloriemate-liquid-for-game-creators.json) |
 | Calpria | 416686 | [416686-calpria.json](./416686-calpria.json) |
@@ -566,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
+| Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
@@ -9283,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
+| CrankyCube | 387708 | [387708-crankycube.json](./387708-crankycube.json) |
 | Cranner | 212301 | [212301-cranner.json](./212301-cranner.json) |
 | CRAP | 223517 | [223517-crap.json](./223517-crap.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
