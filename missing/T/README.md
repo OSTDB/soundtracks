@@ -18560,6 +18560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
+| Trouble on the Way | 394129 | [394129-trouble-on-the-way.json](./394129-trouble-on-the-way.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
@@ -19147,6 +19148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
+| Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
