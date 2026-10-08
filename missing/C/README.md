@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
+| C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
+| Can I Go Home Yet? | 397393 | [397393-can-i-go-home-yet.json](./397393-can-i-go-home-yet.json) |
 | Can I Have a Glass of Water? | 415489 | [415489-can-i-have-a-glass-of-water.json](./415489-can-i-have-a-glass-of-water.json) |
 | Can I Not Fall for Idols? | 390818 | [390818-can-i-not-fall-for-idols.json](./390818-can-i-not-fall-for-idols.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
@@ -1304,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
+| Cardboard Box Assembler | 397412 | [397412-cardboard-box-assembler.json](./397412-cardboard-box-assembler.json) |
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Clash | 125904 | [125904-cardboard-clash.json](./125904-cardboard-clash.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
@@ -1753,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Guns Chaos DLX | 85865 | [85865-cash-guns-chaos-dlx.json](./85865-cash-guns-chaos-dlx.json) |
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cash Invaders | 92826 | [92826-cash-invaders.json](./92826-cash-invaders.json) |
+| Cash is King! | 397405 | [397405-cash-is-king.json](./397405-cash-is-king.json) |
 | Cash Movers | 407286 | [407286-cash-movers.json](./407286-cash-movers.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
@@ -5326,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
+| City Transport Simulator 2026 | 397389 | [397389-city-transport-simulator-2026.json](./397389-city-transport-simulator-2026.json) |
 | City Transport Simulator 2026: Bus DLC - Citybus C2 | 399274 | [399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json](./399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json) |
 | City Transport Simulator 2026: Bus DLC - MAN Lion's City A26 & A47 | 399279 | [399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json](./399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json) |
 | City Transport Simulator 2026: Bus DLC - MAN New Lion's City | 399275 | [399275-city-transport-simulator-2026-bus-dlc-man-new-lions-city.json](./399275-city-transport-simulator-2026-bus-dlc-man-new-lions-city.json) |
@@ -9239,6 +9244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
+| Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
 | Cranner | 212301 | [212301-cranner.json](./212301-cranner.json) |
@@ -10058,6 +10064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
+| Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticism Roundup 2013 | 224456 | [224456-criticism-roundup-2013.json](./224456-criticism-roundup-2013.json) |
