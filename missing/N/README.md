@@ -3089,6 +3089,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Master | 13021 | [13021-ninja-master.json](./13021-ninja-master.json) |
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
 | Ninja Masters | 103632 | [103632-ninja-masters.json](./103632-ninja-masters.json) |
+| Ninja Miner | 408740 | [408740-ninja-miner.json](./408740-ninja-miner.json) |
+| Ninja Miner 2 | 408741 | [408741-ninja-miner-2.json](./408741-ninja-miner-2.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
@@ -3722,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
+| NocturneRecomp | 408841 | [408841-nocturnerecomp.json](./408841-nocturnerecomp.json) |
 | Nod If You Can Hear Me | 177824 | [177824-nod-if-you-can-hear-me.json](./177824-nod-if-you-can-hear-me.json) |
 | Nod: A Meditation on the Existential Pain of Becoming | 178941 | [178941-nod-a-meditation-on-the-existential-pain-of-becoming.json](./178941-nod-a-meditation-on-the-existential-pain-of-becoming.json) |
 | Nod3s | 23857 | [23857-nod3s.json](./23857-nod3s.json) |
