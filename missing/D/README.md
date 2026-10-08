@@ -7245,6 +7245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Dongo Adventure | 90826 | [90826-dongo-adventure.json](./90826-dongo-adventure.json) |
+| Dongri Shuxia de Huiyi | 411513 | [411513-dongri-shuxia-de-huiyi.json](./411513-dongri-shuxia-de-huiyi.json) |
+| Dongri Shuxia de Huiyi After | 411514 | [411514-dongri-shuxia-de-huiyi-after.json](./411514-dongri-shuxia-de-huiyi-after.json) |
 | Donguri Koen: Jinkou Eisei Head Scissors Whip | 320814 | [320814-donguri-koen-jinkou-eisei-head-scissors-whip.json](./320814-donguri-koen-jinkou-eisei-head-scissors-whip.json) |
 | Donkee's Adventure | 401638 | [401638-donkees-adventure.json](./401638-donkees-adventure.json) |
 | Donkey Angler | 305439 | [305439-donkey-angler.json](./305439-donkey-angler.json) |
@@ -9124,6 +9126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
+| Dream Game | 411416 | [411416-dream-game.json](./411416-dream-game.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
@@ -9358,6 +9361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
+| Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
