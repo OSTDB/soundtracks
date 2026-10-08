@@ -6791,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Solar: Chaos War | 32057 | [32057-blue-solar-chaos-war.json](./32057-blue-solar-chaos-war.json) |
 | Blue Sphere Madness | 332598 | [332598-blue-sphere-madness.json](./332598-blue-sphere-madness.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
+| Blue Steel | 401174 | [401174-blue-steel.json](./401174-blue-steel.json) |
 | Blue Stinger | 6715 | [6715-blue-stinger.json](./6715-blue-stinger.json) |
 | Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
 | Blue Sun Saga | 416863 | [416863-blue-sun-saga.json](./416863-blue-sun-saga.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
+| Bolt & Whalington | 401177 | [401177-bolt-and-whalington.json](./401177-bolt-and-whalington.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
 | Bolt Riley, A Reggae Adventure: Chapter 1 | 36168 | [36168-bolt-riley-a-reggae-adventure-chapter-1.json](./36168-bolt-riley-a-reggae-adventure-chapter-1.json) |
