@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
 | Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
+| Reficul | 74504 | [74504-reficul.json](./74504-reficul.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
@@ -6179,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 350561 | [350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./350561-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms IV: Wall of Fire | 7040 | [7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
+| Romance of the Three Kingdoms IX with Power Up Kit | 74684 | [74684-romance-of-the-three-kingdoms-ix-with-power-up-kit.json](./74684-romance-of-the-three-kingdoms-ix-with-power-up-kit.json) |
 | Romance of the Three Kingdoms IX: Power Up Kit | 350632 | [350632-romance-of-the-three-kingdoms-ix-power-up-kit.json](./350632-romance-of-the-three-kingdoms-ix-power-up-kit.json) |
 | Romance of the Three Kingdoms Maker | 34575 | [34575-romance-of-the-three-kingdoms-maker.json](./34575-romance-of-the-three-kingdoms-maker.json) |
 | Romance of the Three Kingdoms V with Power Up Kit | 91115 | [91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json](./91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json) |
