@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
+| Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
 | Emoji Quiz Football | 305265 | [305265-emoji-quiz-football.json](./305265-emoji-quiz-football.json) |
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
 | Emoji Scream | 97716 | [97716-emoji-scream.json](./97716-emoji-scream.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
+| Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
 | Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
 | Escape from Pleasure Planet | 32138 | [32138-escape-from-pleasure-planet.json](./32138-escape-from-pleasure-planet.json) |
 | Escape from police | 114294 | [114294-escape-from-police.json](./114294-escape-from-police.json) |
@@ -3862,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everhood 2 | 253100 | [253100-everhood-2.json](./253100-everhood-2.json) |
 | Everhood Hunters | 393729 | [393729-everhood-hunters.json](./393729-everhood-hunters.json) |
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
+| Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
@@ -4551,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
 | Explosionade | 35176 | [35176-explosionade.json](./35176-explosionade.json) |
 | Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
+| Explosioneer | 389034 | [389034-explosioneer.json](./389034-explosioneer.json) |
 | Explosiovania | 361258 | [361258-explosiovania.json](./361258-explosiovania.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
 | Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
