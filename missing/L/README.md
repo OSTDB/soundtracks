@@ -2586,6 +2586,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
+| Life Ark 4 | 404842 | [404842-life-ark-4.json](./404842-life-ark-4.json) |
+| Life Ark 5 | 404845 | [404845-life-ark-5.json](./404845-life-ark-5.json) |
 | Life as a Lich | 295901 | [295901-life-as-a-lich.json](./295901-life-as-a-lich.json) |
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Party | 59910 | [59910-little-party.json](./59910-little-party.json) |
 | Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
+| Little Paws: Kitty Cat - Gold Edition | 404279 | [404279-little-paws-kitty-cat-gold-edition.json](./404279-little-paws-kitty-cat-gold-edition.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Picnic | 412806 | [412806-little-picnic.json](./412806-little-picnic.json) |
@@ -4605,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost | 327379 | [327379-lost.json](./327379-lost.json) |
 | Lost | 99158 | [99158-lost.json](./99158-lost.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
+| Lost & Found | 404803 | [404803-lost-and-found.json](./404803-lost-and-found.json) |
 | Lost & Found: A This Bed We Made Story | 391841 | [391841-lost-and-found-a-this-bed-we-made-story.json](./391841-lost-and-found-a-this-bed-we-made-story.json) |
 | Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
