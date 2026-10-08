@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrities Hacked: LatexUsagi Photo Pack | 289469 | [289469-celebrities-hacked-latexusagi-photo-pack.json](./289469-celebrities-hacked-latexusagi-photo-pack.json) |
 | Celebrities Hacked: NoirPetal Photo Pack | 289467 | [289467-celebrities-hacked-noirpetal-photo-pack.json](./289467-celebrities-hacked-noirpetal-photo-pack.json) |
 | Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
+| Celebrity Bash | 394201 | [394201-celebrity-bash.json](./394201-celebrity-bash.json) |
 | Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
 | Celebrity Kombat | 264090 | [264090-celebrity-kombat.json](./264090-celebrity-kombat.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
@@ -4403,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
+| Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Choose Your Paul! | 406139 | [406139-choose-your-paul.json](./406139-choose-your-paul.json) |
 | Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
@@ -7623,6 +7625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Condor 3 | 327922 | [327922-condor-3.json](./327922-condor-3.json) |
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
+| Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
