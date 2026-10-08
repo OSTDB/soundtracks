@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
+| Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
+| Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
 | Natalie Brooks Treasures of the Lost Kingdom | 143378 | [143378-natalie-brooks-treasures-of-the-lost-kingdom.json](./143378-natalie-brooks-treasures-of-the-lost-kingdom.json) |
 | Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
@@ -1338,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Contra | 20208 | [20208-neo-contra.json](./20208-neo-contra.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
+| Neo Geo Battle Coliseum | 21518 | [21518-neo-geo-battle-coliseum.json](./21518-neo-geo-battle-coliseum.json) |
 | Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
 | Neo Geo Cup '98 Plus | 75494 | [75494-neo-geo-cup-98-plus.json](./75494-neo-geo-cup-98-plus.json) |
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
@@ -1857,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter: Underdark | 224467 | [224467-neverwinter-underdark.json](./224467-neverwinter-underdark.json) |
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Neverwood | 401788 | [401788-neverwood.json](./401788-neverwood.json) |
+| Neves | 21523 | [21523-neves.json](./21523-neves.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
 | Nevrosa: Prelude | 27446 | [27446-nevrosa-prelude.json](./27446-nevrosa-prelude.json) |
 | Nevrosa: Primal Ritual | 118427 | [118427-nevrosa-primal-ritual.json](./118427-nevrosa-primal-ritual.json) |
