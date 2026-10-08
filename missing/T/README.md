@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
+| Take on Mars | 16572 | [16572-take-on-mars.json](./16572-take-on-mars.json) |
 | Take Over the World | 57489 | [57489-take-over-the-world.json](./57489-take-over-the-world.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
 | The Designer's Curse Chapter 2: Forgotten Horrors | 338329 | [338329-the-designers-curse-chapter-2-forgotten-horrors.json](./338329-the-designers-curse-chapter-2-forgotten-horrors.json) |
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
+| The Desolate Hope | 17351 | [17351-the-desolate-hope.json](./17351-the-desolate-hope.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Destiny Star of Girlfriend: Episode of Fujiko | 305322 | [305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json](./305322-the-destiny-star-of-girlfriend-episode-of-fujiko.json) |
 | The Destroyer from Jail | 378377 | [378377-the-destroyer-from-jail.json](./378377-the-destroyer-from-jail.json) |
@@ -10632,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twins | 128337 | [128337-the-twins.json](./128337-the-twins.json) |
 | The Twins | 324870 | [324870-the-twins.json](./324870-the-twins.json) |
 | The Twisted Dream | 323354 | [323354-the-twisted-dream.json](./323354-the-twisted-dream.json) |
+| The Twisted Tales of Spike McFang | 16295 | [16295-the-twisted-tales-of-spike-mcfang.json](./16295-the-twisted-tales-of-spike-mcfang.json) |
 | The Twisted Zone: Foreborn | 413827 | [413827-the-twisted-zone-foreborn.json](./413827-the-twisted-zone-foreborn.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Two Body Problem | 411725 | [411725-the-two-body-problem.json](./411725-the-two-body-problem.json) |
@@ -15983,6 +15986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Yuri | 397186 | [397186-toxic-yuri.json](./397186-toxic-yuri.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
+| Toxikk | 17875 | [17875-toxikk.json](./17875-toxikk.json) |
 | Toxin the Game | 114984 | [114984-toxin-the-game.json](./114984-toxin-the-game.json) |
 | Toxoplasma | 385339 | [385339-toxoplasma.json](./385339-toxoplasma.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
@@ -17436,6 +17440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
 | Traverse the Void | 157473 | [157473-traverse-the-void.json](./157473-traverse-the-void.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
+| Traverser | 17926 | [17926-traverser.json](./17926-traverser.json) |
 | Traversia | 63669 | [63669-traversia.json](./63669-traversia.json) |
 | Traversing Traveler | 148463 | [148463-traversing-traveler.json](./148463-traversing-traveler.json) |
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
@@ -18596,6 +18601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
 | Tumbles | 350056 | [350056-tumbles.json](./350056-tumbles.json) |
 | TumbleSeed | 27051 | [27051-tumbleseed.json](./27051-tumbleseed.json) |
+| Tumblestone | 16926 | [16926-tumblestone.json](./16926-tumblestone.json) |
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
 | Tumiki Fighters | 50414 | [50414-tumiki-fighters.json](./50414-tumiki-fighters.json) |
