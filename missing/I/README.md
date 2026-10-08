@@ -901,6 +901,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
+| Idle Immortal: Daughter of Fate | 410849 | [410849-idle-immortal-daughter-of-fate.json](./410849-idle-immortal-daughter-of-fate.json) |
+| Idle Immortal: Deluxe Edition | 410846 | [410846-idle-immortal-deluxe-edition.json](./410846-idle-immortal-deluxe-edition.json) |
+| Idle Immortal: Seven-Star Strategist | 410850 | [410850-idle-immortal-seven-star-strategist.json](./410850-idle-immortal-seven-star-strategist.json) |
 | Idle Industries | 159115 | [159115-idle-industries.json](./159115-idle-industries.json) |
 | Idle Industries | 255701 | [255701-idle-industries.json](./255701-idle-industries.json) |
 | Idle Intelligence | 101708 | [101708-idle-intelligence.json](./101708-idle-intelligence.json) |
@@ -3261,6 +3264,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
+| Invincible Vs.: The Immortal - Additional Fighter | 410817 | [410817-invincible-vs-the-immortal-additional-fighter.json](./410817-invincible-vs-the-immortal-additional-fighter.json) |
+| Invincible Vs.: Zero-Suit Mark Cosmetic Skin | 410816 | [410816-invincible-vs-zero-suit-mark-cosmetic-skin.json](./410816-invincible-vs-zero-suit-mark-cosmetic-skin.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invirium | 143346 | [143346-invirium.json](./143346-invirium.json) |
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
