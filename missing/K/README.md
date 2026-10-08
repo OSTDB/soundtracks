@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Kinect Googly Eyes | 329729 | [329729-kinect-fun-labs-kinect-googly-eyes.json](./329729-kinect-fun-labs-kinect-googly-eyes.json) |
 | Kinect Fun Labs: Kinect Rush Snapshot | 329735 | [329735-kinect-fun-labs-kinect-rush-snapshot.json](./329735-kinect-fun-labs-kinect-rush-snapshot.json) |
 | Kinect Fun Labs: Kinect Sparkler | 329730 | [329730-kinect-fun-labs-kinect-sparkler.json](./329730-kinect-fun-labs-kinect-sparkler.json) |
+| Kinect Fun Labs: Musical Feet | 20217 | [20217-kinect-fun-labs-musical-feet.json](./20217-kinect-fun-labs-musical-feet.json) |
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
