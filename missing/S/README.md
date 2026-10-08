@@ -14510,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 5706 | [5706-star-wars-the-empire-strikes-back.json](./5706-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
+| Star Wars: The Force Unleashed | 399295 | [399295-star-wars-the-force-unleashed.json](./399295-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Force Unleashed - Ultimate Sith Edition | 19637 | [19637-star-wars-the-force-unleashed-ultimate-sith-edition.json](./19637-star-wars-the-force-unleashed-ultimate-sith-edition.json) |
 | Star Wars: The Force Unleashed II - Collector's Edition | 47460 | [47460-star-wars-the-force-unleashed-ii-collectors-edition.json](./47460-star-wars-the-force-unleashed-ii-collectors-edition.json) |
