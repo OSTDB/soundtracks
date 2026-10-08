@@ -4018,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
+| LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
 | Locomochi | 415310 | [415310-locomochi.json](./415310-locomochi.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
