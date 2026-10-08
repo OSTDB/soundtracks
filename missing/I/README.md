@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
 | Intra | 332673 | [332673-intra.json](./332673-intra.json) |
 | Intra-System: Trust Issues | 194282 | [194282-intra-system-trust-issues.json](./194282-intra-system-trust-issues.json) |
+| Intralism | 31786 | [31786-intralism.json](./31786-intralism.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intransigent | 326275 | [326275-intransigent.json](./326275-intransigent.json) |
 | Intraquartz | 215034 | [215034-intraquartz.json](./215034-intraquartz.json) |
