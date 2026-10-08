@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo-kai Watch 4 | 96246 | [96246-yo-kai-watch-4.json](./96246-yo-kai-watch-4.json) |
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
+| Yo-kai Watch Blasters: Red Cat Corps | 11659 | [11659-yo-kai-watch-blasters-red-cat-corps.json](./11659-yo-kai-watch-blasters-red-cat-corps.json) |
 | Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum | 136935 | [136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json](./136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
 | Yo-kai Watch Land | 137418 | [137418-yo-kai-watch-land.json](./137418-yo-kai-watch-land.json) |
