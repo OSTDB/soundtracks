@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
+| Your Intelligence Will Be Exposed: Mystery Observation Challenge | 409501 | [409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json](./409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json) |
 | Your Island: Kimi no Sima | 118803 | [118803-your-island-kimi-no-sima.json](./118803-your-island-kimi-no-sima.json) |
 | Your Judgment, Inquisitor | 361240 | [361240-your-judgment-inquisitor.json](./361240-your-judgment-inquisitor.json) |
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
 | Yuru Yuru Gekijou Classic | 221254 | [221254-yuru-yuru-gekijou-classic.json](./221254-yuru-yuru-gekijou-classic.json) |
+| Yuru-Eto Card Battle | 409502 | [409502-yuru-eto-card-battle.json](./409502-yuru-eto-card-battle.json) |
 | Yuru-fuwa Ball | 206677 | [206677-yuru-fuwa-ball.json](./206677-yuru-fuwa-ball.json) |
 | Yuru-GeGeGe no Kitaro | 223972 | [223972-yuru-gegege-no-kitaro.json](./223972-yuru-gegege-no-kitaro.json) |
 | Yuru-huwa Souls | 206678 | [206678-yuru-huwa-souls.json](./206678-yuru-huwa-souls.json) |
