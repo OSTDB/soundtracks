@@ -3976,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Watchmen: Mother Russia | 170485 | [170485-the-black-watchmen-mother-russia.json](./170485-the-black-watchmen-mother-russia.json) |
 | The Black Watchmen: Season 2 - Enduring Conflict | 170486 | [170486-the-black-watchmen-season-2-enduring-conflict.json](./170486-the-black-watchmen-season-2-enduring-conflict.json) |
 | The Black Watchmen: Whitechapel | 170487 | [170487-the-black-watchmen-whitechapel.json](./170487-the-black-watchmen-whitechapel.json) |
+| The Black Whale | 394792 | [394792-the-black-whale.json](./394792-the-black-whale.json) |
 | The Black Within | 244916 | [244916-the-black-within.json](./244916-the-black-within.json) |
 | The Blacklist: Conspiracy | 58266 | [58266-the-blacklist-conspiracy.json](./58266-the-blacklist-conspiracy.json) |
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
@@ -5531,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Famous Five: Kidnapped | 13772 | [13772-the-famous-five-kidnapped.json](./13772-the-famous-five-kidnapped.json) |
 | The Famous Five: Silver Tower | 13771 | [13771-the-famous-five-silver-tower.json](./13771-the-famous-five-silver-tower.json) |
 | The Famous Five: Treasure Island | 13770 | [13770-the-famous-five-treasure-island.json](./13770-the-famous-five-treasure-island.json) |
+| The Fan Game - Ghostbusters and The Secret of Monkey Island | 394785 | [394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json](./394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
@@ -7661,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of the Darkness: Origins | 274568 | [274568-the-light-of-the-darkness-origins.json](./274568-the-light-of-the-darkness-origins.json) |
 | The Light Remake | 123791 | [123791-the-light-remake.json](./123791-the-light-remake.json) |
+| The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
@@ -8771,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The People of Sea, Sun & Salt | 359040 | [359040-the-people-of-sea-sun-and-salt.json](./359040-the-people-of-sea-sun-and-salt.json) |
 | The People's House | 396900 | [396900-the-peoples-house.json](./396900-the-peoples-house.json) |
 | The People's Sky | 408256 | [408256-the-peoples-sky.json](./408256-the-peoples-sky.json) |
+| The People's Tree 2021 | 394783 | [394783-the-peoples-tree-2021.json](./394783-the-peoples-tree-2021.json) |
 | The Pepper Prince: Episode 1 - Red Hot Chili Wedding | 113532 | [113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json](./113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
@@ -15055,6 +15059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
 | Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
+| Tonight's Special | 394814 | [394814-tonights-special.json](./394814-tonights-special.json) |
 | Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
