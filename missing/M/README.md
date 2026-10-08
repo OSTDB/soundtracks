@@ -4407,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Mobile | 103892 | [103892-mega-man-2-mobile.json](./103892-mega-man-2-mobile.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
+| Mega Man 2 Revamped | 391133 | [391133-mega-man-2-revamped.json](./391133-mega-man-2-revamped.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 3 | 1716 | [1716-mega-man-3.json](./1716-mega-man-3.json) |
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
@@ -4538,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
 | Mega Man Redux | 45189 | [45189-mega-man-redux.json](./45189-mega-man-redux.json) |
+| Mega Man Revamped | 391132 | [391132-mega-man-revamped.json](./391132-mega-man-revamped.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
