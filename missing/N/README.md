@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
 | Noelle Does Her Best! | 210717 | [210717-noelle-does-her-best.json](./210717-noelle-does-her-best.json) |
 | Noelle: Lost Soul | 330818 | [330818-noelle-lost-soul.json](./330818-noelle-lost-soul.json) |
+| Noelle's Ark | 396699 | [396699-noelles-ark.json](./396699-noelles-ark.json) |
 | Noelle's Forest Adventure | 280817 | [280817-noelles-forest-adventure.json](./280817-noelles-forest-adventure.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Noematica: Digital Dollhouse | 409772 | [409772-noematica-digital-dollhouse.json](./409772-noematica-digital-dollhouse.json) |
