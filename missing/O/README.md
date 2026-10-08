@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O3: Hollow Descent | 308927 | [308927-o3-hollow-descent.json](./308927-o3-hollow-descent.json) |
 | O3DX | 26876 | [26876-o3dx.json](./26876-o3dx.json) |
 | O7 | 389116 | [389116-o7.json](./389116-o7.json) |
+| Oafmatch | 30586 | [30586-oafmatch.json](./30586-oafmatch.json) |
 | Oak | 137580 | [137580-oak.json](./137580-oak.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once in a Lifetime | 209627 | [209627-once-in-a-lifetime.json](./209627-once-in-a-lifetime.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
 | Once in my Head | 192966 | [192966-once-in-my-head.json](./192966-once-in-my-head.json) |
+| Once in Yaissor | 30577 | [30577-once-in-yaissor.json](./30577-once-in-yaissor.json) |
 | Once in Yaissor 2 | 81763 | [81763-once-in-yaissor-2.json](./81763-once-in-yaissor-2.json) |
 | Once Inside | 181368 | [181368-once-inside.json](./181368-once-inside.json) |
 | Once More | 127806 | [127806-once-more.json](./127806-once-more.json) |
