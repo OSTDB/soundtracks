@@ -4178,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
+| Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman King Chou Senjiryokketsu: Meramera Version | 68237 | [68237-shaman-king-chou-senjiryokketsu-meramera-version.json](./68237-shaman-king-chou-senjiryokketsu-meramera-version.json) |
@@ -17308,6 +17309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night Craft Sword Monogatari: Hajimari no Ishi | 49810 | [49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json](./49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
 | Summon Night Gran-These: Horobi no Tsurugi to Yakusoku no Kishi | 43267 | [43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json](./43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json) |
+| Summon Night X: Tears Crown | 69297 | [69297-summon-night-x-tears-crown.json](./69297-summon-night-x-tears-crown.json) |
 | Summon Night: Swordcraft Story | 6615 | [6615-summon-night-swordcraft-story.json](./6615-summon-night-swordcraft-story.json) |
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
 | Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
