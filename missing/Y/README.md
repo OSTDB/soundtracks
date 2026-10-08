@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
+| Yogi Bear's Gold Rush | 49053 | [49053-yogi-bears-gold-rush.json](./49053-yogi-bears-gold-rush.json) |
 | Yogi's Big Clean Up | 70069 | [70069-yogis-big-clean-up.json](./70069-yogis-big-clean-up.json) |
 | Yogi's Great Escape | 12833 | [12833-yogis-great-escape.json](./12833-yogis-great-escape.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Principal | 126596 | [126596-your-principal.json](./126596-your-principal.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
 | Your Roar | 179559 | [179559-your-roar.json](./179559-your-roar.json) |
+| Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
 | Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
