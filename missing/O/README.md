@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observation Protocol | 416032 | [416032-observation-protocol.json](./416032-observation-protocol.json) |
+| Observe | 401918 | [401918-observe.json](./401918-observe.json) |
 | Observe | 410313 | [410313-observe.json](./410313-observe.json) |
 | Observe and Report | 297168 | [297168-observe-and-report.json](./297168-observe-and-report.json) |
 | Observer | 19545 | [19545-observer.json](./19545-observer.json) |
