@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Blade II | 45243 | [45243-joe-blade-ii.json](./45243-joe-blade-ii.json) |
 | Joe Blade III | 45242 | [45242-joe-blade-iii.json](./45242-joe-blade-iii.json) |
 | Joe Blunt Up In Smoke | 123507 | [123507-joe-blunt-up-in-smoke.json](./123507-joe-blunt-up-in-smoke.json) |
+| Joe Danger Infinity | 11243 | [11243-joe-danger-infinity.json](./11243-joe-danger-infinity.json) |
 | Joe Danger Touch | 11242 | [11242-joe-danger-touch.json](./11242-joe-danger-touch.json) |
 | Joe Danger: Special Edition | 24235 | [24235-joe-danger-special-edition.json](./24235-joe-danger-special-edition.json) |
 | Joe Dever's Lone Wolf | 53247 | [53247-joe-devers-lone-wolf.json](./53247-joe-devers-lone-wolf.json) |
