@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
+| Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
 | Samurai Shodown V | 6026 | [6026-samurai-shodown-v.json](./6026-samurai-shodown-v.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
+| School Owner | 116045 | [116045-school-owner.json](./116045-school-owner.json) |
 | School Owner Simulator | 406932 | [406932-school-owner-simulator.json](./406932-school-owner-simulator.json) |
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Quest | 393757 | [393757-school-quest.json](./393757-school-quest.json) |
@@ -3842,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fang | 342273 | [342273-shadow-fang.json](./342273-shadow-fang.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
+| Shadow Fencer Theatre | 116488 | [116488-shadow-fencer-theatre.json](./116488-shadow-fencer-theatre.json) |
 | Shadow Fight | 61158 | [61158-shadow-fight.json](./61158-shadow-fight.json) |
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
@@ -4592,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
+| Shelter 3 | 116905 | [116905-shelter-3.json](./116905-shelter-3.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Shelter in Place | 126537 | [126537-shelter-in-place.json](./126537-shelter-in-place.json) |
 | Shelter Manager | 133219 | [133219-shelter-manager.json](./133219-shelter-manager.json) |
@@ -7244,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Mercenaries | 36117 | [36117-sky-mercenaries.json](./36117-sky-mercenaries.json) |
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
+| Sky of Destruction | 116496 | [116496-sky-of-destruction.json](./116496-sky-of-destruction.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky on Fire: 1940 | 182846 | [182846-sky-on-fire-1940.json](./182846-sky-on-fire-1940.json) |
 | Sky Patch | 347890 | [347890-sky-patch.json](./347890-sky-patch.json) |
@@ -13586,6 +13591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
 | Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
 | Stacks | 180589 | [180589-stacks.json](./180589-stacks.json) |
+| Stacks on Stacks (On Stacks) | 116077 | [116077-stacks-on-stacks-on-stacks.json](./116077-stacks-on-stacks-on-stacks.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacks: Village! | 364000 | [364000-stacks-village.json](./364000-stacks-village.json) |
@@ -19277,6 +19283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Technos World: River City & Arcade Classics | 337064 | [337064-super-technos-world-river-city-and-arcade-classics.json](./337064-super-technos-world-river-city-and-arcade-classics.json) |
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
+| Super Tennis Blast | 116486 | [116486-super-tennis-blast.json](./116486-super-tennis-blast.json) |
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
@@ -19862,6 +19869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
+| Survive the Blackout | 116184 | [116184-survive-the-blackout.json](./116184-survive-the-blackout.json) |
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
 | Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
