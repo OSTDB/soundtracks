@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānhé Dàshén | 114279 | [114279-sanhe-dashen.json](./114279-sanhe-dashen.json) |
 | Sani Yang's Laboratory | 330229 | [330229-sani-yangs-laboratory.json](./330229-sani-yangs-laboratory.json) |
 | Sanic Ball | 136820 | [136820-sanic-ball.json](./136820-sanic-ball.json) |
+| Sanitarium Enhanced | 414849 | [414849-sanitarium-enhanced.json](./414849-sanitarium-enhanced.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger's Deep | 201132 | [201132-scavengers-deep.json](./201132-scavengers-deep.json) |
 | Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
+| Scawy Game | 414867 | [414867-scawy-game.json](./414867-scawy-game.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
 | Scene It? 80s | 23790 | [23790-scene-it-80s.json](./23790-scene-it-80s.json) |
@@ -4533,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
+| She Doesn't Know | 414834 | [414834-she-doesnt-know.json](./414834-she-doesnt-know.json) |
 | She Doesn't Walk | 156021 | [156021-she-doesnt-walk.json](./156021-she-doesnt-walk.json) |
 | She Fell Off | 260160 | [260160-she-fell-off.json](./260160-she-fell-off.json) |
 | She From The Future | 309364 | [309364-she-from-the-future.json](./309364-she-from-the-future.json) |
@@ -5433,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shoppigeons | 181749 | [181749-shoppigeons.json](./181749-shoppigeons.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
+| Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
 | Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
 | Shopping Clutter 14: Winter Garden | 341874 | [341874-shopping-clutter-14-winter-garden.json](./341874-shopping-clutter-14-winter-garden.json) |
@@ -7428,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
 | SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
 | Skygard Arena | 255650 | [255650-skygard-arena.json](./255650-skygard-arena.json) |
+| Skygate Zero | 414821 | [414821-skygate-zero.json](./414821-skygate-zero.json) |
 | Skygerfall | 316726 | [316726-skygerfall.json](./316726-skygerfall.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
@@ -8337,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
 | Smashing | 259765 | [259765-smashing.json](./259765-smashing.json) |
+| Smashing Bottles | 414872 | [414872-smashing-bottles.json](./414872-smashing-bottles.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
 | Smashing Four | 69372 | [69372-smashing-four.json](./69372-smashing-four.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
@@ -16861,6 +16867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
 | Style Lab: Fashion Design | 208358 | [208358-style-lab-fashion-design.json](./208358-style-lab-fashion-design.json) |
 | Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
+| Style Me Girl | 414875 | [414875-style-me-girl.json](./414875-style-me-girl.json) |
 | Style Savvy: Fashion Forward | 22796 | [22796-style-savvy-fashion-forward.json](./22796-style-savvy-fashion-forward.json) |
 | Style Savvy: Trendsetters | 6892 | [6892-style-savvy-trendsetters.json](./6892-style-savvy-trendsetters.json) |
 | Stylish Girls | 271901 | [271901-stylish-girls.json](./271901-stylish-girls.json) |
@@ -20692,6 +20699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Shapes | 406772 | [406772-switch-shapes.json](./406772-switch-shapes.json) |
 | Switch Sides 2: Sea Sandwich | 255037 | [255037-switch-sides-2-sea-sandwich.json](./255037-switch-sides-2-sea-sandwich.json) |
 | Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
+| Switch: The Case of the Curious Cat | 414828 | [414828-switch-the-case-of-the-curious-cat.json](./414828-switch-the-case-of-the-curious-cat.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchball | 21522 | [21522-switchball.json](./21522-switchball.json) |
@@ -20789,6 +20797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
+| Sword of Mine | 414825 | [414825-sword-of-mine.json](./414825-sword-of-mine.json) |
 | Sword of Power | 176273 | [176273-sword-of-power.json](./176273-sword-of-power.json) |
 | Sword of Rapier | 64509 | [64509-sword-of-rapier.json](./64509-sword-of-rapier.json) |
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
