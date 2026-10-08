@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Beardsman | 61695 | [61695-adventures-of-the-beardsman.json](./61695-adventures-of-the-beardsman.json) |
 | Adventures of The Carrot Captain | 152853 | [152853-adventures-of-the-carrot-captain.json](./152853-adventures-of-the-carrot-captain.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
+| Adventures of the Mysterious World: The Lost of the Hearts | 394187 | [394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json](./394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures of the Stalk of Celery | 404416 | [404416-adventures-of-the-stalk-of-celery.json](./404416-adventures-of-the-stalk-of-celery.json) |
 | Adventures of Tom Sawyer | 48109 | [48109-adventures-of-tom-sawyer.json](./48109-adventures-of-tom-sawyer.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
+| Amicusia | 394123 | [394123-amicusia.json](./394123-amicusia.json) |
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid Evil: The Black Labyrinth | 152264 | [152264-amid-evil-the-black-labyrinth.json](./152264-amid-evil-the-black-labyrinth.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
@@ -4977,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy's Greenmart | 133183 | [133183-amys-greenmart.json](./133183-amys-greenmart.json) |
 | Amygdala | 268142 | [268142-amygdala.json](./268142-amygdala.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
+| Amzula | 394139 | [394139-amzula.json](./394139-amzula.json) |
 | An Absolutely Not Suspicious Cabin in the Woods | 160212 | [160212-an-absolutely-not-suspicious-cabin-in-the-woods.json](./160212-an-absolutely-not-suspicious-cabin-in-the-woods.json) |
 | An Action Roguelite For When You Have 20 Minutes to Spare | 244828 | [244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json](./244828-an-action-roguelite-for-when-you-have-20-minutes-to-spare.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
@@ -7706,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
 | Arishia Tale | 300298 | [300298-arishia-tale.json](./300298-arishia-tale.json) |
+| Arishihi no Watashitachi he | 394092 | [394092-arishihi-no-watashitachi-he.json](./394092-arishihi-no-watashitachi-he.json) |
 | Aristocratic Potato | 343913 | [343913-aristocratic-potato.json](./343913-aristocratic-potato.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
 | Aritana and the Twin Masks | 120865 | [120865-aritana-and-the-twin-masks.json](./120865-aritana-and-the-twin-masks.json) |
@@ -8954,6 +8958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra Space Defender | 401820 | [401820-astra-space-defender.json](./401820-astra-space-defender.json) |
+| Astra Squad | 394131 | [394131-astra-squad.json](./394131-astra-squad.json) |
 | Astra Superstars | 39603 | [39603-astra-superstars.json](./39603-astra-superstars.json) |
 | Astra Vortex | 370906 | [370906-astra-vortex.json](./370906-astra-vortex.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
