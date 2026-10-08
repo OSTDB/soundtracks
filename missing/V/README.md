@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video 8 Ball | 252115 | [252115-video-8-ball.json](./252115-video-8-ball.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
+| Video Chess | 18004 | [18004-video-chess.json](./18004-video-chess.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
 | Video Editor Tycoon | 157468 | [157468-video-editor-tycoon.json](./157468-video-editor-tycoon.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villager | 178521 | [178521-villager.json](./178521-villager.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villager's Biography | 102929 | [102929-villagers-biography.json](./102929-villagers-biography.json) |
+| Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
