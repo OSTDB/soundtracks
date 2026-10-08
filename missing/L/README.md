@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
+| Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
 | Legend of Grimrock 2 | 8456 | [8456-legend-of-grimrock-2.json](./8456-legend-of-grimrock-2.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
