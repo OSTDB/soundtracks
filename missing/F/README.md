@@ -5363,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Rest | 194376 | [194376-for-rest.json](./194376-for-rest.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
+| For Sparta | 144127 | [144127-for-sparta.json](./144127-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Way Tri-Bundle | 342237 | [342237-frozen-way-tri-bundle.json](./342237-frozen-way-tri-bundle.json) |
 | Frozen: Laptop Infantil | 297748 | [297748-frozen-laptop-infantil.json](./297748-frozen-laptop-infantil.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
+| Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
 | Frqncy | 105448 | [105448-frqncy.json](./105448-frqncy.json) |
