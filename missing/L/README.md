@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
+| Laser Logic | 406065 | [406065-laser-logic.json](./406065-laser-logic.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
@@ -1950,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO: Nexo Knights - Merlok 2.0 | 101021 | [101021-lego-nexo-knights-merlok-2-0.json](./101021-lego-nexo-knights-merlok-2-0.json) |
 | Legofaction | 305288 | [305288-legofaction.json](./305288-legofaction.json) |
 | Legoland | 78777 | [78777-legoland.json](./78777-legoland.json) |
+| Legolast Tiny Builder | 406064 | [406064-legolast-tiny-builder.json](./406064-legolast-tiny-builder.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
 | Legumi | 292749 | [292749-legumi.json](./292749-legumi.json) |
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
@@ -4376,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopedal | 364642 | [364642-loopedal.json](./364642-loopedal.json) |
 | Looper | 292133 | [292133-looper.json](./292133-looper.json) |
 | Looper | 323827 | [323827-looper.json](./323827-looper.json) |
+| Looper | 406189 | [406189-looper.json](./406189-looper.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Looper! | 103982 | [103982-looper.json](./103982-looper.json) |
 | LooperLands | 291984 | [291984-looperlands.json](./291984-looperlands.json) |
@@ -5092,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
 | Love Island | 303636 | [303636-love-island.json](./303636-love-island.json) |
+| Love Island: Forbidden Boys Temptation | 406063 | [406063-love-island-forbidden-boys-temptation.json](./406063-love-island-forbidden-boys-temptation.json) |
 | Love Island: Forbidden Girls Temptation | 407285 | [407285-love-island-forbidden-girls-temptation.json](./407285-love-island-forbidden-girls-temptation.json) |
 | Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
