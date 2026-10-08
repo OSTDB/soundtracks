@@ -4503,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaranthine Voyage: Winter Neverending - Collector's Edition | 416876 | [416876-amaranthine-voyage-winter-neverending-collectors-edition.json](./416876-amaranthine-voyage-winter-neverending-collectors-edition.json) |
 | AmaranTime | 30172 | [30172-amarantime.json](./30172-amarantime.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
+| Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
@@ -5227,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
 | Andrej Sundic's: The Deep | 403198 | [403198-andrej-sundics-the-deep.json](./403198-andrej-sundics-the-deep.json) |
+| Andrés y Su Fusil de Aliesprés | 401179 | [401179-andres-y-su-fusil-de-aliespres.json](./401179-andres-y-su-fusil-de-aliespres.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
 | Andrew's Nightmare | 296516 | [296516-andrews-nightmare.json](./296516-andrews-nightmare.json) |
 | Andria | 339909 | [339909-andria.json](./339909-andria.json) |
@@ -6788,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arakion: Book One | 81235 | [81235-arakion-book-one.json](./81235-arakion-book-one.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
+| Aramo | 401062 | [401062-aramo.json](./401062-aramo.json) |
 | Aranock Online | 62986 | [62986-aranock-online.json](./62986-aranock-online.json) |
 | Aranuri: Badachingudeulkkwa hamkke Mandeuneun Sesang | 269648 | [269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json](./269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json) |
 | Arashi | 183332 | [183332-arashi.json](./183332-arashi.json) |
@@ -7347,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
+| Archery King | 401135 | [401135-archery-king.json](./401135-archery-king.json) |
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
 | Archery Land | 214036 | [214036-archery-land.json](./214036-archery-land.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
@@ -7633,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argyle Manor, Book 1: Away From The Sun | 291713 | [291713-argyle-manor-book-1-away-from-the-sun.json](./291713-argyle-manor-book-1-away-from-the-sun.json) |
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Ari In Wonderland: Episode 1 | 200646 | [200646-ari-in-wonderland-episode-1.json](./200646-ari-in-wonderland-episode-1.json) |
+| Ari's Delivery Palooza | 401185 | [401185-aris-delivery-palooza.json](./401185-aris-delivery-palooza.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
 | Aria | 305379 | [305379-aria.json](./305379-aria.json) |
 | Aria | 84445 | [84445-aria.json](./84445-aria.json) |
