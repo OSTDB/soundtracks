@@ -8385,6 +8385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Deeds of Rescue Team | 157505 | [157505-brave-deeds-of-rescue-team.json](./157505-brave-deeds-of-rescue-team.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
+| Brave Dungeon | 23722 | [23722-brave-dungeon.json](./23722-brave-dungeon.json) |
 | Brave Dungeon + Dark Witch's Story: Combat | 69393 | [69393-brave-dungeon-dark-witchs-story-combat.json](./69393-brave-dungeon-dark-witchs-story-combat.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
 | Brave Dungeon: The Meaning Of Justice | 111450 | [111450-brave-dungeon-the-meaning-of-justice.json](./111450-brave-dungeon-the-meaning-of-justice.json) |
