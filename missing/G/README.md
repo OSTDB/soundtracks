@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
+| Graphic Design Is My Passion | 412249 | [412249-graphic-design-is-my-passion.json](./412249-graphic-design-is-my-passion.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
 | Graphite | 351161 | [351161-graphite.json](./351161-graphite.json) |
