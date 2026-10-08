@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Phrasebook | 85424 | [85424-talking-phrasebook.json](./85424-talking-phrasebook.json) |
 | Talking Pierre the Parrot | 320944 | [320944-talking-pierre-the-parrot.json](./320944-talking-pierre-the-parrot.json) |
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
+| Talking Poppet | 395523 | [395523-talking-poppet.json](./395523-talking-poppet.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
 | Talking Saban's Mighty Morphin Power Rangers: The Solar Stealers | 217938 | [217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json](./217938-talking-sabans-mighty-morphin-power-rangers-the-solar-stealers.json) |
 | Talking The Simpsons: Bart vs. Homersaurus | 198889 | [198889-talking-the-simpsons-bart-vs-homersaurus.json](./198889-talking-the-simpsons-bart-vs-homersaurus.json) |
@@ -4199,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
+| The Caponians | 395482 | [395482-the-caponians.json](./395482-the-caponians.json) |
 | The Captain | 114666 | [114666-the-captain.json](./114666-the-captain.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
@@ -11860,6 +11862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
+| Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
 | Think | 100765 | [100765-think.json](./100765-think.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
