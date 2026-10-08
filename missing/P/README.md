@@ -3544,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross e6 | 47666 | [47666-picross-e6.json](./47666-picross-e6.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
+| Picross Fairytale: Legend of the Mermaid | 105715 | [105715-picross-fairytale-legend-of-the-mermaid.json](./105715-picross-fairytale-legend-of-the-mermaid.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
 | Picross Hansel and Gretel - Nonograms | 116233 | [116233-picross-hansel-and-gretel-nonograms.json](./116233-picross-hansel-and-gretel-nonograms.json) |
@@ -4587,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Frenzy | 326227 | [326227-pixel-frenzy.json](./326227-pixel-frenzy.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
+| Pixel Game Maker MV | 105410 | [105410-pixel-game-maker-mv.json](./105410-pixel-game-maker-mv.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series LAB | 201085 | [201085-pixel-game-maker-series-lab.json](./201085-pixel-game-maker-series-lab.json) |
 | Pixel Game Maker Series MessiahEnd Refrain | 199930 | [199930-pixel-game-maker-series-messiahend-refrain.json](./199930-pixel-game-maker-series-messiahend-refrain.json) |
@@ -5533,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
 | Play To Win | 276788 | [276788-play-to-win.json](./276788-play-to-win.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
+| Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
@@ -9356,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
+| Protest | 105692 | [105692-protest.json](./105692-protest.json) |
 | Protestal | 393634 | [393634-protestal.json](./393634-protestal.json) |
 | Proteus | 2163 | [2163-proteus.json](./2163-proteus.json) |
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
@@ -9904,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Chef Academy | 107790 | [107790-puppy-chef-academy.json](./107790-puppy-chef-academy.json) |
 | Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
+| Puppy Dog: Jigsaw Puzzles | 105994 | [105994-puppy-dog-jigsaw-puzzles.json](./105994-puppy-dog-jigsaw-puzzles.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Link: Tile Connect | 379023 | [379023-puppy-link-tile-connect.json](./379023-puppy-link-tile-connect.json) |
 | Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
