@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
+| Scene It? 80s | 23790 | [23790-scene-it-80s.json](./23790-scene-it-80s.json) |
 | Scene It? Box Office Smash | 7181 | [7181-scene-it-box-office-smash.json](./7181-scene-it-box-office-smash.json) |
 | Scene It? Bright Lights! Big Screen! | 5141 | [5141-scene-it-bright-lights-big-screen.json](./5141-scene-it-bright-lights-big-screen.json) |
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
 | Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
+| Scene it? The Simpsons: Deluxe Edition | 23789 | [23789-scene-it-the-simpsons-deluxe-edition.json](./23789-scene-it-the-simpsons-deluxe-edition.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
@@ -4472,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shaun White Snowboarding | 5152 | [5152-shaun-white-snowboarding.json](./5152-shaun-white-snowboarding.json) |
+| Shaun White Snowboarding: Target Edition | 23791 | [23791-shaun-white-snowboarding-target-edition.json](./23791-shaun-white-snowboarding-target-edition.json) |
 | Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
@@ -13367,6 +13370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad 44 | 81141 | [81141-squad-44.json](./81141-squad-44.json) |
 | Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
+| Squad Assault: West Front | 23740 | [23740-squad-assault-west-front.json](./23740-squad-assault-west-front.json) |
 | Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
 | Squad Battles: Pacific War | 186150 | [186150-squad-battles-pacific-war.json](./186150-squad-battles-pacific-war.json) |
 | Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
@@ -16077,6 +16081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
+| Strawberry Shortcake: And Her Berry Best Friends | 23813 | [23813-strawberry-shortcake-and-her-berry-best-friends.json](./23813-strawberry-shortcake-and-her-berry-best-friends.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
@@ -16440,6 +16445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike City | 410390 | [410390-strike-city.json](./410390-strike-city.json) |
 | Strike Commander and Privateer TwinPack | 72134 | [72134-strike-commander-and-privateer-twinpack.json](./72134-strike-commander-and-privateer-twinpack.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
+| Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
 | Strike Force 2: Terrorist Hunt | 147654 | [147654-strike-force-2-terrorist-hunt.json](./147654-strike-force-2-terrorist-hunt.json) |
@@ -19439,6 +19445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged Robot Vulkaiser | 20019 | [20019-supercharged-robot-vulkaiser.json](./20019-supercharged-robot-vulkaiser.json) |
 | Supercharged World Cup | 102853 | [102853-supercharged-world-cup.json](./102853-supercharged-world-cup.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
+| SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
