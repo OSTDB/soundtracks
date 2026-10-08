@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Hello Kitty's Surprise | 213277 | [213277-hello-kitty-hello-kittys-surprise.json](./213277-hello-kitty-hello-kittys-surprise.json) |
 | Hello Kitty: Hello Submarine | 206193 | [206193-hello-kitty-hello-submarine.json](./206193-hello-kitty-hello-submarine.json) |
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
+| Hello Kitty: Party Land | 405453 | [405453-hello-kitty-party-land.json](./405453-hello-kitty-party-land.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
 | Hello Kitty: Puzzle Party | 83207 | [83207-hello-kitty-puzzle-party.json](./83207-hello-kitty-puzzle-party.json) |
 | Hello Kitty: School Bus | 206194 | [206194-hello-kitty-school-bus.json](./206194-hello-kitty-school-bus.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
+| Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
 | HellSlave II: Judgment of the Archon | 345575 | [345575-hellslave-ii-judgment-of-the-archon.json](./345575-hellslave-ii-judgment-of-the-archon.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
