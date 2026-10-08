@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
+| Dark Succubus | 417401 | [417401-dark-succubus.json](./417401-dark-succubus.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
@@ -4204,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dessert Storm Girls | 337838 | [337838-dessert-storm-girls.json](./337838-dessert-storm-girls.json) |
 | Desserted | 373127 | [373127-desserted.json](./373127-desserted.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
+| Destabilized | 417361 | [417361-destabilized.json](./417361-destabilized.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
@@ -6088,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
+| Displacement of Water | 417574 | [417574-displacement-of-water.json](./417574-displacement-of-water.json) |
 | Disposable Corps | 343468 | [343468-disposable-corps.json](./343468-disposable-corps.json) |
 | Disposable Hero | 12048 | [12048-disposable-hero.json](./12048-disposable-hero.json) |
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
@@ -6636,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Gone Golfing | 54498 | [54498-dog-gone-golfing.json](./54498-dog-gone-golfing.json) |
 | Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
+| Dog Hotel Tycoon | 417400 | [417400-dog-hotel-tycoon.json](./417400-dog-hotel-tycoon.json) |
 | Dog In A Box | 113058 | [113058-dog-in-a-box.json](./113058-dog-in-a-box.json) |
 | Dog in the City | 139926 | [139926-dog-in-the-city.json](./139926-dog-in-the-city.json) |
 | Dog in the Machine | 398405 | [398405-dog-in-the-machine.json](./398405-dog-in-the-machine.json) |
@@ -6735,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
+| DoHots | 417407 | [417407-dohots.json](./417407-dohots.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Dojini | 108041 | [108041-dojini.json](./108041-dojini.json) |
@@ -9632,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
 | Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
+| Droker Clicker | 417576 | [417576-droker-clicker.json](./417576-droker-clicker.json) |
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
