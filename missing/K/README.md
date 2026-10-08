@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
 | Kunkunkun | 287214 | [287214-kunkunkun.json](./287214-kunkunkun.json) |
+| KunKunNest | 390073 | [390073-kunkunnest.json](./390073-kunkunnest.json) |
 | KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
