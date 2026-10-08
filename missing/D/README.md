@@ -308,7 +308,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daito Giken Koushiki Pachislot Simulator: 24- Twenty-Four | 65550 | [65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json](./65550-daito-giken-koushiki-pachislot-simulator-24-twenty-four.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
+| Daiva Story 1: Flames of Vlitra | 392848 | [392848-daiva-story-1-flames-of-vlitra.json](./392848-daiva-story-1-flames-of-vlitra.json) |
+| Daiva Story 2: Memory in Durga | 392849 | [392849-daiva-story-2-memory-in-durga.json](./392849-daiva-story-2-memory-in-durga.json) |
+| Daiva Story 3: Trial of Nirvana | 392850 | [392850-daiva-story-3-trial-of-nirvana.json](./392850-daiva-story-3-trial-of-nirvana.json) |
 | Daiva Story 6: Imperial of Nirsartia | 65666 | [65666-daiva-story-6-imperial-of-nirsartia.json](./65666-daiva-story-6-imperial-of-nirsartia.json) |
+| Daiva Story 7: Light of Kari Yuga | 392851 | [392851-daiva-story-7-light-of-kari-yuga.json](./392851-daiva-story-7-light-of-kari-yuga.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
 | Dajjal's Minions | 26792 | [26792-dajjals-minions.json](./26792-dajjals-minions.json) |
 | Daka Dara | 115790 | [115790-daka-dara.json](./115790-daka-dara.json) |
@@ -507,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Cube | 192837 | [192837-dancing-cube.json](./192837-dancing-cube.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Duelists | 272470 | [272470-dancing-duelists.json](./272470-dancing-duelists.json) |
+| Dancing Eyes | 392872 | [392872-dancing-eyes.json](./392872-dancing-eyes.json) |
 | Dancing Furby | 85717 | [85717-dancing-furby.json](./85717-dancing-furby.json) |
 | Dancing Girls | 247057 | [247057-dancing-girls.json](./247057-dancing-girls.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -1393,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
+| Dash Trails | 392853 | [392853-dash-trails.json](./392853-dash-trails.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
 | Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
@@ -4900,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
+| Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
@@ -10164,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DUD Detective Ulysses Day | 379049 | [379049-dud-detective-ulysses-day.json](./379049-dud-detective-ulysses-day.json) |
 | Dude Called Barry | 352352 | [352352-dude-called-barry.json](./352352-dude-called-barry.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
+| Dude in the Dark | 392863 | [392863-dude-in-the-dark.json](./392863-dude-in-the-dark.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Simulator | 37419 | [37419-dude-simulator.json](./37419-dude-simulator.json) |
