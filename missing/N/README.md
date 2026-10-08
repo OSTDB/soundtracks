@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
 | Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
+| Natsuki Chronicles | 61467 | [61467-natsuki-chronicles.json](./61467-natsuki-chronicles.json) |
 | Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neoditronix | 376666 | [376666-neoditronix.json](./376666-neoditronix.json) |
 | Neodori Infinity | 330285 | [330285-neodori-infinity.json](./330285-neodori-infinity.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
+| Neofeud | 55688 | [55688-neofeud.json](./55688-neofeud.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
