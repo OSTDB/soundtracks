@@ -2404,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Farthest Shore | 261452 | [261452-hells-farthest-shore.json](./261452-hells-farthest-shore.json) |
 | Hell's High Harmonizers | 156986 | [156986-hells-high-harmonizers.json](./156986-hells-high-harmonizers.json) |
 | Hell's House | 311705 | [311705-hells-house.json](./311705-hells-house.json) |
+| Hell's Kitchen: The Game | 21358 | [21358-hells-kitchen-the-game.json](./21358-hells-kitchen-the-game.json) |
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
 | Hell's Mouth | 223387 | [223387-hells-mouth.json](./223387-hells-mouth.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her World | 218401 | [218401-her-world.json](./218401-her-world.json) |
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles - Battle of the Gods | 54098 | [54098-heracles-battle-of-the-gods.json](./54098-heracles-battle-of-the-gods.json) |
+| Heracles Chariot Racing | 21113 | [21113-heracles-chariot-racing.json](./21113-heracles-chariot-racing.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
 | Heracles no Eikou III: Kamigami no Chinmoku | 38257 | [38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./38257-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
 | Heracles no Eikou: Ugokidashita Kamigami | 129545 | [129545-heracles-no-eikou-ugokidashita-kamigami.json](./129545-heracles-no-eikou-ugokidashita-kamigami.json) |
