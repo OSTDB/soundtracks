@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Cat | 314405 | [314405-banana-cat.json](./314405-banana-cat.json) |
 | Banana Chaos Clicker | 389961 | [389961-banana-chaos-clicker.json](./389961-banana-chaos-clicker.json) |
+| Banana Clicker | 394093 | [394093-banana-clicker.json](./394093-banana-clicker.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Cowboy | 304692 | [304692-banana-cowboy.json](./304692-banana-cowboy.json) |
 | Banana Dash | 97325 | [97325-banana-dash.json](./97325-banana-dash.json) |
@@ -6541,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodsaw | 214401 | [214401-bloodsaw.json](./214401-bloodsaw.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodseed: The Last Helsing | 361286 | [361286-bloodseed-the-last-helsing.json](./361286-bloodseed-the-last-helsing.json) |
+| BloodShade | 394209 | [394209-bloodshade.json](./394209-bloodshade.json) |
 | Bloodshed | 317982 | [317982-bloodshed.json](./317982-bloodshed.json) |
 | Bloodshore | 177056 | [177056-bloodshore.json](./177056-bloodshore.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
@@ -8303,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bozo the Brave | 15685 | [15685-bozo-the-brave.json](./15685-bozo-the-brave.json) |
+| BP Gas Mania | 394108 | [394108-bp-gas-mania.json](./394108-bp-gas-mania.json) |
 | BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
 | BPM Racing | 84465 | [84465-bpm-racing.json](./84465-bpm-racing.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
