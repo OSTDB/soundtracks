@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
+| Kat-tastic Hidden Object | 405373 | [405373-kat-tastic-hidden-object.json](./405373-kat-tastic-hidden-object.json) |
 | Kat's Run: Zen-Nippon K-Car Senshuken | 38267 | [38267-kats-run-zen-nippon-k-car-senshuken.json](./38267-kats-run-zen-nippon-k-car-senshuken.json) |
 | Kata | 57094 | [57094-kata.json](./57094-kata.json) |
 | Katabasis: Monsters Arise | 151804 | [151804-katabasis-monsters-arise.json](./151804-katabasis-monsters-arise.json) |
@@ -1969,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
+| Kingdom Hearts Magical Canvas | 405372 | [405372-kingdom-hearts-magical-canvas.json](./405372-kingdom-hearts-magical-canvas.json) |
 | Kingdom Hearts Re:Chain of Memories | 20286 | [20286-kingdom-hearts-re-chain-of-memories.json](./20286-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
