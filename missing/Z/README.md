@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
 | Zero spring episode 3 | 114305 | [114305-zero-spring-episode-3.json](./114305-zero-spring-episode-3.json) |
+| Zero Sum | 406149 | [406149-zero-sum.json](./406149-zero-sum.json) |
 | Zero Sum Future | 107751 | [107751-zero-sum-future.json](./107751-zero-sum-future.json) |
 | Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta-7 | 25806 | [25806-zeta-7.json](./25806-zeta-7.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | Zether | 111582 | [111582-zether.json](./111582-zether.json) |
+| Zetrya: Dungeon Dive | 406138 | [406138-zetrya-dungeon-dive.json](./406138-zetrya-dungeon-dive.json) |
 | Zettai Fukujuu Princess ~Kijoku Kakumeiroku~ | 133263 | [133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json](./133263-zettai-fukujuu-princess-kijoku-kakumeiroku.json) |
 | Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm | 110334 | [110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json](./110334-zettai-kaikyuu-gakuen-eden-with-roses-and-phantasm.json) |
 | Zettai Meikyuu Grimm Director's Cut: Nanatsu no Kagi to Rakuen no Otome | 221963 | [221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json](./221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json) |
