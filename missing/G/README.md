@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory & Honor | 105263 | [105263-glory-and-honor.json](./105263-glory-and-honor.json) |
+| Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Praise: Stryper | 240172 | [240172-guitar-praise-stryper.json](./240172-guitar-praise-stryper.json) |
 | Guitar Rising | 72739 | [72739-guitar-rising.json](./72739-guitar-rising.json) |
+| Guitar Rock Tour | 21261 | [21261-guitar-rock-tour.json](./21261-guitar-rock-tour.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
 | Guitar Tuner 360 | 77410 | [77410-guitar-tuner-360.json](./77410-guitar-tuner-360.json) |
 | GuitarFreaks 10thMix & DrumMania 9thMix | 314344 | [314344-guitarfreaks-10thmix-and-drummania-9thmix.json](./314344-guitarfreaks-10thmix-and-drummania-9thmix.json) |
