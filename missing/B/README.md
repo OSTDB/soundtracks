@@ -1238,6 +1238,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Tooie | 201645 | [201645-banjo-tooie.json](./201645-banjo-tooie.json) |
 | Banjo-Tooie | 3418 | [3418-banjo-tooie.json](./3418-banjo-tooie.json) |
 | Banjo: Recompiled - Banjo-Dreamie | 392996 | [392996-banjo-recompiled-banjo-dreamie.json](./392996-banjo-recompiled-banjo-dreamie.json) |
+| Banjo: Recompiled - Jiggies of Time | 387034 | [387034-banjo-recompiled-jiggies-of-time.json](./387034-banjo-recompiled-jiggies-of-time.json) |
+| Banjo: Recompiled - Nostalgia 64 | 387035 | [387035-banjo-recompiled-nostalgia-64.json](./387035-banjo-recompiled-nostalgia-64.json) |
 | Bank | 364595 | [364595-bank.json](./364595-bank.json) |
 | Bank Escape Pro | 68773 | [68773-bank-escape-pro.json](./68773-bank-escape-pro.json) |
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
@@ -2066,6 +2068,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
+| Battalion: Ghosts | 387067 | [387067-battalion-ghosts.json](./387067-battalion-ghosts.json) |
+| Battalion: Vengeance | 387069 | [387069-battalion-vengeance.json](./387069-battalion-vengeance.json) |
 | Batten Tanuki no Daibouken | 47548 | [47548-batten-tanuki-no-daibouken.json](./47548-batten-tanuki-no-daibouken.json) |
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
@@ -4474,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
 | Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
+| Bikini Girls | 387080 | [387080-bikini-girls.json](./387080-bikini-girls.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Island | 385819 | [385819-bikini-island.json](./385819-bikini-island.json) |
 | Bikini Island Challenge | 169817 | [169817-bikini-island-challenge.json](./169817-bikini-island-challenge.json) |
@@ -7777,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Boredom Survivors | 365264 | [365264-boredom-survivors.json](./365264-boredom-survivors.json) |
+| Borewicz | 387066 | [387066-borewicz.json](./387066-borewicz.json) |
 | BOREWORKS | 413654 | [413654-boreworks.json](./413654-boreworks.json) |
 | Borg Nukem | 291978 | [291978-borg-nukem.json](./291978-borg-nukem.json) |
 | BorielZONE | 279734 | [279734-borielzone.json](./279734-borielzone.json) |
