@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Gen Omega | 319146 | [319146-nitro-gen-omega.json](./319146-nitro-gen-omega.json) |
+| Nitro Horizon | 412811 | [412811-nitro-horizon.json](./412811-nitro-horizon.json) |
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
 | Nitro Nation Online | 39221 | [39221-nitro-nation-online.json](./39221-nitro-nation-online.json) |
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Lonely Up! | 386338 | [386338-not-lonely-up.json](./386338-not-lonely-up.json) |
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Meow Purroblem | 247539 | [247539-not-meow-purroblem.json](./247539-not-meow-purroblem.json) |
+| Not Monsters | 412784 | [412784-not-monsters.json](./412784-not-monsters.json) |
 | Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
 | Not My President: Level 1 | 174096 | [174096-not-my-president-level-1.json](./174096-not-my-president-level-1.json) |
