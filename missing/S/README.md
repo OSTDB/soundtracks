@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
+| Sepapu | 408702 | [408702-sepapu.json](./408702-sepapu.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
@@ -4421,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
 | Shareholders | 311573 | [311573-shareholders.json](./311573-shareholders.json) |
+| Sharehouse | 408724 | [408724-sharehouse.json](./408724-sharehouse.json) |
 | Sharf | 77649 | [77649-sharf.json](./77649-sharf.json) |
 | Shargad: First Blood | 216752 | [216752-shargad-first-blood.json](./216752-shargad-first-blood.json) |
 | Shariki | 63097 | [63097-shariki.json](./63097-shariki.json) |
@@ -7167,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinned Alive | 415493 | [415493-skinned-alive.json](./415493-skinned-alive.json) |
 | Skinner & The Superintendent | 245930 | [245930-skinner-and-the-superintendent.json](./245930-skinner-and-the-superintendent.json) |
 | Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
+| Skinny | 408639 | [408639-skinny.json](./408639-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
@@ -7204,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
+| Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
@@ -8784,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | Sneggit | 42177 | [42177-sneggit.json](./42177-sneggit.json) |
 | Snek | 182802 | [182802-snek.json](./182802-snek.json) |
+| Snek | 408642 | [408642-snek.json](./408642-snek.json) |
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snekoban | 393124 | [393124-snekoban.json](./393124-snekoban.json) |
@@ -11883,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
+| SpaceCiv | 408840 | [408840-spaceciv.json](./408840-spaceciv.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
 | SpaceCorn | 35000 | [35000-spacecorn.json](./35000-spacecorn.json) |
@@ -16930,6 +16936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
 | SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
+| Su8way | 408704 | [408704-su8way.json](./408704-su8way.json) |
 | Sub Attack | 337208 | [337208-sub-attack.json](./337208-sub-attack.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
@@ -17223,6 +17230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku for PSP Mini | 131459 | [131459-sudoku-for-psp-mini.json](./131459-sudoku-for-psp-mini.json) |
 | Sudoku G1 | 266910 | [266910-sudoku-g1.json](./266910-sudoku-g1.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
+| Sudoku Haven | 408723 | [408723-sudoku-haven.json](./408723-sudoku-haven.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku HD for iPad | 101666 | [101666-sudoku-hd-for-ipad.json](./101666-sudoku-hd-for-ipad.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
