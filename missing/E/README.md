@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
 | Empire: Total War - Special Forces Units & Bonus Content | 82087 | [82087-empire-total-war-special-forces-units-and-bonus-content.json](./82087-empire-total-war-special-forces-units-and-bonus-content.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
+| Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires Apart: Aztec Civilization Pack | 226809 | [226809-empires-apart-aztec-civilization-pack.json](./226809-empires-apart-aztec-civilization-pack.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
@@ -1843,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Employee A | 188994 | [188994-employee-a.json](./188994-employee-a.json) |
+| Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
 | Emporium | 28593 | [28593-emporium.json](./28593-emporium.json) |
@@ -4421,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
 | Expense | 220020 | [220020-expense.json](./220020-expense.json) |
+| Experience | 36599 | [36599-experience.json](./36599-experience.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
