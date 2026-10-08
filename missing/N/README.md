@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
+| Non-League Manager | 419205 | [419205-non-league-manager.json](./419205-non-league-manager.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numanuin | 235364 | [235364-numanuin.json](./235364-numanuin.json) |
 | Numb Nimbus | 271183 | [271183-numb-nimbus.json](./271183-numb-nimbus.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
+| Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
