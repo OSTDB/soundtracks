@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
+| Madden NFL 07: Hall of Fame Edition | 23795 | [23795-madden-nfl-07-hall-of-fame-edition.json](./23795-madden-nfl-07-hall-of-fame-edition.json) |
 | Madden NFL 08 | 229188 | [229188-madden-nfl-08.json](./229188-madden-nfl-08.json) |
 | Madden NFL 08 | 229190 | [229190-madden-nfl-08.json](./229190-madden-nfl-08.json) |
 | Madden NFL 08 | 229191 | [229191-madden-nfl-08.json](./229191-madden-nfl-08.json) |
@@ -3957,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
+| Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
 | Mechanic Supermarket 2024 | 321487 | [321487-mechanic-supermarket-2024.json](./321487-mechanic-supermarket-2024.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
@@ -7804,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
 | Miss Rosen's Wowtastic! Marching Band | 316732 | [316732-miss-rosens-wowtastic-marching-band.json](./316732-miss-rosens-wowtastic-marching-band.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
+| Miss Spider's Sunny Patch Friends: Scavenger Hunt | 23816 | [23816-miss-spiders-sunny-patch-friends-scavenger-hunt.json](./23816-miss-spiders-sunny-patch-friends-scavenger-hunt.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
 | Miss Teri Tales - Danger Next Door | 54234 | [54234-miss-teri-tales-danger-next-door.json](./54234-miss-teri-tales-danger-next-door.json) |
@@ -9916,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
+| Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
 | Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
@@ -10235,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
+| Motor City Online | 23809 | [23809-motor-city-online.json](./23809-motor-city-online.json) |
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
