@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
 | Koru | 189008 | [189008-koru.json](./189008-koru.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
+| Korwin the Game | 35114 | [35114-korwin-the-game.json](./35114-korwin-the-game.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
