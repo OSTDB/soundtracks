@@ -5814,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Galaxy | 11292 | [11292-rogue-galaxy.json](./11292-rogue-galaxy.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
+| Rogue Hearts | 88529 | [88529-rogue-hearts.json](./88529-rogue-hearts.json) |
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
 | Rogue Heist | 105233 | [105233-rogue-heist.json](./105233-rogue-heist.json) |
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
