@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
+| New York Mysteries: The Lantern of Souls | 31799 | [31799-new-york-mysteries-the-lantern-of-souls.json](./31799-new-york-mysteries-the-lantern-of-souls.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
+| Nightshade | 31764 | [31764-nightshade.json](./31764-nightshade.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshade Mysteries: Eternal Moon - Collector's Edition | 345674 | [345674-nightshade-mysteries-eternal-moon-collectors-edition.json](./345674-nightshade-mysteries-eternal-moon-collectors-edition.json) |
 | Nightshade Ninja Warrior | 245268 | [245268-nightshade-ninja-warrior.json](./245268-nightshade-ninja-warrior.json) |
