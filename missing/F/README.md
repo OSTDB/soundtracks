@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
 | Fallout 3: The Pitt & Fallout 3: Operation Anchorage | 202170 | [202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json](./202170-fallout-3-the-pitt-and-fallout-3-operation-anchorage.json) |
+| Fallout 4: Anniversary Edition | 375089 | [375089-fallout-4-anniversary-edition.json](./375089-fallout-4-anniversary-edition.json) |
 | Fallout 4: Automatron | 18029 | [18029-fallout-4-automatron.json](./18029-fallout-4-automatron.json) |
 | Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
 | Fallout 4: Edible Asbestos | 334933 | [334933-fallout-4-edible-asbestos.json](./334933-fallout-4-edible-asbestos.json) |
