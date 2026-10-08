@@ -6968,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
+| Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
 | Pooh Honeytime | 239790 | [239790-pooh-honeytime.json](./239790-pooh-honeytime.json) |
@@ -8976,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Night | 26949 | [26949-project-night.json](./26949-project-night.json) |
 | Project Nightmares Case 36: Henrietta Kedward | 104568 | [104568-project-nightmares-case-36-henrietta-kedward.json](./104568-project-nightmares-case-36-henrietta-kedward.json) |
 | Project Nihilum: Zero | 341553 | [341553-project-nihilum-zero.json](./341553-project-nihilum-zero.json) |
+| Project Nimbus | 10724 | [10724-project-nimbus.json](./10724-project-nimbus.json) |
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
@@ -9084,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
+| Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
@@ -10076,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
+| Putt-Putt and Fatty Bear's Activity Pack | 10730 | [10730-putt-putt-and-fatty-bears-activity-pack.json](./10730-putt-putt-and-fatty-bears-activity-pack.json) |
 | Putt-Putt and Pep's Balloon-O-Rama | 3742 | [3742-putt-putt-and-peps-balloon-o-rama.json](./3742-putt-putt-and-peps-balloon-o-rama.json) |
 | Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
 | Putt-Putt Goes to the Moon | 3734 | [3734-putt-putt-goes-to-the-moon.json](./3734-putt-putt-goes-to-the-moon.json) |
@@ -10204,6 +10208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
 | Puzzle Champions | 213271 | [213271-puzzle-champions.json](./213271-puzzle-champions.json) |
 | Puzzle Chasers | 292140 | [292140-puzzle-chasers.json](./292140-puzzle-chasers.json) |
+| Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Collection: Complete Edition | 225760 | [225760-puzzle-collection-complete-edition.json](./225760-puzzle-collection-complete-edition.json) |
