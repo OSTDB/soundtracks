@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
+| Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
 | Gem Worlds | 190026 | [190026-gem-worlds.json](./190026-gem-worlds.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | Gem'X | 93210 | [93210-gemx.json](./93210-gemx.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
+| Goblin Stone | 144764 | [144764-goblin-stone.json](./144764-goblin-stone.json) |
 | Goblin Storm | 337772 | [337772-goblin-storm.json](./337772-goblin-storm.json) |
 | Goblin Storm | 76705 | [76705-goblin-storm.json](./76705-goblin-storm.json) |
 | Goblin Summer Camp | 130132 | [130132-goblin-summer-camp.json](./130132-goblin-summer-camp.json) |
@@ -6240,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
+| Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fort Defiance | 24797 | [24797-guns-of-fort-defiance.json](./24797-guns-of-fort-defiance.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
