@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
 | Zombie Life | 198886 | [198886-zombie-life.json](./198886-zombie-life.json) |
 | Zombie Lines | 415928 | [415928-zombie-lines.json](./415928-zombie-lines.json) |
+| Zombie Madness: The Awakening | 408052 | [408052-zombie-madness-the-awakening.json](./408052-zombie-madness-the-awakening.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
 | Zombie Massacre | 415927 | [415927-zombie-massacre.json](./415927-zombie-massacre.json) |
 | Zombie Mess | 70987 | [70987-zombie-mess.json](./70987-zombie-mess.json) |
