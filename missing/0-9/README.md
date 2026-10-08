@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
 | 5-in-1 Fami Collection: NES Collection Nr 1 | 37644 | [37644-5-in-1-fami-collection-nes-collection-nr-1.json](./37644-5-in-1-fami-collection-nes-collection-nr-1.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
+| 5-Minute Maid | 392314 | [392314-5-minute-maid.json](./392314-5-minute-maid.json) |
 | 5-Nen Kanji Keisan Nigate Hunter DS | 269537 | [269537-5-nen-kanji-keisan-nigate-hunter-ds.json](./269537-5-nen-kanji-keisan-nigate-hunter-ds.json) |
 | 5-Star Taxi | 415875 | [415875-5-star-taxi.json](./415875-5-star-taxi.json) |
 | 5-Step Steve | 251585 | [251585-5-step-steve.json](./251585-5-step-steve.json) |
