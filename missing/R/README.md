@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
+| Rage Wars | 30564 | [30564-rage-wars.json](./30564-rage-wars.json) |
 | Rage: The Scorchers | 10751 | [10751-rage-the-scorchers.json](./10751-rage-the-scorchers.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
@@ -6361,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Letter: Limited Premium Box | 207921 | [207921-root-letter-limited-premium-box.json](./207921-root-letter-limited-premium-box.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
 | Root of Evil: Origins | 142839 | [142839-root-of-evil-origins.json](./142839-root-of-evil-origins.json) |
+| Root Of Evil: The Tailor | 30705 | [30705-root-of-evil-the-tailor.json](./30705-root-of-evil-the-tailor.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
 | Root of Wisdom | 177400 | [177400-root-of-wisdom.json](./177400-root-of-wisdom.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
