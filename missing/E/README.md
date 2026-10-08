@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E6 Connect | 142714 | [142714-e6-connect.json](./142714-e6-connect.json) |
 | EA Classics: Syndicate Wars & Dark Omen | 214455 | [214455-ea-classics-syndicate-wars-and-dark-omen.json](./214455-ea-classics-syndicate-wars-and-dark-omen.json) |
 | EA Create: Snap | 331966 | [331966-ea-create-snap.json](./331966-ea-create-snap.json) |
+| EA Family Bundle | 82456 | [82456-ea-family-bundle.json](./82456-ea-family-bundle.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
 | EA Playground | 175780 | [175780-ea-playground.json](./175780-ea-playground.json) |
 | EA Playground | 4825 | [4825-ea-playground.json](./4825-ea-playground.json) |
@@ -1649,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Dragon | 15834 | [15834-emerald-dragon.json](./15834-emerald-dragon.json) |
 | Emerald Dreams: Sanity - Platformer Quest | 349372 | [349372-emerald-dreams-sanity-platformer-quest.json](./349372-emerald-dreams-sanity-platformer-quest.json) |
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
+| Emerald Glazed Bundle | 82383 | [82383-emerald-glazed-bundle.json](./82383-emerald-glazed-bundle.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
