@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby and the Forgotten Land | 172427 | [172427-kirby-and-the-forgotten-land.json](./172427-kirby-and-the-forgotten-land.json) |
 | Kirby and the Forgotten Land | 208400 | [208400-kirby-and-the-forgotten-land.json](./208400-kirby-and-the-forgotten-land.json) |
+| Kirby and the Forgotten Land: Nintendo Switch 2 Edition + Star-Crossed World | 338074 | [338074-kirby-and-the-forgotten-land-nintendo-switch-2-edition-star-crossed-world.json](./338074-kirby-and-the-forgotten-land-nintendo-switch-2-edition-star-crossed-world.json) |
 | Kirby and the Rainbow Curse | 7338 | [7338-kirby-and-the-rainbow-curse.json](./7338-kirby-and-the-rainbow-curse.json) |
 | Kirby Battle Blitz! | 278474 | [278474-kirby-battle-blitz.json](./278474-kirby-battle-blitz.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
