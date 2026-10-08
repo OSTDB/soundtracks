@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
+| Kidou Senshi Gundam: Senshi-tachi no Kiseki | 3965 | [3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json](./3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json) |
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
 | Kidou Senshi Z-Gundam: Away to the NewType | 42517 | [42517-kidou-senshi-z-gundam-away-to-the-newtype.json](./42517-kidou-senshi-z-gundam-away-to-the-newtype.json) |
 | Kidou Shinsengumi: Moeyo Ken | 370867 | [370867-kidou-shinsengumi-moeyo-ken.json](./370867-kidou-shinsengumi-moeyo-ken.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Yuujou no Dengeki Dream Tag Tournament | 269755 | [269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json](./269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json) |
+| Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkonkon | 337741 | [337741-konkonkon.json](./337741-konkonkon.json) |
 | Konkord | 204949 | [204949-konkord.json](./204949-konkord.json) |
@@ -3126,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koro-koro Reimu 2 | 255799 | [255799-koro-koro-reimu-2.json](./255799-koro-koro-reimu-2.json) |
 | Koro-san's Home Wan! Derby | 354414 | [354414-koro-sans-home-wan-derby.json](./354414-koro-sans-home-wan-derby.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
+| Korokke! Ban-Ou no Kiki wo Sukue | 3970 | [3970-korokke-ban-ou-no-kiki-wo-sukue.json](./3970-korokke-ban-ou-no-kiki-wo-sukue.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
 | Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
