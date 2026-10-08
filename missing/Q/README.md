@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwerty Garden | 396585 | [396585-qwerty-garden.json](./396585-qwerty-garden.json) |
 | Qwess | 276192 | [276192-qwess.json](./276192-qwess.json) |
+| Qwick | 411499 | [411499-qwick.json](./411499-qwick.json) |
 | QwikWits | 314866 | [314866-qwikwits.json](./314866-qwikwits.json) |
 | Qwilight | 203526 | [203526-qwilight.json](./203526-qwilight.json) |
 | Qwirkle | 97290 | [97290-qwirkle.json](./97290-qwirkle.json) |
