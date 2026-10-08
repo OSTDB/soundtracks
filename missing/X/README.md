@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosis: Alien Infection | 94913 | [94913-xenosis-alien-infection.json](./94913-xenosis-alien-infection.json) |
 | Xenoslaive Overdrive | 51501 | [51501-xenoslaive-overdrive.json](./51501-xenoslaive-overdrive.json) |
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
+| Xenotilt: Hostile Pinball Action | 233872 | [233872-xenotilt-hostile-pinball-action.json](./233872-xenotilt-hostile-pinball-action.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
 | Xenotype | 156966 | [156966-xenotype.json](./156966-xenotype.json) |
