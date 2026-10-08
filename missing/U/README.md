@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Beach Soccer | 248631 | [248631-ultimate-beach-soccer.json](./248631-ultimate-beach-soccer.json) |
 | Ultimate Beach Soccer | 49353 | [49353-ultimate-beach-soccer.json](./49353-ultimate-beach-soccer.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
+| Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Booster Experience | 32102 | [32102-ultimate-booster-experience.json](./32102-ultimate-booster-experience.json) |
