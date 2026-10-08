@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Game Wizard: Draw Your Own Adventure Time Games | 88096 | [88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json](./88096-adventure-time-game-wizard-draw-your-own-adventure-time-games.json) |
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
+| Adventure Time: Battle Party | 20096 | [20096-adventure-time-battle-party.json](./20096-adventure-time-battle-party.json) |
 | Adventure Time: Blind Finned | 63658 | [63658-adventure-time-blind-finned.json](./63658-adventure-time-blind-finned.json) |
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2002 | 10624 | [10624-all-star-baseball-2002.json](./10624-all-star-baseball-2002.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
+| All-Star Baseball 97 | 19998 | [19998-all-star-baseball-97.json](./19998-all-star-baseball-97.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
@@ -9866,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
 | Avatar Rockets | 77586 | [77586-avatar-rockets.json](./77586-avatar-rockets.json) |
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
+| Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
