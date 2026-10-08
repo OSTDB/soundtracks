@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
 | War Drone | 386955 | [386955-war-drone.json](./386955-war-drone.json) |
+| War Drones | 74617 | [74617-war-drones.json](./74617-war-drones.json) |
 | War Ender Evolution | 288476 | [288476-war-ender-evolution.json](./288476-war-ender-evolution.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
@@ -4317,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
+| Woody Blox | 74916 | [74916-woody-blox.json](./74916-woody-blox.json) |
 | Woody Chopper | 160269 | [160269-woody-chopper.json](./160269-woody-chopper.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
@@ -5213,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
 | Worry_Bead | 233039 | [233039-worry-bead.json](./233039-worry-bead.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
+| Worshippers | 74926 | [74926-worshippers.json](./74926-worshippers.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
