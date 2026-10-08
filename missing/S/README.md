@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
 | Samawa Idle | 265304 | [265304-samawa-idle.json](./265304-samawa-idle.json) |
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
+| Samba de Amigo: Party Central | 236658 | [236658-samba-de-amigo-party-central.json](./236658-samba-de-amigo-party-central.json) |
 | Samba de Amigo: Party Central - Digital Deluxe Edition | 251097 | [251097-samba-de-amigo-party-central-digital-deluxe-edition.json](./251097-samba-de-amigo-party-central-digital-deluxe-edition.json) |
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
@@ -3855,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Kings | 344450 | [344450-shadow-kings.json](./344450-shadow-kings.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
+| Shadow Labyrinth | 325583 | [325583-shadow-labyrinth.json](./325583-shadow-labyrinth.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
@@ -5130,6 +5132,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmoblins | 386919 | [386919-shmoblins.json](./386919-shmoblins.json) |
+| Shmoup | 283533 | [283533-shmoup.json](./283533-shmoup.json) |
+| Shmoupity Shmoup | 316493 | [316493-shmoupity-shmoup.json](./316493-shmoupity-shmoup.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | Shmup Ball | 186052 | [186052-shmup-ball.json](./186052-shmup-ball.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
@@ -8295,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
+| Smithworks | 204603 | [204603-smithworks.json](./204603-smithworks.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
@@ -8365,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfette's Magic Match | 108977 | [108977-smurfettes-magic-match.json](./108977-smurfettes-magic-match.json) |
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
 | Smurfs Bubble Story | 109176 | [109176-smurfs-bubble-story.json](./109176-smurfs-bubble-story.json) |
+| Smurfs Kart | 206680 | [206680-smurfs-kart.json](./206680-smurfs-kart.json) |
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
@@ -14084,6 +14090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
+| Star Wars Galaxies: Rage of the Wookiees | 146 | [146-star-wars-galaxies-rage-of-the-wookiees.json](./146-star-wars-galaxies-rage-of-the-wookiees.json) |
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
 | Star Wars Galaxies: Trials of Obi-Wan | 206 | [206-star-wars-galaxies-trials-of-obi-wan.json](./206-star-wars-galaxies-trials-of-obi-wan.json) |
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
@@ -16015,6 +16022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straycloud | 404931 | [404931-straycloud.json](./404931-straycloud.json) |
 | StrayDoll Conflict | 156005 | [156005-straydoll-conflict.json](./156005-straydoll-conflict.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
+| Strayed Lights | 233576 | [233576-strayed-lights.json](./233576-strayed-lights.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
 | Strayed: 404 Not Found Skin Pack | 382417 | [382417-strayed-404-not-found-skin-pack.json](./382417-strayed-404-not-found-skin-pack.json) |
 | Strayed: America Skin Pack | 382426 | [382426-strayed-america-skin-pack.json](./382426-strayed-america-skin-pack.json) |
@@ -16353,6 +16361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force 2: Terrorist Hunt | 147654 | [147654-strike-force-2-terrorist-hunt.json](./147654-strike-force-2-terrorist-hunt.json) |
 | Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
+| Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
@@ -18346,6 +18355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
+| Super Mario Bros. 3 | 270351 | [270351-super-mario-bros-3.json](./270351-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3 Game Watch | 172539 | [172539-super-mario-bros-3-game-watch.json](./172539-super-mario-bros-3-game-watch.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
@@ -20728,6 +20738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndoy | 251064 | [251064-syndoy.json](./251064-syndoy.json) |
 | Syndrome | 13366 | [13366-syndrome.json](./13366-syndrome.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
+| Synduality: Echo of Ada | 217601 | [217601-synduality-echo-of-ada.json](./217601-synduality-echo-of-ada.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
