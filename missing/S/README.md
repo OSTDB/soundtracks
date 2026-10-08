@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Comprehensive Edition | 396929 | [396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json](./396929-s-n-i-p-e-r-hunter-scope-comprehensive-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Diamond Edition | 271837 | [271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json](./271837-s-n-i-p-e-r-hunter-scope-diamond-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Elite Edition | 268546 | [268546-s-n-i-p-e-r-hunter-scope-elite-edition.json](./268546-s-n-i-p-e-r-hunter-scope-elite-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Enhancement Edition | 404284 | [404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json](./404284-s-n-i-p-e-r-hunter-scope-enhancement-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Full Edition | 333723 | [333723-s-n-i-p-e-r-hunter-scope-full-edition.json](./333723-s-n-i-p-e-r-hunter-scope-full-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - GOTY Edition | 283164 | [283164-s-n-i-p-e-r-hunter-scope-goty-edition.json](./283164-s-n-i-p-e-r-hunter-scope-goty-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
+| Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Cars Deluxe | 13256 | [13256-saloon-cars-deluxe.json](./13256-saloon-cars-deluxe.json) |
 | Saloon Sally | 13754 | [13754-saloon-sally.json](./13754-saloon-sally.json) |
@@ -3339,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
+| Sepak U: Sports Fighting Game | 404802 | [404802-sepak-u-sports-fighting-game.json](./404802-sepak-u-sports-fighting-game.json) |
 | Sepapu | 408702 | [408702-sepapu.json](./408702-sepapu.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
 | Separator | 411718 | [411718-separator.json](./411718-separator.json) |
@@ -3472,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Server Owner Tycoon | 211176 | [211176-server-owner-tycoon.json](./211176-server-owner-tycoon.json) |
+| Server-Admin Simulator | 404189 | [404189-server-admin-simulator.json](./404189-server-admin-simulator.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
@@ -4574,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
+| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -6946,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate | 283373 | [283373-skate.json](./283373-skate.json) |
 | Skate & Date | 116276 | [116276-skate-and-date.json](./116276-skate-and-date.json) |
+| Skate 3: Recompiled | 404797 | [404797-skate-3-recompiled.json](./404797-skate-3-recompiled.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
@@ -8927,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever Rack 'n' Roll | 381807 | [381807-snooker-fever-rack-n-roll.json](./381807-snooker-fever-rack-n-roll.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
+| Snooker Fever: Elite Edition | 404285 | [404285-snooker-fever-elite-edition.json](./404285-snooker-fever-elite-edition.json) |
 | Snooker Fever: Premium Edition | 333722 | [333722-snooker-fever-premium-edition.json](./333722-snooker-fever-premium-edition.json) |
 | Snooker Fever: Upgrade Edition | 399828 | [399828-snooker-fever-upgrade-edition.json](./399828-snooker-fever-upgrade-edition.json) |
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
@@ -9800,6 +9807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
+| Solrend | 404801 | [404801-solrend.json](./404801-solrend.json) |
 | Solridge | 305938 | [305938-solridge.json](./305938-solridge.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
 | SolSeraph | 120184 | [120184-solseraph.json](./120184-solseraph.json) |
@@ -13477,6 +13485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
+| Spy Guy Memory: Vacation Edition | 404286 | [404286-spy-guy-memory-vacation-edition.json](./404286-spy-guy-memory-vacation-edition.json) |
 | Spy Guy The Circus Mission Edition | 364093 | [364093-spy-guy-the-circus-mission-edition.json](./364093-spy-guy-the-circus-mission-edition.json) |
 | Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
@@ -15578,6 +15587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
 | Step | 360115 | [360115-step.json](./360115-step.json) |
+| Step 'N Smush | 404791 | [404791-step-n-smush.json](./404791-step-n-smush.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
 | Step By Step Hero | 221099 | [221099-step-by-step-hero.json](./221099-step-by-step-hero.json) |
 | Step into the Abyss | 298123 | [298123-step-into-the-abyss.json](./298123-step-into-the-abyss.json) |
@@ -20802,6 +20812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoosh | 143926 | [143926-swoosh.json](./143926-swoosh.json) |
 | SwooshCat | 346249 | [346249-swooshcat.json](./346249-swooshcat.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
+| Sword & Banner | 404889 | [404889-sword-and-banner.json](./404889-sword-and-banner.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword & Glory | 334870 | [334870-sword-and-glory.json](./334870-sword-and-glory.json) |
 | Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
