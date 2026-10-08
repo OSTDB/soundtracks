@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X8: Fallen Angel DLC | 302590 | [302590-x8-fallen-angel-dlc.json](./302590-x8-fallen-angel-dlc.json) |
 | X8: Japan Only Version | 277508 | [277508-x8-japan-only-version.json](./277508-x8-japan-only-version.json) |
 | X8: NEO-19 White DLC | 302591 | [302591-x8-neo-19-white-dlc.json](./302591-x8-neo-19-white-dlc.json) |
+| X999 Ball | 388177 | [388177-x999-ball.json](./388177-x999-ball.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
 | Xagia Wars | 75933 | [75933-xagia-wars.json](./75933-xagia-wars.json) |
 | Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
