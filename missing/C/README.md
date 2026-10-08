@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade 2nd Stadium | 204386 | [204386-capcom-arcade-2nd-stadium.json](./204386-capcom-arcade-2nd-stadium.json) |
 | Capcom Arcade 2nd Stadium: Muscle Bomber - The Body Explosion | 238104 | [238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json](./238104-capcom-arcade-2nd-stadium-muscle-bomber-the-body-explosion.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
+| Capcom Arcade Cabinet: 1984 Collection | 21890 | [21890-capcom-arcade-cabinet-1984-collection.json](./21890-capcom-arcade-cabinet-1984-collection.json) |
 | Capcom Arcade Hits Volume 1 | 64489 | [64489-capcom-arcade-hits-volume-1.json](./64489-capcom-arcade-hits-volume-1.json) |
 | Capcom Arcade Hits Volume 2 | 79527 | [79527-capcom-arcade-hits-volume-2.json](./79527-capcom-arcade-hits-volume-2.json) |
 | Capcom Arcade Hits Volume 3 | 64488 | [64488-capcom-arcade-hits-volume-3.json](./64488-capcom-arcade-hits-volume-3.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
 | Castlevania: Lords of Shadow 2 - Revelations | 6303 | [6303-castlevania-lords-of-shadow-2-revelations.json](./6303-castlevania-lords-of-shadow-2-revelations.json) |
+| Castlevania: Lords of Shadow Collection | 21877 | [21877-castlevania-lords-of-shadow-collection.json](./21877-castlevania-lords-of-shadow-collection.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
@@ -3769,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster 9000 | 15882 | [15882-chessmaster-9000.json](./15882-chessmaster-9000.json) |
 | Chessmaster Challenge | 73219 | [73219-chessmaster-challenge.json](./73219-chessmaster-challenge.json) |
 | Chessmaster II | 44719 | [44719-chessmaster-ii.json](./44719-chessmaster-ii.json) |
+| Chessmaster Live | 21814 | [21814-chessmaster-live.json](./21814-chessmaster-live.json) |
 | Chessmaster Live: Breaking the Lines | 345138 | [345138-chessmaster-live-breaking-the-lines.json](./345138-chessmaster-live-breaking-the-lines.json) |
 | Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
 | Chessmaster Live: Chain Reaction | 345139 | [345139-chessmaster-live-chain-reaction.json](./345139-chessmaster-live-chain-reaction.json) |
@@ -9892,6 +9895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Isle | 334301 | [334301-critter-isle.json](./334301-critter-isle.json) |
 | Critter Kart | 122216 | [122216-critter-kart.json](./122216-critter-kart.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
+| Critter Round-Up | 21824 | [21824-critter-round-up.json](./21824-critter-round-up.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
