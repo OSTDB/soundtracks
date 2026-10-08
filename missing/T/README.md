@@ -13786,6 +13786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
 | Tinker Bell: 2 Disney Games | 113889 | [113889-tinker-bell-2-disney-games.json](./113889-tinker-bell-2-disney-games.json) |
+| Tinker Islands | 410820 | [410820-tinker-islands.json](./410820-tinker-islands.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
 | Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
@@ -14265,6 +14266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Take Root Among the Stars | 234778 | [234778-to-take-root-among-the-stars.json](./234778-to-take-root-among-the-stars.json) |
 | To Tell the Truth | 282570 | [282570-to-tell-the-truth.json](./282570-to-tell-the-truth.json) |
 | To the Basement | 275092 | [275092-to-the-basement.json](./275092-to-the-basement.json) |
+| To the Basement: Before | 410834 | [410834-to-the-basement-before.json](./410834-to-the-basement-before.json) |
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
@@ -17598,6 +17600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Poker | 176445 | [176445-trash-poker.json](./176445-trash-poker.json) |
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
+| Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
@@ -17866,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
+| Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
 | Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
@@ -17936,6 +17940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
+| Trial of Greed VR | 410861 | [410861-trial-of-greed-vr.json](./410861-trial-of-greed-vr.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
 | Trial of the Clone | 63670 | [63670-trial-of-the-clone.json](./63670-trial-of-the-clone.json) |
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
@@ -18511,6 +18516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Mondai | 244351 | [244351-truck-mondai.json](./244351-truck-mondai.json) |
 | Truck Parking Simulator | 129628 | [129628-truck-parking-simulator.json](./129628-truck-parking-simulator.json) |
+| Truck Parking Simulator 2026 | 410833 | [410833-truck-parking-simulator-2026.json](./410833-truck-parking-simulator-2026.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
 | Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Racing Simulator | 391348 | [391348-truck-racing-simulator.json](./391348-truck-racing-simulator.json) |
@@ -19444,6 +19450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
 | Two Hundred Ways | 166636 | [166636-two-hundred-ways.json](./166636-two-hundred-ways.json) |
 | Two Identical | 207406 | [207406-two-identical.json](./207406-two-identical.json) |
+| Two Kinds of People | 410827 | [410827-two-kinds-of-people.json](./410827-two-kinds-of-people.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
