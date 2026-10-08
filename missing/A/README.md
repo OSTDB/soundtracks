@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
 | Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
+| Aerial_Knight's MrFreezy | 410070 | [410070-aerial-knights-mrfreezy.json](./410070-aerial-knights-mrfreezy.json) |
 | Aerial_Knight's Never Yield | 138206 | [138206-aerial-knights-never-yield.json](./138206-aerial-knights-never-yield.json) |
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
 | Ainsley | 294247 | [294247-ainsley.json](./294247-ainsley.json) |
 | Ainur | 379519 | [379519-ainur.json](./379519-ainur.json) |
+| Aiocá | 410195 | [410195-aioca.json](./410195-aioca.json) |
 | Aion | 563 | [563-aion.json](./563-aion.json) |
 | Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
 | Aion Collector's Edition | 405640 | [405640-aion-collectors-edition.json](./405640-aion-collectors-edition.json) |
