@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Implode XL | 66418 | [66418-implode-xl.json](./66418-implode-xl.json) |
+| Implosion: Never Lose Hope | 26907 | [26907-implosion-never-lose-hope.json](./26907-implosion-never-lose-hope.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inma Nemu no Chu-chu Seieki Tanken-ki | 114904 | [114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json](./114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json) |
+| Inmates | 27779 | [27779-inmates.json](./27779-inmates.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
@@ -2741,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgence: Second Assault | 118796 | [118796-insurgence-second-assault.json](./118796-insurgence-second-assault.json) |
 | Insurgence: Second Assault - Remastered | 240805 | [240805-insurgence-second-assault-remastered.json](./240805-insurgence-second-assault-remastered.json) |
 | Insurgency Runner | 258485 | [258485-insurgency-runner.json](./258485-insurgency-runner.json) |
+| Insurgency: Modern Infantry Combat | 27533 | [27533-insurgency-modern-infantry-combat.json](./27533-insurgency-modern-infantry-combat.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
 | Insurgency: Sandstorm - Deluxe Edition | 169171 | [169171-insurgency-sandstorm-deluxe-edition.json](./169171-insurgency-sandstorm-deluxe-edition.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
