@@ -4173,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Mars | 388330 | [388330-desktop-mars.json](./388330-desktop-mars.json) |
+| Desktop Nard | 389544 | [389544-desktop-nard.json](./389544-desktop-nard.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
 | Desktop Pet | 265195 | [265195-desktop-pet.json](./265195-desktop-pet.json) |
