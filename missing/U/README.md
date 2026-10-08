@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearthed | 75400 | [75400-unearthed.json](./75400-unearthed.json) |
 | Unearthed Arsenal | 80237 | [80237-unearthed-arsenal.json](./80237-unearthed-arsenal.json) |
+| Unearthed Inc: The Lost Temple | 30644 | [30644-unearthed-inc-the-lost-temple.json](./30644-unearthed-inc-the-lost-temple.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
 | Unearther | 326245 | [326245-unearther.json](./326245-unearther.json) |
 | Unearthing Invasions | 302362 | [302362-unearthing-invasions.json](./302362-unearthing-invasions.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhallowed: The Cabin | 96235 | [96235-unhallowed-the-cabin.json](./96235-unhallowed-the-cabin.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
+| Unhappy Ever After | 30617 | [30617-unhappy-ever-after.json](./30617-unhappy-ever-after.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
