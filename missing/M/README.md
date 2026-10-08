@@ -6059,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
+| Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
@@ -11906,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
 | My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
+| My Gym Mommy Treats Me Like A Kid | 393560 | [393560-my-gym-mommy-treats-me-like-a-kid.json](./393560-my-gym-mommy-treats-me-like-a-kid.json) |
 | My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
 | My Happy Place | 229774 | [229774-my-happy-place.json](./229774-my-happy-place.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
