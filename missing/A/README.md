@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acalius: Enemies of the Wild | 58069 | [58069-acalius-enemies-of-the-wild.json](./58069-acalius-enemies-of-the-wild.json) |
 | Acan's Call: Act 1 | 32084 | [32084-acans-call-act-1.json](./32084-acans-call-act-1.json) |
 | Acanthoceras | 208272 | [208272-acanthoceras.json](./208272-acanthoceras.json) |
+| Acaratus | 35105 | [35105-acaratus.json](./35105-acaratus.json) |
 | ACardShooter | 118233 | [118233-acardshooter.json](./118233-acardshooter.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel | 114902 | [114902-accel.json](./114902-accel.json) |
@@ -1824,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Island: The Beginning | 50697 | [50697-adventure-island-the-beginning.json](./50697-adventure-island-the-beginning.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
+| ADventure Lib | 35109 | [35109-adventure-lib.json](./35109-adventure-lib.json) |
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
 | Adventure Llama | 104463 | [104463-adventure-llama.json](./104463-adventure-llama.json) |
 | Adventure Machine | 176328 | [176328-adventure-machine.json](./176328-adventure-machine.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Blocks | 379516 | [379516-age-of-blocks.json](./379516-age-of-blocks.json) |
 | Age of Booty | 9948 | [9948-age-of-booty.json](./9948-age-of-booty.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
+| Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
@@ -3218,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
+| Alarameth TD | 35071 | [35071-alarameth-td.json](./35071-alarameth-td.json) |
 | Alaric | 312679 | [312679-alaric.json](./312679-alaric.json) |
 | Alaric's Quest | 254029 | [254029-alarics-quest.json](./254029-alarics-quest.json) |
 | Alaris | 211113 | [211113-alaris.json](./211113-alaris.json) |
@@ -8592,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault City | 46117 | [46117-assault-city.json](./46117-assault-city.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
+| Assault CorpsII | 35101 | [35101-assault-corpsii.json](./35101-assault-corpsii.json) |
 | Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
@@ -8994,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
+| Astrokill | 35064 | [35064-astrokill.json](./35064-astrokill.json) |
 | Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
 | Astrolancer | 294943 | [294943-astrolancer.json](./294943-astrolancer.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
