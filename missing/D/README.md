@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution X2 | 43218 | [43218-dance-dance-revolution-x2.json](./43218-dance-dance-revolution-x2.json) |
 | Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
+| Dance Dance Revolution: Disney Channel Edition | 21282 | [21282-dance-dance-revolution-disney-channel-edition.json](./21282-dance-dance-revolution-disney-channel-edition.json) |
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
 | Dance Dance Revolution: Hottest Party 2 | 50719 | [50719-dance-dance-revolution-hottest-party-2.json](./50719-dance-dance-revolution-hottest-party-2.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
@@ -2537,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death is better than Hell | 51971 | [51971-death-is-better-than-hell.json](./51971-death-is-better-than-hell.json) |
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
+| Death Jr. and the Science Fair of Doom | 21412 | [21412-death-jr-and-the-science-fair-of-doom.json](./21412-death-jr-and-the-science-fair-of-doom.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
@@ -9086,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
 | Dream Trials | 371412 | [371412-dream-trials.json](./371412-dream-trials.json) |
+| Dream Trigger 3D | 21141 | [21141-dream-trigger-3d.json](./21141-dream-trigger-3d.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
@@ -10383,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Run | 197224 | [197224-dungeon-run.json](./197224-dungeon-run.json) |
 | Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
+| Dungeon Runners | 21407 | [21407-dungeon-runners.json](./21407-dungeon-runners.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
