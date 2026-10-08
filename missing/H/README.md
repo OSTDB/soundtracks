@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
 | Hearts by Dodofox | 100334 | [100334-hearts-by-dodofox.json](./100334-hearts-by-dodofox.json) |
 | Hearts by Webfoot | 108286 | [108286-hearts-by-webfoot.json](./108286-hearts-by-webfoot.json) |
+| Hearts Card Game | 87145 | [87145-hearts-card-game.json](./87145-hearts-card-game.json) |
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Deluxe | 118736 | [118736-hearts-deluxe.json](./118736-hearts-deluxe.json) |
 | Hearts in Orbit: When Stars Align | 295860 | [295860-hearts-in-orbit-when-stars-align.json](./295860-hearts-in-orbit-when-stars-align.json) |
@@ -3826,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heyawake by Nikoli | 84522 | [84522-heyawake-by-nikoli.json](./84522-heyawake-by-nikoli.json) |
 | HeyBot! HeyboHeybo! HeyBoTournament! | 135165 | [135165-heybot-heyboheybo-heybotournament.json](./135165-heybot-heyboheybo-heybotournament.json) |
 | Heyday | 91541 | [91541-heyday.json](./91541-heyday.json) |
+| Heydooda! The Kitty Says: Hello Animal Kids | 87112 | [87112-heydooda-the-kitty-says-hello-animal-kids.json](./87112-heydooda-the-kitty-says-hello-animal-kids.json) |
 | Hezarin | 25114 | [25114-hezarin.json](./25114-hezarin.json) |
 | HG Adventure | 372070 | [372070-hg-adventure.json](./372070-hg-adventure.json) |
 | HgmGame Horse | 357851 | [357851-hgmgame-horse.json](./357851-hgmgame-horse.json) |
@@ -5584,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hoozuki no Yakusai | 376674 | [376674-hoozuki-no-yakusai.json](./376674-hoozuki-no-yakusai.json) |
 | Hop | 86964 | [86964-hop.json](./86964-hop.json) |
+| Hop - Endless Arcade Hopper | 87167 | [87167-hop-endless-arcade-hopper.json](./87167-hop-endless-arcade-hopper.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
@@ -6001,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Girls Delivery Club | 253932 | [253932-hot-girls-delivery-club.json](./253932-hot-girls-delivery-club.json) |
 | Hot Girls VR | 110945 | [110945-hot-girls-vr.json](./110945-hot-girls-vr.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
+| Hot Hands! | 87171 | [87171-hot-hands.json](./87171-hot-hands.json) |
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
 | Hot Heat Reset | 224512 | [224512-hot-heat-reset.json](./224512-hot-heat-reset.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
@@ -6981,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
 | HuntForOut | 207731 | [207731-huntforout.json](./207731-huntforout.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
+| Hunting Animals - Shooting Simulator | 87144 | [87144-hunting-animals-shooting-simulator.json](./87144-hunting-animals-shooting-simulator.json) |
 | Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
 | Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
