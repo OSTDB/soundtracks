@@ -6089,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
+| Forward to the Past | 396034 | [396034-forward-to-the-past.json](./396034-forward-to-the-past.json) |
 | Forward Toward Uranus X | 401897 | [401897-forward-toward-uranus-x.json](./401897-forward-toward-uranus-x.json) |
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
