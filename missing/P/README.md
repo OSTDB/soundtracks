@@ -3906,6 +3906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
+| Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
 | Pinball 2018 | 100587 | [100587-pinball-2018.json](./100587-pinball-2018.json) |
@@ -7181,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
+| PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn Dragon | 65600 | [65600-popcorn-dragon.json](./65600-popcorn-dragon.json) |
 | Popcorn Fever | 308348 | [308348-popcorn-fever.json](./308348-popcorn-fever.json) |
@@ -8317,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect | 1338 | [1338-prison-architect.json](./1338-prison-architect.json) |
 | Prison Architect DLC Bundle | 118886 | [118886-prison-architect-dlc-bundle.json](./118886-prison-architect-dlc-bundle.json) |
 | Prison Architect: All Day and a Night | 234041 | [234041-prison-architect-all-day-and-a-night.json](./234041-prison-architect-all-day-and-a-night.json) |
+| Prison Architect: All Day and a Night Edition | 82440 | [82440-prison-architect-all-day-and-a-night-edition.json](./82440-prison-architect-all-day-and-a-night-edition.json) |
 | Prison Architect: All Day and a Psych | 118834 | [118834-prison-architect-all-day-and-a-psych.json](./118834-prison-architect-all-day-and-a-psych.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
 | Prison Architect: Free for life | 220655 | [220655-prison-architect-free-for-life.json](./220655-prison-architect-free-for-life.json) |
@@ -9932,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
+| Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Electric Love "Everyone else!" Ema Sakura | 105976 | [105976-pure-electric-love-everyone-else-ema-sakura.json](./105976-pure-electric-love-everyone-else-ema-sakura.json) |
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
