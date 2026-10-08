@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
+| Banan's Peel Out | 422155 | [422155-banans-peel-out.json](./422155-banans-peel-out.json) |
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
 | Banana | 305441 | [305441-banana.json](./305441-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
 | Battle of the Lost Continent | 226245 | [226245-battle-of-the-lost-continent.json](./226245-battle-of-the-lost-continent.json) |
 | Battle of the Robots | 192762 | [192762-battle-of-the-robots.json](./192762-battle-of-the-robots.json) |
+| Battle of the Strongest | 422156 | [422156-battle-of-the-strongest.json](./422156-battle-of-the-strongest.json) |
 | Battle of the Youstrass | 229213 | [229213-battle-of-the-youstrass.json](./229213-battle-of-the-youstrass.json) |
 | Battle of Tiles | 66661 | [66661-battle-of-tiles.json](./66661-battle-of-tiles.json) |
 | Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
@@ -3368,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
+| Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 133952 | [133952-beep.json](./133952-beep.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
@@ -4378,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bighand Finding Hunter | 89491 | [89491-bighand-finding-hunter.json](./89491-bighand-finding-hunter.json) |
 | BigHardSun | 122804 | [122804-bighardsun.json](./122804-bighardsun.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
+| Bighorn Ramone | 422134 | [422134-bighorn-ramone.json](./422134-bighorn-ramone.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
@@ -4789,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Path | 158124 | [158124-bird-path.json](./158124-bird-path.json) |
 | Bird Pro Skater | 159641 | [159641-bird-pro-skater.json](./159641-bird-pro-skater.json) |
 | Bird Problems | 152178 | [152178-bird-problems.json](./152178-bird-problems.json) |
+| Bird Roll 64 | 422097 | [422097-bird-roll-64.json](./422097-bird-roll-64.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
@@ -5488,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
 | Bladerunners SX | 330820 | [330820-bladerunners-sx.json](./330820-bladerunners-sx.json) |
+| Blades & Trades | 422121 | [422121-blades-and-trades.json](./422121-blades-and-trades.json) |
 | Blades Adrift | 176272 | [176272-blades-adrift.json](./176272-blades-adrift.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
