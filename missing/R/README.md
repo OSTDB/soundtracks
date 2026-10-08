@@ -3888,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
+| Rewind | 33621 | [33621-rewind.json](./33621-rewind.json) |
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
@@ -4991,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Works Simulator | 10778 | [10778-road-works-simulator.json](./10778-road-works-simulator.json) |
 | Road Z Survival: The Last Winter | 105089 | [105089-road-z-survival-the-last-winter.json](./105089-road-z-survival-the-last-winter.json) |
 | Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
+| Roadclub: League Racing | 33644 | [33644-roadclub-league-racing.json](./33644-roadclub-league-racing.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | RoadCraft: 1-Year Anniversary Edition | 397906 | [397906-roadcraft-1-year-anniversary-edition.json](./397906-roadcraft-1-year-anniversary-edition.json) |
 | RoadCraft: Aramatsu Bowhead 30T | 374731 | [374731-roadcraft-aramatsu-bowhead-30t.json](./374731-roadcraft-aramatsu-bowhead-30t.json) |
