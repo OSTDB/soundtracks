@@ -6050,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michel Teló Around the World | 248621 | [248621-michel-telo-around-the-world.json](./248621-michel-telo-around-the-world.json) |
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
+| Michi Café | 412794 | [412794-michi-cafe.json](./412794-michi-cafe.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
 | Michigan: Report from Hell | 26294 | [26294-michigan-report-from-hell.json](./26294-michigan-report-from-hell.json) |
 | Michiko Jump! | 217846 | [217846-michiko-jump.json](./217846-michiko-jump.json) |
@@ -6953,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
+| Mind Parasitic | 412901 | [412901-mind-parasitic.json](./412901-mind-parasitic.json) |
 | Mind Prober | 71750 | [71750-mind-prober.json](./71750-mind-prober.json) |
 | Mind Puzzle 2023 | 265200 | [265200-mind-puzzle-2023.json](./265200-mind-puzzle-2023.json) |
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
@@ -8145,6 +8147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
+| Mixolydia Fringes | 412885 | [412885-mixolydia-fringes.json](./412885-mixolydia-fringes.json) |
 | Mixtape | 305157 | [305157-mixtape.json](./305157-mixtape.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonland | 57499 | [57499-moonland.json](./57499-moonland.json) |
 | Moonlander | 9129 | [9129-moonlander.json](./9129-moonlander.json) |
 | Moonleap 2600 | 413685 | [413685-moonleap-2600.json](./413685-moonleap-2600.json) |
+| Moonleap Maker | 412890 | [412890-moonleap-maker.json](./412890-moonleap-maker.json) |
 | Moonless | 244863 | [244863-moonless.json](./244863-moonless.json) |
 | Moonless Moon | 302959 | [302959-moonless-moon.json](./302959-moonless-moon.json) |
 | moonLessL | 166581 | [166581-moonlessl.json](./166581-moonlessl.json) |
