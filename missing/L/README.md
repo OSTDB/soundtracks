@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
+| Landlord's Super | 121388 | [121388-landlords-super.json](./121388-landlords-super.json) |
 | Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
 | Life is Strange 2: Episode 4 - Faith | 119055 | [119055-life-is-strange-2-episode-4-faith.json](./119055-life-is-strange-2-episode-4-faith.json) |
+| Life is Strange 2: Episode 5 - Wolves | 119054 | [119054-life-is-strange-2-episode-5-wolves.json](./119054-life-is-strange-2-episode-5-wolves.json) |
 | Life is Strange Collection | 361759 | [361759-life-is-strange-collection.json](./361759-life-is-strange-collection.json) |
 | Life is Strange Remastered Collection | 144770 | [144770-life-is-strange-remastered-collection.json](./144770-life-is-strange-remastered-collection.json) |
 | Life Is Strange: Arcadia Bay Collection | 213355 | [213355-life-is-strange-arcadia-bay-collection.json](./213355-life-is-strange-arcadia-bay-collection.json) |
@@ -5189,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Nurse | 245823 | [245823-lovely-nurse.json](./245823-lovely-nurse.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
+| Lovely Planet 2: April Skies | 119351 | [119351-lovely-planet-2-april-skies.json](./119351-lovely-planet-2-april-skies.json) |
 | Lovely Planet Arcade | 20112 | [20112-lovely-planet-arcade.json](./20112-lovely-planet-arcade.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
@@ -5670,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
+| Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunatic | 141184 | [141184-lunatic.json](./141184-lunatic.json) |
