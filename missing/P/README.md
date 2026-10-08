@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
 | Panda PandaMonium | 60902 | [60902-panda-pandamonium.json](./60902-panda-pandamonium.json) |
 | Panda penguin care salon | 88424 | [88424-panda-penguin-care-salon.json](./88424-panda-penguin-care-salon.json) |
+| Panda Poet | 396049 | [396049-panda-poet.json](./396049-panda-poet.json) |
 | Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
+| Para Para Paradise | 395996 | [395996-para-para-paradise.json](./395996-para-para-paradise.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
@@ -4117,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
 | Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
+| Pinball Spire x 9 Years of Shadows | 396120 | [396120-pinball-spire-x-9-years-of-shadows.json](./396120-pinball-spire-x-9-years-of-shadows.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
 | Pinball Tycoon | 64477 | [64477-pinball-tycoon.json](./64477-pinball-tycoon.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
@@ -10139,6 +10142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
+| Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
 | Purranoia | 385218 | [385218-purranoia.json](./385218-purranoia.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
