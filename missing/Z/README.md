@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zone of Action | 138557 | [138557-zone-of-action.json](./138557-zone-of-action.json) |
+| Zone of Lacryma | 32241 | [32241-zone-of-lacryma.json](./32241-zone-of-lacryma.json) |
 | Zone of the Enders | 1472 | [1472-zone-of-the-enders.json](./1472-zone-of-the-enders.json) |
 | Zone of the Enders HD Collection | 24230 | [24230-zone-of-the-enders-hd-collection.json](./24230-zone-of-the-enders-hd-collection.json) |
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
