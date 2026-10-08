@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
 | Candy Lattice | 245830 | [245830-candy-lattice.json](./245830-candy-lattice.json) |
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
+| Candy Machine | 28333 | [28333-candy-machine.json](./28333-candy-machine.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
 | Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
@@ -10252,6 +10253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
 | CrowKart | 165443 | [165443-crowkart.json](./165443-crowkart.json) |
+| Crowman & Wolfboy | 28575 | [28575-crowman-and-wolfboy.json](./28575-crowman-and-wolfboy.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
