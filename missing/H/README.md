@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | Hasicontent | 135041 | [135041-hasicontent.json](./135041-hasicontent.json) |
+| Hasshaku-sama to Love Come Suru | 395499 | [395499-hasshaku-sama-to-love-come-suru.json](./395499-hasshaku-sama-to-love-come-suru.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
 | Haste | 167266 | [167266-haste.json](./167266-haste.json) |
 | Haste | 221845 | [221845-haste.json](./221845-haste.json) |
@@ -6641,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | HR: Human Remains | 347337 | [347337-hr-human-remains.json](./347337-hr-human-remains.json) |
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
+| Hrana | 395461 | [395461-hrana.json](./395461-hrana.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
@@ -7051,6 +7053,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters of Ralk | 291016 | [291016-hunters-of-ralk.json](./291016-hunters-of-ralk.json) |
 | Hunters War | 124592 | [124592-hunters-war.json](./124592-hunters-war.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
+| Hunters: Relic Of Stars | 395485 | [395485-hunters-relic-of-stars.json](./395485-hunters-relic-of-stars.json) |
+| Hunters: Relic of Stars - Stage 2 | 395486 | [395486-hunters-relic-of-stars-stage-2.json](./395486-hunters-relic-of-stars-stage-2.json) |
+| Hunters: Relic of Stars - Stage 3 | 395488 | [395488-hunters-relic-of-stars-stage-3.json](./395488-hunters-relic-of-stars-stage-3.json) |
+| Hunters: Relic of Stars - Stage 4 | 395490 | [395490-hunters-relic-of-stars-stage-4.json](./395490-hunters-relic-of-stars-stage-4.json) |
+| Hunters: Relic of Stars - Stage 5 | 395491 | [395491-hunters-relic-of-stars-stage-5.json](./395491-hunters-relic-of-stars-stage-5.json) |
+| Hunters: Relic of Stars - Stage 6 | 395492 | [395492-hunters-relic-of-stars-stage-6.json](./395492-hunters-relic-of-stars-stage-6.json) |
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
 | HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
 | HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
