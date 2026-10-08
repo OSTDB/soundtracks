@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain 2005: Ashes Edition | 63322 | [63322-international-cricket-captain-2005-ashes-edition.json](./63322-international-cricket-captain-2005-ashes-edition.json) |
 | International Cricket Captain 2006 | 23008 | [23008-international-cricket-captain-2006.json](./23008-international-cricket-captain-2006.json) |
 | International Cricket Captain 2006: Ashes Edition | 63323 | [63323-international-cricket-captain-2006-ashes-edition.json](./63323-international-cricket-captain-2006-ashes-edition.json) |
+| International Cricket Captain 2008 | 21355 | [21355-international-cricket-captain-2008.json](./21355-international-cricket-captain-2008.json) |
 | International Cricket Captain 2009 | 63324 | [63324-international-cricket-captain-2009.json](./63324-international-cricket-captain-2009.json) |
 | International Cricket Captain 2009: Ashes Edition | 63328 | [63328-international-cricket-captain-2009-ashes-edition.json](./63328-international-cricket-captain-2009-ashes-edition.json) |
 | International Cricket Captain 2010 | 63326 | [63326-international-cricket-captain-2010.json](./63326-international-cricket-captain-2010.json) |
