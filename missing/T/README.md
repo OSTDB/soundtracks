@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
 | Tecmo Bowl | 8168 | [8168-tecmo-bowl.json](./8168-tecmo-bowl.json) |
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
+| Tecmo Bowl: Kickoff | 21329 | [21329-tecmo-bowl-kickoff.json](./21329-tecmo-bowl-kickoff.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Cup Soccer Game | 48227 | [48227-tecmo-cup-soccer-game.json](./48227-tecmo-cup-soccer-game.json) |
 | Tecmo NBA Basketball | 48226 | [48226-tecmo-nba-basketball.json](./48226-tecmo-nba-basketball.json) |
@@ -9915,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
 | The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
+| The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
@@ -10987,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
+| The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
@@ -11797,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
+| Thor: God of Thunder | 21142 | [21142-thor-god-of-thunder.json](./21142-thor-god-of-thunder.json) |
 | Thor: God of Thunder | 400413 | [400413-thor-god-of-thunder.json](./400413-thor-god-of-thunder.json) |
 | Thor: God of Thunder | 5219 | [5219-thor-god-of-thunder.json](./5219-thor-god-of-thunder.json) |
 | Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
@@ -15135,6 +15139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
+| Tortuga: Two Treasures | 21394 | [21394-tortuga-two-treasures.json](./21394-tortuga-two-treasures.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
@@ -18800,6 +18805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
+| Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
