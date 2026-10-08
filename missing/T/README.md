@@ -4719,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
+| The Curse of Womanland | 391143 | [391143-the-curse-of-womanland.json](./391143-the-curse-of-womanland.json) |
 | The Curse of Yendor | 27414 | [27414-the-curse-of-yendor.json](./27414-the-curse-of-yendor.json) |
 | The Curse of Zigoris | 130252 | [130252-the-curse-of-zigoris.json](./130252-the-curse-of-zigoris.json) |
 | The Curse We Made | 380623 | [380623-the-curse-we-made.json](./380623-the-curse-we-made.json) |
@@ -11180,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wand of Gamelon Remastered Randomizer | 242114 | [242114-the-wand-of-gamelon-remastered-randomizer.json](./242114-the-wand-of-gamelon-remastered-randomizer.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
+| The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
@@ -11799,6 +11801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Hunger: Lost Souls | 73003 | [73003-they-hunger-lost-souls.json](./73003-they-hunger-lost-souls.json) |
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
+| They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
@@ -14891,6 +14894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Thumb | 206766 | [206766-tom-thumb.json](./206766-tom-thumb.json) |
 | Tom vs. Jerry: The Chase Is On! | 269769 | [269769-tom-vs-jerry-the-chase-is-on.json](./269769-tom-vs-jerry-the-chase-is-on.json) |
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
+| TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
