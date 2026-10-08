@@ -4863,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Senshi Sailor Moon SuperS: Sailor Moon to Hiragana Lesson! | 63952 | [63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json](./63952-bishoujo-senshi-sailor-moon-supers-sailor-moon-to-hiragana-lesson.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Shin Shuyaku Soudatsusen | 45457 | [45457-bishoujo-senshi-sailor-moon-supers-shin-shuyaku-soudatsusen.json](./45457-bishoujo-senshi-sailor-moon-supers-shin-shuyaku-soudatsusen.json) |
 | Bishoujo Senshi Sailor Moon SuperS: Youkoso! Sailor Youchien | 63948 | [63948-bishoujo-senshi-sailor-moon-supers-youkoso-sailor-youchien.json](./63948-bishoujo-senshi-sailor-moon-supers-youkoso-sailor-youchien.json) |
+| Bishoujo Senshi Sailor Moon: Another Story | 16142 | [16142-bishoujo-senshi-sailor-moon-another-story.json](./16142-bishoujo-senshi-sailor-moon-another-story.json) |
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
 | Bishoujo Sexy Derby | 41358 | [41358-bishoujo-sexy-derby.json](./41358-bishoujo-sexy-derby.json) |
 | Bishoujo Sexy Slot | 41357 | [41357-bishoujo-sexy-slot.json](./41357-bishoujo-sexy-slot.json) |
@@ -7604,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
+| Borealis | 17537 | [17537-borealis.json](./17537-borealis.json) |
 | Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
 | Bored Wife | 306379 | [306379-bored-wife.json](./306379-bored-wife.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
