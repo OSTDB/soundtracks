@@ -5201,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | Worlds of Magic: Planar Conquest | 79925 | [79925-worlds-of-magic-planar-conquest.json](./79925-worlds-of-magic-planar-conquest.json) |
 | Worlds of Magic: Titans | 160281 | [160281-worlds-of-magic-titans.json](./160281-worlds-of-magic-titans.json) |
+| Worlds of Nyx | 391695 | [391695-worlds-of-nyx.json](./391695-worlds-of-nyx.json) |
 | Worlds of the Future | 169170 | [169170-worlds-of-the-future.json](./169170-worlds-of-the-future.json) |
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
 | Worlds Within Worlds | 176312 | [176312-worlds-within-worlds.json](./176312-worlds-within-worlds.json) |
