@@ -2194,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Premiership 2006 | 43452 | [43452-afl-premiership-2006.json](./43452-afl-premiership-2006.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
+| Afraid of God | 390697 | [390697-afraid-of-god.json](./390697-afraid-of-god.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
@@ -5054,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anachronic | 265576 | [265576-anachronic.json](./265576-anachronic.json) |
 | Anachronism\> | 151304 | [151304-anachronism.json](./151304-anachronism.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
+| Anagramarama | 390701 | [390701-anagramarama.json](./390701-anagramarama.json) |
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
