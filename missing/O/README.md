@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oberak | 270146 | [270146-oberak.json](./270146-oberak.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
+| Oberon's Wake | 394798 | [394798-oberons-wake.json](./394798-oberons-wake.json) |
 | Oberty | 259042 | [259042-oberty.json](./259042-oberty.json) |
 | Obesity Simulator | 264705 | [264705-obesity-simulator.json](./264705-obesity-simulator.json) |
 | Obey Me! Sinner's Choice: Lucifer | 396555 | [396555-obey-me-sinners-choice-lucifer.json](./396555-obey-me-sinners-choice-lucifer.json) |
@@ -2059,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Night Strikers | 343316 | [343316-operation-night-strikers.json](./343316-operation-night-strikers.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
 | Operation Noogy | 265314 | [265314-operation-noogy.json](./265314-operation-noogy.json) |
+| Operation Nova | 394793 | [394793-operation-nova.json](./394793-operation-nova.json) |
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
