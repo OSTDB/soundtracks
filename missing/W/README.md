@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
+| West Escape: Gold Edition | 394757 | [394757-west-escape-gold-edition.json](./394757-west-escape-gold-edition.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Front | 72145 | [72145-west-front.json](./72145-west-front.json) |
