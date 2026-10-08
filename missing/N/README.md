@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecRomancer | 176838 | [176838-necromancer.json](./176838-necromancer.json) |
 | Necromancer Delivery Service | 406309 | [406309-necromancer-delivery-service.json](./406309-necromancer-delivery-service.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
+| Necromancer: Ash & Bone | 418262 | [418262-necromancer-ash-and-bone.json](./418262-necromancer-ash-and-bone.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries | 378774 | [378774-new-york-mysteries.json](./378774-new-york-mysteries.json) |
 | New York Mysteries | 53417 | [53417-new-york-mysteries.json](./53417-new-york-mysteries.json) |
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
+| New York Mysteries 5: Power of Art | 418315 | [418315-new-york-mysteries-5-power-of-art.json](./418315-new-york-mysteries-5-power-of-art.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
@@ -4077,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
+| Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
 | Not Another Advent Story | 210496 | [210496-not-another-advent-story.json](./210496-not-another-advent-story.json) |
 | Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
@@ -4330,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
 | Nuclear Dawn | 5055 | [5055-nuclear-dawn.json](./5055-nuclear-dawn.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
+| Nuclear Design Bureau | 418299 | [418299-nuclear-design-bureau.json](./418299-nuclear-design-bureau.json) |
 | Nuclear Drifter | 173068 | [173068-nuclear-drifter.json](./173068-nuclear-drifter.json) |
 | Nuclear Embargo | 31182 | [31182-nuclear-embargo.json](./31182-nuclear-embargo.json) |
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
