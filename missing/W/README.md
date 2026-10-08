@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
+| Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where is Starlingdive | 414527 | [414527-where-is-starlingdive.json](./414527-where-is-starlingdive.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
@@ -3805,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchcrafty | 120920 | [120920-witchcrafty.json](./120920-witchcrafty.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
+| Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
@@ -3890,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Kungfu Shut Up | 111578 | [111578-without-kungfu-shut-up.json](./111578-without-kungfu-shut-up.json) |
 | Without Memory | 53043 | [53043-without-memory.json](./53043-without-memory.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
+| Without Portalgun Collection | 417433 | [417433-without-portalgun-collection.json](./417433-without-portalgun-collection.json) |
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
