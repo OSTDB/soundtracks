@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
+| Renai Bakudan | 337489 | [337489-renai-bakudan.json](./337489-renai-bakudan.json) |
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
@@ -7130,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
+| Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
 | Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
