@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
+| Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent Klutz | 144910 | [144910-agent-klutz.json](./144910-agent-klutz.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
@@ -3027,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
 | Akaneiro ni Somaru Saka | 312678 | [312678-akaneiro-ni-somaru-saka.json](./312678-akaneiro-ni-somaru-saka.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
+| Akaneiro: Demon Hunters | 1900 | [1900-akaneiro-demon-hunters.json](./1900-akaneiro-demon-hunters.json) |
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
@@ -3349,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
+| Alex Rider: Stormbreaker | 2848 | [2848-alex-rider-stormbreaker.json](./2848-alex-rider-stormbreaker.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
 | Alex the Allegator 4 | 72286 | [72286-alex-the-allegator-4.json](./72286-alex-the-allegator-4.json) |
 | AleX-World | 125285 | [125285-alex-world.json](./125285-alex-world.json) |
@@ -3915,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Action | 44829 | [44829-all-star-action.json](./44829-all-star-action.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Cheer 2 | 12886 | [12886-all-star-cheer-2.json](./12886-all-star-cheer-2.json) |
+| All Star Cheer Squad | 2849 | [2849-all-star-cheer-squad.json](./2849-all-star-cheer-squad.json) |
 | All Star Cheer Squad 2 | 2851 | [2851-all-star-cheer-squad-2.json](./2851-all-star-cheer-squad-2.json) |
 | All Star Cricket 2 | 193855 | [193855-all-star-cricket-2.json](./193855-all-star-cricket-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
@@ -4493,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon Skulls | 73735 | [73735-amazon-skulls.json](./73735-amazon-skulls.json) |
 | Amazon Trail II | 65850 | [65850-amazon-trail-ii.json](./65850-amazon-trail-ii.json) |
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
+| Amazon: Guardians of Eden | 2307 | [2307-amazon-guardians-of-eden.json](./2307-amazon-guardians-of-eden.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Amazonia | 202189 | [202189-amazonia.json](./202189-amazonia.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
@@ -7994,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Artemis: God-Queen of the Hunt | 118245 | [118245-artemis-god-queen-of-the-hunt.json](./118245-artemis-god-queen-of-the-hunt.json) |
+| Artemis: Spaceship Bridge Simulator | 2360 | [2360-artemis-spaceship-bridge-simulator.json](./2360-artemis-spaceship-bridge-simulator.json) |
 | Artemis' Minesweeper | 177378 | [177378-artemis-minesweeper.json](./177378-artemis-minesweeper.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
