@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
+| Badd Bunny Breakout | 410068 | [410068-badd-bunny-breakout.json](./410068-badd-bunny-breakout.json) |
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
 | Baderna: Um Conto de Barro | 283974 | [283974-baderna-um-conto-de-barro.json](./283974-baderna-um-conto-de-barro.json) |
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
@@ -9826,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
 | Bullet Bill Simulator | 202109 | [202109-bullet-bill-simulator.json](./202109-bullet-bill-simulator.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
+| Bullet Box | 410199 | [410199-bullet-box.json](./410199-bullet-box.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
