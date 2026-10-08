@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maduro Run | 392933 | [392933-maduro-run.json](./392933-maduro-run.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | MadWheels | 185476 | [185476-madwheels.json](./185476-madwheels.json) |
+| Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko | 416645 | [416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json](./416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom | 146173 | [146173-maelstrom.json](./146173-maelstrom.json) |
@@ -4789,6 +4790,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
+| Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
+| Megasuki: Love Through Lenses with Otoha Inami | 416599 | [416599-megasuki-love-through-lenses-with-otoha-inami.json](./416599-megasuki-love-through-lenses-with-otoha-inami.json) |
+| Megasuki: Love Through Lenses with Yuuki Hoshino | 416597 | [416597-megasuki-love-through-lenses-with-yuuki-hoshino.json](./416597-megasuki-love-through-lenses-with-yuuki-hoshino.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Amou Haruka-hen | 416600 | [416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json](./416600-megasuki-kanojo-to-boku-no-megane-jijou-amou-haruka-hen.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Azumino G Sakurako-hen | 416602 | [416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json](./416602-megasuki-kanojo-to-boku-no-megane-jijou-azumino-g-sakurako-hen.json) |
 | Megasuki!: Kanojo to Boku no Megane Jijou - Toono Shiori-hen | 416603 | [416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json](./416603-megasuki-kanojo-to-boku-no-megane-jijou-toono-shiori-hen.json) |
@@ -5842,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Architect | 407458 | [407458-metro-architect.json](./407458-metro-architect.json) |
 | Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
+| Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
@@ -7242,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Wars 2081 | 10550 | [10550-miner-wars-2081.json](./10550-miner-wars-2081.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
+| Mineracer | 416819 | [416819-mineracer.json](./416819-mineracer.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
@@ -7312,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minha Casa | 307864 | [307864-minha-casa.json](./307864-minha-casa.json) |
 | Mini 4WD Hyper Dash Grand Prix | 190044 | [190044-mini-4wd-hyper-dash-grand-prix.json](./190044-mini-4wd-hyper-dash-grand-prix.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
+| Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
