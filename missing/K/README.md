@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Moon | 74725 | [74725-killing-moon.json](./74725-killing-moon.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Time | 4334 | [4334-killing-time.json](./4334-killing-time.json) |
+| Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
 | Killing Time: Resurrected | 304742 | [304742-killing-time-resurrected.json](./304742-killing-time-resurrected.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports: Season Two - Midnight Mountain | 20658 | [20658-kinect-sports-season-two-midnight-mountain.json](./20658-kinect-sports-season-two-midnight-mountain.json) |
 | Kinect Sports: Ultimate Collection | 47401 | [47401-kinect-sports-ultimate-collection.json](./47401-kinect-sports-ultimate-collection.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
+| Kinect Triple Bundle: Beats & Booms & Squids | 82453 | [82453-kinect-triple-bundle-beats-and-booms-and-squids.json](./82453-kinect-triple-bundle-beats-and-booms-and-squids.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
 | Kinectimals: Now with Bears! | 47416 | [47416-kinectimals-now-with-bears.json](./47416-kinectimals-now-with-bears.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
