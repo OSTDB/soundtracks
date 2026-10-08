@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Apocalypse | 105519 | [105519-idle-apocalypse.json](./105519-idle-apocalypse.json) |
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
+| Idle Asteroids | 419194 | [419194-idle-asteroids.json](./419194-idle-asteroids.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
 | Idle Awards 2 | 101701 | [101701-idle-awards-2.json](./101701-idle-awards-2.json) |
 | Idle Baker Boss | 211163 | [211163-idle-baker-boss.json](./211163-idle-baker-boss.json) |
