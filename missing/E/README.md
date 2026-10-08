@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
 | Empty Box | 361755 | [361755-empty-box.json](./361755-empty-box.json) |
 | Empty Epsilon | 125379 | [125379-empty-epsilon.json](./125379-empty-epsilon.json) |
+| Empty Gauge | 391131 | [391131-empty-gauge.json](./391131-empty-gauge.json) |
 | Empty Heaven: Liminal Dream | 400318 | [400318-empty-heaven-liminal-dream.json](./400318-empty-heaven-liminal-dream.json) |
 | Empty Horizons | 32247 | [32247-empty-horizons.json](./32247-empty-horizons.json) |
 | Empty Mind: Blank Fate | 307578 | [307578-empty-mind-blank-fate.json](./307578-empty-mind-blank-fate.json) |
@@ -4342,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
 | Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
+| Exit Plan | 391229 | [391229-exit-plan.json](./391229-exit-plan.json) |
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
 | Exit Station 7 | 309958 | [309958-exit-station-7.json](./309958-exit-station-7.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
