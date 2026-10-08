@@ -3268,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
+| Finger Football | 88556 | [88556-finger-football.json](./88556-finger-football.json) |
 | Finger Football: Goal in One | 238549 | [238549-finger-football-goal-in-one.json](./238549-finger-football-goal-in-one.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
@@ -3717,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Time | 355223 | [355223-fish-time.json](./355223-fish-time.json) |
 | Fish to Dish: Idle Sushi | 344540 | [344540-fish-to-dish-idle-sushi.json](./344540-fish-to-dish-idle-sushi.json) |
 | Fish Tycoon | 29117 | [29117-fish-tycoon.json](./29117-fish-tycoon.json) |
+| Fish Tycoon | 88574 | [88574-fish-tycoon.json](./88574-fish-tycoon.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish Volleyball | 235178 | [235178-fish-volleyball.json](./235178-fish-volleyball.json) |
 | Fish vs. Crabs | 62806 | [62806-fish-vs-crabs.json](./62806-fish-vs-crabs.json) |
@@ -5665,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Memories: Definitive Edition | 207858 | [207858-forgotten-memories-definitive-edition.json](./207858-forgotten-memories-definitive-edition.json) |
 | Forgotten Myths CCG | 36302 | [36302-forgotten-myths-ccg.json](./36302-forgotten-myths-ccg.json) |
 | Forgotten Passages | 127164 | [127164-forgotten-passages.json](./127164-forgotten-passages.json) |
+| Forgotten Places: Lost Circus | 88549 | [88549-forgotten-places-lost-circus.json](./88549-forgotten-places-lost-circus.json) |
 | Forgotten Places: Regained Castle | 81630 | [81630-forgotten-places-regained-castle.json](./81630-forgotten-places-regained-castle.json) |
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
