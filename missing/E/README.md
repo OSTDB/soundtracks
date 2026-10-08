@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everyone Sing | 45293 | [45293-everyone-sing.json](./45293-everyone-sing.json) |
+| Everyone Will Die | 422159 | [422159-everyone-will-die.json](./422159-everyone-will-die.json) |
 | Everyone's a Wally | 13649 | [13649-everyones-a-wally.json](./13649-everyones-a-wally.json) |
 | Everyone's A Wally: A Day in the Life of Wally | 73998 | [73998-everyones-a-wally-a-day-in-the-life-of-wally.json](./73998-everyones-a-wally-a-day-in-the-life-of-wally.json) |
 | Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
