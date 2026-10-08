@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termite | 112748 | [112748-termite.json](./112748-termite.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
+| Termo99 | 417342 | [417342-termo99.json](./417342-termo99.json) |
 | Ternion | 236757 | [236757-ternion.json](./236757-ternion.json) |
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
 | Terpaling Legend | 339406 | [339406-terpaling-legend.json](./339406-terpaling-legend.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Avoider | 178976 | [178976-the-avoider.json](./178976-the-avoider.json) |
 | The Awaited ReCollection | 239791 | [239791-the-awaited-recollection.json](./239791-the-awaited-recollection.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
+| The Awakened Blade | 417454 | [417454-the-awakened-blade.json](./417454-the-awakened-blade.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
@@ -6903,6 +6905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
 | The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
+| The King of Go | 417352 | [417352-the-king-of-go.json](./417352-the-king-of-go.json) |
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
@@ -7832,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Heir 3: Demon War | 27875 | [27875-the-lost-heir-3-demon-war.json](./27875-the-lost-heir-3-demon-war.json) |
 | The Lost Heir: The Fall of Daria | 33594 | [33594-the-lost-heir-the-fall-of-daria.json](./33594-the-lost-heir-the-fall-of-daria.json) |
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
+| The Lost Identity | 417354 | [417354-the-lost-identity.json](./417354-the-lost-identity.json) |
 | The Lost Inca Prophecy | 63122 | [63122-the-lost-inca-prophecy.json](./63122-the-lost-inca-prophecy.json) |
 | The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
 | The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
@@ -11635,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
 | Thermo Puzzle | 194381 | [194381-thermo-puzzle.json](./194381-thermo-puzzle.json) |
+| Thermopylae: The Last Stand | 417556 | [417556-thermopylae-the-last-stand.json](./417556-thermopylae-the-last-stand.json) |
 | These are not Heroes | 187239 | [187239-these-are-not-heroes.json](./187239-these-are-not-heroes.json) |
 | These Are Them | 365215 | [365215-these-are-them.json](./365215-these-are-them.json) |
 | These Darker Tides | 322135 | [322135-these-darker-tides.json](./322135-these-darker-tides.json) |
