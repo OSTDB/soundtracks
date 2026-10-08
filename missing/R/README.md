@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
 | Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
 | Radioapan: Banankalas! | 182330 | [182330-radioapan-banankalas.json](./182330-radioapan-banankalas.json) |
+| Radiohammer | 21565 | [21565-radiohammer.json](./21565-radiohammer.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
