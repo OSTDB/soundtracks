@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Alurya | 272333 | [272333-realms-of-alurya.json](./272333-realms-of-alurya.json) |
 | Realms of Antiquity: The Shattered Crown | 163275 | [163275-realms-of-antiquity-the-shattered-crown.json](./163275-realms-of-antiquity-the-shattered-crown.json) |
 | Realms of Arcana | 287776 | [287776-realms-of-arcana.json](./287776-realms-of-arcana.json) |
+| Realms of Arkania 2 - Star Trail Classic | 36434 | [36434-realms-of-arkania-2-star-trail-classic.json](./36434-realms-of-arkania-2-star-trail-classic.json) |
 | Realms of Arkania III: Shadows over Riva | 2498 | [2498-realms-of-arkania-iii-shadows-over-riva.json](./2498-realms-of-arkania-iii-shadows-over-riva.json) |
 | Realms of Arkania Vol. 2: Star Trail | 70931 | [70931-realms-of-arkania-vol-2-star-trail.json](./70931-realms-of-arkania-vol-2-star-trail.json) |
 | Realms of Arkania: Blade of Destiny | 27345 | [27345-realms-of-arkania-blade-of-destiny.json](./27345-realms-of-arkania-blade-of-destiny.json) |
@@ -6748,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozen Maiden: Gebetgarten | 84310 | [84310-rozen-maiden-gebetgarten.json](./84310-rozen-maiden-gebetgarten.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
 | RozenDiadem | 213909 | [213909-rozendiadem.json](./213909-rozendiadem.json) |
+| Rozkol | 36474 | [36474-rozkol.json](./36474-rozkol.json) |
 | RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
 | RPG Alchemy | 258092 | [258092-rpg-alchemy.json](./258092-rpg-alchemy.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
@@ -7060,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Retry | 279902 | [279902-run-and-retry.json](./279902-run-and-retry.json) |
 | Run Around | 106510 | [106510-run-around.json](./106510-run-around.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
+| Run Away | 36480 | [36480-run-away.json](./36480-run-away.json) |
 | Run away 2 | 100598 | [100598-run-away-2.json](./100598-run-away-2.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
