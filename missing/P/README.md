@@ -4897,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Wheels | 186054 | [186054-pixel-wheels.json](./186054-pixel-wheels.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
 | Pixel Xiuzhen | 106508 | [106508-pixel-xiuzhen.json](./106508-pixel-xiuzhen.json) |
+| Pixel Z - Gun Day | 33690 | [33690-pixel-z-gun-day.json](./33690-pixel-z-gun-day.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | PixelMaker | 84816 | [84816-pixelmaker.json](./84816-pixelmaker.json) |
 | PixelMaker Studio | 147894 | [147894-pixelmaker-studio.json](./147894-pixelmaker-studio.json) |
+| Pixelman | 33609 | [33609-pixelman.json](./33609-pixelman.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | Pixelment TD | 277919 | [277919-pixelment-td.json](./277919-pixelment-td.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
