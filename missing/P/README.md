@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Blade: Executioners | 173080 | [173080-phantom-blade-executioners.json](./173080-phantom-blade-executioners.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave | 5097 | [5097-phantom-brave.json](./5097-phantom-brave.json) |
+| Phantom Brave PC | 34290 | [34290-phantom-brave-pc.json](./34290-phantom-brave-pc.json) |
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom Brave: The Lost Hero | 306146 | [306146-phantom-brave-the-lost-hero.json](./306146-phantom-brave-the-lost-hero.json) |
@@ -8497,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
+| Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
 | Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
