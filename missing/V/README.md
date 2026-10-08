@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
 | Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
+| Voxel Race | 105381 | [105381-voxel-race.json](./105381-voxel-race.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
@@ -2423,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
 | Vs. Volleyball | 214587 | [214587-vs-volleyball.json](./214587-vs-volleyball.json) |
 | Vs. Vulcan Venture | 214592 | [214592-vs-vulcan-venture.json](./214592-vs-vulcan-venture.json) |
+| VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
 | VTB Basketball League | 116911 | [116911-vtb-basketball-league.json](./116911-vtb-basketball-league.json) |
 | VThree | 30130 | [30130-vthree.json](./30130-vthree.json) |
