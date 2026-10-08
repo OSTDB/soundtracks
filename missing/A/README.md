@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aki: Mahjong Solitaire | 146191 | [146191-aki-mahjong-solitaire.json](./146191-aki-mahjong-solitaire.json) |
 | Akiba Alive Urban Legend of Akihabara in Near Future | 382464 | [382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json](./382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json) |
 | Akiba Lost | 369701 | [369701-akiba-lost.json](./369701-akiba-lost.json) |
+| Akiba Lost: Digital Deluxe Edition | 418328 | [418328-akiba-lost-digital-deluxe-edition.json](./418328-akiba-lost-digital-deluxe-edition.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
+| Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
@@ -4621,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame ni Utau Tanshikyoku: A Rainbow After the Rain | 271170 | [271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json](./271170-ame-ni-utau-tanshikyoku-a-rainbow-after-the-rain.json) |
 | Ame no Marginal -Rain Marginal- | 35747 | [35747-ame-no-marginal-rain-marginal.json](./35747-ame-no-marginal-rain-marginal.json) |
 | Ame no Tokyo Eki | 286662 | [286662-ame-no-tokyo-eki.json](./286662-ame-no-tokyo-eki.json) |
+| Ame Nochi Hare Onna | 418300 | [418300-ame-nochi-hare-onna.json](./418300-ame-nochi-hare-onna.json) |
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
@@ -8485,10 +8488,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Racing Bundle Speedway & Grand Prix | 389080 | [389080-asphalt-racing-bundle-speedway-and-grand-prix.json](./389080-asphalt-racing-bundle-speedway-and-grand-prix.json) |
 | Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
+| Asphalt: Car Racing Game | 418318 | [418318-asphalt-car-racing-game.json](./418318-asphalt-car-racing-game.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
+| Asphyx | 418304 | [418304-asphyx.json](./418304-asphyx.json) |
 | Asphyxia | 34827 | [34827-asphyxia.json](./34827-asphyxia.json) |
 | Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
