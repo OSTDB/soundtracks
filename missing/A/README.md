@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
+| Adventures of Robbo | 401869 | [401869-adventures-of-robbo.json](./401869-adventures-of-robbo.json) |
 | Adventures of Robinson Crusoe | 36128 | [36128-adventures-of-robinson-crusoe.json](./36128-adventures-of-robinson-crusoe.json) |
 | Adventures of Ruby Rabbit | 211702 | [211702-adventures-of-ruby-rabbit.json](./211702-adventures-of-ruby-rabbit.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alleyway DX | 279682 | [279682-alleyway-dx.json](./279682-alleyway-dx.json) |
 | AlleZ | 184942 | [184942-allez.json](./184942-allez.json) |
 | Allez Raconte | 269548 | [269548-allez-raconte.json](./269548-allez-raconte.json) |
+| Allfiring | 401870 | [401870-allfiring.json](./401870-allfiring.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Allgo: The Prime Reset | 374249 | [374249-allgo-the-prime-reset.json](./374249-allgo-the-prime-reset.json) |
@@ -10322,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aydox | 90819 | [90819-aydox.json](./90819-aydox.json) |
+| Aye Aye Captain | 401886 | [401886-aye-aye-captain.json](./401886-aye-aye-captain.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Aylin: The Story of Tom | 359072 | [359072-aylin-the-story-of-tom.json](./359072-aylin-the-story-of-tom.json) |
