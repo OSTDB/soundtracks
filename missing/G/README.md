@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Guardian | 211109 | [211109-garden-guardian.json](./211109-garden-guardian.json) |
 | Garden Harvest | 285145 | [285145-garden-harvest.json](./285145-garden-harvest.json) |
 | Garden Hunt | 352263 | [352263-garden-hunt.json](./352263-garden-hunt.json) |
+| Garden Hustle | 422127 | [422127-garden-hustle.json](./422127-garden-hustle.json) |
 | Garden In! | 198625 | [198625-garden-in.json](./198625-garden-in.json) |
 | Garden Island Plant Village: Grow & Harvest Fruits & Vegetables on your country farm! | 89825 | [89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json](./89825-garden-island-plant-village-grow-and-harvest-fruits-and-vegetables-on-your-country-farm.json) |
 | Garden Life: A Cozy Simulator | 204554 | [204554-garden-life-a-cozy-simulator.json](./204554-garden-life-a-cozy-simulator.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
+| Gloombo | 422091 | [422091-gloombo.json](./422091-gloombo.json) |
 | Gloomfall | 336671 | [336671-gloomfall.json](./336671-gloomfall.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
 | Gloomhaven: Gold Edition | 254681 | [254681-gloomhaven-gold-edition.json](./254681-gloomhaven-gold-edition.json) |
@@ -3961,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
 | Good Luck Have Fun | 202723 | [202723-good-luck-have-fun.json](./202723-good-luck-have-fun.json) |
 | Good Luck Seducing an Ace Witch | 310520 | [310520-good-luck-seducing-an-ace-witch.json](./310520-good-luck-seducing-an-ace-witch.json) |
+| Good Luck, Little Truck! | 422106 | [422106-good-luck-little-truck.json](./422106-good-luck-little-truck.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
@@ -6076,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
+| Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
 | Gun Law | 39775 | [39775-gun-law.json](./39775-gun-law.json) |
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
