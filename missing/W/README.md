@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
+| Wacko Willy | 394128 | [394128-wacko-willy.json](./394128-wacko-willy.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
 | Wall Street Junior | 74381 | [74381-wall-street-junior.json](./74381-wall-street-junior.json) |
+| Wall Street Massacre | 394138 | [394138-wall-street-massacre.json](./394138-wall-street-massacre.json) |
 | Wall Street Raider | 186757 | [186757-wall-street-raider.json](./186757-wall-street-raider.json) |
 | Wall Street Raider | 377285 | [377285-wall-street-raider.json](./377285-wall-street-raider.json) |
 | Wall Street Trader 2000 | 73831 | [73831-wall-street-trader-2000.json](./73831-wall-street-trader-2000.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
 | What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
+| What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
 | What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
 | What Happened to Lily? | 342848 | [342848-what-happened-to-lily.json](./342848-what-happened-to-lily.json) |
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
@@ -5454,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
+| Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
