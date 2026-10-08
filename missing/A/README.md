@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajedrez una tarde de Otoño | 391292 | [391292-ajedrez-una-tarde-de-otono.json](./391292-ajedrez-una-tarde-de-otono.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
+| AK-xolotl | 143004 | [143004-ak-xolotl.json](./143004-ak-xolotl.json) |
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
+| Anvil | 142861 | [142861-anvil.json](./142861-anvil.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
 | Anvil Awareness | 73875 | [73875-anvil-awareness.json](./73875-anvil-awareness.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
@@ -7014,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Spirits | 106986 | [106986-arcade-spirits.json](./106986-arcade-spirits.json) |
+| Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
@@ -8956,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Rails | 234025 | [234025-astroneer-rails.json](./234025-astroneer-rails.json) |
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
+| Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
 | AstronjumpBaby | 55279 | [55279-astronjumpbaby.json](./55279-astronjumpbaby.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
 | Astronomia | 158092 | [158092-astronomia.json](./158092-astronomia.json) |
