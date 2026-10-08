@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | Sanasana | 411754 | [411754-sanasana.json](./411754-sanasana.json) |
+| Sanator: Scarlet Scarf | 113006 | [113006-sanator-scarlet-scarf.json](./113006-sanator-scarlet-scarf.json) |
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanatorium | 64722 | [64722-sanatorium.json](./64722-sanatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
@@ -3991,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
 | Shadow Tower: Abyss | 9503 | [9503-shadow-tower-abyss.json](./9503-shadow-tower-abyss.json) |
 | Shadow Trick | 306609 | [306609-shadow-trick.json](./306609-shadow-trick.json) |
+| Shadow Uprising | 112945 | [112945-shadow-uprising.json](./112945-shadow-uprising.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Walker | 291684 | [291684-shadow-walker.json](./291684-shadow-walker.json) |
@@ -4718,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
+| Shieldwall Chronicles: Swords of the North | 112849 | [112849-shieldwall-chronicles-swords-of-the-north.json](./112849-shieldwall-chronicles-swords-of-the-north.json) |
 | Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
 | Shienryu | 92074 | [92074-shienryu.json](./92074-shienryu.json) |
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
@@ -7783,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Slidy | 26509 | [26509-slidy.json](./26509-slidy.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
+| Slightly Heroes | 112852 | [112852-slightly-heroes.json](./112852-slightly-heroes.json) |
 | Slightly Magic | 97124 | [97124-slightly-magic.json](./97124-slightly-magic.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
@@ -11448,6 +11452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
+| Space Mayhem | 113039 | [113039-space-mayhem.json](./113039-space-mayhem.json) |
 | Space Maze | 260322 | [260322-space-maze.json](./260322-space-maze.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
 | Space Maze Attack | 277537 | [277537-space-maze-attack.json](./277537-space-maze-attack.json) |
@@ -14362,6 +14367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
+| Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
 | Starblood Arena | 26231 | [26231-starblood-arena.json](./26231-starblood-arena.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
@@ -16483,6 +16489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
+| Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
 | Strike Pose | 239618 | [239618-strike-pose.json](./239618-strike-pose.json) |
@@ -17919,6 +17926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crazy Rhythm Castle | 258252 | [258252-super-crazy-rhythm-castle.json](./258252-super-crazy-rhythm-castle.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
+| Super Crome: Bullet Purgatory | 112799 | [112799-super-crome-bullet-purgatory.json](./112799-super-crome-bullet-purgatory.json) |
 | Super Cross Force | 40906 | [40906-super-cross-force.json](./40906-super-cross-force.json) |
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
@@ -19165,6 +19173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Expanding Donkey Kong | 343413 | [343413-super-smash-bros-ultimate-expanding-donkey-kong.json](./343413-super-smash-bros-ultimate-expanding-donkey-kong.json) |
 | Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
+| Super Smash Bros. Ultimate: Fighters Pass | 113120 | [113120-super-smash-bros-ultimate-fighters-pass.json](./113120-super-smash-bros-ultimate-fighters-pass.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Vol. 2 | 133834 | [133834-super-smash-bros-ultimate-fighters-pass-vol-2.json](./133834-super-smash-bros-ultimate-fighters-pass-vol-2.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
