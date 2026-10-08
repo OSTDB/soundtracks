@@ -4658,7 +4658,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
+| Chronicles of Mystery - Secret of the Lost Kingdom | 105440 | [105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json](./105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json) |
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
+| Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
@@ -7263,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Origins | 255936 | [255936-commandos-origins.json](./255936-commandos-origins.json) |
 | Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
+| Commands & Colors: Ancients | 105485 | [105485-commands-and-colors-ancients.json](./105485-commands-and-colors-ancients.json) |
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
