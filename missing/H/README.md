@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
 | Hands up | 395149 | [395149-hands-up.json](./395149-hands-up.json) |
 | Handshakes: Hands On | 233010 | [233010-handshakes-hands-on.json](./233010-handshakes-hands-on.json) |
+| Handsome and Brave | 392228 | [392228-handsome-and-brave.json](./392228-handsome-and-brave.json) |
 | Handsome Laundering: The Mystic Lover | 385263 | [385263-handsome-laundering-the-mystic-lover.json](./385263-handsome-laundering-the-mystic-lover.json) |
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
@@ -3569,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Underworld | 403812 | [403812-heroes-of-the-underworld.json](./403812-heroes-of-the-underworld.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
+| Heroes of Tomorrow: Hidden Potential | 392321 | [392321-heroes-of-tomorrow-hidden-potential.json](./392321-heroes-of-tomorrow-hidden-potential.json) |
 | Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
