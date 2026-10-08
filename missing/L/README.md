@@ -5639,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Threads: A Visual Novel | 306414 | [306414-luminous-threads-a-visual-novel.json](./306414-luminous-threads-a-visual-novel.json) |
 | Luminyte | 152720 | [152720-luminyte.json](./152720-luminyte.json) |
 | Lumiric Stage | 412264 | [412264-lumiric-stage.json](./412264-lumiric-stage.json) |
+| Lumisar | 416813 | [416813-lumisar.json](./416813-lumisar.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumm-e | 304831 | [304831-lumm-e.json](./304831-lumm-e.json) |
 | Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
@@ -5803,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
+| Lurking Within | 416804 | [416804-lurking-within.json](./416804-lurking-within.json) |
 | Lurks Below | 99075 | [99075-lurks-below.json](./99075-lurks-below.json) |
 | Lurks Within Walls | 319221 | [319221-lurks-within-walls.json](./319221-lurks-within-walls.json) |
 | Lurn 2 Shell | 308391 | [308391-lurn-2-shell.json](./308391-lurn-2-shell.json) |
