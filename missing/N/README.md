@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Dead: Wood Carving Doll Pack | 293406 | [293406-night-of-the-dead-wood-carving-doll-pack.json](./293406-night-of-the-dead-wood-carving-doll-pack.json) |
 | Night of the Duat | 373722 | [373722-night-of-the-duat.json](./373722-night-of-the-duat.json) |
 | Night of the Extinct | 351274 | [351274-night-of-the-extinct.json](./351274-night-of-the-extinct.json) |
+| Night of the Idle Horde | 422116 | [422116-night-of-the-idle-horde.json](./422116-night-of-the-idle-horde.json) |
 | Night of the Living Bubble | 391169 | [391169-night-of-the-living-bubble.json](./391169-night-of-the-living-bubble.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Hospital | 405728 | [405728-nightmare-hospital.json](./405728-nightmare-hospital.json) |
 | Nightmare House | 144610 | [144610-nightmare-house.json](./144610-nightmare-house.json) |
 | Nightmare House | 290474 | [290474-nightmare-house.json](./290474-nightmare-house.json) |
+| Nightmare House | 422117 | [422117-nightmare-house.json](./422117-nightmare-house.json) |
 | Nightmare House: Reimagined | 314427 | [314427-nightmare-house-reimagined.json](./314427-nightmare-house-reimagined.json) |
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
