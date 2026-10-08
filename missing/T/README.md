@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
+| Tengoku no Vinea: Saiyaku no Majo to Nanatsu no Tsumi | 416879 | [416879-tengoku-no-vinea-saiyaku-no-majo-to-nanatsu-no-tsumi.json](./416879-tengoku-no-vinea-saiyaku-no-majo-to-nanatsu-no-tsumi.json) |
 | Tengoku Struggle: Strayside | 195522 | [195522-tengoku-struggle-strayside.json](./195522-tengoku-struggle-strayside.json) |
 | Tengoku Yoitoko | 202692 | [202692-tengoku-yoitoko.json](./202692-tengoku-yoitoko.json) |
 | Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Chad | 269191 | [269191-the-chad.json](./269191-the-chad.json) |
+| The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
@@ -10053,6 +10055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
+| The Stalked 4 | 416802 | [416802-the-stalked-4.json](./416802-the-stalked-4.json) |
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
 | The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
@@ -12260,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiandao | 419957 | [419957-tiandao.json](./419957-tiandao.json) |
 | Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
 | Tiāndào: Gōngdé Dà Lǐ Bāo | 347224 | [347224-tiandao-gongde-da-li-bao.json](./347224-tiandao-gongde-da-li-bao.json) |
+| Tianji: Shadow of the Ancients | 416886 | [416886-tianji-shadow-of-the-ancients.json](./416886-tianji-shadow-of-the-ancients.json) |
 | Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
@@ -13430,6 +13434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
+| Tilting | 416794 | [416794-tilting.json](./416794-tilting.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | TiltMaze | 90727 | [90727-tiltmaze.json](./90727-tiltmaze.json) |
 | Tiltoff | 141803 | [141803-tiltoff.json](./141803-tiltoff.json) |
@@ -18187,6 +18192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Throwing Sports | 85459 | [85459-triple-throwing-sports.json](./85459-triple-throwing-sports.json) |
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
+| Triple Track | 416584 | [416584-triple-track.json](./416584-triple-track.json) |
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
 | Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
@@ -19545,6 +19551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
+| Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
 | Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
 | Tyto Ecology | 33243 | [33243-tyto-ecology.json](./33243-tyto-ecology.json) |
