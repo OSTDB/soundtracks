@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
 | Ragnarok Online: Valkyrie Uprising | 63655 | [63655-ragnarok-online-valkyrie-uprising.json](./63655-ragnarok-online-valkyrie-uprising.json) |
 | Ragnarok Origin: Classic | 402201 | [402201-ragnarok-origin-classic.json](./402201-ragnarok-origin-classic.json) |
+| Ragnarök Protocol | 396124 | [396124-ragnarok-protocol.json](./396124-ragnarok-protocol.json) |
 | Ragnarok Re:Start | 51429 | [51429-ragnarok-re-start.json](./51429-ragnarok-re-start.json) |
 | Ragnarok Remastered: A Mythic Hating Sim | 181128 | [181128-ragnarok-remastered-a-mythic-hating-sim.json](./181128-ragnarok-remastered-a-mythic-hating-sim.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
+| Rebellious Takeover | 396013 | [396013-rebellious-takeover.json](./396013-rebellious-takeover.json) |
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
