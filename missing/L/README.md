@@ -3173,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linger | 139417 | [139417-linger.json](./139417-linger.json) |
 | Linger In Shadows | 7727 | [7727-linger-in-shadows.json](./7727-linger-in-shadows.json) |
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
+| LingerieS 2 | 418265 | [418265-lingeries-2.json](./418265-lingeries-2.json) |
 | LingeriesOffice | 334786 | [334786-lingeriesoffice.json](./334786-lingeriesoffice.json) |
 | Lingering | 171965 | [171965-lingering.json](./171965-lingering.json) |
 | Lingering Fragrance | 105599 | [105599-lingering-fragrance.json](./105599-lingering-fragrance.json) |
