@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FL Tron | 286629 | [286629-fl-tron.json](./286629-fl-tron.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
 | Flabby Santa | 249368 | [249368-flabby-santa.json](./249368-flabby-santa.json) |
+| Flag Capture | 17024 | [17024-flag-capture.json](./17024-flag-capture.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
@@ -7016,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Space: Mission Pack - Molten Iron | 271919 | [271919-from-space-mission-pack-molten-iron.json](./271919-from-space-mission-pack-molten-iron.json) |
 | From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
 | From Space: Resistance Bundle | 304801 | [304801-from-space-resistance-bundle.json](./304801-from-space-resistance-bundle.json) |
+| From the Abyss | 17266 | [17266-from-the-abyss.json](./17266-from-the-abyss.json) |
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
