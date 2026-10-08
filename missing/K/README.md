@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends: Kingdom | 248183 | [248183-kemono-friends-kingdom.json](./248183-kemono-friends-kingdom.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
+| Kemono Heroes | 96440 | [96440-kemono-heroes.json](./96440-kemono-heroes.json) |
 | Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
 | Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemono Patrol | 334850 | [334850-kemono-patrol.json](./334850-kemono-patrol.json) |
@@ -2482,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
+| Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire 2019 | 138109 | [138109-klondike-solitaire-2019.json](./138109-klondike-solitaire-2019.json) |
