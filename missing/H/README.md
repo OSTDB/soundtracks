@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
 | Heart Snatcher | 366392 | [366392-heart-snatcher.json](./366392-heart-snatcher.json) |
 | Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
+| Heart-Pounding Office Puzzle with My Boss | 418326 | [418326-heart-pounding-office-puzzle-with-my-boss.json](./418326-heart-pounding-office-puzzle-with-my-boss.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
@@ -4633,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
+| Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
