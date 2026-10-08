@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
 | T-Rex Simulator | 96299 | [96299-t-rex-simulator.json](./96299-t-rex-simulator.json) |
 | T-Rex Time Machine | 76919 | [76919-t-rex-time-machine.json](./76919-t-rex-time-machine.json) |
+| T-Shirt Kingdom | 414837 | [414837-t-shirt-kingdom.json](./414837-t-shirt-kingdom.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
 | Take Me To The Dungeon!! | 403711 | [403711-take-me-to-the-dungeon.json](./403711-take-me-to-the-dungeon.json) |
 | Take Me to the Moon | 187294 | [187294-take-me-to-the-moon.json](./187294-take-me-to-the-moon.json) |
+| Take Me to Your Leader | 414870 | [414870-take-me-to-your-leader.json](./414870-take-me-to-your-leader.json) |
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
@@ -5745,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
 | The Forge Arena | 90078 | [90078-the-forge-arena.json](./90078-the-forge-arena.json) |
+| The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgotten City | 103320 | [103320-the-forgotten-city.json](./103320-the-forgotten-city.json) |
@@ -10912,6 +10915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
 | The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
+| The Unworthy | 414862 | [414862-the-unworthy.json](./414862-the-unworthy.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 2158 | [2158-the-urbz-sims-in-the-city.json](./2158-the-urbz-sims-in-the-city.json) |
@@ -11569,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theo Space Miner | 248818 | [248818-theo-space-miner.json](./248818-theo-space-miner.json) |
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
+| Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
@@ -16475,6 +16480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
+| Trailmarks | 414815 | [414815-trailmarks.json](./414815-trailmarks.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails | 342158 | [342158-trails.json](./342158-trails.json) |
