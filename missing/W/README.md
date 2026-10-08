@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheatley's Unscientific Tests | 416797 | [416797-wheatleys-unscientific-tests.json](./416797-wheatleys-unscientific-tests.json) |
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
+| Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
