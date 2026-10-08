@@ -6242,6 +6242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
+| Anurak | 413479 | [413479-anurak.json](./413479-anurak.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
 | Anvil | 142861 | [142861-anvil.json](./142861-anvil.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
@@ -8395,6 +8396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Oahu | 116196 | [116196-ashes-of-oahu.json](./116196-ashes-of-oahu.json) |
 | Ashes of Paradise | 377808 | [377808-ashes-of-paradise.json](./377808-ashes-of-paradise.json) |
 | Ashes of Paradise | 379042 | [379042-ashes-of-paradise.json](./379042-ashes-of-paradise.json) |
+| Ashes of Resolve | 413503 | [413503-ashes-of-resolve.json](./413503-ashes-of-resolve.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 124815 | [124815-ashes-of-the-singularity-escalation-gauntlet.json](./124815-ashes-of-the-singularity-escalation-gauntlet.json) |
@@ -9153,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Daggers Drawn | 338178 | [338178-at-daggers-drawn.json](./338178-at-daggers-drawn.json) |
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
 | At Dead of Night | 141235 | [141235-at-dead-of-night.json](./141235-at-dead-of-night.json) |
+| At Dead Of Night: The Great Hugo | 413525 | [413525-at-dead-of-night-the-great-hugo.json](./413525-at-dead-of-night-the-great-hugo.json) |
 | At Eternity's Hatch | 398548 | [398548-at-eternitys-hatch.json](./398548-at-eternitys-hatch.json) |
 | At Home | 116270 | [116270-at-home.json](./116270-at-home.json) |
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
