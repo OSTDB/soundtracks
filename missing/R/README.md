@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready 2 Rumble Boxing | 217944 | [217944-ready-2-rumble-boxing.json](./217944-ready-2-rumble-boxing.json) |
 | Ready 2 Rumble Boxing: Round 2 | 249128 | [249128-ready-2-rumble-boxing-round-2.json](./249128-ready-2-rumble-boxing-round-2.json) |
 | Ready 2 Rumble Boxing: Round 2 | 3587 | [3587-ready-2-rumble-boxing-round-2.json](./3587-ready-2-rumble-boxing-round-2.json) |
+| Ready 2 Rumble: Revolution | 5118 | [5118-ready-2-rumble-revolution.json](./5118-ready-2-rumble-revolution.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
