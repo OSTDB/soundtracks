@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats are Cute: Pop Time! | 322124 | [322124-cats-are-cute-pop-time.json](./322124-cats-are-cute-pop-time.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
 | Cats are Liquid: A Better Place | 126727 | [126727-cats-are-liquid-a-better-place.json](./126727-cats-are-liquid-a-better-place.json) |
+| Cats are Liquid: A Light in the Shadows | 32163 | [32163-cats-are-liquid-a-light-in-the-shadows.json](./32163-cats-are-liquid-a-light-in-the-shadows.json) |
 | Cats Around Us: Black Cat | 347859 | [347859-cats-around-us-black-cat.json](./347859-cats-around-us-black-cat.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
@@ -7482,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concerto on White: Cajon Story - Touhou Project Music Pack | 388970 | [388970-concerto-on-white-cajon-story-touhou-project-music-pack.json](./388970-concerto-on-white-cajon-story-touhou-project-music-pack.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
+| Conclusion | 32197 | [32197-conclusion.json](./32197-conclusion.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
 | Concordia: Digital Edition - Imperial Bundle | 200522 | [200522-concordia-digital-edition-imperial-bundle.json](./200522-concordia-digital-edition-imperial-bundle.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
@@ -7555,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
 | Conflict: Middle East - Arab/Israeli Wars: 1973-? | 15917 | [15917-conflict-middle-east-arab-israeli-wars-1973.json](./15917-conflict-middle-east-arab-israeli-wars-1973.json) |
+| ConflictCraft | 32255 | [32255-conflictcraft.json](./32255-conflictcraft.json) |
 | ConflictCraft 2 | 190087 | [190087-conflictcraft-2.json](./190087-conflictcraft-2.json) |
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
 | Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
