@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
+| Kikstart II | 12658 | [12658-kikstart-ii.json](./12658-kikstart-ii.json) |
 | Kikstart: Off-Road Simulator | 57616 | [57616-kikstart-off-road-simulator.json](./57616-kikstart-off-road-simulator.json) |
 | Kikuite Oboeru Eitango: Arc No Kikutan Basic | 56753 | [56753-kikuite-oboeru-eitango-arc-no-kikutan-basic.json](./56753-kikuite-oboeru-eitango-arc-no-kikutan-basic.json) |
 | Kikuite Oboeru Eitango: Arc No Kikutan Entry | 56751 | [56751-kikuite-oboeru-eitango-arc-no-kikutan-entry.json](./56751-kikuite-oboeru-eitango-arc-no-kikutan-entry.json) |
