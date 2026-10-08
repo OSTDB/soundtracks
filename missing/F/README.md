@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallendom | 306576 | [306576-fallendom.json](./306576-fallendom.json) |
 | Fallenstar | 370904 | [370904-fallenstar.json](./370904-fallenstar.json) |
 | Fallfate: Impulsive Plinko | 385189 | [385189-fallfate-impulsive-plinko.json](./385189-fallfate-impulsive-plinko.json) |
+| Fallgrade | 400545 | [400545-fallgrade.json](./400545-fallgrade.json) |
 | Falling | 195501 | [195501-falling.json](./195501-falling.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
 | Falling As Lightning | 167168 | [167168-falling-as-lightning.json](./167168-falling-as-lightning.json) |
@@ -4300,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashback: The Quest for Identity | 4275 | [4275-flashback-the-quest-for-identity.json](./4275-flashback-the-quest-for-identity.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
+| Flashes of Chaos | 400518 | [400518-flashes-of-chaos.json](./400518-flashes-of-chaos.json) |
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
 | Flashing Lights: Department of Transportation | 395814 | [395814-flashing-lights-department-of-transportation.json](./395814-flashing-lights-department-of-transportation.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
@@ -7434,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
+| Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
 | Fruta Luta | 176323 | [176323-fruta-luta.json](./176323-fruta-luta.json) |
