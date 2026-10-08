@@ -10093,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
 | Buried Spirits | 383038 | [383038-buried-spirits.json](./383038-buried-spirits.json) |
+| Buried: An Interactive Story | 33689 | [33689-buried-an-interactive-story.json](./33689-buried-an-interactive-story.json) |
 | Buriki One | 28139 | [28139-buriki-one.json](./28139-buriki-one.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
@@ -10399,6 +10400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buttons and Scissors | 74711 | [74711-buttons-and-scissors.json](./74711-buttons-and-scissors.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
+| Butts: The VR Experience | 33602 | [33602-butts-the-vr-experience.json](./33602-butts-the-vr-experience.json) |
 | Buttsubushi | 43800 | [43800-buttsubushi.json](./43800-buttsubushi.json) |
 | Buy a Croquette! | 360750 | [360750-buy-a-croquette.json](./360750-buy-a-croquette.json) |
 | Buy Hyacinths | 214008 | [214008-buy-hyacinths.json](./214008-buy-hyacinths.json) |
