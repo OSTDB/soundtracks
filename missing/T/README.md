@@ -8548,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ohio Weedeater Mishap | 277488 | [277488-the-ohio-weedeater-mishap.json](./277488-the-ohio-weedeater-mishap.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
+| The Old Flesh of Nuraga | 400555 | [400555-the-old-flesh-of-nuraga.json](./400555-the-old-flesh-of-nuraga.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
 | The Old House | 138760 | [138760-the-old-house.json](./138760-the-old-house.json) |
 | The Old House | 257895 | [257895-the-old-house.json](./257895-the-old-house.json) |
@@ -10031,6 +10032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
 | The Song of the Nightrider | 244874 | [244874-the-song-of-the-nightrider.json](./244874-the-song-of-the-nightrider.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
+| The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
 | The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sopranos: Road to Respect | 17248 | [17248-the-sopranos-road-to-respect.json](./17248-the-sopranos-road-to-respect.json) |
@@ -11358,6 +11360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
+| The Wizard of Gloss | 400537 | [400537-the-wizard-of-gloss.json](./400537-the-wizard-of-gloss.json) |
 | The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
 | The Wizard of Oz: Beyond the Yellow Brick Road | 21116 | [21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json](./21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json) |
@@ -12234,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumb Fighter | 154095 | [154095-thumb-fighter.json](./154095-thumb-fighter.json) |
 | Thumb Tanks | 236200 | [236200-thumb-tanks.json](./236200-thumb-tanks.json) |
 | Thumb War | 180652 | [180652-thumb-war.json](./180652-thumb-war.json) |
+| Thumb-It! | 400569 | [400569-thumb-it.json](./400569-thumb-it.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
@@ -12416,6 +12420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
 | TicTacToe 3D | 87605 | [87605-tictactoe-3d.json](./87605-tictactoe-3d.json) |
 | Tictactoe Sets | 365868 | [365868-tictactoe-sets.json](./365868-tictactoe-sets.json) |
+| TicTacToeTwo | 400562 | [400562-tictactoetwo.json](./400562-tictactoetwo.json) |
 | TicTako | 183453 | [183453-tictako.json](./183453-tictako.json) |
 | Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
 | Tidal Affair: Before the Storm | 34618 | [34618-tidal-affair-before-the-storm.json](./34618-tidal-affair-before-the-storm.json) |
@@ -13497,6 +13502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
 | TileUp | 363577 | [363577-tileup.json](./363577-tileup.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
+| Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
 | Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
@@ -14111,6 +14117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tir-nan-óg: The Forbidden Tower | 145552 | [145552-tir-nan-og-the-forbidden-tower.json](./145552-tir-nan-og-the-forbidden-tower.json) |
 | Tir-nan-óg: Yuukyuu no Jin | 145556 | [145556-tir-nan-og-yuukyuu-no-jin.json](./145556-tir-nan-og-yuukyuu-no-jin.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
+| Tire Fire Rally | 400553 | [400553-tire-fire-rally.json](./400553-tire-fire-rally.json) |
 | Tire Friend | 129100 | [129100-tire-friend.json](./129100-tire-friend.json) |
 | Tired of Being the Hero | 353294 | [353294-tired-of-being-the-hero.json](./353294-tired-of-being-the-hero.json) |
 | Tired to Fall | 329225 | [329225-tired-to-fall.json](./329225-tired-to-fall.json) |
@@ -16978,6 +16985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
 | Train to Hong Kong | 324323 | [324323-train-to-hong-kong.json](./324323-train-to-hong-kong.json) |
 | Train to Nowhere | 309617 | [309617-train-to-nowhere.json](./309617-train-to-nowhere.json) |
+| Train to Sachsenhausen | 400563 | [400563-train-to-sachsenhausen.json](./400563-train-to-sachsenhausen.json) |
 | Train Toremaru: Connect & Solve | 159159 | [159159-train-toremaru-connect-and-solve.json](./159159-train-toremaru-connect-and-solve.json) |
 | Train Traffic Manager: Deluxe Edition | 298576 | [298576-train-traffic-manager-deluxe-edition.json](./298576-train-traffic-manager-deluxe-edition.json) |
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
@@ -19569,6 +19577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
+| Two Types Pollos | 400527 | [400527-two-types-pollos.json](./400527-two-types-pollos.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
 | Two Weeks Game | 132571 | [132571-two-weeks-game.json](./132571-two-weeks-game.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
