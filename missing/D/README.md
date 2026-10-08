@@ -3425,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Quest | 208428 | [208428-delivery-quest.json](./208428-delivery-quest.json) |
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
+| Delivery Survivors | 412913 | [412913-delivery-survivors.json](./412913-delivery-survivors.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | Delivoo Delivery Sim | 236330 | [236330-delivoo-delivery-sim.json](./236330-delivoo-delivery-sim.json) |
 | Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
@@ -4611,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
+| Devil's Dice | 412803 | [412803-devils-dice.json](./412803-devils-dice.json) |
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
@@ -5101,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIG IT! - A Digger Simulator | 17593 | [17593-dig-it-a-digger-simulator.json](./17593-dig-it-a-digger-simulator.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
+| Dig n Fight | 412888 | [412888-dig-n-fight.json](./412888-dig-n-fight.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
@@ -5655,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Teachers | 368091 | [368091-dirty-teachers.json](./368091-dirty-teachers.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
+| Dirty Work | 412884 | [412884-dirty-work.json](./412884-dirty-work.json) |
 | Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
 | Dis Pontibus 2 | 203950 | [203950-dis-pontibus-2.json](./203950-dis-pontibus-2.json) |
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
