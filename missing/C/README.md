@@ -4121,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera Island | 254696 | [254696-chimera-island.json](./254696-chimera-island.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
+| Chimera Pro | 417355 | [417355-chimera-pro.json](./417355-chimera-pro.json) |
 | Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeras: Cherished Serpent | 417543 | [417543-chimeras-cherished-serpent.json](./417543-chimeras-cherished-serpent.json) |
 | Chimeras: Cursed and Forgotten | 103977 | [103977-chimeras-cursed-and-forgotten.json](./103977-chimeras-cursed-and-forgotten.json) |
@@ -6225,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
 | Cocoon | 204627 | [204627-cocoon.json](./204627-cocoon.json) |
+| Cocoricó: Brincando de Pega-Pega | 417542 | [417542-cocorico-brincando-de-pega-pega.json](./417542-cocorico-brincando-de-pega-pega.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
@@ -8913,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
+| Cozy Farm: Tidy Up! | 417348 | [417348-cozy-farm-tidy-up.json](./417348-cozy-farm-tidy-up.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
 | Cozy Fast Hanoi | 388346 | [388346-cozy-fast-hanoi.json](./388346-cozy-fast-hanoi.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
@@ -10222,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossTrix | 114258 | [114258-crosstrix.json](./114258-crosstrix.json) |
 | Crosswinds | 404394 | [404394-crosswinds.json](./404394-crosswinds.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
+| Crossword AI | 417451 | [417451-crossword-ai.json](./417451-crossword-ai.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
 | Crossword City Chronicles | 166001 | [166001-crossword-city-chronicles.json](./166001-crossword-city-chronicles.json) |
 | Crossword Cove | 366416 | [366416-crossword-cove.json](./366416-crossword-cove.json) |
