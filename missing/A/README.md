@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
+| Adventurer Manager | 11442 | [11442-adventurer-manager.json](./11442-adventurer-manager.json) |
 | Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Videoland | 13802 | [13802-alice-in-videoland.json](./13802-alice-in-videoland.json) |
 | Alice In VR | 102565 | [102565-alice-in-vr.json](./102565-alice-in-vr.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
+| Alice in Wonderland | 12250 | [12250-alice-in-wonderland.json](./12250-alice-in-wonderland.json) |
 | Alice in Wonderland | 125307 | [125307-alice-in-wonderland.json](./125307-alice-in-wonderland.json) |
 | Alice in Wonderland | 140323 | [140323-alice-in-wonderland.json](./140323-alice-in-wonderland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
@@ -4001,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2002 | 10624 | [10624-all-star-baseball-2002.json](./10624-all-star-baseball-2002.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
+| All-Star Baseball 2005 | 11559 | [11559-all-star-baseball-2005.json](./11559-all-star-baseball-2005.json) |
 | All-Star Baseball 97 | 19998 | [19998-all-star-baseball-97.json](./19998-all-star-baseball-97.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
