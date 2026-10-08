@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vizul | 301951 | [301951-vizul.json](./301951-vizul.json) |
+| Vizul 1: Empatia - Adventure in Nice Colors | 391232 | [391232-vizul-1-empatia-adventure-in-nice-colors.json](./391232-vizul-1-empatia-adventure-in-nice-colors.json) |
 | Vizzle | 159644 | [159644-vizzle.json](./159644-vizzle.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
