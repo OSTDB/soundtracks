@@ -1204,7 +1204,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
+| Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
+| Undiscovered World: The Incan Sun | 416165 | [416165-undiscovered-world-the-incan-sun.json](./416165-undiscovered-world-the-incan-sun.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
@@ -1287,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
+| Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
 | Ungrateful Birds: No Good Deed | 231327 | [231327-ungrateful-birds-no-good-deed.json](./231327-ungrateful-birds-no-good-deed.json) |
@@ -1707,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: Fatal Clue - Collector's Edition | 235801 | [235801-unsolved-case-fatal-clue-collectors-edition.json](./235801-unsolved-case-fatal-clue-collectors-edition.json) |
 | Unsolved Case: Killer Popularity DLC | 289325 | [289325-unsolved-case-killer-popularity-dlc.json](./289325-unsolved-case-killer-popularity-dlc.json) |
 | Unsolved Case: Murderous Script - DLC | 243054 | [243054-unsolved-case-murderous-script-dlc.json](./243054-unsolved-case-murderous-script-dlc.json) |
+| Unsolved Case: The Scarlet Hyacinth | 416162 | [416162-unsolved-case-the-scarlet-hyacinth.json](./416162-unsolved-case-the-scarlet-hyacinth.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
 | Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
 | Unsolved Case: Whispers of Elderwick - Collector’s Edition | 383069 | [383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json](./383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json) |
@@ -1811,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
+| Untold History: Descendant of the Sun - Collector's Edition | 416161 | [416161-untold-history-descendant-of-the-sun-collectors-edition.json](./416161-untold-history-descendant-of-the-sun-collectors-edition.json) |
 | Untold Legends: Brotherhood of the Blade | 22508 | [22508-untold-legends-brotherhood-of-the-blade.json](./22508-untold-legends-brotherhood-of-the-blade.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untold Memories: Potter's Field | 391311 | [391311-untold-memories-potters-field.json](./391311-untold-memories-potters-field.json) |
