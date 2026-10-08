@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
 | Phaser Patrol | 18564 | [18564-phaser-patrol.json](./18564-phaser-patrol.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
+| Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
+| Pixal Bitsonia | 419208 | [419208-pixal-bitsonia.json](./419208-pixal-bitsonia.json) |
 | Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
@@ -6801,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polluted Flesh | 416117 | [416117-polluted-flesh.json](./416117-polluted-flesh.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
+| Pollux: The Hero in the Box | 419195 | [419195-pollux-the-hero-in-the-box.json](./419195-pollux-the-hero-in-the-box.json) |
 | Polly Pocket | 198868 | [198868-polly-pocket.json](./198868-polly-pocket.json) |
 | Polly Pocket: Flower Surprises | 293183 | [293183-polly-pocket-flower-surprises.json](./293183-polly-pocket-flower-surprises.json) |
 | Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
@@ -9412,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
 | Protocol | 74225 | [74225-protocol.json](./74225-protocol.json) |
+| Protocol 86: Chernobyl | 419177 | [419177-protocol-86-chernobyl.json](./419177-protocol-86-chernobyl.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Delta | 258648 | [258648-protocol-delta.json](./258648-protocol-delta.json) |
