@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
+| Last Days of Old Earth | 35054 | [35054-last-days-of-old-earth.json](./35054-last-days-of-old-earth.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
 | Last Days of Spring Visual Novel | 34322 | [34322-last-days-of-spring-visual-novel.json](./34322-last-days-of-spring-visual-novel.json) |
 | Last Days of Tascaria | 99595 | [99595-last-days-of-tascaria.json](./99595-last-days-of-tascaria.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Lady | 145855 | [145855-lunch-lady.json](./145855-lunch-lady.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
+| Lunch Truck Tycoon | 35118 | [35118-lunch-truck-tycoon.json](./35118-lunch-truck-tycoon.json) |
 | Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
