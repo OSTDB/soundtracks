@@ -4539,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 3 Crimson | 343960 | [343960-devil-may-cry-3-crimson.json](./343960-devil-may-cry-3-crimson.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
+| Devil May Cry 4 Special Edition Demon Hunter Bundle | 82385 | [82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json](./82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 4: Special Edition - Lady & Trish Costume Pack | 410413 | [410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json](./410413-devil-may-cry-4-special-edition-lady-and-trish-costume-pack.json) |
 | Devil May Cry 4: Special Edition - Super Nero/Super Dante/Super Vergil | 410412 | [410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json](./410412-devil-may-cry-4-special-edition-super-nero-super-dante-super-vergil.json) |
