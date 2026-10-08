@@ -5656,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
+| Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
@@ -7743,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
 | Borrowed Landscapes | 176776 | [176776-borrowed-landscapes.json](./176776-borrowed-landscapes.json) |
 | Borrowed Light | 402503 | [402503-borrowed-light.json](./402503-borrowed-light.json) |
+| Borrowed Sight | 414866 | [414866-borrowed-sight.json](./414866-borrowed-sight.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
 | Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
@@ -10244,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst | 380044 | [380044-burst.json](./380044-burst.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
+| Burst Noir: Fireworks Simulator | 414823 | [414823-burst-noir-fireworks-simulator.json](./414823-burst-noir-fireworks-simulator.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Burst Space | 279086 | [279086-burst-space.json](./279086-burst-space.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
