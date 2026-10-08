@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heave-Ho: Uphill | 402349 | [402349-heave-ho-uphill.json](./402349-heave-ho-uphill.json) |
 | Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
+| Heaven & Hell | 50406 | [50406-heaven-and-hell.json](./50406-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven & Hell vs The Void | 333138 | [333138-heaven-and-hell-vs-the-void.json](./333138-heaven-and-hell-vs-the-void.json) |
 | Heaven and Earth | 51421 | [51421-heaven-and-earth.json](./51421-heaven-and-earth.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
+| Hidden & Dangerous 2: Courage Under Fire | 50073 | [50073-hidden-and-dangerous-2-courage-under-fire.json](./50073-hidden-and-dangerous-2-courage-under-fire.json) |
 | Hidden & Dangerous Deluxe | 73774 | [73774-hidden-and-dangerous-deluxe.json](./73774-hidden-and-dangerous-deluxe.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
@@ -6475,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Dragon | 7012 | [7012-how-to-train-your-dragon.json](./7012-how-to-train-your-dragon.json) |
+| How to Train Your Dragon 2 | 50737 | [50737-how-to-train-your-dragon-2.json](./50737-how-to-train-your-dragon-2.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
