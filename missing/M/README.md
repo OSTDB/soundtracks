@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Rivals | 390743 | [390743-mall-rivals.json](./390743-mall-rivals.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
+| Mall Simulator | 401150 | [401150-mall-simulator.json](./401150-mall-simulator.json) |
 | Mall Simulator Together | 413824 | [413824-mall-simulator-together.json](./413824-mall-simulator-together.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Mall Town | 119629 | [119629-mall-town.json](./119629-mall-town.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
 | Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
 | Match Marbles 10 | 337236 | [337236-match-marbles-10.json](./337236-match-marbles-10.json) |
+| Match Marbles 15 | 401143 | [401143-match-marbles-15.json](./401143-match-marbles-15.json) |
 | Match Marbles 3 | 337237 | [337237-match-marbles-3.json](./337237-match-marbles-3.json) |
 | Match Match Mania! | 148969 | [148969-match-match-mania.json](./148969-match-match-mania.json) |
 | Match Me If You Can | 248806 | [248806-match-me-if-you-can.json](./248806-match-me-if-you-can.json) |
@@ -8331,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | Mob Enforcer | 78380 | [78380-mob-enforcer.json](./78380-mob-enforcer.json) |
 | Mob Hunter | 200493 | [200493-mob-hunter.json](./200493-mob-hunter.json) |
+| Mob Marathon | 401136 | [401136-mob-marathon.json](./401136-mob-marathon.json) |
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
