@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Fishing | 351753 | [351753-far-fishing.json](./351753-far-fishing.json) |
 | Far Fresnel | 374289 | [374289-far-fresnel.json](./374289-far-fresnel.json) |
 | Far From Dead | 217276 | [217276-far-from-dead.json](./217276-far-from-dead.json) |
+| Far from Noise | 61612 | [61612-far-from-noise.json](./61612-far-from-noise.json) |
 | Far From Orbit | 123521 | [123521-far-from-orbit.json](./123521-far-from-orbit.json) |
 | Far From The Darkness | 328603 | [328603-far-from-the-darkness.json](./328603-far-from-the-darkness.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | Fashion_Weak | 181755 | [181755-fashion-weak.json](./181755-fashion-weak.json) |
+| Fashioning Little Miss Lonesome | 55538 | [55538-fashioning-little-miss-lonesome.json](./55538-fashioning-little-miss-lonesome.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
