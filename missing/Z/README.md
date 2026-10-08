@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Call: Trigger 3D | 187311 | [187311-zombie-call-trigger-3d.json](./187311-zombie-call-trigger-3d.json) |
 | Zombie Camp | 31985 | [31985-zombie-camp.json](./31985-zombie-camp.json) |
 | Zombie Camping | 155972 | [155972-zombie-camping.json](./155972-zombie-camping.json) |
+| Zombie Car Massacre | 55304 | [55304-zombie-car-massacre.json](./55304-zombie-car-massacre.json) |
 | Zombie Carnage 2 | 184476 | [184476-zombie-carnage-2.json](./184476-zombie-carnage-2.json) |
 | Zombie Catchers | 102689 | [102689-zombie-catchers.json](./102689-zombie-catchers.json) |
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
 | Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
 | Zombie Solitaire | 9306 | [9306-zombie-solitaire.json](./9306-zombie-solitaire.json) |
+| Zombie Solitaire 2 Chapter 2 | 54828 | [54828-zombie-solitaire-2-chapter-2.json](./54828-zombie-solitaire-2-chapter-2.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
