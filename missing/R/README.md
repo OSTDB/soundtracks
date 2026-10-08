@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | REalM: Walk of Soul | 34104 | [34104-realm-walk-of-soul.json](./34104-realm-walk-of-soul.json) |
 | RealmCraft | 86509 | [86509-realmcraft.json](./86509-realmcraft.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
+| Realms at War | 387046 | [387046-realms-at-war.json](./387046-realms-at-war.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
 | Realms Forgotten | 356161 | [356161-realms-forgotten.json](./356161-realms-forgotten.json) |
 | Realms of Alterra | 301275 | [301275-realms-of-alterra.json](./301275-realms-of-alterra.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residential Crusaders | 285109 | [285109-residential-crusaders.json](./285109-residential-crusaders.json) |
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
+| Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
 | Residue: Final Cut | 30250 | [30250-residue-final-cut.json](./30250-residue-final-cut.json) |
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
@@ -4713,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
+| Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise of Transport | 365882 | [365882-rise-of-transport.json](./365882-rise-of-transport.json) |
 | Rise of Venice: Beyond the Sea | 10775 | [10775-rise-of-venice-beyond-the-sea.json](./10775-rise-of-venice-beyond-the-sea.json) |
@@ -7150,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
+| Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
