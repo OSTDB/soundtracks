@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
 | Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
+| Take Care of It: Memories | 405443 | [405443-take-care-of-it-memories.json](./405443-take-care-of-it-memories.json) |
 | Take Care of My Heifer | 414421 | [414421-take-care-of-my-heifer.json](./414421-take-care-of-my-heifer.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
+| Tales of Eternia: Remastered | 405458 | [405458-tales-of-eternia-remastered.json](./405458-tales-of-eternia-remastered.json) |
 | Tales of Fablecraft: Brawler Collection | 365207 | [365207-tales-of-fablecraft-brawler-collection.json](./365207-tales-of-fablecraft-brawler-collection.json) |
 | Tales of Fablecraft: Storyteller Collection | 365208 | [365208-tales-of-fablecraft-storyteller-collection.json](./365208-tales-of-fablecraft-storyteller-collection.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
@@ -7534,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
+| The Legend of Zelda: Ocarina of Time | 405460 | [405460-the-legend-of-zelda-ocarina-of-time.json](./405460-the-legend-of-zelda-ocarina-of-time.json) |
 | The Legend of Zelda: Ocarina of Time - Crystal Clocks | 313092 | [313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json](./313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json) |
 | The Legend of Zelda: Ocarina of Time - Expansion Disk | 204383 | [204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json](./204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json) |
 | The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
@@ -8576,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Open World Survival Craft Hunters | 235819 | [235819-the-open-world-survival-craft-hunters.json](./235819-the-open-world-survival-craft-hunters.json) |
 | The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
+| The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
@@ -15777,6 +15781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
+| Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
 | Touhou Kourinden: Mythos of Phantasmagoria | 289935 | [289935-touhou-kourinden-mythos-of-phantasmagoria.json](./289935-touhou-kourinden-mythos-of-phantasmagoria.json) |
 | Touhou Kourokuen: Glorious and Huge Singer | 377213 | [377213-touhou-kourokuen-glorious-and-huge-singer.json](./377213-touhou-kourokuen-glorious-and-huge-singer.json) |
