@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen of Clover | 89520 | [89520-zen-of-clover.json](./89520-zen-of-clover.json) |
 | Zen Pinball | 20730 | [20730-zen-pinball.json](./20730-zen-pinball.json) |
 | Zen Pinball 2 | 6008 | [6008-zen-pinball-2.json](./6008-zen-pinball-2.json) |
+| Zen Pinball 3D | 21146 | [21146-zen-pinball-3d.json](./21146-zen-pinball-3d.json) |
 | Zen Pinball Party: My Little Pony Pinball | 231447 | [231447-zen-pinball-party-my-little-pony-pinball.json](./231447-zen-pinball-party-my-little-pony-pinball.json) |
 | Zen Pinball World: A Charlie Brown Christmas Pinball | 354059 | [354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json](./354059-zen-pinball-world-a-charlie-brown-christmas-pinball.json) |
 | Zen Pinball World: A Samurai's Vengeance | 354060 | [354060-zen-pinball-world-a-samurais-vengeance.json](./354060-zen-pinball-world-a-samurais-vengeance.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Frenzy | 66891 | [66891-zoo-frenzy.json](./66891-zoo-frenzy.json) |
+| Zoo Hospital | 21220 | [21220-zoo-hospital.json](./21220-zoo-hospital.json) |
 | Zoo keeper | 184408 | [184408-zoo-keeper.json](./184408-zoo-keeper.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
 | Zoo Maniacs Pinball | 97136 | [97136-zoo-maniacs-pinball.json](./97136-zoo-maniacs-pinball.json) |
