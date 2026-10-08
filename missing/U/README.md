@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
 | Ultimate Spider-Man: Limited Edition | 381722 | [381722-ultimate-spider-man-limited-edition.json](./381722-ultimate-spider-man-limited-edition.json) |
 | Ultimate Spider-Man: Total Mayhem | 66349 | [66349-ultimate-spider-man-total-mayhem.json](./66349-ultimate-spider-man-total-mayhem.json) |
+| Ultimate Spinner Simulator - Unstress Yourself | 74467 | [74467-ultimate-spinner-simulator-unstress-yourself.json](./74467-ultimate-spinner-simulator-unstress-yourself.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
 | Ultimate Sudoku Collection | 100576 | [100576-ultimate-sudoku-collection.json](./100576-ultimate-sudoku-collection.json) |
 | Ultimate Sudoku Collection: Basic Diagonal Pack | 163324 | [163324-ultimate-sudoku-collection-basic-diagonal-pack.json](./163324-ultimate-sudoku-collection-basic-diagonal-pack.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
 | Ultimuh MCMLXVII: Part 2 of the 39th Trilogy - The Quest for the Golden Amulet | 73462 | [73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json](./73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json) |
 | Ultimus | 267425 | [267425-ultimus.json](./267425-ultimus.json) |
+| Ultimus bellum | 74703 | [74703-ultimus-bellum.json](./74703-ultimus-bellum.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultizurk III: The GuildMaster's Quest | 233133 | [233133-ultizurk-iii-the-guildmasters-quest.json](./233133-ultizurk-iii-the-guildmasters-quest.json) |
@@ -1758,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
+| Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Night | 202734 | [202734-until-the-night.json](./202734-until-the-night.json) |
