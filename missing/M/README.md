@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make A Scene: Farmyard | 232585 | [232585-make-a-scene-farmyard.json](./232585-make-a-scene-farmyard.json) |
 | Make a Scene: Under the Sea | 101073 | [101073-make-a-scene-under-the-sea.json](./101073-make-a-scene-under-the-sea.json) |
+| Make America Great Again | 36447 | [36447-make-america-great-again.json](./36447-make-america-great-again.json) |
 | Make America Great Again: The Trump Presidency | 31663 | [31663-make-america-great-again-the-trump-presidency.json](./31663-make-america-great-again-the-trump-presidency.json) |
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
 | Masked Forces | 30527 | [30527-masked-forces.json](./30527-masked-forces.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
+| Masked Shooters | 36519 | [36519-masked-shooters.json](./36519-masked-shooters.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
@@ -3924,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Invasion: Combat Robots | 193885 | [193885-mech-invasion-combat-robots.json](./193885-mech-invasion-combat-robots.json) |
 | Mech Jam 3: Encounters on the Red Planet | 395893 | [395893-mech-jam-3-encounters-on-the-red-planet.json](./395893-mech-jam-3-encounters-on-the-red-planet.json) |
 | Mech Knight Chronicles | 63570 | [63570-mech-knight-chronicles.json](./63570-mech-knight-chronicles.json) |
+| Mech League Boxing | 36521 | [36521-mech-league-boxing.json](./36521-mech-league-boxing.json) |
 | Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech Merc Company | 121498 | [121498-mech-merc-company.json](./121498-mech-merc-company.json) |
@@ -11034,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
+| Munich Bus Simulator | 36440 | [36440-munich-bus-simulator.json](./36440-munich-bus-simulator.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
 | Munro's Tweetcarts | 183420 | [183420-munros-tweetcarts.json](./183420-munros-tweetcarts.json) |
 | Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
