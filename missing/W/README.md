@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrented Humanity | 351170 | [351170-warrented-humanity.json](./351170-warrented-humanity.json) |
 | Warring States | 168687 | [168687-warring-states.json](./168687-warring-states.json) |
 | Warring States Tactics | 60516 | [60516-warring-states-tactics.json](./60516-warring-states-tactics.json) |
+| Warring States: Tactics | 36417 | [36417-warring-states-tactics.json](./36417-warring-states-tactics.json) |
 | Warring Universe | 290459 | [290459-warring-universe.json](./290459-warring-universe.json) |
 | Warring Worms | 73769 | [73769-warring-worms.json](./73769-warring-worms.json) |
 | Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldquiz | 243084 | [243084-worldquiz.json](./243084-worldquiz.json) |
 | Worlds | 36277 | [36277-worlds.json](./36277-worlds.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
+| Worlds Adrift Island Creator | 36387 | [36387-worlds-adrift-island-creator.json](./36387-worlds-adrift-island-creator.json) |
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
