@@ -11703,6 +11703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
 | Cyberdimension Neptunia: 4 Goddesses Online - Royal Edition | 212313 | [212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json](./212313-cyberdimension-neptunia-4-goddesses-online-royal-edition.json) |
+| Cyberdog 2050 | 401604 | [401604-cyberdog-2050.json](./401604-cyberdog-2050.json) |
 | Cyberdreams | 140045 | [140045-cyberdreams.json](./140045-cyberdreams.json) |
 | CyberDrifter | 29152 | [29152-cyberdrifter.json](./29152-cyberdrifter.json) |
 | CyberDrive 2077 | 395806 | [395806-cyberdrive-2077.json](./395806-cyberdrive-2077.json) |
