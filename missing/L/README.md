@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | Listenbourg | 264697 | [264697-listenbourg.json](./264697-listenbourg.json) |
 | Listhère | 137982 | [137982-listhere.json](./137982-listhere.json) |
+| Lit | 21264 | [21264-lit.json](./21264-lit.json) |
 | Lit | 97106 | [97106-lit.json](./97106-lit.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Bugs Bunny | 198805 | [198805-looney-tunes-bugs-bunny.json](./198805-looney-tunes-bugs-bunny.json) |
 | Looney Tunes: Carrot Crazy | 49870 | [49870-looney-tunes-carrot-crazy.json](./49870-looney-tunes-carrot-crazy.json) |
 | Looney Tunes: Cartoon Concerto | 84298 | [84298-looney-tunes-cartoon-concerto.json](./84298-looney-tunes-cartoon-concerto.json) |
+| Looney Tunes: Cartoon Conductor | 21364 | [21364-looney-tunes-cartoon-conductor.json](./21364-looney-tunes-cartoon-conductor.json) |
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
 | Looney Tunes: Road Rally Riot | 217947 | [217947-looney-tunes-road-rally-riot.json](./217947-looney-tunes-road-rally-riot.json) |
 | Looney Tunes: Space Race | 8136 | [8136-looney-tunes-space-race.json](./8136-looney-tunes-space-race.json) |
@@ -5565,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines | 4689 | [4689-lumines.json](./4689-lumines.json) |
 | Lumines Arise: Digital Deluxe Edition | 363530 | [363530-lumines-arise-digital-deluxe-edition.json](./363530-lumines-arise-digital-deluxe-edition.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
+| Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
