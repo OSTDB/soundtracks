@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
+| Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
+| EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
 | EverQuest: Prophecy of Ro | 72906 | [72906-everquest-prophecy-of-ro.json](./72906-everquest-prophecy-of-ro.json) |
