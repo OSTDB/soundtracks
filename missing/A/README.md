@@ -5253,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
 | Angels Online Global | 402430 | [402430-angels-online-global.json](./402430-angels-online-global.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
+| Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
@@ -8972,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
+| Asura | 28158 | [28158-asura.json](./28158-asura.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura The Striker | 247093 | [247093-asura-the-striker.json](./247093-asura-the-striker.json) |
@@ -9971,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away from the light | 287732 | [287732-away-from-the-light.json](./287732-away-from-the-light.json) |
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
+| Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
