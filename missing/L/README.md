@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logres: Japanese RPG | 75222 | [75222-logres-japanese-rpg.json](./75222-logres-japanese-rpg.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
+| Lok Digital | 226734 | [226734-lok-digital.json](./226734-lok-digital.json) |
 | Lokam Dating Sim | 241435 | [241435-lokam-dating-sim.json](./241435-lokam-dating-sim.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki | 19358 | [19358-loki.json](./19358-loki.json) |
