@@ -7907,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prebillian | 40398 | [40398-prebillian.json](./40398-prebillian.json) |
 | Precept | 328001 | [328001-precept.json](./328001-precept.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
+| Precinct IX | 408707 | [408707-precinct-ix.json](./408707-precinct-ix.json) |
 | Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
