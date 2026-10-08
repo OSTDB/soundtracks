@@ -4888,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day of Salvation | 374744 | [374744-the-day-of-salvation.json](./374744-the-day-of-salvation.json) |
 | The Day of the Jellyfish | 368154 | [368154-the-day-of-the-jellyfish.json](./368154-the-day-of-the-jellyfish.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
+| The Day That Wasn't | 390086 | [390086-the-day-that-wasnt.json](./390086-the-day-that-wasnt.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day They Came | 169832 | [169832-the-day-they-came.json](./169832-the-day-they-came.json) |
@@ -9716,6 +9717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Siege of Khe Sanh | 66412 | [66412-the-siege-of-khe-sanh.json](./66412-the-siege-of-khe-sanh.json) |
+| The Sigil Engine | 390096 | [390096-the-sigil-engine.json](./390096-the-sigil-engine.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
 | The Signal State | 157524 | [157524-the-signal-state.json](./157524-the-signal-state.json) |
@@ -11307,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Diner | 117575 | [117575-the-white-diner.json](./117575-the-white-diner.json) |
 | The White Flower | 392801 | [392801-the-white-flower.json](./392801-the-white-flower.json) |
 | The White Hell | 390545 | [390545-the-white-hell.json](./390545-the-white-hell.json) |
+| The White Lamb: No Shelter | 390074 | [390074-the-white-lamb-no-shelter.json](./390074-the-white-lamb-no-shelter.json) |
 | The White Prison | 262912 | [262912-the-white-prison.json](./262912-the-white-prison.json) |
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
 | The White Wolf of Lokken Mountain | 388321 | [388321-the-white-wolf-of-lokken-mountain.json](./388321-the-white-wolf-of-lokken-mountain.json) |
