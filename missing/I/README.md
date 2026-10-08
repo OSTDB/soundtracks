@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
 | Impossible Mission 2025 | 37107 | [37107-impossible-mission-2025.json](./37107-impossible-mission-2025.json) |
+| Impossible Mission 3 | 403546 | [403546-impossible-mission-3.json](./403546-impossible-mission-3.json) |
 | Impossible Mission Remastered | 171358 | [171358-impossible-mission-remastered.json](./171358-impossible-mission-remastered.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
+| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
