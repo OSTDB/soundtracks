@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Free Heroes RPG | 31682 | [31682-hate-free-heroes-rpg.json](./31682-hate-free-heroes-rpg.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
+| Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
 | Hatone | 260620 | [260620-hatone.json](./260620-hatone.json) |
@@ -6778,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
+| Hundred Swords | 12435 | [12435-hundred-swords.json](./12435-hundred-swords.json) |
 | Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
