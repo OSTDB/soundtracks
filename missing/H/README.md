@@ -6019,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
+| Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
 | Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Pot | 182817 | [182817-hot-pot.json](./182817-hot-pot.json) |
@@ -6594,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huanxiang Sanguozhi | 70024 | [70024-huanxiang-sanguozhi.json](./70024-huanxiang-sanguozhi.json) |
 | Huànxiǎng Xiū Zhēn | 375424 | [375424-huanxiang-xiu-zhen.json](./375424-huanxiang-xiu-zhen.json) |
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
+| Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
