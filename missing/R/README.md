@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Goodbye | 297559 | [297559-reapers-goodbye.json](./297559-reapers-goodbye.json) |
 | Reaper's Interin Program | 292639 | [292639-reapers-interin-program.json](./292639-reapers-interin-program.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
+| Reaper's Ledger | 393530 | [393530-reapers-ledger.json](./393530-reapers-ledger.json) |
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
 | Reaper's Rite | 297561 | [297561-reapers-rite.json](./297561-reapers-rite.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
@@ -6466,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster Booster 3D | 410945 | [410945-rooster-booster-3d.json](./410945-rooster-booster-3d.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
 | Rooster Rampage | 150285 | [150285-rooster-rampage.json](./150285-rooster-rampage.json) |
+| Rooster Saga: I Believe I Can Fly | 393529 | [393529-rooster-saga-i-believe-i-can-fly.json](./393529-rooster-saga-i-believe-i-can-fly.json) |
 | Rooster Wars Tactic | 120235 | [120235-rooster-wars-tactic.json](./120235-rooster-wars-tactic.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
