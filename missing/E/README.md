@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody 1-2-Switch | 251588 | [251588-everybody-1-2-switch.json](./251588-everybody-1-2-switch.json) |
+| Everybody Dance | 19997 | [19997-everybody-dance.json](./19997-everybody-dance.json) |
 | Everybody Dance: Digital | 336101 | [336101-everybody-dance-digital.json](./336101-everybody-dance-digital.json) |
 | Everybody Edits | 74298 | [74298-everybody-edits.json](./74298-everybody-edits.json) |
 | Everybody Got Mad | 135744 | [135744-everybody-got-mad.json](./135744-everybody-got-mad.json) |
