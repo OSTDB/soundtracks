@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
+| The Equalizer 2 | 97220 | [97220-the-equalizer-2.json](./97220-the-equalizer-2.json) |
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The ER: Patient Typhon - SOS | 196095 | [196095-the-er-patient-typhon-sos.json](./196095-the-er-patient-typhon-sos.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero of Bangaona | 173067 | [173067-the-hero-of-bangaona.json](./173067-the-hero-of-bangaona.json) |
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
+| The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
@@ -9144,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Not Taken | 349968 | [349968-the-road-not-taken.json](./349968-the-road-not-taken.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
+| The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
 | The Road to Disorder | 175691 | [175691-the-road-to-disorder.json](./175691-the-road-to-disorder.json) |
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
@@ -10261,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
+| The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
 | The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
@@ -10649,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
+| The True Slime King | 97974 | [97974-the-true-slime-king.json](./97974-the-true-slime-king.json) |
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
