@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni no Moribito | 355201 | [355201-oni-no-moribito.json](./355201-oni-no-moribito.json) |
 | Oni no Yakata | 286759 | [286759-oni-no-yakata.json](./286759-oni-no-yakata.json) |
 | Oni Oneesan | 253887 | [253887-oni-oneesan.json](./253887-oni-oneesan.json) |
+| Oni Sazae Tori | 398670 | [398670-oni-sazae-tori.json](./398670-oni-sazae-tori.json) |
 | Oni V: Innin no Tsugumono | 63369 | [63369-oni-v-innin-no-tsugumono.json](./63369-oni-v-innin-no-tsugumono.json) |
 | Oni Zero: Fukkatsu | 166563 | [166563-oni-zero-fukkatsu.json](./166563-oni-zero-fukkatsu.json) |
 | Oni: Road to be the Mightiest Oni | 194944 | [194944-oni-road-to-be-the-mightiest-oni.json](./194944-oni-road-to-be-the-mightiest-oni.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
+| Opi Popi | 398690 | [398690-opi-popi.json](./398690-opi-popi.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Opioid visions 88 | 319687 | [319687-opioid-visions-88.json](./319687-opioid-visions-88.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
@@ -3475,4 +3477,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozymandias: Mesoamerica | 232436 | [232436-ozymandias-mesoamerica.json](./232436-ozymandias-mesoamerica.json) |
 | Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
 | Ozzie's Funtime Garden | 208987 | [208987-ozzies-funtime-garden.json](./208987-ozzies-funtime-garden.json) |
+| Ozzie's World | 398686 | [398686-ozzies-world.json](./398686-ozzies-world.json) |
 | Ozzy & Drix | 49318 | [49318-ozzy-and-drix.json](./49318-ozzy-and-drix.json) |
