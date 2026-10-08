@@ -6364,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
 | House Tidy | 384178 | [384178-house-tidy.json](./384178-house-tidy.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
+| House Zero | 421391 | [421391-house-zero.json](./421391-house-zero.json) |
 | Household Budget Management | 42197 | [42197-household-budget-management.json](./42197-household-budget-management.json) |
 | Housekeeper: Anomaly | 350532 | [350532-housekeeper-anomaly.json](./350532-housekeeper-anomaly.json) |
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
