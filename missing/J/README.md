@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
 | Jujutsu Kaisen: Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set | 317959 | [317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json](./317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json) |
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
+| Jukai Maze | 387051 | [387051-jukai-maze.json](./387051-jukai-maze.json) |
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
