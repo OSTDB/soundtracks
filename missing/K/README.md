@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
 | Kardinal & König | 68959 | [68959-kardinal-and-konig.json](./68959-kardinal-and-konig.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
+| Kardiya: The Winds of Fate | 420001 | [420001-kardiya-the-winds-of-fate.json](./420001-kardiya-the-winds-of-fate.json) |
 | Kardmi | 335988 | [335988-kardmi.json](./335988-kardmi.json) |
 | Kards: The WWII Card Game | 75140 | [75140-kards-the-wwii-card-game.json](./75140-kards-the-wwii-card-game.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
