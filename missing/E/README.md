@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eva Reynes: Redemption | 185407 | [185407-eva-reynes-redemption.json](./185407-eva-reynes-redemption.json) |
 | Eva: Final Mission | 220548 | [220548-eva-final-mission.json](./220548-eva-final-mission.json) |
 | Evac | 96923 | [96923-evac.json](./96923-evac.json) |
+| Evac Point | 389541 | [389541-evac-point.json](./389541-evac-point.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
@@ -4002,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
+| Evidence01 | 389551 | [389551-evidence01.json](./389551-evidence01.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil | 270322 | [270322-evil.json](./270322-evil.json) |
