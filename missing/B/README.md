@@ -2388,6 +2388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Stadium: Senbatsu Pro Yakyuu | 48585 | [48585-battle-stadium-senbatsu-pro-yakyuu.json](./48585-battle-stadium-senbatsu-pro-yakyuu.json) |
 | Battle Star | 157129 | [157129-battle-star.json](./157129-battle-star.json) |
 | Battle Stations | 136864 | [136864-battle-stations.json](./136864-battle-stations.json) |
+| Battle Stations | 20136 | [20136-battle-stations.json](./20136-battle-stations.json) |
 | Battle Stations | 95473 | [95473-battle-stations.json](./95473-battle-stations.json) |
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
@@ -9046,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Hearts Club: Blue Bird Blues | 120844 | [120844-broken-hearts-club-blue-bird-blues.json](./120844-broken-hearts-club-blue-bird-blues.json) |
 | Broken Hearts Island | 258990 | [258990-broken-hearts-island.json](./258990-broken-hearts-island.json) |
 | Broken Hearts: A Soldier's Duty | 206685 | [206685-broken-hearts-a-soldiers-duty.json](./206685-broken-hearts-a-soldiers-duty.json) |
+| Broken Helix | 19996 | [19996-broken-helix.json](./19996-broken-helix.json) |
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
@@ -10293,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
+| Buster Bros. Collection | 20137 | [20137-buster-bros-collection.json](./20137-buster-bros-collection.json) |
 | Buster Busts A Nut | 375390 | [375390-buster-busts-a-nut.json](./375390-buster-busts-a-nut.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
