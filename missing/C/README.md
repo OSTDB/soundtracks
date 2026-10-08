@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
+| Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
@@ -3487,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Cheating Fate | 177388 | [177388-cheating-fate.json](./177388-cheating-fate.json) |
 | Cheating Tom | 344015 | [344015-cheating-tom.json](./344015-cheating-tom.json) |
+| Cheats 4 Hire | 35148 | [35148-cheats-4-hire.json](./35148-cheats-4-hire.json) |
 | Check & Clean | 244332 | [244332-check-and-clean.json](./244332-check-and-clean.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
@@ -7461,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
 | Concealed | 139783 | [139783-concealed.json](./139783-concealed.json) |
+| Concealed Intent | 35142 | [35142-concealed-intent.json](./35142-concealed-intent.json) |
 | Concentration | 217829 | [217829-concentration.json](./217829-concentration.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concentration Required | 338882 | [338882-concentration-required.json](./338882-concentration-required.json) |
