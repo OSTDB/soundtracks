@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
 | BallZ DX | 316189 | [316189-ballz-dx.json](./316189-ballz-dx.json) |
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
+| Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balorizon | 401632 | [401632-balorizon.json](./401632-balorizon.json) |
@@ -5354,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
+| Blacksea Odyssey | 12979 | [12979-blacksea-odyssey.json](./12979-blacksea-odyssey.json) |
 | Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | BlackShadows | 34561 | [34561-blackshadows.json](./34561-blackshadows.json) |
 | BlackShield: Upora Story | 81066 | [81066-blackshield-upora-story.json](./81066-blackshield-upora-story.json) |
