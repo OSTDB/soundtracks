@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorch | 30137 | [30137-scorch.json](./30137-scorch.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
 | Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
+| Scorched Earth | 391683 | [391683-scorched-earth.json](./391683-scorched-earth.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
 | Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
@@ -4922,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - DLC All-in-One | 306561 | [306561-shin-megami-tensei-v-vengeance-dlc-all-in-one.json](./306561-shin-megami-tensei-v-vengeance-dlc-all-in-one.json) |
+| Shin Megami Tensei V: Vengeance - Launch Edition | 391671 | [391671-shin-megami-tensei-v-vengeance-launch-edition.json](./391671-shin-megami-tensei-v-vengeance-launch-edition.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles | 315483 | [315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json](./315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
@@ -6339,6 +6341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
 | Silverlicious | 9748 | [9748-silverlicious.json](./9748-silverlicious.json) |
+| Silvern Moonrise | 391761 | [391761-silvern-moonrise.json](./391761-silvern-moonrise.json) |
 | Silverpine | 410989 | [410989-silverpine.json](./410989-silverpine.json) |
 | Silverpine Creek | 302478 | [302478-silverpine-creek.json](./302478-silverpine-creek.json) |
 | SilverQuest: Gaiden | 36161 | [36161-silverquest-gaiden.json](./36161-silverquest-gaiden.json) |
@@ -8147,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Machine | 246380 | [246380-slot-machine.json](./246380-slot-machine.json) |
 | Slot Machine | 325548 | [325548-slot-machine.json](./325548-slot-machine.json) |
 | Slot Machine | 366920 | [366920-slot-machine.json](./366920-slot-machine.json) |
+| Slot or Die | 391694 | [391694-slot-or-die.json](./391694-slot-or-die.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Revolution | 296034 | [296034-slot-revolution.json](./296034-slot-revolution.json) |
 | Slot Shots Pinball: Ultimate Edition | 276969 | [276969-slot-shots-pinball-ultimate-edition.json](./276969-slot-shots-pinball-ultimate-edition.json) |
@@ -12584,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
 | SpellMaster: The Saga | 130158 | [130158-spellmaster-the-saga.json](./130158-spellmaster-the-saga.json) |
+| Spellmeister | 391767 | [391767-spellmeister.json](./391767-spellmeister.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
 | SpellPix | 95692 | [95692-spellpix.json](./95692-spellpix.json) |
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
