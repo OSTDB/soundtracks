@@ -3771,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Ate My Boyfriend | 212687 | [212687-aliens-ate-my-boyfriend.json](./212687-aliens-ate-my-boyfriend.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
+| Aliens Hide | 419965 | [419965-aliens-hide.json](./419965-aliens-hide.json) |
 | Aliens In Chains | 233616 | [233616-aliens-in-chains.json](./233616-aliens-in-chains.json) |
 | Aliens in the Yard | 43183 | [43183-aliens-in-the-yard.json](./43183-aliens-in-the-yard.json) |
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
