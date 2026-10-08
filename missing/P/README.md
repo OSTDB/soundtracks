@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Party, Darling? | 187210 | [187210-party-darling.json](./187210-party-darling.json) |
 | Party.io | 193795 | [193795-party-io.json](./193795-party-io.json) |
+| Party's Over: Backyard Cleanup Simulator | 414162 | [414162-partys-over-backyard-cleanup-simulator.json](./414162-partys-over-backyard-cleanup-simulator.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
@@ -4562,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Champions | 59648 | [59648-pixel-champions.json](./59648-pixel-champions.json) |
 | Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
+| Pixel Chess Idle RPG | 414174 | [414174-pixel-chess-idle-rpg.json](./414174-pixel-chess-idle-rpg.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
@@ -5626,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing Kafka | 297978 | [297978-playing-kafka.json](./297978-playing-kafka.json) |
+| Playing Prague | 414139 | [414139-playing-prague.json](./414139-playing-prague.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
@@ -6947,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
+| Polystrike | 414144 | [414144-polystrike.json](./414144-polystrike.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
 | Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
