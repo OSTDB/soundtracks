@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
+| NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
 | Now Man Flies | 75810 | [75810-now-man-flies.json](./75810-now-man-flies.json) |
+| Now Showing | 394765 | [394765-now-showing.json](./394765-now-showing.json) |
 | Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
 | Now That's What I Call Games 3 | 125283 | [125283-now-thats-what-i-call-games-3.json](./125283-now-thats-what-i-call-games-3.json) |
