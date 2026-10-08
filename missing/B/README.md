@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shark RUN! | 104467 | [104467-baby-shark-run.json](./104467-baby-shark-run.json) |
 | Baby Shark VR Dancing | 132590 | [132590-baby-shark-vr-dancing.json](./132590-baby-shark-vr-dancing.json) |
 | Baby Shark: ABC Phonics | 207236 | [207236-baby-shark-abc-phonics.json](./207236-baby-shark-abc-phonics.json) |
+| Baby Snow and the Shards of Tiger's Bane | 392244 | [392244-baby-snow-and-the-shards-of-tigers-bane.json](./392244-baby-snow-and-the-shards-of-tigers-bane.json) |
 | Baby Tiger Care: My Cute Virtual Pet Friend | 105840 | [105840-baby-tiger-care-my-cute-virtual-pet-friend.json](./105840-baby-tiger-care-my-cute-virtual-pet-friend.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
 | Bauhaus Bonk | 314394 | [314394-bauhaus-bonk.json](./314394-bauhaus-bonk.json) |
+| BaulaQuest | 392231 | [392231-baulaquest.json](./392231-baulaquest.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
 | Baunsudaun | 257530 | [257530-baunsudaun.json](./257530-baunsudaun.json) |
 | Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
@@ -7544,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Myths | 174616 | [174616-book-of-myths.json](./174616-book-of-myths.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
+| Book of the Abyss | 392319 | [392319-book-of-the-abyss.json](./392319-book-of-the-abyss.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Recommendations | 207223 | [207223-book-recommendations.json](./207223-book-recommendations.json) |
