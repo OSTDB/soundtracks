@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackYard Hoops | 213336 | [213336-backyard-hoops.json](./213336-backyard-hoops.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard NBA Basketball | 93185 | [93185-backyard-nba-basketball.json](./93185-backyard-nba-basketball.json) |
+| Backyard Paintball | 415453 | [415453-backyard-paintball.json](./415453-backyard-paintball.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besiege: The Broken Beyond | 389128 | [389128-besiege-the-broken-beyond.json](./389128-besiege-the-broken-beyond.json) |
 | Besitupia: Mediator | 297534 | [297534-besitupia-mediator.json](./297534-besitupia-mediator.json) |
 | Besmirch | 343449 | [343449-besmirch.json](./343449-besmirch.json) |
+| Besöket | 415488 | [415488-besoket.json](./415488-besoket.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
@@ -4449,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bilbo: The Four Corners of the World | 52460 | [52460-bilbo-the-four-corners-of-the-world.json](./52460-bilbo-the-four-corners-of-the-world.json) |
+| Biletide | 415455 | [415455-biletide.json](./415455-biletide.json) |
 | Bilge Rat's Bounty | 180758 | [180758-bilge-rats-bounty.json](./180758-bilge-rats-bounty.json) |
 | Bilge Su Bullet Baroness | 364509 | [364509-bilge-su-bullet-baroness.json](./364509-bilge-su-bullet-baroness.json) |
 | Bililitz | 390794 | [390794-bililitz.json](./390794-bililitz.json) |
