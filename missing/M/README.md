@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pearls | 70059 | [70059-magic-pearls.json](./70059-magic-pearls.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
+| Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
@@ -5146,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Cold War | 121565 | [121565-men-of-war-assault-squad-2-cold-war.json](./121565-men-of-war-assault-squad-2-cold-war.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
+| Men of War: Condemned Heroes | 10546 | [10546-men-of-war-condemned-heroes.json](./10546-men-of-war-condemned-heroes.json) |
 | Men of War: Vietnam | 9855 | [9855-men-of-war-vietnam.json](./9855-men-of-war-vietnam.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
@@ -6407,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mutants | 12335 | [12335-midnight-mutants.json](./12335-midnight-mutants.json) |
 | Midnight Mysteries 2: Salem Witch Trials | 10573 | [10573-midnight-mysteries-2-salem-witch-trials.json](./10573-midnight-mysteries-2-salem-witch-trials.json) |
 | Midnight Mysteries 3: Devil on the Mississippi | 10547 | [10547-midnight-mysteries-3-devil-on-the-mississippi.json](./10547-midnight-mysteries-3-devil-on-the-mississippi.json) |
+| Midnight Mysteries 4: Haunted Houdini | 10548 | [10548-midnight-mysteries-4-haunted-houdini.json](./10548-midnight-mysteries-4-haunted-houdini.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
 | Midnight Mysteries: Ghostwriting | 59874 | [59874-midnight-mysteries-ghostwriting.json](./59874-midnight-mysteries-ghostwriting.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
@@ -7160,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
+| Miner Wars 2081 | 10550 | [10550-miner-wars-2081.json](./10550-miner-wars-2081.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
@@ -9314,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp | 164509 | [164509-monsty-corp.json](./164509-monsty-corp.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
+| Montague's Mount | 10555 | [10555-montagues-mount.json](./10555-montagues-mount.json) |
 | Montana | 404424 | [404424-montana.json](./404424-montana.json) |
 | Montana Jones | 246423 | [246423-montana-jones.json](./246423-montana-jones.json) |
 | Montana Solitaire | 89470 | [89470-montana-solitaire.json](./89470-montana-solitaire.json) |
@@ -9459,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
+| MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
