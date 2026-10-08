@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | GamePigeon | 229787 | [229787-gamepigeon.json](./229787-gamepigeon.json) |
 | GamePoint Bingo | 78761 | [78761-gamepoint-bingo.json](./78761-gamepoint-bingo.json) |
+| Gamepull.io | 398685 | [398685-gamepull-io.json](./398685-gamepull-io.json) |
 | Gamer 2 | 124608 | [124608-gamer-2.json](./124608-gamer-2.json) |
 | Gamer Cafe | 233451 | [233451-gamer-cafe.json](./233451-gamer-cafe.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
@@ -4180,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
+| Gorg The Game | 398681 | [398681-gorg-the-game.json](./398681-gorg-the-game.json) |
 | Gorgeous Elves of Ganassa | 385806 | [385806-gorgeous-elves-of-ganassa.json](./385806-gorgeous-elves-of-ganassa.json) |
 | Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
