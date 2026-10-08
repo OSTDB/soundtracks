@@ -6936,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
+| Skein | 74764 | [74764-skein.json](./74764-skein.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
@@ -15113,6 +15114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamboat Willie's Super Willie World | 326695 | [326695-steamboat-willies-super-willie-world.json](./326695-steamboat-willies-super-willie-world.json) |
 | Steambot Chronicles: Battle Tournament | 42891 | [42891-steambot-chronicles-battle-tournament.json](./42891-steambot-chronicles-battle-tournament.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
+| Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
