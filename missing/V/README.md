@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viewtiful Joe | 4229 | [4229-viewtiful-joe.json](./4229-viewtiful-joe.json) |
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
 | Viewtiful Joe: Double Trouble! | 5987 | [5987-viewtiful-joe-double-trouble.json](./5987-viewtiful-joe-double-trouble.json) |
+| Viewtiful Joe: Red Hot Rumble | 4231 | [4231-viewtiful-joe-red-hot-rumble.json](./4231-viewtiful-joe-red-hot-rumble.json) |
 | Vifa | 379374 | [379374-vifa.json](./379374-vifa.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
 | Vigil | 182812 | [182812-vigil.json](./182812-vigil.json) |
