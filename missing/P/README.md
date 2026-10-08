@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Incarnate | 404987 | [404987-peace-incarnate.json](./404987-peace-incarnate.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
+| Peace on Earth | 398662 | [398662-peace-on-earth.json](./398662-peace-on-earth.json) |
 | Peace Park | 262352 | [262352-peace-park.json](./262352-peace-park.json) |
 | Peace, Death! 2 | 158078 | [158078-peace-death-2.json](./158078-peace-death-2.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
@@ -8569,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
+| PrizeMap | 398641 | [398641-prizemap.json](./398641-prizemap.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro 18: World Tour Golf | 43821 | [43821-pro-18-world-tour-golf.json](./43821-pro-18-world-tour-golf.json) |
@@ -8863,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project A-ko 2 | 260110 | [260110-project-a-ko-2.json](./260110-project-a-ko-2.json) |
 | Project A10 | 297191 | [297191-project-a10.json](./297191-project-a10.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
+| Project Accipiter | 398697 | [398697-project-accipiter.json](./398697-project-accipiter.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
 | Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
