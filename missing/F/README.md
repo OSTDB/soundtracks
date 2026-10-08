@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Voyagers | 400195 | [400195-fantasy-voyagers.json](./400195-fantasy-voyagers.json) |
 | Fantasy Waifu Collector | 369140 | [369140-fantasy-waifu-collector.json](./369140-fantasy-waifu-collector.json) |
 | Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
+| Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Night | 63679 | [63679-fearless-night.json](./63679-fearless-night.json) |
 | Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
 | Fearless Wheels | 103889 | [103889-fearless-wheels.json](./103889-fearless-wheels.json) |
+| Fearmates | 390583 | [390583-fearmates.json](./390583-fearmates.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
@@ -2150,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
 | Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
+| Feed the Circuit | 390587 | [390587-feed-the-circuit.json](./390587-feed-the-circuit.json) |
 | Feed the Deep | 244320 | [244320-feed-the-deep.json](./244320-feed-the-deep.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
@@ -5298,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football City | 260624 | [260624-football-city.json](./260624-football-city.json) |
 | Football Club 2019-2023 | 282705 | [282705-football-club-2019-2023.json](./282705-football-club-2019-2023.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
+| Football Club Inside | 390711 | [390711-football-club-inside.json](./390711-football-club-inside.json) |
 | Football Club Management 2023 | 214062 | [214062-football-club-management-2023.json](./214062-football-club-management-2023.json) |
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
