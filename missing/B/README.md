@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
 | Backrooms: Maintenance | 308905 | [308905-backrooms-maintenance.json](./308905-backrooms-maintenance.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backrooms: Multiplayer Horror | 405440 | [405440-backrooms-multiplayer-horror.json](./405440-backrooms-multiplayer-horror.json) |
 | Backrooms: Multiverse | 409744 | [409744-backrooms-multiverse.json](./409744-backrooms-multiverse.json) |
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
 | Backrooms: No Return | 236777 | [236777-backrooms-no-return.json](./236777-backrooms-no-return.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
+| Before the Tee | 405553 | [405553-before-the-tee.json](./405553-before-the-tee.json) |
 | Before the Walls Break | 388298 | [388298-before-the-walls-break.json](./388298-before-the-walls-break.json) |
 | Before They Leave | 184918 | [184918-before-they-leave.json](./184918-before-they-leave.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
@@ -6649,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | Blortasia | 32178 | [32178-blortasia.json](./32178-blortasia.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
+| Blosharper: Battle of Blossoms | 405561 | [405561-blosharper-battle-of-blossoms.json](./405561-blosharper-battle-of-blossoms.json) |
 | Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
 | Blossom | 180085 | [180085-blossom.json](./180085-blossom.json) |
