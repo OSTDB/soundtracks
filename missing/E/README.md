@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Storm | 238473 | [238473-echo-storm.json](./238473-echo-storm.json) |
 | Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
+| Echo Tower | 395535 | [395535-echo-tower.json](./395535-echo-tower.json) |
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo Weaver | 290107 | [290107-echo-weaver.json](./290107-echo-weaver.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game: The Old Folk House | 288312 | [288312-escape-game-the-old-folk-house.json](./288312-escape-game-the-old-folk-house.json) |
 | Escape Game:The Kitty The Vacant Lot | 351229 | [351229-escape-game-the-kitty-the-vacant-lot.json](./351229-escape-game-the-kitty-the-vacant-lot.json) |
 | Escape Goat | 7590 | [7590-escape-goat.json](./7590-escape-goat.json) |
+| Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
