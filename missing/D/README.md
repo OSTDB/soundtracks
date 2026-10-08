@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
+| Dance Dance Revolution Hottest Party 3 | 21782 | [21782-dance-dance-revolution-hottest-party-3.json](./21782-dance-dance-revolution-hottest-party-3.json) |
 | Dance Dance Revolution Konamix | 23794 | [23794-dance-dance-revolution-konamix.json](./23794-dance-dance-revolution-konamix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
 | Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
+| Dark Mist | 21818 | [21818-dark-mist.json](./21818-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
@@ -3317,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
 | Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
+| Delicious Vinyl DJ | 21778 | [21778-delicious-vinyl-dj.json](./21778-delicious-vinyl-dj.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
@@ -5724,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discrepant | 32815 | [32815-discrepant.json](./32815-discrepant.json) |
 | Discrete Heart | 285536 | [285536-discrete-heart.json](./285536-discrete-heart.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
+| Discs of Tron | 21817 | [21817-discs-of-tron.json](./21817-discs-of-tron.json) |
 | Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
 | Discus | 247046 | [247046-discus.json](./247046-discus.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
@@ -6897,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
+| Domino Master | 21794 | [21794-domino-master.json](./21794-domino-master.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
 | Domino Rally | 77114 | [77114-domino-rally.json](./77114-domino-rally.json) |
 | Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
@@ -10706,6 +10711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to Dust | 382967 | [382967-dust-to-dust.json](./382967-dust-to-dust.json) |
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
+| Dust: A Tale of the Wired West | 21868 | [21868-dust-a-tale-of-the-wired-west.json](./21868-dust-a-tale-of-the-wired-west.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
 | Dust: Undefined | 302041 | [302041-dust-undefined.json](./302041-dust-undefined.json) |
 | Dustborn: Deluxe Edition | 284478 | [284478-dustborn-deluxe-edition.json](./284478-dustborn-deluxe-edition.json) |
