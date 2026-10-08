@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
 | Echoes | 264209 | [264209-echoes.json](./264209-echoes.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
+| Echoes | 395994 | [395994-echoes.json](./395994-echoes.json) |
 | Echoes | 91392 | [91392-echoes.json](./91392-echoes.json) |
 | Echoes Afterfall | 303513 | [303513-echoes-afterfall.json](./303513-echoes-afterfall.json) |
 | Echoes Beyond the Stars | 386304 | [386304-echoes-beyond-the-stars.json](./386304-echoes-beyond-the-stars.json) |
