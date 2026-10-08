@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
+| Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candela | 193258 | [193258-candela.json](./193258-candela.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
+| Cards & Cannons | 399261 | [399261-cards-and-cannons.json](./399261-cards-and-cannons.json) |
 | Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
 | Cards & Tankards | 143354 | [143354-cards-and-tankards.json](./143354-cards-and-tankards.json) |
 | Cards +1 | 182850 | [182850-cards-1.json](./182850-cards-1.json) |
@@ -2824,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
+| Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
@@ -3432,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm Tale Quest | 30703 | [30703-charm-tale-quest.json](./30703-charm-tale-quest.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
+| Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charon: Zhetan Chronicles | 253441 | [253441-charon-zhetan-chronicles.json](./253441-charon-zhetan-chronicles.json) |
@@ -5319,6 +5323,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Tales: Medieval Era | 324584 | [324584-city-tales-medieval-era.json](./324584-city-tales-medieval-era.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
+| City Transport Simulator 2026: Bus DLC - Citybus C2 | 399274 | [399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json](./399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json) |
+| City Transport Simulator 2026: Bus DLC - MAN Lion's City A26 & A47 | 399279 | [399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json](./399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json) |
+| City Transport Simulator 2026: Bus DLC - MAN New Lion's City | 399275 | [399275-city-transport-simulator-2026-bus-dlc-man-new-lions-city.json](./399275-city-transport-simulator-2026-bus-dlc-man-new-lions-city.json) |
+| City Transport Simulator 2026: Cosmetic DLC - Basel Style | 399283 | [399283-city-transport-simulator-2026-cosmetic-dlc-basel-style.json](./399283-city-transport-simulator-2026-cosmetic-dlc-basel-style.json) |
+| City Transport Simulator 2026: Expert Upgrade | 399284 | [399284-city-transport-simulator-2026-expert-upgrade.json](./399284-city-transport-simulator-2026-expert-upgrade.json) |
+| City Transport Simulator 2026: Map DLC - Tram Depot + Southern-Route | 399276 | [399276-city-transport-simulator-2026-map-dlc-tram-depot-southern-route.json](./399276-city-transport-simulator-2026-map-dlc-tram-depot-southern-route.json) |
+| City Transport Simulator 2026: Season Pass | 399285 | [399285-city-transport-simulator-2026-season-pass.json](./399285-city-transport-simulator-2026-season-pass.json) |
+| City Transport Simulator 2026: Tram DLC - E1 Vienna | 399282 | [399282-city-transport-simulator-2026-tram-dlc-e1-vienna.json](./399282-city-transport-simulator-2026-tram-dlc-e1-vienna.json) |
+| City Transport Simulator 2026: Tram DLC - Flexity Vienna | 399278 | [399278-city-transport-simulator-2026-tram-dlc-flexity-vienna.json](./399278-city-transport-simulator-2026-tram-dlc-flexity-vienna.json) |
+| City Transport Simulator 2026: Tram DLC - GT6 | 399280 | [399280-city-transport-simulator-2026-tram-dlc-gt6.json](./399280-city-transport-simulator-2026-tram-dlc-gt6.json) |
+| City Transport Simulator 2026: Tram DLC - GT8N Mannheim | 399281 | [399281-city-transport-simulator-2026-tram-dlc-gt8n-mannheim.json](./399281-city-transport-simulator-2026-tram-dlc-gt8n-mannheim.json) |
+| City Transport Simulator 2026: Tram DLC - StadtRegioTram | 399277 | [399277-city-transport-simulator-2026-tram-dlc-stadtregiotram.json](./399277-city-transport-simulator-2026-tram-dlc-stadtregiotram.json) |
 | City Transport Simulator: Bus | 359609 | [359609-city-transport-simulator-bus.json](./359609-city-transport-simulator-bus.json) |
 | City Transport Simulator: Bus DLC - Gräf/Steyr NG235 | 359611 | [359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json](./359611-city-transport-simulator-bus-dlc-graf-steyr-ng235.json) |
 | City Transport Simulator: Bus DLC - MAN Lion's City A23 | 359612 | [359612-city-transport-simulator-bus-dlc-man-lions-city-a23.json](./359612-city-transport-simulator-bus-dlc-man-lions-city-a23.json) |
@@ -5840,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climber | 195035 | [195035-climber.json](./195035-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climber Girl | 350635 | [350635-climber-girl.json](./350635-climber-girl.json) |
+| Climber Toys: Together | 399269 | [399269-climber-toys-together.json](./399269-climber-toys-together.json) |
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
 | Climberia | 18355 | [18355-climberia.json](./18355-climberia.json) |
 | Climbing Back to the Mothership | 336698 | [336698-climbing-back-to-the-mothership.json](./336698-climbing-back-to-the-mothership.json) |
@@ -7788,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
+| Console Archives: Ninja Gaiden III - The Ancient Ship of Doom | 399298 | [399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
 | Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
