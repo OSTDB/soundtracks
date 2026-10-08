@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
 | Dark Deity's Bastion | 268761 | [268761-dark-deitys-bastion.json](./268761-dark-deitys-bastion.json) |
 | Dark Delve | 65469 | [65469-dark-delve.json](./65469-dark-delve.json) |
+| Dark Descent | 387042 | [387042-dark-descent.json](./387042-dark-descent.json) |
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
 | Dark Designs II: Closing the Gate | 73329 | [73329-dark-designs-ii-closing-the-gate.json](./73329-dark-designs-ii-closing-the-gate.json) |
 | Dark Designs III: Retribution! | 356865 | [356865-dark-designs-iii-retribution.json](./356865-dark-designs-iii-retribution.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathloop: Deluxe Edition | 141033 | [141033-deathloop-deluxe-edition.json](./141033-deathloop-deluxe-edition.json) |
 | Deathloop: Deluxe Pack | 252217 | [252217-deathloop-deluxe-pack.json](./252217-deathloop-deluxe-pack.json) |
 | Deathlord | 13838 | [13838-deathlord.json](./13838-deathlord.json) |
+| Deathlust | 387082 | [387082-deathlust.json](./387082-deathlust.json) |
 | Deathly Dangerous | 244338 | [244338-deathly-dangerous.json](./244338-deathly-dangerous.json) |
 | Deathly Stillness | 166619 | [166619-deathly-stillness.json](./166619-deathly-stillness.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
