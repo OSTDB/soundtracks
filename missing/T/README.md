@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Cop | 22746 | [22746-techno-cop.json](./22746-techno-cop.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
+| Techno: 2Kill | 391766 | [391766-techno-2kill.json](./391766-techno-2kill.json) |
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
 | Technobabylon: Deluxe Edition | 51929 | [51929-technobabylon-deluxe-edition.json](./51929-technobabylon-deluxe-edition.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
@@ -5320,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Sanity | 296452 | [296452-the-end-of-sanity.json](./296452-the-end-of-sanity.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
+| The End of the World and Her Room | 391676 | [391676-the-end-of-the-world-and-her-room.json](./391676-the-end-of-the-world-and-her-room.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End Protocol | 374748 | [374748-the-end-protocol.json](./374748-the-end-protocol.json) |
 | The End Was Nigh | 135777 | [135777-the-end-was-nigh.json](./135777-the-end-was-nigh.json) |
