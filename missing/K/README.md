@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Reaper | 276844 | [276844-kill-the-reaper.json](./276844-kill-the-reaper.json) |
 | Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
+| Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
 | Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
@@ -1742,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur's Heir | 23970 | [23970-king-arthurs-heir.json](./23970-king-arthurs-heir.json) |
 | King Arthur's K.O.R.T. | 69839 | [69839-king-arthurs-k-o-r-t.json](./69839-king-arthurs-k-o-r-t.json) |
 | King Arthur's Magic Castle | 213275 | [213275-king-arthurs-magic-castle.json](./213275-king-arthurs-magic-castle.json) |
+| King Assassination | 420540 | [420540-king-assassination.json](./420540-king-assassination.json) |
 | King Bandido | 22136 | [22136-king-bandido.json](./22136-king-bandido.json) |
 | King Battle | 82342 | [82342-king-battle.json](./82342-king-battle.json) |
 | King Boo | 190020 | [190020-king-boo.json](./190020-king-boo.json) |
@@ -2826,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
 | Knuckle Joe | 39874 | [39874-knuckle-joe.json](./39874-knuckle-joe.json) |
+| Knucklebones Neon | 420539 | [420539-knucklebones-neon.json](./420539-knucklebones-neon.json) |
 | KnuckleFighter-Alpha | 172692 | [172692-knucklefighter-alpha.json](./172692-knucklefighter-alpha.json) |
 | KnuckleFighter-X | 172691 | [172691-knucklefighter-x.json](./172691-knucklefighter-x.json) |
 | KnuckleFighter-XPlus | 172694 | [172694-knucklefighter-xplus.json](./172694-knucklefighter-xplus.json) |
