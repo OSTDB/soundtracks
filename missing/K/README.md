@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 34965 | [34965-karma.json](./34965-karma.json) |
 | Karma | 356868 | [356868-karma.json](./356868-karma.json) |
+| Karma | 415474 | [415474-karma.json](./415474-karma.json) |
 | Karma - A Visual Novel About A Dystopia. | 124192 | [124192-karma-a-visual-novel-about-a-dystopia.json](./124192-karma-a-visual-novel-about-a-dystopia.json) |
 | Karma City Police | 132198 | [132198-karma-city-police.json](./132198-karma-city-police.json) |
 | Karma Crown | 189944 | [189944-karma-crown.json](./189944-karma-crown.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
+| Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | Kona | 14404 | [14404-kona.json](./14404-kona.json) |
 | Kona & Snowrabbit | 286230 | [286230-kona-and-snowrabbit.json](./286230-kona-and-snowrabbit.json) |
