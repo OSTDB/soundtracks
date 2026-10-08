@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
 | I Am The Caretaker | 177315 | [177315-i-am-the-caretaker.json](./177315-i-am-the-caretaker.json) |
+| I Am the Hero | 32172 | [32172-i-am-the-hero.json](./32172-i-am-the-hero.json) |
 | I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
 | I Am the Sun | 183369 | [183369-i-am-the-sun.json](./183369-i-am-the-sun.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
