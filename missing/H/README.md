@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster | 147481 | [147481-hamster.json](./147481-hamster.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
 | Hamster All-Stars | 144121 | [144121-hamster-all-stars.json](./144121-hamster-all-stars.json) |
+| Hamster and the Village of Sun | 414167 | [414167-hamster-and-the-village-of-sun.json](./414167-hamster-and-the-village-of-sun.json) |
 | Hamster Ballers | 409623 | [409623-hamster-ballers.json](./409623-hamster-ballers.json) |
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
 | Hamster Bob | 147862 | [147862-hamster-bob.json](./147862-hamster-bob.json) |
@@ -1850,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healthy Living | 144853 | [144853-healthy-living.json](./144853-healthy-living.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
 | HeapVR | 29664 | [29664-heapvr.json](./29664-heapvr.json) |
+| Hear My Light | 414143 | [414143-hear-my-light.json](./414143-hear-my-light.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Heard of the Story? | 211791 | [211791-heard-of-the-story.json](./211791-heard-of-the-story.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
@@ -3168,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Knights | 78735 | [78735-her-knights.json](./78735-her-knights.json) |
 | Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
+| Her Last Wish | 414154 | [414154-her-last-wish.json](./414154-her-last-wish.json) |
 | Her Lie I Tried to Believe | 87953 | [87953-her-lie-i-tried-to-believe.json](./87953-her-lie-i-tried-to-believe.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Her Love in the Force | 147610 | [147610-her-love-in-the-force.json](./147610-her-love-in-the-force.json) |
