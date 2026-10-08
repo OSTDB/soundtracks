@@ -5361,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet-Fall | 290997 | [290997-planet-fall.json](./290997-planet-fall.json) |
+| Planet-Plants+Space-Seed | 395501 | [395501-planet-plants-space-seed.json](./395501-planet-plants-space-seed.json) |
 | Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
 | Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
@@ -5878,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluto Lost Its Colors | 318426 | [318426-pluto-lost-its-colors.json](./318426-pluto-lost-its-colors.json) |
 | Pluto Rim: Storm Commander | 141507 | [141507-pluto-rim-storm-commander.json](./141507-pluto-rim-storm-commander.json) |
 | Pluto Strikes Back | 51216 | [51216-pluto-strikes-back.json](./51216-pluto-strikes-back.json) |
+| Pluto's Ascent: Celestial Card | 395515 | [395515-plutos-ascent-celestial-card.json](./395515-plutos-ascent-celestial-card.json) |
 | Pluto's Sheep-Dog Day | 246516 | [246516-plutos-sheep-dog-day.json](./246516-plutos-sheep-dog-day.json) |
 | Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
@@ -6859,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
+| Politicide | 395516 | [395516-politicide.json](./395516-politicide.json) |
 | Politicking | 129689 | [129689-politicking.json](./129689-politicking.json) |
 | Políticos Memes Kombat | 273558 | [273558-politicos-memes-kombat.json](./273558-politicos-memes-kombat.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
@@ -9319,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Break//Down | 400524 | [400524-project-break-down.json](./400524-project-break-down.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
 | Project: Colt | 396528 | [396528-project-colt.json](./396528-project-colt.json) |
+| Project: Cube | 395473 | [395473-project-cube.json](./395473-project-cube.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Eden's Garden | 222895 | [222895-project-edens-garden.json](./222895-project-edens-garden.json) |
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
