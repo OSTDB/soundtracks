@@ -8085,11 +8085,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission Survive | 40682 | [40682-mission-survive.json](./40682-mission-survive.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
+| Mission to Jupiter | 387635 | [387635-mission-to-jupiter.json](./387635-mission-to-jupiter.json) |
+| Mission to Mars | 387554 | [387554-mission-to-mars.json](./387554-mission-to-mars.json) |
 | Mission To Mars 3D | 259566 | [259566-mission-to-mars-3d.json](./259566-mission-to-mars-3d.json) |
 | Mission to Mercury | 388209 | [388209-mission-to-mercury.json](./388209-mission-to-mercury.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
+| Mission to Saturn | 387565 | [387565-mission-to-saturn.json](./387565-mission-to-saturn.json) |
 | Mission to the Sun | 388210 | [388210-mission-to-the-sun.json](./388210-mission-to-the-sun.json) |
 | Mission to Uranus | 388207 | [388207-mission-to-uranus.json](./388207-mission-to-uranus.json) |
+| Mission to Venus | 387643 | [387643-mission-to-venus.json](./387643-mission-to-venus.json) |
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
@@ -10884,6 +10888,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Mix | 276278 | [276278-mr-mix.json](./276278-mr-mix.json) |
 | Mr. Mookie and the Runaway Cookie | 253493 | [253493-mr-mookie-and-the-runaway-cookie.json](./253493-mr-mookie-and-the-runaway-cookie.json) |
 | Mr. Mosquito | 246473 | [246473-mr-mosquito.json](./246473-mr-mosquito.json) |
+| Mr. Mothball | 387716 | [387716-mr-mothball.json](./387716-mr-mothball.json) |
+| Mr. Mothball 2: Cotton Carnage | 387717 | [387717-mr-mothball-2-cotton-carnage.json](./387717-mr-mothball-2-cotton-carnage.json) |
+| Mr. Mothball 3: Snowy Flakes | 387718 | [387718-mr-mothball-3-snowy-flakes.json](./387718-mr-mothball-3-snowy-flakes.json) |
+| Mr. Mothball 4: Zen Moth | 387721 | [387721-mr-mothball-4-zen-moth.json](./387721-mr-mothball-4-zen-moth.json) |
+| Mr. Mothball 5: Under the Cherry Tree | 387723 | [387723-mr-mothball-5-under-the-cherry-tree.json](./387723-mr-mothball-5-under-the-cherry-tree.json) |
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
 | Mr. Mudkip 3 | 323876 | [323876-mr-mudkip-3.json](./323876-mr-mudkip-3.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
