@@ -4114,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
+| China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
 | ChinanaGo! | 416732 | [416732-chinanago.json](./416732-chinanago.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
@@ -5075,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
+| Citizen of Rome - Dynasty Ascendant | 116958 | [116958-citizen-of-rome-dynasty-ascendant.json](./116958-citizen-of-rome-dynasty-ascendant.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Siege | 72778 | [72778-citizen-siege.json](./72778-citizen-siege.json) |
 | Citizen Sleeper | 152271 | [152271-citizen-sleeper.json](./152271-citizen-sleeper.json) |
@@ -5469,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
 | Classic Offensive | 250310 | [250310-classic-offensive.json](./250310-classic-offensive.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
+| Classic Racers | 115900 | [115900-classic-racers.json](./115900-classic-racers.json) |
 | Classic Racers Elite | 146787 | [146787-classic-racers-elite.json](./146787-classic-racers-elite.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
@@ -7516,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
+| Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
