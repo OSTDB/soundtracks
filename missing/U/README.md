@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending Aqua | 405732 | [405732-unending-aqua.json](./405732-unending-aqua.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | Unending Dusk | 104005 | [104005-unending-dusk.json](./104005-unending-dusk.json) |
+| Unending Galaxy | 33590 | [33590-unending-galaxy.json](./33590-unending-galaxy.json) |
 | Unepic | 3018 | [3018-unepic.json](./3018-unepic.json) |
 | UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
