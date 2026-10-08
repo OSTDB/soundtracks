@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Aegis: Gaiden | 192688 | [192688-dead-end-aegis-gaiden.json](./192688-dead-end-aegis-gaiden.json) |
 | Dead End Alley | 100764 | [100764-dead-end-alley.json](./100764-dead-end-alley.json) |
 | Dead End City | 197176 | [197176-dead-end-city.json](./197176-dead-end-city.json) |
+| Dead End Escape | 406068 | [406068-dead-end-escape.json](./406068-dead-end-escape.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
