@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
+| Gallipoli Trenches: The Forgotten Front WW1 | 390590 | [390590-gallipoli-trenches-the-forgotten-front-ww1.json](./390590-gallipoli-trenches-the-forgotten-front-ww1.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallium | 362417 | [362417-gallium.json](./362417-gallium.json) |
 | Gallop & Ride! | 51073 | [51073-gallop-and-ride.json](./51073-gallop-and-ride.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
 | Genocide 2: Genocide Square | 56417 | [56417-genocide-2-genocide-square.json](./56417-genocide-2-genocide-square.json) |
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
+| Genome Guardian 2 | 390598 | [390598-genome-guardian-2.json](./390598-genome-guardian-2.json) |
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
@@ -2242,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
+| Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Run | 53082 | [53082-ghost-run.json](./53082-ghost-run.json) |
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
