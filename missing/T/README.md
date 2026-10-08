@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
 | Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
+| Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
@@ -2873,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terrovox | 197254 | [197254-terrovox.json](./197254-terrovox.json) |
+| Terry Tales | 388274 | [388274-terry-tales.json](./388274-terry-tales.json) |
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
 | Terry's Big Adventure | 71732 | [71732-terrys-big-adventure.json](./71732-terrys-big-adventure.json) |
 | Terry's Other Games | 327820 | [327820-terrys-other-games.json](./327820-terrys-other-games.json) |
@@ -10800,6 +10802,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trade Prince | 256906 | [256906-the-trade-prince.json](./256906-the-trade-prince.json) |
 | The Traded Groom | 321352 | [321352-the-traded-groom.json](./321352-the-traded-groom.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
+| The Trader of Stories: Bell's Heart | 388277 | [388277-the-trader-of-stories-bells-heart.json](./388277-the-trader-of-stories-bells-heart.json) |
+| The Trader of Stories: Chapter II | 388275 | [388275-the-trader-of-stories-chapter-ii.json](./388275-the-trader-of-stories-chapter-ii.json) |
+| The Trader of Stories: Chapter III | 388276 | [388276-the-trader-of-stories-chapter-iii.json](./388276-the-trader-of-stories-chapter-iii.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
 | The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
