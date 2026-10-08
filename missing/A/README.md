@@ -8641,8 +8641,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Shadows: Gold Edition | 301518 | [301518-assassins-creed-shadows-gold-edition.json](./301518-assassins-creed-shadows-gold-edition.json) |
 | Assassin's Creed Shadows: Limited Edition | 301517 | [301517-assassins-creed-shadows-limited-edition.json](./301517-assassins-creed-shadows-limited-edition.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
+| Assassin's Creed Syndicate: A Long Night | 399890 | [399890-assassins-creed-syndicate-a-long-night.json](./399890-assassins-creed-syndicate-a-long-night.json) |
+| Assassin's Creed Syndicate: Runaway Train | 399891 | [399891-assassins-creed-syndicate-runaway-train.json](./399891-assassins-creed-syndicate-runaway-train.json) |
+| Assassin's Creed Syndicate: Season Pass | 399893 | [399893-assassins-creed-syndicate-season-pass.json](./399893-assassins-creed-syndicate-season-pass.json) |
 | Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
+| Assassin's Creed Unity: The Fleur-de-Lys | 399892 | [399892-assassins-creed-unity-the-fleur-de-lys.json](./399892-assassins-creed-unity-the-fleur-de-lys.json) |
 | Assassin's Creed Unity: Underground Armory Pack | 316131 | [316131-assassins-creed-unity-underground-armory-pack.json](./316131-assassins-creed-unity-underground-armory-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
