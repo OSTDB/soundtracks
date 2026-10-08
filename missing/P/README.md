@@ -8004,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
+| Prey the Stars | 21337 | [21337-prey-the-stars.json](./21337-prey-the-stars.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prey: An Alien Encounter | 38843 | [38843-prey-an-alien-encounter.json](./38843-prey-an-alien-encounter.json) |
 | Prey: Limited Collector's Edition | 47397 | [47397-prey-limited-collectors-edition.json](./47397-prey-limited-collectors-edition.json) |
@@ -10407,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
+| Puzzlegeddon | 21139 | [21139-puzzlegeddon.json](./21139-puzzlegeddon.json) |
 | Puzzlejuice | 22682 | [22682-puzzlejuice.json](./22682-puzzlejuice.json) |
 | PuzzleKid | 133164 | [133164-puzzlekid.json](./133164-puzzlekid.json) |
 | PuzzleLand | 261997 | [261997-puzzleland.json](./261997-puzzleland.json) |
