@@ -8144,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuka: A Summer Memory | 206006 | [206006-fuuka-a-summer-memory.json](./206006-fuuka-a-summer-memory.json) |
 | Fuuraiki | 64665 | [64665-fuuraiki.json](./64665-fuuraiki.json) |
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
+| Fuuu...! | 390168 | [390168-fuuu.json](./390168-fuuu.json) |
 | Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
 | Fuuun Shaolin Ken | 376690 | [376690-fuuun-shaolin-ken.json](./376690-fuuun-shaolin-ken.json) |
 | Fuuun Shaolin Kyo: Ankoku no Maou | 74011 | [74011-fuuun-shaolin-kyo-ankoku-no-maou.json](./74011-fuuun-shaolin-kyo-ankoku-no-maou.json) |
