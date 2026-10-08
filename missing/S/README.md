@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Saya: Immoral Labyrinth | 97993 | [97993-saya-immoral-labyrinth.json](./97993-saya-immoral-labyrinth.json) |
+| Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
@@ -4271,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai.EXE: Genso Network | 142121 | [142121-shanghai-exe-genso-network.json](./142121-shanghai-exe-genso-network.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
+| Shanhai: Spirits of Myth | 419970 | [419970-shanhai-spirits-of-myth.json](./419970-shanhai-spirits-of-myth.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
 | Shank | 7518 | [7518-shank.json](./7518-shank.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrinking Planet | 182932 | [182932-shrinking-planet.json](./182932-shrinking-planet.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
+| Shroom & Blade | 419982 | [419982-shroom-and-blade.json](./419982-shroom-and-blade.json) |
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
@@ -11885,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceMerc | 55696 | [55696-spacemerc.json](./55696-spacemerc.json) |
 | SpacePod | 142319 | [142319-spacepod.json](./142319-spacepod.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
+| Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
 | Spaceport Assault | 336667 | [336667-spaceport-assault.json](./336667-spaceport-assault.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
@@ -12945,6 +12949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterworld: Rick to Kyoufu no Daiou | 377793 | [377793-splatterworld-rick-to-kyoufu-no-daiou.json](./377793-splatterworld-rick-to-kyoufu-no-daiou.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Spleen | 118140 | [118140-spleen.json](./118140-spleen.json) |
+| Spleen | 419990 | [419990-spleen.json](./419990-spleen.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
 | Splendor: The Cities | 162870 | [162870-splendor-the-cities.json](./162870-splendor-the-cities.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
@@ -15726,6 +15731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
 | Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
+| Still Sorting | 419995 | [419995-still-sorting.json](./419995-still-sorting.json) |
 | Still Stars Echo | 369703 | [369703-still-stars-echo.json](./369703-still-stars-echo.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
