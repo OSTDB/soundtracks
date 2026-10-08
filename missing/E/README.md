@@ -3446,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
+| Ethereal Enigma | 120480 | [120480-ethereal-enigma.json](./120480-ethereal-enigma.json) |
 | Ethereal Storm | 405045 | [405045-ethereal-storm.json](./405045-ethereal-storm.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
 | Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
