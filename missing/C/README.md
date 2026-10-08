@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
+| Cards of Cthulhu | 31146 | [31146-cards-of-cthulhu.json](./31146-cards-of-cthulhu.json) |
 | Cards of Curse | 97997 | [97997-cards-of-curse.json](./97997-cards-of-curse.json) |
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
@@ -6138,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cockroach Clicker | 371337 | [371337-cockroach-clicker.json](./371337-cockroach-clicker.json) |
 | cockroach Planet Survival | 115528 | [115528-cockroach-planet-survival.json](./115528-cockroach-planet-survival.json) |
+| Cockroach Simulator | 31329 | [31329-cockroach-simulator.json](./31329-cockroach-simulator.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cocktail Harmony | 60599 | [60599-cocktail-harmony.json](./60599-cocktail-harmony.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
@@ -6431,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Hill | 153897 | [153897-cold-hill.json](./153897-cold-hill.json) |
 | Cold House | 190092 | [190092-cold-house.json](./190092-cold-house.json) |
 | Cold in the Dark | 180062 | [180062-cold-in-the-dark.json](./180062-cold-in-the-dark.json) |
+| Cold Iron: Quick Draw Western Duels | 30768 | [30768-cold-iron-quick-draw-western-duels.json](./30768-cold-iron-quick-draw-western-duels.json) |
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
 | Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
@@ -9517,6 +9520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Chess | 142103 | [142103-creature-chess.json](./142103-creature-chess.json) |
+| Creature Clicker: Capture, Train, Ascend! | 31274 | [31274-creature-clicker-capture-train-ascend.json](./31274-creature-clicker-capture-train-ascend.json) |
 | Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
@@ -10122,6 +10126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
+| CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
 | Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
@@ -11029,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curro Jimenez | 272298 | [272298-curro-jimenez.json](./272298-curro-jimenez.json) |
 | Curry House CoCo Ichibanya: Kyou mo Genki da! Curry ga Umai!! | 138550 | [138550-curry-house-coco-ichibanya-kyou-mo-genki-da-curry-ga-umai.json](./138550-curry-house-coco-ichibanya-kyou-mo-genki-da-curry-ga-umai.json) |
 | CurryKitten FPV Simulator | 169443 | [169443-currykitten-fpv-simulator.json](./169443-currykitten-fpv-simulator.json) |
+| Curse | 31822 | [31822-curse.json](./31822-curse.json) |
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
