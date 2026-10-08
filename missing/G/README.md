@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
+| Gobliiins Collection | 403213 | [403213-gobliiins-collection.json](./403213-gobliiins-collection.json) |
 | Gobliiins Pack | 154937 | [154937-gobliiins-pack.json](./154937-gobliiins-pack.json) |
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
 | Gobliins 2: The Prince Buffoon | 1931 | [1931-gobliins-2-the-prince-buffoon.json](./1931-gobliins-2-the-prince-buffoon.json) |
@@ -4648,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Legend | 245381 | [245381-granny-legend.json](./245381-granny-legend.json) |
 | Granny Remake | 255022 | [255022-granny-remake.json](./255022-granny-remake.json) |
 | Granny Simulator | 103568 | [103568-granny-simulator.json](./103568-granny-simulator.json) |
+| Granny Strikes Back | 403086 | [403086-granny-strikes-back.json](./403086-granny-strikes-back.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granny: Escape Together | 324118 | [324118-granny-escape-together.json](./324118-granny-escape-together.json) |
 | Granny's Gotcha | 343414 | [343414-grannys-gotcha.json](./343414-grannys-gotcha.json) |
@@ -5490,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia: Phantom Trigger 01 to 05 | 142752 | [142752-grisaia-phantom-trigger-01-to-05.json](./142752-grisaia-phantom-trigger-01-to-05.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
+| Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
