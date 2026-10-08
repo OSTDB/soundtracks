@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
 | Hamster All-Stars | 144121 | [144121-hamster-all-stars.json](./144121-hamster-all-stars.json) |
 | Hamster and the Village of Sun | 414167 | [414167-hamster-and-the-village-of-sun.json](./414167-hamster-and-the-village-of-sun.json) |
+| Hamster Ball | 392858 | [392858-hamster-ball.json](./392858-hamster-ball.json) |
 | Hamster Ballers | 409623 | [409623-hamster-ballers.json](./409623-hamster-ballers.json) |
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
 | Hamster Bob | 147862 | [147862-hamster-bob.json](./147862-hamster-bob.json) |
