@@ -5137,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
 | Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
+| Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig! | 341070 | [341070-dig.json](./341070-dig.json) |
@@ -10827,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
+| Dusk Hunters | 402561 | [402561-dusk-hunters.json](./402561-dusk-hunters.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
