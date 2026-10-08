@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Clone Left | 33270 | [33270-one-clone-left.json](./33270-one-clone-left.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
+| One Day for Ched | 10647 | [10647-one-day-for-ched.json](./10647-one-day-for-ched.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
@@ -1705,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
+| Onikira: Demon Killer | 10642 | [10642-onikira-demon-killer.json](./10642-onikira-demon-killer.json) |
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
 | Onimod Land | 74992 | [74992-onimod-land.json](./74992-onimod-land.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
@@ -1712,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha 3: Demon Siege | 11758 | [11758-onimusha-3-demon-siege.json](./11758-onimusha-3-demon-siege.json) |
 | Onimusha Soul | 63642 | [63642-onimusha-soul.json](./63642-onimusha-soul.json) |
 | Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
+| Onimusha: Blade Warriors | 10551 | [10551-onimusha-blade-warriors.json](./10551-onimusha-blade-warriors.json) |
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
@@ -3284,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override: Mech City Brawl - Stardust | 161791 | [161791-override-mech-city-brawl-stardust.json](./161791-override-mech-city-brawl-stardust.json) |
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
+| Overruled | 10648 | [10648-overruled.json](./10648-overruled.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
