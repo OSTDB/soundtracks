@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Sun | 244915 | [244915-second-sun.json](./244915-second-sun.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second to Nun | 189949 | [189949-second-to-nun.json](./189949-second-to-nun.json) |
+| Second Warfare | 35158 | [35158-second-warfare.json](./35158-second-warfare.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
@@ -7474,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slain: Back from Hell | 18509 | [18509-slain-back-from-hell.json](./18509-slain-back-from-hell.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
+| Slam | 35046 | [35046-slam.json](./35046-slam.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
@@ -8790,6 +8792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
 | Sniper Strike: Special Ops | 261423 | [261423-sniper-strike-special-ops.json](./261423-sniper-strike-special-ops.json) |
 | Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
+| Sniper Tactical | 35143 | [35143-sniper-tactical.json](./35143-sniper-tactical.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
@@ -11241,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Doubt | 26420 | [26420-space-doubt.json](./26420-space-doubt.json) |
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
+| Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drop | 290505 | [290505-space-drop.json](./290505-space-drop.json) |
 | Space Drop | 99773 | [99773-space-drop.json](./99773-space-drop.json) |
@@ -14538,6 +14542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
+| Stargazer | 35173 | [35173-stargazer.json](./35173-stargazer.json) |
 | Stargazer Christmas | 30685 | [30685-stargazer-christmas.json](./30685-stargazer-christmas.json) |
 | Stargazer program | 99070 | [99070-stargazer-program.json](./99070-stargazer-program.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
@@ -15800,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | Stones of Solace | 120284 | [120284-stones-of-solace.json](./120284-stones-of-solace.json) |
+| Stones of Sorrow | 35170 | [35170-stones-of-sorrow.json](./35170-stones-of-sorrow.json) |
 | Stones of the Revenant | 131987 | [131987-stones-of-the-revenant.json](./131987-stones-of-the-revenant.json) |
 | Stones of Yalmrith | 102944 | [102944-stones-of-yalmrith.json](./102944-stones-of-yalmrith.json) |
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
