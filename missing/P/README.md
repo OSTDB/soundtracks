@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
 | Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
+| Pixel Sand | 28378 | [28378-pixel-sand.json](./28378-pixel-sand.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
@@ -5809,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
+| Plutonium | 28597 | [28597-plutonium.json](./28597-plutonium.json) |
 | Plutonium Pirates | 102363 | [102363-plutonium-pirates.json](./102363-plutonium-pirates.json) |
 | Plutonium T6 Multiplayer | 315118 | [315118-plutonium-t6-multiplayer.json](./315118-plutonium-t6-multiplayer.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
