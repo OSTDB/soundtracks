@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
+| Elven Rivers VII: The Crimson Tide | 420567 | [420567-elven-rivers-vii-the-crimson-tide.json](./420567-elven-rivers-vii-the-crimson-tide.json) |
 | Elven Rivers VII: The Crimson Tide - Collector's Edition | 386356 | [386356-elven-rivers-vii-the-crimson-tide-collectors-edition.json](./386356-elven-rivers-vii-the-crimson-tide-collectors-edition.json) |
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
 | Elven Truth | 149434 | [149434-elven-truth.json](./149434-elven-truth.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
+| Emberlost | 420529 | [420529-emberlost.json](./420529-emberlost.json) |
 | Emberrush | 264706 | [264706-emberrush.json](./264706-emberrush.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
@@ -3442,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Survival | 341100 | [341100-eternal-survival.json](./341100-eternal-survival.json) |
 | Eternal Threads | 116400 | [116400-eternal-threads.json](./116400-eternal-threads.json) |
 | Eternal Tombs | 186118 | [186118-eternal-tombs.json](./186118-eternal-tombs.json) |
+| Eternal Towers | 420598 | [420598-eternal-towers.json](./420598-eternal-towers.json) |
 | Eternal Tree | 199967 | [199967-eternal-tree.json](./199967-eternal-tree.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
