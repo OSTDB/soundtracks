@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
 | Wheel of Fortune | 287301 | [287301-wheel-of-fortune.json](./287301-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
+| Wheel of Fortune | 64480 | [64480-wheel-of-fortune.json](./64480-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cartridge #1 | 198965 | [198965-wheel-of-fortune-cartridge-1.json](./198965-wheel-of-fortune-cartridge-1.json) |
 | Wheel of Fortune Cartridge #2 | 198966 | [198966-wheel-of-fortune-cartridge-2.json](./198966-wheel-of-fortune-cartridge-2.json) |
@@ -5114,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 87594 | [87594-worms.json](./87594-worms.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
+| Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
