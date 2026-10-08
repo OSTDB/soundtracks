@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
+| Emergency 2017 | 31411 | [31411-emergency-2017.json](./31411-emergency-2017.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emo Quest XD | 280879 | [280879-emo-quest-xd.json](./280879-emo-quest-xd.json) |
 | Emoceans | 180783 | [180783-emoceans.json](./180783-emoceans.json) |
 | Emogame 1: A Get-Up Kidnapping! | 358403 | [358403-emogame-1-a-get-up-kidnapping.json](./358403-emogame-1-a-get-up-kidnapping.json) |
+| Emoj.io | 31227 | [31227-emoj-io.json](./31227-emoj-io.json) |
 | Emoji 2 Words: Guess and Sort | 232053 | [232053-emoji-2-words-guess-and-sort.json](./232053-emoji-2-words-guess-and-sort.json) |
 | Emoji Arena | 125941 | [125941-emoji-arena.json](./125941-emoji-arena.json) |
 | Emoji Battlefield: Sky Massacre | 406798 | [406798-emoji-battlefield-sky-massacre.json](./406798-emoji-battlefield-sky-massacre.json) |
