@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
+| Achievement Lurker: Respectable Accomplishment | 74625 | [74625-achievement-lurker-respectable-accomplishment.json](./74625-achievement-lurker-respectable-accomplishment.json) |
 | Achievement Lurker: We Give Up! | 81624 | [81624-achievement-lurker-we-give-up.json](./81624-achievement-lurker-we-give-up.json) |
 | Achievement Monster | 368535 | [368535-achievement-monster.json](./368535-achievement-monster.json) |
 | Achievement Simulator | 131447 | [131447-achievement-simulator.json](./131447-achievement-simulator.json) |
