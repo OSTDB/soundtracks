@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask | 39126 | [39126-mask.json](./39126-mask.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
+| Mask It | 414824 | [414824-mask-it.json](./414824-mask-it.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Fury | 86419 | [86419-mask-of-fury.json](./86419-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
@@ -4597,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Match | 209530 | [209530-mega-match.json](./209530-mega-match.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
 | Mega Maze | 44287 | [44287-mega-maze.json](./44287-mega-maze.json) |
+| Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
@@ -9567,6 +9569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Rover | 148126 | [148126-moon-rover.json](./148126-moon-rover.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
 | Moon Samurai | 298238 | [298238-moon-samurai.json](./298238-moon-samurai.json) |
+| Moon Shop Simulator | 414865 | [414865-moon-shop-simulator.json](./414865-moon-shop-simulator.json) |
 | Moon Shuttle | 18701 | [18701-moon-shuttle.json](./18701-moon-shuttle.json) |
 | Moon Slasher | 185108 | [185108-moon-slasher.json](./185108-moon-slasher.json) |
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
