@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
+| Manic: Unknown World | 394758 | [394758-manic-unknown-world.json](./394758-manic-unknown-world.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
 | Meteos: Disney Magic | 1166 | [1166-meteos-disney-magic.json](./1166-meteos-disney-magic.json) |
 | Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
+| Method | 394776 | [394776-method.json](./394776-method.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
@@ -9228,12 +9230,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 2: Wings of Ruin | 138951 | [138951-monster-hunter-stories-2-wings-of-ruin.json](./138951-monster-hunter-stories-2-wings-of-ruin.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament | 412286 | [412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json](./412286-monster-hunter-stories-3-twisted-reflection-accessory-crystalline-ornament.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman | 412284 | [412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json](./412284-monster-hunter-stories-3-twisted-reflection-accessory-fang-talisman.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Accessory: Gold Circlet | 394805 | [394805-monster-hunter-stories-3-twisted-reflection-accessory-gold-circlet.json](./394805-monster-hunter-stories-3-twisted-reflection-accessory-gold-circlet.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Ornament of Bonds | 412282 | [412282-monster-hunter-stories-3-twisted-reflection-accessory-ornament-of-bonds.json](./412282-monster-hunter-stories-3-twisted-reflection-accessory-ornament-of-bonds.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Pearl Earrings | 412287 | [412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json](./412287-monster-hunter-stories-3-twisted-reflection-accessory-pearl-earrings.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Protective Band | 412285 | [412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json](./412285-monster-hunter-stories-3-twisted-reflection-accessory-protective-band.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle | 412283 | [412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json](./412283-monster-hunter-stories-3-twisted-reflection-accessory-royal-monocle.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Goss Hairagy | 378869 | [378869-monster-hunter-stories-3-twisted-reflection-goss-hairagy.json](./378869-monster-hunter-stories-3-twisted-reflection-goss-hairagy.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Hellfire Tail | 378870 | [378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json](./378870-monster-hunter-stories-3-twisted-reflection-hellfire-tail.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Simon: Wind Wyvern's Friend | 394804 | [394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json](./394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward | 378874 | [378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json](./378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
@@ -9417,6 +9421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
+| Monster Truck Demolition Derby | 394803 | [394803-monster-truck-demolition-derby.json](./394803-monster-truck-demolition-derby.json) |
 | Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
 | Monster Truck Fury | 70032 | [70032-monster-truck-fury.json](./70032-monster-truck-fury.json) |
