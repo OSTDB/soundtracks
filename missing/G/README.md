@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
+| Galge Masque:Rade | 416881 | [416881-galge-masque-rade.json](./416881-galge-masque-rade.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
@@ -1482,6 +1483,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
+| Gelocity 1 vs 1 | 416791 | [416791-gelocity-1-vs-1.json](./416791-gelocity-1-vs-1.json) |
+| Gelocity Time Trial | 416792 | [416792-gelocity-time-trial.json](./416792-gelocity-time-trial.json) |
 | Gem | 265126 | [265126-gem.json](./265126-gem.json) |
 | Gem Beasts | 379860 | [379860-gem-beasts.json](./379860-gem-beasts.json) |
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
