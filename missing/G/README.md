@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Play City Sports | 51076 | [51076-go-play-city-sports.json](./51076-go-play-city-sports.json) |
 | Go Play Lumberjacks | 51077 | [51077-go-play-lumberjacks.json](./51077-go-play-lumberjacks.json) |
 | Go Professional II | 84473 | [84473-go-professional-ii.json](./84473-go-professional-ii.json) |
+| Go Quest | 400528 | [400528-go-quest.json](./400528-go-quest.json) |
 | Go Quirk! | 340552 | [340552-go-quirk.json](./340552-go-quirk.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | Goban | 95567 | [95567-goban.json](./95567-goban.json) |
+| Gobang Beginner | 400529 | [400529-gobang-beginner.json](./400529-gobang-beginner.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
@@ -5122,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Light | 393827 | [393827-green-light.json](./393827-green-light.json) |
 | Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Magic | 359080 | [359080-green-magic.json](./359080-green-magic.json) |
+| Green Mist Over Portland | 400558 | [400558-green-mist-over-portland.json](./400558-green-mist-over-portland.json) |
 | Green Moon 2 | 31773 | [31773-green-moon-2.json](./31773-green-moon-2.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
@@ -5466,6 +5469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Mindset | 368578 | [368578-grind-mindset.json](./368578-grind-mindset.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
+| Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
