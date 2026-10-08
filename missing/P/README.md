@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Master VR | 75202 | [75202-paddle-master-vr.json](./75202-paddle-master-vr.json) |
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
+| Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Paddles | 214558 | [214558-paddles.json](./214558-paddles.json) |
@@ -3714,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piglet's Big Game | 4066 | [4066-piglets-big-game.json](./4066-piglets-big-game.json) |
 | PigMan | 93508 | [93508-pigman.json](./93508-pigman.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
+| Pigmentone | 32240 | [32240-pigmentone.json](./32240-pigmentone.json) |
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
@@ -4965,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
 | Pixels Out of Space | 186253 | [186253-pixels-out-of-space.json](./186253-pixels-out-of-space.json) |
 | Pixels With Comics | 260247 | [260247-pixels-with-comics.json](./260247-pixels-with-comics.json) |
+| Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
