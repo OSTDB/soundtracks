@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tanbi Musou: Meine Liebe | 49825 | [49825-tanbi-musou-meine-liebe.json](./49825-tanbi-musou-meine-liebe.json) |
+| Tandem Together | 418260 | [418260-tandem-together.json](./418260-tandem-together.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
 | Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
+| Taxi Crew Simulator | 418319 | [418319-taxi-crew-simulator.json](./418319-taxi-crew-simulator.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi Goldmania | 336665 | [336665-taxi-goldmania.json](./336665-taxi-goldmania.json) |
@@ -8771,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
+| The Pit Is Hungry | 418320 | [418320-the-pit-is-hungry.json](./418320-the-pit-is-hungry.json) |
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
 | The Pit: Infinity - Juggernaut | 168186 | [168186-the-pit-infinity-juggernaut.json](./168186-the-pit-infinity-juggernaut.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
@@ -15692,6 +15695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
+| Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
 | Touhou Kourinden: Mythos of Phantasmagoria | 289935 | [289935-touhou-kourinden-mythos-of-phantasmagoria.json](./289935-touhou-kourinden-mythos-of-phantasmagoria.json) |
 | Touhou Kourokuen: Glorious and Huge Singer | 377213 | [377213-touhou-kourokuen-glorious-and-huge-singer.json](./377213-touhou-kourokuen-glorious-and-huge-singer.json) |
 | Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
@@ -18837,6 +18841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
+| Tunebound | 418296 | [418296-tunebound.json](./418296-tunebound.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
