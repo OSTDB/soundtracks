@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidless | 244914 | [244914-voidless.json](./244914-voidless.json) |
 | Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
+| Voidling Bound | 341400 | [341400-voidling-bound.json](./341400-voidling-bound.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
