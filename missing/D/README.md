@@ -5566,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 5: Year One Edition | 164796 | [164796-dirt-5-year-one-edition.json](./164796-dirt-5-year-one-edition.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
+| Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
@@ -6674,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogma no Hakoniwa | 394543 | [394543-dogma-no-hakoniwa.json](./394543-dogma-no-hakoniwa.json) |
 | Dogma: Eternal Night | 110306 | [110306-dogma-eternal-night.json](./110306-dogma-eternal-night.json) |
 | Dogman | 141214 | [141214-dogman.json](./141214-dogman.json) |
+| Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
