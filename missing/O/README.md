@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
 | Out-Class Hunter | 215209 | [215209-out-class-hunter.json](./215209-out-class-hunter.json) |
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
+| Outage Navigation | 398038 | [398038-outage-navigation.json](./398038-outage-navigation.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outblight | 415325 | [415325-outblight.json](./415325-outblight.json) |
