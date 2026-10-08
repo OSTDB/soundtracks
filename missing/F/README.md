@@ -3258,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Nemo: The Continuing Adventures | 49269 | [49269-finding-nemo-the-continuing-adventures.json](./49269-finding-nemo-the-continuing-adventures.json) |
+| Finding Ruby | 417356 | [417356-finding-ruby.json](./417356-finding-ruby.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
 | Finding Teddy 2: Definitive Edition | 132059 | [132059-finding-teddy-2-definitive-edition.json](./132059-finding-teddy-2-definitive-edition.json) |
@@ -4885,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Games: Couch Party Pack | 311049 | [311049-flux-games-couch-party-pack.json](./311049-flux-games-couch-party-pack.json) |
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
+| Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | FLW Professional Bass Tournament 2000 | 74028 | [74028-flw-professional-bass-tournament-2000.json](./74028-flw-professional-bass-tournament-2000.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
@@ -6925,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
+| Frog Adventure | 417347 | [417347-frog-adventure.json](./417347-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
 | Frog Bard | 338312 | [338312-frog-bard.json](./338312-frog-bard.json) |
