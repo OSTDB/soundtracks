@@ -1856,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juju | 17393 | [17393-juju.json](./17393-juju.json) |
 | Jujubos | 170936 | [170936-jujubos.json](./170936-jujubos.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
+| Jujutsu Kaisen Rumble: Survivaton | 405441 | [405441-jujutsu-kaisen-rumble-survivaton.json](./405441-jujutsu-kaisen-rumble-survivaton.json) |
 | Jujutsu Kaisen: Cursed Clash | 255396 | [255396-jujutsu-kaisen-cursed-clash.json](./255396-jujutsu-kaisen-cursed-clash.json) |
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
 | Jujutsu Kaisen: Cursed Clash - Kyoto Jujutsu High School Girls' Outfit Set | 317959 | [317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json](./317959-jujutsu-kaisen-cursed-clash-kyoto-jujutsu-high-school-girls-outfit-set.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Dream | 65788 | [65788-just-a-dream.json](./65788-just-a-dream.json) |
 | Just A Game | 167864 | [167864-just-a-game.json](./167864-just-a-game.json) |
 | Just a Game to Test Your lQ | 168625 | [168625-just-a-game-to-test-your-lq.json](./168625-just-a-game-to-test-your-lq.json) |
+| Just a Gun | 405558 | [405558-just-a-gun.json](./405558-just-a-gun.json) |
 | Just a Jumping Square | 87186 | [87186-just-a-jumping-square.json](./87186-just-a-jumping-square.json) |
 | Just a Little Longer | 406317 | [406317-just-a-little-longer.json](./406317-just-a-little-longer.json) |
 | Just a Little Purr Suit | 326228 | [326228-just-a-little-purr-suit.json](./326228-just-a-little-purr-suit.json) |
