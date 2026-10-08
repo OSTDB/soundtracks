@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kristal Mağara | 235269 | [235269-kristal-magara.json](./235269-kristal-magara.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
+| Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
 | Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
