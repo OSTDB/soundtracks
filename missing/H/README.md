@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatos | 57748 | [57748-heatos.json](./57748-heatos.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
+| Heatseeker | 4910 | [4910-heatseeker.json](./4910-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
 | Heatwarped | 414518 | [414518-heatwarped.json](./414518-heatwarped.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
@@ -4308,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
 | High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
+| High School Musical 3: Senior Year Dance | 4912 | [4912-high-school-musical-3-senior-year-dance.json](./4912-high-school-musical-3-senior-year-dance.json) |
 | High School Musical Makin' the Cut! | 44063 | [44063-high-school-musical-makin-the-cut.json](./44063-high-school-musical-makin-the-cut.json) |
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
 | High School Musical: DVD Game | 228419 | [228419-high-school-musical-dvd-game.json](./228419-high-school-musical-dvd-game.json) |
@@ -5237,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Run Derby VR | 100337 | [100337-home-run-derby-vr.json](./100337-home-run-derby-vr.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
+| Home Run King | 3947 | [3947-home-run-king.json](./3947-home-run-king.json) |
 | Home Run Stars | 20236 | [20236-home-run-stars.json](./20236-home-run-stars.json) |
 | Home Runtaro | 257009 | [257009-home-runtaro.json](./257009-home-runtaro.json) |
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
@@ -7346,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
 | Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
+| Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
 | Hyzer Sky | 138566 | [138566-hyzer-sky.json](./138566-hyzer-sky.json) |
