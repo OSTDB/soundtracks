@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat, Sleep, Repeat | 179008 | [179008-eat-sleep-repeat.json](./179008-eat-sleep-repeat.json) |
 | Eat: The Revolution | 76637 | [76637-eat-the-revolution.json](./76637-eat-the-revolution.json) |
 | Eat'em All : Bite the Fruit! | 102290 | [102290-eatem-all-bite-the-fruit.json](./102290-eatem-all-bite-the-fruit.json) |
+| Eaten Alive | 34441 | [34441-eaten-alive.json](./34441-eaten-alive.json) |
 | Eaten by Darkness | 235747 | [235747-eaten-by-darkness.json](./235747-eaten-by-darkness.json) |
 | EatFish | 303501 | [303501-eatfish.json](./303501-eatfish.json) |
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
