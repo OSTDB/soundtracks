@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of Sentinels | 264152 | [264152-call-of-sentinels.json](./264152-call-of-sentinels.json) |
+| Call of Smoking Snakes | 420568 | [420568-call-of-smoking-snakes.json](./420568-call-of-smoking-snakes.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of the Elder Gods | 347882 | [347882-call-of-the-elder-gods.json](./347882-call-of-the-elder-gods.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
 | Cards & Tankards | 143354 | [143354-cards-and-tankards.json](./143354-cards-and-tankards.json) |
 | Cards +1 | 182850 | [182850-cards-1.json](./182850-cards-1.json) |
+| Cards after Midnight | 420538 | [420538-cards-after-midnight.json](./420538-cards-after-midnight.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
@@ -3576,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
 | Chef | 247653 | [247653-chef.json](./247653-chef.json) |
+| Chef Bacon | 420571 | [420571-chef-bacon.json](./420571-chef-bacon.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
@@ -3706,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
 | Chess Evolved Online | 58624 | [58624-chess-evolved-online.json](./58624-chess-evolved-online.json) |
+| Chess Folk | 420519 | [420519-chess-folk.json](./420519-chess-folk.json) |
 | Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
 | Chess for Kids: Play & Learn | 90183 | [90183-chess-for-kids-play-and-learn.json](./90183-chess-for-kids-play-and-learn.json) |
 | Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
@@ -7532,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
 | Conduits | 338883 | [338883-conduits.json](./338883-conduits.json) |
 | Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
+| Cone Punk | 420575 | [420575-cone-punk.json](./420575-cone-punk.json) |
 | Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
@@ -8329,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
+| Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
 | Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Collector | 341676 | [341676-corpse-collector.json](./341676-corpse-collector.json) |
@@ -9783,6 +9789,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
+| Crime Podcast: 1976 | 420520 | [420520-crime-podcast-1976.json](./420520-crime-podcast-1976.json) |
+| Crime Podcast: Welcome to the Neighborhood | 420528 | [420528-crime-podcast-welcome-to-the-neighborhood.json](./420528-crime-podcast-welcome-to-the-neighborhood.json) |
 | Crime Scene | 21653 | [21653-crime-scene.json](./21653-crime-scene.json) |
 | Crime Scene | 232948 | [232948-crime-scene.json](./232948-crime-scene.json) |
 | Crime Scene Cleaner | 115830 | [115830-crime-scene-cleaner.json](./115830-crime-scene-cleaner.json) |
