@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Arkanoid | 232919 | [232919-candy-arkanoid.json](./232919-candy-arkanoid.json) |
 | Candy Bandit | 154579 | [154579-candy-bandit.json](./154579-candy-bandit.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
+| Candy Bandits | 392221 | [392221-candy-bandits.json](./392221-candy-bandits.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
 | Category I: Shisenjou no Survivor | 221682 | [221682-category-i-shisenjou-no-survivor.json](./221682-category-i-shisenjou-no-survivor.json) |
+| Caten Village | 392313 | [392313-caten-village.json](./392313-caten-village.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
@@ -8407,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
+| Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
@@ -8843,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
 | Countermark Saga Frozen sword | 116834 | [116834-countermark-saga-frozen-sword.json](./116834-countermark-saga-frozen-sword.json) |
+| Countermark Saga: League Gods | 392316 | [392316-countermark-saga-league-gods.json](./392316-countermark-saga-league-gods.json) |
 | Countermark Saga: The Tale of Fariz | 326209 | [326209-countermark-saga-the-tale-of-fariz.json](./326209-countermark-saga-the-tale-of-fariz.json) |
 | Countermeasure | 12306 | [12306-countermeasure.json](./12306-countermeasure.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
