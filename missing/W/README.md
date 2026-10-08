@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
 | Wasted Bloodline | 338254 | [338254-wasted-bloodline.json](./338254-wasted-bloodline.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
+| Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | Wastelan Wars | 242513 | [242513-wastelan-wars.json](./242513-wastelan-wars.json) |
 | Wasteland 2: Director's Cut | 20046 | [20046-wasteland-2-directors-cut.json](./20046-wasteland-2-directors-cut.json) |
