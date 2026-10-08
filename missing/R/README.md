@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
 | Recipe for Disaster | 146273 | [146273-recipe-for-disaster.json](./146273-recipe-for-disaster.json) |
+| Recipe For Disaster | 398022 | [398022-recipe-for-disaster.json](./398022-recipe-for-disaster.json) |
 | Recipe For Love | 177354 | [177354-recipe-for-love.json](./177354-recipe-for-love.json) |
 | Recipe of Love | 376709 | [376709-recipe-of-love.json](./376709-recipe-of-love.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
@@ -3730,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
+| Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
