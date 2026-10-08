@@ -7144,6 +7144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Queen | 46500 | [46500-combo-queen.json](./46500-combo-queen.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
+| ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
@@ -7390,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Dare & Destroy | 398517 | [398517-company-of-heroes-3-dare-and-destroy.json](./398517-company-of-heroes-3-dare-and-destroy.json) |
 | Company of Heroes 3: Endure & Defy | 376703 | [376703-company-of-heroes-3-endure-and-defy.json](./376703-company-of-heroes-3-endure-and-defy.json) |
+| Company of Heroes 3: Final Stand | 408852 | [408852-company-of-heroes-3-final-stand.json](./408852-company-of-heroes-3-final-stand.json) |
 | Company of Heroes 3: Fire & Steel | 333222 | [333222-company-of-heroes-3-fire-and-steel.json](./333222-company-of-heroes-3-fire-and-steel.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Company of Heroes 3: Hammer & Shield Battlegroup Pack | 400401 | [400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json](./400401-company-of-heroes-3-hammer-and-shield-battlegroup-pack.json) |
@@ -8419,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
+| Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
@@ -10957,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
 | Cubic Worlds | 262287 | [262287-cubic-worlds.json](./262287-cubic-worlds.json) |
+| Cubical | 408745 | [408745-cubical.json](./408745-cubical.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
