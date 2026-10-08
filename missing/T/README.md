@@ -9407,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
+| The Seduction of Shaqeera | 113135 | [113135-the-seduction-of-shaqeera.json](./113135-the-seduction-of-shaqeera.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
 | The Seeker | 24814 | [24814-the-seeker.json](./24814-the-seeker.json) |
@@ -13706,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
+| Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
@@ -16042,6 +16044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
+| Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
@@ -17388,6 +17391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
 | Trap for the Heir | 287724 | [287724-trap-for-the-heir.json](./287724-trap-for-the-heir.json) |
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
+| Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
 | Trap Master | 65000 | [65000-trap-master.json](./65000-trap-master.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
