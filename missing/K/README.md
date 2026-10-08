@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaigrad | 163969 | [163969-kaigrad.json](./163969-kaigrad.json) |
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
+| Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
