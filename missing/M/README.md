@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango's Fisharium | 348890 | [348890-mangos-fisharium.json](./348890-mangos-fisharium.json) |
 | Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
+| Mangrove Express | 408107 | [408107-mangrove-express.json](./408107-mangrove-express.json) |
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
+| MemGrid | 408104 | [408104-memgrid.json](./408104-memgrid.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memo Box - Memory Challenges | 108625 | [108625-memo-box-memory-challenges.json](./108625-memo-box-memory-challenges.json) |
 | Memo R.I.P. | 400411 | [400411-memo-r-i-p.json](./400411-memo-r-i-p.json) |
@@ -9082,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Evolution | 191066 | [191066-monster-evolution.json](./191066-monster-evolution.json) |
 | Monster evolution: hit and smash | 101955 | [101955-monster-evolution-hit-and-smash.json](./101955-monster-evolution-hit-and-smash.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
+| Monster Fantasy | 407994 | [407994-monster-fantasy.json](./407994-monster-fantasy.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fight | 196665 | [196665-monster-fight.json](./196665-monster-fight.json) |
 | Monster Fighter | 199360 | [199360-monster-fighter.json](./199360-monster-fighter.json) |
@@ -10094,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortui: Outbreak Secrets | 287874 | [287874-mortui-outbreak-secrets.json](./287874-mortui-outbreak-secrets.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
 | Mortuus Insanis | 63098 | [63098-mortuus-insanis.json](./63098-mortuus-insanis.json) |
+| Morvus | 407997 | [407997-morvus.json](./407997-morvus.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mos Speedrun | 92279 | [92279-mos-speedrun.json](./92279-mos-speedrun.json) |
@@ -11488,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Unlimited: The Day After - Episode 03 | 143339 | [143339-muv-luv-unlimited-the-day-after-episode-03.json](./143339-muv-luv-unlimited-the-day-after-episode-03.json) |
 | Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
+| Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
 | MV Mazes | 150272 | [150272-mv-mazes.json](./150272-mv-mazes.json) |
