@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
+| Gassy GaoGao | 405545 | [405545-gassy-gaogao.json](./405545-gassy-gaogao.json) |
 | Gassy Mob | 59816 | [59816-gassy-mob.json](./59816-gassy-mob.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastro Force | 197221 | [197221-gastro-force.json](./197221-gastro-force.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Chaser Densei | 15828 | [15828-ghost-chaser-densei.json](./15828-ghost-chaser-densei.json) |
 | Ghost College | 150640 | [150640-ghost-college.json](./150640-ghost-college.json) |
 | Ghost College: Hotel Fright - Chapter 1 | 193427 | [193427-ghost-college-hotel-fright-chapter-1.json](./193427-ghost-college-hotel-fright-chapter-1.json) |
+| Ghost Control | 405546 | [405546-ghost-control.json](./405546-ghost-control.json) |
 | Ghost Croquet | 32751 | [32751-ghost-croquet.json](./32751-ghost-croquet.json) |
 | Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
