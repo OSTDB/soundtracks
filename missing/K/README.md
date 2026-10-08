@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
 | Killerball | 84211 | [84211-killerball.json](./84211-killerball.json) |
 | KillerMUD | 112253 | [112253-killermud.json](./112253-killermud.json) |
+| Killest Fights Craw-Mech | 399900 | [399900-killest-fights-craw-mech.json](./399900-killest-fights-craw-mech.json) |
 | Killfest | 232932 | [232932-killfest.json](./232932-killfest.json) |
 | Killflow | 400500 | [400500-killflow.json](./400500-killflow.json) |
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
