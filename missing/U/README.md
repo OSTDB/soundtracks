@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
+| Unforsaken | 396743 | [396743-unforsaken.json](./396743-unforsaken.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
