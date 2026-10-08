@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
+| Manifest Anything | 387098 | [387098-manifest-anything.json](./387098-manifest-anything.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
 | Manifesto | 388347 | [388347-manifesto.json](./388347-manifesto.json) |
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
@@ -3106,9 +3107,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Monsters | 387016 | [387016-master-of-monsters.json](./387016-master-of-monsters.json) |
 | Master of Monsters | 387018 | [387018-master-of-monsters.json](./387018-master-of-monsters.json) |
 | Master of Monsters | 74049 | [74049-master-of-monsters.json](./74049-master-of-monsters.json) |
+| Master of Monsters 4: Hikari to Yami no Souha | 387095 | [387095-master-of-monsters-4-hikari-to-yami-no-souha.json](./387095-master-of-monsters-4-hikari-to-yami-no-souha.json) |
+| Master of Monsters Final: Rings of Twilight | 387033 | [387033-master-of-monsters-final-rings-of-twilight.json](./387033-master-of-monsters-final-rings-of-twilight.json) |
 | Master of Monsters II | 111902 | [111902-master-of-monsters-ii.json](./111902-master-of-monsters-ii.json) |
 | Master of Monsters III | 111905 | [111905-master-of-monsters-iii.json](./111905-master-of-monsters-iii.json) |
 | Master of Monsters SSB | 351172 | [351172-master-of-monsters-ssb.json](./351172-master-of-monsters-ssb.json) |
+| Master of Monsters: Mado-ou no Shiren | 387092 | [387092-master-of-monsters-mado-ou-no-shiren.json](./387092-master-of-monsters-mado-ou-no-shiren.json) |
 | Master of Music | 279058 | [279058-master-of-music.json](./279058-master-of-music.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
@@ -6511,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
 | Midnight Faerie | 176371 | [176371-midnight-faerie.json](./176371-midnight-faerie.json) |
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
+| Midnight Files: Missing in Forest Lake | 387054 | [387054-midnight-files-missing-in-forest-lake.json](./387054-midnight-files-missing-in-forest-lake.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
@@ -6753,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
+| Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
@@ -12793,6 +12799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
+| Mystic Shroom | 387061 | [387061-mystic-shroom.json](./387061-mystic-shroom.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
