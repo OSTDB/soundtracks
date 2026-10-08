@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Seven Sirens | 116589 | [116589-shantae-and-the-seven-sirens.json](./116589-shantae-and-the-seven-sirens.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
+| Shantae: Half-Genie Hero - Friends to the End | 76945 | [76945-shantae-half-genie-hero-friends-to-the-end.json](./76945-shantae-half-genie-hero-friends-to-the-end.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
 | Shantae: Risky's Revenge | 11782 | [11782-shantae-riskys-revenge.json](./11782-shantae-riskys-revenge.json) |
@@ -8504,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
 | Snake Eyes | 208983 | [208983-snake-eyes.json](./208983-snake-eyes.json) |
 | Snake Eyes | 369733 | [369733-snake-eyes.json](./369733-snake-eyes.json) |
+| Snake Eyes Dungeon | 76940 | [76940-snake-eyes-dungeon.json](./76940-snake-eyes-dungeon.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
 | Snake Galaxy Online | 276970 | [276970-snake-galaxy-online.json](./276970-snake-galaxy-online.json) |
@@ -9542,6 +9544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
+| Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
@@ -9797,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror: One Shot Challenge | 273565 | [273565-song-of-horror-one-shot-challenge.json](./273565-song-of-horror-one-shot-challenge.json) |
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
+| Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
 | Song of Nunu: A League of Legends Story | 182190 | [182190-song-of-nunu-a-league-of-legends-story.json](./182190-song-of-nunu-a-league-of-legends-story.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
@@ -12764,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
+| SpiritSphere DX | 78142 | [78142-spiritsphere-dx.json](./78142-spiritsphere-dx.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
@@ -14468,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
+| StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
@@ -16007,6 +16013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
+| Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
@@ -20133,6 +20140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
+| Swap Fire | 77773 | [77773-swap-fire.json](./77773-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
