@@ -609,7 +609,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
 | Ecstasy / Light / Inertia | 256908 | [256908-ecstasy-light-inertia.json](./256908-ecstasy-light-inertia.json) |
 | Ecstatic | 204546 | [204546-ecstatic.json](./204546-ecstatic.json) |
+| Ecstatica | 414857 | [414857-ecstatica.json](./414857-ecstatica.json) |
 | Ecstatica II | 15479 | [15479-ecstatica-ii.json](./15479-ecstatica-ii.json) |
+| Ecstatica II | 414855 | [414855-ecstatica-ii.json](./414855-ecstatica-ii.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | Ectolibrium | 110770 | [110770-ectolibrium.json](./110770-ectolibrium.json) |
