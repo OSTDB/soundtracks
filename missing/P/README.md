@@ -7110,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poolcore: Submersion | 354485 | [354485-poolcore-submersion.json](./354485-poolcore-submersion.json) |
 | Poolgame | 222962 | [222962-poolgame.json](./222962-poolgame.json) |
+| Pooliminal | 412202 | [412202-pooliminal.json](./412202-pooliminal.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
 | Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
