@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Dragon Slayer: The Legend of Heroes II PC-8801mkIISR | 328526 | [328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json](./328526-eggconsole-dragon-slayer-the-legend-of-heroes-ii-pc-8801mkiisr.json) |
 | Eggconsole Dragon Slayer: The Legend of Heroes PC-8801mkIISR | 316195 | [316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json](./316195-eggconsole-dragon-slayer-the-legend-of-heroes-pc-8801mkiisr.json) |
 | Eggconsole Eggy PC-8801 | 389053 | [389053-eggconsole-eggy-pc-8801.json](./389053-eggconsole-eggy-pc-8801.json) |
+| Eggconsole Elthlead PC-8801mkIISR | 412116 | [412116-eggconsole-elthlead-pc-8801mkiisr.json](./412116-eggconsole-elthlead-pc-8801mkiisr.json) |
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
