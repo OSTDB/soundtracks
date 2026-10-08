@@ -10636,6 +10636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
 | Soul Brave | 338321 | [338321-soul-brave.json](./338321-soul-brave.json) |
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
+| Soul Bubbles | 21370 | [21370-soul-bubbles.json](./21370-soul-bubbles.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
@@ -10682,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Maze | 388345 | [388345-soul-maze.json](./388345-soul-maze.json) |
 | Soul Merger | 216873 | [216873-soul-merger.json](./216873-soul-merger.json) |
 | Soul Mirror Relics | 345657 | [345657-soul-mirror-relics.json](./345657-soul-mirror-relics.json) |
+| Soul Nomad & the World Eaters | 21235 | [21235-soul-nomad-and-the-world-eaters.json](./21235-soul-nomad-and-the-world-eaters.json) |
 | Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
 | Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
 | Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
@@ -14023,6 +14025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
+| Star Trek: D-A-C | 21195 | [21195-star-trek-d-a-c.json](./21195-star-trek-d-a-c.json) |
 | Star Trek: Deep Space Nine - Crossroads of Time | 3280 | [3280-star-trek-deep-space-nine-crossroads-of-time.json](./3280-star-trek-deep-space-nine-crossroads-of-time.json) |
 | Star Trek: Deep Space Nine - Dominion Wars | 3282 | [3282-star-trek-deep-space-nine-dominion-wars.json](./3282-star-trek-deep-space-nine-dominion-wars.json) |
 | Star Trek: Deep Space Nine - The Fallen | 3281 | [3281-star-trek-deep-space-nine-the-fallen.json](./3281-star-trek-deep-space-nine-the-fallen.json) |
@@ -16285,6 +16288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Thugz | 254661 | [254661-street-thugz.json](./254661-street-thugz.json) |
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
+| Street Trace: NYC | 21306 | [21306-street-trace-nyc.json](./21306-street-trace-nyc.json) |
 | Street Tuning Evolution | 112494 | [112494-street-tuning-evolution.json](./112494-street-tuning-evolution.json) |
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
@@ -16874,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
@@ -20106,6 +20111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
+| Swashbucklers: Blue vs. Grey | 21508 | [21508-swashbucklers-blue-vs-grey.json](./21508-swashbucklers-blue-vs-grey.json) |
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
@@ -20417,6 +20423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch: Or Die Trying | 31968 | [31968-switch-or-die-trying.json](./31968-switch-or-die-trying.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
+| Switchball | 21522 | [21522-switchball.json](./21522-switchball.json) |
 | Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 12369 | [12369-switchblade-ii.json](./12369-switchblade-ii.json) |
