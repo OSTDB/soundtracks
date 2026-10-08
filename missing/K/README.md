@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Vikings | 130247 | [130247-king-of-vikings.json](./130247-king-of-vikings.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
+| King Out | 422141 | [422141-king-out.json](./422141-king-out.json) |
 | King Pins | 140452 | [140452-king-pins.json](./140452-king-pins.json) |
 | King Rabbit: Puzzle | 111196 | [111196-king-rabbit-puzzle.json](./111196-king-rabbit-puzzle.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
