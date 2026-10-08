@@ -5761,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
 | Please the Gods | 119590 | [119590-please-the-gods.json](./119590-please-the-gods.json) |
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
+| Please Weave the Red Stars Into a Shroud for Wrapping the Corpse | 392315 | [392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json](./392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please, Forgive Me | 256995 | [256995-please-forgive-me.json](./256995-please-forgive-me.json) |
@@ -7974,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precision Platform Bundle | 331487 | [331487-precision-platform-bundle.json](./331487-precision-platform-bundle.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Precision Sniping: Competitive | 93785 | [93785-precision-sniping-competitive.json](./93785-precision-sniping-competitive.json) |
+| Precognition Dream's Greenhouse | 392240 | [392240-precognition-dreams-greenhouse.json](./392240-precognition-dreams-greenhouse.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
