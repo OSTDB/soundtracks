@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Run: Turbo Edition | 132670 | [132670-bad-run-turbo-edition.json](./132670-bad-run-turbo-edition.json) |
 | Bad Santa | 226240 | [226240-bad-santa.json](./226240-bad-santa.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
+| Bad Shooter 2 | 55284 | [55284-bad-shooter-2.json](./55284-bad-shooter-2.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
@@ -6073,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Tuner | 124253 | [124253-block-tuner.json](./124253-block-tuner.json) |
 | Block Twist Challenge | 338250 | [338250-block-twist-challenge.json](./338250-block-twist-challenge.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
+| Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
@@ -6212,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
+| Blood 'n Bikinis | 54815 | [54815-blood-n-bikinis.json](./54815-blood-n-bikinis.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
 | Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
 | Blood 'n' Guts | 380107 | [380107-blood-n-guts.json](./380107-blood-n-guts.json) |
