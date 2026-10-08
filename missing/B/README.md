@@ -10121,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
+| Bunny’s Rent-a-Mom Agency | 392841 | [392841-bunny-s-rent-a-mom-agency.json](./392841-bunny-s-rent-a-mom-agency.json) |
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
 | Bunnymare: Circus Escape | 120234 | [120234-bunnymare-circus-escape.json](./120234-bunnymare-circus-escape.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
