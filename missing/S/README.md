@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
 | SeaWolf VR | 196676 | [196676-seawolf-vr.json](./196676-seawolf-vr.json) |
 | Seawolves: Submarines on Hunt | 206636 | [206636-seawolves-submarines-on-hunt.json](./206636-seawolves-submarines-on-hunt.json) |
+| Seaworks: Trap Season | 412234 | [412234-seaworks-trap-season.json](./412234-seaworks-trap-season.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 4099 | [4099-seaworld-adventure-park-shamus-deep-sea-adventures.json](./4099-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
@@ -4476,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Bot | 242084 | [242084-shatter-bot.json](./242084-shatter-bot.json) |
 | Shatter Everything | 96692 | [96692-shatter-everything.json](./96692-shatter-everything.json) |
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
+| Shatter Knight | 412206 | [412206-shatter-knight.json](./412206-shatter-knight.json) |
 | Shatter Point | 343988 | [343988-shatter-point.json](./343988-shatter-point.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
 | Shatter Sky | 148676 | [148676-shatter-sky.json](./148676-shatter-sky.json) |
@@ -7901,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Knight | 364041 | [364041-slime-knight.json](./364041-slime-knight.json) |
+| Slime Knight | 412203 | [412203-slime-knight.json](./412203-slime-knight.json) |
 | Slime Lab | 418582 | [418582-slime-lab.json](./418582-slime-lab.json) |
 | Slime Labs | 152791 | [152791-slime-labs.json](./152791-slime-labs.json) |
 | Slime Land Adventures | 220056 | [220056-slime-land-adventures.json](./220056-slime-land-adventures.json) |
@@ -8686,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaky Tickets | 125785 | [125785-snaky-tickets.json](./125785-snaky-tickets.json) |
 | Snaliens | 128346 | [128346-snaliens.json](./128346-snaliens.json) |
 | Snap & Grab | 347669 | [347669-snap-and-grab.json](./347669-snap-and-grab.json) |
+| Snap & Print | 412248 | [412248-snap-and-print.json](./412248-snap-and-print.json) |
 | Snap Flex | 334169 | [334169-snap-flex.json](./334169-snap-flex.json) |
 | Snap Game | 397705 | [397705-snap-game.json](./397705-snap-game.json) |
 | Snap Glide: Rhythm Dash | 414342 | [414342-snap-glide-rhythm-dash.json](./414342-snap-glide-rhythm-dash.json) |
@@ -17741,6 +17745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset 20 Drone Racer | 151069 | [151069-sunset-20-drone-racer.json](./151069-sunset-20-drone-racer.json) |
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
+| Sunset Artisan Chocolate | 412247 | [412247-sunset-artisan-chocolate.json](./412247-sunset-artisan-chocolate.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
@@ -20003,6 +20008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
 | SurviBall | 339473 | [339473-surviball.json](./339473-surviball.json) |
+| SurviRail: Deep Space | 412193 | [412193-survirail-deep-space.json](./412193-survirail-deep-space.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survisland | 105015 | [105015-survisland.json](./105015-survisland.json) |
 | Survius | 322684 | [322684-survius.json](./322684-survius.json) |
