@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
 | Dead End Aegis: Gaiden | 192688 | [192688-dead-end-aegis-gaiden.json](./192688-dead-end-aegis-gaiden.json) |
 | Dead End Alley | 100764 | [100764-dead-end-alley.json](./100764-dead-end-alley.json) |
+| Dead End Beam | 398671 | [398671-dead-end-beam.json](./398671-dead-end-beam.json) |
 | Dead End City | 197176 | [197176-dead-end-city.json](./197176-dead-end-city.json) |
 | Dead End Escape | 406068 | [406068-dead-end-escape.json](./406068-dead-end-escape.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
@@ -4215,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Times | 31705 | [31705-desperate-times.json](./31705-desperate-times.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
+| Despertar | 398666 | [398666-despertar.json](./398666-despertar.json) |
 | Despicable Bear | 86852 | [86852-despicable-bear.json](./86852-despicable-bear.json) |
 | Despicable Boss | 344501 | [344501-despicable-boss.json](./344501-despicable-boss.json) |
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
@@ -5262,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
 | Digital Hitz Factory | 43217 | [43217-digital-hitz-factory.json](./43217-digital-hitz-factory.json) |
+| Digital Hyperspace Retrograde | 398655 | [398655-digital-hyperspace-retrograde.json](./398655-digital-hyperspace-retrograde.json) |
 | Digital Jigsaw Puzzle | 104015 | [104015-digital-jigsaw-puzzle.json](./104015-digital-jigsaw-puzzle.json) |
 | Digital Keiba Shinbun: My Trackman | 283300 | [283300-digital-keiba-shinbun-my-trackman.json](./283300-digital-keiba-shinbun-my-trackman.json) |
 | Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
@@ -6591,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Ood Escape | 250480 | [250480-doctor-who-ood-escape.json](./250480-doctor-who-ood-escape.json) |
 | Doctor Who: Say What You See | 301934 | [301934-doctor-who-say-what-you-see.json](./301934-doctor-who-say-what-you-see.json) |
 | Doctor Who: Sonic De-Cloaker | 250486 | [250486-doctor-who-sonic-de-cloaker.json](./250486-doctor-who-sonic-de-cloaker.json) |
+| Doctor Who: Split | 398627 | [398627-doctor-who-split.json](./398627-doctor-who-split.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
 | Doctor Who: The Adventure Games - Episode 3: TARDIS | 66439 | [66439-doctor-who-the-adventure-games-episode-3-tardis.json](./66439-doctor-who-the-adventure-games-episode-3-tardis.json) |
@@ -10182,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
+| Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duelyst Origins | 318636 | [318636-duelyst-origins.json](./318636-duelyst-origins.json) |
