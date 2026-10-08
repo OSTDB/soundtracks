@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
 | Yìnéng Chóngzǔ | 373704 | [373704-yineng-chongzu.json](./373704-yineng-chongzu.json) |
+| Yīngxióng Qúnxiá Zhuàn II | 120390 | [120390-yingxiong-qunxia-zhuan-ii.json](./120390-yingxiong-qunxia-zhuan-ii.json) |
 | Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
 | Yīngyǔ Shā | 164237 | [164237-yingyu-sha.json](./164237-yingyu-sha.json) |
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
