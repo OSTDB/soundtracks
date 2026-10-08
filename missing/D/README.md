@@ -3171,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
 | Defence War | 131322 | [131322-defence-war.json](./131322-defence-war.json) |
+| Defend Against Cats | 388169 | [388169-defend-against-cats.json](./388169-defend-against-cats.json) |
 | Defend Earth: Xenos Survivors | 320738 | [320738-defend-earth-xenos-survivors.json](./320738-defend-earth-xenos-survivors.json) |
 | Defend from Candyland! | 186675 | [186675-defend-from-candyland.json](./186675-defend-from-candyland.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
@@ -5526,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Strike | 85563 | [85563-dino-strike.json](./85563-dino-strike.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
+| Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
 | Dino Tribe: New Era | 309366 | [309366-dino-tribe-new-era.json](./309366-dino-tribe-new-era.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
@@ -7747,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
 | Dopamine Hit | 342894 | [342894-dopamine-hit.json](./342894-dopamine-hit.json) |
+| Dopaminer | 388170 | [388170-dopaminer.json](./388170-dopaminer.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
