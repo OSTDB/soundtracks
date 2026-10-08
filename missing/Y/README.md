@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsume God | 202709 | [202709-yotsume-god.json](./202709-yotsume-god.json) |
+| Yotsunoha | 401170 | [401170-yotsunoha.json](./401170-yotsunoha.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
 | You | 372568 | [372568-you.json](./372568-you.json) |
 | You All Know! Arm Tank Volley | 390269 | [390269-you-all-know-arm-tank-volley.json](./390269-you-all-know-arm-tank-volley.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouTube Snake | 239129 | [239129-youtube-snake.json](./239129-youtube-snake.json) |
 | YouTube: Missile Command | 337716 | [337716-youtube-missile-command.json](./337716-youtube-missile-command.json) |
 | Youtuber Boys: Love Behind the Camera | 403722 | [403722-youtuber-boys-love-behind-the-camera.json](./403722-youtuber-boys-love-behind-the-camera.json) |
+| Youtuber Girls: Love Behind the Camera | 404266 | [404266-youtuber-girls-love-behind-the-camera.json](./404266-youtuber-girls-love-behind-the-camera.json) |
 | Youtubers Clicker | 54332 | [54332-youtubers-clicker.json](./54332-youtubers-clicker.json) |
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
@@ -1246,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuna and the Haunted Hot Springs: Steam Dungeon | 104818 | [104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json](./104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json) |
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
+| Yuuri to Marin ha Iyashite Agetai | 401180 | [401180-yuuri-to-marin-ha-iyashite-agetai.json](./401180-yuuri-to-marin-ha-iyashite-agetai.json) |
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | Yuusha Exkaiser: Geister wo Taose! | 284453 | [284453-yuusha-exkaiser-geister-wo-taose.json](./284453-yuusha-exkaiser-geister-wo-taose.json) |
