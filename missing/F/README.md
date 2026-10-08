@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
+| Falling words | 100483 | [100483-falling-words.json](./100483-falling-words.json) |
 | Fallingstar | 177865 | [177865-fallingstar.json](./177865-fallingstar.json) |
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
@@ -1198,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 24: Deserted Island | 86401 | [86401-fantasy-mosaics-24-deserted-island.json](./86401-fantasy-mosaics-24-deserted-island.json) |
 | Fantasy Mosaics 25: Wedding Ceremony | 86402 | [86402-fantasy-mosaics-25-wedding-ceremony.json](./86402-fantasy-mosaics-25-wedding-ceremony.json) |
 | Fantasy Mosaics 26: Fairytale Garden | 86406 | [86406-fantasy-mosaics-26-fairytale-garden.json](./86406-fantasy-mosaics-26-fairytale-garden.json) |
+| Fantasy Mosaics 28: Treasure Map | 100772 | [100772-fantasy-mosaics-28-treasure-map.json](./100772-fantasy-mosaics-28-treasure-map.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
 | Fantasy Mosaics 35: Day at the Museum | 188525 | [188525-fantasy-mosaics-35-day-at-the-museum.json](./188525-fantasy-mosaics-35-day-at-the-museum.json) |
@@ -7591,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Ride Simulator 3: Ride Pack 4 | 162271 | [162271-funfair-ride-simulator-3-ride-pack-4.json](./162271-funfair-ride-simulator-3-ride-pack-4.json) |
 | Funfair Ride Simulator 3: Ride Pack 5 | 162269 | [162269-funfair-ride-simulator-3-ride-pack-5.json](./162269-funfair-ride-simulator-3-ride-pack-5.json) |
 | Funfair Ride Simulator 3: Ride Pack 6 | 162270 | [162270-funfair-ride-simulator-3-ride-pack-6.json](./162270-funfair-ride-simulator-3-ride-pack-6.json) |
+| Funfair Ride Simulator 4 | 100770 | [100770-funfair-ride-simulator-4.json](./100770-funfair-ride-simulator-4.json) |
 | Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
 | FunFly | 175198 | [175198-funfly.json](./175198-funfly.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
@@ -7967,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
+| Future Proof | 100420 | [100420-future-proof.json](./100420-future-proof.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Reality | 177302 | [177302-future-reality.json](./177302-future-reality.json) |
 | Future Reality: Racing League | 217364 | [217364-future-reality-racing-league.json](./217364-future-reality-racing-league.json) |
