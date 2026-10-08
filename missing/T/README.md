@@ -6513,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Hulk: Ultimate Destruction | 3954 | [3954-the-incredible-hulk-ultimate-destruction.json](./3954-the-incredible-hulk-ultimate-destruction.json) |
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
 | The Incredible Machine 3 | 9263 | [9263-the-incredible-machine-3.json](./9263-the-incredible-machine-3.json) |
+| The Incredible Maze | 21792 | [21792-the-incredible-maze.json](./21792-the-incredible-maze.json) |
 | The Incredible Toon Machine | 13778 | [13778-the-incredible-toon-machine.json](./13778-the-incredible-toon-machine.json) |
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles | 210442 | [210442-the-incredibles.json](./210442-the-incredibles.json) |
@@ -6609,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
+| The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
 | The Island of Robot Poets | 419870 | [419870-the-island-of-robot-poets.json](./419870-the-island-of-robot-poets.json) |
 | The Island of Spirits | 149227 | [149227-the-island-of-spirits.json](./149227-the-island-of-spirits.json) |
@@ -8315,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Netrunner Awaken1ng | 182393 | [182393-the-netrunner-awaken1ng.json](./182393-the-netrunner-awaken1ng.json) |
+| The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
 | The Never-Ending Sleepover | 370785 | [370785-the-never-ending-sleepover.json](./370785-the-never-ending-sleepover.json) |
 | The NeverEnding Story | 13020 | [13020-the-neverending-story.json](./13020-the-neverending-story.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
@@ -18987,6 +18990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
+| TV Show King | 21825 | [21825-tv-show-king.json](./21825-tv-show-king.json) |
 | TV Show King 2 | 50724 | [50724-tv-show-king-2.json](./50724-tv-show-king-2.json) |
 | TV Show King Party | 5248 | [5248-tv-show-king-party.json](./5248-tv-show-king-party.json) |
 | TV Show Tycoon | 302059 | [302059-tv-show-tycoon.json](./302059-tv-show-tycoon.json) |
