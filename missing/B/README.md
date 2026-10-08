@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad animals: Rabbit | 227978 | [227978-bad-animals-rabbit.json](./227978-bad-animals-rabbit.json) |
 | Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
+| Bad ass babes | 31265 | [31265-bad-ass-babes.json](./31265-bad-ass-babes.json) |
 | Bad Atom Episode 1 | 70622 | [70622-bad-atom-episode-1.json](./70622-bad-atom-episode-1.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro T23: Pack #2 | 322732 | [322732-barro-t23-pack-2.json](./322732-barro-t23-pack-2.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
 | Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
+| Barrow Hill: The Dark Path | 31509 | [31509-barrow-hill-the-dark-path.json](./31509-barrow-hill-the-dark-path.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
 | Barry Bradford's Putt Panic Party | 122865 | [122865-barry-bradfords-putt-panic-party.json](./122865-barry-bradfords-putt-panic-party.json) |
 | Barry Has a Secret | 102173 | [102173-barry-has-a-secret.json](./102173-barry-has-a-secret.json) |
@@ -2966,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beastfall | 381252 | [381252-beastfall.json](./381252-beastfall.json) |
+| Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
 | Beasties | 192384 | [192384-beasties.json](./192384-beasties.json) |
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
