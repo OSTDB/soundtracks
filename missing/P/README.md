@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
+| Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes | 186033 | [186033-popgoes.json](./186033-popgoes.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch It Deluxe | 192158 | [192158-punch-it-deluxe.json](./192158-punch-it-deluxe.json) |
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
+| Punch Line | 11775 | [11775-punch-line.json](./11775-punch-line.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
 | Punch Mania Hokuto no Ken 2: Gekitou Shura no Kuni Hen | 64166 | [64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json](./64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json) |
