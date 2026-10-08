@@ -5336,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
+| Shootout on Cash Island | 28998 | [28998-shootout-on-cash-island.json](./28998-shootout-on-cash-island.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
@@ -8441,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
+| Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
@@ -11647,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tower Defense | 195556 | [195556-space-tower-defense.json](./195556-space-tower-defense.json) |
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
+| Space Trader: Merchant Marine | 29191 | [29191-space-trader-merchant-marine.json](./29191-space-trader-merchant-marine.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Transfer | 109887 | [109887-space-transfer.json](./109887-space-transfer.json) |
 | Space Transport Tycoon | 152737 | [152737-space-transport-tycoon.json](./152737-space-transport-tycoon.json) |
@@ -11925,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
 | Spartan | 208845 | [208845-spartan.json](./208845-spartan.json) |
 | Spartan | 66895 | [66895-spartan.json](./66895-spartan.json) |
+| Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
