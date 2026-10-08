@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sandwalkers | 165392 | [165392-sandwalkers.json](./165392-sandwalkers.json) |
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
+| Sandwich +1 | 397380 | [397380-sandwich-1.json](./397380-sandwich-1.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
 | Sandwich Shop Simulator | 407379 | [407379-sandwich-shop-simulator.json](./407379-sandwich-shop-simulator.json) |
@@ -2336,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
 | Sè Sè Fādǒu | 373716 | [373716-se-se-fadou.json](./373716-se-se-fadou.json) |
+| Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
@@ -2918,8 +2920,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
 | Seen | 142972 | [142972-seen.json](./142972-seen.json) |
+| Seen in Liberty City | 397372 | [397372-seen-in-liberty-city.json](./397372-seen-in-liberty-city.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
+| Seer | 397381 | [397381-seer.json](./397381-seer.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | Seethe and Scab | 194359 | [194359-seethe-and-scab.json](./194359-seethe-and-scab.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
@@ -6212,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Thunder: A-10 Tank Killer II | 871 | [871-silent-thunder-a-10-tank-killer-ii.json](./871-silent-thunder-a-10-tank-killer-ii.json) |
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
+| Silent Water | 397415 | [397415-silent-water.json](./397415-silent-water.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
@@ -21026,6 +21031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Twilight | 12791 | [12791-swords-of-twilight.json](./12791-swords-of-twilight.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
+| Swordsman | 397420 | [397420-swordsman.json](./397420-swordsman.json) |
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
 | Swordsman | 86195 | [86195-swordsman.json](./86195-swordsman.json) |
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
