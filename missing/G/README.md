@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tube | 76912 | [76912-game-tube.json](./76912-game-tube.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game Tycoon 1.5 | 16964 | [16964-game-tycoon-1-5.json](./16964-game-tycoon-1-5.json) |
+| Game Type | 35177 | [35177-game-type.json](./35177-game-type.json) |
 | Game Type DX | 208040 | [208040-game-type-dx.json](./208040-game-type-dx.json) |
 | Game With Balls | 356839 | [356839-game-with-balls.json](./356839-game-with-balls.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl & Scarecrow | 404331 | [404331-girl-and-scarecrow.json](./404331-girl-and-scarecrow.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
 | Girl Adventure | 181738 | [181738-girl-adventure.json](./181738-girl-adventure.json) |
+| Girl Amazon Survival | 35159 | [35159-girl-amazon-survival.json](./35159-girl-amazon-survival.json) |
 | Girl and Demon 1 | 212829 | [212829-girl-and-demon-1.json](./212829-girl-and-demon-1.json) |
 | Girl and Goblin | 103810 | [103810-girl-and-goblin.json](./103810-girl-and-goblin.json) |
 | Girl Blonde | 74178 | [74178-girl-blonde.json](./74178-girl-blonde.json) |
@@ -6263,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
 | Gunpoint | 3242 | [3242-gunpoint.json](./3242-gunpoint.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
+| Gunpowder | 35117 | [35117-gunpowder.json](./35117-gunpowder.json) |
 | Gunpowder Massacre | 301259 | [301259-gunpowder-massacre.json](./301259-gunpowder-massacre.json) |
 | Gunpowder on the Teeth: Arcade | 113764 | [113764-gunpowder-on-the-teeth-arcade.json](./113764-gunpowder-on-the-teeth-arcade.json) |
 | Gunpowder Punk | 237299 | [237299-gunpowder-punk.json](./237299-gunpowder-punk.json) |
