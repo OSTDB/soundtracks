@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle | 359084 | [359084-jigsaw-puzzle.json](./359084-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 94953 | [94953-jigsaw-puzzle.json](./94953-jigsaw-puzzle.json) |
 | Jigsaw Puzzle Bug | 167672 | [167672-jigsaw-puzzle-bug.json](./167672-jigsaw-puzzle-bug.json) |
+| Jigsaw Puzzle by MobilityWare | 90982 | [90982-jigsaw-puzzle-by-mobilityware.json](./90982-jigsaw-puzzle-by-mobilityware.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
 | Jigsaw Puzzle Dreams | 167128 | [167128-jigsaw-puzzle-dreams.json](./167128-jigsaw-puzzle-dreams.json) |
 | Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
+| Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
@@ -2257,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
 | Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
+| Jurassic Park: The Game 3 HD | 90866 | [90866-jurassic-park-the-game-3-hd.json](./90866-jurassic-park-the-game-3-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
 | Jurassic Racer - Dinosaur Racing Game | 100330 | [100330-jurassic-racer-dinosaur-racing-game.json](./100330-jurassic-racer-dinosaur-racing-game.json) |
