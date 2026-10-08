@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
 | Scene It? Box Office Smash | 7181 | [7181-scene-it-box-office-smash.json](./7181-scene-it-box-office-smash.json) |
+| Scene It? Bright Lights! Big Screen! | 5141 | [5141-scene-it-bright-lights-big-screen.json](./5141-scene-it-bright-lights-big-screen.json) |
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Doctor Who | 213945 | [213945-scene-it-doctor-who.json](./213945-scene-it-doctor-who.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
@@ -4185,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Chou Senjiryakketsu 3 | 68232 | [68232-shaman-king-chou-senjiryakketsu-3.json](./68232-shaman-king-chou-senjiryakketsu-3.json) |
 | Shaman King: Funbari Spirits | 68246 | [68246-shaman-king-funbari-spirits.json](./68246-shaman-king-funbari-spirits.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
+| Shaman King: Soul Fight | 4147 | [4147-shaman-king-soul-fight.json](./4147-shaman-king-soul-fight.json) |
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
@@ -4456,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shaun White Snowboarding | 5152 | [5152-shaun-white-snowboarding.json](./5152-shaun-white-snowboarding.json) |
+| Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
@@ -12085,6 +12088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
+| Speed Kings | 4163 | [4163-speed-kings.json](./4163-speed-kings.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
@@ -16378,6 +16382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
 | Strike Force 2: Terrorist Hunt | 147654 | [147654-strike-force-2-terrorist-hunt.json](./147654-strike-force-2-terrorist-hunt.json) |
 | Strike Force 2004 | 273012 | [273012-strike-force-2004.json](./273012-strike-force-2004.json) |
+| Strike Force Bowling | 4185 | [4185-strike-force-bowling.json](./4185-strike-force-bowling.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
@@ -17697,6 +17702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bub Contest | 221786 | [221786-super-bub-contest.json](./221786-super-bub-contest.json) |
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
+| Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
