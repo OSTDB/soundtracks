@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game de Hakken!! Tamagotchi: Osutchi & Mesutchi | 69250 | [69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json](./69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json) |
 | Game de Raku-raku Nou-tre | 251521 | [251521-game-de-raku-raku-nou-tre.json](./251521-game-de-raku-raku-nou-tre.json) |
 | Game de Seishun | 131320 | [131320-game-de-seishun.json](./131320-game-de-seishun.json) |
+| Game Design at WVU Arcade | 408025 | [408025-game-design-at-wvu-arcade.json](./408025-game-design-at-wvu-arcade.json) |
 | Game Dev Company | 153490 | [153490-game-dev-company.json](./153490-game-dev-company.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
@@ -4563,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
 | Grand Theft Auto V: Special Edition | 45131 | [45131-grand-theft-auto-v-special-edition.json](./45131-grand-theft-auto-v-special-edition.json) |
 | Grand Theft Auto VI | 52189 | [52189-grand-theft-auto-vi.json](./52189-grand-theft-auto-vi.json) |
+| Grand Theft Auto VI: Ultimate Edition | 407999 | [407999-grand-theft-auto-vi-ultimate-edition.json](./407999-grand-theft-auto-vi-ultimate-edition.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
