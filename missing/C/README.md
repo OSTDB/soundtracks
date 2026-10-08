@@ -6617,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collie Call: The Future Is Calling | 393041 | [393041-collie-call-the-future-is-calling.json](./393041-collie-call-the-future-is-calling.json) |
 | Collie Defense | 338788 | [338788-collie-defense.json](./338788-collie-defense.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
+| Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
@@ -8680,6 +8681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Call: Half Escape Shooter | 403737 | [403737-counter-call-half-escape-shooter.json](./403737-counter-call-half-escape-shooter.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
+| Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
 | Counter Operation Online | 169422 | [169422-counter-operation-online.json](./169422-counter-operation-online.json) |
@@ -9471,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy Music Tennis | 158611 | [158611-crazy-music-tennis.json](./158611-crazy-music-tennis.json) |
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
+| Crazy Oafish Ultra Blocks: Big Sale | 30534 | [30534-crazy-oafish-ultra-blocks-big-sale.json](./30534-crazy-oafish-ultra-blocks-big-sale.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
