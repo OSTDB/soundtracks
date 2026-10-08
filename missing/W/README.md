@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WannaMine | 88196 | [88196-wannamine.json](./88196-wannamine.json) |
 | Wanpaku Kokkun no Gourmet World | 215131 | [215131-wanpaku-kokkun-no-gourmet-world.json](./215131-wanpaku-kokkun-no-gourmet-world.json) |
 | Wanrobo | 178435 | [178435-wanrobo.json](./178435-wanrobo.json) |
+| Want a Bomb? | 419925 | [419925-want-a-bomb.json](./419925-want-a-bomb.json) |
 | Want to Hear a Scary Story? | 176261 | [176261-want-to-hear-a-scary-story.json](./176261-want-to-hear-a-scary-story.json) |
 | Wantame Music Channel: Doko Demo Style | 370291 | [370291-wantame-music-channel-doko-demo-style.json](./370291-wantame-music-channel-doko-demo-style.json) |
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
