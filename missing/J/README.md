@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jellyfishers | 143088 | [143088-jellyfishers.json](./143088-jellyfishers.json) |
 | Jellyflug Micro Adventures | 197644 | [197644-jellyflug-micro-adventures.json](./197644-jellyflug-micro-adventures.json) |
 | JellyKing : Rule The World | 312650 | [312650-jellyking-rule-the-world.json](./312650-jellyking-rule-the-world.json) |
+| JellyNoid | 74652 | [74652-jellynoid.json](./74652-jellynoid.json) |
 | Jellyx | 120164 | [120164-jellyx.json](./120164-jellyx.json) |
 | Jen Saves Ben | 223704 | [223704-jen-saves-ben.json](./223704-jen-saves-ben.json) |
 | Jendo: Origins | 161323 | [161323-jendo-origins.json](./161323-jendo-origins.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jettomero Ultimate Bundle | 118855 | [118855-jettomero-ultimate-bundle.json](./118855-jettomero-ultimate-bundle.json) |
 | JetTurbo | 261865 | [261865-jetturbo.json](./261865-jetturbo.json) |
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
+| JetX | 74511 | [74511-jetx.json](./74511-jetx.json) |
 | JetX Racing | 115476 | [115476-jetx-racing.json](./115476-jetx-racing.json) |
 | JetX: Space Edition | 118333 | [118333-jetx-space-edition.json](./118333-jetx-space-edition.json) |
 | Jetz Rampage 4: Revenge | 361279 | [361279-jetz-rampage-4-revenge.json](./361279-jetz-rampage-4-revenge.json) |
