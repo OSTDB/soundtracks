@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
+| Banchou Tactics: Lion Heart | 418327 | [418327-banchou-tactics-lion-heart.json](./418327-banchou-tactics-lion-heart.json) |
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
 | Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
@@ -5346,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
+| Blackjack | 418292 | [418292-blackjack.json](./418292-blackjack.json) |
 | Blackjack / Poker / Acey-Deucey | 169265 | [169265-blackjack-poker-acey-deucey.json](./169265-blackjack-poker-acey-deucey.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
 | Blackjack Academy | 12352 | [12352-blackjack-academy.json](./12352-blackjack-academy.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
 | Bluey: Let's Play! | 266418 | [266418-bluey-lets-play.json](./266418-bluey-lets-play.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
+| Bluey's Happy Snaps: Deluxe Edition | 418329 | [418329-blueys-happy-snaps-deluxe-edition.json](./418329-blueys-happy-snaps-deluxe-edition.json) |
 | Bluey's Quest for the Gold Pen | 375072 | [375072-blueys-quest-for-the-gold-pen.json](./375072-blueys-quest-for-the-gold-pen.json) |
 | Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
@@ -8858,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Buster | 421387 | [421387-brick-buster.json](./421387-brick-buster.json) |
+| Brick by Brick | 418290 | [418290-brick-by-brick.json](./418290-brick-by-brick.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick City Solitaire | 95674 | [95674-brick-city-solitaire.json](./95674-brick-city-solitaire.json) |
 | Brick Cracker 3D | 191029 | [191029-brick-cracker-3d.json](./191029-brick-cracker-3d.json) |
