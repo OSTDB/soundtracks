@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
+| Adventure Race | 387037 | [387037-adventure-race.json](./387037-adventure-race.json) |
 | Adventure Racing 2 | 356278 | [356278-adventure-racing-2.json](./356278-adventure-racing-2.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Reborn | 240155 | [240155-adventure-reborn.json](./240155-adventure-reborn.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alarameth TD | 35071 | [35071-alarameth-td.json](./35071-alarameth-td.json) |
+| Alarial's Blessing | 387079 | [387079-alarials-blessing.json](./387079-alarials-blessing.json) |
 | Alaric | 312679 | [312679-alaric.json](./312679-alaric.json) |
 | Alaric's Quest | 254029 | [254029-alarics-quest.json](./254029-alarics-quest.json) |
 | Alaris | 211113 | [211113-alaris.json](./211113-alaris.json) |
@@ -6858,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arboretum | 122919 | [122919-arboretum.json](./122919-arboretum.json) |
 | Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
+| Arc Aquarium | 387076 | [387076-arc-aquarium.json](./387076-arc-aquarium.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
@@ -8891,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asterogues | 213433 | [213433-asterogues.json](./213433-asterogues.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
+| Asteroid 69 | 387096 | [387096-asteroid-69.json](./387096-asteroid-69.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
 | Asteroid Belt | 15602 | [15602-asteroid-belt.json](./15602-asteroid-belt.json) |
 | Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
@@ -9147,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
+| AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
 | Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
