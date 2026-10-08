@@ -6078,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
 | Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
+| Silent Hill: Townfall - Day One Edition | 420561 | [420561-silent-hill-townfall-day-one-edition.json](./420561-silent-hill-townfall-day-one-edition.json) |
 | Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
 | Silent Hope | 254330 | [254330-silent-hope.json](./254330-silent-hope.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
@@ -12966,6 +12967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | Split Fiction: Friend's Pass | 347331 | [347331-split-fiction-friends-pass.json](./347331-split-fiction-friends-pass.json) |
+| Split FPV: Drone Racing | 420565 | [420565-split-fpv-drone-racing.json](./420565-split-fpv-drone-racing.json) |
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
 | Split or Steal | 123963 | [123963-split-or-steal.json](./123963-split-or-steal.json) |
 | Split Personalities | 73323 | [73323-split-personalities.json](./73323-split-personalities.json) |
@@ -13241,6 +13243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotlight | 279739 | [279739-spotlight.json](./279739-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
+| Spotsanity | 420542 | [420542-spotsanity.json](./420542-spotsanity.json) |
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
 | Spotted Garden Eel Adventure | 196043 | [196043-spotted-garden-eel-adventure.json](./196043-spotted-garden-eel-adventure.json) |
 | Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
