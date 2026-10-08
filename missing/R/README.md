@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper of Immortals | 200520 | [200520-reaper-of-immortals.json](./200520-reaper-of-immortals.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
+| Reaper: Tale of a Pale Swordsman | 16916 | [16916-reaper-tale-of-a-pale-swordsman.json](./16916-reaper-tale-of-a-pale-swordsman.json) |
 | Reaper's Awakening! | 363896 | [363896-reapers-awakening.json](./363896-reapers-awakening.json) |
 | Reaper's Goodbye | 297559 | [297559-reapers-goodbye.json](./297559-reapers-goodbye.json) |
 | Reaper's Interin Program | 292639 | [292639-reapers-interin-program.json](./292639-reapers-interin-program.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
+| Return to Mysterious Island 2 | 17058 | [17058-return-to-mysterious-island-2.json](./17058-return-to-mysterious-island-2.json) |
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
@@ -3914,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
+| Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
@@ -5244,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
+| Robot Wars: Arenas of Destruction | 16752 | [16752-robot-wars-arenas-of-destruction.json](./16752-robot-wars-arenas-of-destruction.json) |
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot Wars: Metal Mayhem | 50022 | [50022-robot-wars-metal-mayhem.json](./50022-robot-wars-metal-mayhem.json) |
@@ -5831,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
 | Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue State | 20358 | [20358-rogue-state.json](./20358-rogue-state.json) |
+| Rogue Stormers | 17374 | [17374-rogue-stormers.json](./17374-rogue-stormers.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Sweeper | 151090 | [151090-rogue-sweeper.json](./151090-rogue-sweeper.json) |
