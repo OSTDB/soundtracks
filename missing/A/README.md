@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
+| A Place of Significance | 414838 | [414838-a-place-of-significance.json](./414838-a-place-of-significance.json) |
 | A Plague Tale Bundle | 230801 | [230801-a-plague-tale-bundle.json](./230801-a-plague-tale-bundle.json) |
 | A Plague Tale: Innocence - Cloud Version | 152484 | [152484-a-plague-tale-innocence-cloud-version.json](./152484-a-plague-tale-innocence-cloud-version.json) |
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
@@ -3591,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
+| Alien Breed 35th Anniversary | 414853 | [414853-alien-breed-35th-anniversary.json](./414853-alien-breed-35th-anniversary.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
 | Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
 | Alien Breed Evolution | 21109 | [21109-alien-breed-evolution.json](./21109-alien-breed-evolution.json) |
@@ -6850,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
+| Arcade Archives: Cyber Cycles | 414882 | [414882-arcade-archives-cyber-cycles.json](./414882-arcade-archives-cyber-cycles.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
