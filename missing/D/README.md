@@ -2700,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Club | 130740 | [130740-deathmatch-club.json](./130740-deathmatch-club.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
+| DeathMetal | 30579 | [30579-deathmetal.json](./30579-deathmetal.json) |
 | Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
 | DeathOmen | 189013 | [189013-deathomen.json](./189013-deathomen.json) |
 | Deathopolis | 126481 | [126481-deathopolis.json](./126481-deathopolis.json) |
@@ -3343,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
+| Delicious: Emily's Hopes & Fears | 30684 | [30684-delicious-emilys-hopes-and-fears.json](./30684-delicious-emilys-hopes-and-fears.json) |
 | Delicious: Emily's Miracle of Life | 54527 | [54527-delicious-emilys-miracle-of-life.json](./54527-delicious-emilys-miracle-of-life.json) |
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
@@ -4665,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
+| Dexodonex | 30631 | [30631-dexodonex.json](./30631-dexodonex.json) |
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
@@ -9415,6 +9418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
+| Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
