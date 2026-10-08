@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Spartans | 351773 | [351773-300-spartans.json](./351773-300-spartans.json) |
 | 300: Seize Your Glory | 118756 | [118756-300-seize-your-glory.json](./118756-300-seize-your-glory.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
+| 3000th Duel | 122027 | [122027-3000th-duel.json](./122027-3000th-duel.json) |
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
 | 3001: O'Connors Fight | 38853 | [38853-3001-oconnors-fight.json](./38853-3001-oconnors-fight.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
