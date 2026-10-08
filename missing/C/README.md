@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
+| Cabela's Big Game Hunter: Hunting Party | 20219 | [20219-cabelas-big-game-hunter-hunting-party.json](./20219-cabelas-big-game-hunter-hunting-party.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
 | Cabela's Dangerous Hunts 2011 | 4738 | [4738-cabelas-dangerous-hunts-2011.json](./4738-cabelas-dangerous-hunts-2011.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
+| Chain Chronicle | 20061 | [20061-chain-chronicle.json](./20061-chain-chronicle.json) |
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
 | Chain Crusher | 124771 | [124771-chain-crusher.json](./124771-chain-crusher.json) |
@@ -3102,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
+| Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
 | Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
@@ -6297,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
+| Codename: Tenka | 19995 | [19995-codename-tenka.json](./19995-codename-tenka.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
 | CodeRed 911 | 334943 | [334943-codered-911.json](./334943-codered-911.json) |
@@ -8242,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
+| Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
@@ -8682,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countrified | 126423 | [126423-countrified.json](./126423-countrified.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
+| Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
@@ -9126,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Car Racer | 50620 | [50620-crash-car-racer.json](./50620-crash-car-racer.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
 | Crash Cart | 235144 | [235144-crash-cart.json](./235144-crash-cart.json) |
+| Crash City Mayhem | 20007 | [20007-crash-city-mayhem.json](./20007-crash-city-mayhem.json) |
 | Crash Cleaner | 165656 | [165656-crash-cleaner.json](./165656-crash-cleaner.json) |
 | Crash Club | 93835 | [93835-crash-club.json](./93835-crash-club.json) |
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
