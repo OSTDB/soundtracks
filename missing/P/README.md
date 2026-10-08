@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak Climb | 372041 | [372041-peak-climb.json](./372041-peak-climb.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
+| Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
@@ -4011,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: Star Wars Pinball | 20004 | [20004-pinball-fx3-star-wars-pinball.json](./20004-pinball-fx3-star-wars-pinball.json) |
 | Pinball FX3: Star Wars Pinball - Balance of the Force | 20005 | [20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json](./20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json) |
 | Pinball FX3: Star Wars Pinball - Heroes Within | 52877 | [52877-pinball-fx3-star-wars-pinball-heroes-within.json](./52877-pinball-fx3-star-wars-pinball-heroes-within.json) |
 | Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
