@@ -2042,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves 2: Pack Mentality | 130116 | [130116-werewolves-2-pack-mentality.json](./130116-werewolves-2-pack-mentality.json) |
 | Werewolves 3: Evolution's End | 282224 | [282224-werewolves-3-evolutions-end.json](./282224-werewolves-3-evolutions-end.json) |
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
+| Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
