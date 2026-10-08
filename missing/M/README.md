@@ -4012,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
 | Mechanical Relations | 381794 | [381794-mechanical-relations.json](./381794-mechanical-relations.json) |
+| Mechanical Relations Ep 2 | 398691 | [398691-mechanical-relations-ep-2.json](./398691-mechanical-relations-ep-2.json) |
 | Mechanical Siege | 283845 | [283845-mechanical-siege.json](./283845-mechanical-siege.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millionaire: The Stock Market Simulation | 401794 | [401794-millionaire-the-stock-market-simulation.json](./401794-millionaire-the-stock-market-simulation.json) |
+| Millions of Billions of Suns | 398630 | [398630-millions-of-billions-of-suns.json](./398630-millions-of-billions-of-suns.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
 | Millipede / Super Breakout / Lunar Lander | 78289 | [78289-millipede-super-breakout-lunar-lander.json](./78289-millipede-super-breakout-lunar-lander.json) |
@@ -7685,6 +7687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
 | Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
+| Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
@@ -7950,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missile Command: Evolved | 329635 | [329635-missile-command-evolved.json](./329635-missile-command-evolved.json) |
 | Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
+| Missile Command: Sega Version | 398658 | [398658-missile-command-sega-version.json](./398658-missile-command-sega-version.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Dancer 2 | 265323 | [265323-missile-dancer-2.json](./265323-missile-dancer-2.json) |
 | Missile Defence | 290654 | [290654-missile-defence.json](./290654-missile-defence.json) |
