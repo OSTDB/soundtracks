@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
+| Darts VR2: Bullseye | 398027 | [398027-darts-vr2-bullseye.json](./398027-darts-vr2-bullseye.json) |
 | Darts Wii DX | 268121 | [268121-darts-wii-dx.json](./268121-darts-wii-dx.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
+| Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
@@ -4987,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Did It Myself ABC123 | 85087 | [85087-did-it-myself-abc123.json](./85087-did-it-myself-abc123.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
+| Dìdào Zhàn | 397993 | [397993-didao-zhan.json](./397993-didao-zhan.json) |
 | Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
 | Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
@@ -6485,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do No Harm | 324874 | [324874-do-no-harm.json](./324874-do-no-harm.json) |
 | Do Not Believe His Lies | 116254 | [116254-do-not-believe-his-lies.json](./116254-do-not-believe-his-lies.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
+| Do Not Disturb | 398024 | [398024-do-not-disturb.json](./398024-do-not-disturb.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
 | Do Not Fall | 36154 | [36154-do-not-fall.json](./36154-do-not-fall.json) |
@@ -10048,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Bow Hunt | 88217 | [88217-duck-bow-hunt.json](./88217-duck-bow-hunt.json) |
 | Duck Build | 176329 | [176329-duck-build.json](./176329-duck-build.json) |
 | Duck City | 168131 | [168131-duck-city.json](./168131-duck-city.json) |
+| Duck Collector | 397992 | [397992-duck-collector.json](./397992-duck-collector.json) |
 | Duck Commander: Hunting Video Game | 221675 | [221675-duck-commander-hunting-video-game.json](./221675-duck-commander-hunting-video-game.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
