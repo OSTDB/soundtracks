@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
+| I Spy With Lola: A Fun Word Game for Kids! | 88606 | [88606-i-spy-with-lola-a-fun-word-game-for-kids.json](./88606-i-spy-with-lola-a-fun-word-game-for-kids.json) |
 | I Spy: Super Challenger! | 91739 | [91739-i-spy-super-challenger.json](./91739-i-spy-super-challenger.json) |
 | I Spy: Treasure Hunt | 91749 | [91749-i-spy-treasure-hunt.json](./91749-i-spy-treasure-hunt.json) |
 | I Suck At: Word Games | 63110 | [63110-i-suck-at-word-games.json](./63110-i-suck-at-word-games.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
+| Invasion: Battlefield | 88600 | [88600-invasion-battlefield.json](./88600-invasion-battlefield.json) |
 | Invasion: Brain Craving | 33942 | [33942-invasion-brain-craving.json](./33942-invasion-brain-craving.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
