@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Boyfriend | 268659 | [268659-feral-boyfriend.json](./268659-feral-boyfriend.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Feral Flowers | 182323 | [182323-feral-flowers.json](./182323-feral-flowers.json) |
+| Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
 | FeralHeart Unleashed | 225703 | [225703-feralheart-unleashed.json](./225703-feralheart-unleashed.json) |
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
