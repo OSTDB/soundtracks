@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
+| Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Resort | 172037 | [172037-last-resort.json](./172037-last-resort.json) |
