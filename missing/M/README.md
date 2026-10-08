@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabinogi Duel | 23653 | [23653-mabinogi-duel.json](./23653-mabinogi-duel.json) |
 | Mabinogi Mobile | 188377 | [188377-mabinogi-mobile.json](./188377-mabinogi-mobile.json) |
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
+| Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: Party Robes | 50816 | [50816-magicka-party-robes.json](./50816-magicka-party-robes.json) |
 | Magicka: The Other Side of the Coin | 22642 | [22642-magicka-the-other-side-of-the-coin.json](./22642-magicka-the-other-side-of-the-coin.json) |
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
+| Magicka: Vietnam | 21781 | [21781-magicka-vietnam.json](./21781-magicka-vietnam.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
 | Magicka: Wizards of the Square Tablet | 10527 | [10527-magicka-wizards-of-the-square-tablet.json](./10527-magicka-wizards-of-the-square-tablet.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
@@ -1046,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
+| Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
 | Magnetized Knight | 115795 | [115795-magnetized-knight.json](./115795-magnetized-knight.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
@@ -1403,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K9 | 4990 | [4990-major-league-baseball-2k9.json](./4990-major-league-baseball-2k9.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Major League Curveball | 302428 | [302428-major-league-curveball.json](./302428-major-league-curveball.json) |
+| Major League Eating: The Game | 21790 | [21790-major-league-eating-the-game.json](./21790-major-league-eating-the-game.json) |
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
@@ -6318,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Garden Pond | 209516 | [209516-microsoft-garden-pond.json](./209516-microsoft-garden-pond.json) |
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
+| Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
 | Microsoft International Soccer 2000 | 72170 | [72170-microsoft-international-soccer-2000.json](./72170-microsoft-international-soccer-2000.json) |
 | Microsoft Minesweeper | 127494 | [127494-microsoft-minesweeper.json](./127494-microsoft-minesweeper.json) |
 | Microsoft Pinball Arcade | 249159 | [249159-microsoft-pinball-arcade.json](./249159-microsoft-pinball-arcade.json) |
@@ -6378,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Awake | 104153 | [104153-midnight-awake.json](./104153-midnight-awake.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
+| Midnight Bowling | 21802 | [21802-midnight-bowling.json](./21802-midnight-bowling.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
@@ -6441,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
 | Midnight Outlaw: 6 Hours to Sun Up | 29192 | [29192-midnight-outlaw-6-hours-to-sun-up.json](./29192-midnight-outlaw-6-hours-to-sun-up.json) |
+| Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
 | Midnight Pulse | 106157 | [106157-midnight-pulse.json](./106157-midnight-pulse.json) |
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
@@ -11229,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
 | Music Escape | 115137 | [115137-music-escape.json](./115137-music-escape.json) |
+| Music Flux | 21841 | [21841-music-flux.json](./21841-music-flux.json) |
 | Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
