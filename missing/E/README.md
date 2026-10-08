@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Oppai: Fusion DLC | 324434 | [324434-ecchi-oppai-fusion-dlc.json](./324434-ecchi-oppai-fusion-dlc.json) |
 | Ecchi Oppai: Uniforms DLC | 324435 | [324435-ecchi-oppai-uniforms-dlc.json](./324435-ecchi-oppai-uniforms-dlc.json) |
 | Ecchi Paradise: Complete Edition | 294831 | [294831-ecchi-paradise-complete-edition.json](./294831-ecchi-paradise-complete-edition.json) |
+| Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Secrets: Futuristic Edition | 324379 | [324379-ecchi-secrets-futuristic-edition.json](./324379-ecchi-secrets-futuristic-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Zombie U: Reloaded | 199601 | [199601-escape-from-zombie-u-reloaded.json](./199601-escape-from-zombie-u-reloaded.json) |
 | Escape Gaia | 311586 | [311586-escape-gaia.json](./311586-escape-gaia.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
+| Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
 | Escape game R00m 10 | 390491 | [390491-escape-game-r00m-10.json](./390491-escape-game-r00m-10.json) |
 | Escape Game R00m07 | 378800 | [378800-escape-game-r00m07.json](./378800-escape-game-r00m07.json) |
