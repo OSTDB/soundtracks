@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergentruck 201X | 359045 | [359045-bergentruck-201x.json](./359045-bergentruck-201x.json) |
 | Berghain Trainer | 313778 | [313778-berghain-trainer.json](./313778-berghain-trainer.json) |
 | Berghotel Heist | 365817 | [365817-berghotel-heist.json](./365817-berghotel-heist.json) |
+| Bergwerk: A Mining Sim | 412235 | [412235-bergwerk-a-mining-sim.json](./412235-bergwerk-a-mining-sim.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
 | Berks | 60532 | [60532-berks.json](./60532-berks.json) |
 | Berks 3: They're Angry! | 60520 | [60520-berks-3-theyre-angry.json](./60520-berks-3-theyre-angry.json) |
@@ -5617,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Off | 136855 | [136855-blast-off.json](./136855-blast-off.json) |
 | Blast Off | 46841 | [46841-blast-off.json](./46841-blast-off.json) |
 | Blast Off Far Away | 203910 | [203910-blast-off-far-away.json](./203910-blast-off-far-away.json) |
+| Blast Off! Summer Showdown | 412117 | [412117-blast-off-summer-showdown.json](./412117-blast-off-summer-showdown.json) |
 | Blast Processed | 350551 | [350551-blast-processed.json](./350551-blast-processed.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
