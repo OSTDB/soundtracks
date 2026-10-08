@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
+| Ghostflippers | 408722 | [408722-ghostflippers.json](./408722-ghostflippers.json) |
 | Ghostforged | 391808 | [391808-ghostforged.json](./391808-ghostforged.json) |
 | GhostGame | 114885 | [114885-ghostgame.json](./114885-ghostgame.json) |
 | Ghosth | 179747 | [179747-ghosth.json](./179747-ghosth.json) |
