@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Fishing | 351753 | [351753-far-fishing.json](./351753-far-fishing.json) |
 | Far Fresnel | 374289 | [374289-far-fresnel.json](./374289-far-fresnel.json) |
 | Far From Dead | 217276 | [217276-far-from-dead.json](./217276-far-from-dead.json) |
+| Far From Home | 393549 | [393549-far-from-home.json](./393549-far-from-home.json) |
 | Far from Noise | 61612 | [61612-far-from-noise.json](./61612-far-from-noise.json) |
 | Far From Orbit | 123521 | [123521-far-from-orbit.json](./123521-far-from-orbit.json) |
 | Far From The Darkness | 328603 | [328603-far-from-the-darkness.json](./328603-far-from-the-darkness.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Reactor | 384052 | [384052-feed-the-reactor.json](./384052-feed-the-reactor.json) |
 | Feed The Scorchpot | 377819 | [377819-feed-the-scorchpot.json](./377819-feed-the-scorchpot.json) |
 | Feed Us 4 | 327185 | [327185-feed-us-4.json](./327185-feed-us-4.json) |
+| Feed Us Happy | 393518 | [393518-feed-us-happy.json](./393518-feed-us-happy.json) |
 | Feed Us V | 327190 | [327190-feed-us-v.json](./327190-feed-us-v.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
