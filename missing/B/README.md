@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bell, Book and Candleban | 237544 | [237544-bell-book-and-candleban.json](./237544-bell-book-and-candleban.json) |
 | Bell's Avenue Vol. 3 | 299817 | [299817-bells-avenue-vol-3.json](./299817-bells-avenue-vol-3.json) |
 | Bella | 260939 | [260939-bella.json](./260939-bella.json) |
+| Bella & Friends: Puppy Doctor | 100781 | [100781-bella-and-friends-puppy-doctor.json](./100781-bella-and-friends-puppy-doctor.json) |
 | Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Bella Sara | 269570 | [269570-bella-sara.json](./269570-bella-sara.json) |
 | Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
@@ -8459,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravery and Greed | 143577 | [143577-bravery-and-greed.json](./143577-bravery-and-greed.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
+| BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
 | Bravo Air Race | 18250 | [18250-bravo-air-race.json](./18250-bravo-air-race.json) |
