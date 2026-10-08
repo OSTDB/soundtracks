@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
 | A Lighthouse Tale | 410433 | [410433-a-lighthouse-tale.json](./410433-a-lighthouse-tale.json) |
+| A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
 | A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
 | A Link to the Past: ReLink | 219086 | [219086-a-link-to-the-past-relink.json](./219086-a-link-to-the-past-relink.json) |
 | A Little Bus Stop | 176254 | [176254-a-little-bus-stop.json](./176254-a-little-bus-stop.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
+| Aethelgard: Galactic Guardian | 404804 | [404804-aethelgard-galactic-guardian.json](./404804-aethelgard-galactic-guardian.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
 | Aether & Iron | 335238 | [335238-aether-and-iron.json](./335238-aether-and-iron.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
@@ -4630,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amborettio | 170892 | [170892-amborettio.json](./170892-amborettio.json) |
 | Ambrose | 401032 | [401032-ambrose.json](./401032-ambrose.json) |
 | Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
+| Ambrosia Sky: Act Two | 404879 | [404879-ambrosia-sky-act-two.json](./404879-ambrosia-sky-act-two.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
 | Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
@@ -7672,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arithmagic: Math Wizard Game | 197709 | [197709-arithmagic-math-wizard-game.json](./197709-arithmagic-math-wizard-game.json) |
 | Arizona Derby | 116376 | [116376-arizona-derby.json](./116376-arizona-derby.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
+| Arizona Sunshine | 404896 | [404896-arizona-sunshine.json](./404896-arizona-sunshine.json) |
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
 | Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
