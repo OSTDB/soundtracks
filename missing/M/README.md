@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macs World | 193714 | [193714-macs-world.json](./193714-macs-world.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Adventures | 202747 | [202747-mad-adventures.json](./202747-mad-adventures.json) |
+| Mad Age and This Guy | 56613 | [56613-mad-age-and-this-guy.json](./56613-mad-age-and-this-guy.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
@@ -4949,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Classics 2 | 419944 | [419944-meme-classics-2.json](./419944-meme-classics-2.json) |
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
+| Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
@@ -5314,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Donut | 311580 | [311580-merge-donut.json](./311580-merge-donut.json) |
 | Merge Dotey | 226774 | [226774-merge-dotey.json](./226774-merge-dotey.json) |
+| Merge Dragons | 56827 | [56827-merge-dragons.json](./56827-merge-dragons.json) |
 | Merge Duck 2 | 224001 | [224001-merge-duck-2.json](./224001-merge-duck-2.json) |
 | Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
 | Merge ETO | 274553 | [274553-merge-eto.json](./274553-merge-eto.json) |
