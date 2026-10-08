@@ -6595,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloopy & Droopy | 168685 | [168685-bloopy-and-droopy.json](./168685-bloopy-and-droopy.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
+| Blortasia | 32178 | [32178-blortasia.json](./32178-blortasia.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blosics 2 | 320867 | [320867-blosics-2.json](./320867-blosics-2.json) |
 | Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
