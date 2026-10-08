@@ -15533,6 +15533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TotAL RPG (Tower of the Ancient Legion) | 111168 | [111168-total-rpg-tower-of-the-ancient-legion.json](./111168-total-rpg-tower-of-the-ancient-legion.json) |
 | Total Rush | 289939 | [289939-total-rush.json](./289939-total-rush.json) |
 | Total Seclusion | 122810 | [122810-total-seclusion.json](./122810-total-seclusion.json) |
+| Total Shift: Wheeled Rebellion | 387090 | [387090-total-shift-wheeled-rebellion.json](./387090-total-shift-wheeled-rebellion.json) |
 | Total Singu | 102954 | [102954-total-singu.json](./102954-total-singu.json) |
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
@@ -16293,6 +16294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerix91 | 398029 | [398029-towerix91.json](./398029-towerix91.json) |
 | Towerland | 195588 | [195588-towerland.json](./195588-towerland.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
+| Towerlings | 387089 | [387089-towerlings.json](./387089-towerlings.json) |
 | TowerMadness HD | 96896 | [96896-towermadness-hd.json](./96896-towermadness-hd.json) |
 | TowerMancer II | 382337 | [382337-towermancer-ii.json](./382337-towermancer-ii.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
