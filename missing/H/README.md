@@ -5286,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Designer: Living Room | 169947 | [169947-home-designer-living-room.json](./169947-home-designer-living-room.json) |
 | Home Domes | 277962 | [277962-home-domes.json](./277962-home-domes.json) |
 | Home Escape | 120139 | [120139-home-escape.json](./120139-home-escape.json) |
+| Home for Friends: Loving Paws - Collector's Edition | 401142 | [401142-home-for-friends-loving-paws-collectors-edition.json](./401142-home-for-friends-loving-paws-collectors-edition.json) |
 | Home for the Holidays | 313814 | [313814-home-for-the-holidays.json](./313814-home-for-the-holidays.json) |
 | Home Free | 13563 | [13563-home-free.json](./13563-home-free.json) |
 | Home From Work 2 | 213371 | [213371-home-from-work-2.json](./213371-home-from-work-2.json) |
@@ -5820,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
+| Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
 | Horoboshi-hime | 320826 | [320826-horoboshi-hime.json](./320826-horoboshi-hime.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
@@ -6305,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
+| House Cleaner Simulator | 401145 | [401145-house-cleaner-simulator.json](./401145-house-cleaner-simulator.json) |
 | House Cleaning Simulator | 401126 | [401126-house-cleaning-simulator.json](./401126-house-cleaning-simulator.json) |
 | House Dating VR: Cute Korean Girl, Sehyun | 74506 | [74506-house-dating-vr-cute-korean-girl-sehyun.json](./74506-house-dating-vr-cute-korean-girl-sehyun.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
@@ -6490,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Many Dudes? | 369765 | [369765-how-many-dudes.json](./369765-how-many-dudes.json) |
 | How Many Robots? | 66185 | [66185-how-many-robots.json](./66185-how-many-robots.json) |
 | How Many Secrets Under Ceiling | 373205 | [373205-how-many-secrets-under-ceiling.json](./373205-how-many-secrets-under-ceiling.json) |
+| How Much for the Body in the Freezer | 401158 | [401158-how-much-for-the-body-in-the-freezer.json](./401158-how-much-for-the-body-in-the-freezer.json) |
 | How Much Items: Animals | 340489 | [340489-how-much-items-animals.json](./340489-how-much-items-animals.json) |
 | How Much Items: Fishes | 340490 | [340490-how-much-items-fishes.json](./340490-how-much-items-fishes.json) |
 | How Much Items: Food | 340491 | [340491-how-much-items-food.json](./340491-how-much-items-food.json) |
