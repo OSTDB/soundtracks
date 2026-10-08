@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phoning Home | 27116 | [27116-phoning-home.json](./27116-phoning-home.json) |
+| Phonkside Killers | 389000 | [389000-phonkside-killers.json](./389000-phonkside-killers.json) |
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
@@ -8493,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
+| Prison Fury | 388914 | [388914-prison-fury.json](./388914-prison-fury.json) |
 | Prison Gambit | 411031 | [411031-prison-gambit.json](./411031-prison-gambit.json) |
 | Prison Gang Wars | 268982 | [268982-prison-gang-wars.json](./268982-prison-gang-wars.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
