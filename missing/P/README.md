@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Crasher Simulator | 163272 | [163272-party-crasher-simulator.json](./163272-party-crasher-simulator.json) |
+| Party Crashers | 75076 | [75076-party-crashers.json](./75076-party-crashers.json) |
 | Party Demon | 238997 | [238997-party-demon.json](./238997-party-demon.json) |
 | Party Designer | 67398 | [67398-party-designer.json](./67398-party-designer.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
+| Peg | 68823 | [68823-peg.json](./68823-peg.json) |
 | Peg Champ | 411111 | [411111-peg-champ.json](./411111-peg-champ.json) |
 | Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
@@ -9212,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projectile Fighter | 109490 | [109490-projectile-fighter.json](./109490-projectile-fighter.json) |
 | Projectile Guardian | 54923 | [54923-projectile-guardian.json](./54923-projectile-guardian.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
+| Projection: First Light | 72374 | [72374-projection-first-light.json](./72374-projection-first-light.json) |
 | Projections | 150775 | [150775-projections.json](./150775-projections.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
@@ -9324,6 +9327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
+| Protocol | 74225 | [74225-protocol.json](./74225-protocol.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Delta | 258648 | [258648-protocol-delta.json](./258648-protocol-delta.json) |
@@ -10397,6 +10401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled Hive | 311199 | [311199-puzzled-hive.json](./311199-puzzled-hive.json) |
 | Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
+| Puzzledom | 74529 | [74529-puzzledom.json](./74529-puzzledom.json) |
 | Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
 | Puzzledorf | 160209 | [160209-puzzledorf.json](./160209-puzzledorf.json) |
 | Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
