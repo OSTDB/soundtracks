@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georgie-Yolkie 64: The Furry Tale | 343932 | [343932-georgie-yolkie-64-the-furry-tale.json](./343932-georgie-yolkie-64-the-furry-tale.json) |
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
+| Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
 | GeoWar | 127316 | [127316-geowar.json](./127316-geowar.json) |
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
