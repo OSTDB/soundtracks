@@ -7404,6 +7404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
 | PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
+| Possessed | 36520 | [36520-possessed.json](./36520-possessed.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession 1881 | 150750 | [150750-possession-1881.json](./150750-possession-1881.json) |
@@ -7821,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Practical Pinball | 367477 | [367477-practical-pinball.json](./367477-practical-pinball.json) |
 | Practical Shooting Simulator | 151105 | [151105-practical-shooting-simulator.json](./151105-practical-shooting-simulator.json) |
 | Practice Your Bridge | 88664 | [88664-practice-your-bridge.json](./88664-practice-your-bridge.json) |
+| Practisim VR | 36641 | [36641-practisim-vr.json](./36641-practisim-vr.json) |
 | Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
