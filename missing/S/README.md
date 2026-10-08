@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Dragon | 331987 | [331987-shanghai-dragon.json](./331987-shanghai-dragon.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
+| Shanghai II: Dragon's Eye | 406075 | [406075-shanghai-ii-dragons-eye.json](./406075-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
 | Shanghai III | 38249 | [38249-shanghai-iii.json](./38249-shanghai-iii.json) |
@@ -4370,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
 | Shapeguard | 264023 | [264023-shapeguard.json](./264023-shapeguard.json) |
 | Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
+| Shapemonger | 406141 | [406141-shapemonger.json](./406141-shapemonger.json) |
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
 | Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
 | ShapeOminoes | 197721 | [197721-shapeominoes.json](./197721-shapeominoes.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero 2019 | 223913 | [223913-soccer-hero-2019.json](./223913-soccer-hero-2019.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer in a Box | 320351 | [320351-soccer-in-a-box.json](./320351-soccer-in-a-box.json) |
+| Soccer Kick-ups | 406059 | [406059-soccer-kick-ups.json](./406059-soccer-kick-ups.json) |
 | Soccer Kid | 4302 | [4302-soccer-kid.json](./4302-soccer-kid.json) |
 | Soccer Kid Collection | 403733 | [403733-soccer-kid-collection.json](./403733-soccer-kid-collection.json) |
 | Soccer Kids Champions | 104723 | [104723-soccer-kids-champions.json](./104723-soccer-kids-champions.json) |
@@ -13307,6 +13310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
+| Spot the Impossible with Common Sense! | 406072 | [406072-spot-the-impossible-with-common-sense.json](./406072-spot-the-impossible-with-common-sense.json) |
 | Spot The Object | 283376 | [283376-spot-the-object.json](./283376-spot-the-object.json) |
 | Spot the Odd! | 300831 | [300831-spot-the-odd.json](./300831-spot-the-odd.json) |
 | Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
@@ -13865,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
 | Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
+| Stamp Collector | 406140 | [406140-stamp-collector.json](./406140-stamp-collector.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
 | Stampede | 5704 | [5704-stampede.json](./5704-stampede.json) |
 | Stampede Racing Royale | 252849 | [252849-stampede-racing-royale.json](./252849-stampede-racing-royale.json) |
@@ -16709,6 +16714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
 | Striker Zone | 252266 | [252266-striker-zone.json](./252266-striker-zone.json) |
 | Striker! | 336650 | [336650-striker.json](./336650-striker.json) |
+| Striker's Instinct | 406155 | [406155-strikers-instinct.json](./406155-strikers-instinct.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 | 39300 | [39300-strikers-1945.json](./39300-strikers-1945.json) |
 | Strikers 1945 II for Nintendo Switch | 234133 | [234133-strikers-1945-ii-for-nintendo-switch.json](./234133-strikers-1945-ii-for-nintendo-switch.json) |
@@ -20232,6 +20238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Ultimate | 73343 | [73343-survivor-ultimate.json](./73343-survivor-ultimate.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
+| Survivor: Gunfire | 406148 | [406148-survivor-gunfire.json](./406148-survivor-gunfire.json) |
 | Survivor: Heroes | 85415 | [85415-survivor-heroes.json](./85415-survivor-heroes.json) |
 | Survivor: Spark | 369689 | [369689-survivor-spark.json](./369689-survivor-spark.json) |
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
@@ -20572,6 +20579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
+| Sweet Home: Look and Find 6 - Collector's Edition | 406073 | [406073-sweet-home-look-and-find-6-collectors-edition.json](./406073-sweet-home-look-and-find-6-collectors-edition.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
 | Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
