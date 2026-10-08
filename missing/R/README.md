@@ -4947,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
+| Road to Eden | 106101 | [106101-road-to-eden.json](./106101-road-to-eden.json) |
 | Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
