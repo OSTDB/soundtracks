@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemma | 17386 | [17386-lemma.json](./17386-lemma.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
 | Lemmings | 113439 | [113439-lemmings.json](./113439-lemmings.json) |
+| Lemmings | 238609 | [238609-lemmings.json](./238609-lemmings.json) |
 | Lemmings | 238839 | [238839-lemmings.json](./238839-lemmings.json) |
 | Lemmings | 239057 | [239057-lemmings.json](./239057-lemmings.json) |
 | Lemmings | 239058 | [239058-lemmings.json](./239058-lemmings.json) |
