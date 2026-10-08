@@ -6849,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
+| Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
@@ -10375,6 +10376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
+| Crownbreak | 404894 | [404894-crownbreak.json](./404894-crownbreak.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
 | Crowncity | 284992 | [284992-crowncity.json](./284992-crowncity.json) |
 | Crowned | 259055 | [259055-crowned.json](./259055-crowned.json) |
@@ -11480,6 +11482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Kaizo World | 208401 | [208401-cute-kaizo-world.json](./208401-cute-kaizo-world.json) |
 | Cute Mold | 374161 | [374161-cute-mold.json](./374161-cute-mold.json) |
 | Cute Nurses | 367011 | [367011-cute-nurses.json](./367011-cute-nurses.json) |
+| Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Puppy Academy | 328547 | [328547-cute-puppy-academy.json](./328547-cute-puppy-academy.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
