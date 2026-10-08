@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heck Deck | 154054 | [154054-heck-deck.json](./154054-heck-deck.json) |
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Heckle Dungeon | 123999 | [123999-heckle-dungeon.json](./123999-heckle-dungeon.json) |
+| Heckpoint | 74539 | [74539-heckpoint.json](./74539-heckpoint.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
@@ -2433,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
+| Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellcam | 354486 | [354486-hellcam.json](./354486-hellcam.json) |
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
@@ -4594,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
 | Hinter Gittern Vol. II | 100143 | [100143-hinter-gittern-vol-ii.json](./100143-hinter-gittern-vol-ii.json) |
+| Hinterhalt | 74477 | [74477-hinterhalt.json](./74477-hinterhalt.json) |
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
