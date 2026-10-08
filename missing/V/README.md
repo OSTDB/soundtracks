@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void Miner | 399780 | [399780-void-miner.json](./399780-void-miner.json) |
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
+| Void Noir | 411554 | [411554-void-noir.json](./411554-void-noir.json) |
 | Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
 | Void of Darkness | 26511 | [26511-void-of-darkness.json](./26511-void-of-darkness.json) |
 | Void of Heroes | 126958 | [126958-void-of-heroes.json](./126958-void-of-heroes.json) |
