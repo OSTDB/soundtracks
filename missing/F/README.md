@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Blow | 12098 | [12098-final-blow.json](./12098-final-blow.json) |
+| Final Boss | 410170 | [410170-final-boss.json](./410170-final-boss.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Clash: Buried Treasures | 109547 | [109547-final-clash-buried-treasures.json](./109547-final-clash-buried-treasures.json) |
 | Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
@@ -4492,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
 | Flightless | 74678 | [74678-flightless.json](./74678-flightless.json) |
+| Flightless Bug | 410184 | [410184-flightless-bug.json](./410184-flightless-bug.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
