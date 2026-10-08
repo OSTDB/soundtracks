@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
+| Weed | 82143 | [82143-weed.json](./82143-weed.json) |
 | Weed & Greed | 348940 | [348940-weed-and-greed.json](./348940-weed-and-greed.json) |
 | Weed Bakery | 374631 | [374631-weed-bakery.json](./374631-weed-bakery.json) |
 | Weed County | 130117 | [130117-weed-county.json](./130117-weed-county.json) |
@@ -4719,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
 | World History Quiz: Cavemen to Democracy | 72180 | [72180-world-history-quiz-cavemen-to-democracy.json](./72180-world-history-quiz-cavemen-to-democracy.json) |
 | World Hunter | 60634 | [60634-world-hunter.json](./60634-world-hunter.json) |
+| World II: Hunting Boss | 82403 | [82403-world-ii-hunting-boss.json](./82403-world-ii-hunting-boss.json) |
 | World in a Moment | 229759 | [229759-world-in-a-moment.json](./229759-world-in-a-moment.json) |
 | World in Conflict | 941 | [941-world-in-conflict.json](./941-world-in-conflict.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
@@ -5162,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
+| Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
 | Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
