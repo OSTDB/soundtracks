@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
+| Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
