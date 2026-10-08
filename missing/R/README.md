@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
+| Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
