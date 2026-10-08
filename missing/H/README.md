@@ -6220,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Hotel Havoc | 104263 | [104263-hotel-transylvania-hotel-havoc.json](./104263-hotel-transylvania-hotel-havoc.json) |
 | Hotel Transylvania: Monsters | 105851 | [105851-hotel-transylvania-monsters.json](./105851-hotel-transylvania-monsters.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
+| Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
 | Hotel: Lake DLC | 265871 | [265871-hotel-lake-dlc.json](./265871-hotel-lake-dlc.json) |
 | Hotel: Lake Edition | 265870 | [265870-hotel-lake-edition.json](./265870-hotel-lake-edition.json) |
