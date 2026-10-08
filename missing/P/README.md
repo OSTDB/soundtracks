@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Pro: Top-Down Challenge | 334081 | [334081-parking-pro-top-down-challenge.json](./334081-parking-pro-top-down-challenge.json) |
 | Parking Problem | 397068 | [397068-parking-problem.json](./397068-parking-problem.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
+| Parking Simulator: Retro Car Driving | 406061 | [406061-parking-simulator-retro-car-driving.json](./406061-parking-simulator-retro-car-driving.json) |
 | Parking Slide | 163748 | [163748-parking-slide.json](./163748-parking-slide.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
@@ -9456,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto Raider | 34889 | [34889-proto-raider.json](./34889-proto-raider.json) |
+| Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
