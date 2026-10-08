@@ -8553,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Caffi | 196036 | [196036-dragon-caffi.json](./196036-dragon-caffi.json) |
 | Dragon Call | 119495 | [119495-dragon-call.json](./119495-dragon-call.json) |
+| Dragon Care Tarot | 392225 | [392225-dragon-care-tarot.json](./392225-dragon-care-tarot.json) |
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
 | Dragon Castle | 346753 | [346753-dragon-castle.json](./346753-dragon-castle.json) |
 | Dragon Castle: The Board Game | 127095 | [127095-dragon-castle-the-board-game.json](./127095-dragon-castle-the-board-game.json) |
@@ -10671,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Train VR | 182837 | [182837-dungeon-train-vr.json](./182837-dungeon-train-vr.json) |
 | Dungeon Treaders | 388401 | [388401-dungeon-treaders.json](./388401-dungeon-treaders.json) |
 | Dungeon Trick | 391723 | [391723-dungeon-trick.json](./391723-dungeon-trick.json) |
+| Dungeon Twist | 392219 | [392219-dungeon-twist.json](./392219-dungeon-twist.json) |
 | Dungeon Tycoon | 250859 | [250859-dungeon-tycoon.json](./250859-dungeon-tycoon.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Valley | 174668 | [174668-dungeon-valley.json](./174668-dungeon-valley.json) |
