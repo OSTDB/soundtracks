@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
+| Omvros | 404187 | [404187-omvros.json](./404187-omvros.json) |
 | On & Off | 412468 | [412468-on-and-off.json](./412468-on-and-off.json) |
 | On & Off Racing | 356302 | [356302-on-and-off-racing.json](./356302-on-and-off-racing.json) |
 | On a Rainy Day | 68731 | [68731-on-a-rainy-day.json](./68731-on-a-rainy-day.json) |
@@ -1797,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Hope: Episode 5 | 170920 | [170920-only-hope-episode-5.json](./170920-only-hope-episode-5.json) |
 | Only Hope: Episode 6 | 170922 | [170922-only-hope-episode-6.json](./170922-only-hope-episode-6.json) |
 | Only Hope: Episode 7 | 170918 | [170918-only-hope-episode-7.json](./170918-only-hope-episode-7.json) |
+| Only Humans On Board | 402951 | [402951-only-humans-on-board.json](./402951-only-humans-on-board.json) |
 | Only If | 17354 | [17354-only-if.json](./17354-only-if.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
