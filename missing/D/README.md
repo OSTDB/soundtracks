@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
+| Dante's Rumba | 412188 | [412188-dantes-rumba.json](./412188-dantes-rumba.json) |
 | Dantes Bullet Inferno | 129749 | [129749-dantes-bullet-inferno.json](./129749-dantes-bullet-inferno.json) |
 | Danzai no Maria: The Exorcism of Maria | 72647 | [72647-danzai-no-maria-the-exorcism-of-maria.json](./72647-danzai-no-maria-the-exorcism-of-maria.json) |
 | Danzai no Maria: The Exorcism of Maria La Campanella | 221832 | [221832-danzai-no-maria-the-exorcism-of-maria-la-campanella.json](./221832-danzai-no-maria-the-exorcism-of-maria-la-campanella.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadfall Adventures: Heart of Atlantis | 52182 | [52182-deadfall-adventures-heart-of-atlantis.json](./52182-deadfall-adventures-heart-of-atlantis.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | DeadFright | 154429 | [154429-deadfright.json](./154429-deadfright.json) |
+| Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadhunters | 110495 | [110495-deadhunters.json](./110495-deadhunters.json) |
@@ -6180,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DistroCards | 392807 | [392807-distrocards.json](./392807-distrocards.json) |
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Disturbed R.I.P. | 151080 | [151080-disturbed-r-i-p.json](./151080-disturbed-r-i-p.json) |
+| Disturbing Fears: Workplace | 412192 | [412192-disturbing-fears-workplace.json](./412192-disturbing-fears-workplace.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | DitherDream | 285020 | [285020-ditherdream.json](./285020-ditherdream.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
