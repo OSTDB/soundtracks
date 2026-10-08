@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernia | 391212 | [391212-tavernia.json](./391212-tavernia.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
+| Taverntasia | 396720 | [396720-taverntasia.json](./396720-taverntasia.json) |
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
@@ -18688,6 +18689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Driver | 252258 | [252258-true-driver.json](./252258-true-driver.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
+| True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
 | True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
@@ -19453,6 +19455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
+| Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
