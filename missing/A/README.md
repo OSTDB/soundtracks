@@ -3966,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All That is Left | 384108 | [384108-all-that-is-left.json](./384108-all-that-is-left.json) |
 | All That Remains | 75789 | [75789-all-that-remains.json](./75789-all-that-remains.json) |
 | All That Remains: A story about a child's future | 120827 | [120827-all-that-remains-a-story-about-a-childs-future.json](./120827-all-that-remains-a-story-about-a-childs-future.json) |
+| All That Remains: Part 1 | 91069 | [91069-all-that-remains-part-1.json](./91069-all-that-remains-part-1.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
 | All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
