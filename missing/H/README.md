@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Time Circus | 262576 | [262576-happy-time-circus.json](./262576-happy-time-circus.json) |
 | Happy Time Circus II | 262577 | [262577-happy-time-circus-ii.json](./262577-happy-time-circus-ii.json) |
+| Happy toys | 112779 | [112779-happy-toys.json](./112779-happy-toys.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
 | Happy Tree Friends: Deadeye Derby | 97972 | [97972-happy-tree-friends-deadeye-derby.json](./97972-happy-tree-friends-deadeye-derby.json) |
@@ -1888,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the House | 75203 | [75203-heart-of-the-house.json](./75203-heart-of-the-house.json) |
 | Heart of the Killer | 238576 | [238576-heart-of-the-killer.json](./238576-heart-of-the-killer.json) |
+| Heart of the Kingdom: Rebellion | 112824 | [112824-heart-of-the-kingdom-rebellion.json](./112824-heart-of-the-kingdom-rebellion.json) |
 | Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
@@ -2240,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
+| Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
 | Helheim Hassle | 129208 | [129208-helheim-hassle.json](./129208-helheim-hassle.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
@@ -4243,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
+| Hide Your Butts! | 113004 | [113004-hide-your-butts.json](./113004-hide-your-butts.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
@@ -4953,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
+| Hold Out | 113018 | [113018-hold-out.json](./113018-hold-out.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
@@ -5140,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | HoloParade: DLC with BGM and Costume - Shirakami Fubuki | 302580 | [302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json](./302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
+| Holopoint: Chronicle | 112808 | [112808-holopoint-chronicle.json](./112808-holopoint-chronicle.json) |
 | Holoquest | 180136 | [180136-holoquest.json](./180136-holoquest.json) |
 | HoloReality | 322160 | [322160-holoreality.json](./322160-holoreality.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
@@ -7381,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
+| Hyss | 112985 | [112985-hyss.json](./112985-hyss.json) |
 | Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
