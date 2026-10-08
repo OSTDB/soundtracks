@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
+| Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
@@ -5238,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
+| City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
 | City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
 | City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
 | City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
@@ -7255,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander: Conquest of the Americas - Colonial Navy | 170860 | [170860-commander-conquest-of-the-americas-colonial-navy.json](./170860-commander-conquest-of-the-americas-colonial-navy.json) |
 | Commander: Europe at War | 324929 | [324929-commander-europe-at-war.json](./324929-commander-europe-at-war.json) |
 | Commander: Modern War | 234017 | [234017-commander-modern-war.json](./234017-commander-modern-war.json) |
+| Commander: The Great War | 17607 | [17607-commander-the-great-war.json](./17607-commander-the-great-war.json) |
 | Commander: Zombie Wars | 258969 | [258969-commander-zombie-wars.json](./258969-commander-zombie-wars.json) |
 | Commander.io | 208914 | [208914-commander-io.json](./208914-commander-io.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
