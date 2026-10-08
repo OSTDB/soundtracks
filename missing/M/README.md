@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manx TT Super Bike | 36572 | [36572-manx-tt-super-bike.json](./36572-manx-tt-super-bike.json) |
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
+| Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
@@ -4004,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Black Knight | 19183 | [19183-mechwarrior-4-black-knight.json](./19183-mechwarrior-4-black-knight.json) |
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 4: Inner Sphere 'Mech Pak | 71752 | [71752-mechwarrior-4-inner-sphere-mech-pak.json](./71752-mechwarrior-4-inner-sphere-mech-pak.json) |
+| Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
 | MechWarrior 5: Mercenaries - Dropship Collection | 154618 | [154618-mechwarrior-5-mercenaries-dropship-collection.json](./154618-mechwarrior-5-mercenaries-dropship-collection.json) |
@@ -12146,6 +12148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
 | Mycopsychosys: Project Jupiter | 373683 | [373683-mycopsychosys-project-jupiter.json](./373683-mycopsychosys-project-jupiter.json) |
+| Mycopunk | 342011 | [342011-mycopunk.json](./342011-mycopunk.json) |
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
@@ -12548,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Palace | 122973 | [122973-mythic-palace.json](./122973-mythic-palace.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
+| Mythic Realms | 335289 | [335289-mythic-realms.json](./335289-mythic-realms.json) |
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Wonders: The Child of Prophecy | 59790 | [59790-mythic-wonders-the-child-of-prophecy.json](./59790-mythic-wonders-the-child-of-prophecy.json) |
