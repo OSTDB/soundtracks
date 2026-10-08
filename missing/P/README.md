@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peoplemon | 140920 | [140920-peoplemon.json](./140920-peoplemon.json) |
 | Peopletale Online | 176790 | [176790-peopletale-online.json](./176790-peopletale-online.json) |
 | Pepe Chatters | 287356 | [287356-pepe-chatters.json](./287356-pepe-chatters.json) |
+| Pepe Pillz | 393523 | [393523-pepe-pillz.json](./393523-pepe-pillz.json) |
 | Pepe's Little Adventure | 325703 | [325703-pepes-little-adventure.json](./325703-pepes-little-adventure.json) |
 | Pepez: The game | 341584 | [341584-pepez-the-game.json](./341584-pepez-the-game.json) |
 | Pepi Doctor | 343994 | [343994-pepi-doctor.json](./343994-pepi-doctor.json) |
