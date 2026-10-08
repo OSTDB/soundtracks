@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
+| Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
@@ -5716,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
+| ClickRaid2 | 120019 | [120019-clickraid2.json](./120019-clickraid2.json) |
 | Clicks Of Courage | 249717 | [249717-clicks-of-courage.json](./249717-clicks-of-courage.json) |
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
 | ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
