@@ -2230,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
+| VR Invaders | 30365 | [30365-vr-invaders.json](./30365-vr-invaders.json) |
 | VR Jetpack Game | 123389 | [123389-vr-jetpack-game.json](./123389-vr-jetpack-game.json) |
 | VR Journey | 31345 | [31345-vr-journey.json](./31345-vr-journey.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
