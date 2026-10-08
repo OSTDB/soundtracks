@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarissa and the Legendary Sword | 287332 | [287332-sarissa-and-the-legendary-sword.json](./287332-sarissa-and-the-legendary-sword.json) |
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
+| Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot of Rhythm | 156703 | [156703-shot-of-rhythm.json](./156703-shot-of-rhythm.json) |
 | Shot One | 130767 | [130767-shot-one.json](./130767-shot-one.json) |
+| Shot One Fighters | 399869 | [399869-shot-one-fighters.json](./399869-shot-one-fighters.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
@@ -6834,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirène | 310975 | [310975-sirene.json](./310975-sirene.json) |
 | Sirenhead | 135760 | [135760-sirenhead.json](./135760-sirenhead.json) |
 | Sirenum | 255638 | [255638-sirenum.json](./255638-sirenum.json) |
+| Sirin's Feather | 399899 | [399899-sirins-feather.json](./399899-sirins-feather.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
 | Sirius-1 | 92129 | [92129-sirius-1.json](./92129-sirius-1.json) |
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
@@ -6982,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
 | Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
+| Skate Share Pack | 399897 | [399897-skate-share-pack.json](./399897-skate-share-pack.json) |
 | Skate Shop Simulator | 211269 | [211269-skate-shop-simulator.json](./211269-skate-shop-simulator.json) |
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
 | Skate Story | 129964 | [129964-skate-story.json](./129964-skate-story.json) |
@@ -7615,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slapshot: Rebound | 132909 | [132909-slapshot-rebound.json](./132909-slapshot-rebound.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
+| SlapTrax | 399885 | [399885-slaptrax.json](./399885-slaptrax.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash Abyss | 290629 | [290629-slash-abyss.json](./290629-slash-abyss.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
@@ -9525,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Gun | 51558 | [51558-solar-gun.json](./51558-solar-gun.json) |
 | Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
+| Solar Machina | 399904 | [399904-solar-machina.json](./399904-solar-machina.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
 | Solar Nations 2 | 401711 | [401711-solar-nations-2.json](./401711-solar-nations-2.json) |
 | Solar Pall | 267443 | [267443-solar-pall.json](./267443-solar-pall.json) |
@@ -15895,6 +15901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
 | Stitchcraft | 123985 | [123985-stitchcraft.json](./123985-stitchcraft.json) |
 | Stitched | 28121 | [28121-stitched.json](./28121-stitched.json) |
+| Stitchlings | 399879 | [399879-stitchlings.json](./399879-stitchlings.json) |
 | Stitchy in Tooki Trouble | 145804 | [145804-stitchy-in-tooki-trouble.json](./145804-stitchy-in-tooki-trouble.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | StixWorld | 76141 | [76141-stixworld.json](./76141-stixworld.json) |
