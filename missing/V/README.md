@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vamp Night | 148918 | [148918-vamp-night.json](./148918-vamp-night.json) |
 | Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
+| Vampir | 387578 | [387578-vampir.json](./387578-vampir.json) |
 | Vampir Kyuuketsuki Densetsu | 201080 | [201080-vampir-kyuuketsuki-densetsu.json](./201080-vampir-kyuuketsuki-densetsu.json) |
 | Vampirates | 344457 | [344457-vampirates.json](./344457-vampirates.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
