@@ -14331,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
+| Tok Hardcore | 116868 | [116868-tok-hardcore.json](./116868-tok-hardcore.json) |
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
@@ -17365,6 +17366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
+| Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped with Ivy & Piper | 385859 | [385859-trapped-with-ivy-and-piper.json](./385859-trapped-with-ivy-and-piper.json) |
