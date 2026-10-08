@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enclave HD | 169240 | [169240-enclave-hd.json](./169240-enclave-hd.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
 | Encleverment Experiment | 67956 | [67956-encleverment-experiment.json](./67956-encleverment-experiment.json) |
+| Enclosure | 415494 | [415494-enclosure.json](./415494-enclosure.json) |
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encode Encore! | 345690 | [345690-encode-encore.json](./345690-encode-encore.json) |
