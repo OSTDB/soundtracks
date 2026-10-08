@@ -4898,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Shadows | 380068 | [380068-among-shadows.json](./380068-among-shadows.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
+| Among the Clouds | 397421 | [397421-among-the-clouds.json](./397421-among-the-clouds.json) |
 | Among The Dead | 303157 | [303157-among-the-dead.json](./303157-among-the-dead.json) |
 | Among the Dead Ones | 174671 | [174671-among-the-dead-ones.json](./174671-among-the-dead-ones.json) |
 | Among the Innocent: A Stricken Tale | 30439 | [30439-among-the-innocent-a-stricken-tale.json](./30439-among-the-innocent-a-stricken-tale.json) |
@@ -6595,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce Room 2 | 237473 | [237473-apple-sauce-room-2.json](./237473-apple-sauce-room-2.json) |
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
+| Apple Season | 397413 | [397413-apple-season.json](./397413-apple-season.json) |
 | Apple Shooter | 202248 | [202248-apple-shooter.json](./202248-apple-shooter.json) |
 | Apple Slash | 128463 | [128463-apple-slash.json](./128463-apple-slash.json) |
 | Apple Town Monogatari: Little Computer People | 41281 | [41281-apple-town-monogatari-little-computer-people.json](./41281-apple-town-monogatari-little-computer-people.json) |
@@ -10346,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Aye Captain | 401886 | [401886-aye-aye-captain.json](./401886-aye-aye-captain.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
+| Aye! My Liege | 397390 | [397390-aye-my-liege.json](./397390-aye-my-liege.json) |
 | Aylin: The Story of Tom | 359072 | [359072-aylin-the-story-of-tom.json](./359072-aylin-the-story-of-tom.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
