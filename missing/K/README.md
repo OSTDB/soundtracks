@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
+| Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
@@ -1913,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
 | Kingdom Come: Deliverance II - The Lion’s Crest | 337179 | [337179-kingdom-come-deliverance-ii-the-lion-s-crest.json](./337179-kingdom-come-deliverance-ii-the-lion-s-crest.json) |
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
+| Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
@@ -3122,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
+| Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
