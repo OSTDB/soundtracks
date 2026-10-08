@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
 | Heroic Hop: A New Adventure Begins | 371985 | [371985-heroic-hop-a-new-adventure-begins.json](./371985-heroic-hop-a-new-adventure-begins.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
+| Heroic Musical Chairs | 397371 | [397371-heroic-musical-chairs.json](./397371-heroic-musical-chairs.json) |
 | Heroic Pirates | 190042 | [190042-heroic-pirates.json](./190042-heroic-pirates.json) |
 | Heroic Songs: The Remix! | 369057 | [369057-heroic-songs-the-remix.json](./369057-heroic-songs-the-remix.json) |
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
@@ -6638,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR: Human Remains | 347337 | [347337-hr-human-remains.json](./347337-hr-human-remains.json) |
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
+| HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
