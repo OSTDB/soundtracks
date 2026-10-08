@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Shore | 244710 | [244710-war-shore.json](./244710-war-shore.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
+| War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
@@ -1948,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
+| Welcome to Paradise | 119827 | [119827-welcome-to-paradise.json](./119827-welcome-to-paradise.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Paradize: Zombot Edition | 288857 | [288857-welcome-to-paradize-zombot-edition.json](./288857-welcome-to-paradize-zombot-edition.json) |
 | Welcome to Pinehills | 165673 | [165673-welcome-to-pinehills.json](./165673-welcome-to-pinehills.json) |
