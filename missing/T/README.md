@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | T3D: Genesis | 213357 | [213357-t3d-genesis.json](./213357-t3d-genesis.json) |
+| T7's Basics Plus | 415469 | [415469-t7s-basics-plus.json](./415469-t7s-basics-plus.json) |
 | T90 Tank Battle Simulator in VR | 193186 | [193186-t90-tank-battle-simulator-in-vr.json](./193186-t90-tank-battle-simulator-in-vr.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
 | Ta ga tame no Alchemist | 216212 | [216212-ta-ga-tame-no-alchemist.json](./216212-ta-ga-tame-no-alchemist.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apartment | 281032 | [281032-the-apartment.json](./281032-the-apartment.json) |
 | The Apartment | 81900 | [81900-the-apartment.json](./81900-the-apartment.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
+| The Apartment Next Door | 415499 | [415499-the-apartment-next-door.json](./415499-the-apartment-next-door.json) |
 | The Ape Painting | 240241 | [240241-the-ape-painting.json](./240241-the-ape-painting.json) |
 | The Aperture Dilemma | 378905 | [378905-the-aperture-dilemma.json](./378905-the-aperture-dilemma.json) |
 | The Apocalypse of You | 178999 | [178999-the-apocalypse-of-you.json](./178999-the-apocalypse-of-you.json) |
@@ -4062,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
 | The Brains & The Brawn | 221771 | [221771-the-brains-and-the-brawn.json](./221771-the-brains-and-the-brawn.json) |
 | The Branch | 231456 | [231456-the-branch.json](./231456-the-branch.json) |
+| The Brave Hearts II: False Skies | 415480 | [415480-the-brave-hearts-ii-false-skies.json](./415480-the-brave-hearts-ii-false-skies.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
 | The Brave Never Alone | 351109 | [351109-the-brave-never-alone.json](./351109-the-brave-never-alone.json) |
@@ -6499,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Platinum Stars | 22507 | [22507-the-idolmaster-platinum-stars.json](./22507-the-idolmaster-platinum-stars.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
+| The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
 | The Idolmaster: Shiny Festa - Funky Note | 42797 | [42797-the-idolmaster-shiny-festa-funky-note.json](./42797-the-idolmaster-shiny-festa-funky-note.json) |
@@ -9935,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snaplock | 409740 | [409740-the-snaplock.json](./409740-the-snaplock.json) |
 | The Snapper | 285672 | [285672-the-snapper.json](./285672-the-snapper.json) |
 | The Snare | 279904 | [279904-the-snare.json](./279904-the-snare.json) |
+| The Snare Below | 415470 | [415470-the-snare-below.json](./415470-the-snare-below.json) |
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow | 53776 | [53776-the-snow.json](./53776-the-snow.json) |
@@ -10446,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tooth Fae | 374729 | [374729-the-tooth-fae.json](./374729-the-tooth-fae.json) |
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
 | The Torture House | 303177 | [303177-the-torture-house.json](./303177-the-torture-house.json) |
+| The Touch | 415498 | [415498-the-touch.json](./415498-the-touch.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
@@ -18600,6 +18606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
 | Trust No Bunny | 195028 | [195028-trust-no-bunny.json](./195028-trust-no-bunny.json) |
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
+| Trust the Watchers | 415497 | [415497-trust-the-watchers.json](./415497-trust-the-watchers.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
 | Truth | 259040 | [259040-truth.json](./259040-truth.json) |
 | Truth & Trolls [Episode 1: Broken Promises] | 109069 | [109069-truth-and-trolls-episode-1-broken-promises.json](./109069-truth-and-trolls-episode-1-broken-promises.json) |
@@ -18914,6 +18921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
 | TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
+| Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
