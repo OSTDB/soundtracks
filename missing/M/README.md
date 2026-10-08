@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manabi Get! | 222205 | [222205-manabi-get.json](./222205-manabi-get.json) |
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
+| ManaCollect | 11572 | [11572-manacollect.json](./11572-manacollect.json) |
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
@@ -10859,6 +10860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen no Shinzou III | 281031 | [281031-mugen-no-shinzou-iii.json](./281031-mugen-no-shinzou-iii.json) |
 | Mugen no Yoru | 284608 | [284608-mugen-no-yoru.json](./284608-mugen-no-yoru.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
+| Mugen Souls | 11501 | [11501-mugen-souls.json](./11501-mugen-souls.json) |
 | Mugen Souls Double Pack | 262325 | [262325-mugen-souls-double-pack.json](./262325-mugen-souls-double-pack.json) |
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Mugen Sweeper | 256910 | [256910-mugen-sweeper.json](./256910-mugen-sweeper.json) |
@@ -11351,6 +11353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
+| Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
@@ -11359,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
+| Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 | 143336 | [143336-muv-luv-unlimited-the-day-after-episode-00.json](./143336-muv-luv-unlimited-the-day-after-episode-00.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 01 | 143337 | [143337-muv-luv-unlimited-the-day-after-episode-01.json](./143337-muv-luv-unlimited-the-day-after-episode-01.json) |
