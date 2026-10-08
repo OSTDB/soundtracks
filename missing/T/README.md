@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
 | Taz-Mania | 83904 | [83904-taz-mania.json](./83904-taz-mania.json) |
+| Taz-Mania 2 | 49060 | [49060-taz-mania-2.json](./49060-taz-mania-2.json) |
 | Taz: Wanted | 4194 | [4194-taz-wanted.json](./4194-taz-wanted.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | Tazz | 293321 | [293321-tazz.json](./293321-tazz.json) |
@@ -3366,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
+| The Adventures of Tintin: Prisoners of the Sun | 50042 | [50042-the-adventures-of-tintin-prisoners-of-the-sun.json](./50042-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: The Game | 6473 | [6473-the-adventures-of-tintin-the-game.json](./6473-the-adventures-of-tintin-the-game.json) |
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
@@ -18840,6 +18842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
+| Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
