@@ -4404,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Everseas | 89524 | [89524-pirates-of-everseas.json](./89524-pirates-of-everseas.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
+| Pirates of Perfidy | 420549 | [420549-pirates-of-perfidy.json](./420549-pirates-of-perfidy.json) |
 | Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
@@ -5119,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PKR Let's Play | 62804 | [62804-pkr-lets-play.json](./62804-pkr-lets-play.json) |
 | Pl¢tfarmer | 307036 | [307036-pl-tfarmer.json](./307036-pl-tfarmer.json) |
 | PL4no-B | 340583 | [340583-pl4no-b.json](./340583-pl4no-b.json) |
+| Pla-toon 2 | 420543 | [420543-pla-toon-2.json](./420543-pla-toon-2.json) |
 | Placards | 84815 | [84815-placards.json](./84815-placards.json) |
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
 | Place for Hero | 153907 | [153907-place-for-hero.json](./153907-place-for-hero.json) |
@@ -5136,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Breaker | 155974 | [155974-plague-breaker.json](./155974-plague-breaker.json) |
 | Plague Doctor | 287790 | [287790-plague-doctor.json](./287790-plague-doctor.json) |
 | Plague Doctor and Panacea | 365211 | [365211-plague-doctor-and-panacea.json](./365211-plague-doctor-and-panacea.json) |
+| Plague Doctor vs. the Profane | 420546 | [420546-plague-doctor-vs-the-profane.json](./420546-plague-doctor-vs-the-profane.json) |
 | Plague Doctor: Contagion - 430 BCE-2020 AD | 174100 | [174100-plague-doctor-contagion-430-bce-2020-ad.json](./174100-plague-doctor-contagion-430-bce-2020-ad.json) |
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
@@ -5779,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
+| Plunder Protocol | 420544 | [420544-plunder-protocol.json](./420544-plunder-protocol.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
@@ -8767,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
+| Project 117 | 420551 | [420551-project-117.json](./420551-project-117.json) |
 | Project 13 | 281467 | [281467-project-13.json](./281467-project-13.json) |
 | Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
@@ -9277,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Two - Mark Version | 215124 | [215124-project-summer-ice-bowling-story-two-mark-version.json](./215124-project-summer-ice-bowling-story-two-mark-version.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
+| Project: Taco | 420547 | [420547-project-taco.json](./420547-project-taco.json) |
 | Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
