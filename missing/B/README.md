@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
 | Bakeborough | 211085 | [211085-bakeborough.json](./211085-bakeborough.json) |
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
+| Baked With Love | 412906 | [412906-baked-with-love.json](./412906-baked-with-love.json) |
 | Baked:Magic | 135024 | [135024-baked-magic.json](./135024-baked-magic.json) |
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
@@ -4530,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimfli & His Time Travels: Egypt | 328557 | [328557-bimfli-and-his-time-travels-egypt.json](./328557-bimfli-and-his-time-travels-egypt.json) |
 | Bimfli & His Time Travels: Japan | 328556 | [328556-bimfli-and-his-time-travels-japan.json](./328556-bimfli-and-his-time-travels-japan.json) |
 | Bimfli and His Travels In Time: Greece | 328558 | [328558-bimfli-and-his-travels-in-time-greece.json](./328558-bimfli-and-his-travels-in-time-greece.json) |
+| BimiCraft: Beyond Earth | 412886 | [412886-bimicraft-beyond-earth.json](./412886-bimicraft-beyond-earth.json) |
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bimsy Dreams | 183419 | [183419-bimsy-dreams.json](./183419-bimsy-dreams.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
@@ -5025,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitgun | 163870 | [163870-bitgun.json](./163870-bitgun.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
+| Bitiverse | 412905 | [412905-bitiverse.json](./412905-bitiverse.json) |
 | Bitlands | 197193 | [197193-bitlands.json](./197193-bitlands.json) |
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
@@ -6134,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockappend | 236764 | [236764-blockappend.json](./236764-blockappend.json) |
 | Blockara | 43493 | [43493-blockara.json](./43493-blockara.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
+| BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
@@ -9108,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Covenant | 282699 | [282699-broken-covenant.json](./282699-broken-covenant.json) |
 | Broken Crescent | 356248 | [356248-broken-crescent.json](./356248-broken-crescent.json) |
 | Broken Darwin | 124659 | [124659-broken-darwin.json](./124659-broken-darwin.json) |
+| Broken Depths RPG | 412898 | [412898-broken-depths-rpg.json](./412898-broken-depths-rpg.json) |
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
