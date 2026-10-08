@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
+| Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Night Shift | 273471 | [273471-last-night-shift.json](./273471-last-night-shift.json) |
 | Last Ninja 3 | 8403 | [8403-last-ninja-3.json](./8403-last-ninja-3.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
+| Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
 | Last Victim: House of Fear | 329086 | [329086-last-victim-house-of-fear.json](./329086-last-victim-house-of-fear.json) |
 | Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
@@ -2102,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Happen | 129663 | [129663-let-it-happen.json](./129663-let-it-happen.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
 | Let It Roll | 222244 | [222244-let-it-roll.json](./222244-let-it-roll.json) |
+| Let Me Die | 419163 | [419163-let-me-die.json](./419163-let-me-die.json) |
 | Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
 | Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
 | Let Me In | 342726 | [342726-let-me-in.json](./342726-let-me-in.json) |
@@ -3863,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Load Runner 4 | 39511 | [39511-load-runner-4.json](./39511-load-runner-4.json) |
 | Load Slinging VR Training | 224599 | [224599-load-slinging-vr-training.json](./224599-load-slinging-vr-training.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
+| Loaded Dice | 419162 | [419162-loaded-dice.json](./419162-loaded-dice.json) |
 | Loader | 96679 | [96679-loader.json](./96679-loader.json) |
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
 | Loaders | 355569 | [355569-loaders.json](./355569-loaders.json) |
