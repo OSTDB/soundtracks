@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest II | 93202 | [93202-quest-ii.json](./93202-quest-ii.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
+| Quest of Dungeons | 414880 | [414880-quest-of-dungeons.json](./414880-quest-of-dungeons.json) |
 | Quest of Goddess | 277945 | [277945-quest-of-goddess.json](./277945-quest-of-goddess.json) |
 | Quest of Graal | 182930 | [182930-quest-of-graal.json](./182930-quest-of-graal.json) |
 | Quest of Graal DX | 192320 | [192320-quest-of-graal-dx.json](./192320-quest-of-graal-dx.json) |
