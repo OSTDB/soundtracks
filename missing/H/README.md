@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
 | Hagalegacy | 311113 | [311113-hagalegacy.json](./311113-hagalegacy.json) |
+| Hagane Orchestra | 393562 | [393562-hagane-orchestra.json](./393562-hagane-orchestra.json) |
 | Hagane: The Final Conflict | 42611 | [42611-hagane-the-final-conflict.json](./42611-hagane-the-final-conflict.json) |
 | Hagar the Horrible | 47229 | [47229-hagar-the-horrible.json](./47229-hagar-the-horrible.json) |
 | Hageransu | 345631 | [345631-hageransu.json](./345631-hageransu.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakkenkast | 311673 | [311673-hakkenkast.json](./311673-hakkenkast.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
 | Hako Maze | 409686 | [409686-hako-maze.json](./409686-hako-maze.json) |
+| Hako Tower | 393535 | [393535-hako-tower.json](./393535-hako-tower.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
 | Hakonde Pon! | 206045 | [206045-hakonde-pon.json](./206045-hakonde-pon.json) |
 | Hakonde! Utte! Quiz 4-taku Typing | 355220 | [355220-hakonde-utte-quiz-4-taku-typing.json](./355220-hakonde-utte-quiz-4-taku-typing.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
 | Heave Ho | 116685 | [116685-heave-ho.json](./116685-heave-ho.json) |
 | Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
+| Heave Ho 2 | 393563 | [393563-heave-ho-2.json](./393563-heave-ho-2.json) |
 | Heave-Ho: Uphill | 402349 | [402349-heave-ho-uphill.json](./402349-heave-ho-uphill.json) |
 | Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
@@ -2094,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
 | Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
+| Heaven's Door | 393565 | [393565-heavens-door.json](./393565-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
 | Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
 | Heaven's Hope | 17992 | [17992-heavens-hope.json](./17992-heavens-hope.json) |
@@ -6888,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
+| Hungry | 393567 | [393567-hungry.json](./393567-hungry.json) |
 | Hungry Adventurer | 248013 | [248013-hungry-adventurer.json](./248013-hungry-adventurer.json) |
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Birds | 187889 | [187889-hungry-birds.json](./187889-hungry-birds.json) |
