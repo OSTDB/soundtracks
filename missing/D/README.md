@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
+| Deep Ones | 55258 | [55258-deep-ones.json](./55258-deep-ones.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
 | Deep Race: Battle | 121557 | [121557-deep-race-battle.json](./121557-deep-race-battle.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
 | Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
+| Defendoooooor!! | 55229 | [55229-defendoooooor.json](./55229-defendoooooor.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
@@ -3693,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonrift TD : The Mountain of doom | 136247 | [136247-demonrift-td-the-mountain-of-doom.json](./136247-demonrift-td-the-mountain-of-doom.json) |
 | Demonrock: War of Ages | 216156 | [216156-demonrock-war-of-ages.json](./216156-demonrock-war-of-ages.json) |
 | Demons | 306588 | [306588-demons.json](./306588-demons.json) |
+| Demons Age | 55050 | [55050-demons-age.json](./55050-demons-age.json) |
 | Demons and Altar | 208832 | [208832-demons-and-altar.json](./208832-demons-and-altar.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
