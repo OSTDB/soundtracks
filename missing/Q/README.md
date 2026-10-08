@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Loyalty | 298640 | [298640-queens-loyalty.json](./298640-queens-loyalty.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 2: Stories of Forgotten Past - Collector's Edition | 343352 | [343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json](./343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json) |
+| Queen's Quest 3: The End of Dawn | 28310 | [28310-queens-quest-3-the-end-of-dawn.json](./28310-queens-quest-3-the-end-of-dawn.json) |
 | Queen's Quest 4: Sacred Truce | 97109 | [97109-queens-quest-4-sacred-truce.json](./97109-queens-quest-4-sacred-truce.json) |
 | Queen's Quest 5: Symphony of Death | 120841 | [120841-queens-quest-5-symphony-of-death.json](./120841-queens-quest-5-symphony-of-death.json) |
 | Queen's Quest Bundle | 280418 | [280418-queens-quest-bundle.json](./280418-queens-quest-bundle.json) |
