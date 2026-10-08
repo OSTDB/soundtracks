@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25°N 71°W Remastered | 279680 | [279680-25-n-71-w-remastered.json](./279680-25-n-71-w-remastered.json) |
 | 250-man-nin no Kanken Premium: Zenkyuu Zen-Kanji Kanzen Seiha | 342835 | [342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json](./342835-250-man-nin-no-kanken-premium-zenkyuu-zen-kanji-kanzen-seiha.json) |
 | 250-man-nin no Kanken: Wii de Tokoton Kanji Nou | 60082 | [60082-250-man-nin-no-kanken-wii-de-tokoton-kanji-nou.json](./60082-250-man-nin-no-kanken-wii-de-tokoton-kanji-nou.json) |
+| 250+ Solitaires | 87139 | [87139-250-solitaires.json](./87139-250-solitaires.json) |
 | 256 cosas en común entre una cama, un libro y una cerveza | 331972 | [331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json](./331972-256-cosas-en-comun-entre-una-cama-un-libro-y-una-cerveza.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
