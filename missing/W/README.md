@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
+| War in a Box: Paper Tanks | 17563 | [17563-war-in-a-box-paper-tanks.json](./17563-war-in-a-box-paper-tanks.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
@@ -3189,8 +3190,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
+| Wildlife Park 2: Dino World | 17551 | [17551-wildlife-park-2-dino-world.json](./17551-wildlife-park-2-dino-world.json) |
 | Wildlife Park 2: Domestic Animals | 163273 | [163273-wildlife-park-2-domestic-animals.json](./163273-wildlife-park-2-domestic-animals.json) |
+| Wildlife Park 2: Fantasy | 17553 | [17553-wildlife-park-2-fantasy.json](./17553-wildlife-park-2-fantasy.json) |
+| Wildlife Park 2: Farm World | 17550 | [17550-wildlife-park-2-farm-world.json](./17550-wildlife-park-2-farm-world.json) |
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
+| Wildlife Park 2: Marine World | 17549 | [17549-wildlife-park-2-marine-world.json](./17549-wildlife-park-2-marine-world.json) |
 | Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
@@ -5005,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
+| World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
