@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
 | Tank Battle: North Africa | 32775 | [32775-tank-battle-north-africa.json](./32775-tank-battle-north-africa.json) |
 | Tank Battle: Pacific | 44090 | [44090-tank-battle-pacific.json](./44090-tank-battle-pacific.json) |
+| Tank Beat | 21532 | [21532-tank-beat.json](./21532-tank-beat.json) |
 | Tank Blazers | 113155 | [113155-tank-blazers.json](./113155-tank-blazers.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Turtles in Time | 205211 | [205211-teenage-mutant-ninja-turtles-turtles-in-time.json](./205211-teenage-mutant-ninja-turtles-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
+| Teenage Zombies: Invasion of the Alien Brain Thingys! | 21301 | [21301-teenage-zombies-invasion-of-the-alien-brain-thingys.json](./21301-teenage-zombies-invasion-of-the-alien-brain-thingys.json) |
 | Teenagent | 8285 | [8285-teenagent.json](./8285-teenagent.json) |
 | Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
 | Teeny Dungeon | 245798 | [245798-teeny-dungeon.json](./245798-teeny-dungeon.json) |
@@ -2981,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Mario Bros. | 250321 | [250321-tetris-mario-bros.json](./250321-tetris-mario-bros.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
+| Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
@@ -11150,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
 | The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
+| The Wizard of Oz: Beyond the Yellow Brick Road | 21116 | [21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json](./21116-the-wizard-of-oz-beyond-the-yellow-brick-road.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wizard Sniffer | 123477 | [123477-the-wizard-sniffer.json](./123477-the-wizard-sniffer.json) |
 | The Wizard: WizHarder Edition | 141234 | [141234-the-wizard-wizharder-edition.json](./141234-the-wizard-wizharder-edition.json) |
@@ -13311,6 +13315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
+| Time Ace | 21545 | [21545-time-ace.json](./21545-time-ace.json) |
 | Time Alive | 186099 | [186099-time-alive.json](./186099-time-alive.json) |
 | Time and Eternity | 19922 | [19922-time-and-eternity.json](./19922-time-and-eternity.json) |
 | Time and Magik: The Trilogy | 15497 | [15497-time-and-magik-the-trilogy.json](./15497-time-and-magik-the-trilogy.json) |
@@ -14689,6 +14694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome: Immortal Arena | 62570 | [62570-tome-immortal-arena.json](./62570-tome-immortal-arena.json) |
 | Tomeling | 85448 | [85448-tomeling.json](./85448-tomeling.json) |
 | Tomeling in Trouble | 85447 | [85447-tomeling-in-trouble.json](./85447-tomeling-in-trouble.json) |
+| Tomena Sanner | 21158 | [21158-tomena-sanner.json](./21158-tomena-sanner.json) |
 | TomeNet | 98397 | [98397-tomenet.json](./98397-tomenet.json) |
 | Tomes and Quests: A Word RPG | 157525 | [157525-tomes-and-quests-a-word-rpg.json](./157525-tomes-and-quests-a-word-rpg.json) |
 | Tomes and Quests: Nemesis Campaign | 241665 | [241665-tomes-and-quests-nemesis-campaign.json](./241665-tomes-and-quests-nemesis-campaign.json) |
@@ -15078,6 +15084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
 | Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
+| Tornado | 21333 | [21333-tornado.json](./21333-tornado.json) |
 | Tornado | 233481 | [233481-tornado.json](./233481-tornado.json) |
 | Tornado | 266173 | [266173-tornado.json](./266173-tornado.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
@@ -15401,6 +15408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
+| TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
 | Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
@@ -17632,6 +17640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Tales | 301261 | [301261-trench-tales.json](./301261-trench-tales.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Trenchblocks | 417575 | [417575-trenchblocks.json](./417575-trenchblocks.json) |
+| Trenched | 21149 | [21149-trenched.json](./21149-trenched.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
@@ -17928,6 +17937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Adventures | 111456 | [111456-trio-adventures.json](./111456-trio-adventures.json) |
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
+| Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
 | Trip | 110120 | [110120-trip.json](./110120-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
