@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Dawn of War IV | 361859 | [361859-warhammer-40-000-dawn-of-war-iv.json](./361859-warhammer-40-000-dawn-of-war-iv.json) |
 | Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
+| Warhammer 40,000: Deathwatch Tyranids Invasion | 30804 | [30804-warhammer-40-000-deathwatch-tyranids-invasion.json](./30804-warhammer-40-000-deathwatch-tyranids-invasion.json) |
 | Warhammer 40,000: Eternal Crusade | 7630 | [7630-warhammer-40-000-eternal-crusade.json](./7630-warhammer-40-000-eternal-crusade.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Imperium Edition | 53902 | [53902-warhammer-40-000-eternal-crusade-imperium-edition.json](./53902-warhammer-40-000-eternal-crusade-imperium-edition.json) |
@@ -4138,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy in Monster Land | 212868 | [212868-wonder-boy-in-monster-land.json](./212868-wonder-boy-in-monster-land.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
+| Wonder Boy Returns | 31404 | [31404-wonder-boy-returns.json](./31404-wonder-boy-returns.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
 | Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
@@ -4658,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
 | World End Coed | 159763 | [159763-world-end-coed.json](./159763-world-end-coed.json) |
+| World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
