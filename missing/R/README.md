@@ -4804,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | risTroyka | 142890 | [142890-ristroyka.json](./142890-ristroyka.json) |
 | Rita | 302037 | [302037-rita.json](./302037-rita.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
+| Rita's Flower Shop | 394136 | [394136-ritas-flower-shop.json](./394136-ritas-flower-shop.json) |
 | Ritbone | 118780 | [118780-ritbone.json](./118780-ritbone.json) |
 | Rite as Rain | 249851 | [249851-rite-as-rain.json](./249851-rite-as-rain.json) |
 | Rite of Eris | 295392 | [295392-rite-of-eris.json](./295392-rite-of-eris.json) |
@@ -7197,6 +7198,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
 | Run Naked Woman Run | 112737 | [112737-run-naked-woman-run.json](./112737-run-naked-woman-run.json) |
 | Run Ninja Run | 190074 | [190074-run-ninja-run.json](./190074-run-ninja-run.json) |
+| Run Ninja Run | 394143 | [394143-run-ninja-run.json](./394143-run-ninja-run.json) |
+| Run Ninja Run 2 | 394144 | [394144-run-ninja-run-2.json](./394144-run-ninja-run-2.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Die | 378405 | [378405-run-or-die.json](./378405-run-or-die.json) |
