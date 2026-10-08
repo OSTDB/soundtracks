@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
+| D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
 | D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
@@ -3817,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia Collection | 119068 | [119068-deponia-collection.json](./119068-deponia-collection.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
+| Deported 2: Build That Wall | 112784 | [112784-deported-2-build-that-wall.json](./112784-deported-2-build-that-wall.json) |
 | Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
 | Deppart Prototype | 256802 | [256802-deppart-prototype.json](./256802-deppart-prototype.json) |
@@ -4784,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
 | Diaspora: Shattered Armistice | 50396 | [50396-diaspora-shattered-armistice.json](./50396-diaspora-shattered-armistice.json) |
+| Diastone: Memories | 112828 | [112828-diastone-memories.json](./112828-diastone-memories.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
