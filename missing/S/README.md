@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
+| S.O.V.A. | 421327 | [421327-s-o-v-a.json](./421327-s-o-v-a.json) |
 | S.P.I.C.E Arena | 96829 | [96829-s-p-i-c-e-arena.json](./96829-s-p-i-c-e-arena.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
+| S'More Words | 421371 | [421371-smore-words.json](./421371-smore-words.json) |
 | S&box | 142355 | [142355-s-and-box.json](./142355-s-and-box.json) |
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
@@ -1636,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
 | Scary Cabin | 68903 | [68903-scary-cabin.json](./68903-scary-cabin.json) |
+| Scary Cave | 421331 | [421331-scary-cave.json](./421331-scary-cave.json) |
 | Scary Cave Diving | 410301 | [410301-scary-cave-diving.json](./410301-scary-cave-diving.json) |
 | Scary Clown Death of Park | 235165 | [235165-scary-clown-death-of-park.json](./235165-scary-clown-death-of-park.json) |
 | Scary defense | 93731 | [93731-scary-defense.json](./93731-scary-defense.json) |
@@ -3130,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
+| Send & Defend | 421335 | [421335-send-and-defend.json](./421335-send-and-defend.json) |
 | Send In The Vampires | 386344 | [386344-send-in-the-vampires.json](./386344-send-in-the-vampires.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
 | Send them to the sky | 130227 | [130227-send-them-to-the-sky.json](./130227-send-them-to-the-sky.json) |
@@ -3550,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
+| Seven Senses | 421369 | [421369-seven-senses.json](./421369-seven-senses.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Souls Online | 166033 | [166033-seven-souls-online.json](./166033-seven-souls-online.json) |
@@ -7959,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
 | Slingshot Pilot | 373208 | [373208-slingshot-pilot.json](./373208-slingshot-pilot.json) |
 | Slingshot Quest | 391715 | [391715-slingshot-quest.json](./391715-slingshot-quest.json) |
+| Slingshot Ride | 421373 | [421373-slingshot-ride.json](./421373-slingshot-ride.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot Trip | 245935 | [245935-slingshot-trip.json](./245935-slingshot-trip.json) |
@@ -8694,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snazzy and Groovy in Crystal Town | 313205 | [313205-snazzy-and-groovy-in-crystal-town.json](./313205-snazzy-and-groovy-in-crystal-town.json) |
 | Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
+| Sneak Cheese | 421342 | [421342-sneak-cheese.json](./421342-sneak-cheese.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
@@ -9380,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
+| Sol Mates | 421343 | [421343-sol-mates.json](./421343-sol-mates.json) |
 | Sol Moonarge | 85809 | [85809-sol-moonarge.json](./85809-sol-moonarge.json) |
 | Sol Negro | 78899 | [78899-sol-negro.json](./78899-sol-negro.json) |
 | Sol Protocol | 380566 | [380566-sol-protocol.json](./380566-sol-protocol.json) |
