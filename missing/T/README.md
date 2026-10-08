@@ -8573,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
+| The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
 | The Outsider | 180560 | [180560-the-outsider.json](./180560-the-outsider.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
@@ -10076,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
+| The Subject | 105716 | [105716-the-subject.json](./105716-the-subject.json) |
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
@@ -18452,6 +18454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
+| TrueScale | 105891 | [105891-truescale.json](./105891-truescale.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
 | Truffle Saga | 17416 | [17416-truffle-saga.json](./17416-truffle-saga.json) |
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
@@ -19375,6 +19378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type & Hope!! | 317364 | [317364-type-and-hope.json](./317364-type-and-hope.json) |
 | Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
+| Type Defense | 105660 | [105660-type-defense.json](./105660-type-defense.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
