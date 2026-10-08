@@ -7664,6 +7664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
 | Poupée Girl DS | 122303 | [122303-poupee-girl-ds.json](./122303-poupee-girl-ds.json) |
 | Poupée Girl DS 2: Elegant Mint Style | 122302 | [122302-poupee-girl-ds-2-elegant-mint-style.json](./122302-poupee-girl-ds-2-elegant-mint-style.json) |
+| Poupou's Sausage Shop | 394114 | [394114-poupous-sausage-shop.json](./394114-poupous-sausage-shop.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
 | Pour There | 155994 | [155994-pour-there.json](./155994-pour-there.json) |
@@ -9632,6 +9633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | Psiplex | 305981 | [305981-psiplex.json](./305981-psiplex.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
+| Psps Dream Mart | 394109 | [394109-psps-dream-mart.json](./394109-psps-dream-mart.json) |
 | PSS-61 | 263675 | [263675-pss-61.json](./263675-pss-61.json) |
 | PSS-62 | 263676 | [263676-pss-62.json](./263676-pss-62.json) |
 | PSS-63 | 263678 | [263678-pss-63.json](./263678-pss-63.json) |
