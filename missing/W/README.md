@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks Deeds: Desolation horde | 282252 | [282252-warlocks-deeds-desolation-horde.json](./282252-warlocks-deeds-desolation-horde.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
+| Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win by Definition | 187263 | [187263-win-by-definition.json](./187263-win-by-definition.json) |
 | Win or Crash! | 287699 | [287699-win-or-crash.json](./287699-win-or-crash.json) |
 | Win or Lose | 246373 | [246373-win-or-lose.json](./246373-win-or-lose.json) |
+| Win Over That Delinquent Guy! | 400523 | [400523-win-over-that-delinquent-guy.json](./400523-win-over-that-delinquent-guy.json) |
 | Win Over the Flawed Girl | 248102 | [248102-win-over-the-flawed-girl.json](./248102-win-over-the-flawed-girl.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
