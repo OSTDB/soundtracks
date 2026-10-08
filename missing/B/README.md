@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
+| Bayou Boats | 387711 | [387711-bayou-boats.json](./387711-bayou-boats.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
 | Bazaar Simulator | 312155 | [312155-bazaar-simulator.json](./312155-bazaar-simulator.json) |
 | Bazar Don JC | 404447 | [404447-bazar-don-jc.json](./404447-bazar-don-jc.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Ballers VR | 277509 | [277509-big-ballers-vr.json](./277509-big-ballers-vr.json) |
+| Big Balls | 387701 | [387701-big-balls.json](./387701-big-balls.json) |
 | Big Band Survivors | 374786 | [374786-big-band-survivors.json](./374786-big-band-survivors.json) |
 | Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
@@ -6227,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
+| Blocks Ahoy! | 387562 | [387562-blocks-ahoy.json](./387562-blocks-ahoy.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
 | Blocks for Babies | 284014 | [284014-blocks-for-babies.json](./284014-blocks-for-babies.json) |
 | Blocks Mania | 66385 | [66385-blocks-mania.json](./66385-blocks-mania.json) |
@@ -6411,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
 | Blood Oath | 64716 | [64716-blood-oath.json](./64716-blood-oath.json) |
+| Blood of a Demon | 387703 | [387703-blood-of-a-demon.json](./387703-blood-of-a-demon.json) |
 | Blood of Bahamut | 70641 | [70641-blood-of-bahamut.json](./70641-blood-of-bahamut.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
@@ -7863,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOT.vinnik Chess 2 | 219300 | [219300-bot-vinnik-chess-2.json](./219300-bot-vinnik-chess-2.json) |
 | Bot.vinnik Chess Masters Academy | 361907 | [361907-bot-vinnik-chess-masters-academy.json](./361907-bot-vinnik-chess-masters-academy.json) |
 | Bot.vinnik Chess: Early USSR Championships | 166169 | [166169-bot-vinnik-chess-early-ussr-championships.json](./166169-bot-vinnik-chess-early-ussr-championships.json) |
+| Bot.vinnik Chess: Legendary Queens | 387704 | [387704-bot-vinnik-chess-legendary-queens.json](./387704-bot-vinnik-chess-legendary-queens.json) |
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
