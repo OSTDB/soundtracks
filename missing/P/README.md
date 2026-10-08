@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
 | Photon Rush | 44197 | [44197-photon-rush.json](./44197-photon-rush.json) |
 | Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
+| Photoncytosis | 421345 | [421345-photoncytosis.json](./421345-photoncytosis.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
@@ -4308,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Adventure | 176799 | [176799-pirate-adventure.json](./176799-pirate-adventure.json) |
 | Pirate Adventures lite: hidden object game | 88358 | [88358-pirate-adventures-lite-hidden-object-game.json](./88358-pirate-adventures-lite-hidden-object-game.json) |
 | Pirate Adventures: hidden object game | 104630 | [104630-pirate-adventures-hidden-object-game.json](./104630-pirate-adventures-hidden-object-game.json) |
+| Pirate and Parrots | 421370 | [421370-pirate-and-parrots.json](./421370-pirate-and-parrots.json) |
 | Pirate Blast | 175715 | [175715-pirate-blast.json](./175715-pirate-blast.json) |
 | Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
