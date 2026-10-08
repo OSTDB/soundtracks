@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captured Nao: Sexual Violation | 97842 | [97842-captured-nao-sexual-violation.json](./97842-captured-nao-sexual-violation.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
+| Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
 | Capy's Hot Springs Haven | 389706 | [389706-capys-hot-springs-haven.json](./389706-capys-hot-springs-haven.json) |
@@ -2563,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Inn | 405607 | [405607-cauldron-inn.json](./405607-cauldron-inn.json) |
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
+| Causal Loop | 339820 | [339820-causal-loop.json](./339820-causal-loop.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Causality | 27072 | [27072-causality.json](./27072-causality.json) |
