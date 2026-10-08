@@ -6944,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger Pinball | 63920 | [63920-frogger-pinball.json](./63920-frogger-pinball.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger TV Arcade | 220091 | [220091-frogger-tv-arcade.json](./220091-frogger-tv-arcade.json) |
+| Frogger: Ancient Shadow | 3924 | [3924-frogger-ancient-shadow.json](./3924-frogger-ancient-shadow.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
@@ -7771,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FurtherTime 1.0 | 86038 | [86038-furthertime-1-0.json](./86038-furthertime-1-0.json) |
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
 | Furtum Sacrum | 329767 | [329767-furtum-sacrum.json](./329767-furtum-sacrum.json) |
+| Furu Furu Park | 4875 | [4875-furu-furu-park.json](./4875-furu-furu-park.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
 | Furusoma | 230228 | [230228-furusoma.json](./230228-furusoma.json) |
