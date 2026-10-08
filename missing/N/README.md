@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
+| Need For Drink | 29014 | [29014-need-for-drink.json](./29014-need-for-drink.json) |
 | Need for Drive: Car Racing | 251047 | [251047-need-for-drive-car-racing.json](./251047-need-for-drive-car-racing.json) |
 | Need for Drive: Open World Multiplayer Racing | 163830 | [163830-need-for-drive-open-world-multiplayer-racing.json](./163830-need-for-drive-open-world-multiplayer-racing.json) |
 | Need for Kill | 333213 | [333213-need-for-kill.json](./333213-need-for-kill.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephilim Resurrection | 323233 | [323233-nephilim-resurrection.json](./323233-nephilim-resurrection.json) |
+| Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neppachi: 10-renchan de Las Vegas Ryokou | 272455 | [272455-neppachi-10-renchan-de-las-vegas-ryokou.json](./272455-neppachi-10-renchan-de-las-vegas-ryokou.json) |
@@ -2118,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Generation Tennis 2003 | 43443 | [43443-next-generation-tennis-2003.json](./43443-next-generation-tennis-2003.json) |
 | Next In Line | 366958 | [366958-next-in-line.json](./366958-next-in-line.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
+| Next jump: Shmup Tactics | 28665 | [28665-next-jump-shmup-tactics.json](./28665-next-jump-shmup-tactics.json) |
 | Next Life | 51367 | [51367-next-life.json](./51367-next-life.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
 | Next of Kin: Epiphany | 420665 | [420665-next-of-kin-epiphany.json](./420665-next-of-kin-epiphany.json) |
@@ -2222,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Street 3 | 8266 | [8266-nfl-street-3.json](./8266-nfl-street-3.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
+| Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
 | Ngolf: Colorful Golf Balls 2 | 300953 | [300953-ngolf-colorful-golf-balls-2.json](./300953-ngolf-colorful-golf-balls-2.json) |
 | Ngolf: Colorful Golf Balls 3 | 300954 | [300954-ngolf-colorful-golf-balls-3.json](./300954-ngolf-colorful-golf-balls-3.json) |
