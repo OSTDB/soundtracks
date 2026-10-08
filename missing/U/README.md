@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Moto Bike Simulator | 283221 | [283221-ultimate-moto-bike-simulator.json](./283221-ultimate-moto-bike-simulator.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
+| Ultimate Muscle: The Kinnikuman Legacy - The Path of the Superhero | 49208 | [49208-ultimate-muscle-the-kinnikuman-legacy-the-path-of-the-superhero.json](./49208-ultimate-muscle-the-kinnikuman-legacy-the-path-of-the-superhero.json) |
 | Ultimate Mutant Warrior 3D | 104267 | [104267-ultimate-mutant-warrior-3d.json](./104267-ultimate-mutant-warrior-3d.json) |
 | Ultimate Neural Network | 168657 | [168657-ultimate-neural-network.json](./168657-ultimate-neural-network.json) |
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
@@ -515,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
 | Ultra Genjin | 282804 | [282804-ultra-genjin.json](./282804-ultra-genjin.json) |
+| Ultra Golf | 49057 | [49057-ultra-golf.json](./49057-ultra-golf.json) |
 | Ultra Hat Dimension | 59472 | [59472-ultra-hat-dimension.json](./59472-ultra-hat-dimension.json) |
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
 | Ultra Hot!! Pachi Game Spirit CR Evangelion: The First Gospel | 65557 | [65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json](./65557-ultra-hot-pachi-game-spirit-cr-evangelion-the-first-gospel.json) |
