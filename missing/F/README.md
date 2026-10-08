@@ -7819,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
+| Fury3 | 21787 | [21787-fury3.json](./21787-fury3.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 1828 | [1828-fuse.json](./1828-fuse.json) |
