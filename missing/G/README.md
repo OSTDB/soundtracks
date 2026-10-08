@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Signal: A Stellaris Game | 251560 | [251560-ghost-signal-a-stellaris-game.json](./251560-ghost-signal-a-stellaris-game.json) |
 | Ghost Signal: Fleet Expansion | 251575 | [251575-ghost-signal-fleet-expansion.json](./251575-ghost-signal-fleet-expansion.json) |
 | Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
+| Ghost Soul M | 410205 | [410205-ghost-soul-m.json](./410205-ghost-soul-m.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
 | Ghost Stories | 200443 | [200443-ghost-stories.json](./200443-ghost-stories.json) |
 | Ghost Stories 2 | 150607 | [150607-ghost-stories-2.json](./150607-ghost-stories-2.json) |
