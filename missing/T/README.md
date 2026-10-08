@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team of Bravery | 270891 | [270891-team-of-bravery.json](./270891-team-of-bravery.json) |
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
+| Team Panic | 404799 | [404799-team-panic.json](./404799-team-panic.json) |
 | Team Racing League | 32141 | [32141-team-racing-league.json](./32141-team-racing-league.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
 | Team Six | 255240 | [255240-team-six.json](./255240-team-six.json) |
@@ -7008,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
+| The Labyrinth on Burrow Hill | 403545 | [403545-the-labyrinth-on-burrow-hill.json](./403545-the-labyrinth-on-burrow-hill.json) |
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
@@ -8213,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
+| The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
@@ -8571,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
 | The Ones Who Answered | 410340 | [410340-the-ones-who-answered.json](./410340-the-ones-who-answered.json) |
 | The Oni Sellsword | 106403 | [106403-the-oni-sellsword.json](./106403-the-oni-sellsword.json) |
+| The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Only Survivor: Open world | 231887 | [231887-the-only-survivor-open-world.json](./231887-the-only-survivor-open-world.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
@@ -8890,6 +8894,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
 | The Pressure of Ambition | 352376 | [352376-the-pressure-of-ambition.json](./352376-the-pressure-of-ambition.json) |
+| The Pretender: Part One | 404851 | [404851-the-pretender-part-one.json](./404851-the-pretender-part-one.json) |
+| The Pretender: Part Three | 404856 | [404856-the-pretender-part-three.json](./404856-the-pretender-part-three.json) |
+| The Pretender: Part Two | 404853 | [404853-the-pretender-part-two.json](./404853-the-pretender-part-two.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
 | The Price Is Right | 198872 | [198872-the-price-is-right.json](./198872-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
@@ -9577,6 +9584,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seventh Sign: Mr.Sister | 187852 | [187852-the-seventh-sign-mr-sister.json](./187852-the-seventh-sign-mr-sister.json) |
 | The Seventh Star | 13755 | [13755-the-seventh-star.json](./13755-the-seventh-star.json) |
 | The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
+| The Several Journeys of Reemus Chapter 3: Know Thy Enemy | 404873 | [404873-the-several-journeys-of-reemus-chapter-3-know-thy-enemy.json](./404873-the-several-journeys-of-reemus-chapter-3-know-thy-enemy.json) |
+| The Several Journeys of Reemus Chapter 4: The Beastly Blackhole of Bureaucracy | 404876 | [404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json](./404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json) |
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
@@ -11471,6 +11480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zebra-Man! | 236250 | [236250-the-zebra-man.json](./236250-the-zebra-man.json) |
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
+| The Zibbo Show | 404798 | [404798-the-zibbo-show.json](./404798-the-zibbo-show.json) |
 | The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
@@ -13940,6 +13950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
+| Tiny Lands: Diorama set 1 | 404268 | [404268-tiny-lands-diorama-set-1.json](./404268-tiny-lands-diorama-set-1.json) |
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
 | Tiny Lands: Expansion Pack 3 | 289943 | [289943-tiny-lands-expansion-pack-3.json](./289943-tiny-lands-expansion-pack-3.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
@@ -15004,6 +15015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TongTong | 340026 | [340026-tongtong.json](./340026-tongtong.json) |
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
 | Tongueman's Logic | 311704 | [311704-tonguemans-logic.json](./311704-tonguemans-logic.json) |
+| Tongzhuo! Wo Xihuan Ni | 403640 | [403640-tongzhuo-wo-xihuan-ni.json](./403640-tongzhuo-wo-xihuan-ni.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
 | Tonic Tile | 57319 | [57319-tonic-tile.json](./57319-tonic-tile.json) |
 | Tonic Trouble | 249127 | [249127-tonic-trouble.json](./249127-tonic-trouble.json) |
@@ -15078,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony the Mole | 363012 | [363012-tony-the-mole.json](./363012-tony-the-mole.json) |
 | Tony Tough 2: A Rake's Progress | 69904 | [69904-tony-tough-2-a-rakes-progress.json](./69904-tony-tough-2-a-rakes-progress.json) |
 | Tony Tough and the Night of Roasted Moths | 10792 | [10792-tony-tough-and-the-night-of-roasted-moths.json](./10792-tony-tough-and-the-night-of-roasted-moths.json) |
+| Tony: Montezuma's Gold | 403543 | [403543-tony-montezumas-gold.json](./403543-tony-montezumas-gold.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
@@ -17597,6 +17610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped in Fear | 126965 | [126965-trapped-in-fear.json](./126965-trapped-in-fear.json) |
 | Trapped In Here With Me | 263566 | [263566-trapped-in-here-with-me.json](./263566-trapped-in-here-with-me.json) |
+| Trapped in the Backrooms | 404793 | [404793-trapped-in-the-backrooms.json](./404793-trapped-in-the-backrooms.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
@@ -18554,6 +18568,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Journey | 222804 | [222804-truck-journey.json](./222804-truck-journey.json) |
 | Truck Journey: Nitro | 223142 | [223142-truck-journey-nitro.json](./223142-truck-journey-nitro.json) |
 | Truck Kyousoukyoku: Ai to Kanashimi no Rodeo | 327364 | [327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json](./327364-truck-kyousoukyoku-ai-to-kanashimi-no-rodeo.json) |
+| Truck Launch Maniac | 403702 | [403702-truck-launch-maniac.json](./403702-truck-launch-maniac.json) |
+| Truck Launch Maniac 2 | 403703 | [403703-truck-launch-maniac-2.json](./403703-truck-launch-maniac-2.json) |
 | Truck License Trainer | 391180 | [391180-truck-license-trainer.json](./391180-truck-license-trainer.json) |
 | Truck Life | 124166 | [124166-truck-life.json](./124166-truck-life.json) |
 | Truck Life: Gansu | 170814 | [170814-truck-life-gansu.json](./170814-truck-life-gansu.json) |
@@ -19641,6 +19657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typingmania 5 Odyssey | 64194 | [64194-typingmania-5-odyssey.json](./64194-typingmania-5-odyssey.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Typo | 219528 | [219528-typo.json](./219528-typo.json) |
+| Typo | 403693 | [403693-typo.json](./403693-typo.json) |
 | Typo II | 42168 | [42168-typo-ii.json](./42168-typo-ii.json) |
 | Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
