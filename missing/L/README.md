@@ -3386,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cities: Sandbox Update | 251574 | [251574-little-cities-sandbox-update.json](./251574-little-cities-sandbox-update.json) |
 | Little Cities: Snowy Islands DLC | 251572 | [251572-little-cities-snowy-islands-dlc.json](./251572-little-cities-snowy-islands-dlc.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
+| Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
