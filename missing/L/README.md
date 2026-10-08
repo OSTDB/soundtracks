@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
+| Lost in Secular Love | 31505 | [31505-lost-in-secular-love.json](./31505-lost-in-secular-love.json) |
 | Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in Space | 179026 | [179026-lost-in-space.json](./179026-lost-in-space.json) |
