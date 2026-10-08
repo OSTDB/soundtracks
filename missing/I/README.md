@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental Infinity | 390249 | [390249-incremental-infinity.json](./390249-incremental-infinity.json) |
 | Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
+| Incremental Math | 398668 | [398668-incremental-math.json](./398668-incremental-math.json) |
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
