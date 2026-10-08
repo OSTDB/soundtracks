@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
+| Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
@@ -3323,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Movie Game | 372566 | [372566-bee-movie-game.json](./372566-bee-movie-game.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Simulator | 106790 | [106790-bee-simulator.json](./106790-bee-simulator.json) |
+| Bee Simulator: The Hive | 335301 | [335301-bee-simulator-the-hive.json](./335301-bee-simulator-the-hive.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
 | Bee With Gun | 411149 | [411149-bee-with-gun.json](./411149-bee-with-gun.json) |
