@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
 | Lawnmower Game 2: Drifter | 76321 | [76321-lawnmower-game-2-drifter.json](./76321-lawnmower-game-2-drifter.json) |
+| Lawnmower Game 2026 | 389001 | [389001-lawnmower-game-2026.json](./389001-lawnmower-game-2026.json) |
 | Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
 | Lawnmower Game Jigsaw | 340905 | [340905-lawnmower-game-jigsaw.json](./340905-lawnmower-game-jigsaw.json) |
 | Lawnmower Game Racing 2: Drunken | 340906 | [340906-lawnmower-game-racing-2-drunken.json](./340906-lawnmower-game-racing-2-drunken.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Skywalker Saga - Character Collection 1 | 196046 | [196046-lego-star-wars-the-skywalker-saga-character-collection-1.json](./196046-lego-star-wars-the-skywalker-saga-character-collection-1.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
+| LEGO Star Wars: The Skywalker Saga - Classic Obi-Wan Kenobi | 388997 | [388997-lego-star-wars-the-skywalker-saga-classic-obi-wan-kenobi.json](./388997-lego-star-wars-the-skywalker-saga-classic-obi-wan-kenobi.json) |
 | LEGO Star Wars: The Skywalker Saga - Deluxe Edition | 138105 | [138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json](./138105-lego-star-wars-the-skywalker-saga-deluxe-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Galactic Edition | 216281 | [216281-lego-star-wars-the-skywalker-saga-galactic-edition.json](./216281-lego-star-wars-the-skywalker-saga-galactic-edition.json) |
 | LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
@@ -4992,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotsa Blocks | 56580 | [56580-lotsa-blocks.json](./56580-lotsa-blocks.json) |
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
+| Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus | 45249 | [45249-lotus.json](./45249-lotus.json) |
