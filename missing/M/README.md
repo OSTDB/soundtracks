@@ -6614,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! 2 | 20081 | [20081-mighty-switch-force-2.json](./20081-mighty-switch-force-2.json) |
 | Mighty Switch Force! Collection | 120200 | [120200-mighty-switch-force-collection.json](./120200-mighty-switch-force-collection.json) |
+| Mighty Switch Force! Hose It Down! | 35124 | [35124-mighty-switch-force-hose-it-down.json](./35124-mighty-switch-force-hose-it-down.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
@@ -10018,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
 | Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
+| Mortos | 35048 | [35048-mortos.json](./35048-mortos.json) |
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
 | Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
 | Mortuar | 329073 | [329073-mortuar.json](./329073-mortuar.json) |
