@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
 | Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
+| Piano Tap SAO | 402338 | [402338-piano-tap-sao.json](./402338-piano-tap-sao.json) |
 | Piano Teacher | 84826 | [84826-piano-teacher.json](./84826-piano-teacher.json) |
 | Piano Tiles 2: Don't Tap...2 | 220173 | [220173-piano-tiles-2-dont-tap-2.json](./220173-piano-tiles-2-dont-tap-2.json) |
 | Piano Tiles 2+ | 341132 | [341132-piano-tiles-2.json](./341132-piano-tiles-2.json) |
@@ -4685,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
+| Pixel Hunter | 402339 | [402339-pixel-hunter.json](./402339-pixel-hunter.json) |
 | Pixel Hunter Idle | 273564 | [273564-pixel-hunter-idle.json](./273564-pixel-hunter-idle.json) |
 | Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
@@ -4909,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
 | Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
+| Pixel Run and Gun | 402342 | [402342-pixel-run-and-gun.json](./402342-pixel-run-and-gun.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
 | Pixel Sand | 28378 | [28378-pixel-sand.json](./28378-pixel-sand.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
@@ -4916,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
 | Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
+| Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
 | Pixel Storm | 182547 | [182547-pixel-storm.json](./182547-pixel-storm.json) |
@@ -6648,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Extra | 130276 | [130276-poker-extra.json](./130276-poker-extra.json) |
 | Poker Fever | 89500 | [89500-poker-fever.json](./89500-poker-fever.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
+| Poker France | 402345 | [402345-poker-france.json](./402345-poker-france.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
@@ -9565,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
+| Psalm 2 | 402547 | [402547-psalm-2.json](./402547-psalm-2.json) |
 | Psalm VR | 343853 | [343853-psalm-vr.json](./343853-psalm-vr.json) |
 | Psebay | 43063 | [43063-psebay.json](./43063-psebay.json) |
 | Pseudo Collision | 389657 | [389657-pseudo-collision.json](./389657-pseudo-collision.json) |
