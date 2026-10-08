@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 292795 | [292795-nascar-heat.json](./292795-nascar-heat.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
+| NASCAR Heat 2 | 28829 | [28829-nascar-heat-2.json](./28829-nascar-heat-2.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
 | NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
 | NASCAR Heat 4: Gold Edition | 187900 | [187900-nascar-heat-4-gold-edition.json](./187900-nascar-heat-4-gold-edition.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
 | Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
+| Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
