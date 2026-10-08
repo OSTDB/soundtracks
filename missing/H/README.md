@@ -4112,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Collection 5: Detective Stories | 282055 | [282055-hidden-objects-collection-5-detective-stories.json](./282055-hidden-objects-collection-5-detective-stories.json) |
+| Hidden Objects Egyptian Palace | 88670 | [88670-hidden-objects-egyptian-palace.json](./88670-hidden-objects-egyptian-palace.json) |
 | Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
