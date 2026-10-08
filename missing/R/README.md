@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptainment | 96845 | [96845-raptainment.json](./96845-raptainment.json) |
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
+| Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
 | Raptor Rush | 242610 | [242610-raptor-rush.json](./242610-raptor-rush.json) |
 | Raptor: Cretaceous Island | 111850 | [111850-raptor-cretaceous-island.json](./111850-raptor-cretaceous-island.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
@@ -2754,12 +2755,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reioku: Ghost House | 355229 | [355229-reioku-ghost-house.json](./355229-reioku-ghost-house.json) |
 | reIterate() | 156545 | [156545-reiterate.json](./156545-reiterate.json) |
 | Reiwa Outliers | 277358 | [277358-reiwa-outliers.json](./277358-reiwa-outliers.json) |
+| Rejected Draft | 404174 | [404174-rejected-draft.json](./404174-rejected-draft.json) |
 | Rejection: Den-no Senshi | 386394 | [386394-rejection-den-no-senshi.json](./386394-rejection-den-no-senshi.json) |
 | Rejoin | 415948 | [415948-rejoin.json](./415948-rejoin.json) |
 | Rejudgement: ReBlessZwei | 193949 | [193949-rejudgement-reblesszwei.json](./193949-rejudgement-reblesszwei.json) |
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
 | Rekesh Gaal | 292232 | [292232-rekesh-gaal.json](./292232-rekesh-gaal.json) |
+| Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
 | Rekkr | 105118 | [105118-rekkr.json](./105118-rekkr.json) |
@@ -6578,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Roterra: Flip the Fairytale | 114537 | [114537-roterra-flip-the-fairytale.json](./114537-roterra-flip-the-fairytale.json) |
 | Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
+| Rotfront | 404800 | [404800-rotfront.json](./404800-rotfront.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rothschild: The Sheep Will Wake | 34136 | [34136-rothschild-the-sheep-will-wake.json](./34136-rothschild-the-sheep-will-wake.json) |
