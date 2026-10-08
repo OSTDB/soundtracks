@@ -9010,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
+| Project Pastorate | 97269 | [97269-project-pastorate.json](./97269-project-pastorate.json) |
 | Project Phantom | 77411 | [77411-project-phantom.json](./77411-project-phantom.json) |
 | Project Phoenix | 7204 | [7204-project-phoenix.json](./7204-project-phoenix.json) |
 | Project Planet: Earth Vs. Humanity | 236394 | [236394-project-planet-earth-vs-humanity.json](./236394-project-planet-earth-vs-humanity.json) |
