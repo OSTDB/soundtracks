@@ -2216,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UZG | 377297 | [377297-uzg.json](./377297-uzg.json) |
 | Uzi's Drugged Adventures | 133808 | [133808-uzis-drugged-adventures.json](./133808-uzis-drugged-adventures.json) |
 | Uzi's Drugged Adventures: Undead Memories | 133819 | [133819-uzis-drugged-adventures-undead-memories.json](./133819-uzis-drugged-adventures-undead-memories.json) |
+| Uznali? SoglasnbI? | 390164 | [390164-uznali-soglasnbi.json](./390164-uznali-soglasnbi.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
 | Uzzuzzu My Pet | 242056 | [242056-uzzuzzu-my-pet.json](./242056-uzzuzzu-my-pet.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
