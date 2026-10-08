@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: The Great War | 357879 | [357879-fantasy-jigsaw-puzzles-the-great-war.json](./357879-fantasy-jigsaw-puzzles-the-great-war.json) |
 | Fantasy Jigsaw Puzzles: The Orient | 357880 | [357880-fantasy-jigsaw-puzzles-the-orient.json](./357880-fantasy-jigsaw-puzzles-the-orient.json) |
 | Fantasy Journey | 245368 | [245368-fantasy-journey.json](./245368-fantasy-journey.json) |
+| Fantasy Journey | 413489 | [413489-fantasy-journey.json](./413489-fantasy-journey.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
 | Fantasy Kommander: Eukarion Wars | 264213 | [264213-fantasy-kommander-eukarion-wars.json](./264213-fantasy-kommander-eukarion-wars.json) |
@@ -1901,8 +1902,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
+| Fate/Grand Order: Ordeal Call II - Id | 413505 | [413505-fate-grand-order-ordeal-call-ii-id.json](./413505-fate-grand-order-ordeal-call-ii-id.json) |
+| Fate/Grand Order: Ordeal Call III - Archetype Inception | 413506 | [413506-fate-grand-order-ordeal-call-iii-archetype-inception.json](./413506-fate-grand-order-ordeal-call-iii-archetype-inception.json) |
 | Fate/Grand Order: Realm of the Thanatos Impulse, Traum - Life and Death of an Illusion | 416558 | [416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json](./416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json) |
 | Fate/Grand Order: Singularity III - Okeanos | 415658 | [415658-fate-grand-order-singularity-iii-okeanos.json](./415658-fate-grand-order-singularity-iii-okeanos.json) |
+| Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
