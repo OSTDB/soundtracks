@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall to Wall | 188997 | [188997-wall-to-wall.json](./188997-wall-to-wall.json) |
 | Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
+| Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
 | Wall World Strategy | 398525 | [398525-wall-world-strategy.json](./398525-wall-world-strategy.json) |
 | Wall-Breaking | 230838 | [230838-wall-breaking.json](./230838-wall-breaking.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - Sisters of Battle | 203271 | [203271-warhammer-40-000-battlesector-sisters-of-battle.json](./203271-warhammer-40-000-battlesector-sisters-of-battle.json) |
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
+| Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters | 152266 | [152266-warhammer-40-000-chaos-gate-daemonhunters.json](./152266-warhammer-40-000-chaos-gate-daemonhunters.json) |
@@ -837,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
+| Warhammer 40,000: Dawn of War - Definitive Edition | 344680 | [344680-warhammer-40-000-dawn-of-war-definitive-edition.json](./344680-warhammer-40-000-dawn-of-war-definitive-edition.json) |
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
 | Warhammer 40,000: Dawn of War Franchise Collection | 53896 | [53896-warhammer-40-000-dawn-of-war-franchise-collection.json](./53896-warhammer-40-000-dawn-of-war-franchise-collection.json) |
 | Warhammer 40,000: Dawn of War II - Grand Master Collection | 53897 | [53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json](./53897-warhammer-40-000-dawn-of-war-ii-grand-master-collection.json) |
@@ -2992,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124696 | [124696-wild-beyond.json](./124696-wild-beyond.json) |
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
+| Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
@@ -3016,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
+| Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
