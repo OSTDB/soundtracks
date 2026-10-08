@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday: The Heist - Undercover | 240929 | [240929-payday-the-heist-undercover.json](./240929-payday-the-heist-undercover.json) |
 | Payday: The Heist - Wolfpack | 167701 | [167701-payday-the-heist-wolfpack.json](./167701-payday-the-heist-wolfpack.json) |
 | Payday: Wolf Pack | 240931 | [240931-payday-wolf-pack.json](./240931-payday-wolf-pack.json) |
+| Paydirt | 387036 | [387036-paydirt.json](./387036-paydirt.json) |
 | Payload | 175919 | [175919-payload.json](./175919-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
 | Payne Stewart Golf | 210012 | [210012-payne-stewart-golf.json](./210012-payne-stewart-golf.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
 | People Cu3ed | 108049 | [108049-people-cu3ed.json](./108049-people-cu3ed.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
+| People Farm | 387088 | [387088-people-farm.json](./387088-people-farm.json) |
 | People In The Dark | 378374 | [378374-people-in-the-dark.json](./378374-people-in-the-dark.json) |
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
@@ -3528,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Pickaxe Tower | 362860 | [362860-pickaxe-tower.json](./362860-pickaxe-tower.json) |
 | PickCrafter | 76537 | [76537-pickcrafter.json](./76537-pickcrafter.json) |
+| Picker 3D | 387077 | [387077-picker-3d.json](./387077-picker-3d.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
 | Pickers | 10572 | [10572-pickers.json](./10572-pickers.json) |
 | Pickers: Adventures in Rust | 209967 | [209967-pickers-adventures-in-rust.json](./209967-pickers-adventures-in-rust.json) |
@@ -6544,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Quartz | 139894 | [139894-pokemon-quartz.json](./139894-pokemon-quartz.json) |
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
 | Pokémon R.O.W.E. | 305876 | [305876-pokemon-r-o-w-e.json](./305876-pokemon-r-o-w-e.json) |
+| Pokémon Ranger Star | 387058 | [387058-pokemon-ranger-star.json](./387058-pokemon-ranger-star.json) |
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
