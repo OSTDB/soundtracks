@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultranium 5 | 99988 | [99988-ultranium-5.json](./99988-ultranium-5.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
+| Ultrapong: Sega Version | 398657 | [398657-ultrapong-sega-version.json](./398657-ultrapong-sega-version.json) |
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultraquarium | 405020 | [405020-ultraquarium.json](./405020-ultraquarium.json) |
 | Ultrarush | 201661 | [201661-ultrarush.json](./201661-ultrarush.json) |
