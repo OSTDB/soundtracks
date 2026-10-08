@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre 3D Pro | 86836 | [86836-euchre-3d-pro.json](./86836-euchre-3d-pro.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
 | Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
+| Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
@@ -4192,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
 | Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
+| Executive Assault | 11585 | [11585-executive-assault.json](./11585-executive-assault.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
