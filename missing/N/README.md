@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neoncube | 34983 | [34983-neoncube.json](./34983-neoncube.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
+| Neoneon Tribe | 399299 | [399299-neoneon-tribe.json](./399299-neoneon-tribe.json) |
 | Neonexus Wars | 297158 | [297158-neonexus-wars.json](./297158-neonexus-wars.json) |
 | NeonFlight | 130170 | [130170-neonflight.json](./130170-neonflight.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
@@ -2723,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
+| Nightmare Crawler | 399272 | [399272-nightmare-crawler.json](./399272-nightmare-crawler.json) |
 | Nightmare Creatures | 341699 | [341699-nightmare-creatures.json](./341699-nightmare-creatures.json) |
 | Nightmare Creatures II | 45860 | [45860-nightmare-creatures-ii.json](./45860-nightmare-creatures-ii.json) |
 | Nightmare Delivery | 411670 | [411670-nightmare-delivery.json](./411670-nightmare-delivery.json) |
@@ -3884,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
+| Nonogram Maker | 399290 | [399290-nonogram-maker.json](./399290-nonogram-maker.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram Nights | 273451 | [273451-nonogram-nights.json](./273451-nonogram-nights.json) |
