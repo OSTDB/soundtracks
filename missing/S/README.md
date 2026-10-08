@@ -4897,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
 | ShineG In Bumpercat | 112462 | [112462-shineg-in-bumpercat.json](./112462-shineg-in-bumpercat.json) |
 | ShineG In Future Factory | 90181 | [90181-shineg-in-future-factory.json](./90181-shineg-in-future-factory.json) |
+| ShineG in the Bullethell | 36498 | [36498-shineg-in-the-bullethell.json](./36498-shineg-in-the-bullethell.json) |
 | Shinehill | 245912 | [245912-shinehill.json](./245912-shinehill.json) |
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shing!: Limited Edition | 222951 | [222951-shing-limited-edition.json](./222951-shing-limited-edition.json) |
@@ -7034,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Racing 2005 | 54362 | [54362-ski-racing-2005.json](./54362-ski-racing-2005.json) |
+| Ski Region Simulator | 36429 | [36429-ski-region-simulator.json](./36429-ski-region-simulator.json) |
 | Ski Resort Extreme | 51400 | [51400-ski-resort-extreme.json](./51400-ski-resort-extreme.json) |
 | Ski Resort Mogul | 54363 | [54363-ski-resort-mogul.json](./54363-ski-resort-mogul.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
@@ -7046,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
+| Ski-World Simulator | 36395 | [36395-ski-world-simulator.json](./36395-ski-world-simulator.json) |
 | Ski-World Simulator 2012 | 54364 | [54364-ski-world-simulator-2012.json](./54364-ski-world-simulator-2012.json) |
 | Skibi's Castle TD 2 | 348357 | [348357-skibis-castle-td-2.json](./348357-skibis-castle-td-2.json) |
 | Skibidi | 329090 | [329090-skibidi.json](./329090-skibidi.json) |
@@ -9793,6 +9796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
 | Somewhere Near Romance | 179108 | [179108-somewhere-near-romance.json](./179108-somewhere-near-romance.json) |
+| Somewhere on Zibylon | 36526 | [36526-somewhere-on-zibylon.json](./36526-somewhere-on-zibylon.json) |
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
 | Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
@@ -15502,6 +15506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | STG01 | 296004 | [296004-stg01.json](./296004-stg01.json) |
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
+| Stick 'Em Up 2 | 36419 | [36419-stick-em-up-2.json](./36419-stick-em-up-2.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Adventures: Wizard Madness - Chapter 1 | 81644 | [81644-stick-adventures-wizard-madness-chapter-1.json](./81644-stick-adventures-wizard-madness-chapter-1.json) |
