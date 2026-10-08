@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hammerin' | 50708 | [50708-happy-hammerin.json](./50708-happy-hammerin.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
 | Happy Happy Clover | 70635 | [70635-happy-happy-clover.json](./70635-happy-happy-clover.json) |
+| Happy Harvest | 394106 | [394106-happy-harvest.json](./394106-happy-harvest.json) |
 | Happy Harvest! | 255797 | [255797-happy-harvest.json](./255797-happy-harvest.json) |
 | Happy Hike | 336557 | [336557-happy-hike.json](./336557-happy-hike.json) |
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
@@ -5048,6 +5049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Warzone | 300945 | [300945-hole-io-warzone.json](./300945-hole-io-warzone.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
+| Hole Your Horses: Champion Edition | 394098 | [394098-hole-your-horses-champion-edition.json](./394098-hole-your-horses-champion-edition.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Hole: Bottomless | 334927 | [334927-hole-bottomless.json](./334927-hole-bottomless.json) |
 | Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
@@ -6440,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Havoc | 32143 | [32143-hover-havoc.json](./32143-hover-havoc.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
+| Hover Phoenix | 394197 | [394197-hover-phoenix.json](./394197-hover-phoenix.json) |
 | Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
 | Hover Rev Hispeed Burst | 340488 | [340488-hover-rev-hispeed-burst.json](./340488-hover-rev-hispeed-burst.json) |
@@ -6928,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Shark: Part 1 | 300676 | [300676-hungry-shark-part-1.json](./300676-hungry-shark-part-1.json) |
 | Hungry Shark: Part 2 | 300678 | [300678-hungry-shark-part-2.json](./300678-hungry-shark-part-2.json) |
 | Hungry Shark: Part 3 | 300679 | [300679-hungry-shark-part-3.json](./300679-hungry-shark-part-3.json) |
+| Hungry Snake | 394112 | [394112-hungry-snake.json](./394112-hungry-snake.json) |
 | Hungry Sumo | 22204 | [22204-hungry-sumo.json](./22204-hungry-sumo.json) |
 | Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
