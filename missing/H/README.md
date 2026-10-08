@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
+| Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
@@ -5816,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
 | Horror Castle | 262007 | [262007-horror-castle.json](./262007-horror-castle.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
+| Horror Cliche | 412115 | [412115-horror-cliche.json](./412115-horror-cliche.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
