@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Steel Cavalry | 62416 | [62416-aion-steel-cavalry.json](./62416-aion-steel-cavalry.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | Aious: World's End | 177333 | [177333-aious-worlds-end.json](./177333-aious-worlds-end.json) |
+| AIPD | 11340 | [11340-aipd.json](./11340-aipd.json) |
 | Aiphobia | 379520 | [379520-aiphobia.json](./379520-aiphobia.json) |
 | Aipom's Great Pirate Adventure | 414465 | [414465-aipoms-great-pirate-adventure.json](./414465-aipoms-great-pirate-adventure.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
@@ -3976,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2000 | 10658 | [10658-all-star-baseball-2000.json](./10658-all-star-baseball-2000.json) |
 | All-Star Baseball 2001 | 249134 | [249134-all-star-baseball-2001.json](./249134-all-star-baseball-2001.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
+| All-Star Baseball 2002 | 10624 | [10624-all-star-baseball-2002.json](./10624-all-star-baseball-2002.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
