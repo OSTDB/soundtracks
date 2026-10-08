@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: Follow the Light | 314421 | [314421-will-follow-the-light.json](./314421-will-follow-the-light.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
+| Willblade: King's Labyrinth | 413491 | [413491-willblade-kings-labyrinth.json](./413491-willblade-kings-labyrinth.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
@@ -4224,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Parade | 100767 | [100767-wonder-parade.json](./100767-wonder-parade.json) |
 | Wonder Pets Join the Circus | 66734 | [66734-wonder-pets-join-the-circus.json](./66734-wonder-pets-join-the-circus.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
+| Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
 | Wonder Trips | 239143 | [239143-wonder-trips.json](./239143-wonder-trips.json) |
