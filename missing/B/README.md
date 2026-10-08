@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be-Bop High School: Koukousei Gokuraku Densetsu | 48546 | [48546-be-bop-high-school-koukousei-gokuraku-densetsu.json](./48546-be-bop-high-school-koukousei-gokuraku-densetsu.json) |
 | Be: Twin | 155712 | [155712-be-twin.json](./155712-be-twin.json) |
 | Beach anime day | 130238 | [130238-beach-anime-day.json](./130238-beach-anime-day.json) |
+| Beach Ball Bounce Back | 391141 | [391141-beach-ball-bounce-back.json](./391141-beach-ball-bounce-back.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
