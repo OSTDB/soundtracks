@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abode | 26370 | [26370-abode.json](./26370-abode.json) |
+| Abode | 415495 | [415495-abode.json](./415495-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
 | Aboleo: Shadow of the Crown | 268145 | [268145-aboleo-shadow-of-the-crown.json](./268145-aboleo-shadow-of-the-crown.json) |
 | Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
@@ -6313,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
 | Apart | 415185 | [415185-apart.json](./415185-apart.json) |
 | Apartament 1406 | 249766 | [249766-apartament-1406.json](./249766-apartament-1406.json) |
+| Apartment 12 | 415477 | [415477-apartment-12.json](./415477-apartment-12.json) |
 | Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
