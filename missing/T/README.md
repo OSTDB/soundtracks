@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
+| Tank Attack | 401148 | [401148-tank-attack.json](./401148-tank-attack.json) |
 | Tank Attack | 60037 | [60037-tank-attack.json](./60037-tank-attack.json) |
 | Tank Ball | 285126 | [285126-tank-ball.json](./285126-tank-ball.json) |
 | Tank Ball | 95174 | [95174-tank-ball.json](./95174-tank-ball.json) |
