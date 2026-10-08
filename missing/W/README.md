@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
+| Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
 | Waluigi's Wadventure | 269772 | [269772-waluigis-wadventure.json](./269772-waluigis-wadventure.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Does He Want Me Dead | 176311 | [176311-why-does-he-want-me-dead.json](./176311-why-does-he-want-me-dead.json) |
 | Why Does the Sea Cry So Much | 362887 | [362887-why-does-the-sea-cry-so-much.json](./362887-why-does-the-sea-cry-so-much.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
+| Why Elephant Sit on Chair? | 391238 | [391238-why-elephant-sit-on-chair.json](./391238-why-elephant-sit-on-chair.json) |
 | Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
 | Why I Don't Have a Country Any More | 350557 | [350557-why-i-dont-have-a-country-any-more.json](./350557-why-i-dont-have-a-country-any-more.json) |
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
@@ -3161,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
 | Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
+| Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
