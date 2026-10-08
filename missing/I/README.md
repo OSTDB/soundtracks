@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
 | Infiniroom | 120229 | [120229-infiniroom.json](./120229-infiniroom.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
+| InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
 | Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
 | Ironwake | 418751 | [418751-ironwake.json](./418751-ironwake.json) |
+| IronWolf VR | 30649 | [30649-ironwolf-vr.json](./30649-ironwolf-vr.json) |
 | IronWolf: Free Non-VR Edition | 265342 | [265342-ironwolf-free-non-vr-edition.json](./265342-ironwolf-free-non-vr-edition.json) |
 | IronWood | 394370 | [394370-ironwood.json](./394370-ironwood.json) |
 | Ironwood Conquest | 367629 | [367629-ironwood-conquest.json](./367629-ironwood-conquest.json) |
