@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
+| Goblin Commander: Unleash the Horde | 3934 | [3934-goblin-commander-unleash-the-horde.json](./3934-goblin-commander-unleash-the-horde.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
 | Goblin Defenders: Steel 'n' Wood | 53076 | [53076-goblin-defenders-steel-n-wood.json](./53076-goblin-defenders-steel-n-wood.json) |
@@ -5605,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
+| GT Pro Series | 4899 | [4899-gt-pro-series.json](./4899-gt-pro-series.json) |
 | GT Racers | 64222 | [64222-gt-racers.json](./64222-gt-racers.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
 | GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
