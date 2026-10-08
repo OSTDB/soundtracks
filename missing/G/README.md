@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
 | G.E.A.R. | 323238 | [323238-g-e-a-r.json](./323238-g-e-a-r.json) |
+| G.E.M. Grab & Exit | 413476 | [413476-g-e-m-grab-and-exit.json](./413476-g-e-m-grab-and-exit.json) |
 | G.E.T. | 192812 | [192812-g-e-t.json](./192812-g-e-t.json) |
 | G.G Series Collection + | 66965 | [66965-g-g-series-collection.json](./66965-g-g-series-collection.json) |
 | G.G Series: Air Pinball Hockey | 60083 | [60083-g-g-series-air-pinball-hockey.json](./60083-g-g-series-air-pinball-hockey.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Life | 125828 | [125828-gacha-life.json](./125828-gacha-life.json) |
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
+| Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
