@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Battle: The March of the Black Queen | 9805 | [9805-ogre-battle-the-march-of-the-black-queen.json](./9805-ogre-battle-the-march-of-the-black-queen.json) |
 | Ogre Chambers 2222 | 369740 | [369740-ogre-chambers-2222.json](./369740-ogre-chambers-2222.json) |
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
+| Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogrez | 119605 | [119605-ogrez.json](./119605-ogrez.json) |
 | Ogriesh Flower | 247079 | [247079-ogriesh-flower.json](./247079-ogriesh-flower.json) |
