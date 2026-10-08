@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
+| Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdog Futsal | 390205 | [390205-underdog-futsal.json](./390205-underdog-futsal.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
