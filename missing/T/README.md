@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | Table Space: Board and Card Game Sandbox | 389701 | [389701-table-space-board-and-card-game-sandbox.json](./389701-table-space-board-and-card-game-sandbox.json) |
+| Table Tennis | 11500 | [11500-table-tennis.json](./11500-table-tennis.json) |
 | Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga Complete Pack | 51954 | [51954-the-banner-saga-complete-pack.json](./51954-the-banner-saga-complete-pack.json) |
 | The Banner Saga Trilogy: Stoic Edition | 169191 | [169191-the-banner-saga-trilogy-stoic-edition.json](./169191-the-banner-saga-trilogy-stoic-edition.json) |
 | The Banner Saga: Deluxe Edition | 54435 | [54435-the-banner-saga-deluxe-edition.json](./54435-the-banner-saga-deluxe-edition.json) |
+| The Banner Saga: Factions | 12649 | [12649-the-banner-saga-factions.json](./12649-the-banner-saga-factions.json) |
 | The Banshee | 231514 | [231514-the-banshee.json](./231514-the-banshee.json) |
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
 | The Dark Dungeon | 196291 | [196291-the-dark-dungeon.json](./196291-the-dark-dungeon.json) |
+| The Dark Eye | 11682 | [11682-the-dark-eye.json](./11682-the-dark-eye.json) |
 | The Dark Eye Bundle | 218463 | [218463-the-dark-eye-bundle.json](./218463-the-dark-eye-bundle.json) |
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
 | The Dark Eye: Book of Heroes - Collector's Edition | 136376 | [136376-the-dark-eye-book-of-heroes-collectors-edition.json](./136376-the-dark-eye-book-of-heroes-collectors-edition.json) |
@@ -6684,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey: Bob's Story | 18186 | [18186-the-journey-bobs-story.json](./18186-the-journey-bobs-story.json) |
 | The Journey: Episode 1 - Whatever This Is | 169299 | [169299-the-journey-episode-1-whatever-this-is.json](./169299-the-journey-episode-1-whatever-this-is.json) |
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
+| The Journeyman Project 2: Buried in Time | 12436 | [12436-the-journeyman-project-2-buried-in-time.json](./12436-the-journeyman-project-2-buried-in-time.json) |
 | The Journeyman Project: Pegasus Prime | 210007 | [210007-the-journeyman-project-pegasus-prime.json](./210007-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
 | The Jovian System | 164268 | [164268-the-jovian-system.json](./164268-the-jovian-system.json) |
@@ -14486,6 +14490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
 | Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
+| Tokyo Twilight Ghost Hunters | 12195 | [12195-tokyo-twilight-ghost-hunters.json](./12195-tokyo-twilight-ghost-hunters.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
@@ -18749,6 +18754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
+| Tunnel B1 | 12900 | [12900-tunnel-b1.json](./12900-tunnel-b1.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
