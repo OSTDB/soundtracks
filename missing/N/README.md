@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu Koi High Pressure | 194597 | [194597-natsu-koi-high-pressure.json](./194597-natsu-koi-high-pressure.json) |
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
+| Natsu Shoujo: Promised Summer | 401155 | [401155-natsu-shoujo-promised-summer.json](./401155-natsu-shoujo-promised-summer.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
@@ -3377,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
+| No Backup | 401178 | [401178-no-backup.json](./401178-no-backup.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
 | No Brakes | 273544 | [273544-no-brakes.json](./273544-no-brakes.json) |
@@ -4423,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
+| Null | 401139 | [401139-null.json](./401139-null.json) |
 | Null & Peta -Invasion of the Queen Bug- | 127372 | [127372-null-and-peta-invasion-of-the-queen-bug.json](./127372-null-and-peta-invasion-of-the-queen-bug.json) |
 | Null Breach | 239151 | [239151-null-breach.json](./239151-null-breach.json) |
 | Null Drifter | 126989 | [126989-null-drifter.json](./126989-null-drifter.json) |
