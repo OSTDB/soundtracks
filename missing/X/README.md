@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenomare | 168624 | [168624-xenomare.json](./168624-xenomare.json) |
 | Xenomarine | 74260 | [74260-xenomarine.json](./74260-xenomarine.json) |
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
+| Xenomire | 411532 | [411532-xenomire.json](./411532-xenomire.json) |
 | XenoMoon | 216359 | [216359-xenomoon.json](./216359-xenomoon.json) |
 | Xenomorph | 231999 | [231999-xenomorph.json](./231999-xenomorph.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
