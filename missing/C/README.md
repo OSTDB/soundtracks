@@ -11157,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuddly Forest Friends | 222944 | [222944-cuddly-forest-friends.json](./222944-cuddly-forest-friends.json) |
 | Cue Brick | 39638 | [39638-cue-brick.json](./39638-cue-brick.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
+| Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
