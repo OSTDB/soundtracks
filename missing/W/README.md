@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wahm | 360709 | [360709-wahm.json](./360709-wahm.json) |
 | Wahm | 377286 | [377286-wahm.json](./377286-wahm.json) |
 | Wai Wai Mahjong | 37652 | [37652-wai-wai-mahjong.json](./37652-wai-wai-mahjong.json) |
+| Wai Wai World Craft | 416135 | [416135-wai-wai-world-craft.json](./416135-wai-wai-world-craft.json) |
 | Wai-wai Check 03/21 | 345494 | [345494-wai-wai-check-03-21.json](./345494-wai-wai-check-03-21.json) |
 | Wai-wai Check 11/15 | 345493 | [345493-wai-wai-check-11-15.json](./345493-wai-wai-check-11-15.json) |
 | Wai-wai Check 11/22 Saihousou | 341149 | [341149-wai-wai-check-11-22-saihousou.json](./341149-wai-wai-check-11-22-saihousou.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Bermuda Secret - Collector's Edition | 166046 | [166046-wanderlust-the-bermuda-secret-collectors-edition.json](./166046-wanderlust-the-bermuda-secret-collectors-edition.json) |
+| Wanderlust: The City of Mists - Collector's Edition | 416137 | [416137-wanderlust-the-city-of-mists-collectors-edition.json](./416137-wanderlust-the-city-of-mists-collectors-edition.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
@@ -1490,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterpunk | 385852 | [385852-waterpunk.json](./385852-waterpunk.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
+| Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
@@ -1555,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way in the stars | 156593 | [156593-way-in-the-stars.json](./156593-way-in-the-stars.json) |
 | Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
 | Way Nd Choice | 288468 | [288468-way-nd-choice.json](./288468-way-nd-choice.json) |
+| Way of an Idea 2 | 416138 | [416138-way-of-an-idea-2.json](./416138-way-of-an-idea-2.json) |
 | Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
 | Way of Gold and Steel | 35179 | [35179-way-of-gold-and-steel.json](./35179-way-of-gold-and-steel.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
