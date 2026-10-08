@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ash and Dust | 313253 | [313253-of-ash-and-dust.json](./313253-of-ash-and-dust.json) |
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
+| Of Carrots and Blood | 33604 | [33604-of-carrots-and-blood.json](./33604-of-carrots-and-blood.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
 | Of Frost and Flowers | 225610 | [225610-of-frost-and-flowers.json](./225610-of-frost-and-flowers.json) |
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
@@ -1726,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Onimusha: Way of the Sword | 325602 | [325602-onimusha-way-of-the-sword.json](./325602-onimusha-way-of-the-sword.json) |
+| Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
