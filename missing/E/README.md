@@ -3845,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
+| Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Holiday | 287193 | [287193-evil-holiday.json](./287193-evil-holiday.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
+| Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
@@ -4377,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
 | Expedition Astra | 288777 | [288777-expedition-astra.json](./288777-expedition-astra.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
+| Expedition Zero | 142883 | [142883-expedition-zero.json](./142883-expedition-zero.json) |
 | Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expeditions | 363013 | [363013-expeditions.json](./363013-expeditions.json) |
