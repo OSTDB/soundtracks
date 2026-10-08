@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ¡Alla tú!: juego interactivo de DVD | 319740 | [319740-alla-tu-juego-interactivo-de-dvd.json](./319740-alla-tu-juego-interactivo-de-dvd.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
+| ¿Me verán? | 401164 | [401164-me-veran.json](./401164-me-veran.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | ...Vincent: Mansion of The Dead | 376667 | [376667-vincent-mansion-of-the-dead.json](./376667-vincent-mansion-of-the-dead.json) |
