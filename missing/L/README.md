@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Dead Sun | 141216 | [141216-legacy-of-kain-dead-sun.json](./141216-legacy-of-kain-dead-sun.json) |
 | Legacy of Kain: Defiance | 367956 | [367956-legacy-of-kain-defiance.json](./367956-legacy-of-kain-defiance.json) |
 | Legacy of Kain: Defiance Remastered | 389423 | [389423-legacy-of-kain-defiance-remastered.json](./389423-legacy-of-kain-defiance-remastered.json) |
+| Legacy of Kain: Defiance Remastered - Shifter Skin Pack | 402541 | [402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json](./402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
 | Legacy of Kain: Soul Reaver 2 | 7893 | [7893-legacy-of-kain-soul-reaver-2.json](./7893-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line Dots | 149205 | [149205-line-dots.json](./149205-line-dots.json) |
 | Line Drop: Spirit Catcher | 63134 | [63134-line-drop-spirit-catcher.json](./63134-line-drop-spirit-catcher.json) |
+| Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
