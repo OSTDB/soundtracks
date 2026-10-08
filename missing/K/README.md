@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Doodle - Movie Kids Color & Draw | 86988 | [86988-kids-doodle-movie-kids-color-and-draw.json](./86988-kids-doodle-movie-kids-color-and-draw.json) |
 | Kids Dreamland Adventures | 101552 | [101552-kids-dreamland-adventures.json](./101552-kids-dreamland-adventures.json) |
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
+| Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn Music A+ Edition | 47940 | [47940-kids-learn-music-a-edition.json](./47940-kids-learn-music-a-edition.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
 | Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
+| Klondike Forever | 87121 | [87121-klondike-forever.json](./87121-klondike-forever.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire - Classic Deck Card Games | 91153 | [91153-klondike-solitaire-classic-deck-card-games.json](./91153-klondike-solitaire-classic-deck-card-games.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
