@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
 | Mathle | 363038 | [363038-mathle.json](./363038-mathle.json) |
 | Mathletix | 188434 | [188434-mathletix.json](./188434-mathletix.json) |
+| Mathmateer | 396760 | [396760-mathmateer.json](./396760-mathmateer.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
@@ -6144,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Macro Farm | 276266 | [276266-micro-macro-farm.json](./276266-micro-macro-farm.json) |
 | Micro Madness | 252819 | [252819-micro-madness.json](./252819-micro-madness.json) |
 | Micro Mages | 110882 | [110882-micro-mages.json](./110882-micro-mages.json) |
+| Micro Mages Maker | 396740 | [396740-micro-mages-maker.json](./396740-micro-mages-maker.json) |
 | Micro Maniacs Racing | 44768 | [44768-micro-maniacs-racing.json](./44768-micro-maniacs-racing.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
@@ -6581,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
+| Midori No Makibao: Kuroi Inazuma Shiroi Kiseki | 396756 | [396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json](./396756-midori-no-makibao-kuroi-inazuma-shiroi-kiseki.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
 | Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
