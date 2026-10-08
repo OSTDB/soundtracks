@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Immortals | 38917 | [38917-dawn-of-the-immortals.json](./38917-dawn-of-the-immortals.json) |
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
+| Dawn of the Monsters | 120562 | [120562-dawn-of-the-monsters.json](./120562-dawn-of-the-monsters.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Monsters: Full Game plus Arcade + Character DLC Pack Bundle | 263530 | [263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json](./263530-dawn-of-the-monsters-full-game-plus-arcade-character-dlc-pack-bundle.json) |
 | Dawn of the Others | 158131 | [158131-dawn-of-the-others.json](./158131-dawn-of-the-others.json) |
@@ -3640,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
 | Demoniac TV | 291524 | [291524-demoniac-tv.json](./291524-demoniac-tv.json) |
+| Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
@@ -3786,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depict | 66761 | [66761-depict.json](./66761-depict.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
+| Depixtion | 119465 | [119465-depixtion.json](./119465-depixtion.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
 | DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
@@ -8468,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
 | Dragon Quest + | 275799 | [275799-dragon-quest.json](./275799-dragon-quest.json) |
+| Dragon Quest 1, 2, 3 Collection | 122266 | [122266-dragon-quest-1-2-3-collection.json](./122266-dragon-quest-1-2-3-collection.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
@@ -9880,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
+| Duck Season PC | 119449 | [119449-duck-season-pc.json](./119449-duck-season-pc.json) |
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
