@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
+| Vossarium | 400517 | [400517-vossarium.json](./400517-vossarium.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
 | Vote: The Game | 93554 | [93554-vote-the-game.json](./93554-vote-the-game.json) |
 | Vovu | 57745 | [57745-vovu.json](./57745-vovu.json) |
