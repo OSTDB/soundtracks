@@ -7571,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Dora Saves the Crystal Kingdom | 7977 | [7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json](./7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json) |
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
 | Dora the Explorer: Dora's Worldwide Rescue | 230375 | [230375-dora-the-explorer-doras-worldwide-rescue.json](./230375-dora-the-explorer-doras-worldwide-rescue.json) |
+| Dora the Explorer: Journey to the Purple Planet | 3892 | [3892-dora-the-explorer-journey-to-the-purple-planet.json](./3892-dora-the-explorer-journey-to-the-purple-planet.json) |
 | Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
 | Dora the Explorer: Lost City Adventure | 79365 | [79365-dora-the-explorer-lost-city-adventure.json](./79365-dora-the-explorer-lost-city-adventure.json) |
 | Dora the Explorer: Nursery Rhyme Adventure | 221673 | [221673-dora-the-explorer-nursery-rhyme-adventure.json](./221673-dora-the-explorer-nursery-rhyme-adventure.json) |
