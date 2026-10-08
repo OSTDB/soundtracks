@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Origins | 417 | [417-final-fantasy-origins.json](./417-final-fantasy-origins.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy Renaissance | 298558 | [298558-final-fantasy-renaissance.json](./298558-final-fantasy-renaissance.json) |
+| Final Fantasy Resonance | 405454 | [405454-final-fantasy-resonance.json](./405454-final-fantasy-resonance.json) |
 | Final Fantasy Resonance: Digital Deluxe Edition | 410844 | [410844-final-fantasy-resonance-digital-deluxe-edition.json](./410844-final-fantasy-resonance-digital-deluxe-edition.json) |
 | Final Fantasy Sonic X: Episode 1 | 266863 | [266863-final-fantasy-sonic-x-episode-1.json](./266863-final-fantasy-sonic-x-episode-1.json) |
 | Final Fantasy Tactics | 428 | [428-final-fantasy-tactics.json](./428-final-fantasy-tactics.json) |
@@ -7438,6 +7439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTL: Advanced Edition | 20098 | [20098-ftl-advanced-edition.json](./20098-ftl-advanced-edition.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
+| Fu Sha 3: Night Clinic | 405552 | [405552-fu-sha-3-night-clinic.json](./405552-fu-sha-3-night-clinic.json) |
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
 | Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
