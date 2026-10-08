@@ -5410,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expanse: A Telltale Series - Episode 4: Impossible Objects | 265833 | [265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json](./265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json) |
 | The Expanse: A Telltale Series - Episode 5: Europa's Folly | 265834 | [265834-the-expanse-a-telltale-series-episode-5-europas-folly.json](./265834-the-expanse-a-telltale-series-episode-5-europas-folly.json) |
 | The Expanse: Osiris Reborn | 347869 | [347869-the-expanse-osiris-reborn.json](./347869-the-expanse-osiris-reborn.json) |
+| The Expansion | 412194 | [412194-the-expansion.json](./412194-the-expansion.json) |
 | The Expedition | 114562 | [114562-the-expedition.json](./114562-the-expedition.json) |
 | The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
@@ -11584,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
+| Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
@@ -13649,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
+| Time Witch | 412201 | [412201-time-witch.json](./412201-time-witch.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
