@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
+| Yars Rising | 298314 | [298314-yars-rising.json](./298314-yars-rising.json) |
 | Yars: Recharged | 211321 | [211321-yars-recharged.json](./211321-yars-recharged.json) |
 | Yars' Return | 130702 | [130702-yars-return.json](./130702-yars-return.json) |
 | Yars' Revenge | 151837 | [151837-yars-revenge.json](./151837-yars-revenge.json) |
@@ -781,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
+| Your Average Old School Shmup | 320852 | [320852-your-average-old-school-shmup.json](./320852-your-average-old-school-shmup.json) |
 | Your Best Nightmare | 176909 | [176909-your-best-nightmare.json](./176909-your-best-nightmare.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
@@ -913,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Unique Mask Set | 411025 | [411025-ys-ix-monstrum-nox-unique-mask-set.json](./411025-ys-ix-monstrum-nox-unique-mask-set.json) |
 | Ys IX: Monstrum Nox - Variety Mask Set | 411026 | [411026-ys-ix-monstrum-nox-variety-mask-set.json](./411026-ys-ix-monstrum-nox-variety-mask-set.json) |
 | Ys IX: Monstrum Nox - White Cat's "Monstrum Troupe" Costume | 411027 | [411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json](./411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json) |
+| Ys Memoire: The Oath in Felghana | 232700 | [232700-ys-memoire-the-oath-in-felghana.json](./232700-ys-memoire-the-oath-in-felghana.json) |
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
 | Ys Origin | 10949 | [10949-ys-origin.json](./10949-ys-origin.json) |
 | Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
