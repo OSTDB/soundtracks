@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factorio: Nullius | 326049 | [326049-factorio-nullius.json](./326049-factorio-nullius.json) |
 | Factorio: Space Age | 263344 | [263344-factorio-space-age.json](./263344-factorio-space-age.json) |
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
+| Factorized | 421349 | [421349-factorized.json](./421349-factorized.json) |
 | Factory & Roof Collection | 328529 | [328529-factory-and-roof-collection.json](./328529-factory-and-roof-collection.json) |
 | Factory Balls | 87256 | [87256-factory-balls.json](./87256-factory-balls.json) |
 | Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
+| Fashion Mall Story | 421374 | [421374-fashion-mall-story.json](./421374-fashion-mall-story.json) |
 | Fashion Police Squad | 140801 | [140801-fashion-police-squad.json](./140801-fashion-police-squad.json) |
 | Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
@@ -3167,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
 | Find Pixel | 74998 | [74998-find-pixel.json](./74998-find-pixel.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
+| Find Shape | 421325 | [421325-find-shape.json](./421325-find-shape.json) |
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
 | Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
