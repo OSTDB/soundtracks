@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
 | Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
+| Let's Cheer! | 20241 | [20241-lets-cheer.json](./20241-lets-cheer.json) |
 | Let's Compare the Speed of Our Punches! | 327441 | [327441-lets-compare-the-speed-of-our-punches.json](./327441-lets-compare-the-speed-of-our-punches.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
