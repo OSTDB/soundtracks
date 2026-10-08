@@ -3956,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Pool: Arena Survivors | 374750 | [374750-the-black-pool-arena-survivors.json](./374750-the-black-pool-arena-survivors.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
+| The Black Shift | 406736 | [406736-the-black-shift.json](./406736-the-black-shift.json) |
 | The Black Signal | 351709 | [351709-the-black-signal.json](./351709-the-black-signal.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
 | The Black Vault | 329140 | [329140-the-black-vault.json](./329140-the-black-vault.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
 | The Fishery | 142156 | [142156-the-fishery.json](./142156-the-fishery.json) |
+| The Fissure | 407277 | [407277-the-fissure.json](./407277-the-fissure.json) |
 | The Fittest | 188371 | [188371-the-fittest.json](./188371-the-fittest.json) |
 | The Five Covens | 144864 | [144864-the-five-covens.json](./144864-the-five-covens.json) |
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
@@ -8825,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
+| The Planetary Archive | 406744 | [406744-the-planetary-archive.json](./406744-the-planetary-archive.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
@@ -15430,6 +15433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer 2000 | 73353 | [73353-total-soccer-2000.json](./73353-total-soccer-2000.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
+| Total Survival Simulator | 407361 | [407361-total-survival-simulator.json](./407361-total-survival-simulator.json) |
 | Total Tank Generals | 215725 | [215725-total-tank-generals.json](./215725-total-tank-generals.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
@@ -17731,6 +17735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
 | Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
+| Travelling Home: Ever After | 406663 | [406663-travelling-home-ever-after.json](./406663-travelling-home-ever-after.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
@@ -18636,6 +18641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
+| True or False: The World | 407276 | [407276-true-or-false-the-world.json](./407276-true-or-false-the-world.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
@@ -19457,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twitter Island | 185641 | [185641-twitter-island.json](./185641-twitter-island.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twixel | 9524 | [9524-twixel.json](./9524-twixel.json) |
+| Twizz'ed Firefarta | 407248 | [407248-twizzed-firefarta.json](./407248-twizzed-firefarta.json) |
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
@@ -19645,6 +19652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
 | Tyrant's Blessing | 164888 | [164888-tyrants-blessing.json](./164888-tyrants-blessing.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
+| Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
