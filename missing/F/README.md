@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
 | Fate/Extella: The Umbral Star | 19799 | [19799-fate-extella-the-umbral-star.json](./19799-fate-extella-the-umbral-star.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
+| Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
 | Fate/Grand Order Arcade | 54898 | [54898-fate-grand-order-arcade.json](./54898-fate-grand-order-arcade.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefox Boulder Dash 01 | 116158 | [116158-firefox-boulder-dash-01.json](./116158-firefox-boulder-dash-01.json) |
 | Firefrost | 286091 | [286091-firefrost.json](./286091-firefrost.json) |
 | Firegirl: Hack 'n Splash Rescue | 117527 | [117527-firegirl-hack-n-splash-rescue.json](./117527-firegirl-hack-n-splash-rescue.json) |
+| FireGrid | 416588 | [416588-firegrid.json](./416588-firegrid.json) |
 | Fireground | 115146 | [115146-fireground.json](./115146-fireground.json) |
 | Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
