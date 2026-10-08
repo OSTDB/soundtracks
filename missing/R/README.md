@@ -6497,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
+| Rope Up! | 401165 | [401165-rope-up.json](./401165-rope-up.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Rope'n'Fly 3: Dusk Till Dawn | 330934 | [330934-ropenfly-3-dusk-till-dawn.json](./330934-ropenfly-3-dusk-till-dawn.json) |
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
@@ -7022,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
 | Ruin | 174083 | [174083-ruin.json](./174083-ruin.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
+| Ruin | 400986 | [400986-ruin.json](./400986-ruin.json) |
 | Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
 | Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
