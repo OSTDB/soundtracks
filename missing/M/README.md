@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
+| Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
@@ -8085,8 +8086,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Survive | 40682 | [40682-mission-survive.json](./40682-mission-survive.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
 | Mission To Mars 3D | 259566 | [259566-mission-to-mars-3d.json](./259566-mission-to-mars-3d.json) |
+| Mission to Mercury | 388209 | [388209-mission-to-mercury.json](./388209-mission-to-mercury.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
 | Mission to the Sun | 388210 | [388210-mission-to-the-sun.json](./388210-mission-to-the-sun.json) |
+| Mission to Uranus | 388207 | [388207-mission-to-uranus.json](./388207-mission-to-uranus.json) |
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
@@ -8754,6 +8757,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 174092 | [174092-momentum.json](./174092-momentum.json) |
 | Momentum | 183386 | [183386-momentum.json](./183386-momentum.json) |
 | Momentum | 199918 | [199918-momentum.json](./199918-momentum.json) |
+| Momentum Missile Mayhem | 388200 | [388200-momentum-missile-mayhem.json](./388200-momentum-missile-mayhem.json) |
+| Momentum Missile Mayhem 2015 | 388205 | [388205-momentum-missile-mayhem-2015.json](./388205-momentum-missile-mayhem-2015.json) |
+| Momentum Missile Mayhem 3 | 388202 | [388202-momentum-missile-mayhem-3.json](./388202-momentum-missile-mayhem-3.json) |
+| Momentum Missile Mayhem 4 | 388203 | [388203-momentum-missile-mayhem-4.json](./388203-momentum-missile-mayhem-4.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
@@ -9494,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
 | Monsters and Magic | 356671 | [356671-monsters-and-magic.json](./356671-monsters-and-magic.json) |
+| Monsters and Sprites | 388264 | [388264-monsters-and-sprites.json](./388264-monsters-and-sprites.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
@@ -12497,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
 | MyRPG | 54223 | [54223-myrpg.json](./54223-myrpg.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
+| Myrtle Grove: A Clair V. Mystery | 388271 | [388271-myrtle-grove-a-clair-v-mystery.json](./388271-myrtle-grove-a-clair-v-mystery.json) |
 | Mysarium | 395148 | [395148-mysarium.json](./395148-mysarium.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims | 2689 | [2689-mysims.json](./2689-mysims.json) |
