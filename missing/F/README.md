@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
+| Fantasy Telemarketer | 397410 | [397410-fantasy-telemarketer.json](./397410-fantasy-telemarketer.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
 | Fantasy Three Kingdoms: War | 304165 | [304165-fantasy-three-kingdoms-war.json](./304165-fantasy-three-kingdoms-war.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
 | Flight of the Paladin | 34387 | [34387-flight-of-the-paladin.json](./34387-flight-of-the-paladin.json) |
+| Flight of the Season | 397414 | [397414-flight-of-the-season.json](./397414-flight-of-the-season.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
 | Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
