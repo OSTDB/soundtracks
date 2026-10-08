@@ -2023,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant II | 16947 | [16947-industry-giant-ii.json](./16947-industry-giant-ii.json) |
 | Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
 | Industry Idle | 148408 | [148408-industry-idle.json](./148408-industry-idle.json) |
+| Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy 500 | 199427 | [199427-indy-500.json](./199427-indy-500.json) |
@@ -3603,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Crusaders | 190011 | [190011-island-crusaders.json](./190011-island-crusaders.json) |
 | Island Dash | 55449 | [55449-island-dash.json](./55449-island-dash.json) |
 | Island Deck | 374252 | [374252-island-deck.json](./374252-island-deck.json) |
+| Island Defense | 35096 | [35096-island-defense.json](./35096-island-defense.json) |
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
 | Island Diary | 154583 | [154583-island-diary.json](./154583-island-diary.json) |
 | Island Dwellers | 317874 | [317874-island-dwellers.json](./317874-island-dwellers.json) |
