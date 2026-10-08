@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Adventure | 46645 | [46645-castle-adventure.json](./46645-castle-adventure.json) |
 | Castle Age HD | 109065 | [109065-castle-age-hd.json](./109065-castle-age-hd.json) |
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
+| Castle Away | 396006 | [396006-castle-away.json](./396006-castle-away.json) |
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
 | Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
@@ -5891,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clive Barker's Jericho: Special Edition | 47470 | [47470-clive-barkers-jericho-special-edition.json](./47470-clive-barkers-jericho-special-edition.json) |
 | Clive Barker's Undying | 636 | [636-clive-barkers-undying.json](./636-clive-barkers-undying.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
+| CliveWareGold | 396008 | [396008-clivewaregold.json](./396008-clivewaregold.json) |
 | Clix | 97990 | [97990-clix.json](./97990-clix.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak Hero | 258494 | [258494-cloak-hero.json](./258494-cloak-hero.json) |
@@ -7202,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
+| Come Again, Chachii? | 396005 | [396005-come-again-chachii.json](./396005-come-again-chachii.json) |
 | Come Alive! | 192176 | [192176-come-alive.json](./192176-come-alive.json) |
 | Come Back: Chapter 1 | 120426 | [120426-come-back-chapter-1.json](./120426-come-back-chapter-1.json) |
 | Come Dine at Valhalla | 180762 | [180762-come-dine-at-valhalla.json](./180762-come-dine-at-valhalla.json) |
@@ -10775,6 +10778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
+| Crystal Vein | 396000 | [396000-crystal-vein.json](./396000-crystal-vein.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Vibes feat. Ott. | 34662 | [34662-crystal-vibes-feat-ott.json](./34662-crystal-vibes-feat-ott.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
