@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
 | Elder Ring | 351154 | [351154-elder-ring.json](./351154-elder-ring.json) |
 | Elder Sign: Omens | 16729 | [16729-elder-sign-omens.json](./16729-elder-sign-omens.json) |
+| Elder Sign: Omens for iPad | 91068 | [91068-elder-sign-omens-for-ipad.json](./91068-elder-sign-omens-for-ipad.json) |
 | Elder Trial | 236370 | [236370-elder-trial.json](./236370-elder-trial.json) |
 | Elder Village | 123490 | [123490-elder-village.json](./123490-elder-village.json) |
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
