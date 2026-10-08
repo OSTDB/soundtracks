@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Date | 44123 | [44123-save-the-date.json](./44123-save-the-date.json) |
 | Save The Dev | 397176 | [397176-save-the-dev.json](./397176-save-the-dev.json) |
 | Save the Dinos | 206660 | [206660-save-the-dinos.json](./206660-save-the-dinos.json) |
+| Save The Doge | 387574 | [387574-save-the-doge.json](./387574-save-the-doge.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Earth | 230962 | [230962-save-the-earth.json](./230962-save-the-earth.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
@@ -12142,6 +12143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkhunt | 270153 | [270153-sparkhunt.json](./270153-sparkhunt.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
+| Sparkle & Umbra | 387564 | [387564-sparkle-and-umbra.json](./387564-sparkle-and-umbra.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
 | Sparkle 2 Evo | 16697 | [16697-sparkle-2-evo.json](./16697-sparkle-2-evo.json) |
 | Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
@@ -17097,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
+| Subdivision | 387706 | [387706-subdivision.json](./387706-subdivision.json) |
 | Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
 | Subdread | 415475 | [415475-subdread.json](./415475-subdread.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
