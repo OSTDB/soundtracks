@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue the Hostages: Misaligned Fate | 405719 | [405719-rescue-the-hostages-misaligned-fate.json](./405719-rescue-the-hostages-misaligned-fate.json) |
 | Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
+| Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue! Dropkick on my Devil | 283239 | [283239-rescue-dropkick-on-my-devil.json](./283239-rescue-dropkick-on-my-devil.json) |
@@ -4252,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rider's Spirits | 38214 | [38214-riders-spirits.json](./38214-riders-spirits.json) |
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
+| Riders of Asgard | 30618 | [30618-riders-of-asgard.json](./30618-riders-of-asgard.json) |
 | Riders of Asgard: Deluxe Edition | 53508 | [53508-riders-of-asgard-deluxe-edition.json](./53508-riders-of-asgard-deluxe-edition.json) |
 | Riders of the Wild | 275835 | [275835-riders-of-the-wild.json](./275835-riders-of-the-wild.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
@@ -5240,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
 | Robot Chase | 106149 | [106149-robot-chase.json](./106149-robot-chase.json) |
 | Robot City | 47287 | [47287-robot-city.json](./47287-robot-city.json) |
+| Robot City Stadium | 30528 | [30528-robot-city-stadium.json](./30528-robot-city-stadium.json) |
 | Robot Clash Run | 233113 | [233113-robot-clash-run.json](./233113-robot-clash-run.json) |
 | Robot Dinosaurs That Shoot Beams When They Roar | 378445 | [378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json](./378445-robot-dinosaurs-that-shoot-beams-when-they-roar.json) |
 | Robot Dir | 249768 | [249768-robot-dir.json](./249768-robot-dir.json) |
