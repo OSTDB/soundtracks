@@ -1385,7 +1385,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
+| Major League Baseball 2K8 | 4989 | [4989-major-league-baseball-2k8.json](./4989-major-league-baseball-2k8.json) |
 | Major League Baseball 2K8: Fantasy All-Stars | 20781 | [20781-major-league-baseball-2k8-fantasy-all-stars.json](./20781-major-league-baseball-2k8-fantasy-all-stars.json) |
+| Major League Baseball 2K9 | 4990 | [4990-major-league-baseball-2k9.json](./4990-major-league-baseball-2k9.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Major League Curveball | 302428 | [302428-major-league-curveball.json](./302428-major-league-curveball.json) |
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
@@ -1978,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
+| Marble Saga: Kororinpa | 4962 | [4962-marble-saga-kororinpa.json](./4962-marble-saga-kororinpa.json) |
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
@@ -4033,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots AX: Metabee Version | 49415 | [49415-medabots-ax-metabee-version.json](./49415-medabots-ax-metabee-version.json) |
 | Medabots AX: Rokusho Version | 49234 | [49234-medabots-ax-rokusho-version.json](./49234-medabots-ax-rokusho-version.json) |
 | Medabots Classic Collection | 55143 | [55143-medabots-classic-collection.json](./55143-medabots-classic-collection.json) |
+| Medabots Infinity | 3999 | [3999-medabots-infinity.json](./3999-medabots-infinity.json) |
 | Medabots: Metabee | 7583 | [7583-medabots-metabee.json](./7583-medabots-metabee.json) |
 | Medabots: Robattle 3D | 59828 | [59828-medabots-robattle-3d.json](./59828-medabots-robattle-3d.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
@@ -9066,11 +9070,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans | 115477 | [115477-monster-jam-steel-titans.json](./115477-monster-jam-steel-titans.json) |
 | Monster Jam Steel Titans 2 | 142603 | [142603-monster-jam-steel-titans-2.json](./142603-monster-jam-steel-titans-2.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
+| Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
 | Monster Killer | 150762 | [150762-monster-killer.json](./150762-monster-killer.json) |
 | Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
 | Monster Knockout: Idle DLC | 361773 | [361773-monster-knockout-idle-dlc.json](./361773-monster-knockout-idle-dlc.json) |
+| Monster Lab | 5018 | [5018-monster-lab.json](./5018-monster-lab.json) |
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
