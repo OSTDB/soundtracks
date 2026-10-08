@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sānguózhì Měngjiàng Zhuán | 158528 | [158528-sanguozhi-mengjiang-zhuan.json](./158528-sanguozhi-mengjiang-zhuan.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
+| Sānguózhì Zhī Jiāngwéi Zhuàn | 415514 | [415514-sanguozhi-zhi-jiangwei-zhuan.json](./415514-sanguozhi-zhi-jiangwei-zhuan.json) |
 | Sānguózhì: Chìbì zhī Zhàn | 48289 | [48289-sanguozhi-chibi-zhi-zhan.json](./48289-sanguozhi-chibi-zhi-zhan.json) |
 | Sangwich | 186069 | [186069-sangwich.json](./186069-sangwich.json) |
 | Sānhé Dàshén | 114279 | [114279-sanhe-dashen.json](./114279-sanhe-dashen.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
+| SCP-847 | 415490 | [415490-scp-847.json](./415490-scp-847.json) |
 | SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
@@ -6993,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
+| Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
 | Skeleton Sprint | 55675 | [55675-skeleton-sprint.json](./55675-skeleton-sprint.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton Village | 298644 | [298644-skeleton-village.json](./298644-skeleton-village.json) |
@@ -7136,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinfreak | 370337 | [370337-skinfreak.json](./370337-skinfreak.json) |
 | Skingdom | 398555 | [398555-skingdom.json](./398555-skingdom.json) |
 | Skinless The Horror Story Quest | 307870 | [307870-skinless-the-horror-story-quest.json](./307870-skinless-the-horror-story-quest.json) |
+| Skinned Alive | 415493 | [415493-skinned-alive.json](./415493-skinned-alive.json) |
 | Skinner & The Superintendent | 245930 | [245930-skinner-and-the-superintendent.json](./245930-skinner-and-the-superintendent.json) |
 | Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
@@ -15089,6 +15093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
+| Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
 | Stay Dead | 10895 | [10895-stay-dead.json](./10895-stay-dead.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
@@ -15108,6 +15113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Tooned! | 13786 | [13786-stay-tooned.json](./13786-stay-tooned.json) |
+| Stay With Him | 415505 | [415505-stay-with-him.json](./415505-stay-with-him.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
@@ -15737,6 +15743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
+| Still Alive | 415464 | [415464-still-alive.json](./415464-still-alive.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
@@ -16908,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
 | Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
+| Subdread | 415475 | [415475-subdread.json](./415475-subdread.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
