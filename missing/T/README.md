@@ -8121,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
 | The Minecraft tribute game | 46077 | [46077-the-minecraft-tribute-game.json](./46077-the-minecraft-tribute-game.json) |
 | The Miner Digs | 185413 | [185413-the-miner-digs.json](./185413-the-miner-digs.json) |
+| The Miner's Routine | 421317 | [421317-the-miners-routine.json](./421317-the-miners-routine.json) |
 | The Miners | 31215 | [31215-the-miners.json](./31215-the-miners.json) |
 | The Mines of Morseph | 55289 | [55289-the-mines-of-morseph.json](./55289-the-mines-of-morseph.json) |
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
@@ -9643,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
 | The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
+| The Simpler Times | 421354 | [421354-the-simpler-times.json](./421354-the-simpler-times.json) |
 | The Simpsons | 198885 | [198885-the-simpsons.json](./198885-the-simpsons.json) |
 | The Simpsons | 198887 | [198887-the-simpsons.json](./198887-the-simpsons.json) |
 | The Simpsons | 198888 | [198888-the-simpsons.json](./198888-the-simpsons.json) |
@@ -9721,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cats & Dogs | 75675 | [75675-the-sims-4-cats-and-dogs.json](./75675-the-sims-4-cats-and-dogs.json) |
 | The Sims 4: Cats and Dogs Plus My First Pet Stuff Bundle | 136225 | [136225-the-sims-4-cats-and-dogs-plus-my-first-pet-stuff-bundle.json](./136225-the-sims-4-cats-and-dogs-plus-my-first-pet-stuff-bundle.json) |
 | The Sims 4: City Living | 25321 | [25321-the-sims-4-city-living.json](./25321-the-sims-4-city-living.json) |
+| The Sims 4: Clueless Capsule Kit | 421341 | [421341-the-sims-4-clueless-capsule-kit.json](./421341-the-sims-4-clueless-capsule-kit.json) |
 | The Sims 4: Collector's Edition | 159074 | [159074-the-sims-4-collectors-edition.json](./159074-the-sims-4-collectors-edition.json) |
 | The Sims 4: Comfy Gamer Kit | 330391 | [330391-the-sims-4-comfy-gamer-kit.json](./330391-the-sims-4-comfy-gamer-kit.json) |
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
@@ -9763,6 +9766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Little Campers Kit | 202257 | [202257-the-sims-4-little-campers-kit.json](./202257-the-sims-4-little-campers-kit.json) |
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: Lovestruck | 307067 | [307067-the-sims-4-lovestruck.json](./307067-the-sims-4-lovestruck.json) |
+| The Sims 4: Mean Girls Capsule Kit | 421340 | [421340-the-sims-4-mean-girls-capsule-kit.json](./421340-the-sims-4-mean-girls-capsule-kit.json) |
 | The Sims 4: Modern Luxe Kit | 265706 | [265706-the-sims-4-modern-luxe-kit.json](./265706-the-sims-4-modern-luxe-kit.json) |
 | The Sims 4: Modern Retreat Kit | 377759 | [377759-the-sims-4-modern-retreat-kit.json](./377759-the-sims-4-modern-retreat-kit.json) |
 | The Sims 4: Moonlight Chic Kit | 202254 | [202254-the-sims-4-moonlight-chic-kit.json](./202254-the-sims-4-moonlight-chic-kit.json) |
@@ -10075,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
 | The Stonecutter | 84955 | [84955-the-stonecutter.json](./84955-the-stonecutter.json) |
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
+| The Stones of the Pharaoh | 421368 | [421368-the-stones-of-the-pharaoh.json](./421368-the-stones-of-the-pharaoh.json) |
 | The Stonks Market | 146698 | [146698-the-stonks-market.json](./146698-the-stonks-market.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
@@ -11689,6 +11694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
 | They Watch | 370298 | [370298-they-watch.json](./370298-they-watch.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
+| They Were Here First | 421316 | [421316-they-were-here-first.json](./421316-they-were-here-first.json) |
 | They Whisper Softly to Me | 28211 | [28211-they-whisper-softly-to-me.json](./28211-they-whisper-softly-to-me.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | They Сame From Above | 192709 | [192709-they-ame-from-above.json](./192709-they-ame-from-above.json) |
@@ -13619,6 +13625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timecues | 56915 | [56915-timecues.json](./56915-timecues.json) |
 | TimeFall | 116272 | [116272-timefall.json](./116272-timefall.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
+| Timefract | 421320 | [421320-timefract.json](./421320-timefract.json) |
 | Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
 | TimeK | 244179 | [244179-timek.json](./244179-timek.json) |
 | Timekeepers | 69586 | [69586-timekeepers.json](./69586-timekeepers.json) |
