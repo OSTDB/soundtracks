@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
 | What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
 | What would Google say? | 108370 | [108370-what-would-google-say.json](./108370-what-would-google-say.json) |
+| What Would You Choose? Rather | 91145 | [91145-what-would-you-choose-rather.json](./91145-what-would-you-choose-rather.json) |
 | What Would You Do? | 31396 | [31396-what-would-you-do.json](./31396-what-would-you-do.json) |
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
@@ -3652,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wired Gambit | 307207 | [307207-wired-gambit.json](./307207-wired-gambit.json) |
 | Wired to the Moon | 185472 | [185472-wired-to-the-moon.json](./185472-wired-to-the-moon.json) |
 | Wired Tokyo | 395793 | [395793-wired-tokyo.json](./395793-wired-tokyo.json) |
+| Wired Twin-Stick Bundle | 90956 | [90956-wired-twin-stick-bundle.json](./90956-wired-twin-stick-bundle.json) |
 | Wired Witch | 413788 | [413788-wired-witch.json](./413788-wired-witch.json) |
 | Wireframe Warfare | 340989 | [340989-wireframe-warfare.json](./340989-wireframe-warfare.json) |
 | Wirehead | 5462 | [5462-wirehead.json](./5462-wirehead.json) |
@@ -4585,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
+| Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
