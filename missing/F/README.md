@@ -1834,9 +1834,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
+| Fatal Fury: City of the Wolves - Kenshiro | 388992 | [388992-fatal-fury-city-of-the-wolves-kenshiro.json](./388992-fatal-fury-city-of-the-wolves-kenshiro.json) |
+| Fatal Fury: City of the Wolves - Kim Jae Hoon | 388987 | [388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json](./388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json) |
 | Fatal Fury: City of the Wolves - Legend Edition | 399203 | [399203-fatal-fury-city-of-the-wolves-legend-edition.json](./399203-fatal-fury-city-of-the-wolves-legend-edition.json) |
+| Fatal Fury: City of the Wolves - Nightmare Geese | 388988 | [388988-fatal-fury-city-of-the-wolves-nightmare-geese.json](./388988-fatal-fury-city-of-the-wolves-nightmare-geese.json) |
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
+| Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
 | Fatal Fury: Wild Ambition | 28138 | [28138-fatal-fury-wild-ambition.json](./28138-fatal-fury-wild-ambition.json) |
 | Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
@@ -1953,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father and Son 2 | 314382 | [314382-father-and-son-2.json](./314382-father-and-son-2.json) |
 | Father Figure | 376029 | [376029-father-figure.json](./376029-father-figure.json) |
 | Father World | 159187 | [159187-father-world.json](./159187-father-world.json) |
+| Father, Son & Holy Guns | 388891 | [388891-father-son-and-holy-guns.json](./388891-father-son-and-holy-guns.json) |
 | Father.io | 58074 | [58074-father-io.json](./58074-father-io.json) |
 | Father's Day | 213858 | [213858-fathers-day.json](./213858-fathers-day.json) |
 | Father's Day Journey | 304270 | [304270-fathers-day-journey.json](./304270-fathers-day-journey.json) |
