@@ -4243,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medved Hellraiser 3: Green Elephant | 311095 | [311095-medved-hellraiser-3-green-elephant.json](./311095-medved-hellraiser-3-green-elephant.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meebzork | 282627 | [282627-meebzork.json](./282627-meebzork.json) |
+| Meegah Mem 2 | 120665 | [120665-meegah-mem-2.json](./120665-meegah-mem-2.json) |
 | Meekanoid | 200174 | [200174-meekanoid.json](./200174-meekanoid.json) |
 | Meeple Fantasy 6 | 393098 | [393098-meeple-fantasy-6.json](./393098-meeple-fantasy-6.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
@@ -7380,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Mini Tennis: Perfect Smash | 267346 | [267346-mini-tennis-perfect-smash.json](./267346-mini-tennis-perfect-smash.json) |
+| Mini Tone Puzzle | 120401 | [120401-mini-tone-puzzle.json](./120401-mini-tone-puzzle.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
 | Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
 | Mini Treasure Girl | 291066 | [291066-mini-treasure-girl.json](./291066-mini-treasure-girl.json) |
@@ -11300,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mussoumano: Ataque dos Haters | 96190 | [96190-mussoumano-ataque-dos-haters.json](./96190-mussoumano-ataque-dos-haters.json) |
 | Mussoumano: Saving Latifas | 223529 | [223529-mussoumano-saving-latifas.json](./223529-mussoumano-saving-latifas.json) |
 | Must Be Feng Shui | 380659 | [380659-must-be-feng-shui.json](./380659-must-be-feng-shui.json) |
+| Must Dash Amigos | 120287 | [120287-must-dash-amigos.json](./120287-must-dash-amigos.json) |
 | Must Deliver | 60241 | [60241-must-deliver.json](./60241-must-deliver.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Must Love Jaws | 182883 | [182883-must-love-jaws.json](./182883-must-love-jaws.json) |
