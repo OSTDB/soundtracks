@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italian Journey | 216142 | [216142-italian-journey.json](./216142-italian-journey.json) |
 | Italian Journey: Nitro | 216144 | [216144-italian-journey-nitro.json](./216144-italian-journey-nitro.json) |
 | Italian Night 1999 | 386393 | [386393-italian-night-1999.json](./386393-italian-night-1999.json) |
+| Italian Pizza Simulator | 391123 | [391123-italian-pizza-simulator.json](./391123-italian-pizza-simulator.json) |
 | Italo-Doom | 224529 | [224529-italo-doom.json](./224529-italo-doom.json) |
 | Italy '90 Soccer | 140489 | [140489-italy-90-soccer.json](./140489-italy-90-soccer.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
@@ -4005,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivan Poe | 367499 | [367499-ivan-poe.json](./367499-ivan-poe.json) |
 | Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
 | IVAO: International Virtual Aviation Organisation | 140908 | [140908-ivao-international-virtual-aviation-organisation.json](./140908-ivao-international-virtual-aviation-organisation.json) |
+| Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
 | Ivy the Kiwi? Mini | 85204 | [85204-ivy-the-kiwi-mini.json](./85204-ivy-the-kiwi-mini.json) |
