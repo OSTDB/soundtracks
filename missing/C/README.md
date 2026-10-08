@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
+| Choujikuu Yousai Macross: Love Stories | 416872 | [416872-choujikuu-yousai-macross-love-stories.json](./416872-choujikuu-yousai-macross-love-stories.json) |
 | Choujikuu Yousai Macross: Scrambled Valkyrie | 42537 | [42537-choujikuu-yousai-macross-scrambled-valkyrie.json](./42537-choujikuu-yousai-macross-scrambled-valkyrie.json) |
 | Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
 | Choujin Baseball Stadium | 222225 | [222225-choujin-baseball-stadium.json](./222225-choujin-baseball-stadium.json) |
@@ -10012,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
+| Croissant Simulator | 416589 | [416589-croissant-simulator.json](./416589-croissant-simulator.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
 | Croket! Kindan no Kinka Box | 248202 | [248202-croket-kindan-no-kinka-box.json](./248202-croket-kindan-no-kinka-box.json) |
