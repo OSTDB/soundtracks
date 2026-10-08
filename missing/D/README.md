@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangeresque: The Roomisode Triungulate | 250906 | [250906-dangeresque-the-roomisode-triungulate.json](./250906-dangeresque-the-roomisode-triungulate.json) |
+| Dangerous | 17429 | [17429-dangerous.json](./17429-dangerous.json) |
 | Dangerous | 197646 | [197646-dangerous.json](./197646-dangerous.json) |
 | Dangerous adventure | 284996 | [284996-dangerous-adventure.json](./284996-dangerous-adventure.json) |
 | Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
+| Defense Zone | 17611 | [17611-defense-zone.json](./17611-defense-zone.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
 | Defense: Abominations | 105658 | [105658-defense-abominations.json](./105658-defense-abominations.json) |
@@ -5078,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig In | 399207 | [399207-dig-in.json](./399207-dig-in.json) |
 | Dig Island | 372930 | [372930-dig-island.json](./372930-dig-island.json) |
 | Dig It! | 14490 | [14490-dig-it.json](./14490-dig-it.json) |
+| DIG IT! - A Digger Simulator | 17593 | [17593-dig-it-a-digger-simulator.json](./17593-dig-it-a-digger-simulator.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
@@ -6249,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
 | Diving Focus | 348368 | [348368-diving-focus.json](./348368-diving-focus.json) |
+| Divinia Chronicles: Relics of Gan-Ti | 17437 | [17437-divinia-chronicles-relics-of-gan-ti.json](./17437-divinia-chronicles-relics-of-gan-ti.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
@@ -10651,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
+| Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
