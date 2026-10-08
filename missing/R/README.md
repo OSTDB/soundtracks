@@ -4984,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
 | Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
+| Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
