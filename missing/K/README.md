@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten Love Emulator | 111969 | [111969-kitten-love-emulator.json](./111969-kitten-love-emulator.json) |
 | Kitten Mischief | 397183 | [397183-kitten-mischief.json](./397183-kitten-mischief.json) |
+| Kitten Rampage | 33688 | [33688-kitten-rampage.json](./33688-kitten-rampage.json) |
 | Kitten Super Adventure | 35807 | [35807-kitten-super-adventure.json](./35807-kitten-super-adventure.json) |
 | Kitten Tales | 262483 | [262483-kitten-tales.json](./262483-kitten-tales.json) |
 | Kitten'd | 104860 | [104860-kittend.json](./104860-kittend.json) |
