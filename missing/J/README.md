@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
+| Journey to the West | 392222 | [392222-journey-to-the-west.json](./392222-journey-to-the-west.json) |
 | Journey to the West: A Super Mario Bros. ROM Hack | 198467 | [198467-journey-to-the-west-a-super-mario-bros-rom-hack.json](./198467-journey-to-the-west-a-super-mario-bros-rom-hack.json) |
 | Journey to the West: Blade Souls | 286135 | [286135-journey-to-the-west-blade-souls.json](./286135-journey-to-the-west-blade-souls.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
