@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
 | Inkression | 303583 | [303583-inkression.json](./303583-inkression.json) |
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
+| Inks. | 58356 | [58356-inks.json](./58356-inks.json) |
 | InkSplosion | 95608 | [95608-inksplosion.json](./95608-inksplosion.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inversion Day | 404345 | [404345-inversion-day.json](./404345-inversion-day.json) |
 | Inversion Institute | 220038 | [220038-inversion-institute.json](./220038-inversion-institute.json) |
 | Inversus | 19608 | [19608-inversus.json](./19608-inversus.json) |
+| Inversus Deluxe | 54590 | [54590-inversus-deluxe.json](./54590-inversus-deluxe.json) |
 | Invert | 383504 | [383504-invert.json](./383504-invert.json) |
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
