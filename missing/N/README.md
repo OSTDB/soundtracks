@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
+| Night Train Simulator: Blackout | 412204 | [412204-night-train-simulator-blackout.json](./412204-night-train-simulator-blackout.json) |
 | Night Trap | 179569 | [179569-night-trap.json](./179569-night-trap.json) |
 | Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Results Found | 412478 | [412478-no-results-found.json](./412478-no-results-found.json) |
 | No Retreat! the Russian Front | 348867 | [348867-no-retreat-the-russian-front.json](./348867-no-retreat-the-russian-front.json) |
 | No Return | 198350 | [198350-no-return.json](./198350-no-return.json) |
+| No Return Address | 412207 | [412207-no-return-address.json](./412207-no-return-address.json) |
 | No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
