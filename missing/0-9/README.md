@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-nen B-Gumi Kinpachi-sensei: Densetsu no Kyoudan ni Tate! | 65022 | [65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json](./65022-3-nen-b-gumi-kinpachi-sensei-densetsu-no-kyoudan-ni-tate.json) |
 | 3, 2, 1, Survive! | 102387 | [102387-3-2-1-survive.json](./102387-3-2-1-survive.json) |
 | 3, 2, 1...SuperCrash! | 42786 | [42786-3-2-1-supercrash.json](./42786-3-2-1-supercrash.json) |
+| 3,2,1...SuperCrash! + Dr. MiniGames | 409393 | [409393-3-2-1-supercrash-dr-minigames.json](./409393-3-2-1-supercrash-dr-minigames.json) |
 | 3:30 am. at Floater's Cemetery | 184959 | [184959-3-30-am-at-floaters-cemetery.json](./184959-3-30-am-at-floaters-cemetery.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
