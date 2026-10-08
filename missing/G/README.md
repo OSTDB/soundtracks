@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Suikogaiden Volume 1: Swordsman of Harmonia | 1455 | [1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json](./1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json) |
 | Genso Suikogaiden Volume 2: Duel at the Crystal Valley | 1457 | [1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json](./1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
+| Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensokyo Pro Wrestling Muscle Tag Match | 287891 | [287891-gensokyo-pro-wrestling-muscle-tag-match.json](./287891-gensokyo-pro-wrestling-muscle-tag-match.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
+| Goblin Walker | 96420 | [96420-goblin-walker.json](./96420-goblin-walker.json) |
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
@@ -5812,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
 | Guilded Youth | 172506 | [172506-guilded-youth.json](./172506-guilded-youth.json) |
+| Guildlings | 96257 | [96257-guildlings.json](./96257-guildlings.json) |
 | Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
 | Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
