@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Shore Warrior | 69492 | [69492-off-shore-warrior.json](./69492-off-shore-warrior.json) |
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
+| Off the Rails | 396761 | [396761-off-the-rails.json](./396761-off-the-rails.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
 | Off the Record: Liberty Stone | 82141 | [82141-off-the-record-liberty-stone.json](./82141-off-the-record-liberty-stone.json) |
 | Off the Record: Linden Shades - Collector's Edition | 32787 | [32787-off-the-record-linden-shades-collectors-edition.json](./32787-off-the-record-linden-shades-collectors-edition.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGeneral | 79518 | [79518-opengeneral.json](./79518-opengeneral.json) |
+| OpenGoal: Jak 3 | 396702 | [396702-opengoal-jak-3.json](./396702-opengoal-jak-3.json) |
 | OpenGoal: Jak and Daxter - The Precursor Legacy | 206008 | [206008-opengoal-jak-and-daxter-the-precursor-legacy.json](./206008-opengoal-jak-and-daxter-the-precursor-legacy.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
