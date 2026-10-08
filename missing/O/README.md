@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun Europa | 38874 | [38874-outrun-europa.json](./38874-outrun-europa.json) |
 | Outrun Online Arcade | 21204 | [21204-outrun-online-arcade.json](./21204-outrun-online-arcade.json) |
 | Outrun Them | 296481 | [296481-outrun-them.json](./296481-outrun-them.json) |
+| Outrunner | 28802 | [28802-outrunner.json](./28802-outrunner.json) |
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
 | OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
