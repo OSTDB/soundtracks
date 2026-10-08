@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
 | Neon Runners | 288831 | [288831-neon-runners.json](./288831-neon-runners.json) |
 | Neon Rush | 290554 | [290554-neon-rush.json](./290554-neon-rush.json) |
+| Neon Seoul: Outrun | 76933 | [76933-neon-seoul-outrun.json](./76933-neon-seoul-outrun.json) |
 | Neon Sex Dream | 231352 | [231352-neon-sex-dream.json](./231352-neon-sex-dream.json) |
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
 | Neon Ships: The Type'em Up Shooter | 143707 | [143707-neon-ships-the-typeem-up-shooter.json](./143707-neon-ships-the-typeem-up-shooter.json) |
