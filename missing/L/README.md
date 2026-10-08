@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Spot It! | 252925 | [252925-lets-spot-it.json](./252925-lets-spot-it.json) |
 | Let's Talk About Me | 57648 | [57648-lets-talk-about-me.json](./57648-lets-talk-about-me.json) |
 | Let's Talk About Me Too | 78336 | [78336-lets-talk-about-me-too.json](./78336-lets-talk-about-me-too.json) |
+| Let's Tap | 4970 | [4970-lets-tap.json](./4970-lets-tap.json) |
 | Let's Tap: Tap Runner | 56899 | [56899-lets-tap-tap-runner.json](./56899-lets-tap-tap-runner.json) |
 | Let's Throoow! Street Basketball Simulator | 300869 | [300869-lets-throoow-street-basketball-simulator.json](./300869-lets-throoow-street-basketball-simulator.json) |
 | Let's Watch Steamboat Willie | 319001 | [319001-lets-watch-steamboat-willie.json](./319001-lets-watch-steamboat-willie.json) |
