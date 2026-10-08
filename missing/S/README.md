@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
 | Saloonery | 348402 | [348402-saloonery.json](./348402-saloonery.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
+| Salt | 17929 | [17929-salt.json](./17929-salt.json) |
 | Salt | 334887 | [334887-salt.json](./334887-salt.json) |
 | Salt & Soul: Pocket Chef's Adventure | 406865 | [406865-salt-and-soul-pocket-chefs-adventure.json](./406865-salt-and-soul-pocket-chefs-adventure.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
@@ -1627,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
 | Scary Evil Horror | 320927 | [320927-scary-evil-horror.json](./320927-scary-evil-horror.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
+| Scary Girl | 16284 | [16284-scary-girl.json](./16284-scary-girl.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
 | Scary Gourmet | 177933 | [177933-scary-gourmet.json](./177933-scary-gourmet.json) |
 | Scary Granny | 370183 | [370183-scary-granny.json](./370183-scary-granny.json) |
@@ -4188,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
 | Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
+| Shan Gui | 17533 | [17533-shan-gui.json](./17533-shan-gui.json) |
 | Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
 | Shan Gui II: Sweet Osmanthus II - Episode 2 | 171349 | [171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json](./171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json) |
 | Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
@@ -7573,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Dawn VR | 100585 | [100585-sleeping-dawn-vr.json](./100585-sleeping-dawn-vr.json) |
 | Sleeping Dogs: Drunken Fist Pack | 166007 | [166007-sleeping-dogs-drunken-fist-pack.json](./166007-sleeping-dogs-drunken-fist-pack.json) |
+| Sleeping Dogs: Ghost Pig | 16398 | [16398-sleeping-dogs-ghost-pig.json](./16398-sleeping-dogs-ghost-pig.json) |
 | Sleeping Dogs: Monkey King Pack | 166003 | [166003-sleeping-dogs-monkey-king-pack.json](./166003-sleeping-dogs-monkey-king-pack.json) |
 | Sleeping Dogs: Nightmare in North Point | 10872 | [10872-sleeping-dogs-nightmare-in-north-point.json](./10872-sleeping-dogs-nightmare-in-north-point.json) |
 | Sleeping Dogs: Police Protection Pack | 166004 | [166004-sleeping-dogs-police-protection-pack.json](./166004-sleeping-dogs-police-protection-pack.json) |
@@ -9352,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarium | 139307 | [139307-solarium.json](./139307-solarium.json) |
+| Solarix | 17146 | [17146-solarix.json](./17146-solarix.json) |
 | Solarland | 212459 | [212459-solarland.json](./212459-solarland.json) |
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
