@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan: Console Edition - The Helpers | 275045 | [275045-catan-console-edition-the-helpers.json](./275045-catan-console-edition-the-helpers.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
+| Catanks | 409404 | [409404-catanks.json](./409404-catanks.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
 | Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
@@ -5266,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
+| City Pixel Transporters | 409403 | [409403-city-pixel-transporters.json](./409403-city-pixel-transporters.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
 | City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
 | City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
@@ -5383,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire de Lune | 118217 | [118217-claire-de-lune.json](./118217-claire-de-lune.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
+| Clairvoyage: The Lighthouse | 409397 | [409397-clairvoyage-the-lighthouse.json](./409397-clairvoyage-the-lighthouse.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
 | Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
 | Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
@@ -6201,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
 | Cobra Kai: Card Fighter | 143371 | [143371-cobra-kai-card-fighter.json](./143371-cobra-kai-card-fighter.json) |
+| Cobra Strike | 409395 | [409395-cobra-strike.json](./409395-cobra-strike.json) |
 | Cobra: Galaxy Nights | 75736 | [75736-cobra-galaxy-nights.json](./75736-cobra-galaxy-nights.json) |
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
 | Cobra's Arc | 39110 | [39110-cobras-arc.json](./39110-cobras-arc.json) |
