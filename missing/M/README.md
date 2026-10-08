@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinegun Geometry: The Right Angle | 68757 | [68757-machinegun-geometry-the-right-angle.json](./68757-machinegun-geometry-the-right-angle.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
 | MachineryWorld | 158118 | [158118-machineryworld.json](./158118-machineryworld.json) |
+| Machines at War 3 | 17485 | [17485-machines-at-war-3.json](./17485-machines-at-war-3.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machinika Museum | 163777 | [163777-machinika-museum.json](./163777-machinika-museum.json) |
@@ -7516,6 +7517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimized | 31457 | [31457-minimized.json](./31457-minimized.json) |
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
+| Minimon | 17564 | [17564-minimon.json](./17564-minimon.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
 | Minimonsters Crush | 90820 | [90820-minimonsters-crush.json](./90820-minimonsters-crush.json) |
 | MiniMow | 262590 | [262590-minimow.json](./262590-minimow.json) |
@@ -8907,6 +8909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Monomals | 117017 | [117017-monomals.json](./117017-monomals.json) |
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
+| Monomino | 17483 | [17483-monomino.json](./17483-monomino.json) |
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
@@ -9602,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Lovers | 186764 | [186764-moonlight-lovers.json](./186764-moonlight-lovers.json) |
 | Moonlight Mayhem | 257993 | [257993-moonlight-mayhem.json](./257993-moonlight-mayhem.json) |
 | Moonlight maze | 121734 | [121734-moonlight-maze.json](./121734-moonlight-maze.json) |
+| Moonlight Minions | 17581 | [17581-moonlight-minions.json](./17581-moonlight-minions.json) |
 | Moonlight Moggy | 229769 | [229769-moonlight-moggy.json](./229769-moonlight-moggy.json) |
 | Moonlight Motel | 403091 | [403091-moonlight-motel.json](./403091-moonlight-motel.json) |
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
