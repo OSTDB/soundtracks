@@ -4397,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
 | Bike Xtreme | 101680 | [101680-bike-xtreme.json](./101680-bike-xtreme.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
