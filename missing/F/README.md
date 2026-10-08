@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
 | Final Sky | 59819 | [59819-final-sky.json](./59819-final-sky.json) |
 | Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
+| Final Soccer VR - Previously Final Goalie | 30552 | [30552-final-soccer-vr-previously-final-goalie.json](./30552-final-soccer-vr-previously-final-goalie.json) |
 | Final Soldier | 37712 | [37712-final-soldier.json](./37712-final-soldier.json) |
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
@@ -6717,6 +6718,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
+| Frequent Flyer | 30585 | [30585-frequent-flyer.json](./30585-frequent-flyer.json) |
+| Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
