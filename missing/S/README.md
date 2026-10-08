@@ -8804,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoball in Hell | 293314 | [293314-snoball-in-hell.json](./293314-snoball-in-hell.json) |
 | Snogbert | 347805 | [347805-snogbert.json](./347805-snogbert.json) |
 | Snoggle | 172458 | [172458-snoggle.json](./172458-snoggle.json) |
+| Snok | 87132 | [87132-snok.json](./87132-snok.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
@@ -9603,6 +9604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Mystery: Four Seasons | 91130 | [91130-solitaire-mystery-four-seasons.json](./91130-solitaire-mystery-four-seasons.json) |
 | Solitaire Paradise: Anime Bikini Babes | 410372 | [410372-solitaire-paradise-anime-bikini-babes.json](./410372-solitaire-paradise-anime-bikini-babes.json) |
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
+| Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
 | Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
@@ -13744,6 +13746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
+| Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
@@ -19503,6 +19506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
 | Supercar Street Challenge | 43220 | [43220-supercar-street-challenge.json](./43220-supercar-street-challenge.json) |
+| Supercars Racing | 87147 | [87147-supercars-racing.json](./87147-supercars-racing.json) |
 | Supercat Survivors: Meow or Die | 346124 | [346124-supercat-survivors-meow-or-die.json](./346124-supercat-survivors-meow-or-die.json) |
 | Supercells | 309891 | [309891-supercells.json](./309891-supercells.json) |
 | Supercharge | 299922 | [299922-supercharge.json](./299922-supercharge.json) |
@@ -19619,6 +19623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
 | Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
+| Supermarket Management 2 | 87115 | [87115-supermarket-management-2.json](./87115-supermarket-management-2.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
