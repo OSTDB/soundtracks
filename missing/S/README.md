@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
 | Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
 | Sakuya-san Crisis: The Perfect Elegant Skill | 210534 | [210534-sakuya-san-crisis-the-perfect-elegant-skill.json](./210534-sakuya-san-crisis-the-perfect-elegant-skill.json) |
+| Sal Terrae: in search of SALT | 414150 | [414150-sal-terrae-in-search-of-salt.json](./414150-sal-terrae-in-search-of-salt.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
 | Sala de Juegos 3D | 414507 | [414507-sala-de-juegos-3d.json](./414507-sala-de-juegos-3d.json) |
 | Salaam | 127341 | [127341-salaam.json](./127341-salaam.json) |
@@ -1202,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarara's Little Shop | 61564 | [61564-sararas-little-shop.json](./61564-sararas-little-shop.json) |
 | Saratoga | 297605 | [297605-saratoga.json](./297605-saratoga.json) |
 | Sarawak | 132677 | [132677-sarawak.json](./132677-sarawak.json) |
+| Sarco | 414133 | [414133-sarco.json](./414133-sarco.json) |
 | Sarcoph | 197697 | [197697-sarcoph.json](./197697-sarcoph.json) |
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
@@ -1314,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sature | 183450 | [183450-sature.json](./183450-sature.json) |
 | Saturn | 285121 | [285121-saturn.json](./285121-saturn.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
+| Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
@@ -3863,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
+| Shadow Bridge | 414182 | [414182-shadow-bridge.json](./414182-shadow-bridge.json) |
 | Shadow Bug | 44246 | [44246-shadow-bug.json](./44246-shadow-bug.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
@@ -13523,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
+| Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
 | Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
 | Square Deal | 72021 | [72021-square-deal.json](./72021-square-deal.json) |
@@ -15273,6 +15278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
+| Steel Core | 414134 | [414134-steel-core.json](./414134-steel-core.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Defier | 211680 | [211680-steel-defier.json](./211680-steel-defier.json) |
 | Steel Diver | 6891 | [6891-steel-diver.json](./6891-steel-diver.json) |
@@ -17113,6 +17119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
+| Sucronomicon | 414171 | [414171-sucronomicon.json](./414171-sucronomicon.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudama Relation | 252814 | [252814-sudama-relation.json](./252814-sudama-relation.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
