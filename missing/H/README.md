@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting At Cliffhouse | 158552 | [158552-haunting-at-cliffhouse.json](./158552-haunting-at-cliffhouse.json) |
 | Haunting Ground | 14605 | [14605-haunting-ground.json](./14605-haunting-ground.json) |
 | Haunting Hollow | 269758 | [269758-haunting-hollow.json](./269758-haunting-hollow.json) |
+| Haunting Invitation | 388977 | [388977-haunting-invitation.json](./388977-haunting-invitation.json) |
 | Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting of Mageburrow | 402361 | [402361-haunting-of-mageburrow.json](./402361-haunting-of-mageburrow.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterhalt | 74477 | [74477-hinterhalt.json](./74477-hinterhalt.json) |
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
+| Hinterkaifeck: The Farmhouse Murders | 388894 | [388894-hinterkaifeck-the-farmhouse-murders.json](./388894-hinterkaifeck-the-farmhouse-murders.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
 | Hints Hunter | 85171 | [85171-hints-hunter.json](./85171-hints-hunter.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
