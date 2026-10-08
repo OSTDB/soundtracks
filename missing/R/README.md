@@ -5322,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
+| Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
 | Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
 | Robot Squad Simulator | 119516 | [119516-robot-squad-simulator.json](./119516-robot-squad-simulator.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
@@ -6619,6 +6620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotox | 15360 | [15360-rotox.json](./15360-rotox.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
+| Rotten Chamber | 399886 | [399886-rotten-chamber.json](./399886-rotten-chamber.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
 | Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
@@ -7110,6 +7112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumbral | 344465 | [344465-rumbral.json](./344465-rumbral.json) |
 | Rumia in the darkness | 121013 | [121013-rumia-in-the-darkness.json](./121013-rumia-in-the-darkness.json) |
 | Rumia Throws! | 264255 | [264255-rumia-throws.json](./264255-rumia-throws.json) |
+| Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
