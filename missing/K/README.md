@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KC Returns! | 97527 | [97527-kc-returns.json](./97527-kc-returns.json) |
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | Kcpts | 244297 | [244297-kcpts.json](./244297-kcpts.json) |
+| Kculture | 388162 | [388162-kculture.json](./388162-kculture.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
 | Ke Rulen Los Petas | 141849 | [141849-ke-rulen-los-petas.json](./141849-ke-rulen-los-petas.json) |
 | Keanu Reeves Dating Sim | 176300 | [176300-keanu-reeves-dating-sim.json](./176300-keanu-reeves-dating-sim.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kota's New Journey | 327999 | [327999-kotas-new-journey.json](./327999-kotas-new-journey.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
+| Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
 | Kotoba no Puzzle Mojipittan Daijiten | 68082 | [68082-kotoba-no-puzzle-mojipittan-daijiten.json](./68082-kotoba-no-puzzle-mojipittan-daijiten.json) |
 | Kotoba no Puzzle Mojipittan Wii | 68081 | [68081-kotoba-no-puzzle-mojipittan-wii.json](./68081-kotoba-no-puzzle-mojipittan-wii.json) |
 | Kotoba no Puzzle: Mojipittan | 80798 | [80798-kotoba-no-puzzle-mojipittan.json](./80798-kotoba-no-puzzle-mojipittan.json) |
