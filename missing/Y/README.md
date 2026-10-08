@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
+| Yanpai Simulator | 113124 | [113124-yanpai-simulator.json](./113124-yanpai-simulator.json) |
 | Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
 | Yáo Àn Dēng Hǎi | 373709 | [373709-yao-an-deng-hai.json](./373709-yao-an-deng-hai.json) |
 | Yāo Dāo Zhuàn | 373695 | [373695-yao-dao-zhuan.json](./373695-yao-dao-zhuan.json) |
