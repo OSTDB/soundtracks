@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
 | Infinicrypt | 298280 | [298280-infinicrypt.json](./298280-infinicrypt.json) |
+| Infinideer: Deerfinity | 387044 | [387044-infinideer-deerfinity.json](./387044-infinideer-deerfinity.json) |
 | Infinifactory | 9649 | [9649-infinifactory.json](./9649-infinifactory.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
@@ -2421,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
 | InGame.exe | 65817 | [65817-ingame-exe.json](./65817-ingame-exe.json) |
+| Inganock of the Raging Flame: What a Beautiful People | 387048 | [387048-inganock-of-the-raging-flame-what-a-beautiful-people.json](./387048-inganock-of-the-raging-flame-what-a-beautiful-people.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
 | Ingenious Island | 226745 | [226745-ingenious-island.json](./226745-ingenious-island.json) |
 | Ingeste | 181225 | [181225-ingeste.json](./181225-ingeste.json) |
