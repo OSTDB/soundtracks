@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
+| MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Madruga From Mars | 252899 | [252899-madruga-from-mars.json](./252899-madruga-from-mars.json) |
@@ -7202,6 +7203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
+| Mines of Mars | 34143 | [34143-mines-of-mars.json](./34143-mines-of-mars.json) |
 | Mines of Minos | 18534 | [18534-mines-of-minos.json](./18534-mines-of-minos.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
