@@ -5562,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
 | Metal Force | 48325 | [48325-metal-force.json](./48325-metal-force.json) |
+| Metal Force: Tank Shooter | 87113 | [87113-metal-force-tank-shooter.json](./87113-metal-force-tank-shooter.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Gear | 344546 | [344546-metal-gear.json](./344546-metal-gear.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
+| Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
 | MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
@@ -7399,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini War: Three Kingdoms | 171456 | [171456-mini-war-three-kingdoms.json](./171456-mini-war-three-kingdoms.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
+| Mini Wars Blackout | 87133 | [87133-mini-wars-blackout.json](./87133-mini-wars-blackout.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
@@ -7437,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
+| MiniDrivers: The game of mini racing cars | 87118 | [87118-minidrivers-the-game-of-mini-racing-cars.json](./87118-minidrivers-the-game-of-mini-racing-cars.json) |
 | Minifeg: The Search | 170349 | [170349-minifeg-the-search.json](./170349-minifeg-the-search.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame 3-hon Pack | 227750 | [227750-minigame-3-hon-pack.json](./227750-minigame-3-hon-pack.json) |
@@ -11295,6 +11299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
+| Musical Studio | 87123 | [87123-musical-studio.json](./87123-musical-studio.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | MusicHell | 386951 | [386951-musichell.json](./386951-musichell.json) |
