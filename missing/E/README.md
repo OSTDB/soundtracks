@@ -1799,6 +1799,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire | 272474 | [272474-empire.json](./272474-empire.json) |
 | Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
+| Empire Business | 403092 | [403092-empire-business.json](./403092-empire-business.json) |
+| Empire Business 2 | 403107 | [403107-empire-business-2.json](./403107-empire-business-2.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
@@ -4164,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
+| Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
