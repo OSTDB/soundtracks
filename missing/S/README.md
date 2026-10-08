@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | School! Love Reflex | 181118 | [181118-school-love-reflex.json](./181118-school-love-reflex.json) |
+| School's Out | 390089 | [390089-schools-out.json](./390089-schools-out.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
@@ -5824,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
 | Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
+| Shuttlecock-H: Covered Rematch | 390169 | [390169-shuttlecock-h-covered-rematch.json](./390169-shuttlecock-h-covered-rematch.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shuuen ~Another World~ | 151826 | [151826-shuuen-another-world.json](./151826-shuuen-another-world.json) |
 | Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
@@ -8326,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smart Decoy | 221657 | [221657-smart-decoy.json](./221657-smart-decoy.json) |
 | Smart Educational Games for Mac | 100607 | [100607-smart-educational-games-for-mac.json](./100607-smart-educational-games-for-mac.json) |
+| Smart Farm | 390078 | [390078-smart-farm.json](./390078-smart-farm.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
 | Smart Fish | 250877 | [250877-smart-fish.json](./250877-smart-fish.json) |
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
@@ -10900,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Breach | 363022 | [363022-soul-breach.json](./363022-soul-breach.json) |
 | Soul Bubbles | 21370 | [21370-soul-bubbles.json](./21370-soul-bubbles.json) |
 | Soul Calibur Mobile | 372102 | [372102-soul-calibur-mobile.json](./372102-soul-calibur-mobile.json) |
+| Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
@@ -12886,6 +12890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinera | 338892 | [338892-spinera.json](./338892-spinera.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
+| Spingenuity | 390090 | [390090-spingenuity.json](./390090-spingenuity.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
