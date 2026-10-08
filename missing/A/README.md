@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Girl's Duty | 181692 | [181692-a-magical-girls-duty.json](./181692-a-magical-girls-duty.json) |
+| A Magical High School Girl | 30533 | [30533-a-magical-high-school-girl.json](./30533-a-magical-high-school-girl.json) |
 | A Magical Tale: Cavern Crawler | 134995 | [134995-a-magical-tale-cavern-crawler.json](./134995-a-magical-tale-cavern-crawler.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
+| Abduction Bit | 30664 | [30664-abduction-bit.json](./30664-abduction-bit.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
@@ -4252,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
 | Alpine Ski | 46759 | [46759-alpine-ski.json](./46759-alpine-ski.json) |
 | Alpine Ski Racing 2007 | 68266 | [68266-alpine-ski-racing-2007.json](./68266-alpine-ski-racing-2007.json) |
+| Alpine Ski VR | 30596 | [30596-alpine-ski-vr.json](./30596-alpine-ski-vr.json) |
 | Alpine Skiing | 41532 | [41532-alpine-skiing.json](./41532-alpine-skiing.json) |
 | Alpine Skiing 2005 | 68265 | [68265-alpine-skiing-2005.json](./68265-alpine-skiing-2005.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
