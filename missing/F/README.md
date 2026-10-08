@@ -4193,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
+| Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
@@ -5291,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football Legacy | 394539 | [394539-football-legacy.json](./394539-football-legacy.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025: Complete Edition | 404277 | [404277-football-legends-2025-complete-edition.json](./404277-football-legends-2025-complete-edition.json) |
 | Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
@@ -5843,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2025 | 328536 | [328536-formula-racing-pro-2025.json](./328536-formula-racing-pro-2025.json) |
 | Formula Racing Pro 2025: Extended Edition | 333721 | [333721-formula-racing-pro-2025-extended-edition.json](./333721-formula-racing-pro-2025-extended-edition.json) |
 | Formula Racing Pro 2026: Diamond Edition | 410856 | [410856-formula-racing-pro-2026-diamond-edition.json](./410856-formula-racing-pro-2026-diamond-edition.json) |
+| Formula Racing Pro 2026: Elite Edition | 404278 | [404278-formula-racing-pro-2026-elite-edition.json](./404278-formula-racing-pro-2026-elite-edition.json) |
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
