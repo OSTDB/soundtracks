@@ -4268,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Blacksmith Simulator | 417475 | [417475-npc-blacksmith-simulator.json](./417475-npc-blacksmith-simulator.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
+| NPCs | 113054 | [113054-npcs.json](./113054-npcs.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Npool: Skins Pack 1 | 316250 | [316250-npool-skins-pack-1.json](./316250-npool-skins-pack-1.json) |
 | Npool: Skins Pack 2 | 316249 | [316249-npool-skins-pack-2.json](./316249-npool-skins-pack-2.json) |
