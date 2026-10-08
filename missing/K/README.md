@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper's Curse | 298670 | [298670-keepers-curse.json](./298670-keepers-curse.json) |
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
 | Keeper's Vigil | 405041 | [405041-keepers-vigil.json](./405041-keepers-vigil.json) |
+| KeeperRL | 17968 | [17968-keeperrl.json](./17968-keeperrl.json) |
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
 | Keepers Dungeon | 116811 | [116811-keepers-dungeon.json](./116811-keepers-dungeon.json) |
