@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Digital Deluxe Edition | 118910 | [118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json](./118910-call-of-duty-infinite-warfare-digital-deluxe-edition.json) |
 | Call of Duty: Infinite Warfare - Jackal Assault | 80632 | [80632-call-of-duty-infinite-warfare-jackal-assault.json](./80632-call-of-duty-infinite-warfare-jackal-assault.json) |
+| Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
 | Charinko Hero | 3854 | [3854-charinko-hero.json](./3854-charinko-hero.json) |
 | Chariot | 7897 | [7897-chariot.json](./7897-chariot.json) |
+| Chariot Bundle | 82458 | [82458-chariot-bundle.json](./82458-chariot-bundle.json) |
 | Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot of Girl | 301993 | [301993-chariot-of-girl.json](./301993-chariot-of-girl.json) |
 | Chariot Race | 47244 | [47244-chariot-race.json](./47244-chariot-race.json) |
@@ -7834,6 +7836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
 | Contador de Histórias | 290093 | [290093-contador-de-historias.json](./290093-contador-de-historias.json) |
 | Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
+| Contagion VR: Outbreak | 82047 | [82047-contagion-vr-outbreak.json](./82047-contagion-vr-outbreak.json) |
 | Contain | 226717 | [226717-contain.json](./226717-contain.json) |
 | Container City | 209952 | [209952-container-city.json](./209952-container-city.json) |
 | Container Terminal Simulator | 362389 | [362389-container-terminal-simulator.json](./362389-container-terminal-simulator.json) |
@@ -9490,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
 | Crazy space pirate | 117633 | [117633-crazy-space-pirate.json](./117633-crazy-space-pirate.json) |
+| Crazy Sports Bundle | 82457 | [82457-crazy-sports-bundle.json](./82457-crazy-sports-bundle.json) |
 | Crazy Sprint | 256461 | [256461-crazy-sprint.json](./256461-crazy-sprint.json) |
 | Crazy Squares: Milk River Run | 365889 | [365889-crazy-squares-milk-river-run.json](./365889-crazy-squares-milk-river-run.json) |
 | Crazy Stars: Sport Climbing | 312081 | [312081-crazy-stars-sport-climbing.json](./312081-crazy-stars-sport-climbing.json) |
@@ -9572,6 +9576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
+| Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Chess | 142103 | [142103-creature-chess.json](./142103-creature-chess.json) |
 | Creature Clicker: Capture, Train, Ascend! | 31274 | [31274-creature-clicker-capture-train-ascend.json](./31274-creature-clicker-capture-train-ascend.json) |
