@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
+| Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
 | Gorogoa | 9136 | [9136-gorogoa.json](./9136-gorogoa.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
@@ -4257,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoVenture Entrepreneur | 203840 | [203840-goventure-entrepreneur.json](./203840-goventure-entrepreneur.json) |
 | GoVenture Micro Business | 31865 | [31865-goventure-micro-business.json](./31865-goventure-micro-business.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
+| Government Simulator | 74673 | [74673-government-simulator.json](./74673-government-simulator.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Governor of Poker 3 | 33663 | [33663-governor-of-poker-3.json](./33663-governor-of-poker-3.json) |
 | Governor of the West | 292632 | [292632-governor-of-the-west.json](./292632-governor-of-the-west.json) |
