@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Pop: Bubble Shooter | 87039 | [87039-panda-pop-bubble-shooter.json](./87039-panda-pop-bubble-shooter.json) |
 | Panda Prince | 48891 | [48891-panda-prince.json](./48891-panda-prince.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
+| Panda Run | 55267 | [55267-panda-run.json](./55267-panda-run.json) |
 | Panda vs Lightning | 98796 | [98796-panda-vs-lightning.json](./98796-panda-vs-lightning.json) |
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
@@ -4885,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Town | 183872 | [183872-pixel-town.json](./183872-pixel-town.json) |
 | Pixel Town: Akanemachi Mystery 2 | 244311 | [244311-pixel-town-akanemachi-mystery-2.json](./244311-pixel-town-akanemachi-mystery-2.json) |
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
+| Pixel Traffic: Circle Rush | 54875 | [54875-pixel-traffic-circle-rush.json](./54875-pixel-traffic-circle-rush.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Trainer | 107098 | [107098-pixel-trainer.json](./107098-pixel-trainer.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
