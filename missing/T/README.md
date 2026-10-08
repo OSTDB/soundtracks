@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Effective Detective | 300811 | [300811-the-effective-detective.json](./300811-the-effective-detective.json) |
 | The Egg | 327287 | [327287-the-egg.json](./327287-the-egg.json) |
 | The Egg | 354651 | [354651-the-egg.json](./354651-the-egg.json) |
+| The Egg | 403231 | [403231-the-egg.json](./403231-the-egg.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
@@ -8429,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
 | The New Flesh | 344057 | [344057-the-new-flesh.json](./344057-the-new-flesh.json) |
 | The New Girl | 96875 | [96875-the-new-girl.json](./96875-the-new-girl.json) |
+| The New Me | 402871 | [402871-the-new-me.json](./402871-the-new-me.json) |
 | The New Order Victoria 3 | 356270 | [356270-the-new-order-victoria-3.json](./356270-the-new-order-victoria-3.json) |
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
@@ -12454,6 +12456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
+| Tiebreakers | 403216 | [403216-tiebreakers.json](./403216-tiebreakers.json) |
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
@@ -17792,6 +17795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
+| Tread Heavy | 402947 | [402947-tread-heavy.json](./402947-tread-heavy.json) |
 | Treadmillasaurus Rex | 377740 | [377740-treadmillasaurus-rex.json](./377740-treadmillasaurus-rex.json) |
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
 | Treasure | 217778 | [217778-treasure.json](./217778-treasure.json) |
