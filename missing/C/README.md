@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
+| Castaway | 410092 | [410092-castaway.json](./410092-castaway.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castaway Cove | 103999 | [103999-castaway-cove.json](./103999-castaway-cove.json) |
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
@@ -2177,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
+| Cat in the Box | 410181 | [410181-cat-in-the-box.json](./410181-cat-in-the-box.json) |
 | Cat Inside | 108343 | [108343-cat-inside.json](./108343-cat-inside.json) |
 | Cat Isle | 371378 | [371378-cat-isle.json](./371378-cat-isle.json) |
 | Cat Jigsaw Puzzle Games | 241325 | [241325-cat-jigsaw-puzzle-games.json](./241325-cat-jigsaw-puzzle-games.json) |
@@ -6546,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
+| ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
@@ -6699,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color 2018 Switch | 105828 | [105828-color-2018-switch.json](./105828-color-2018-switch.json) |
 | Color 360 | 26936 | [26936-color-360.json](./26936-color-360.json) |
 | Color a Dinosaur SNES Port | 377225 | [377225-color-a-dinosaur-snes-port.json](./377225-color-a-dinosaur-snes-port.json) |
+| Color Attack! | 410095 | [410095-color-attack.json](./410095-color-attack.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
