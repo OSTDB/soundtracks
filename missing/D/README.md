@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonschool: Digital Deluxe Edition | 378957 | [378957-demonschool-digital-deluxe-edition.json](./378957-demonschool-digital-deluxe-edition.json) |
+| Demonschool: Puzzle Killers | 404883 | [404883-demonschool-puzzle-killers.json](./404883-demonschool-puzzle-killers.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
@@ -5369,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
+| Dinghai: The Ocean Pillar | 404908 | [404908-dinghai-the-ocean-pillar.json](./404908-dinghai-the-ocean-pillar.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
