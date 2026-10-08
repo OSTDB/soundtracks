@@ -13384,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
+| Tile Hero | 416174 | [416174-tile-hero.json](./416174-tile-hero.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
@@ -14689,6 +14690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Red Crow | 25641 | [25641-tom-clancys-rainbow-six-siege-operation-red-crow.json](./25641-tom-clancys-rainbow-six-siege-operation-red-crow.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Shadow Legacy | 136978 | [136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json](./136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Splitfire | 416178 | [416178-tom-clancys-rainbow-six-siege-operation-splitfire.json](./416178-tom-clancys-rainbow-six-siege-operation-splitfire.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
@@ -15992,6 +15994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Wishes | 149230 | [149230-tower-of-wishes.json](./149230-tower-of-wishes.json) |
 | Tower Of Wishes 3: Japan | 289933 | [289933-tower-of-wishes-3-japan.json](./289933-tower-of-wishes-3-japan.json) |
 | Tower of Wishes 4: Shaka | 356769 | [356769-tower-of-wishes-4-shaka.json](./356769-tower-of-wishes-4-shaka.json) |
+| Tower of Wishes 5: Indonesia | 416189 | [416189-tower-of-wishes-5-indonesia.json](./416189-tower-of-wishes-5-indonesia.json) |
 | Tower Offence! | 55691 | [55691-tower-offence.json](./55691-tower-offence.json) |
 | Tower Offender | 177367 | [177367-tower-offender.json](./177367-tower-offender.json) |
 | Tower Offensive | 177836 | [177836-tower-offensive.json](./177836-tower-offensive.json) |
@@ -17608,6 +17611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Center Tycoon | 220158 | [220158-travel-center-tycoon.json](./220158-travel-center-tycoon.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
 | Travel Cuisine 2: Sweet Life - Collector's Edition | 358422 | [358422-travel-cuisine-2-sweet-life-collectors-edition.json](./358422-travel-cuisine-2-sweet-life-collectors-edition.json) |
+| Travel Cuisine 3: The Sea of Flavours | 416180 | [416180-travel-cuisine-3-the-sea-of-flavours.json](./416180-travel-cuisine-3-the-sea-of-flavours.json) |
 | Travel Cuisine 3: The Sea of Flavours - Collector's Edition | 358404 | [358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json](./358404-travel-cuisine-3-the-sea-of-flavours-collectors-edition.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Travel Epuru | 309012 | [309012-travel-epuru.json](./309012-travel-epuru.json) |
@@ -17663,6 +17667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
+| Travels With Gulliver | 416181 | [416181-travels-with-gulliver.json](./416181-travels-with-gulliver.json) |
 | Traverse the Void | 157473 | [157473-traverse-the-void.json](./157473-traverse-the-void.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Traverser | 17926 | [17926-traverser.json](./17926-traverser.json) |
@@ -17753,6 +17758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
+| Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
 | Treasure Protector | 309479 | [309479-treasure-protector.json](./309479-treasure-protector.json) |
 | Treasure Punks | 184439 | [184439-treasure-punks.json](./184439-treasure-punks.json) |
@@ -17777,6 +17783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
+| Treasures of Persia | 416187 | [416187-treasures-of-persia.json](./416187-treasures-of-persia.json) |
 | Treasures of the Aegan | 169239 | [169239-treasures-of-the-aegan.json](./169239-treasures-of-the-aegan.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
@@ -17784,6 +17791,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Deep | 206072 | [206072-treasures-of-the-deep.json](./206072-treasures-of-the-deep.json) |
 | Treasures of the Deep | 45209 | [45209-treasures-of-the-deep.json](./45209-treasures-of-the-deep.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
+| Treasures of the Inca | 416186 | [416186-treasures-of-the-inca.json](./416186-treasures-of-the-inca.json) |
+| Treasures of the Planet Ziberium | 416185 | [416185-treasures-of-the-planet-ziberium.json](./416185-treasures-of-the-planet-ziberium.json) |
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
 | TreasureTails | 386422 | [386422-treasuretails.json](./386422-treasuretails.json) |
@@ -17899,6 +17908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
 | Trial of the Clone | 63670 | [63670-trial-of-the-clone.json](./63670-trial-of-the-clone.json) |
+| Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of Two | 152452 | [152452-trial-of-two.json](./152452-trial-of-two.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
@@ -18236,6 +18246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
+| Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
 | Trivia Munchers Deluxe | 113908 | [113908-trivia-munchers-deluxe.json](./113908-trivia-munchers-deluxe.json) |
 | Trivia Murder Party 3 | 338920 | [338920-trivia-murder-party-3.json](./338920-trivia-murder-party-3.json) |
 | Trivia Night | 41955 | [41955-trivia-night.json](./41955-trivia-night.json) |
@@ -18385,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: Lobbyistico | 155171 | [155171-tropico-6-lobbyistico.json](./155171-tropico-6-lobbyistico.json) |
 | Tropico 6: Spitter | 155172 | [155172-tropico-6-spitter.json](./155172-tropico-6-spitter.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
+| Tropico Jong: Butterfly Expedition | 416177 | [416177-tropico-jong-butterfly-expedition.json](./416177-tropico-jong-butterfly-expedition.json) |
 | Tropico Reloaded | 53861 | [53861-tropico-reloaded.json](./53861-tropico-reloaded.json) |
 | Tropico Trilogy | 53860 | [53860-tropico-trilogy.json](./53860-tropico-trilogy.json) |
 | Tropico: Paradise Island | 11029 | [11029-tropico-paradise-island.json](./11029-tropico-paradise-island.json) |
@@ -18815,6 +18827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
+| Tuk Tuk Go! | 416172 | [416172-tuk-tuk-go.json](./416172-tuk-tuk-go.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
@@ -18911,6 +18924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Balls | 347208 | [347208-turbo-balls.json](./347208-turbo-balls.json) |
 | Turbo Boom! | 129625 | [129625-turbo-boom.json](./129625-turbo-boom.json) |
 | Turbo Booster | 265653 | [265653-turbo-booster.json](./265653-turbo-booster.json) |
+| Turbo Bugs 2 | 416171 | [416171-turbo-bugs-2.json](./416171-turbo-bugs-2.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
@@ -19229,6 +19243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
+| Twin Mind: The Deathly Trick | 416169 | [416169-twin-mind-the-deathly-trick.json](./416169-twin-mind-the-deathly-trick.json) |
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
@@ -19347,6 +19362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
+| Twistingo: Tree of Life - Collector's Edition | 416168 | [416168-twistingo-tree-of-life-collectors-edition.json](./416168-twistingo-tree-of-life-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
