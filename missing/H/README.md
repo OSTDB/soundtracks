@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hellshots Golf | 113593 | [113593-hellshots-golf.json](./113593-hellshots-golf.json) |
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
+| HellSlave II: Judgment of the Archon | 345575 | [345575-hellslave-ii-judgment-of-the-archon.json](./345575-hellslave-ii-judgment-of-the-archon.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
