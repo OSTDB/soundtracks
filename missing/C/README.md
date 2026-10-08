@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catarsis: Catventure | 295259 | [295259-catarsis-catventure.json](./295259-catarsis-catventure.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catast | 274548 | [274548-catast.json](./274548-catast.json) |
+| Catastronauts | 96322 | [96322-catastronauts.json](./96322-catastronauts.json) |
 | Catastrophe | 203935 | [203935-catastrophe.json](./203935-catastrophe.json) |
 | Catastrophe | 380059 | [380059-catastrophe.json](./380059-catastrophe.json) |
 | Catastrophe Crow | 304149 | [304149-catastrophe-crow.json](./304149-catastrophe-crow.json) |
