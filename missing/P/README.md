@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
+| Picture Hunt | 91078 | [91078-picture-hunt.json](./91078-picture-hunt.json) |
 | Picture Painting Puzzle 1000! | 111910 | [111910-picture-painting-puzzle-1000.json](./111910-picture-painting-puzzle-1000.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Picture Perfect | 368075 | [368075-picture-perfect.json](./368075-picture-perfect.json) |
@@ -4892,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
 | Pixel: Are You Squared? | 35701 | [35701-pixel-are-you-squared.json](./35701-pixel-are-you-squared.json) |
 | Pixel's Hallows Eve | 139209 | [139209-pixels-hallows-eve.json](./139209-pixels-hallows-eve.json) |
+| Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
 | Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
@@ -9940,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hentai: Paradise | 380699 | [380699-pure-hentai-paradise.json](./380699-pure-hentai-paradise.json) |
 | Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
+| Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
