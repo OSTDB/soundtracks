@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Table Tactics | 81646 | [81646-tavern-table-tactics.json](./81646-tavern-table-tactics.json) |
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
+| Tavern Talk Stories: Dreamwalker | 345852 | [345852-tavern-talk-stories-dreamwalker.json](./345852-tavern-talk-stories-dreamwalker.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
 | Tavern Timer | 406886 | [406886-tavern-timer.json](./406886-tavern-timer.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
@@ -4408,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
+| The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
@@ -8163,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
 | The Mothering | 269193 | [269193-the-mothering.json](./269193-the-mothering.json) |
 | The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
+| The Mound: Omen of Cthulhu | 334673 | [334673-the-mound-omen-of-cthulhu.json](./334673-the-mound-omen-of-cthulhu.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
 | The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
 | The Mountain is as It Always Was | 276772 | [276772-the-mountain-is-as-it-always-was.json](./276772-the-mountain-is-as-it-always-was.json) |
@@ -14170,6 +14173,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade 4 | 346803 | [346803-toaplan-arcade-4.json](./346803-toaplan-arcade-4.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
+| Toaplan Arcade Collection Vol. 1 | 345544 | [345544-toaplan-arcade-collection-vol-1.json](./345544-toaplan-arcade-collection-vol-1.json) |
+| Toaplan Arcade Collection Vol. 2 | 345545 | [345545-toaplan-arcade-collection-vol-2.json](./345545-toaplan-arcade-collection-vol-2.json) |
 | Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
 | Toaplan Arcade Shoot'em Ups 1 | 336053 | [336053-toaplan-arcade-shootem-ups-1.json](./336053-toaplan-arcade-shootem-ups-1.json) |
 | Toaplan Arcade Shoot'em Ups 3 | 336054 | [336054-toaplan-arcade-shootem-ups-3.json](./336054-toaplan-arcade-shootem-ups-3.json) |
