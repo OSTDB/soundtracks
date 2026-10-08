@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
+| Abyss Cards | 398037 | [398037-abyss-cards.json](./398037-abyss-cards.json) |
 | Abyss Cave | 35789 | [35789-abyss-cave.json](./35789-abyss-cave.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
 | Abyss Crawlers Plus | 88465 | [88465-abyss-crawlers-plus.json](./88465-abyss-crawlers-plus.json) |
