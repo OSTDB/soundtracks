@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildSnake | 243758 | [243758-wildsnake.json](./243758-wildsnake.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
+| WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
