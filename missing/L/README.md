@@ -2577,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Goes On: Done to Death | 6580 | [6580-life-goes-on-done-to-death.json](./6580-life-goes-on-done-to-death.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
+| Life in Bunker | 34451 | [34451-life-in-bunker.json](./34451-life-in-bunker.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
 | Life in Quarantine | 145474 | [145474-life-in-quarantine.json](./145474-life-in-quarantine.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
@@ -4378,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
 | Loot Grind Simulator | 143601 | [143601-loot-grind-simulator.json](./143601-loot-grind-simulator.json) |
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
+| Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
