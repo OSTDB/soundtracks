@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Union | 226751 | [226751-union.json](./226751-union.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
+| Union of Rivals | 414845 | [414845-union-of-rivals.json](./414845-union-of-rivals.json) |
 | UniOne | 47994 | [47994-unione.json](./47994-unione.json) |
 | Unionism Quartet | 399196 | [399196-unionism-quartet.json](./399196-unionism-quartet.json) |
 | Unionism Quartet A3-Days | 399197 | [399197-unionism-quartet-a3-days.json](./399197-unionism-quartet-a3-days.json) |
