@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector Sector | 386996 | [386996-vector-sector.json](./386996-vector-sector.json) |
 | Vector Strain | 34046 | [34046-vector-strain.json](./34046-vector-strain.json) |
+| Vector Surge | 414181 | [414181-vector-surge.json](./414181-vector-surge.json) |
 | Vector TD | 42804 | [42804-vector-td.json](./42804-vector-td.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Thrust | 16557 | [16557-vector-thrust.json](./16557-vector-thrust.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Operators | 413874 | [413874-void-operators.json](./413874-void-operators.json) |
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
+| VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Reaver | 390730 | [390730-void-reaver.json](./390730-void-reaver.json) |
