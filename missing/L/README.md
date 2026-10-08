@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily of Swampville | 58605 | [58605-lily-of-swampville.json](./58605-lily-of-swampville.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily of the Hollow: Resurrection | 147829 | [147829-lily-of-the-hollow-resurrection.json](./147829-lily-of-the-hollow-resurrection.json) |
+| Lily of the Valley | 28639 | [28639-lily-of-the-valley.json](./28639-lily-of-the-valley.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
 | Lily: Shiroki Yuri no Otome-tachi | 403156 | [403156-lily-shiroki-yuri-no-otome-tachi.json](./403156-lily-shiroki-yuri-no-otome-tachi.json) |
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
 | Link Wars | 153317 | [153317-link-wars.json](./153317-link-wars.json) |
 | Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
+| Link: The Unleashed Nexus | 28496 | [28496-link-the-unleashed-nexus.json](./28496-link-the-unleashed-nexus.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Link! Like! Love Live! | 245241 | [245241-link-like-love-live.json](./245241-link-like-love-live.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
@@ -5185,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loved by King Bs | 202707 | [202707-loved-by-king-bs.json](./202707-loved-by-king-bs.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
+| LoveKami -Useless Goddess- | 28375 | [28375-lovekami-useless-goddess.json](./28375-lovekami-useless-goddess.json) |
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
