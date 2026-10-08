@@ -4500,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Range 2 | 220156 | [220156-flip-range-2.json](./220156-flip-range-2.json) |
+| Flip Run: Second Wave | 87128 | [87128-flip-run-second-wave.json](./87128-flip-run-second-wave.json) |
 | Flip Shot | 75463 | [75463-flip-shot.json](./75463-flip-shot.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
 | Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
@@ -6594,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freebooter of Splorr!! | 152492 | [152492-freebooter-of-splorr.json](./152492-freebooter-of-splorr.json) |
 | Freebot : Battle for FreeWeb | 103640 | [103640-freebot-battle-for-freeweb.json](./103640-freebot-battle-for-freeweb.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
+| FreeCell - Card Game | 87152 | [87152-freecell-card-game.json](./87152-freecell-card-game.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
@@ -7720,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
 | Furious Bikers | 322114 | [322114-furious-bikers.json](./322114-furious-bikers.json) |
 | Furious Bounce | 261879 | [261879-furious-bounce.json](./261879-furious-bounce.json) |
+| Furious Driving | 87159 | [87159-furious-driving.json](./87159-furious-driving.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
 | Furious Flappers | 294249 | [294249-furious-flappers.json](./294249-furious-flappers.json) |
 | Furious Goal | 123529 | [123529-furious-goal.json](./123529-furious-goal.json) |
