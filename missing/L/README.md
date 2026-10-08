@@ -4399,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
 | Loop Room | 168151 | [168151-loop-room.json](./168151-loop-room.json) |
+| Loop the Loop: The Mansion of Gluttony | 387558 | [387558-loop-the-loop-the-mansion-of-gluttony.json](./387558-loop-the-loop-the-mansion-of-gluttony.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
 | Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
@@ -5713,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna | 120154 | [120154-luna.json](./120154-luna.json) |
 | Luna | 172058 | [172058-luna.json](./172058-luna.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
+| Luna and the Dreams | 387563 | [387563-luna-and-the-dreams.json](./387563-luna-and-the-dreams.json) |
 | Luna and the Stars | 225554 | [225554-luna-and-the-stars.json](./225554-luna-and-the-stars.json) |
 | Luna and the Wasted City of Sin | 326791 | [326791-luna-and-the-wasted-city-of-sin.json](./326791-luna-and-the-wasted-city-of-sin.json) |
 | Luna Anomaly | 369195 | [369195-luna-anomaly.json](./369195-luna-anomaly.json) |
