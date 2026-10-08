@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabdonut | 219106 | [219106-rabdonut.json](./219106-rabdonut.json) |
+| Rabengeist: The Tale of Lizzie Ulm | 413483 | [413483-rabengeist-the-tale-of-lizzie-ulm.json](./413483-rabengeist-the-tale-of-lizzie-ulm.json) |
 | Rabi Laby | 85580 | [85580-rabi-laby.json](./85580-rabi-laby.json) |
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule with an Iron Fish | 55122 | [55122-rule-with-an-iron-fish.json](./55122-rule-with-an-iron-fish.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
+| Rulebound | 413492 | [413492-rulebound.json](./413492-rulebound.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
 | Rulent Tower VR | 134989 | [134989-rulent-tower-vr.json](./134989-rulent-tower-vr.json) |
 | Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
@@ -7172,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
+| Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run! | 100256 | [100256-run.json](./100256-run.json) |
