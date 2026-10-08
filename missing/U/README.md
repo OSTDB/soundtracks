@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udom Nebdon | 180708 | [180708-udom-nebdon.json](./180708-udom-nebdon.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
+| uDraw Studio | 5185 | [5185-udraw-studio.json](./5185-udraw-studio.json) |
 | Uebergame | 34673 | [34673-uebergame.json](./34673-uebergame.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | UEFA 2000 | 282707 | [282707-uefa-2000.json](./282707-uefa-2000.json) |
