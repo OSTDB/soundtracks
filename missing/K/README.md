@@ -1222,7 +1222,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Rider | 39512 | [39512-kick-rider.json](./39512-kick-rider.json) |
 | Kick Start | 40340 | [40340-kick-start.json](./40340-kick-start.json) |
 | Kick the Boss's Ass | 301977 | [301977-kick-the-bosss-ass.json](./301977-kick-the-bosss-ass.json) |
+| Kick The Buddy 3D | 413473 | [413473-kick-the-buddy-3d.json](./413473-kick-the-buddy-3d.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
+| Kick The Buddy: No Mercy | 413474 | [413474-kick-the-buddy-no-mercy.json](./413474-kick-the-buddy-no-mercy.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick the Buddy: Second Kick | 230417 | [230417-kick-the-buddy-second-kick.json](./230417-kick-the-buddy-second-kick.json) |
 | Kick the Puppet | 112486 | [112486-kick-the-puppet.json](./112486-kick-the-puppet.json) |
@@ -1620,7 +1622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
