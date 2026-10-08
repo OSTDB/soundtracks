@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
 | NBA Action | 58315 | [58315-nba-action.json](./58315-nba-action.json) |
 | NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
+| NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Kouha Kunio-kun Special | 86385 | [86385-nekketsu-kouha-kunio-kun-special.json](./86385-nekketsu-kouha-kunio-kun-special.json) |
 | Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
+| Nekketsu Koukou Dodgeball-bu: Kyouteki! Dodge Soldier no Maki | 49106 | [49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json](./49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Soccer-hen | 191678 | [191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json](./191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: Soccer-hen | 191746 | [191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json](./191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
+| Nekketsu! Beach Volley Da yo: Kunio-kun | 49107 | [49107-nekketsu-beach-volley-da-yo-kunio-kun.json](./49107-nekketsu-beach-volley-da-yo-kunio-kun.json) |
 | Nekketsu! Street Basketball All-Out Dunk Heroes | 48572 | [48572-nekketsu-street-basketball-all-out-dunk-heroes.json](./48572-nekketsu-street-basketball-all-out-dunk-heroes.json) |
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
@@ -3743,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
 | Noise | 131406 | [131406-noise.json](./131406-noise.json) |
 | Noise | 327192 | [327192-noise.json](./327192-noise.json) |
+| Noise | 50544 | [50544-noise.json](./50544-noise.json) |
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
 | Noise Hunters | 158141 | [158141-noise-hunters.json](./158141-noise-hunters.json) |
 | Noise Snke | 183538 | [183538-noise-snke.json](./183538-noise-snke.json) |
