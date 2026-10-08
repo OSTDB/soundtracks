@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of a Thread | 393053 | [393053-echoes-of-a-thread.json](./393053-echoes-of-a-thread.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Adventure | 346261 | [346261-echoes-of-adventure.json](./346261-echoes-of-adventure.json) |
+| Echoes of Aetheria | 27759 | [27759-echoes-of-aetheria.json](./27759-echoes-of-aetheria.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emotitron | 349455 | [349455-emotitron.json](./349455-emotitron.json) |
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Empath | 182825 | [182825-empath.json](./182825-empath.json) |
+| Empathy: Path of Whispers | 29138 | [29138-empathy-path-of-whispers.json](./29138-empathy-path-of-whispers.json) |
 | Emperial Knights | 196581 | [196581-emperial-knights.json](./196581-emperial-knights.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
