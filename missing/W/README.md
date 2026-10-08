@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weefager | 282216 | [282216-weefager.json](./282216-weefager.json) |
 | Weekday Warrior | 214390 | [214390-weekday-warrior.json](./214390-weekday-warrior.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
+| Weekend Renters | 415466 | [415466-weekend-renters.json](./415466-weekend-renters.json) |
 | Weekend Solitaire: Grace in Motion | 416081 | [416081-weekend-solitaire-grace-in-motion.json](./416081-weekend-solitaire-grace-in-motion.json) |
 | Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
 | Weekend Solitaire: Ocean Kings | 416080 | [416080-weekend-solitaire-ocean-kings.json](./416080-weekend-solitaire-ocean-kings.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
 | White Chocolate | 330247 | [330247-white-chocolate.json](./330247-white-chocolate.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
+| White Coat, Red Hands | 415479 | [415479-white-coat-red-hands.json](./415479-white-coat-red-hands.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
