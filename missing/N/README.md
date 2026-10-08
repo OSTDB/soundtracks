@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
 | Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
+| Nomad Knight: Blunt Blade Theory | 419985 | [419985-nomad-knight-blunt-blade-theory.json](./419985-nomad-knight-blunt-blade-theory.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
