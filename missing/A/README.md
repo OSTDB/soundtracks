@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
+| Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
@@ -6963,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
 | Arcade Archives: Rabio Lepus | 208425 | [208425-arcade-archives-rabio-lepus.json](./208425-arcade-archives-rabio-lepus.json) |
+| Arcade Archives: Rack'em Up | 406055 | [406055-arcade-archives-rackem-up.json](./406055-arcade-archives-rackem-up.json) |
 | Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Raiders5 | 99783 | [99783-arcade-archives-raiders5.json](./99783-arcade-archives-raiders5.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
@@ -7913,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
+| Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
 | Arms Race 2 | 236420 | [236420-arms-race-2.json](./236420-arms-race-2.json) |
