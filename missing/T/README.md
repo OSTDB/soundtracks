@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsunoko vs. Capcom: Cross Generation of Heroes | 50726 | [50726-tatsunoko-vs-capcom-cross-generation-of-heroes.json](./50726-tatsunoko-vs-capcom-cross-generation-of-heroes.json) |
 | Tatsunoko vs. Capcom: Ultimate All Stars | 2275 | [2275-tatsunoko-vs-capcom-ultimate-all-stars.json](./2275-tatsunoko-vs-capcom-ultimate-all-stars.json) |
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
+| Tatters of The King | 387710 | [387710-tatters-of-the-king.json](./387710-tatters-of-the-king.json) |
 | Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
 | Tattoo Artist 3: On The Job | 331459 | [331459-tattoo-artist-3-on-the-job.json](./331459-tattoo-artist-3-on-the-job.json) |
 | Tattoo Assassins | 39563 | [39563-tattoo-assassins.json](./39563-tattoo-assassins.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
 | The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
 | The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
+| The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
@@ -14567,6 +14569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tofu'Drift | 242629 | [242629-tofudrift.json](./242629-tofudrift.json) |
 | Toga | 256987 | [256987-toga.json](./256987-toga.json) |
 | Togainu no Chi: True Blood | 145289 | [145289-togainu-no-chi-true-blood.json](./145289-togainu-no-chi-true-blood.json) |
+| Toganeyobi | 387702 | [387702-toganeyobi.json](./387702-toganeyobi.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
@@ -14581,6 +14584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together With Me | 221181 | [221181-together-with-me.json](./221181-together-with-me.json) |
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
+| Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | ToHeart: Extra Stories - Serio & Masashi | 351148 | [351148-toheart-extra-stories-serio-and-masashi.json](./351148-toheart-extra-stories-serio-and-masashi.json) |
