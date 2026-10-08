@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazaru de Gozaru no Game de Gozaru | 65278 | [65278-bazaru-de-gozaru-no-game-de-gozaru.json](./65278-bazaru-de-gozaru-no-game-de-gozaru.json) |
+| Bazingle | 396751 | [396751-bazingle.json](./396751-bazingle.json) |
 | Bazoik | 178938 | [178938-bazoik.json](./178938-bazoik.json) |
 | Bazoo | 56293 | [56293-bazoo.json](./56293-bazoo.json) |
 | Bazooka Bill | 13811 | [13811-bazooka-bill.json](./13811-bazooka-bill.json) |
@@ -6075,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Craft 3D: City Building | 86995 | [86995-block-craft-3d-city-building.json](./86995-block-craft-3d-city-building.json) |
 | Block Craft 3D: Crafting & Building Game | 99707 | [99707-block-craft-3d-crafting-and-building-game.json](./99707-block-craft-3d-crafting-and-building-game.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
+| Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
 | Block Dungeon | 151305 | [151305-block-dungeon.json](./151305-block-dungeon.json) |
@@ -8036,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
+| Bound To Fail | 396718 | [396718-bound-to-fail.json](./396718-bound-to-fail.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
 | Bounda | 199441 | [199441-bounda.json](./199441-bounda.json) |
 | Bounda Forever | 249361 | [249361-bounda-forever.json](./249361-bounda-forever.json) |
