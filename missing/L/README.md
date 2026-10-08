@@ -4359,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
+| Loops of Zen | 54811 | [54811-loops-of-zen.json](./54811-loops-of-zen.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
 | Looptide | 386912 | [386912-looptide.json](./386912-looptide.json) |
 | Loopwood | 274670 | [274670-loopwood.json](./274670-loopwood.json) |
