@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
 | Ogu and the Secret Forest: Winter Festival Blast | 376697 | [376697-ogu-and-the-secret-forest-winter-festival-blast.json](./376697-ogu-and-the-secret-forest-winter-festival-blast.json) |
 | Ogura Hyakunin Isshu | 268520 | [268520-ogura-hyakunin-isshu.json](./268520-ogura-hyakunin-isshu.json) |
+| Oh Apollo! | 396123 | [396123-oh-apollo.json](./396123-oh-apollo.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
 | Oh Boy Cheese | 106617 | [106617-oh-boy-cheese.json](./106617-oh-boy-cheese.json) |
