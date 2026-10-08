@@ -4534,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Crew: Motorfest - Year 3 Pass | 408884 | [408884-the-crew-motorfest-year-3-pass.json](./408884-the-crew-motorfest-year-3-pass.json) |
 | The Crew: Silver Pack | 219002 | [219002-the-crew-silver-pack.json](./219002-the-crew-silver-pack.json) |
+| The Crew: Wild Run | 11158 | [11158-the-crew-wild-run.json](./11158-the-crew-wild-run.json) |
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Cricket C | 230301 | [230301-the-cricket-c.json](./230301-the-cricket-c.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Faith: Awakened Ancients | 376704 | [376704-the-last-faith-awakened-ancients.json](./376704-the-last-faith-awakened-ancients.json) |
 | The Last Faith: The Nycrux Edition | 291539 | [291539-the-last-faith-the-nycrux-edition.json](./291539-the-last-faith-the-nycrux-edition.json) |
 | The Last Farmer | 298118 | [298118-the-last-farmer.json](./298118-the-last-farmer.json) |
+| The Last Federation | 11050 | [11050-the-last-federation.json](./11050-the-last-federation.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
 | The Last Flight | 407566 | [407566-the-last-flight.json](./407566-the-last-flight.json) |
@@ -14304,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Toss | 343391 | [343391-toilet-toss.json](./343391-toilet-toss.json) |
 | Toilet Treasures | 396525 | [396525-toilet-treasures.json](./396525-toilet-treasures.json) |
 | Toilet Truble | 293327 | [293327-toilet-truble.json](./293327-toilet-truble.json) |
+| Toilet Tycoon | 10994 | [10994-toilet-tycoon.json](./10994-toilet-tycoon.json) |
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
@@ -17100,6 +17103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator 3 | 174222 | [174222-trainz-simulator-3.json](./174222-trainz-simulator-3.json) |
 | Trainz Simulator World Tour | 408040 | [408040-trainz-simulator-world-tour.json](./408040-trainz-simulator-world-tour.json) |
 | Trainz Simulator: Classic Cabon City | 11021 | [11021-trainz-simulator-classic-cabon-city.json](./11021-trainz-simulator-classic-cabon-city.json) |
+| Trainz Simulator: Murchison 2 | 11022 | [11022-trainz-simulator-murchison-2.json](./11022-trainz-simulator-murchison-2.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
 | Trainz: A New Era - Amtrak F40PH 2 Pack | 162676 | [162676-trainz-a-new-era-amtrak-f40ph-2-pack.json](./162676-trainz-a-new-era-amtrak-f40ph-2-pack.json) |
 | Trainz: A New Era - Amtrak P42DC: Phase V | 162669 | [162669-trainz-a-new-era-amtrak-p42dc-phase-v.json](./162669-trainz-a-new-era-amtrak-p42dc-phase-v.json) |
@@ -19041,6 +19045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Robots: Ultimate Edition | 86236 | [86236-twin-robots-ultimate-edition.json](./86236-twin-robots-ultimate-edition.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
+| Twin Sector | 11031 | [11031-twin-sector.json](./11031-twin-sector.json) |
 | Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
 | Twin Shot | 176869 | [176869-twin-shot.json](./176869-twin-shot.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
