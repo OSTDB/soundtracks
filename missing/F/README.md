@@ -5557,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
+| Forestry 2017 - The Simulation | 36394 | [36394-forestry-2017-the-simulation.json](./36394-forestry-2017-the-simulation.json) |
 | Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
+| Formula Truck 2013 | 36392 | [36392-formula-truck-2013.json](./36392-formula-truck-2013.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
 | FormulaNext | 30069 | [30069-formulanext.json](./30069-formulanext.json) |
