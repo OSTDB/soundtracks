@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
 | Basement Crawl | 19916 | [19916-basement-crawl.json](./19916-basement-crawl.json) |
 | Basement Dweller | 158158 | [158158-basement-dweller.json](./158158-basement-dweller.json) |
+| Basement Server Simulator | 407371 | [407371-basement-server-simulator.json](./407371-basement-server-simulator.json) |
 | Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Basements & Bugbears | 177888 | [177888-basements-and-bugbears.json](./177888-basements-and-bugbears.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
+| Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthdays the Beginning: Limited Edition | 122225 | [122225-birthdays-the-beginning-limited-edition.json](./122225-birthdays-the-beginning-limited-edition.json) |
 | Birthplace of Ossian | 26862 | [26862-birthplace-of-ossian.json](./26862-birthplace-of-ossian.json) |
@@ -5977,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
+| Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
 | Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
@@ -7092,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
+| Bojan | 406672 | [406672-bojan.json](./406672-bojan.json) |
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
@@ -7437,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonk's Revenge | 7795 | [7795-bonks-revenge.json](./7795-bonks-revenge.json) |
+| BonkCity | 407296 | [407296-bonkcity.json](./407296-bonkcity.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
@@ -9985,6 +9990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Buncho: The Lost Bird | 185419 | [185419-buncho-the-lost-bird.json](./185419-buncho-the-lost-bird.json) |
+| Bunderkin: The Ocular Eclipse | 406671 | [406671-bunderkin-the-ocular-eclipse.json](./406671-bunderkin-the-ocular-eclipse.json) |
 | Bundesliga Manager Professional | 72301 | [72301-bundesliga-manager-professional.json](./72301-bundesliga-manager-professional.json) |
 | Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
