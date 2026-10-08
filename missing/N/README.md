@@ -3135,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Sukafu | 181788 | [181788-ninja-sukafu.json](./181788-ninja-sukafu.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
+| Ninja Teleport | 410094 | [410094-ninja-teleport.json](./410094-ninja-teleport.json) |
 | Ninja Thea | 213441 | [213441-ninja-thea.json](./213441-ninja-thea.json) |
 | Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
 | Noplace | 420564 | [420564-noplace.json](./420564-noplace.json) |
+| Nopotions | 410069 | [410069-nopotions.json](./410069-nopotions.json) |
 | Nopperabou | 155698 | [155698-nopperabou.json](./155698-nopperabou.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
