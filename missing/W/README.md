@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 79687 | [79687-warhawk.json](./79687-warhawk.json) |
+| Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warheads & Overheads | 410397 | [410397-warheads-and-overheads.json](./410397-warheads-and-overheads.json) |
@@ -3695,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Bun Cats | 367552 | [367552-witch-and-bun-cats.json](./367552-witch-and-bun-cats.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
+| Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
