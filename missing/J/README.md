@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel BEM Hunter Lime | 264644 | [264644-jewel-bem-hunter-lime.json](./264644-jewel-bem-hunter-lime.json) |
 | Jewel bits | 34151 | [34151-jewel-bits.json](./34151-jewel-bits.json) |
+| Jewel Coloring | 401156 | [401156-jewel-coloring.json](./401156-jewel-coloring.json) |
 | Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
