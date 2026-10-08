@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
+| Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candela | 193258 | [193258-candela.json](./193258-candela.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Eats Car 2 | 227900 | [227900-car-eats-car-2.json](./227900-car-eats-car-2.json) |
+| Car Escape | 88602 | [88602-car-escape.json](./88602-car-escape.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
@@ -1264,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
+| Card Solitaire Z | 88603 | [88603-card-solitaire-z.json](./88603-card-solitaire-z.json) |
 | Card story | 120851 | [120851-card-story.json](./120851-card-story.json) |
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
@@ -3375,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm & Clue 2 | 417505 | [417505-charm-and-clue-2.json](./417505-charm-and-clue-2.json) |
 | Charm & Clue 2: Collector's Edition | 416782 | [416782-charm-and-clue-2-collectors-edition.json](./416782-charm-and-clue-2-collectors-edition.json) |
 | Charm & Clue: Collector's Edition | 417506 | [417506-charm-and-clue-collectors-edition.json](./417506-charm-and-clue-collectors-edition.json) |
+| Charm Fish - Fish Mania | 88557 | [88557-charm-fish-fish-mania.json](./88557-charm-fish-fish-mania.json) |
 | Charm Girls Club Pajama Party | 51041 | [51041-charm-girls-club-pajama-party.json](./51041-charm-girls-club-pajama-party.json) |
 | Charm Girls Club: My Charmed Life | 91626 | [91626-charm-girls-club-my-charmed-life.json](./91626-charm-girls-club-my-charmed-life.json) |
 | Charm Girls Club: My Fashion Mall | 68084 | [68084-charm-girls-club-my-fashion-mall.json](./68084-charm-girls-club-my-fashion-mall.json) |
@@ -9691,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
+| Cribbage Premium | 88595 | [88595-cribbage-premium.json](./88595-cribbage-premium.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage Solitaire | 88446 | [88446-cribbage-solitaire.json](./88446-cribbage-solitaire.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
@@ -9773,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Archives: Symphony of Death - Collector's Edition | 416772 | [416772-criminal-archives-symphony-of-death-collectors-edition.json](./416772-criminal-archives-symphony-of-death-collectors-edition.json) |
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
 | Criminal Case: Mysteries | 262385 | [262385-criminal-case-mysteries.json](./262385-criminal-case-mysteries.json) |
+| Criminal Case: Mysteries of the Past | 88547 | [88547-criminal-case-mysteries-of-the-past.json](./88547-criminal-case-mysteries-of-the-past.json) |
 | Criminal Case: Pacific Bay | 96261 | [96261-criminal-case-pacific-bay.json](./96261-criminal-case-pacific-bay.json) |
 | Criminal Case: Save the World! | 262383 | [262383-criminal-case-save-the-world.json](./262383-criminal-case-save-the-world.json) |
 | Criminal Case: The Conspiracy | 262381 | [262381-criminal-case-the-conspiracy.json](./262381-criminal-case-the-conspiracy.json) |
@@ -9937,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Mobile: Pinball | 55949 | [55949-croc-mobile-pinball.json](./55949-croc-mobile-pinball.json) |
 | Croc Mobile: Volcanic Panic | 55965 | [55965-croc-mobile-volcanic-panic.json](./55965-croc-mobile-volcanic-panic.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
+| Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
 | Croco.Games | 342201 | [342201-croco-games.json](./342201-croco-games.json) |
@@ -10172,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
+| Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
