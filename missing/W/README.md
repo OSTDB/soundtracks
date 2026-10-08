@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
 | Whizz | 12825 | [12825-whizz.json](./12825-whizz.json) |
 | WHMIS 2015 VR | 196122 | [196122-whmis-2015-vr.json](./196122-whmis-2015-vr.json) |
+| Who Am I Next?: Animals | 410096 | [410096-who-am-i-next-animals.json](./410096-who-am-i-next-animals.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who Am You? | 306335 | [306335-who-am-you.json](./306335-who-am-you.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
@@ -5658,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
 | Wyvern | 97988 | [97988-wyvern.json](./97988-wyvern.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
+| Wyvern Warriors | 410079 | [410079-wyvern-warriors.json](./410079-wyvern-warriors.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
 | Wzrds | 360754 | [360754-wzrds.json](./360754-wzrds.json) |
