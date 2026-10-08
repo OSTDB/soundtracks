@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamepane Tokyo Mew Mew | 49593 | [49593-hamepane-tokyo-mew-mew.json](./49593-hamepane-tokyo-mew-mew.json) |
 | Hametsu no Mars | 70124 | [70124-hametsu-no-mars.json](./70124-hametsu-no-mars.json) |
 | Hamidashi Creative | 144180 | [144180-hamidashi-creative.json](./144180-hamidashi-creative.json) |
+| Hamidashi Creative Totsu | 398684 | [398684-hamidashi-creative-totsu.json](./398684-hamidashi-creative-totsu.json) |
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
@@ -3097,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Conception Shrine | 294964 | [294964-hentai-tales-conception-shrine.json](./294964-hentai-tales-conception-shrine.json) |
 | Hentai Tales: Creampie Cuckold Wife | 389607 | [389607-hentai-tales-creampie-cuckold-wife.json](./389607-hentai-tales-creampie-cuckold-wife.json) |
 | Hentai Tales: Hunt of Two Temptresses | 368100 | [368100-hentai-tales-hunt-of-two-temptresses.json](./368100-hentai-tales-hunt-of-two-temptresses.json) |
+| Hentai Tales: Infinite Climax - Endless Ecstasy | 398650 | [398650-hentai-tales-infinite-climax-endless-ecstasy.json](./398650-hentai-tales-infinite-climax-endless-ecstasy.json) |
 | Hentai Tales: Isekai Uncle Reversal | 367029 | [367029-hentai-tales-isekai-uncle-reversal.json](./367029-hentai-tales-isekai-uncle-reversal.json) |
 | Hentai Tales: Mysterious Clinic | 291094 | [291094-hentai-tales-mysterious-clinic.json](./291094-hentai-tales-mysterious-clinic.json) |
 | Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
