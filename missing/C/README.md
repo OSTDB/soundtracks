@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
+| Can I Have a Glass of Water? | 415489 | [415489-can-i-have-a-glass-of-water.json](./415489-can-i-have-a-glass-of-water.json) |
 | Can I Not Fall for Idols? | 390818 | [390818-can-i-not-fall-for-idols.json](./390818-can-i-not-fall-for-idols.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
@@ -7438,6 +7439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
+| Computer Man | 415496 | [415496-computer-man.json](./415496-computer-man.json) |
 | Computer Manufacturer | 348901 | [348901-computer-manufacturer.json](./348901-computer-manufacturer.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
