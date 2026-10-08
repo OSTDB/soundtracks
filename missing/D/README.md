@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Differences Master | 392930 | [392930-differences-master.json](./392930-differences-master.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
+| Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
@@ -11064,6 +11065,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
 | Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
+| Dynamo Kid | 399924 | [399924-dynamo-kid.json](./399924-dynamo-kid.json) |
+| Dynamo Kid 2 | 399923 | [399923-dynamo-kid-2.json](./399923-dynamo-kid-2.json) |
+| Dynamo Kid 3 | 399921 | [399921-dynamo-kid-3.json](./399921-dynamo-kid-3.json) |
 | Dynast.io | 115762 | [115762-dynast-io.json](./115762-dynast-io.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
