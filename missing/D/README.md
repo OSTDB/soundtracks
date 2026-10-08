@@ -1913,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
+| Dead Bit | 390072 | [390072-dead-bit.json](./390072-dead-bit.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
 | Dead Block | 10170 | [10170-dead-block.json](./10170-dead-block.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
@@ -4720,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
 | Devour | 139708 | [139708-devour.json](./139708-devour.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
+| Devour the Elixir | 390151 | [390151-devour-the-elixir.json](./390151-devour-the-elixir.json) |
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
@@ -6965,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
+| Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
@@ -7288,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
+| Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't Wake the SysOp | 94944 | [94944-dont-wake-the-sysop.json](./94944-dont-wake-the-sysop.json) |
@@ -10100,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
+| Duck Duck Shark | 390163 | [390163-duck-duck-shark.json](./390163-duck-duck-shark.json) |
 | Duck Duck Shoot | 330181 | [330181-duck-duck-shoot.json](./330181-duck-duck-shoot.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
@@ -10704,6 +10709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon X Dungeon | 104118 | [104118-dungeon-x-dungeon.json](./104118-dungeon-x-dungeon.json) |
 | Dungeon X Pixel Hero VIP | 107164 | [107164-dungeon-x-pixel-hero-vip.json](./107164-dungeon-x-pixel-hero-vip.json) |
 | Dungeon Zer0 | 159087 | [159087-dungeon-zer0.json](./159087-dungeon-zer0.json) |
+| Dungeon-Doku | 390091 | [390091-dungeon-doku.json](./390091-dungeon-doku.json) |
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
 | Dungeon; Friends Escape! | 55516 | [55516-dungeon-friends-escape.json](./55516-dungeon-friends-escape.json) |
 | Dungeon: Faster & Deadlier | 197145 | [197145-dungeon-faster-and-deadlier.json](./197145-dungeon-faster-and-deadlier.json) |
