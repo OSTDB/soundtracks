@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
+| Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Realms | 64912 | [64912-word-realms.json](./64912-word-realms.json) |
 | Word Relay | 283860 | [283860-word-relay.json](./283860-word-relay.json) |
 | Word Rescue | 35506 | [35506-word-rescue.json](./35506-word-rescue.json) |
+| Word Rescue | 401147 | [401147-word-rescue.json](./401147-word-rescue.json) |
 | Word Rift | 404198 | [404198-word-rift.json](./404198-word-rift.json) |
 | Word Rocket | 319191 | [319191-word-rocket.json](./319191-word-rocket.json) |
 | Word Safari: The Friendship Totems | 49472 | [49472-word-safari-the-friendship-totems.json](./49472-word-safari-the-friendship-totems.json) |
