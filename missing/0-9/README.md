@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'Rift' Electric | 323297 | [323297-rift-electric.json](./323297-rift-electric.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
+| 'Till Death Do Us Part | 398026 | [398026-till-death-do-us-part.json](./398026-till-death-do-us-part.json) |
 | "A" Find & Touch | 83204 | [83204-a-find-and-touch.json](./83204-a-find-and-touch.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
 | "Draw a card" Simulator | 168659 | [168659-draw-a-card-simulator.json](./168659-draw-a-card-simulator.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
+| 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
 | 30 Pferdespiele | 91609 | [91609-30-pferdespiele.json](./91609-30-pferdespiele.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30-in-1 Game Collection: Volume 2 | 119514 | [119514-30-in-1-game-collection-volume-2.json](./119514-30-in-1-game-collection-volume-2.json) |
