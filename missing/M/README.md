@@ -7050,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | Mine Your Way Out 2 | 345623 | [345623-mine-your-way-out-2.json](./345623-mine-your-way-out-2.json) |
 | Mine! | 59257 | [59257-mine.json](./59257-mine.json) |
+| Mineblader | 419989 | [419989-mineblader.json](./419989-mineblader.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
@@ -10139,9 +10140,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
 | Moth Manor | 229771 | [229771-moth-manor.json](./229771-moth-manor.json) |
 | Moth Planet | 254585 | [254585-moth-planet.json](./254585-moth-planet.json) |
+| Moth Senses | 420000 | [420000-moth-senses.json](./420000-moth-senses.json) |
 | Moth Terra | 376457 | [376457-moth-terra.json](./376457-moth-terra.json) |
 | Moth to a Matchstick | 297563 | [297563-moth-to-a-matchstick.json](./297563-moth-to-a-matchstick.json) |
 | Moth-Kubit Grimes | 202777 | [202777-moth-kubit-grimes.json](./202777-moth-kubit-grimes.json) |
+| Moth: A Dating Sim | 419993 | [419993-moth-a-dating-sim.json](./419993-moth-a-dating-sim.json) |
 | Mothballs | 179701 | [179701-mothballs.json](./179701-mothballs.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother | 150274 | [150274-mother.json](./150274-mother.json) |
@@ -11625,6 +11628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Sister | 213449 | [213449-my-dear-sister.json](./213449-my-dear-sister.json) |
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
+| My Desktop Dwarf: Taskbar Forge | 419913 | [419913-my-desktop-dwarf-taskbar-forge.json](./419913-my-desktop-dwarf-taskbar-forge.json) |
 | My Destiny | 202741 | [202741-my-destiny.json](./202741-my-destiny.json) |
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
 | My Devil Lovers | 247468 | [247468-my-devil-lovers.json](./247468-my-devil-lovers.json) |
@@ -12641,6 +12645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 123394 | [123394-myth.json](./123394-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
+| Myth & Magery | 419977 | [419977-myth-and-magery.json](./419977-myth-and-magery.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
 | Myth Guardians | 374820 | [374820-myth-guardians.json](./374820-myth-guardians.json) |
@@ -12660,6 +12665,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth or Reality: Mystery of the Lake DLC | 268997 | [268997-myth-or-reality-mystery-of-the-lake-dlc.json](./268997-myth-or-reality-mystery-of-the-lake-dlc.json) |
 | Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
+| Myth Survivors | 419976 | [419976-myth-survivors.json](./419976-myth-survivors.json) |
+| Myth Tamer | 419978 | [419978-myth-tamer.json](./419978-myth-tamer.json) |
 | Myth War II | 57156 | [57156-myth-war-ii.json](./57156-myth-war-ii.json) |
 | Myth: After the Stories | 413841 | [413841-myth-after-the-stories.json](./413841-myth-after-the-stories.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
@@ -12671,9 +12678,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | MythBusters: The Game | 118232 | [118232-mythbusters-the-game.json](./118232-mythbusters-the-game.json) |
+| MythClash | 419980 | [419980-mythclash.json](./419980-mythclash.json) |
 | Mythfall | 304752 | [304752-mythfall.json](./304752-mythfall.json) |
 | MythForce | 197712 | [197712-mythforce.json](./197712-mythforce.json) |
+| MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
+| Mythic Battle | 419969 | [419969-mythic-battle.json](./419969-mythic-battle.json) |
 | Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
@@ -12696,18 +12706,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
+| Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mythical Party | 292747 | [292747-mythical-party.json](./292747-mythical-party.json) |
 | Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
 | Mythical Warriors: Battle for Eastland | 210109 | [210109-mythical-warriors-battle-for-eastland.json](./210109-mythical-warriors-battle-for-eastland.json) |
 | Mythical Whalers | 330893 | [330893-mythical-whalers.json](./330893-mythical-whalers.json) |
+| MythiCorp | 419972 | [419972-mythicorp.json](./419972-mythicorp.json) |
 | MythicTale | 406259 | [406259-mythictale.json](./406259-mythictale.json) |
 | MythicZon | 348310 | [348310-mythiczon.json](./348310-mythiczon.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlands: Dragon Racing | 107084 | [107084-mythlands-dragon-racing.json](./107084-mythlands-dragon-racing.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
+| MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
+| Mythopolis | 419971 | [419971-mythopolis.json](./419971-mythopolis.json) |
 | Mythos Ever After: A Cthulhu Dating Sim | 171431 | [171431-mythos-ever-after-a-cthulhu-dating-sim.json](./171431-mythos-ever-after-a-cthulhu-dating-sim.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
@@ -12729,7 +12743,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
+| Mythsfall | 419973 | [419973-mythsfall.json](./419973-mythsfall.json) |
 | Mythstal: Shadow of the Sun | 268996 | [268996-mythstal-shadow-of-the-sun.json](./268996-mythstal-shadow-of-the-sun.json) |
+| Mythvale | 419967 | [419967-mythvale.json](./419967-mythvale.json) |
 | MythWalker | 322747 | [322747-mythwalker.json](./322747-mythwalker.json) |
 | myTicTacToe | 93823 | [93823-mytictactoe.json](./93823-mytictactoe.json) |
 | MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
