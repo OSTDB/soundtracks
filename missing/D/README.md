@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
+| Dark Pals: The 2nd Floor | 422119 | [422119-dark-pals-the-2nd-floor.json](./422119-dark-pals-the-2nd-floor.json) |
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De'Vine World of Shadows | 99665 | [99665-devine-world-of-shadows.json](./99665-devine-world-of-shadows.json) |
 | De'Vine: Heavenly Acres | 207748 | [207748-devine-heavenly-acres.json](./207748-devine-heavenly-acres.json) |
 | De'Vot | 258497 | [258497-devot.json](./258497-devot.json) |
+| De/Ascend | 422112 | [422112-de-ascend.json](./422112-de-ascend.json) |
 | Dea | 288852 | [288852-dea.json](./288852-dea.json) |
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
 | Deacon Blues | 145517 | [145517-deacon-blues.json](./145517-deacon-blues.json) |
@@ -2073,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
 | Dead Night Highway | 405727 | [405727-dead-night-highway.json](./405727-dead-night-highway.json) |
 | Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
+| Dead of Darkness 2 | 422094 | [422094-dead-of-darkness-2.json](./422094-dead-of-darkness-2.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
@@ -5087,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
 | Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
+| Dig to Escape | 422101 | [422101-dig-to-escape.json](./422101-dig-to-escape.json) |
 | Dig to Escape: Obby | 393059 | [393059-dig-to-escape-obby.json](./393059-dig-to-escape-obby.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
@@ -6476,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Gallagher's Residence | 374842 | [374842-doctor-gallaghers-residence.json](./374842-doctor-gallaghers-residence.json) |
 | Doctor Goo and the Samorons | 78736 | [78736-doctor-goo-and-the-samorons.json](./78736-doctor-goo-and-the-samorons.json) |
 | Doctor Hauzer | 4278 | [4278-doctor-hauzer.json](./4278-doctor-hauzer.json) |
+| Doctor Havoc | 422158 | [422158-doctor-havoc.json](./422158-doctor-havoc.json) |
 | Doctor Kairokos | 416828 | [416828-doctor-kairokos.json](./416828-doctor-kairokos.json) |
 | Doctor Klyvinski | 143940 | [143940-doctor-klyvinski.json](./143940-doctor-klyvinski.json) |
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
@@ -8080,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
+| Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
 | Dr. Mario | 208424 | [208424-dr-mario.json](./208424-dr-mario.json) |
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
@@ -8158,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
+| Dracanea: The Ragtag Regalia | 422129 | [422129-dracanea-the-ragtag-regalia.json](./422129-dracanea-the-ragtag-regalia.json) |
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
@@ -10328,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes | 164357 | [164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json](./164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json) |
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
+| Dungeon Delights | 422160 | [422160-dungeon-delights.json](./422160-dungeon-delights.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
 | Dungeon Dev | 292261 | [292261-dungeon-dev.json](./292261-dungeon-dev.json) |
@@ -10787,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
 | Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
+| Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
