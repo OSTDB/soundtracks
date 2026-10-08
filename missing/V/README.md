@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vehicle Cavalier | 64199 | [64199-vehicle-cavalier.json](./64199-vehicle-cavalier.json) |
 | Vehicular Rampage | 219520 | [219520-vehicular-rampage.json](./219520-vehicular-rampage.json) |
 | Veigues Tactical Gladiator | 37733 | [37733-veigues-tactical-gladiator.json](./37733-veigues-tactical-gladiator.json) |
+| Veil | 399914 | [399914-veil.json](./399914-veil.json) |
 | Veil of Ashes | 350025 | [350025-veil-of-ashes.json](./350025-veil-of-ashes.json) |
 | Veil of Clay | 262951 | [262951-veil-of-clay.json](./262951-veil-of-clay.json) |
 | Veil of Crows | 28292 | [28292-veil-of-crows.json](./28292-veil-of-crows.json) |
