@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
+| Reversi | 17541 | [17541-reversi.json](./17541-reversi.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rim: Soul Jar | 311163 | [311163-rim-soul-jar.json](./311163-rim-soul-jar.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
+| Rime Berta | 17616 | [17616-rime-berta.json](./17616-rime-berta.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
