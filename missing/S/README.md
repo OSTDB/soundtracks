@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
+| SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
@@ -8138,6 +8139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Press Tycoon | 157102 | [157102-small-press-tycoon.json](./157102-small-press-tycoon.json) |
 | Small Rage | 125789 | [125789-small-rage.json](./125789-small-rage.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
+| Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
@@ -12479,6 +12481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
+| Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spice Evaders | 180583 | [180583-spice-evaders.json](./180583-spice-evaders.json) |
 | Spice Road | 17287 | [17287-spice-road.json](./17287-spice-road.json) |
@@ -17283,6 +17286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
+| Sum | 105690 | [105690-sum.json](./105690-sum.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
