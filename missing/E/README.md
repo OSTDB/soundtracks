@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
+| Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
 | Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
 | Elder Kings II | 225709 | [225709-elder-kings-ii.json](./225709-elder-kings-ii.json) |
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
