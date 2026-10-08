@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
+| Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
 | Night Lights | 409018 | [409018-night-lights.json](./409018-night-lights.json) |
 | Night Lights: After Dark | 409019 | [409019-night-lights-after-dark.json](./409019-night-lights-after-dark.json) |
+| Night Lurker | 403550 | [403550-night-lurker.json](./403550-night-lurker.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
 | Night Maniac: The Origin Of Steven | 416767 | [416767-night-maniac-the-origin-of-steven.json](./416767-night-maniac-the-origin-of-steven.json) |
 | Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
@@ -3558,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Turning Back: The Pixel Art Action-Adventure Roguelike | 35547 | [35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json](./35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json) |
 | No Umbrellas Allowed | 137436 | [137436-no-umbrellas-allowed.json](./137436-no-umbrellas-allowed.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
+| No Visitors Allowed | 404885 | [404885-no-visitors-allowed.json](./404885-no-visitors-allowed.json) |
 | No Walking, No Problem! | 286574 | [286574-no-walking-no-problem.json](./286574-no-walking-no-problem.json) |
 | No Walls in Heaven | 369657 | [369657-no-walls-in-heaven.json](./369657-no-walls-in-heaven.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
@@ -4059,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosferatu | 11125 | [11125-nosferatu.json](./11125-nosferatu.json) |
 | Nosferatu Lilinor | 126389 | [126389-nosferatu-lilinor.json](./126389-nosferatu-lilinor.json) |
+| Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
