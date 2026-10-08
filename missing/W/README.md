@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Wrath | 299861 | [299861-witch-wrath.json](./299861-witch-wrath.json) |
 | Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
+| Witch-Bot Meglilo | 33652 | [33652-witch-bot-meglilo.json](./33652-witch-bot-meglilo.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
 | Wolfschanze | 81168 | [81168-wolfschanze.json](./81168-wolfschanze.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
+| Wolfsong | 33568 | [33568-wolfsong.json](./33568-wolfsong.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
