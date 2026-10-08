@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
 | Fatal Fury One | 400426 | [400426-fatal-fury-one.json](./400426-fatal-fury-one.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
+| Fatal Fury: Battle Archives Volume 1 | 21232 | [21232-fatal-fury-battle-archives-volume-1.json](./21232-fatal-fury-battle-archives-volume-1.json) |
 | Fatal Fury: City of the Wolves | 260321 | [260321-fatal-fury-city-of-the-wolves.json](./260321-fatal-fury-city-of-the-wolves.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Hunters | 107693 | [107693-fate-hunters.json](./107693-fate-hunters.json) |
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
+| Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
@@ -3465,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firedog: Swooce & Rescue | 316167 | [316167-firedog-swooce-and-rescue.json](./316167-firedog-swooce-and-rescue.json) |
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
+| Firefight | 21411 | [21411-firefight.json](./21411-firefight.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
@@ -6062,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
 | Fossil Finder | 211127 | [211127-fossil-finder.json](./211127-fossil-finder.json) |
 | Fossil Island | 341126 | [341126-fossil-island.json](./341126-fossil-island.json) |
+| Fossil League | 21393 | [21393-fossil-league.json](./21393-fossil-league.json) |
 | Fossil League: Dino Tournament Championship | 73049 | [73049-fossil-league-dino-tournament-championship.json](./73049-fossil-league-dino-tournament-championship.json) |
 | Fossil Quest | 386729 | [386729-fossil-quest.json](./386729-fossil-quest.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
@@ -7786,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furusoma | 230228 | [230228-furusoma.json](./230228-furusoma.json) |
 | Furwind | 27726 | [27726-furwind.json](./27726-furwind.json) |
 | Furwind: Limited Edition | 167049 | [167049-furwind-limited-edition.json](./167049-furwind-limited-edition.json) |
+| Fury | 21227 | [21227-fury.json](./21227-fury.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
