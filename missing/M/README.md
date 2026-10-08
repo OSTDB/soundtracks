@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Takes a Three | 318556 | [318556-mario-takes-a-three.json](./318556-mario-takes-a-three.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
+| Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
 | Mario Tennis: Alex | 247100 | [247100-mario-tennis-alex.json](./247100-mario-tennis-alex.json) |
 | Mario Tennis: Harry | 247103 | [247103-mario-tennis-harry.json](./247103-mario-tennis-harry.json) |
 | Mario Tennis: Kate | 247104 | [247104-mario-tennis-kate.json](./247104-mario-tennis-kate.json) |
@@ -5527,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
+| Metal Gear Solid Master Collection: Volume 2 | 389433 | [389433-metal-gear-solid-master-collection-volume-2.json](./389433-metal-gear-solid-master-collection-volume-2.json) |
 | Metal Gear Solid Touch | 12212 | [12212-metal-gear-solid-touch.json](./12212-metal-gear-solid-touch.json) |
 | Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
 | Metal Gear Solid V: The Definitive Subsistence Update | 377209 | [377209-metal-gear-solid-v-the-definitive-subsistence-update.json](./377209-metal-gear-solid-v-the-definitive-subsistence-update.json) |
@@ -7691,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
+| Misery | 342489 | [342489-misery.json](./342489-misery.json) |
 | Misery Dungeon | 417471 | [417471-misery-dungeon.json](./417471-misery-dungeon.json) |
 | Misery Street | 154063 | [154063-misery-street.json](./154063-misery-street.json) |
 | Misfiction | 177905 | [177905-misfiction.json](./177905-misfiction.json) |
@@ -9769,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Invasions - Season of the Storms | 311071 | [311071-mortal-kombat-1-invasions-season-of-the-storms.json](./311071-mortal-kombat-1-invasions-season-of-the-storms.json) |
 | Mortal Kombat 1: Jean-Claude Van Damme Skin | 265947 | [265947-mortal-kombat-1-jean-claude-van-damme-skin.json](./265947-mortal-kombat-1-jean-claude-van-damme-skin.json) |
 | Mortal Kombat 1: Khaos Reigns Bundle | 312357 | [312357-mortal-kombat-1-khaos-reigns-bundle.json](./312357-mortal-kombat-1-khaos-reigns-bundle.json) |
+| Mortal Kombat 1: Khaos Reigns Expansion | 312111 | [312111-mortal-kombat-1-khaos-reigns-expansion.json](./312111-mortal-kombat-1-khaos-reigns-expansion.json) |
 | Mortal Kombat 1: Khaos Reigns Story Expansion | 312356 | [312356-mortal-kombat-1-khaos-reigns-story-expansion.json](./312356-mortal-kombat-1-khaos-reigns-story-expansion.json) |
 | Mortal Kombat 1: Mavado Kameo | 278618 | [278618-mortal-kombat-1-mavado-kameo.json](./278618-mortal-kombat-1-mavado-kameo.json) |
 | Mortal Kombat 1: Noob Saibot | 312334 | [312334-mortal-kombat-1-noob-saibot.json](./312334-mortal-kombat-1-noob-saibot.json) |
