@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
 | Ultimate Forest Simulator | 86924 | [86924-ultimate-forest-simulator.json](./86924-ultimate-forest-simulator.json) |
+| Ultimate Fox Simulator 2 | 406643 | [406643-ultimate-fox-simulator-2.json](./406643-ultimate-fox-simulator-2.json) |
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
