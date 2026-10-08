@@ -5541,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Camp: Healing Resort | 299393 | [299393-animal-camp-healing-resort.json](./299393-animal-camp-healing-resort.json) |
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
 | Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
+| Animal Coloring Book for Kids & Toddlers: Unicorns | 402570 | [402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json](./402570-animal-coloring-book-for-kids-and-toddlers-unicorns.json) |
 | Animal Cove: Match 3 Adventure | 108854 | [108854-animal-cove-match-3-adventure.json](./108854-animal-cove-match-3-adventure.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
 | Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
@@ -6847,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Space Cyclone | 407268 | [407268-arcade-archives-2-space-cyclone.json](./407268-arcade-archives-2-space-cyclone.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
+| Arcade Archives 2: Tag Team Wrestling | 402569 | [402569-arcade-archives-2-tag-team-wrestling.json](./402569-arcade-archives-2-tag-team-wrestling.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives 2: The Outfoxies | 382963 | [382963-arcade-archives-2-the-outfoxies.json](./382963-arcade-archives-2-the-outfoxies.json) |
 | Arcade Archives 2: Top Speed | 389061 | [389061-arcade-archives-2-top-speed.json](./389061-arcade-archives-2-top-speed.json) |
@@ -7013,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
 | Arcade Archives: Swimmer | 147116 | [147116-arcade-archives-swimmer.json](./147116-arcade-archives-swimmer.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
+| Arcade Archives: Tag Team Wrestling | 402568 | [402568-arcade-archives-tag-team-wrestling.json](./402568-arcade-archives-tag-team-wrestling.json) |
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: Tecmo Bowl | 147117 | [147117-arcade-archives-tecmo-bowl.json](./147117-arcade-archives-tecmo-bowl.json) |
@@ -7376,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
+| Architects of Giants | 402550 | [402550-architects-of-giants.json](./402550-architects-of-giants.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
