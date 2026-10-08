@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
+| Scale Of Survival | 398692 | [398692-scale-of-survival.json](./398692-scale-of-survival.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
 | Scale the Depths | 341134 | [341134-scale-the-depths.json](./341134-scale-the-depths.json) |
 | Scale the Depths | 403754 | [403754-scale-the-depths.json](./403754-scale-the-depths.json) |
@@ -20841,6 +20842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
+| Swole | 398664 | [398664-swole.json](./398664-swole.json) |
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
