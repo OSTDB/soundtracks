@@ -904,6 +904,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Chronicles II | 96318 | [96318-ys-chronicles-ii.json](./96318-ys-chronicles-ii.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
 | Ys I & II Chronicles | 21020 | [21020-ys-i-and-ii-chronicles.json](./21020-ys-i-and-ii-chronicles.json) |
+| Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
+| Ys II Chronicals | 410167 | [410167-ys-ii-chronicals.json](./410167-ys-ii-chronicals.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 206639 | [206639-ys-ii-ancient-ys-vanished-the-final-chapter.json](./206639-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
