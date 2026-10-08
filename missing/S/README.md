@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentou Kokka Kai Improved | 166547 | [166547-sentou-kokka-kai-improved.json](./166547-sentou-kokka-kai-improved.json) |
 | Sentou Kokka: Air Land Battle | 166546 | [166546-sentou-kokka-air-land-battle.json](./166546-sentou-kokka-air-land-battle.json) |
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
+| Sentris | 17445 | [17445-sentris.json](./17445-sentris.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
@@ -3442,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
+| Servo | 17509 | [17509-servo.json](./17509-servo.json) |
 | Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
@@ -4208,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Blue | 340599 | [340599-shallow-blue.json](./340599-shallow-blue.json) |
 | Shallow End | 293752 | [293752-shallow-end.json](./293752-shallow-end.json) |
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
+| Shallow Space | 17516 | [17516-shallow-space.json](./17516-shallow-space.json) |
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
@@ -7289,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Meadow | 399788 | [399788-sky-meadow.json](./399788-sky-meadow.json) |
 | Sky Mercenaries | 36117 | [36117-sky-mercenaries.json](./36117-sky-mercenaries.json) |
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
+| Sky Nations | 17572 | [17572-sky-nations.json](./17572-sky-nations.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
 | Sky of Destruction | 116496 | [116496-sky-of-destruction.json](./116496-sky-of-destruction.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
@@ -13579,6 +13583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squiigee | 260304 | [260304-squiigee.json](./260304-squiigee.json) |
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squingle Arcade | 397933 | [397933-squingle-arcade.json](./397933-squingle-arcade.json) |
+| Squirbs | 17455 | [17455-squirbs.json](./17455-squirbs.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
 | Squirgle | 104033 | [104033-squirgle.json](./104033-squirgle.json) |
