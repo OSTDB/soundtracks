@@ -6657,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
 | Dokaben | 40103 | [40103-dokaben.json](./40103-dokaben.json) |
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
+| Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
@@ -9098,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
+| Dreambreak | 21294 | [21294-dreambreak.json](./21294-dreambreak.json) |
 | DreamBreaker | 344996 | [344996-dreambreaker.json](./344996-dreambreaker.json) |
 | Dreamcage Escape | 30488 | [30488-dreamcage-escape.json](./30488-dreamcage-escape.json) |
 | Dreamcards | 347803 | [347803-dreamcards.json](./347803-dreamcards.json) |
