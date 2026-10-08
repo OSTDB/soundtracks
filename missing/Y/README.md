@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
 | Yarichin Katei Kyoushi Netori Houkoku: Do-sukebe Kyonyuu Oyakodon | 108937 | [108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json](./108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json) |
+| Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
+| Year Walk | 21893 | [21893-year-walk.json](./21893-year-walk.json) |
 | Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
 | Yearn 2 Learn | 93385 | [93385-yearn-2-learn.json](./93385-yearn-2-learn.json) |
 | Yearn Tyrant's Conquest | 96211 | [96211-yearn-tyrants-conquest.json](./96211-yearn-tyrants-conquest.json) |
