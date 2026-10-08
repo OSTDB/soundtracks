@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Street | 391810 | [391810-dangerous-street.json](./391810-dangerous-street.json) |
 | Dangerous Streets | 12033 | [12033-dangerous-streets.json](./12033-dangerous-streets.json) |
 | Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
+| Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
@@ -7044,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
+| Dominoir | 396033 | [396033-dominoir.json](./396033-dominoir.json) |
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
 | Dominos | 88431 | [88431-dominos.json](./88431-dominos.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
@@ -9247,6 +9249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
+| Dream of YukiHana | 396018 | [396018-dream-of-yukihana.json](./396018-dream-of-yukihana.json) |
 | Dream On | 367008 | [367008-dream-on.json](./367008-dream-on.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
@@ -9412,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Valhalla | 250448 | [250448-dreams-of-valhalla.json](./250448-dreams-of-valhalla.json) |
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
 | Dreams on a Pillow | 342893 | [342893-dreams-on-a-pillow.json](./342893-dreams-on-a-pillow.json) |
+| Dreams Stories Online | 396016 | [396016-dreams-stories-online.json](./396016-dreams-stories-online.json) |
 | Dreams: Dragons, Dungeons & Templates | 344458 | [344458-dreams-dragons-dungeons-and-templates.json](./344458-dreams-dragons-dungeons-and-templates.json) |
 | Dreams: Unlimited links | 266422 | [266422-dreams-unlimited-links.json](./266422-dreams-unlimited-links.json) |
 | Dreams: VR | 344447 | [344447-dreams-vr.json](./344447-dreams-vr.json) |
