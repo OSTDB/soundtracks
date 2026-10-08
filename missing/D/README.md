@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Fuzz Ball | 419206 | [419206-dj-fuzz-ball.json](./419206-dj-fuzz-ball.json) |
 | DJ Hero | 2679 | [2679-dj-hero.json](./2679-dj-hero.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
+| DJ Life Simulator: From Your Bedroom to the Mainstage | 391147 | [391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json](./391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json) |
 | DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJ Puff | 13596 | [13596-dj-puff.json](./13596-dj-puff.json) |
@@ -6960,6 +6961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollhouse | 125217 | [125217-dollhouse.json](./125217-dollhouse.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
+| Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
@@ -10686,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
 | Dungeon Voxel | 193256 | [193256-dungeon-voxel.json](./193256-dungeon-voxel.json) |
 | Dungeon vs Gunner | 224062 | [224062-dungeon-vs-gunner.json](./224062-dungeon-vs-gunner.json) |
+| Dungeon Walk 4: Solitary Insect Princess | 391124 | [391124-dungeon-walk-4-solitary-insect-princess.json](./391124-dungeon-walk-4-solitary-insect-princess.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
