@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjatown | 2825 | [2825-ninjatown.json](./2825-ninjatown.json) |
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
 | Ninjin: Clash of Carrots | 60534 | [60534-ninjin-clash-of-carrots.json](./60534-ninjin-clash-of-carrots.json) |
+| Ninjora Echoes | 391120 | [391120-ninjora-echoes.json](./391120-ninjora-echoes.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninjurate | 290639 | [290639-ninjurate.json](./290639-ninjurate.json) |
