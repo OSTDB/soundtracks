@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
+| Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
