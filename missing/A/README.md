@@ -2990,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
 | Airship Defender | 270326 | [270326-airship-defender.json](./270326-airship-defender.json) |
+| Airship Dragoon | 17561 | [17561-airship-dragoon.json](./17561-airship-dragoon.json) |
 | Airship Knights | 231980 | [231980-airship-knights.json](./231980-airship-knights.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Conquer the Skies | 35934 | [35934-airships-conquer-the-skies.json](./35934-airships-conquer-the-skies.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
 | Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
 | Altitude Adjustment | 279077 | [279077-altitude-adjustment.json](./279077-altitude-adjustment.json) |
+| Altitude0: Lower & Faster | 17556 | [17556-altitude0-lower-and-faster.json](./17556-altitude0-lower-and-faster.json) |
 | Altitudes | 141173 | [141173-altitudes.json](./141173-altitudes.json) |
 | Altiverse | 266809 | [266809-altiverse.json](./266809-altiverse.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
@@ -8700,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
+| Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
