@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Secret | 75185 | [75185-family-secret.json](./75185-family-secret.json) |
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
+| Family Stadium 2003 | 3913 | [3913-family-stadium-2003.json](./3913-family-stadium-2003.json) |
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
 | Family Tennis | 221210 | [221210-family-tennis.json](./221210-family-tennis.json) |
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
