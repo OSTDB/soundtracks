@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
 | Leading the Dead | 186677 | [186677-leading-the-dead.json](./186677-leading-the-dead.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
+| Leadville | 414820 | [414820-leadville.json](./414820-leadville.json) |
 | Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
 | Leaf Blower Co. | 347820 | [347820-leaf-blower-co.json](./347820-leaf-blower-co.json) |
 | Leaf Blower Man: This Game Blows! | 244199 | [244199-leaf-blower-man-this-game-blows.json](./244199-leaf-blower-man-this-game-blows.json) |
@@ -3425,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
+| Little Doll Village | 414841 | [414841-little-doll-village.json](./414841-little-doll-village.json) |
 | Little Dragon Adventure | 287323 | [287323-little-dragon-adventure.json](./287323-little-dragon-adventure.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
 | Little Drift | 158106 | [158106-little-drift.json](./158106-little-drift.json) |
