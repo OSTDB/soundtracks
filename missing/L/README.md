@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
+| Light & Dark Bundle | 82452 | [82452-light-and-dark-bundle.json](./82452-light-and-dark-bundle.json) |
 | Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot The Game | 377752 | [377752-loot-the-game.json](./377752-loot-the-game.json) |
 | Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Loot Tycoon | 379479 | [379479-loot-tycoon.json](./379479-loot-tycoon.json) |
+| Loot Ultimate Games Bundle | 82451 | [82451-loot-ultimate-games-bundle.json](./82451-loot-ultimate-games-bundle.json) |
 | Loot, Luck & Levels | 213481 | [213481-loot-luck-and-levels.json](./213481-loot-luck-and-levels.json) |
 | Loot, Steal 'n Destroy | 70623 | [70623-loot-steal-n-destroy.json](./70623-loot-steal-n-destroy.json) |
 | Loot: Action-Packed Bundle | 99750 | [99750-loot-action-packed-bundle.json](./99750-loot-action-packed-bundle.json) |
