@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Quidditch Champions - Deluxe Pack | 328987 | [328987-harry-potter-quidditch-champions-deluxe-pack.json](./328987-harry-potter-quidditch-champions-deluxe-pack.json) |
 | Harry Potter: Quidditch World Cup | 166523 | [166523-harry-potter-quidditch-world-cup.json](./166523-harry-potter-quidditch-world-cup.json) |
 | Harry Potter: Spells | 66432 | [66432-harry-potter-spells.json](./66432-harry-potter-spells.json) |
+| Harry Quantum Episode 1: TV Go Home | 404417 | [404417-harry-quantum-episode-1-tv-go-home.json](./404417-harry-quantum-episode-1-tv-go-home.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
 | Harry the Handsome Executive | 67634 | [67634-harry-the-handsome-executive.json](./67634-harry-the-handsome-executive.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
 | Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
+| HeXO | 404794 | [404794-hexo.json](./404794-hexo.json) |
 | HexoCity | 291590 | [291590-hexocity.json](./291590-hexocity.json) |
 | Hexodius | 16517 | [16517-hexodius.json](./16517-hexodius.json) |
 | Hexogin | 127865 | [127865-hexogin.json](./127865-hexogin.json) |
@@ -5035,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole io: Warzone | 300945 | [300945-hole-io-warzone.json](./300945-hole-io-warzone.json) |
+| Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
 | Hole: Bottomless | 334927 | [334927-hole-bottomless.json](./334927-hole-bottomless.json) |
@@ -5240,6 +5243,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Stone Mage | 310019 | [310019-holy-stone-mage.json](./310019-holy-stone-mage.json) |
 | Holy Sword Rave Ranciel Story | 95585 | [95585-holy-sword-rave-ranciel-story.json](./95585-holy-sword-rave-ranciel-story.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
+| Holy Valkyrie Exs-Tia P Parallel Episode 1: Magical Girl Pastel Marie | 404786 | [404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json](./404786-holy-valkyrie-exs-tia-p-parallel-episode-1-magical-girl-pastel-marie.json) |
+| Holy Valkyrie Exs-Tia TS Parallel Episode 3: Twilight Sabre | 404785 | [404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json](./404785-holy-valkyrie-exs-tia-ts-parallel-episode-3-twilight-sabre.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
