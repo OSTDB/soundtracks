@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Continent | 369150 | [369150-dark-continent.json](./369150-dark-continent.json) |
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
+| Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days of Horror | 102181 | [102181-dark-days-of-horror.json](./102181-dark-days-of-horror.json) |
 | Dark Days: Devil Hunt | 224605 | [224605-dark-days-devil-hunt.json](./224605-dark-days-devil-hunt.json) |
@@ -2001,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Grid | 163803 | [163803-dead-grid.json](./163803-dead-grid.json) |
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
+| Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
 | Dead Hearts | 156563 | [156563-dead-hearts.json](./156563-dead-hearts.json) |
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
@@ -3483,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deme Game | 300338 | [300338-deme-game.json](./300338-deme-game.json) |
 | Demegraunt | 265865 | [265865-demegraunt.json](./265865-demegraunt.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
+| Dement | 120712 | [120712-dement.json](./120712-dement.json) |
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
