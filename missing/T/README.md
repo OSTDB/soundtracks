@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
 | Tap Tap Computer | 193836 | [193836-tap-tap-computer.json](./193836-tap-tap-computer.json) |
 | Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
+| Tap Tap Dig - Idle Clicker Game | 100780 | [100780-tap-tap-dig-idle-clicker-game.json](./100780-tap-tap-dig-idle-clicker-game.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
@@ -2248,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telf AG | 287781 | [287781-telf-ag.json](./287781-telf-ag.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
 | Tell It Slant | 318546 | [318546-tell-it-slant.json](./318546-tell-it-slant.json) |
+| Tell Me Everything | 100715 | [100715-tell-me-everything.json](./100715-tell-me-everything.json) |
 | Tell me tonight was real | 281021 | [281021-tell-me-tonight-was-real.json](./281021-tell-me-tonight-was-real.json) |
 | Tell Me Why: Chapter One - Homecoming | 141012 | [141012-tell-me-why-chapter-one-homecoming.json](./141012-tell-me-why-chapter-one-homecoming.json) |
 | Tell Me Why: Chapter Three - Inheritance | 141014 | [141014-tell-me-why-chapter-three-inheritance.json](./141014-tell-me-why-chapter-three-inheritance.json) |
@@ -5834,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
 | The Games: Winter Edition | 47196 | [47196-the-games-winter-edition.json](./47196-the-games-winter-edition.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
+| The Gang Auto: VIP city | 100782 | [100782-the-gang-auto-vip-city.json](./100782-the-gang-auto-vip-city.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gap: Limited Edition | 292149 | [292149-the-gap-limited-edition.json](./292149-the-gap-limited-edition.json) |
@@ -7284,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
 | The Legend of Evil | 110892 | [110892-the-legend-of-evil.json](./110892-the-legend-of-evil.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
+| The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
@@ -11705,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
+| Think | 100765 | [100765-think.json](./100765-think.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
