@@ -6188,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
+| HotLead | 34241 | [34241-hotlead.json](./34241-hotlead.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
 | Hotline Miami: Redux-Redux | 400935 | [400935-hotline-miami-redux-redux.json](./400935-hotline-miami-redux-redux.json) |
 | Hotline Omsk | 255156 | [255156-hotline-omsk.json](./255156-hotline-omsk.json) |
@@ -7114,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
+| Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
 | Hyper Button | 76180 | [76180-hyper-button.json](./76180-hyper-button.json) |
 | Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
