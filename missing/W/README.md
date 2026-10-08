@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
+| What's Cooking? Jamie Oliver | 80202 | [80202-whats-cooking-jamie-oliver.json](./80202-whats-cooking-jamie-oliver.json) |
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
 | What's Different? | 388013 | [388013-whats-different.json](./388013-whats-different.json) |
@@ -4373,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crack | 137408 | [137408-word-crack.json](./137408-word-crack.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
 | Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
+| Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
