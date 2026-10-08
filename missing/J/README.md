@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgement Silversword | 140313 | [140313-judgement-silversword.json](./140313-judgement-silversword.json) |
 | Judgement Silversword: Rebirth Edition | 37699 | [37699-judgement-silversword-rebirth-edition.json](./37699-judgement-silversword-rebirth-edition.json) |
+| Judgement Silversword: Resurrection | 36405 | [36405-judgement-silversword-resurrection.json](./36405-judgement-silversword-resurrection.json) |
 | Judgment | 281562 | [281562-judgment.json](./281562-judgment.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
