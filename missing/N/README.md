@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Player Please | 204346 | [204346-next-player-please.json](./204346-next-player-please.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Quintillionaire | 391611 | [391611-next-quintillionaire.json](./391611-next-quintillionaire.json) |
+| Next Reign: Kingdom | 406648 | [406648-next-reign-kingdom.json](./406648-next-reign-kingdom.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
 | Next Space Rebels | 152256 | [152256-next-space-rebels.json](./152256-next-space-rebels.json) |
@@ -4287,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
 | Nowhere, MI | 248793 | [248793-nowhere-mi.json](./248793-nowhere-mi.json) |
+| NowLoading Forever | 406649 | [406649-nowloading-forever.json](./406649-nowloading-forever.json) |
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | Nox | 5620 | [5620-nox.json](./5620-nox.json) |
