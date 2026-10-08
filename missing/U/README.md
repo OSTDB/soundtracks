@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
 | Umineko When They Cry: Question Arcs | 124948 | [124948-umineko-when-they-cry-question-arcs.json](./124948-umineko-when-they-cry-question-arcs.json) |
 | Umineko: Golden Fantasia | 76137 | [76137-umineko-golden-fantasia.json](./76137-umineko-golden-fantasia.json) |
+| Umineko: Golden Forgery | 403537 | [403537-umineko-golden-forgery.json](./403537-umineko-golden-forgery.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
 | Uncanny Tales: Cold Road | 340276 | [340276-uncanny-tales-cold-road.json](./340276-uncanny-tales-cold-road.json) |
 | Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
+| Uncanny Valley: Checkpoint | 404186 | [404186-uncanny-valley-checkpoint.json](./404186-uncanny-valley-checkpoint.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
 | Uncarta | 57757 | [57757-uncarta.json](./57757-uncarta.json) |
 | Uncatchable Homers Master | 211772 | [211772-uncatchable-homers-master.json](./211772-uncatchable-homers-master.json) |
@@ -1227,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnDune II: The Demaking of a Dynasty | 275676 | [275676-undune-ii-the-demaking-of-a-dynasty.json](./275676-undune-ii-the-demaking-of-a-dynasty.json) |
 | Undying | 119360 | [119360-undying.json](./119360-undying.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
+| Undying Flame | 404173 | [404173-undying-flame.json](./404173-undying-flame.json) |
 | Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
@@ -2188,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
 | Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
 | Uvirith's Legacy | 388322 | [388322-uviriths-legacy.json](./388322-uviriths-legacy.json) |
+| UviUvi | 403634 | [403634-uviuvi.json](./403634-uviuvi.json) |
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | Uwaiteru | 341650 | [341650-uwaiteru.json](./341650-uwaiteru.json) |
