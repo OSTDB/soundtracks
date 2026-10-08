@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
 | Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
 | Industrix | 245989 | [245989-industrix.json](./245989-industrix.json) |
+| Industronaut | 406650 | [406650-industronaut.json](./406650-industronaut.json) |
 | Industry Empire | 17209 | [17209-industry-empire.json](./17209-industry-empire.json) |
 | Industry Giant | 9910 | [9910-industry-giant.json](./9910-industry-giant.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
