@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Season of the Splicer Silver Bundle | 147893 | [147893-destiny-2-season-of-the-splicer-silver-bundle.json](./147893-destiny-2-season-of-the-splicer-silver-bundle.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
+| Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
 | Destiny 2: The Witch Queen - Season of Plunder | 214424 | [214424-destiny-2-the-witch-queen-season-of-plunder.json](./214424-destiny-2-the-witch-queen-season-of-plunder.json) |
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
@@ -7168,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Arcade | 339265 | [339265-donkey-kong-arcade.json](./339265-donkey-kong-arcade.json) |
 | Donkey Kong Banana Kingdom | 59215 | [59215-donkey-kong-banana-kingdom.json](./59215-donkey-kong-banana-kingdom.json) |
 | Donkey Kong Bananza | 338106 | [338106-donkey-kong-bananza.json](./338106-donkey-kong-bananza.json) |
+| Donkey Kong Bananza: DK Island & Emerald Rush | 366892 | [366892-donkey-kong-bananza-dk-island-and-emerald-rush.json](./366892-donkey-kong-bananza-dk-island-and-emerald-rush.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
 | Donkey Kong Circus | 305442 | [305442-donkey-kong-circus.json](./305442-donkey-kong-circus.json) |
@@ -8142,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
 | Drag Them Out Into Space! | 178969 | [178969-drag-them-out-into-space.json](./178969-drag-them-out-into-space.json) |
+| Drag x Drive | 338077 | [338077-drag-x-drive.json](./338077-drag-x-drive.json) |
 | Drag-on Dragoon 10th Anniversary | 378980 | [378980-drag-on-dragoon-10th-anniversary.json](./378980-drag-on-dragoon-10th-anniversary.json) |
 | Drag'n Wash | 417585 | [417585-dragn-wash.json](./417585-dragn-wash.json) |
 | Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
@@ -8467,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Characters: Torneko no Daibouken 2 Advance | 49270 | [49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json](./49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
+| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | 417182 | [417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json](./417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json) |
 | Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
