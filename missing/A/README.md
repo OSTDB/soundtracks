@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train: All Aboard! Tourism - Nintendo Switch 2 Edition | 380696 | [380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json](./380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json) |
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
+| A-Z | 390157 | [390157-a-z.json](./390157-a-z.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.C.E | 338346 | [338346-a-c-e.json](./338346-a-c-e.json) |
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
@@ -2019,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aeloren Tactics | 157111 | [157111-aeloren-tactics.json](./157111-aeloren-tactics.json) |
+| Aelwater | 390079 | [390079-aelwater.json](./390079-aelwater.json) |
 | Aenigma Game: Storm Hacker | 264792 | [264792-aenigma-game-storm-hacker.json](./264792-aenigma-game-storm-hacker.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
@@ -4397,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternoidz | 134388 | [134388-alternoidz.json](./134388-alternoidz.json) |
 | Altero | 81253 | [81253-altero.json](./81253-altero.json) |
 | AlterSpace | 250458 | [250458-alterspace.json](./250458-alterspace.json) |
+| Alterum | 390173 | [390173-alterum.json](./390173-alterum.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | Alterworld | 312173 | [312173-alterworld.json](./312173-alterworld.json) |
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
@@ -8991,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Blaze | 368593 | [368593-astral-blaze.json](./368593-astral-blaze.json) |
+| Astral Blitz | 390093 | [390093-astral-blitz.json](./390093-astral-blitz.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
