@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
 | Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
+| Whispers of the Seasons | 395465 | [395465-whispers-of-the-seasons.json](./395465-whispers-of-the-seasons.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
 | Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
@@ -3003,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wiener Wars | 216834 | [216834-wiener-wars.json](./216834-wiener-wars.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
+| WIF Soccer Battles | 395519 | [395519-wif-soccer-battles.json](./395519-wif-soccer-battles.json) |
 | Wife Delivery R: We Go All the Way! | 83219 | [83219-wife-delivery-r-we-go-all-the-way.json](./83219-wife-delivery-r-we-go-all-the-way.json) |
 | Wife Massage | 291065 | [291065-wife-massage.json](./291065-wife-massage.json) |
 | Wife Quest | 144068 | [144068-wife-quest.json](./144068-wife-quest.json) |
