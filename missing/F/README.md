@@ -4371,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatspace | 73992 | [73992-flatspace.json](./73992-flatspace.json) |
 | Flatspace II | 72979 | [72979-flatspace-ii.json](./72979-flatspace-ii.json) |
 | Flatspace IIk | 29668 | [29668-flatspace-iik.json](./29668-flatspace-iik.json) |
+| Flatspace: Music Pack 3 | 389547 | [389547-flatspace-music-pack-3.json](./389547-flatspace-music-pack-3.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
