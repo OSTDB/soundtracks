@@ -15140,6 +15140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
+| Topidia: The Last Badge | 420554 | [420554-topidia-the-last-badge.json](./420554-topidia-the-last-badge.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
 | Topobeam | 390647 | [390647-topobeam.json](./390647-topobeam.json) |
 | Topografie Nederland | 86027 | [86027-topografie-nederland.json](./86027-topografie-nederland.json) |
@@ -15780,6 +15781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Fearless Frogslayer | 356088 | [356088-touhou-fearless-frogslayer.json](./356088-touhou-fearless-frogslayer.json) |
 | Touhou: Fortuitous Strife in Arcane Land | 326164 | [326164-touhou-fortuitous-strife-in-arcane-land.json](./326164-touhou-fortuitous-strife-in-arcane-land.json) |
 | Touhou: Gensokyo Survivors | 248043 | [248043-touhou-gensokyo-survivors.json](./248043-touhou-gensokyo-survivors.json) |
+| Touhou: GensoPanic | 420560 | [420560-touhou-gensopanic.json](./420560-touhou-gensopanic.json) |
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Hotline Sanzu | 317239 | [317239-touhou-hotline-sanzu.json](./317239-touhou-hotline-sanzu.json) |
 | Touhou: Kira's Fangame Collection | 411790 | [411790-touhou-kiras-fangame-collection.json](./411790-touhou-kiras-fangame-collection.json) |
