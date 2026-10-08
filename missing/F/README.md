@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling Kwadrats | 179203 | [179203-falling-kwadrats.json](./179203-falling-kwadrats.json) |
+| Falling Light | 391763 | [391763-falling-light.json](./391763-falling-light.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
@@ -6392,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
 | Fracture: City of Destruction | 208444 | [208444-fracture-city-of-destruction.json](./208444-fracture-city-of-destruction.json) |
 | Fracture: The Dream | 229746 | [229746-fracture-the-dream.json](./229746-fracture-the-dream.json) |
+| Fractured | 391691 | [391691-fractured.json](./391691-fractured.json) |
 | Fractured Alliance | 265588 | [265588-fractured-alliance.json](./265588-fractured-alliance.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
 | Fractured Dreams | 229646 | [229646-fractured-dreams.json](./229646-fractured-dreams.json) |
@@ -7193,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
+| From Zero to Slime Hero | 391687 | [391687-from-zero-to-slime-hero.json](./391687-from-zero-to-slime-hero.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | FromPulse | 62805 | [62805-frompulse.json](./62805-frompulse.json) |
