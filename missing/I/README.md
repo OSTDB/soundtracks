@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Demon | 110898 | [110898-ice-demon.json](./110898-ice-demon.json) |
 | Ice Dig | 232491 | [232491-ice-dig.json](./232491-ice-dig.json) |
 | Ice Dodo | 358894 | [358894-ice-dodo.json](./358894-ice-dodo.json) |
+| Ice Driver | 87119 | [87119-ice-driver.json](./87119-ice-driver.json) |
 | Ice Em': Race to the Grave | 362382 | [362382-ice-em-race-to-the-grave.json](./362382-ice-em-race-to-the-grave.json) |
 | Ice Fighter | 273472 | [273472-ice-fighter.json](./273472-ice-fighter.json) |
 | Ice Fishing Derby | 103909 | [103909-ice-fishing-derby.json](./103909-ice-fishing-derby.json) |
@@ -719,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
 | Icy Journey | 246542 | [246542-icy-journey.json](./246542-icy-journey.json) |
+| Icy Ropes | 87176 | [87176-icy-ropes.json](./87176-icy-ropes.json) |
 | Icy Spell | 294863 | [294863-icy-spell.json](./294863-icy-spell.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
@@ -882,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
+| Idle Heroes - Idle Games | 87173 | [87173-idle-heroes-idle-games.json](./87173-idle-heroes-idle-games.json) |
 | Idle Heroes: Odyssey | 135099 | [135099-idle-heroes-odyssey.json](./135099-idle-heroes-odyssey.json) |
 | Idle Heroines | 220169 | [220169-idle-heroines.json](./220169-idle-heroines.json) |
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
