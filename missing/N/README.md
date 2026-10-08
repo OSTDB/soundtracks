@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
 | Never Date Werewolves | 130137 | [130137-never-date-werewolves.json](./130137-never-date-werewolves.json) |
 | Never End, Neverland! | 173227 | [173227-never-end-neverland.json](./173227-never-end-neverland.json) |
+| Never Ending Corridor | 387559 | [387559-never-ending-corridor.json](./387559-never-ending-corridor.json) |
 | Never Ending Dungeon | 193932 | [193932-never-ending-dungeon.json](./193932-never-ending-dungeon.json) |
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
 | Never Ends Act | 208441 | [208441-never-ends-act.json](./208441-never-ends-act.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing To Declare | 366945 | [366945-nothing-to-declare.json](./366945-nothing-to-declare.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
 | Nothing Together | 285162 | [285162-nothing-together.json](./285162-nothing-together.json) |
+| Nothmere | 387715 | [387715-nothmere.json](./387715-nothmere.json) |
 | NotHog | 275673 | [275673-nothog.json](./275673-nothog.json) |
 | Notice | 277337 | [277337-notice.json](./277337-notice.json) |
 | Notice Me Senpai | 403753 | [403753-notice-me-senpai.json](./403753-notice-me-senpai.json) |
