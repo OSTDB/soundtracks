@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus the Flytrap | 69560 | [69560-venus-the-flytrap.json](./69560-venus-the-flytrap.json) |
 | Venus Vacation Prism: Dead or Alive Xtreme | 318023 | [318023-venus-vacation-prism-dead-or-alive-xtreme.json](./318023-venus-vacation-prism-dead-or-alive-xtreme.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
+| Venus: The Last Ascent | 407293 | [407293-venus-the-last-ascent.json](./407293-venus-the-last-ascent.json) |
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
 | Vera Blanc: Full Moon | 140912 | [140912-vera-blanc-full-moon.json](./140912-vera-blanc-full-moon.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
+| Virtual Aquarium | 407280 | [407280-virtual-aquarium.json](./407280-virtual-aquarium.json) |
 | Virtual Babysitter Life: Happy Family Simulator | 95838 | [95838-virtual-babysitter-life-happy-family-simulator.json](./95838-virtual-babysitter-life-happy-family-simulator.json) |
 | Virtual Bart | 2835 | [2835-virtual-bart.json](./2835-virtual-bart.json) |
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
@@ -2175,12 +2177,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelfield | 137581 | [137581-voxelfield.json](./137581-voxelfield.json) |
+| Voxelgram + Voxelgram 2 | 407275 | [407275-voxelgram-voxelgram-2.json](./407275-voxelgram-voxelgram-2.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | VoxelMancy | 194942 | [194942-voxelmancy.json](./194942-voxelmancy.json) |
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
+| Voxenvale | 404900 | [404900-voxenvale.json](./404900-voxenvale.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
