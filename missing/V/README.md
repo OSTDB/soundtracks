@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria 3 | 148372 | [148372-victoria-3.json](./148372-victoria-3.json) |
 | Victoria 3: Colossus of the South | 273972 | [273972-victoria-3-colossus-of-the-south.json](./273972-victoria-3-colossus-of-the-south.json) |
+| Victoria 3: Pivot of Empire | 419167 | [419167-victoria-3-pivot-of-empire.json](./419167-victoria-3-pivot-of-empire.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
 | Victoria 3: Update 1.2 | 240900 | [240900-victoria-3-update-1-2.json](./240900-victoria-3-update-1-2.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scrappers | 211688 | [211688-void-scrappers.json](./211688-void-scrappers.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
+| Void Step | 419159 | [419159-void-step.json](./419159-void-step.json) |
 | Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
 | Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
