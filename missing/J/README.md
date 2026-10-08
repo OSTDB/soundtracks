@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Johann: Castle Crusade | 409805 | [409805-journey-of-johann-castle-crusade.json](./409805-journey-of-johann-castle-crusade.json) |
 | Journey of Johann: Grasslands | 327442 | [327442-journey-of-johann-grasslands.json](./327442-journey-of-johann-grasslands.json) |
 | Journey of Johann: Snowy Mountain | 388295 | [388295-journey-of-johann-snowy-mountain.json](./388295-journey-of-johann-snowy-mountain.json) |
+| Journey of Life | 97174 | [97174-journey-of-life.json](./97174-journey-of-life.json) |
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Forgotten | 274460 | [274460-journey-of-the-forgotten.json](./274460-journey-of-the-forgotten.json) |
