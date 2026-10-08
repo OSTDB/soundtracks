@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Hawthorn Park | 157218 | [157218-hawthorn-park.json](./157218-hawthorn-park.json) |
 | Haxball | 63583 | [63583-haxball.json](./63583-haxball.json) |
+| Häxeri | 411539 | [411539-haxeri.json](./411539-haxeri.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hay Bales | 246507 | [246507-hay-bales.json](./246507-hay-bales.json) |
@@ -2103,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Car Battle: Demolition Derby | 276957 | [276957-heavy-car-battle-demolition-derby.json](./276957-heavy-car-battle-demolition-derby.json) |
+| Heavy Cargo - The Truck Simulator: Heavy South | 411507 | [411507-heavy-cargo-the-truck-simulator-heavy-south.json](./411507-heavy-cargo-the-truck-simulator-heavy-south.json) |
 | Heavy Cargo: The Truck Simulator | 165384 | [165384-heavy-cargo-the-truck-simulator.json](./165384-heavy-cargo-the-truck-simulator.json) |
 | Heavy Destinies | 75010 | [75010-heavy-destinies.json](./75010-heavy-destinies.json) |
 | Heavy Dreams | 108058 | [108058-heavy-dreams.json](./108058-heavy-dreams.json) |
@@ -3818,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexters | 81393 | [81393-hexters.json](./81393-hexters.json) |
 | Hexton | 298243 | [298243-hexton.json](./298243-hexton.json) |
 | HexTrains | 102953 | [102953-hextrains.json](./102953-hextrains.json) |
+| Hextreaming: Deep | 411505 | [411505-hextreaming-deep.json](./411505-hextreaming-deep.json) |
 | Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
