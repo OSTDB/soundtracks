@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
+| Defense: Abominations | 105658 | [105658-defense-abominations.json](./105658-defense-abominations.json) |
 | DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
 | Defensive Attacks | 150548 | [150548-defensive-attacks.json](./150548-defensive-attacks.json) |
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
