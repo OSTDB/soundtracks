@@ -3642,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Empire 2027 | 220017 | [220017-europe-empire-2027.json](./220017-europe-empire-2027.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
+| Europe Heatwave Simulator | 409396 | [409396-europe-heatwave-simulator.json](./409396-europe-heatwave-simulator.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
 | European Bus Simulator | 65267 | [65267-european-bus-simulator.json](./65267-european-bus-simulator.json) |
@@ -4034,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
+| Evil Spirit Hunter | 409413 | [409413-evil-spirit-hunter.json](./409413-evil-spirit-hunter.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
 | Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
