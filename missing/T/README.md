@@ -5673,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Football T | 209917 | [209917-the-football-t.json](./209917-the-football-t.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
+| The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
 | The Forest Adventurer | 221704 | [221704-the-forest-adventurer.json](./221704-the-forest-adventurer.json) |
 | The Forest Below | 100588 | [100588-the-forest-below.json](./100588-the-forest-below.json) |
@@ -6025,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
+| The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
@@ -7249,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
 | The Legend of Damon and the Ongoing Infection | 28728 | [28728-the-legend-of-damon-and-the-ongoing-infection.json](./28728-the-legend-of-damon-and-the-ongoing-infection.json) |
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
+| The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
 | The Legend of Doom | 231448 | [231448-the-legend-of-doom.json](./231448-the-legend-of-doom.json) |
@@ -8790,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
+| The Princess Guide | 78111 | [78111-the-princess-guide.json](./78111-the-princess-guide.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
@@ -9598,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 2: Pets | 286683 | [286683-the-sims-2-pets.json](./286683-the-sims-2-pets.json) |
+| The Sims 2: Super Collection | 77215 | [77215-the-sims-2-super-collection.json](./77215-the-sims-2-super-collection.json) |
 | The Sims 2: Ultimate Collection | 45113 | [45113-the-sims-2-ultimate-collection.json](./45113-the-sims-2-ultimate-collection.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
