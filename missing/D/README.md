@@ -7068,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
+| Don't Get Hit in the Face | 28263 | [28263-dont-get-hit-in-the-face.json](./28263-dont-get-hit-in-the-face.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
 | Don't Give Up: Not Ready to Die | 158530 | [158530-dont-give-up-not-ready-to-die.json](./158530-dont-give-up-not-ready-to-die.json) |
