@@ -4364,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
+| Biing!: Sex, Intrigue and Scalpels | 50348 | [50348-biing-sex-intrigue-and-scalpels.json](./50348-biing-sex-intrigue-and-scalpels.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
 | Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
