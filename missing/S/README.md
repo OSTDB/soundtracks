@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
+| Sakura Branch: Blossom Puzzle | 418323 | [418323-sakura-branch-blossom-puzzle.json](./418323-sakura-branch-blossom-puzzle.json) |
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
 | Scam Artist | 413774 | [413774-scam-artist.json](./413774-scam-artist.json) |
 | Scam Line | 379595 | [379595-scam-line.json](./379595-scam-line.json) |
+| Scam With Your Friends | 418295 | [418295-scam-with-your-friends.json](./418295-scam-with-your-friends.json) |
 | SCAMP 2025 | 376048 | [376048-scamp-2025.json](./376048-scamp-2025.json) |
 | Scamperghost | 62241 | [62241-scamperghost.json](./62241-scamperghost.json) |
 | Scampr | 152788 | [152788-scampr.json](./152788-scampr.json) |
@@ -3817,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shade: Wrath of Angels | 6041 | [6041-shade-wrath-of-angels.json](./6041-shade-wrath-of-angels.json) |
 | Shadereap | 376658 | [376658-shadereap.json](./376658-shadereap.json) |
+| Shaderland | 418303 | [418303-shaderland.json](./418303-shaderland.json) |
 | Shades | 230255 | [230255-shades.json](./230255-shades.json) |
 | Shades | 319026 | [319026-shades.json](./319026-shades.json) |
 | Shades of Azure | 262431 | [262431-shades-of-azure.json](./262431-shades-of-azure.json) |
@@ -4593,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf Happens | 419828 | [419828-shelf-happens.json](./419828-shelf-happens.json) |
 | Shelf Heroes | 336147 | [336147-shelf-heroes.json](./336147-shelf-heroes.json) |
 | Shelf Life | 373146 | [373146-shelf-life.json](./373146-shelf-life.json) |
+| Shelf Work VR | 418316 | [418316-shelf-work-vr.json](./418316-shelf-work-vr.json) |
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
@@ -9608,6 +9612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic: Card Game | 231895 | [231895-solitaire-classic-card-game.json](./231895-solitaire-classic-card-game.json) |
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
 | Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
+| Solitaire Companions: Cats | 418324 | [418324-solitaire-companions-cats.json](./418324-solitaire-companions-cats.json) |
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
 | Solitaire Crime Stories Chapter 2 | 389072 | [389072-solitaire-crime-stories-chapter-2.json](./389072-solitaire-crime-stories-chapter-2.json) |
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
@@ -9868,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son Son II | 37689 | [37689-son-son-ii.json](./37689-son-son-ii.json) |
 | Sonafleki | 393153 | [393153-sonafleki.json](./393153-sonafleki.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
+| Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
@@ -11207,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Castle | 169836 | [169836-space-castle.json](./169836-space-castle.json) |
 | Space Castle | 59796 | [59796-space-castle.json](./59796-space-castle.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
+| Space Cat Digger | 418287 | [418287-space-cat-digger.json](./418287-space-cat-digger.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
@@ -15781,6 +15788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
 | Stock Car Racing | 87867 | [87867-stock-car-racing.json](./87867-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
+| Stock Cars Racing | 418317 | [418317-stock-cars-racing.json](./418317-stock-cars-racing.json) |
 | Stock Exchange Kabutore Next | 76136 | [76136-stock-exchange-kabutore-next.json](./76136-stock-exchange-kabutore-next.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
@@ -16870,6 +16878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
+| Sub Rosa Tournament | 418293 | [418293-sub-rosa-tournament.json](./418293-sub-rosa-tournament.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra | 360717 | [360717-sub-terra.json](./360717-sub-terra.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
