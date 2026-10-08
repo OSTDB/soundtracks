@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
+| ChatBoss | 400506 | [400506-chatboss.json](./400506-chatboss.json) |
 | Chatbotaged | 208471 | [208471-chatbotaged.json](./208471-chatbotaged.json) |
 | ChatChat | 80226 | [80226-chatchat.json](./80226-chatchat.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
@@ -11356,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
 | Cursed West | 31728 | [31728-cursed-west.json](./31728-cursed-west.json) |
 | Cursed Words | 360064 | [360064-cursed-words.json](./360064-cursed-words.json) |
+| Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
