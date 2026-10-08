@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Multiverse | 409744 | [409744-backrooms-multiverse.json](./409744-backrooms-multiverse.json) |
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
 | Backrooms: No Return | 236777 | [236777-backrooms-no-return.json](./236777-backrooms-no-return.json) |
+| Backrooms: No Way Out | 394802 | [394802-backrooms-no-way-out.json](./394802-backrooms-no-way-out.json) |
 | Backrooms: One | 406835 | [406835-backrooms-one.json](./406835-backrooms-one.json) |
 | Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
 | Backrooms: Poolrooms | 389062 | [389062-backrooms-poolrooms.json](./389062-backrooms-poolrooms.json) |
