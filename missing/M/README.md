@@ -4449,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
+| Mega Man Star Force: Legacy Collection | 366898 | [366898-mega-man-star-force-legacy-collection.json](./366898-mega-man-star-force-legacy-collection.json) |
 | Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
@@ -8110,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
+| MLB The Show 26 | 387374 | [387374-mlb-the-show-26.json](./387374-mlb-the-show-26.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
@@ -8825,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly: Build A Lot | 210123 | [210123-monopoly-build-a-lot.json](./210123-monopoly-build-a-lot.json) |
 | Monopoly: Here & Now Worldwide Edition | 84305 | [84305-monopoly-here-and-now-worldwide-edition.json](./84305-monopoly-here-and-now-worldwide-edition.json) |
 | Monopoly: SpongeBob SquarePants Edition | 68109 | [68109-monopoly-spongebob-squarepants-edition.json](./68109-monopoly-spongebob-squarepants-edition.json) |
+| Monopoly: Star Wars Heroes vs. Villains | 395183 | [395183-monopoly-star-wars-heroes-vs-villains.json](./395183-monopoly-star-wars-heroes-vs-villains.json) |
 | Monopong | 232374 | [232374-monopong.json](./232374-monopong.json) |
 | Monoquous 2 | 326212 | [326212-monoquous-2.json](./326212-monoquous-2.json) |
 | MonoRaceVR | 192755 | [192755-monoracevr.json](./192755-monoracevr.json) |
@@ -10062,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motionrec | 275847 | [275847-motionrec.json](./275847-motionrec.json) |
 | Motionrec | 290075 | [290075-motionrec.json](./290075-motionrec.json) |
 | MotionSports: Adrenaline | 20215 | [20215-motionsports-adrenaline.json](./20215-motionsports-adrenaline.json) |
+| MotionSports: Play for Real | 2658 | [2658-motionsports-play-for-real.json](./2658-motionsports-play-for-real.json) |
 | Motivational Hero | 170272 | [170272-motivational-hero.json](./170272-motivational-hero.json) |
 | Motivo | 39759 | [39759-motivo.json](./39759-motivo.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
@@ -11615,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia All's Justice: School Uniform: Himiko Toga | 393718 | [393718-my-hero-academia-alls-justice-school-uniform-himiko-toga.json](./393718-my-hero-academia-alls-justice-school-uniform-himiko-toga.json) |
 | My Hero Academia All's Justice: Season Pass | 393723 | [393723-my-hero-academia-alls-justice-season-pass.json](./393723-my-hero-academia-alls-justice-season-pass.json) |
 | My Hero Academia All's Justice: U.A. Quest Costume Pack | 389036 | [389036-my-hero-academia-alls-justice-u-a-quest-costume-pack.json](./389036-my-hero-academia-alls-justice-u-a-quest-costume-pack.json) |
+| My Hero Academia: All's Justice | 352409 | [352409-my-hero-academia-alls-justice.json](./352409-my-hero-academia-alls-justice.json) |
 | My Hero Academia: All's Justice - DLC Character 4 | 414446 | [414446-my-hero-academia-alls-justice-dlc-character-4.json](./414446-my-hero-academia-alls-justice-dlc-character-4.json) |
 | My Hero Academia: All's Justice - DLC Character 5 | 414447 | [414447-my-hero-academia-alls-justice-dlc-character-5.json](./414447-my-hero-academia-alls-justice-dlc-character-5.json) |
 | My Hero Academia: All's Justice - Playable Character Izuku Midoriya Overlay Full Style | 414448 | [414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json](./414448-my-hero-academia-alls-justice-playable-character-izuku-midoriya-overlay-full-style.json) |
