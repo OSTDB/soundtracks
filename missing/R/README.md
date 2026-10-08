@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
+| Rad TV | 120431 | [120431-rad-tv.json](./120431-rad-tv.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
