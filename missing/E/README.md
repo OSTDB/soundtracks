@@ -4207,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exapunks | 106122 | [106122-exapunks.json](./106122-exapunks.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
+| Exc.: Reigai Jishou Kanshikyoku | 401157 | [401157-exc-reigai-jishou-kanshikyoku.json](./401157-exc-reigai-jishou-kanshikyoku.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
 | Excalibots | 135712 | [135712-excalibots.json](./135712-excalibots.json) |
 | ExcaliBug | 71155 | [71155-excalibug.json](./71155-excalibug.json) |
