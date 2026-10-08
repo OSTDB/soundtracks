@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
 | National Lampoon's Blind Date | 70094 | [70094-national-lampoons-blind-date.json](./70094-national-lampoons-blind-date.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
+| National Park Girls | 116070 | [116070-national-park-girls.json](./116070-national-park-girls.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
+| Neko-Nin ExHeart 2 Love +Plus | 116863 | [116863-neko-nin-exheart-2-love-plus.json](./116863-neko-nin-exheart-2-love-plus.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
@@ -3050,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Knight | 133897 | [133897-ninja-knight.json](./133897-ninja-knight.json) |
 | Ninja Kunoichi | 169763 | [169763-ninja-kunoichi.json](./169763-ninja-kunoichi.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
+| Ninja Legends | 116922 | [116922-ninja-legends.json](./116922-ninja-legends.json) |
 | Ninja Maker | 286058 | [286058-ninja-maker.json](./286058-ninja-maker.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
 | Ninja Master | 13021 | [13021-ninja-master.json](./13021-ninja-master.json) |
@@ -4462,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
 | Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
+| Nurse Love Syndrome | 116660 | [116660-nurse-love-syndrome.json](./116660-nurse-love-syndrome.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
 | Nurse Story | 268644 | [268644-nurse-story.json](./268644-nurse-story.json) |
 | Nursery Curse | 176310 | [176310-nursery-curse.json](./176310-nursery-curse.json) |
