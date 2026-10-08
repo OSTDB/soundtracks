@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Human! | 161173 | [161173-i-am-human.json](./161173-i-am-human.json) |
 | I Am Immortal Here | 337826 | [337826-i-am-immortal-here.json](./337826-i-am-immortal-here.json) |
 | I Am Innocent | 138129 | [138129-i-am-innocent.json](./138129-i-am-innocent.json) |
+| I Am Janitor | 408005 | [408005-i-am-janitor.json](./408005-i-am-janitor.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I Am Jesus Christ | 127152 | [127152-i-am-jesus-christ.json](./127152-i-am-jesus-christ.json) |
 | I am Jesus Christ: Christ's Revenge | 240732 | [240732-i-am-jesus-christ-christs-revenge.json](./240732-i-am-jesus-christ-christs-revenge.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
 | Idle Squares | 414840 | [414840-idle-squares.json](./414840-idle-squares.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
+| Idle Startup | 408019 | [408019-idle-startup.json](./408019-idle-startup.json) |
 | Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
