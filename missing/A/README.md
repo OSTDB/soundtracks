@@ -277,6 +277,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
 | A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
+| A Grim Chase | 407948 | [407948-a-grim-chase.json](./407948-a-grim-chase.json) |
+| A Grim Granny | 407959 | [407959-a-grim-granny.json](./407959-a-grim-granny.json) |
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
 | A Guardian's Wish | 225564 | [225564-a-guardians-wish.json](./225564-a-guardians-wish.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
@@ -6307,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
+| Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
 | Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
 | Aoitenryuu: The Arcade | 68258 | [68258-aoitenryuu-the-arcade.json](./68258-aoitenryuu-the-arcade.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
