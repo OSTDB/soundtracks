@@ -7366,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
 | Portals of Phereon | 268548 | [268548-portals-of-phereon.json](./268548-portals-of-phereon.json) |
 | Portals: Escape the Infinity | 264151 | [264151-portals-escape-the-infinity.json](./264151-portals-escape-the-infinity.json) |
+| Portarius | 74850 | [74850-portarius.json](./74850-portarius.json) |
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
 | Porter | 229060 | [229060-porter.json](./229060-porter.json) |
@@ -8240,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess of Mekana | 245816 | [245816-princess-of-mekana.json](./245816-princess-of-mekana.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of Tavern | 140320 | [140320-princess-of-tavern.json](./140320-princess-of-tavern.json) |
+| Princess of Tavern: Collector's Edition | 74543 | [74543-princess-of-tavern-collectors-edition.json](./74543-princess-of-tavern-collectors-edition.json) |
 | Princess of the Moon Ultimate | 200547 | [200547-princess-of-the-moon-ultimate.json](./200547-princess-of-the-moon-ultimate.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
