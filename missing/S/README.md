@@ -4615,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shedding Blood | 399760 | [399760-shedding-blood.json](./399760-shedding-blood.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
+| Sheep & Love | 390700 | [390700-sheep-and-love.json](./390700-sheep-and-love.json) |
 | Sheep a Sheep | 223917 | [223917-sheep-a-sheep.json](./223917-sheep-a-sheep.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
@@ -15927,6 +15928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
+| Stillwell | 390600 | [390600-stillwell.json](./390600-stillwell.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
@@ -17880,6 +17882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrock Lake | 395774 | [395774-sunrock-lake.json](./395774-sunrock-lake.json) |
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
 | Suns of Wiraqocha | 270886 | [270886-suns-of-wiraqocha.json](./270886-suns-of-wiraqocha.json) |
+| Sunsave | 390591 | [390591-sunsave.json](./390591-sunsave.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset 20 Drone Racer | 151069 | [151069-sunset-20-drone-racer.json](./151069-sunset-20-drone-racer.json) |
