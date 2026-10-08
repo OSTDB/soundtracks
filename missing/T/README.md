@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
+| Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
@@ -10995,6 +10996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vault of Darkness | 70058 | [70058-the-vault-of-darkness.json](./70058-the-vault-of-darkness.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
+| The Vaults Below Durn: A Field Study | 401853 | [401853-the-vaults-below-durn-a-field-study.json](./401853-the-vaults-below-durn-a-field-study.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
@@ -15344,6 +15346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
 | Tormented Soul | 322083 | [322083-tormented-soul.json](./322083-tormented-soul.json) |
 | Tormented Souls | 138569 | [138569-tormented-souls.json](./138569-tormented-souls.json) |
+| Tormented Souls II: Digital Deluxe Edition | 401599 | [401599-tormented-souls-ii-digital-deluxe-edition.json](./401599-tormented-souls-ii-digital-deluxe-edition.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
