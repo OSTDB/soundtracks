@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echelon | 377781 | [377781-echelon.json](./377781-echelon.json) |
 | Echelon | 55093 | [55093-echelon.json](./55093-echelon.json) |
+| Echelon: Wind Warriors | 17578 | [17578-echelon-wind-warriors.json](./17578-echelon-wind-warriors.json) |
 | Echidna Wars DX | 382894 | [382894-echidna-wars-dx.json](./382894-echidna-wars-dx.json) |
 | Echo | 136715 | [136715-echo.json](./136715-echo.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
 | Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
+| Echo of the Wilds | 17514 | [17514-echo-of-the-wilds.json](./17514-echo-of-the-wilds.json) |
 | Echo Pandemic | 404333 | [404333-echo-pandemic.json](./404333-echo-pandemic.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
