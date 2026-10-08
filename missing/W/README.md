@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 79687 | [79687-warhawk.json](./79687-warhawk.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
+| Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
 | Warhead Circus | 383028 | [383028-warhead-circus.json](./383028-warhead-circus.json) |
 | Warhead Vanguard | 409655 | [409655-warhead-vanguard.json](./409655-warhead-vanguard.json) |
 | Warheads & Overheads | 410397 | [410397-warheads-and-overheads.json](./410397-warheads-and-overheads.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
+| Wild Kratts Creature Mobile | 396719 | [396719-wild-kratts-creature-mobile.json](./396719-wild-kratts-creature-mobile.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Leopard Safari | 255167 | [255167-wild-leopard-safari.json](./255167-wild-leopard-safari.json) |
 | Wild Life | 127894 | [127894-wild-life.json](./127894-wild-life.json) |
@@ -4727,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Class Rugby 2 | 37766 | [37766-world-class-rugby-2.json](./37766-world-class-rugby-2.json) |
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
+| World Class Rugby: Five Nations Edition | 396768 | [396768-world-class-rugby-five-nations-edition.json](./396768-world-class-rugby-five-nations-edition.json) |
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
 | World Class Track Meet | 2242 | [2242-world-class-track-meet.json](./2242-world-class-track-meet.json) |
