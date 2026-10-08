@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
 | Waiter | 231341 | [231341-waiter.json](./231341-waiter.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
+| Waiting for Odysseus | 412909 | [412909-waiting-for-odysseus.json](./412909-waiting-for-odysseus.json) |
 | Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
@@ -3385,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windows XP Meteorite Covenant | 237516 | [237516-windows-xp-meteorite-covenant.json](./237516-windows-xp-meteorite-covenant.json) |
 | Windpunk | 313807 | [313807-windpunk.json](./313807-windpunk.json) |
 | Windrose | 380441 | [380441-windrose.json](./380441-windrose.json) |
+| Windrunner | 412780 | [412780-windrunner.json](./412780-windrunner.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
 | Winds of Change - The Opening Act | 118812 | [118812-winds-of-change-the-opening-act.json](./118812-winds-of-change-the-opening-act.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
