@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All in One Adventure VR | 368663 | [368663-all-in-one-adventure-vr.json](./368663-all-in-one-adventure-vr.json) |
 | All In One Sports: Four Ball Billiards | 417371 | [417371-all-in-one-sports-four-ball-billiards.json](./417371-all-in-one-sports-four-ball-billiards.json) |
 | All In One Sports: Hockey | 417369 | [417369-all-in-one-sports-hockey.json](./417369-all-in-one-sports-hockey.json) |
+| All In One Sports: KungFu DLC | 417365 | [417365-all-in-one-sports-kungfu-dlc.json](./417365-all-in-one-sports-kungfu-dlc.json) |
 | All In One Sports: Soccer | 417370 | [417370-all-in-one-sports-soccer.json](./417370-all-in-one-sports-soccer.json) |
 | All In One Sports: Three Cushion Billiards | 417372 | [417372-all-in-one-sports-three-cushion-billiards.json](./417372-all-in-one-sports-three-cushion-billiards.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
@@ -7996,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
+| Arrow: Button Heart | 417341 | [417341-arrow-button-heart.json](./417341-arrow-button-heart.json) |
 | ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
@@ -8806,6 +8808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 80932 | [80932-asteroids.json](./80932-asteroids.json) |
 | Asteroids | 89564 | [89564-asteroids.json](./89564-asteroids.json) |
 | Asteroids & Super Breakout | 78656 | [78656-asteroids-and-super-breakout.json](./78656-asteroids-and-super-breakout.json) |
+| Asteroids Arcade | 417452 | [417452-asteroids-arcade.json](./417452-asteroids-arcade.json) |
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
