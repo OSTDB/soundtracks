@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
+| Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
 | Harvest Moon: The Winds of Anthos - Visitors From Afar Pack | 270288 | [270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json](./270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json) |
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
+| Hollow Survivors | 236864 | [236864-hollow-survivors.json](./236864-hollow-survivors.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
