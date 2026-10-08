@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
+| Gensou no Avatar | 388225 | [388225-gensou-no-avatar.json](./388225-gensou-no-avatar.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
 | Gensou Rouman Kikou: Phantasmagoria Trues | 321482 | [321482-gensou-rouman-kikou-phantasmagoria-trues.json](./321482-gensou-rouman-kikou-phantasmagoria-trues.json) |
 | Gensou Skydrift | 125591 | [125591-gensou-skydrift.json](./125591-gensou-skydrift.json) |
