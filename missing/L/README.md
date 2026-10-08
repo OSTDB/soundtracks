@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
+| Layer2 | 407912 | [407912-layer2.json](./407912-layer2.json) |
 | Layered Ordeal | 356803 | [356803-layered-ordeal.json](./356803-layered-ordeal.json) |
 | Layermask | 402995 | [402995-layermask.json](./402995-layermask.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leningrad | 188430 | [188430-leningrad.json](./188430-leningrad.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
+| Lenny Loosejocks Goes Snowboarding | 407924 | [407924-lenny-loosejocks-goes-snowboarding.json](./407924-lenny-loosejocks-goes-snowboarding.json) |
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
