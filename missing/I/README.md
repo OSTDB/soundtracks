@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
+| Incandescent X | 408708 | [408708-incandescent-x.json](./408708-incandescent-x.json) |
 | Incantation | 44454 | [44454-incantation.json](./44454-incantation.json) |
 | Incarna: Broken | 118143 | [118143-incarna-broken.json](./118143-incarna-broken.json) |
 | Incarnage | 210120 | [210120-incarnage.json](./210120-incarnage.json) |
