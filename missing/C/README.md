@@ -8379,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor of Time | 114524 | [114524-corridor-of-time.json](./114524-corridor-of-time.json) |
 | Corridor Sigma | 199382 | [199382-corridor-sigma.json](./199382-corridor-sigma.json) |
 | Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
+| Corridors | 418277 | [418277-corridors.json](./418277-corridors.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
 | Corroded | 28060 | [28060-corroded.json](./28060-corroded.json) |
 | Corrosion Protocol | 377073 | [377073-corrosion-protocol.json](./377073-corrosion-protocol.json) |
