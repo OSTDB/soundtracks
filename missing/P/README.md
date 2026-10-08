@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
 | Past Mistakes: Act I | 347296 | [347296-past-mistakes-act-i.json](./347296-past-mistakes-act-i.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
+| Pasta La Vista Super Mario Bros. | 392840 | [392840-pasta-la-vista-super-mario-bros.json](./392840-pasta-la-vista-super-mario-bros.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
 | Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Chime: Koi no Skill Up | 90927 | [90927-pastel-chime-koi-no-skill-up.json](./90927-pastel-chime-koi-no-skill-up.json) |
@@ -3644,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture the Link | 26828 | [26828-picture-the-link.json](./26828-picture-the-link.json) |
+| Picture Toys | 392894 | [392894-picture-toys.json](./392894-picture-toys.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Pictures at an Exhibition | 409408 | [409408-pictures-at-an-exhibition.json](./409408-pictures-at-an-exhibition.json) |
 | Pictures of Life | 120748 | [120748-pictures-of-life.json](./120748-pictures-of-life.json) |
@@ -8469,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
 | Prison Escape Simulator | 345684 | [345684-prison-escape-simulator.json](./345684-prison-escape-simulator.json) |
+| Prison Escape Simulator | 392868 | [392868-prison-escape-simulator.json](./392868-prison-escape-simulator.json) |
 | Prison Escape Simulator 2026 | 411738 | [411738-prison-escape-simulator-2026.json](./411738-prison-escape-simulator-2026.json) |
 | Prison Escape Simulator: Breakout Master | 311056 | [311056-prison-escape-simulator-breakout-master.json](./311056-prison-escape-simulator-breakout-master.json) |
 | Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
