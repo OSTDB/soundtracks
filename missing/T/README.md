@@ -8375,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
@@ -8989,6 +8990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen of Duellist Gaiden α | 63911 | [63911-the-queen-of-duellist-gaiden.json](./63911-the-queen-of-duellist-gaiden.json) |
 | The Queen of Duellist Gaiden α+ | 63914 | [63914-the-queen-of-duellist-gaiden.json](./63914-the-queen-of-duellist-gaiden.json) |
 | The Queen of Hearts Maze Game | 25153 | [25153-the-queen-of-hearts-maze-game.json](./25153-the-queen-of-hearts-maze-game.json) |
+| The Queen of Snakes | 408090 | [408090-the-queen-of-snakes.json](./408090-the-queen-of-snakes.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
@@ -9226,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Rift Between Us | 258606 | [258606-the-rift-between-us.json](./258606-the-rift-between-us.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
+| The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
@@ -14947,6 +14950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachi-kun | 398580 | [398580-tomodachi-kun.json](./398580-tomodachi-kun.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomomi: Denkitomodachi | 130251 | [130251-tomomi-denkitomodachi.json](./130251-tomomi-denkitomodachi.json) |
+| Tomomon Little | 408023 | [408023-tomomon-little.json](./408023-tomomon-little.json) |
 | Tomomon: Legacy of Light | 242514 | [242514-tomomon-legacy-of-light.json](./242514-tomomon-legacy-of-light.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
@@ -18432,6 +18436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
+| Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Farm HD | 175740 | [175740-tropical-farm-hd.json](./175740-tropical-farm-hd.json) |
 | Tropical Fish Shop 2 | 33298 | [33298-tropical-fish-shop-2.json](./33298-tropical-fish-shop-2.json) |
