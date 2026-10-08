@@ -1595,7 +1595,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Stories | 147319 | [147319-7-stories.json](./147319-7-stories.json) |
 | 7 Summer Days: Youth sky | 171422 | [171422-7-summer-days-youth-sky.json](./171422-7-summer-days-youth-sky.json) |
 | 7 Wonders | 89128 | [89128-7-wonders.json](./89128-7-wonders.json) |
+| 7 Wonders II | 4634 | [4634-7-wonders-ii.json](./4634-7-wonders-ii.json) |
 | 7 Wonders of the Ancient World | 4629 | [4629-7-wonders-of-the-ancient-world.json](./4629-7-wonders-of-the-ancient-world.json) |
+| 7 Wonders: Magical Mystery Tour | 4637 | [4637-7-wonders-magical-mystery-tour.json](./4637-7-wonders-magical-mystery-tour.json) |
 | 7 Years From Now | 115856 | [115856-7-years-from-now.json](./115856-7-years-from-now.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
