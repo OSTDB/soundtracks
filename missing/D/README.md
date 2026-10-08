@@ -2538,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
+| Death Horizon VR | 100771 | [100771-death-horizon-vr.json](./100771-death-horizon-vr.json) |
 | Death Howl: Deluxe Edition | 401737 | [401737-death-howl-deluxe-edition.json](./401737-death-howl-deluxe-edition.json) |
 | Death Imminent | 379014 | [379014-death-imminent.json](./379014-death-imminent.json) |
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
@@ -8606,6 +8607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
 | Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
+| Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
