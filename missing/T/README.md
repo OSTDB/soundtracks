@@ -8724,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
+| The Palaces of The Mind | 389548 | [389548-the-palaces-of-the-mind.json](./389548-the-palaces-of-the-mind.json) |
 | The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
