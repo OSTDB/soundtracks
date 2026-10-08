@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
+| Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
@@ -10198,10 +10199,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
 | Moshi Monsters | 349990 | [349990-moshi-monsters.json](./349990-moshi-monsters.json) |
+| Moshi Monsters Food Factory | 395500 | [395500-moshi-monsters-food-factory.json](./395500-moshi-monsters-food-factory.json) |
+| Moshi Monsters Village | 395522 | [395522-moshi-monsters-village.json](./395522-moshi-monsters-village.json) |
 | Moshi Monsters: Buster's Lost Moshlings | 96897 | [96897-moshi-monsters-busters-lost-moshlings.json](./96897-moshi-monsters-busters-lost-moshlings.json) |
 | Moshi Monsters: Moshling Zoo | 47892 | [47892-moshi-monsters-moshling-zoo.json](./47892-moshi-monsters-moshling-zoo.json) |
 | Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
+| Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
