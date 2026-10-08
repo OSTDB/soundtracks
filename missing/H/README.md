@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half Past Fate: Romantic Distancing | 143589 | [143589-half-past-fate-romantic-distancing.json](./143589-half-past-fate-romantic-distancing.json) |
+| Half Step Princess | 410179 | [410179-half-step-princess.json](./410179-half-step-princess.json) |
 | Half-Baked Girls | 151801 | [151801-half-baked-girls.json](./151801-half-baked-girls.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Chamber | 252100 | [252100-half-chamber.json](./252100-half-chamber.json) |
@@ -2340,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Court | 179534 | [179534-hell-court.json](./179534-hell-court.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
 | Hell Darkness | 174614 | [174614-hell-darkness.json](./174614-hell-darkness.json) |
+| Hell Deck | 410089 | [410089-hell-deck.json](./410089-hell-deck.json) |
 | Hell Diary | 212770 | [212770-hell-diary.json](./212770-hell-diary.json) |
 | Hell Dice Gambit | 388396 | [388396-hell-dice-gambit.json](./388396-hell-dice-gambit.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
@@ -3559,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
 | Heroes Rush: Tactics | 54093 | [54093-heroes-rush-tactics.json](./54093-heroes-rush-tactics.json) |
+| Heroes Saga | 410192 | [410192-heroes-saga.json](./410192-heroes-saga.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
@@ -6403,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Bovver | 47174 | [47174-hover-bovver.json](./47174-hover-bovver.json) |
 | Hover Cross Skills | 249316 | [249316-hover-cross-skills.json](./249316-hover-cross-skills.json) |
 | Hover Cubes: Arena | 34612 | [34612-hover-cubes-arena.json](./34612-hover-cubes-arena.json) |
+| Hover Cup | 410180 | [410180-hover-cup.json](./410180-hover-cup.json) |
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Havoc | 32143 | [32143-hover-havoc.json](./32143-hover-havoc.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
