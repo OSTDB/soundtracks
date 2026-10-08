@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
+| Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
