@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Invaders | 94958 | [94958-rainbow-invaders.json](./94958-rainbow-invaders.json) |
 | Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
+| Rainbow Islands CS | 407279 | [407279-rainbow-islands-cs.json](./407279-rainbow-islands-cs.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 4405 | [4405-rainbow-islands-the-story-of-bubble-bobble-2.json](./4405-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: Towering Adventure! | 21241 | [21241-rainbow-islands-towering-adventure.json](./21241-rainbow-islands-towering-adventure.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction: Block Buster | 61132 | [61132-reaction-block-buster.json](./61132-reaction-block-buster.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
+| Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Horror Stories | 109479 | [109479-real-horror-stories.json](./109479-real-horror-stories.json) |
 | Real Horse 3D | 216152 | [216152-real-horse-3d.json](./216152-real-horse-3d.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
+| Real Life Simulator | 407365 | [407365-real-life-simulator.json](./407365-real-life-simulator.json) |
 | Real Madrid Club Football | 141135 | [141135-real-madrid-club-football.json](./141135-real-madrid-club-football.json) |
 | Real Madrid Club Football 2005 | 267898 | [267898-real-madrid-club-football-2005.json](./267898-real-madrid-club-football-2005.json) |
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
@@ -2266,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Finger | 339400 | [339400-red-finger.json](./339400-red-finger.json) |
+| Red Flag | 406756 | [406756-red-flag.json](./406756-red-flag.json) |
 | Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
 | Red Flower | 230959 | [230959-red-flower.json](./230959-red-flower.json) |
 | Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
@@ -5815,11 +5819,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
 | Rogue Company Mobile | 175694 | [175694-rogue-company-mobile.json](./175694-rogue-company-mobile.json) |
 | Rogue Company: Cannon Holiday Pack | 406763 | [406763-rogue-company-cannon-holiday-pack.json](./406763-rogue-company-cannon-holiday-pack.json) |
+| Rogue Company: Future Fashion Starter Pack | 406761 | [406761-rogue-company-future-fashion-starter-pack.json](./406761-rogue-company-future-fashion-starter-pack.json) |
+| Rogue Company: Juke Starter Pack | 406760 | [406760-rogue-company-juke-starter-pack.json](./406760-rogue-company-juke-starter-pack.json) |
+| Rogue Company: Living Doll Pack | 406754 | [406754-rogue-company-living-doll-pack.json](./406754-rogue-company-living-doll-pack.json) |
+| Rogue Company: Mainframe Overload Starter Pack | 406752 | [406752-rogue-company-mainframe-overload-starter-pack.json](./406752-rogue-company-mainframe-overload-starter-pack.json) |
+| Rogue Company: Meltdown Starter Pack | 406762 | [406762-rogue-company-meltdown-starter-pack.json](./406762-rogue-company-meltdown-starter-pack.json) |
 | Rogue Company: Power Ballad Pack | 406820 | [406820-rogue-company-power-ballad-pack.json](./406820-rogue-company-power-ballad-pack.json) |
 | Rogue Company: Radioactive Revenant Pack | 406770 | [406770-rogue-company-radioactive-revenant-pack.json](./406770-rogue-company-radioactive-revenant-pack.json) |
+| Rogue Company: Scarlet Contract Starter Pack | 406757 | [406757-rogue-company-scarlet-contract-starter-pack.json](./406757-rogue-company-scarlet-contract-starter-pack.json) |
 | Rogue Company: Season Four Starter Pack | 406768 | [406768-rogue-company-season-four-starter-pack.json](./406768-rogue-company-season-four-starter-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
 | Rogue Company: Season Two Starter Pack | 406822 | [406822-rogue-company-season-two-starter-pack.json](./406822-rogue-company-season-two-starter-pack.json) |
+| Rogue Company: Second Sight Starter Pack | 406758 | [406758-rogue-company-second-sight-starter-pack.json](./406758-rogue-company-second-sight-starter-pack.json) |
 | Rogue Company: ViVi Starter Pack | 257356 | [257356-rogue-company-vivi-starter-pack.json](./257356-rogue-company-vivi-starter-pack.json) |
 | Rogue Company: Year 1 Pass | 406769 | [406769-rogue-company-year-1-pass.json](./406769-rogue-company-year-1-pass.json) |
 | Rogue Continuum | 23481 | [23481-rogue-continuum.json](./23481-rogue-continuum.json) |
@@ -6241,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Scenario for War Chronicles Mode - 5th Wave: The Battle for Yan Province | 164499 | [164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json](./164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json) |
 | Romance of the Three Kingdoms XIII: Sun Ce Pushing Forward Event Set | 164493 | [164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json](./164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json) |
 | Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set | 164502 | [164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json](./164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json) |
+| Romance of the Three Kingdoms XIV Complete Edition | 407202 | [407202-romance-of-the-three-kingdoms-xiv-complete-edition.json](./407202-romance-of-the-three-kingdoms-xiv-complete-edition.json) |
 | Romance of the Three Kingdoms XIV with Power Up Kit: Digital Deluxe Edition | 222265 | [222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json](./222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack | 350638 | [350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json](./350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
