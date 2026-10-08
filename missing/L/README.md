@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
 | Legions Masters | 130671 | [130671-legions-masters.json](./130671-legions-masters.json) |
+| Legions of Ashworld | 17575 | [17575-legions-of-ashworld.json](./17575-legions-of-ashworld.json) |
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
+| LogiGun | 17560 | [17560-logigun.json](./17560-logigun.json) |
 | Logik | 204947 | [204947-logik.json](./204947-logik.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
