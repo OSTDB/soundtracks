@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samantha Swift and the Golden Touch | 10570 | [10570-samantha-swift-and-the-golden-touch.json](./10570-samantha-swift-and-the-golden-touch.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
+| SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | SAS: Zombie Assault 2 | 267983 | [267983-sas-zombie-assault-2.json](./267983-sas-zombie-assault-2.json) |
 | SAS: Zombie Assault 3 | 188396 | [188396-sas-zombie-assault-3.json](./188396-sas-zombie-assault-3.json) |
@@ -2635,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Super Seducer | 297753 | [297753-secret-of-super-seducer.json](./297753-secret-of-super-seducer.json) |
 | Secret of the Corral | 252124 | [252124-secret-of-the-corral.json](./252124-secret-of-the-corral.json) |
 | Secret of the Lost Cavern | 107393 | [107393-secret-of-the-lost-cavern.json](./107393-secret-of-the-lost-cavern.json) |
+| Secret of the Magic Crystals | 10427 | [10427-secret-of-the-magic-crystals.json](./10427-secret-of-the-magic-crystals.json) |
 | Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
@@ -3073,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
+| Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
@@ -4951,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi: The Warlord | 300722 | [300722-shinobi-the-warlord.json](./300722-shinobi-the-warlord.json) |
 | Shinobi.fr | 137624 | [137624-shinobi-fr.json](./137624-shinobi-fr.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
+| Shinobido 2: Revenge of Zen | 10900 | [10900-shinobido-2-revenge-of-zen.json](./10900-shinobido-2-revenge-of-zen.json) |
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
@@ -6410,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Racing | 108404 | [108404-simple-racing.json](./108404-simple-racing.json) |
 | Simple Rally | 236247 | [236247-simple-rally.json](./236247-simple-rally.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
+| Simple Rockets | 10997 | [10997-simple-rockets.json](./10997-simple-rockets.json) |
 | Simple Rolling | 236931 | [236931-simple-rolling.json](./236931-simple-rolling.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series 2000 Vol. 90: The Oneechanbara 2 | 73012 | [73012-simple-series-2000-vol-90-the-oneechanbara-2.json](./73012-simple-series-2000-vol-90-the-oneechanbara-2.json) |
@@ -8733,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
 | Sniper: Ghost Warrior | 1367 | [1367-sniper-ghost-warrior.json](./1367-sniper-ghost-warrior.json) |
+| Sniper: Ghost Warrior 2 - Siberian Strike | 10882 | [10882-sniper-ghost-warrior-2-siberian-strike.json](./10882-sniper-ghost-warrior-2-siberian-strike.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
@@ -9290,6 +9297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cresta | 148382 | [148382-sol-cresta.json](./148382-sol-cresta.json) |
 | Sol Cresta: Dramatic DLC | 201018 | [201018-sol-cresta-dramatic-dlc.json](./201018-sol-cresta-dramatic-dlc.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
+| SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
 | Sol Hemochroma | 138153 | [138153-sol-hemochroma.json](./138153-sol-hemochroma.json) |
@@ -14354,6 +14362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrive 2: Deluxe Edition | 53661 | [53661-stardrive-2-deluxe-edition.json](./53661-stardrive-2-deluxe-edition.json) |
 | StarDrive 2: Digital Deluxe Edition | 53662 | [53662-stardrive-2-digital-deluxe-edition.json](./53662-stardrive-2-digital-deluxe-edition.json) |
 | StarDrive 2: Sector Zero | 53660 | [53660-stardrive-2-sector-zero.json](./53660-stardrive-2-sector-zero.json) |
+| StarDrone | 10890 | [10890-stardrone.json](./10890-stardrone.json) |
 | StarDrone Extreme | 20815 | [20815-stardrone-extreme.json](./20815-stardrone-extreme.json) |
 | StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
@@ -14836,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
+| State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
 | State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
 | State of Extinction | 59465 | [59465-state-of-extinction.json](./59465-state-of-extinction.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
@@ -20555,6 +20565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
 | Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
+| Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
