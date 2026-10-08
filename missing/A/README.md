@@ -4988,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
 | Anchored Alone | 408269 | [408269-anchored-alone.json](./408269-anchored-alone.json) |
 | Anchorhead | 138147 | [138147-anchorhead.json](./138147-anchorhead.json) |
+| Anchorhead | 69245 | [69245-anchorhead.json](./69245-anchorhead.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
@@ -7861,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
+| Around the World in 80 Days | 74935 | [74935-around-the-world-in-80-days.json](./74935-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 80445 | [80445-around-the-world-in-80-days.json](./80445-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 86235 | [86235-around-the-world-in-80-days.json](./86235-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 88496 | [88496-around-the-world-in-80-days.json](./88496-around-the-world-in-80-days.json) |
