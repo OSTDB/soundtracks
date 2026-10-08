@@ -4255,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hieroglyph | 218003 | [218003-hieroglyph.json](./218003-hieroglyph.json) |
+| Hieroglyphika | 21907 | [21907-hieroglyphika.json](./21907-hieroglyphika.json) |
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
@@ -5566,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoops Mania | 417382 | [417382-hoops-mania.json](./417382-hoops-mania.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
+| Hoopworld | 21744 | [21744-hoopworld.json](./21744-hoopworld.json) |
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
 | Hoosegow | 207213 | [207213-hoosegow.json](./207213-hoosegow.json) |
@@ -6774,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
+| Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hùndùn Qíshì | 235275 | [235275-hundun-qishi.json](./235275-hundun-qishi.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
