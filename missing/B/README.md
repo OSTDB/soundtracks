@@ -542,7 +542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies | 19902 | [19902-bad-piggies.json](./19902-bad-piggies.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7773,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
 | Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
+| Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
 | Bosslords | 167563 | [167563-bosslords.json](./167563-bosslords.json) |
@@ -8324,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
 | Brain Rot Excellence | 251062 | [251062-brain-rot-excellence.json](./251062-brain-rot-excellence.json) |
+| Brain Runner: Dreamcore Movement Shooter | 414137 | [414137-brain-runner-dreamcore-movement-shooter.json](./414137-brain-runner-dreamcore-movement-shooter.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
@@ -8431,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratavism | 254577 | [254577-bratavism.json](./254577-bratavism.json) |
 | Brath: Brain and Math | 104834 | [104834-brath-brain-and-math.json](./104834-brath-brain-and-math.json) |
 | Brathian | 104061 | [104061-brathian.json](./104061-brathian.json) |
+| Bratki | 414175 | [414175-bratki.json](./414175-bratki.json) |
 | Bratwurst | 77642 | [77642-bratwurst.json](./77642-bratwurst.json) |
 | Bratz | 225653 | [225653-bratz.json](./225653-bratz.json) |
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
