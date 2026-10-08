@@ -5083,6 +5083,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
+| Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
+| Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
 | Memorize the Cards | 301382 | [301382-memorize-the-cards.json](./301382-memorize-the-cards.json) |
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
@@ -7861,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Strike: War Arcade | 56896 | [56896-missile-strike-war-arcade.json](./56896-missile-strike-war-arcade.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
+| MissileDancer | 100758 | [100758-missiledancer.json](./100758-missiledancer.json) |
 | Missileman | 197634 | [197634-missileman.json](./197634-missileman.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
 | Missileman Origins | 33034 | [33034-missileman-origins.json](./33034-missileman-origins.json) |
@@ -9476,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
 | Moon Flight | 84340 | [84340-moon-flight.json](./84340-moon-flight.json) |
+| Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
