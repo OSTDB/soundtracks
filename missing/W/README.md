@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
+| War Asunder | 420573 | [420573-war-asunder.json](./420573-war-asunder.json) |
 | War Attack | 108898 | [108898-war-attack.json](./108898-war-attack.json) |
 | War Beasts | 164273 | [164273-war-beasts.json](./164273-war-beasts.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
