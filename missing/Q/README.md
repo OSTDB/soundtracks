@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quebrantar: Caila The Witch | 315695 | [315695-quebrantar-caila-the-witch.json](./315695-quebrantar-caila-the-witch.json) |
 | Quebrantar: The Black Swamp | 315696 | [315696-quebrantar-the-black-swamp.json](./315696-quebrantar-the-black-swamp.json) |
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
+| Queen Anne's Lace | 387561 | [387561-queen-annes-lace.json](./387561-queen-annes-lace.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
