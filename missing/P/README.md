@@ -5290,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetone | 184990 | [184990-planetone.json](./184990-planetone.json) |
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
+| Planets Under Attack | 16408 | [16408-planets-under-attack.json](./16408-planets-under-attack.json) |
 | Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
