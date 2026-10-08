@@ -7124,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
+| SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
 | Ski Bunny | 193713 | [193713-ski-bunny.json](./193713-ski-bunny.json) |
@@ -7591,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
 | SL The Game | 320274 | [320274-sl-the-game.json](./320274-sl-the-game.json) |
 | Slab | 98708 | [98708-slab.json](./98708-slab.json) |
+| Slackball | 392905 | [392905-slackball.json](./392905-slackball.json) |
 | Slackers: Carts of Glory | 293685 | [293685-slackers-carts-of-glory.json](./293685-slackers-carts-of-glory.json) |
 | Slag | 253336 | [253336-slag.json](./253336-slag.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
@@ -8029,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
+| Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
@@ -13095,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splice: Tree of Life | 91102 | [91102-splice-tree-of-life.json](./91102-splice-tree-of-life.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | Spline Rider | 391824 | [391824-spline-rider.json](./391824-spline-rider.json) |
+| Spline: Part One | 392898 | [392898-spline-part-one.json](./392898-spline-part-one.json) |
 | Splink | 380646 | [380646-splink.json](./380646-splink.json) |
 | Splinter | 138691 | [138691-splinter.json](./138691-splinter.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
@@ -15470,6 +15474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Thunder | 65568 | [65568-steel-thunder.json](./65568-steel-thunder.json) |
 | Steel Tide | 27613 | [27613-steel-tide.json](./27613-steel-tide.json) |
+| Steel Titans | 392869 | [392869-steel-titans.json](./392869-steel-titans.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
@@ -16815,6 +16820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
 | Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
 | Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
+| Strip Black Jack: Manga Edition | 392893 | [392893-strip-black-jack-manga-edition.json](./392893-strip-black-jack-manga-edition.json) |
 | Strip Black Jack: Santa Babe | 385856 | [385856-strip-black-jack-santa-babe.json](./385856-strip-black-jack-santa-babe.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Dice / Strip Concentration | 71248 | [71248-strip-dice-strip-concentration.json](./71248-strip-dice-strip-concentration.json) |
@@ -20656,6 +20662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
 | Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
+| Sweet Holes | 392899 | [392899-sweet-holes.json](./392899-sweet-holes.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
@@ -20684,6 +20691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
 | Sweet Pool | 145909 | [145909-sweet-pool.json](./145909-sweet-pool.json) |
+| Sweet Portal | 392900 | [392900-sweet-portal.json](./392900-sweet-portal.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
 | Sweet Punch | 177385 | [177385-sweet-punch.json](./177385-sweet-punch.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
@@ -20692,6 +20700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Reversi | 208348 | [208348-sweet-reversi.json](./208348-sweet-reversi.json) |
 | Sweet Robot | 339444 | [339444-sweet-robot.json](./339444-sweet-robot.json) |
 | Sweet Rock Paper Scissors | 392918 | [392918-sweet-rock-paper-scissors.json](./392918-sweet-rock-paper-scissors.json) |
+| Sweet Room | 392901 | [392901-sweet-room.json](./392901-sweet-room.json) |
 | Sweet Run | 392919 | [392919-sweet-run.json](./392919-sweet-run.json) |
 | Sweet Sailor | 339443 | [339443-sweet-sailor.json](./339443-sweet-sailor.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
@@ -20751,6 +20760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Purple Grape | 379041 | [379041-sweetie-candy-maze-purple-grape.json](./379041-sweetie-candy-maze-purple-grape.json) |
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
+| Sweetie Candy Maze: White Chocolate | 392855 | [392855-sweetie-candy-maze-white-chocolate.json](./392855-sweetie-candy-maze-white-chocolate.json) |
 | SweetPea Village | 177894 | [177894-sweetpea-village.json](./177894-sweetpea-village.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
