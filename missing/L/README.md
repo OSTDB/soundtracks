@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
 | Lanky Larry | 176283 | [176283-lanky-larry.json](./176283-lanky-larry.json) |
+| Lanky Looters | 421338 | [421338-lanky-looters.json](./421338-lanky-looters.json) |
 | Lǎnrén Xiūxiān Zhuàn | 111583 | [111583-lanren-xiuxian-zhuan.json](./111583-lanren-xiuxian-zhuan.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
 | Link | 174799 | [174799-link.json](./174799-link.json) |
 | Link | 18925 | [18925-link.json](./18925-link.json) |
+| Link | 421380 | [421380-link.json](./421380-link.json) |
 | Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
