@@ -4590,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
 | She Keeps Me Damn Alive | 350542 | [350542-she-keeps-me-damn-alive.json](./350542-she-keeps-me-damn-alive.json) |
 | She Never Left | 416718 | [416718-she-never-left.json](./416718-she-never-left.json) |
+| She Plays Dirty | 393569 | [393569-she-plays-dirty.json](./393569-she-plays-dirty.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
@@ -6948,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
+| SixteenPetals | 393556 | [393556-sixteenpetals.json](./393556-sixteenpetals.json) |
 | Sixth Extinction | 144616 | [144616-sixth-extinction.json](./144616-sixth-extinction.json) |
 | Sixth Grade Detective | 33911 | [33911-sixth-grade-detective.json](./33911-sixth-grade-detective.json) |
 | Sixth Night | 129710 | [129710-sixth-night.json](./129710-sixth-night.json) |
