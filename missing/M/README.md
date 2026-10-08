@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
 | Magic Frame | 147246 | [147246-magic-frame.json](./147246-magic-frame.json) |
 | Magic Frog | 367561 | [367561-magic-frog.json](./367561-magic-frog.json) |
+| Magic Fruit World | 421329 | [421329-magic-fruit-world.json](./421329-magic-fruit-world.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
@@ -5174,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Traces: Egypt | 221106 | [221106-memory-traces-egypt.json](./221106-memory-traces-egypt.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Trainer | 105238 | [105238-memory-trainer.json](./105238-memory-trainer.json) |
+| Memory Wastes | 421376 | [421376-memory-wastes.json](./421376-memory-wastes.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
 | Memory: Match & Catch! | 58485 | [58485-memory-match-and-catch.json](./58485-memory-match-and-catch.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
@@ -5987,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
 | Mia's Christmas 2 | 229165 | [229165-mias-christmas-2.json](./229165-mias-christmas-2.json) |
 | Mia's Hunt | 261201 | [261201-mias-hunt.json](./261201-mias-hunt.json) |
+| Mia's Journey | 421336 | [421336-mias-journey.json](./421336-mias-journey.json) |
 | Mia's Math Adventure: Just in Time! | 144378 | [144378-mias-math-adventure-just-in-time.json](./144378-mias-math-adventure-just-in-time.json) |
 | Mia's Picnic | 146777 | [146777-mias-picnic.json](./146777-mias-picnic.json) |
 | Mia's Reading Adventure: The Search for Grandma's Remedy | 381688 | [381688-mias-reading-adventure-the-search-for-grandmas-remedy.json](./381688-mias-reading-adventure-the-search-for-grandmas-remedy.json) |
@@ -8554,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moira | 182523 | [182523-moira.json](./182523-moira.json) |
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Moira: Fated Twins | 121459 | [121459-moira-fated-twins.json](./121459-moira-fated-twins.json) |
+| Moji Blade | 421379 | [421379-moji-blade.json](./421379-moji-blade.json) |
 | Moji Bowling | 92115 | [92115-moji-bowling.json](./92115-moji-bowling.json) |
 | Mojib-Ribbon | 25097 | [25097-mojib-ribbon.json](./25097-mojib-ribbon.json) |
 | Mójiè Qíbīng | 268440 | [268440-mojie-qibing.json](./268440-mojie-qibing.json) |
@@ -9070,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
+| Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
