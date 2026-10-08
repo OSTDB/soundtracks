@@ -2635,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death to Spies | 9376 | [9376-death-to-spies.json](./9376-death-to-spies.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
 | Death to Spies: Moment of Truth | 9377 | [9377-death-to-spies-moment-of-truth.json](./9377-death-to-spies-moment-of-truth.json) |
+| Death Toll | 74762 | [74762-death-toll.json](./74762-death-toll.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
@@ -2698,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmoon | 364008 | [364008-deathmoon.json](./364008-deathmoon.json) |
 | DeathOmen | 189013 | [189013-deathomen.json](./189013-deathomen.json) |
 | Deathopolis | 126481 | [126481-deathopolis.json](./126481-deathopolis.json) |
+| Deathpit 3000 | 74576 | [74576-deathpit-3000.json](./74576-deathpit-3000.json) |
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
@@ -3183,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defendo | 305437 | [305437-defendo.json](./305437-defendo.json) |
 | Defendo | 305438 | [305438-defendo.json](./305438-defendo.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
@@ -5077,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
 | Digaway | 372115 | [372115-digaway.json](./372115-digaway.json) |
+| Digby Extreme | 74689 | [74689-digby-extreme.json](./74689-digby-extreme.json) |
 | Digby Forever | 98535 | [98535-digby-forever.json](./98535-digby-forever.json) |
 | Digby Jump | 98536 | [98536-digby-jump.json](./98536-digby-jump.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
@@ -9076,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hard | 184912 | [184912-dream-hard.json](./184912-dream-hard.json) |
 | Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
 | Dream Hike | 420684 | [420684-dream-hike.json](./420684-dream-hike.json) |
+| Dream Hills: Captured Magic | 74670 | [74670-dream-hills-captured-magic.json](./74670-dream-hills-captured-magic.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
@@ -9302,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamstars | 79192 | [79192-dreamstars.json](./79192-dreamstars.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
+| Dreamstones | 74676 | [74676-dreamstones.json](./74676-dreamstones.json) |
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
 | Dreamstudio | 61860 | [61860-dreamstudio.json](./61860-dreamstudio.json) |
 | Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
