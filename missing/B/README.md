@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
+| baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
@@ -4111,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bible Master | 299818 | [299818-bible-master.json](./299818-bible-master.json) |
 | Bible Master 2: The Chaos of Aglia | 299819 | [299819-bible-master-2-the-chaos-of-aglia.json](./299819-bible-master-2-the-chaos-of-aglia.json) |
 | Bible Puzzle | 319723 | [319723-bible-puzzle.json](./319723-bible-puzzle.json) |
+| Bible Quizzer | 87142 | [87142-bible-quizzer.json](./87142-bible-quizzer.json) |
 | Bible Touchdown | 92614 | [92614-bible-touchdown.json](./92614-bible-touchdown.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Bible Trivia | 77011 | [77011-bible-trivia.json](./77011-bible-trivia.json) |
