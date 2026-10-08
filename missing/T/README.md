@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
+| Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
@@ -4186,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Disaster | 95192 | [95192-the-castle-disaster.json](./95192-the-castle-disaster.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
+| The Castle Game | 20045 | [20045-the-castle-game.json](./20045-the-castle-game.json) |
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
 | The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
 | The Castle of Time | 197215 | [197215-the-castle-of-time.json](./197215-the-castle-of-time.json) |
@@ -8794,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price Is Right | 198872 | [198872-the-price-is-right.json](./198872-the-price-is-right.json) |
 | The Price Is Right | 220105 | [220105-the-price-is-right.json](./220105-the-price-is-right.json) |
 | The Price Is Right | 47943 | [47943-the-price-is-right.json](./47943-the-price-is-right.json) |
+| The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
 | The Primordial World | 147121 | [147121-the-primordial-world.json](./147121-the-primordial-world.json) |
@@ -9409,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
+| the Sequence | 20036 | [20036-the-sequence.json](./20036-the-sequence.json) |
 | The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
@@ -12114,6 +12118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
+| Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
@@ -13968,6 +13973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
+| Titanfall: IMC Rising | 20225 | [20225-titanfall-imc-rising.json](./20225-titanfall-imc-rising.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
 | Titanic | 74237 | [74237-titanic.json](./74237-titanic.json) |
 | Titanic | 74430 | [74430-titanic.json](./74430-titanic.json) |
@@ -17927,6 +17933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Towers | 21623 | [21623-tricky-towers.json](./21623-tricky-towers.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
+| Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
