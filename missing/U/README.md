@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
 | Ultimate Ball: Fire Ball | 282259 | [282259-ultimate-ball-fire-ball.json](./282259-ultimate-ball-fire-ball.json) |
+| Ultimate Baseball Online | 23787 | [23787-ultimate-baseball-online.json](./23787-ultimate-baseball-online.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
 | Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
