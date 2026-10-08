@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velvet's Veil | 336723 | [336723-velvets-veil.json](./336723-velvets-veil.json) |
 | Velvetist: The City of Machine Guns | 133343 | [133343-velvetist-the-city-of-machine-guns.json](./133343-velvetist-the-city-of-machine-guns.json) |
 | Vempire | 42803 | [42803-vempire.json](./42803-vempire.json) |
+| VEmpire - The Kings of Darkness | 54830 | [54830-vempire-the-kings-of-darkness.json](./54830-vempire-the-kings-of-darkness.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
