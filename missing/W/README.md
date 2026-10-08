@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Music Dies | 277344 | [277344-where-the-music-dies.json](./277344-where-the-music-dies.json) |
 | Where the Redwood Ends | 416808 | [416808-where-the-redwood-ends.json](./416808-where-the-redwood-ends.json) |
 | Where the river dies | 120250 | [120250-where-the-river-dies.json](./120250-where-the-river-dies.json) |
+| Where The Road Fades | 404196 | [404196-where-the-road-fades.json](./404196-where-the-road-fades.json) |
 | Where the Roots grow | 375383 | [375383-where-the-roots-grow.json](./375383-where-the-roots-grow.json) |
 | Where the Seeds Fall | 416123 | [416123-where-the-seeds-fall.json](./416123-where-the-seeds-fall.json) |
 | Where the Stars Brought Us | 201549 | [201549-where-the-stars-brought-us.json](./201549-where-the-stars-brought-us.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
+| Who tells your story: Fantasy Pack | 404269 | [404269-who-tells-your-story-fantasy-pack.json](./404269-who-tells-your-story-fantasy-pack.json) |
 | Who Tied Me to the Rocket? | 199965 | [199965-who-tied-me-to-the-rocket.json](./199965-who-tied-me-to-the-rocket.json) |
 | Who Wants to Be a Hypnoslut? | 263668 | [263668-who-wants-to-be-a-hypnoslut.json](./263668-who-wants-to-be-a-hypnoslut.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
@@ -4483,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Realms | 64912 | [64912-word-realms.json](./64912-word-realms.json) |
 | Word Relay | 283860 | [283860-word-relay.json](./283860-word-relay.json) |
 | Word Rescue | 35506 | [35506-word-rescue.json](./35506-word-rescue.json) |
+| Word Rift | 404198 | [404198-word-rift.json](./404198-word-rift.json) |
 | Word Rocket | 319191 | [319191-word-rocket.json](./319191-word-rocket.json) |
 | Word Safari: The Friendship Totems | 49472 | [49472-word-safari-the-friendship-totems.json](./49472-word-safari-the-friendship-totems.json) |
 | Word Safe | 233049 | [233049-word-safe.json](./233049-word-safe.json) |
@@ -5472,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
 | Wudao | 284604 | [284604-wudao.json](./284604-wudao.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
+| Wúgòu zhī Liàn: Zhànfàng Yú Chūn zhī Huāhǎi | 403636 | [403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json](./403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json) |
 | Wuhan Clan | 191080 | [191080-wuhan-clan.json](./191080-wuhan-clan.json) |
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
