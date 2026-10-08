@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Obliterator | 25563 | [25563-obliterator.json](./25563-obliterator.json) |
+| Oblitus | 17523 | [17523-oblitus.json](./17523-oblitus.json) |
 | Oblitus Casa | 231425 | [231425-oblitus-casa.json](./231425-oblitus-casa.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Oblivion | 77199 | [77199-oblivion.json](./77199-oblivion.json) |
