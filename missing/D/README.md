@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
+| Damnation84 | 401184 | [401184-damnation84.json](./401184-damnation84.json) |
 | Damnaze | 113870 | [113870-damnaze.json](./113870-damnaze.json) |
 | Damned | 10136 | [10136-damned.json](./10136-damned.json) |
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
