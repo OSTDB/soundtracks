@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
 | Neon Boost | 117682 | [117682-neon-boost.json](./117682-neon-boost.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
+| Neon Chaku | 413500 | [413500-neon-chaku.json](./413500-neon-chaku.json) |
 | Neon Chrome | 18954 | [18954-neon-chrome.json](./18954-neon-chrome.json) |
 | Neon Chrome: Arena | 155075 | [155075-neon-chrome-arena.json](./155075-neon-chrome-arena.json) |
 | Neon Chrome: Deluxe Edition | 53412 | [53412-neon-chrome-deluxe-edition.json](./53412-neon-chrome-deluxe-edition.json) |
