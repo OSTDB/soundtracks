@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
+| Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 781 | 147096 | [147096-sector-781.json](./147096-sector-781.json) |
 | Sector 82 | 181149 | [181149-sector-82.json](./181149-sector-82.json) |
 | Sector 86 | 413152 | [413152-sector-86.json](./413152-sector-86.json) |
+| Sector 88 | 402882 | [402882-sector-88.json](./402882-sector-88.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Alpha | 301339 | [301339-sector-alpha.json](./301339-sector-alpha.json) |
@@ -5056,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
 | Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
+| Shinovi Nexus: Senran Kagura | 403208 | [403208-shinovi-nexus-senran-kagura.json](./403208-shinovi-nexus-senran-kagura.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
@@ -15675,6 +15678,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Fight: Shadow Warrior | 323193 | [323193-stick-fight-shadow-warrior.json](./323193-stick-fight-shadow-warrior.json) |
 | Stick Fight: The Game | 65832 | [65832-stick-fight-the-game.json](./65832-stick-fight-the-game.json) |
 | Stick Fighter II | 81332 | [81332-stick-fighter-ii.json](./81332-stick-fighter-ii.json) |
+| Stick Figure Badminton 2 | 402980 | [402980-stick-figure-badminton-2.json](./402980-stick-figure-badminton-2.json) |
+| Stick Figure Badminton 3 | 402982 | [402982-stick-figure-badminton-3.json](./402982-stick-figure-badminton-3.json) |
 | Stick Go story | 201704 | [201704-stick-go-story.json](./201704-stick-go-story.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
