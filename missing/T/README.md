@@ -10048,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
+| The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
 | The Soul Box | 190135 | [190135-the-soul-box.json](./190135-the-soul-box.json) |
 | The Soul Collector: Idle Game | 183887 | [183887-the-soul-collector-idle-game.json](./183887-the-soul-collector-idle-game.json) |
 | The Soul Labyrinth | 250883 | [250883-the-soul-labyrinth.json](./250883-the-soul-labyrinth.json) |
@@ -10471,6 +10472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Kingdoms: The Dynamic | 212857 | [212857-the-three-kingdoms-the-dynamic.json](./212857-the-three-kingdoms-the-dynamic.json) |
 | The Three Kingdoms: The Story of Seeking Generals | 284612 | [284612-the-three-kingdoms-the-story-of-seeking-generals.json](./284612-the-three-kingdoms-the-story-of-seeking-generals.json) |
 | The Three Kingdoms: The Tales of Jian An | 379442 | [379442-the-three-kingdoms-the-tales-of-jian-an.json](./379442-the-three-kingdoms-the-tales-of-jian-an.json) |
+| The Three Monkeys | 397425 | [397425-the-three-monkeys.json](./397425-the-three-monkeys.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
@@ -10831,6 +10833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The True Slime King | 97974 | [97974-the-true-slime-king.json](./97974-the-true-slime-king.json) |
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
+| The Truth Is Up There | 397424 | [397424-the-truth-is-up-there.json](./397424-the-truth-is-up-there.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tubby Custard Bubble Game | 307841 | [307841-the-tubby-custard-bubble-game.json](./307841-the-tubby-custard-bubble-game.json) |
