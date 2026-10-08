@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
 | Yeah Bunny! | 99183 | [99183-yeah-bunny.json](./99183-yeah-bunny.json) |
 | Yeah Jam Fury | 207268 | [207268-yeah-jam-fury.json](./207268-yeah-jam-fury.json) |
+| Yeah Jam Fury: U, Me, Everybody! | 74993 | [74993-yeah-jam-fury-u-me-everybody.json](./74993-yeah-jam-fury-u-me-everybody.json) |
 | Yeah Yeah Beebiss I | 228361 | [228361-yeah-yeah-beebiss-i.json](./228361-yeah-yeah-beebiss-i.json) |
 | Yeah Yeah Beebiss II | 187861 | [187861-yeah-yeah-beebiss-ii.json](./187861-yeah-yeah-beebiss-ii.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
