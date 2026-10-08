@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleCoin | 301497 | [301497-idlecoin.json](./301497-idlecoin.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
 | IdleDev | 264782 | [264782-idledev.json](./264782-idledev.json) |
+| IdleDiablo | 406143 | [406143-idlediablo.json](./406143-idlediablo.json) |
 | IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
