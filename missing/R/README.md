@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
+| Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
@@ -4983,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
+| Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roads of Rome: New Generation 2 | 111194 | [111194-roads-of-rome-new-generation-2.json](./111194-roads-of-rome-new-generation-2.json) |
@@ -6986,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
+| Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
 | Rumble Arena | 118228 | [118228-rumble-arena.json](./118228-rumble-arena.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
