@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
+| F-1 | 398651 | [398651-f-1.json](./398651-f-1.json) |
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
 | F-1 Dream | 39482 | [39482-f-1-dream.json](./39482-f-1-dream.json) |
 | F-1 Drive | 347815 | [347815-f-1-drive.json](./347815-f-1-drive.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
 | Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
+| Fear the Ring Place 0 | 398677 | [398677-fear-the-ring-place-0.json](./398677-fear-the-ring-place-0.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
@@ -2325,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
 | Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
+| Ferris Wheel and the World's End | 398634 | [398634-ferris-wheel-and-the-worlds-end.json](./398634-ferris-wheel-and-the-worlds-end.json) |
 | Ferroplasma | 130265 | [130265-ferroplasma.json](./130265-ferroplasma.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
@@ -7156,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
+| From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
 | From the Psychothread | 278611 | [278611-from-the-psychothread.json](./278611-from-the-psychothread.json) |
 | From the Shadows | 142329 | [142329-from-the-shadows.json](./142329-from-the-shadows.json) |
@@ -8032,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futebol de Tampinhas | 290090 | [290090-futebol-de-tampinhas.json](./290090-futebol-de-tampinhas.json) |
+| Futile | 398663 | [398663-futile.json](./398663-futile.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futr8 | 231339 | [231339-futr8.json](./231339-futr8.json) |
 | Futsal: 5 on 5 Mini Soccer | 75464 | [75464-futsal-5-on-5-mini-soccer.json](./75464-futsal-5-on-5-mini-soccer.json) |
