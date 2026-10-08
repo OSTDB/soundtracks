@@ -5111,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
+| BK Simulator | 396121 | [396121-bk-simulator.json](./396121-bk-simulator.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
 | Bl00d.exe | 259168 | [259168-bl00d-exe.json](./259168-bl00d-exe.json) |
@@ -6757,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
+| Blue Horizon: Hibiscus, and the Loved Garden Paths of Raj Rivera | 395997 | [395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json](./395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json) |
 | Blue Hunter | 303167 | [303167-blue-hunter.json](./303167-blue-hunter.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
@@ -6858,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
 | Bluey: Let's Play! | 266418 | [266418-bluey-lets-play.json](./266418-bluey-lets-play.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
+| Bluey's Happy Snaps | 396024 | [396024-blueys-happy-snaps.json](./396024-blueys-happy-snaps.json) |
 | Bluey's Happy Snaps: Deluxe Edition | 418329 | [418329-blueys-happy-snaps-deluxe-edition.json](./418329-blueys-happy-snaps-deluxe-edition.json) |
 | Bluey's Quest for the Gold Pen | 375072 | [375072-blueys-quest-for-the-gold-pen.json](./375072-blueys-quest-for-the-gold-pen.json) |
 | Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
@@ -9550,6 +9553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Zoo 2 | 341064 | [341064-bubble-zoo-2.json](./341064-bubble-zoo-2.json) |
 | Bubble: Journey to the End of the World | 62026 | [62026-bubble-journey-to-the-end-of-the-world.json](./62026-bubble-journey-to-the-end-of-the-world.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
+| BubbleBack: The Story of Forward to the Past 2 | 396001 | [396001-bubbleback-the-story-of-forward-to-the-past-2.json](./396001-bubbleback-the-story-of-forward-to-the-past-2.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
 | Bubblefish Bob | 341063 | [341063-bubblefish-bob.json](./341063-bubblefish-bob.json) |
 | Bubblegum Bandit | 253421 | [253421-bubblegum-bandit.json](./253421-bubblegum-bandit.json) |
