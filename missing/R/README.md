@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
 | Rainbow Slides: Care Bears! | 86842 | [86842-rainbow-slides-care-bears.json](./86842-rainbow-slides-care-bears.json) |
+| Rainbow Snake | 68506 | [68506-rainbow-snake.json](./68506-rainbow-snake.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
 | Rainbow Step | 67929 | [67929-rainbow-step.json](./67929-rainbow-step.json) |
 | Rainbow Story Global | 197637 | [197637-rainbow-story-global.json](./197637-rainbow-story-global.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Skarb Piratów | 82039 | [82039-reksio-i-skarb-piratow.json](./82039-reksio-i-skarb-piratow.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
+| Rekt! | 74162 | [74162-rekt.json](./74162-rekt.json) |
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
 | Rekt!: The Forge | 238027 | [238027-rekt-the-forge.json](./238027-rekt-the-forge.json) |
 | Rektangle | 11239 | [11239-rektangle.json](./11239-rektangle.json) |
@@ -7405,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rusted Awakening | 309487 | [309487-rusted-awakening.json](./309487-rusted-awakening.json) |
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
+| Rusted Warfare | 70843 | [70843-rusted-warfare.json](./70843-rusted-warfare.json) |
 | Rusthaven | 388313 | [388313-rusthaven.json](./388313-rusthaven.json) |
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
 | Rustil: Eternal Labyrinth Castle | 247984 | [247984-rustil-eternal-labyrinth-castle.json](./247984-rustil-eternal-labyrinth-castle.json) |
