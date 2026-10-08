@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ico Soccer | 269637 | [269637-ico-soccer.json](./269637-ico-soccer.json) |
 | ICO: Limited Edition | 43463 | [43463-ico-limited-edition.json](./43463-ico-limited-edition.json) |
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
+| Icon | 399909 | [399909-icon.json](./399909-icon.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Icon_Survive | 340520 | [340520-icon-survive.json](./340520-icon-survive.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
