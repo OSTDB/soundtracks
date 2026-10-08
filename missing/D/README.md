@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Village From Goblins | 153534 | [153534-defend-the-village-from-goblins.json](./153534-defend-the-village-from-goblins.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
+| Defend Your Honor | 402989 | [402989-defend-your-honor.json](./402989-defend-your-honor.json) |
 | Defend Your Kingdom | 41972 | [41972-defend-your-kingdom.json](./41972-defend-your-kingdom.json) |
 | Defend Your Life: TD | 9882 | [9882-defend-your-life-td.json](./9882-defend-your-life-td.json) |
 | Defend Your Motti | 108943 | [108943-defend-your-motti.json](./108943-defend-your-motti.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despicable Me: The Game - Minion Mayhem | 80085 | [80085-despicable-me-the-game-minion-mayhem.json](./80085-despicable-me-the-game-minion-mayhem.json) |
+| Despierta | 402878 | [402878-despierta.json](./402878-despierta.json) |
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
@@ -4854,6 +4856,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
 | Diavolo no Daibouken | 219042 | [219042-diavolo-no-daibouken.json](./219042-diavolo-no-daibouken.json) |
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
+| Dibbles 2: Winter Woes | 403112 | [403112-dibbles-2-winter-woes.json](./403112-dibbles-2-winter-woes.json) |
+| Dibbles 3: Desert Despair | 403113 | [403113-dibbles-3-desert-despair.json](./403113-dibbles-3-desert-despair.json) |
+| Dibbles Pro Pack | 403114 | [403114-dibbles-pro-pack.json](./403114-dibbles-pro-pack.json) |
 | Dice | 288365 | [288365-dice.json](./288365-dice.json) |
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
@@ -7183,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
 | Don't Pop The Balloon | 316779 | [316779-dont-pop-the-balloon.json](./316779-dont-pop-the-balloon.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
+| Don't Press The Button | 402948 | [402948-dont-press-the-button.json](./402948-dont-press-the-button.json) |
 | Don't Puke! | 295317 | [295317-dont-puke.json](./295317-dont-puke.json) |
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
 | Don’t Pull Me! | 409389 | [409389-don-t-pull-me.json](./409389-don-t-pull-me.json) |
