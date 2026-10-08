@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Derby Collection | 280230 | [280230-zombie-derby-collection.json](./280230-zombie-derby-collection.json) |
 | Zombie Derby: Pixel Survival | 169364 | [169364-zombie-derby-pixel-survival.json](./169364-zombie-derby-pixel-survival.json) |
 | Zombie Diary | 356651 | [356651-zombie-diary.json](./356651-zombie-diary.json) |
+| Zombie Diary 2: Evolution | 399880 | [399880-zombie-diary-2-evolution.json](./399880-zombie-diary-2-evolution.json) |
 | Zombie Dice | 252134 | [252134-zombie-dice.json](./252134-zombie-dice.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
