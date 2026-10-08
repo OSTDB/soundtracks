@@ -2183,6 +2183,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
+| Orb 2 | 408650 | [408650-orb-2.json](./408650-orb-2.json) |
+| Orb 2: The New Levels | 408716 | [408716-orb-2-the-new-levels.json](./408716-orb-2-the-new-levels.json) |
+| Orb 3 | 408720 | [408720-orb-3.json](./408720-orb-3.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb Devils | 239606 | [239606-orb-devils.json](./239606-orb-devils.json) |
 | Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
