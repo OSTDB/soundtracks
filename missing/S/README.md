@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
 | Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
+| Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
 | Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura High School Love Story | 299884 | [299884-sakura-high-school-love-story.json](./299884-sakura-high-school-love-story.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sword Stage | 236784 | [236784-samurai-sword-stage.json](./236784-samurai-sword-stage.json) |
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
+| Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
 | Samurai Warrior | 263464 | [263464-samurai-warrior.json](./263464-samurai-warrior.json) |
 | Samurai Warriors | 6027 | [6027-samurai-warriors.json](./6027-samurai-warriors.json) |
@@ -6986,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Run | 159047 | [159047-ski-run.json](./159047-ski-run.json) |
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
+| Ski Safari | 61082 | [61082-ski-safari.json](./61082-ski-safari.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
@@ -10050,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
 | Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
+| Sonic Jump | 64203 | [64203-sonic-jump.json](./64203-sonic-jump.json) |
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
@@ -15632,6 +15636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
+| Stone Story RPG | 56485 | [56485-stone-story-rpg.json](./56485-stone-story-rpg.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
@@ -20635,6 +20640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syder Reloaded | 131976 | [131976-syder-reloaded.json](./131976-syder-reloaded.json) |
 | Sydless | 345576 | [345576-sydless.json](./345576-sydless.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
+| Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
