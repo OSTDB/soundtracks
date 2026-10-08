@@ -2743,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
+| Nightmare Journey 1135 | 402555 | [402555-nightmare-journey-1135.json](./402555-nightmare-journey-1135.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Knock | 237518 | [237518-nightmare-knock.json](./237518-nightmare-knock.json) |
@@ -4065,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
+| Noskovrazdor | 402543 | [402543-noskovrazdor.json](./402543-noskovrazdor.json) |
 | NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
 | NoSleep: Nightmare Chronicles | 297160 | [297160-nosleep-nightmare-chronicles.json](./297160-nosleep-nightmare-chronicles.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
