@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100 Words | 365859 | [365859-100-words.json](./365859-100-words.json) |
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
+| 100 Yen Exorcist | 408725 | [408725-100-yen-exorcist.json](./408725-100-yen-exorcist.json) |
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
@@ -482,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Miami | 407529 | [407529-101-dogs-hidden-in-miami.json](./407529-101-dogs-hidden-in-miami.json) |
 | 101 Dogs Hidden in New Delhi | 407531 | [407531-101-dogs-hidden-in-new-delhi.json](./407531-101-dogs-hidden-in-new-delhi.json) |
 | 101 Dogs Hidden in New York | 407536 | [407536-101-dogs-hidden-in-new-york.json](./407536-101-dogs-hidden-in-new-york.json) |
+| 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
 | 101 Kid's Brainy Games | 180204 | [180204-101-kids-brainy-games.json](./180204-101-kids-brainy-games.json) |
