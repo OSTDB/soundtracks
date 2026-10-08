@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kuroro Edition | 225543 | [225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json](./225543-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kuroro-edition.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
+| Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
