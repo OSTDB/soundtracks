@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untergrund Raceways: Arena | 417518 | [417518-untergrund-raceways-arena.json](./417518-untergrund-raceways-arena.json) |
 | Until Dawn: Extended Edition | 42947 | [42947-until-dawn-extended-edition.json](./42947-until-dawn-extended-edition.json) |
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
+| Until Death Do We Part | 416800 | [416800-until-death-do-we-part.json](./416800-until-death-do-we-part.json) |
 | Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
