@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Breaker | 26849 | [26849-dice-breaker.json](./26849-dice-breaker.json) |
 | Dice Carnival | 406262 | [406262-dice-carnival.json](./406262-dice-carnival.json) |
+| Dice Chess | 401607 | [401607-dice-chess.json](./401607-dice-chess.json) |
 | Dice City Roller | 366417 | [366417-dice-city-roller.json](./366417-dice-city-roller.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Crypt | 266317 | [266317-dice-crypt.json](./266317-dice-crypt.json) |
@@ -9680,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
+| Drivionline | 401856 | [401856-drivionline.json](./401856-drivionline.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
