@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
 | Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
+| Tabletop Inc. | 422087 | [422087-tabletop-inc.json](./422087-tabletop-inc.json) |
 | Tabletop Simulator | 8351 | [8351-tabletop-simulator.json](./8351-tabletop-simulator.json) |
 | Tabletop Simulator: Abraca...What? | 161282 | [161282-tabletop-simulator-abraca-what.json](./161282-tabletop-simulator-abraca-what.json) |
 | Tabletop Simulator: Adventure Mart | 161291 | [161291-tabletop-simulator-adventure-mart.json](./161291-tabletop-simulator-adventure-mart.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
+| The Boba Teashop: Refill | 422103 | [422103-the-boba-teashop-refill.json](./422103-the-boba-teashop-refill.json) |
 | The Body Cam Project | 320376 | [320376-the-body-cam-project.json](./320376-the-body-cam-project.json) |
 | The Body Changer | 36203 | [36203-the-body-changer.json](./36203-the-body-changer.json) |
 | The Body Monstrous | 176502 | [176502-the-body-monstrous.json](./176502-the-body-monstrous.json) |
@@ -5430,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
 | The Faces of Evil Remastered Randomizer | 242113 | [242113-the-faces-of-evil-remastered-randomizer.json](./242113-the-faces-of-evil-remastered-randomizer.json) |
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
+| The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Fading of Nicole Wilson | 319711 | [319711-the-fading-of-nicole-wilson.json](./319711-the-fading-of-nicole-wilson.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
@@ -5576,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
 | The Final Conflict | 71745 | [71745-the-final-conflict.json](./71745-the-final-conflict.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
+| The Final Cut of Lilith Cunningham | 422135 | [422135-the-final-cut-of-lilith-cunningham.json](./422135-the-final-cut-of-lilith-cunningham.json) |
 | The Final Day of Spring | 183408 | [183408-the-final-day-of-spring.json](./183408-the-final-day-of-spring.json) |
 | The Final Days of Olin Earl | 399750 | [399750-the-final-days-of-olin-earl.json](./399750-the-final-days-of-olin-earl.json) |
 | The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
@@ -17563,6 +17567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 86012 | [86012-trauma.json](./86012-trauma.json) |
 | Trauma Center: New Blood | 1525 | [1525-trauma-center-new-blood.json](./1525-trauma-center-new-blood.json) |
 | Trauma Center: Second Opinion | 1524 | [1524-trauma-center-second-opinion.json](./1524-trauma-center-second-opinion.json) |
+| Trauma Playground | 422143 | [422143-trauma-playground.json](./422143-trauma-playground.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Traumada | 199363 | [199363-traumada.json](./199363-traumada.json) |
