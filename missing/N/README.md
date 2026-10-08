@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
+| Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
 | NecroWorm | 131969 | [131969-necroworm.json](./131969-necroworm.json) |
 | Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 3 Season Pass | 411636 | [411636-nioh-3-season-pass.json](./411636-nioh-3-season-pass.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
+| Nioh 3: Hellfrost Equipment Set | 388983 | [388983-nioh-3-hellfrost-equipment-set.json](./388983-nioh-3-hellfrost-equipment-set.json) |
 | Nioh Remastered: Complete Edition | 143349 | [143349-nioh-remastered-complete-edition.json](./143349-nioh-remastered-complete-edition.json) |
 | Nioh: Bloodshed's End | 59591 | [59591-nioh-bloodsheds-end.json](./59591-nioh-bloodsheds-end.json) |
 | Nioh: Complete Edition | 68461 | [68461-nioh-complete-edition.json](./68461-nioh-complete-edition.json) |
@@ -3347,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
 | Nitro City Racing | 397875 | [397875-nitro-city-racing.json](./397875-nitro-city-racing.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
+| Nitro Drive | 388976 | [388976-nitro-drive.json](./388976-nitro-drive.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Gen Omega | 319146 | [319146-nitro-gen-omega.json](./319146-nitro-gen-omega.json) |
 | Nitro Horizon | 412811 | [412811-nitro-horizon.json](./412811-nitro-horizon.json) |
