@@ -4298,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy: Lunar New Year | 115615 | [115615-chocolate-makes-you-happy-lunar-new-year.json](./115615-chocolate-makes-you-happy-lunar-new-year.json) |
 | Chocolate makes you happy: New Year | 112372 | [112372-chocolate-makes-you-happy-new-year.json](./112372-chocolate-makes-you-happy-new-year.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
+| Chocolate Parade | 412912 | [412912-chocolate-parade.json](./412912-chocolate-parade.json) |
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolate Shop Frenzy | 356687 | [356687-chocolate-shop-frenzy.json](./356687-chocolate-shop-frenzy.json) |
 | Chocolatic Wars | 376685 | [376685-chocolatic-wars.json](./376685-chocolatic-wars.json) |
@@ -5725,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
+| Clickbait Tycoon | 412779 | [412779-clickbait-tycoon.json](./412779-clickbait-tycoon.json) |
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | Clickbox | 132022 | [132022-clickbox.json](./132022-clickbox.json) |
 | Clickbox | 132023 | [132023-clickbox.json](./132023-clickbox.json) |
