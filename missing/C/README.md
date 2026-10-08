@@ -9093,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
+| Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps | 88483 | [88483-craps.json](./88483-craps.json) |
 | Craps at Aces Casino | 150260 | [150260-craps-at-aces-casino.json](./150260-craps-at-aces-casino.json) |
