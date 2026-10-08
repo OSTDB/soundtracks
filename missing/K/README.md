@@ -1879,6 +1879,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest V: Absence Makes The Heart Go Yonder! | 322088 | [322088-kings-quest-v-absence-makes-the-heart-go-yonder.json](./322088-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest VIII: The Mask of Eternity | 7528 | [7528-kings-quest-viii-the-mask-of-eternity.json](./7528-kings-quest-viii-the-mask-of-eternity.json) |
+| King's Quest: Chapter 3 - Once Upon A Climb | 28062 | [28062-kings-quest-chapter-3-once-upon-a-climb.json](./28062-kings-quest-chapter-3-once-upon-a-climb.json) |
+| King's Quest: Chapter 4 - Snow Place Like Home | 28064 | [28064-kings-quest-chapter-4-snow-place-like-home.json](./28064-kings-quest-chapter-4-snow-place-like-home.json) |
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
 | King's Raid | 79372 | [79372-kings-raid.json](./79372-kings-raid.json) |
 | King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
