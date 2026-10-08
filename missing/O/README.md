@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
+| Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
