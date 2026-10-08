@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
+| Ultimate Fishing Simulator | 77654 | [77654-ultimate-fishing-simulator.json](./77654-ultimate-fishing-simulator.json) |
 | Ultimate Fishing Simulator 2 | 132748 | [132748-ultimate-fishing-simulator-2.json](./132748-ultimate-fishing-simulator-2.json) |
 | Ultimate Fishing Simulator 2: Delaware Bay | 375299 | [375299-ultimate-fishing-simulator-2-delaware-bay.json](./375299-ultimate-fishing-simulator-2-delaware-bay.json) |
 | Ultimate Fishing Simulator VR: Amazon River | 161342 | [161342-ultimate-fishing-simulator-vr-amazon-river.json](./161342-ultimate-fishing-simulator-vr-amazon-river.json) |
