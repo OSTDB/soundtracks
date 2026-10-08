@@ -6959,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
 | Skara | 10833 | [10833-skara.json](./10833-skara.json) |
+| Skara | 398020 | [398020-skara.json](./398020-skara.json) |
 | Skara: The Blade Remains | 14379 | [14379-skara-the-blade-remains.json](./14379-skara-the-blade-remains.json) |
 | Skarab | 336034 | [336034-skarab.json](./336034-skarab.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
