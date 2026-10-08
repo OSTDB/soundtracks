@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
+| Taiko no Tatsujin: Pop Tap Beat | 145443 | [145443-taiko-no-tatsujin-pop-tap-beat.json](./145443-taiko-no-tatsujin-pop-tap-beat.json) |
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
 | Taiko no Tatsujin: Rhythm Festival | 191409 | [191409-taiko-no-tatsujin-rhythm-festival.json](./191409-taiko-no-tatsujin-rhythm-festival.json) |
 | Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack | 356257 | [356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json](./356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json) |
@@ -2699,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
+| Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
@@ -4338,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
+| The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
@@ -5819,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden Gate Pai Sho | 320849 | [320849-the-garden-gate-pai-sho.json](./320849-the-garden-gate-pai-sho.json) |
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
+| The Garden Path | 145482 | [145482-the-garden-path.json](./145482-the-garden-path.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
@@ -14665,6 +14669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
 | Tomb Raider IV•V•VI Remastered: Deluxe Edition | 382879 | [382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json](./382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json) |
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
+| Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
@@ -15687,6 +15692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
 | Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
+| Tour de France 2021 | 145311 | [145311-tour-de-france-2021.json](./145311-tour-de-france-2021.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
