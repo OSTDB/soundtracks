@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Absylon 7 | 165403 | [165403-absylon-7.json](./165403-absylon-7.json) |
+| Abu Batata | 411555 | [411555-abu-batata.json](./411555-abu-batata.json) |
 | Abunai Josei Shinrigaku Nyuumon | 269683 | [269683-abunai-josei-shinrigaku-nyuumon.json](./269683-abunai-josei-shinrigaku-nyuumon.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
@@ -3386,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
+| Aleryos | 411412 | [411412-aleryos.json](./411412-aleryos.json) |
 | Ales Dash | 102935 | [102935-ales-dash.json](./102935-ales-dash.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Prophecy of Perseus | 345144 | [345144-aletheia-prophecy-of-perseus.json](./345144-aletheia-prophecy-of-perseus.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bash II | 38859 | [38859-alien-bash-ii.json](./38859-alien-bash-ii.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
+| Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
@@ -8743,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterfel | 360763 | [360763-asterfel.json](./360763-asterfel.json) |
 | Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
+| Asteria: Fate of the Fallen | 411530 | [411530-asteria-fate-of-the-fallen.json](./411530-asteria-fate-of-the-fallen.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
