@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flapbound | 251094 | [251094-flapbound.json](./251094-flapbound.json) |
 | FlapDeath | 389672 | [389672-flapdeath.json](./389672-flapdeath.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
+| Flappatron | 120392 | [120392-flappatron.json](./120392-flappatron.json) |
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
@@ -6542,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Lewis Set | 335500 | [335500-free-chess-lewis-set.json](./335500-free-chess-lewis-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
+| Free Company VR | 119978 | [119978-free-company-vr.json](./119978-free-company-vr.json) |
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
