@@ -7666,6 +7666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon | 394333 | [394333-armageddon.json](./394333-armageddon.json) |
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
+| Armageddon Empires | 21281 | [21281-armageddon-empires.json](./21281-armageddon-empires.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armageddon Operation Dragon | 84978 | [84978-armageddon-operation-dragon.json](./84978-armageddon-operation-dragon.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
@@ -7990,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Boxlife | 47826 | [47826-art-style-boxlife.json](./47826-art-style-boxlife.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
+| Art Style: Orbient | 21181 | [21181-art-style-orbient.json](./21181-art-style-orbient.json) |
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
 | Art Style: Rotohex | 21177 | [21177-art-style-rotohex.json](./21177-art-style-rotohex.json) |
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
@@ -9994,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Away Team | 349503 | [349503-away-team.json](./349503-away-team.json) |
 | Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
+| Away: Shuffle Dungeon | 21332 | [21332-away-shuffle-dungeon.json](./21332-away-shuffle-dungeon.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
