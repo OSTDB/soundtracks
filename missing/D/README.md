@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Mystery | 376032 | [376032-delivery-mystery.json](./376032-delivery-mystery.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
 | Delivery Quest | 208428 | [208428-delivery-quest.json](./208428-delivery-quest.json) |
+| Delivery Service: Courier | 391697 | [391697-delivery-service-courier.json](./391697-delivery-service-courier.json) |
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Survivors | 412913 | [412913-delivery-survivors.json](./412913-delivery-survivors.json) |
@@ -6631,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
+| Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
@@ -7464,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
+| Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
 | Donuts Drift | 91087 | [91087-donuts-drift.json](./91087-donuts-drift.json) |
@@ -9381,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
 | Dreamland Confectionery | 152191 | [152191-dreamland-confectionery.json](./152191-dreamland-confectionery.json) |
 | Dreamland Defender | 83620 | [83620-dreamland-defender.json](./83620-dreamland-defender.json) |
+| Dreamland Drifter | 391707 | [391707-dreamland-drifter.json](./391707-dreamland-drifter.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamland Farm: Banner | 324443 | [324443-dreamland-farm-banner.json](./324443-dreamland-farm-banner.json) |
@@ -10503,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
 | Dungeon Gals | 316161 | [316161-dungeon-gals.json](./316161-dungeon-gals.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
+| Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
