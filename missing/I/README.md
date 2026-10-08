@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
+| In Memory of Mrs Frog | 416595 | [416595-in-memory-of-mrs-frog.json](./416595-in-memory-of-mrs-frog.json) |
 | In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In Misery: Episode 1 - The Farm | 290507 | [290507-in-misery-episode-1-the-farm.json](./290507-in-misery-episode-1-the-farm.json) |
@@ -1696,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Orbit | 114301 | [114301-in-orbit.json](./114301-in-orbit.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Other Waters: Xenobiologist Edition | 227179 | [227179-in-other-waters-xenobiologist-edition.json](./227179-in-other-waters-xenobiologist-edition.json) |
+| In Our Parlor | 416821 | [416821-in-our-parlor.json](./416821-in-our-parlor.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
