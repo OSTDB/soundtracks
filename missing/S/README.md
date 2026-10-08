@@ -4996,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinyuu no Haha Kumiko: Ana no Ichi kara Haramase Kata made Subete Kanojo ga Oshiete Kureta | 83000 | [83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json](./83000-shinyuu-no-haha-kumiko-ana-no-ichi-kara-haramase-kata-made-subete-kanojo-ga-oshiete-kureta.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
+| Shio | 31393 | [31393-shio.json](./31393-shio.json) |
 | Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
 | Shiosai no Serenade: Episode 1 | 396561 | [396561-shiosai-no-serenade-episode-1.json](./396561-shiosai-no-serenade-episode-1.json) |
@@ -12599,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
+| Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
@@ -17647,6 +17649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Bass: Dynamic Shot | 123455 | [123455-super-black-bass-dynamic-shot.json](./123455-super-black-bass-dynamic-shot.json) |
 | Super Black Bass: Real Fight | 61345 | [61345-super-black-bass-real-fight.json](./61345-super-black-bass-real-fight.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
+| Super Blackjack Battle 2 Turbo Edition - The Card Warriors | 30928 | [30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json](./30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
 | Super Block | 71182 | [71182-super-block.json](./71182-super-block.json) |
@@ -17844,6 +17847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
+| Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
 | Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
@@ -20124,6 +20128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT | 307058 | [307058-swat.json](./307058-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
+| SWAT 3: Tactical Game of the Year Edition | 30391 | [30391-swat-3-tactical-game-of-the-year-edition.json](./30391-swat-3-tactical-game-of-the-year-edition.json) |
 | SWAT 4 | 316 | [316-swat-4.json](./316-swat-4.json) |
 | SWAT 4: Elite Force | 217800 | [217800-swat-4-elite-force.json](./217800-swat-4-elite-force.json) |
 | SWAT 4: Gold Edition | 51933 | [51933-swat-4-gold-edition.json](./51933-swat-4-gold-edition.json) |
