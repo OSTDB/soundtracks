@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
 | Grisaia Phantom Trigger 5.5 | 142700 | [142700-grisaia-phantom-trigger-5-5.json](./142700-grisaia-phantom-trigger-5-5.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
+| Grisaia Phantom Trigger Vol.1 | 28300 | [28300-grisaia-phantom-trigger-vol-1.json](./28300-grisaia-phantom-trigger-vol-1.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
