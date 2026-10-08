@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
+| Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
@@ -4951,6 +4952,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
 | Shin Pokemon: Green Version | 275105 | [275105-shin-pokemon-green-version.json](./275105-shin-pokemon-green-version.json) |
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
+| Shin Rinkaiten no Azrael: Tenjoukai-hen | 394787 | [394787-shin-rinkaiten-no-azrael-tenjoukai-hen.json](./394787-shin-rinkaiten-no-azrael-tenjoukai-hen.json) |
+| Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:1 | 394788 | [394788-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-1.json](./394788-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-1.json) |
+| Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:2 | 394789 | [394789-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-2.json](./394789-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-2.json) |
+| Shin Rinkaiten no Azrael: Tenjoukai-hen - Episode:3 | 394790 | [394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json](./394790-shin-rinkaiten-no-azrael-tenjoukai-hen-episode-3.json) |
 | Shin Ruriiro no Yuki: Furimukeba Tonari ni | 167097 | [167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json](./167097-shin-ruriiro-no-yuki-furimukeba-tonari-ni.json) |
 | Shin Sangoku Musou 4 Special | 395999 | [395999-shin-sangoku-musou-4-special.json](./395999-shin-sangoku-musou-4-special.json) |
 | Shin Sangoku Musou: Multi Raid 2 | 66894 | [66894-shin-sangoku-musou-multi-raid-2.json](./66894-shin-sangoku-musou-multi-raid-2.json) |
@@ -8110,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Sloomy | 251658 | [251658-sloomy.json](./251658-sloomy.json) |
+| Slop Simulator | 394773 | [394773-slop-simulator.json](./394773-slop-simulator.json) |
 | Slope | 101945 | [101945-slope.json](./101945-slope.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slope Car | 238989 | [238989-slope-car.json](./238989-slope-car.json) |
@@ -8966,6 +8972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Fever: Elite Edition | 404285 | [404285-snooker-fever-elite-edition.json](./404285-snooker-fever-elite-edition.json) |
 | Snooker Fever: Premium Edition | 333722 | [333722-snooker-fever-premium-edition.json](./333722-snooker-fever-premium-edition.json) |
 | Snooker Fever: Upgrade Edition | 399828 | [399828-snooker-fever-upgrade-edition.json](./399828-snooker-fever-upgrade-edition.json) |
+| Snooker Fever: Value Edition | 394756 | [394756-snooker-fever-value-edition.json](./394756-snooker-fever-value-edition.json) |
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
 | Snooker Loopy Pro | 159646 | [159646-snooker-loopy-pro.json](./159646-snooker-loopy-pro.json) |
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
@@ -12219,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
+| Special Force Alpha | 394786 | [394786-special-force-alpha.json](./394786-special-force-alpha.json) |
 | Special Force M: Remastered | 223907 | [223907-special-force-m-remastered.json](./223907-special-force-m-remastered.json) |
 | Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
@@ -18419,6 +18427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hind | 44475 | [44475-super-hind.json](./44475-super-hind.json) |
 | Super Hipster Lumberjack | 34800 | [34800-super-hipster-lumberjack.json](./34800-super-hipster-lumberjack.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
+| Super Holo Wars | 394807 | [394807-super-holo-wars.json](./394807-super-holo-wars.json) |
 | Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
 | Super Hoodie Bros | 378771 | [378771-super-hoodie-bros.json](./378771-super-hoodie-bros.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
