@@ -6100,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
 | Another Super Mario Bros. Wii | 132850 | [132850-another-super-mario-bros-wii.json](./132850-another-super-mario-bros-wii.json) |
 | Another Super Mario Bros. Wii Deluxe | 394342 | [394342-another-super-mario-bros-wii-deluxe.json](./394342-another-super-mario-bros-wii-deluxe.json) |
+| Another TD | 391759 | [391759-another-td.json](./391759-another-td.json) |
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Timeless Night | 270700 | [270700-another-timeless-night.json](./270700-another-timeless-night.json) |
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
@@ -9178,6 +9179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronomica: The Quest for the Edge of the Universe | 71538 | [71538-astronomica-the-quest-for-the-edge-of-the-universe.json](./71538-astronomica-the-quest-for-the-edge-of-the-universe.json) |
 | Astronomicon | 321527 | [321527-astronomicon.json](./321527-astronomicon.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
+| Astronomy Lab on PC | 391692 | [391692-astronomy-lab-on-pc.json](./391692-astronomy-lab-on-pc.json) |
 | Astronot | 22270 | [22270-astronot.json](./22270-astronot.json) |
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
@@ -9858,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
 | Auto Defense | 256249 | [256249-auto-defense.json](./256249-auto-defense.json) |
+| Auto Derby Casino | 391770 | [391770-auto-derby-casino.json](./391770-auto-derby-casino.json) |
 | Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
