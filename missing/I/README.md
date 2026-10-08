@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Intelligence | 101708 | [101708-idle-intelligence.json](./101708-idle-intelligence.json) |
 | Idle Intergalactic Factory | 221127 | [221127-idle-intergalactic-factory.json](./221127-idle-intergalactic-factory.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
+| Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Knights | 220174 | [220174-idle-knights.json](./220174-idle-knights.json) |
@@ -1515,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
+| Immotro | 405432 | [405432-immotro.json](./405432-immotro.json) |
 | Immune Attack | 366828 | [366828-immune-attack.json](./366828-immune-attack.json) |
 | Immune Simulator | 264057 | [264057-immune-simulator.json](./264057-immune-simulator.json) |
 | Immune Simulator Type Z | 265345 | [265345-immune-simulator-type-z.json](./265345-immune-simulator-type-z.json) |
