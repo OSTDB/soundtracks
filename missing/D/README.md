@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
 | Deflectorium | 293860 | [293860-deflectorium.json](./293860-deflectorium.json) |
+| Deflektor | 12042 | [12042-deflektor.json](./12042-deflektor.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex / ROX | 315624 | [315624-deflex-rox.json](./315624-deflex-rox.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
@@ -3719,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
 | Den-ou Suikoden | 91947 | [91947-den-ou-suikoden.json](./91947-den-ou-suikoden.json) |
 | Den' Rozhdeniya 2 | 336609 | [336609-den-rozhdeniya-2.json](./336609-den-rozhdeniya-2.json) |
+| Denaris | 12047 | [12047-denaris.json](./12047-denaris.json) |
 | Denarius | 52752 | [52752-denarius.json](./52752-denarius.json) |
 | Denarius Avaricius Sextus | 85730 | [85730-denarius-avaricius-sextus.json](./85730-denarius-avaricius-sextus.json) |
 | Denbora | 326067 | [326067-denbora.json](./326067-denbora.json) |
@@ -10139,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpy: Going Elephants! | 229806 | [229806-dumpy-going-elephants.json](./229806-dumpy-going-elephants.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
+| Dun Darach | 12578 | [12578-dun-darach.json](./12578-dun-darach.json) |
 | Dunc's Algomusic | 177441 | [177441-duncs-algomusic.json](./177441-duncs-algomusic.json) |
 | Duncade | 217305 | [217305-duncade.json](./217305-duncade.json) |
 | Duncan and Katy | 61112 | [61112-duncan-and-katy.json](./61112-duncan-and-katy.json) |
