@@ -8611,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
+| Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
