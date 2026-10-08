@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
+| Eggconsole Hercules PC-8801mkIISR | 402573 | [402573-eggconsole-hercules-pc-8801mkiisr.json](./402573-eggconsole-hercules-pc-8801mkiisr.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
 | Eggconsole Kohakuiro no Yuigon PC-8801mkIISR | 393629 | [393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json](./393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
+| Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
@@ -1705,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Fire Response | 22633 | [22633-emergency-fire-response.json](./22633-emergency-fire-response.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
+| Emergency Riot Response | 402562 | [402562-emergency-riot-response.json](./402562-emergency-riot-response.json) |
 | Emergency Robot Simulator | 102183 | [102183-emergency-robot-simulator.json](./102183-emergency-robot-simulator.json) |
 | Emergency Room | 73861 | [73861-emergency-room.json](./73861-emergency-room.json) |
 | Emergency Room 3 | 73315 | [73315-emergency-room-3.json](./73315-emergency-room-3.json) |
@@ -2427,8 +2430,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 285026 | [285026-entropy.json](./285026-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
 | Entropy | 402532 | [402532-entropy.json](./402532-entropy.json) |
+| Entropy | 402533 | [402533-entropy.json](./402533-entropy.json) |
+| Entropy | 402534 | [402534-entropy.json](./402534-entropy.json) |
+| Entropy | 402536 | [402536-entropy.json](./402536-entropy.json) |
+| Entropy | 402537 | [402537-entropy.json](./402537-entropy.json) |
 | Entropy 2120 | 87971 | [87971-entropy-2120.json](./87971-entropy-2120.json) |
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
+| Entropy Scramble: Cats Doing Science! | 402535 | [402535-entropy-scramble-cats-doing-science.json](./402535-entropy-scramble-cats-doing-science.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entropy's Fall | 27592 | [27592-entropys-fall.json](./27592-entropys-fall.json) |
