@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmageddon: TDR 2000 | 246896 | [246896-carmageddon-tdr-2000.json](./246896-carmageddon-tdr-2000.json) |
+| CarMarket | 412224 | [412224-carmarket.json](./412224-carmarket.json) |
 | Carmen Sandiego | 316681 | [316681-carmen-sandiego.json](./316681-carmen-sandiego.json) |
 | Carmen Sandiego Adventures in Math: The Big Ben Burglary | 51078 | [51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json](./51078-carmen-sandiego-adventures-in-math-the-big-ben-burglary.json) |
 | Carmen Sandiego Adventures in Math: The Great Gateway Grab | 51080 | [51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json](./51080-carmen-sandiego-adventures-in-math-the-great-gateway-grab.json) |
@@ -4768,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronophobia | 344430 | [344430-chronophobia.json](./344430-chronophobia.json) |
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
 | Chronoquartz | 344500 | [344500-chronoquartz.json](./344500-chronoquartz.json) |
+| ChronoQuest VR | 412200 | [412200-chronoquest-vr.json](./412200-chronoquest-vr.json) |
 | Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
@@ -7489,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
 | Conan: Hall of Volta | 25820 | [25820-conan-hall-of-volta.json](./25820-conan-hall-of-volta.json) |
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
+| Conatus: Forgotten Depths | 412216 | [412216-conatus-forgotten-depths.json](./412216-conatus-forgotten-depths.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
 | Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
@@ -8065,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Store | 150282 | [150282-cookie-store.json](./150282-cookie-store.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
+| CookieRun: Crumble - Idle RPG | 412209 | [412209-cookierun-crumble-idle-rpg.json](./412209-cookierun-crumble-idle-rpg.json) |
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
@@ -8534,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
 | Cosmic Security | 191051 | [191051-cosmic-security.json](./191051-cosmic-security.json) |
+| Cosmic Shenanigans | 412208 | [412208-cosmic-shenanigans.json](./412208-cosmic-shenanigans.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
@@ -9013,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crabs | 362816 | [362816-crabs.json](./362816-crabs.json) |
 | Crabs | 375338 | [375338-crabs.json](./375338-crabs.json) |
+| Crabs & Cocktails | 412211 | [412211-crabs-and-cocktails.json](./412211-crabs-and-cocktails.json) |
 | Crabs Dive In Crossway | 385830 | [385830-crabs-dive-in-crossway.json](./385830-crabs-dive-in-crossway.json) |
 | Crabs Must Die! | 373019 | [373019-crabs-must-die.json](./373019-crabs-must-die.json) |
 | Crabs: Sponge's Neighbor | 326702 | [326702-crabs-sponges-neighbor.json](./326702-crabs-sponges-neighbor.json) |
@@ -11181,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Pirates | 361856 | [361856-curse-of-pirates.json](./361856-curse-of-pirates.json) |
 | Curse of Resthaven | 391801 | [391801-curse-of-resthaven.json](./391801-curse-of-resthaven.json) |
 | Curse of Silence | 385753 | [385753-curse-of-silence.json](./385753-curse-of-silence.json) |
+| Curse of the Abandoned Floor | 412198 | [412198-curse-of-the-abandoned-floor.json](./412198-curse-of-the-abandoned-floor.json) |
 | Curse of the Abyss | 370919 | [370919-curse-of-the-abyss.json](./370919-curse-of-the-abyss.json) |
 | Curse of the Amethyst Skull | 364568 | [364568-curse-of-the-amethyst-skull.json](./364568-curse-of-the-amethyst-skull.json) |
 | Curse of the Arrow | 184410 | [184410-curse-of-the-arrow.json](./184410-curse-of-the-arrow.json) |
