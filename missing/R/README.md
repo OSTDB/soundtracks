@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
 | Ranbu: Sangokushi Rumble | 231989 | [231989-ranbu-sangokushi-rumble.json](./231989-ranbu-sangokushi-rumble.json) |
 | Rance 01: Quest for Hikari | 132708 | [132708-rance-01-quest-for-hikari.json](./132708-rance-01-quest-for-hikari.json) |
+| Rance 02 | 390095 | [390095-rance-02.json](./390095-rance-02.json) |
 | Rance 02: The Rebellious Maidens | 132709 | [132709-rance-02-the-rebellious-maidens.json](./132709-rance-02-the-rebellious-maidens.json) |
 | Rance 03: The Fall of Leazas | 132710 | [132710-rance-03-the-fall-of-leazas.json](./132710-rance-03-the-fall-of-leazas.json) |
 | Rance 4.1: Okusuri Koujou wo Sukue! | 132638 | [132638-rance-4-1-okusuri-koujou-wo-sukue.json](./132638-rance-4-1-okusuri-koujou-wo-sukue.json) |
@@ -3168,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue from Atlantis | 71751 | [71751-rescue-from-atlantis.json](./71751-rescue-from-atlantis.json) |
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
+| Rescue Helicopter | 390166 | [390166-rescue-helicopter.json](./390166-rescue-helicopter.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
 | Rescue Heroes: Hurricane Havoc | 66337 | [66337-rescue-heroes-hurricane-havoc.json](./66337-rescue-heroes-hurricane-havoc.json) |
 | Rescue Heroes: Lava Landslide | 209433 | [209433-rescue-heroes-lava-landslide.json](./209433-rescue-heroes-lava-landslide.json) |
@@ -4804,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
+| Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
@@ -4833,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rittai Ninja Katsugeki Tenchu: Shinobi Gaisen | 64910 | [64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json](./64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
+| Ritterorden | 390083 | [390083-ritterorden.json](./390083-ritterorden.json) |
 | Ritterschlag | 398452 | [398452-ritterschlag.json](./398452-ritterschlag.json) |
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
