@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
+| PentaPip | 412805 | [412805-pentapip.json](./412805-pentapip.json) |
 | Pentapus | 292099 | [292099-pentapus.json](./292099-pentapus.json) |
 | Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
@@ -4105,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
+| Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
@@ -4180,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Haze 2 | 98006 | [98006-pink-haze-2.json](./98006-pink-haze-2.json) |
 | Pink Heaven | 34289 | [34289-pink-heaven.json](./34289-pink-heaven.json) |
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
+| Pink Light | 412897 | [412897-pink-light.json](./412897-pink-light.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
