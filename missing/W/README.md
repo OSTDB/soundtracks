@@ -2940,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Your Daddy | 15746 | [15746-whos-your-daddy.json](./15746-whos-your-daddy.json) |
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
+| Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Whomper Stomper | 54934 | [54934-whomper-stomper.json](./54934-whomper-stomper.json) |
@@ -4637,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
 | Wordmaster | 92670 | [92670-wordmaster.json](./92670-wordmaster.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
+| Wordomi | 387505 | [387505-wordomi.json](./387505-wordomi.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
 | Wordplay | 45899 | [45899-wordplay.json](./45899-wordplay.json) |
 | WordPlus: Unique Word Game | 232063 | [232063-wordplus-unique-word-game.json](./232063-wordplus-unique-word-game.json) |
@@ -5506,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTC: Love's Labour's Lost | 216817 | [216817-wtc-loves-labours-lost.json](./216817-wtc-loves-labours-lost.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
+| WTC: The Manchester Report | 387490 | [387490-wtc-the-manchester-report.json](./387490-wtc-the-manchester-report.json) |
 | WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
