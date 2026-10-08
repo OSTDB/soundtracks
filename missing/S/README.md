@@ -13540,6 +13540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Runner | 198238 | [198238-square-runner.json](./198238-square-runner.json) |
 | Square Saga: The Trials | 296469 | [296469-square-saga-the-trials.json](./296469-square-saga-the-trials.json) |
+| Square Seller! | 416586 | [416586-square-seller.json](./416586-square-seller.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
@@ -15528,6 +15529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steppy Pants | 57944 | [57944-steppy-pants.json](./57944-steppy-pants.json) |
 | Stepsister Shock! | 206028 | [206028-stepsister-shock.json](./206028-stepsister-shock.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
+| Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
@@ -17079,6 +17081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
+| Succupie: An Erotic Short Story | 416613 | [416613-succupie-an-erotic-short-story.json](./416613-succupie-an-erotic-short-story.json) |
 | Such a guy | 374236 | [374236-such-a-guy.json](./374236-such-a-guy.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
