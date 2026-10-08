@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
+| Jewel Quest: Seven Seas | 87106 | [87106-jewel-quest-seven-seas.json](./87106-jewel-quest-seven-seas.json) |
 | Jewel Quest: Seven Seas - Collector's Edition | 31047 | [31047-jewel-quest-seven-seas-collectors-edition.json](./31047-jewel-quest-seven-seas-collectors-edition.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 363034 | [363034-jump.json](./363034-jump.json) |
 | Jump 'n Bump | 19226 | [19226-jump-n-bump.json](./19226-jump-n-bump.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
+| Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump Among Stars | 211828 | [211828-jump-among-stars.json](./211828-jump-among-stars.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
