@@ -3575,6 +3575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
 | Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
+| Max's Adventures: Summer Edition | 390077 | [390077-maxs-adventures-summer-edition.json](./390077-maxs-adventures-summer-edition.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Max's Tales | 255151 | [255151-maxs-tales.json](./255151-maxs-tales.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
 | Maze with Cube | 146775 | [146775-maze-with-cube.json](./146775-maze-with-cube.json) |
 | Maze Workout: Lost Urban Exit Game - Trials2 | 394432 | [394432-maze-workout-lost-urban-exit-game-trials2.json](./394432-maze-workout-lost-urban-exit-game-trials2.json) |
+| Maze Workout: Urban Lost Solo Car Racer | 390167 | [390167-maze-workout-urban-lost-solo-car-racer.json](./390167-maze-workout-urban-lost-solo-car-racer.json) |
 | Maze Zen | 175296 | [175296-maze-zen.json](./175296-maze-zen.json) |
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
@@ -11329,6 +11331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
+| Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
