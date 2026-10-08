@@ -8756,6 +8756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
+| The Paths We Cross | 392239 | [392239-the-paths-we-cross.json](./392239-the-paths-we-cross.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
 | The Patrician | 7353 | [7353-the-patrician.json](./7353-the-patrician.json) |
@@ -11994,6 +11995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Next Time | 197272 | [197272-this-next-time.json](./197272-this-next-time.json) |
 | This Onion | 271243 | [271243-this-onion.json](./271243-this-onion.json) |
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
+| This Place at the End: An Apocalyptic RPG | 392226 | [392226-this-place-at-the-end-an-apocalyptic-rpg.json](./392226-this-place-at-the-end-an-apocalyptic-rpg.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Ship Goes Brrr | 366339 | [366339-this-ship-goes-brrr.json](./366339-this-ship-goes-brrr.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
@@ -12119,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
 | Three Kingdoms Battle Chess | 288441 | [288441-three-kingdoms-battle-chess.json](./288441-three-kingdoms-battle-chess.json) |
+| Three Kingdoms Club Manager | 392310 | [392310-three-kingdoms-club-manager.json](./392310-three-kingdoms-club-manager.json) |
 | Three Kingdoms Fantasy: Miss Meng and the Explosive Boy | 128328 | [128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json](./128328-three-kingdoms-fantasy-miss-meng-and-the-explosive-boy.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
@@ -13760,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timefract | 421320 | [421320-timefract.json](./421320-timefract.json) |
 | Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
+| Timeheist | 392229 | [392229-timeheist.json](./392229-timeheist.json) |
 | TimeK | 244179 | [244179-timek.json](./244179-timek.json) |
 | Timekeepers | 69586 | [69586-timekeepers.json](./69586-timekeepers.json) |
 | Timekeepers Battleground | 236403 | [236403-timekeepers-battleground.json](./236403-timekeepers-battleground.json) |
@@ -13974,6 +13978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
+| Tiny Hoops: Idle Shooter | 392304 | [392304-tiny-hoops-idle-shooter.json](./392304-tiny-hoops-idle-shooter.json) |
 | Tiny House | 182858 | [182858-tiny-house.json](./182858-tiny-house.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
 | Tiny Hunter | 154080 | [154080-tiny-hunter.json](./154080-tiny-hunter.json) |
@@ -19702,6 +19707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
+| Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
