@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endangered Proposition | 119599 | [119599-endangered-proposition.json](./119599-endangered-proposition.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
+| EndCycle VS | 112819 | [112819-endcycle-vs.json](./112819-endcycle-vs.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erogods: Mirage | 294823 | [294823-erogods-mirage.json](./294823-erogods-mirage.json) |
 | Erogods: Olympus | 275043 | [275043-erogods-olympus.json](./275043-erogods-olympus.json) |
 | Erogods: Sunrise | 312085 | [312085-erogods-sunrise.json](./312085-erogods-sunrise.json) |
+| Erolyn Chan Fight | 113174 | [113174-erolyn-chan-fight.json](./113174-erolyn-chan-fight.json) |
 | Eronoctosis: Put Yourself Together | 163899 | [163899-eronoctosis-put-yourself-together.json](./163899-eronoctosis-put-yourself-together.json) |
 | Erophone | 156555 | [156555-erophone.json](./156555-erophone.json) |
 | Erophone:Re | 239715 | [239715-erophone-re.json](./239715-erophone-re.json) |
@@ -3022,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
+| Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
@@ -3724,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
+| Event-D | 113016 | [113016-event-d.json](./113016-event-d.json) |
 | Event[0] | 18397 | [18397-event-0.json](./18397-event-0.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
