@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
 | Factory Balls 4 | 225279 | [225279-factory-balls-4.json](./225279-factory-balls-4.json) |
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
+| Factory Balls Go! | 402559 | [402559-factory-balls-go.json](./402559-factory-balls-go.json) |
 | Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
@@ -3720,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Hooks | 299867 | [299867-fish-hooks.json](./299867-fish-hooks.json) |
 | Fish Hunters: The Most Ridiculous Fishing Simulator | 337714 | [337714-fish-hunters-the-most-ridiculous-fishing-simulator.json](./337714-fish-hunters-the-most-ridiculous-fishing-simulator.json) |
 | Fish Idle 2: Underwater Mystery | 304607 | [304607-fish-idle-2-underwater-mystery.json](./304607-fish-idle-2-underwater-mystery.json) |
+| Fish In | 402572 | [402572-fish-in.json](./402572-fish-in.json) |
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Kisser | 410893 | [410893-fish-kisser.json](./410893-fish-kisser.json) |
@@ -8105,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
 | Fuzion Frenzy | 5842 | [5842-fuzion-frenzy.json](./5842-fuzion-frenzy.json) |
 | Fuzoku Frame | 368118 | [368118-fuzoku-frame.json](./368118-fuzoku-frame.json) |
+| Fuzoroi no Lemon | 402552 | [402552-fuzoroi-no-lemon.json](./402552-fuzoroi-no-lemon.json) |
 | Fuzz | 240718 | [240718-fuzz.json](./240718-fuzz.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | FuzzBall | 140938 | [140938-fuzzball.json](./140938-fuzzball.json) |
