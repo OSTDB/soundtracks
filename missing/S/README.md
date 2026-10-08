@@ -5445,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotengai 10 | 287716 | [287716-shotengai-10.json](./287716-shotengai-10.json) |
+| Shotest Shogi | 21803 | [21803-shotest-shogi.json](./21803-shotest-shogi.json) |
 | Shotguana | 337307 | [337307-shotguana.json](./337307-shotguana.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
@@ -5764,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
 | Sid Meier's Civilization III: Play the World | 10831 | [10831-sid-meiers-civilization-iii-play-the-world.json](./10831-sid-meiers-civilization-iii-play-the-world.json) |
+| Sid Meier's Civilization IV: Gold Edition | 21856 | [21856-sid-meiers-civilization-iv-gold-edition.json](./21856-sid-meiers-civilization-iv-gold-edition.json) |
 | Sid Meier's Civilization IV: Warlords | 865 | [865-sid-meiers-civilization-iv-warlords.json](./865-sid-meiers-civilization-iv-warlords.json) |
 | Sid Meier's Civilization Revolution | 2152 | [2152-sid-meiers-civilization-revolution.json](./2152-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
@@ -8556,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
+| Snakeball | 21881 | [21881-snakeball.json](./21881-snakeball.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
@@ -9671,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice Chronicles: MIA | 27381 | [27381-solstice-chronicles-mia.json](./27381-solstice-chronicles-mia.json) |
 | Solstice: Digital Collector's Edition | 154447 | [154447-solstice-digital-collectors-edition.json](./154447-solstice-digital-collectors-edition.json) |
 | Solstride | 381210 | [381210-solstride.json](./381210-solstride.json) |
+| Soltrio Solitaire | 21831 | [21831-soltrio-solitaire.json](./21831-soltrio-solitaire.json) |
 | Soltys | 93179 | [93179-soltys.json](./93179-soltys.json) |
 | Soluble Dream | 259591 | [259591-soluble-dream.json](./259591-soluble-dream.json) |
 | Solune | 272359 | [272359-solune.json](./272359-solune.json) |
@@ -11362,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Evolution | 42761 | [42761-space-invaders-evolution.json](./42761-space-invaders-evolution.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
+| Space Invaders Get Even | 21789 | [21789-space-invaders-get-even.json](./21789-space-invaders-get-even.json) |
 | Space Invaders II | 46839 | [46839-space-invaders-ii.json](./46839-space-invaders-ii.json) |
 | Space Invaders Micro Player | 229786 | [229786-space-invaders-micro-player.json](./229786-space-invaders-micro-player.json) |
 | Space Invaders Mini Electronic | 198898 | [198898-space-invaders-mini-electronic.json](./198898-space-invaders-mini-electronic.json) |
@@ -17913,6 +17918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Dash Ball | 286634 | [286634-super-dash-ball.json](./286634-super-dash-ball.json) |
 | Super Dashmatch | 95586 | [95586-super-dashmatch.json](./95586-super-dashmatch.json) |
+| Super Dead Rising 3 Arcade Remix | 21879 | [21879-super-dead-rising-3-arcade-remix.json](./21879-super-dead-rising-3-arcade-remix.json) |
 | Super Death Arena | 30126 | [30126-super-death-arena.json](./30126-super-death-arena.json) |
 | Super Demo World: The Legend Continues | 198224 | [198224-super-demo-world-the-legend-continues.json](./198224-super-demo-world-the-legend-continues.json) |
 | Super Destronaut | 31859 | [31859-super-destronaut.json](./31859-super-destronaut.json) |
