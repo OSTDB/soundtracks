@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
 | Incision | 166062 | [166062-incision.json](./166062-incision.json) |
+| Inclement | 113073 | [113073-inclement.json](./113073-inclement.json) |
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
 | Incline: Railway of Devil's Valley | 294299 | [294299-incline-railway-of-devils-valley.json](./294299-incline-railway-of-devils-valley.json) |
 | Incoboto Mini | 41511 | [41511-incoboto-mini.json](./41511-incoboto-mini.json) |
