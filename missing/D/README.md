@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
+| Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Man | 102163 | [102163-dawn-of-man.json](./102163-dawn-of-man.json) |
 | Dawn of Marionette | 259754 | [259754-dawn-of-marionette.json](./259754-dawn-of-marionette.json) |
@@ -6009,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Disparity | 68495 | [68495-disparity.json](./68495-disparity.json) |
 | Dispatch | 339997 | [339997-dispatch.json](./339997-dispatch.json) |
+| Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
