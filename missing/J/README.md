@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
 | Jet Impulse | 72952 | [72952-jet-impulse.json](./72952-jet-impulse.json) |
 | Jet Island | 29588 | [29588-jet-island.json](./29588-jet-island.json) |
+| Jet Kave Adventure | 120288 | [120288-jet-kave-adventure.json](./120288-jet-kave-adventure.json) |
 | Jet Li: Rise to Honor | 22281 | [22281-jet-li-rise-to-honor.json](./22281-jet-li-rise-to-honor.json) |
 | Jet Moto 2 | 287885 | [287885-jet-moto-2.json](./287885-jet-moto-2.json) |
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Back to Dreamspace | 394470 | [394470-journey-back-to-dreamspace.json](./394470-journey-back-to-dreamspace.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
+| Journey For Elysium | 120758 | [120758-journey-for-elysium.json](./120758-journey-for-elysium.json) |
 | Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
 | Journey of a Roach | 9000 | [9000-journey-of-a-roach.json](./9000-journey-of-a-roach.json) |
