@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Farewell, Rayashki | 340220 | [340220-reverse-1999-farewell-rayashki.json](./340220-reverse-1999-farewell-rayashki.json) |
 | Reverse 1999: Floor it! To the Golden City | 343345 | [343345-reverse-1999-floor-it-to-the-golden-city.json](./343345-reverse-1999-floor-it-to-the-golden-city.json) |
 | Reverse 1999: Folie et Déraison | 343912 | [343912-reverse-1999-folie-et-deraison.json](./343912-reverse-1999-folie-et-deraison.json) |
+| Reverse 1999: Last and First Principles | 412819 | [412819-reverse-1999-last-and-first-principles.json](./412819-reverse-1999-last-and-first-principles.json) |
 | Reverse 1999: Last Evenings on Earth | 343349 | [343349-reverse-1999-last-evenings-on-earth.json](./343349-reverse-1999-last-evenings-on-earth.json) |
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
 | Reverse 1999: Paradise Regained | 367005 | [367005-reverse-1999-paradise-regained.json](./367005-reverse-1999-paradise-regained.json) |
