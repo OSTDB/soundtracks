@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Club: Ayame | 259153 | [259153-waifu-club-ayame.json](./259153-waifu-club-ayame.json) |
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
+| Waifu Covered 2: Censored Edition | 392892 | [392892-waifu-covered-2-censored-edition.json](./392892-waifu-covered-2-censored-edition.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
 | Waifu Hunter: Episode 1 - The Runaway Samurai | 110541 | [110541-waifu-hunter-episode-1-the-runaway-samurai.json](./110541-waifu-hunter-episode-1-the-runaway-samurai.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarTorn | 179473 | [179473-wartorn.json](./179473-wartorn.json) |
 | WarTorn | 94337 | [94337-wartorn.json](./94337-wartorn.json) |
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
+| Wartune Ultra | 392881 | [392881-wartune-ultra.json](./392881-wartune-ultra.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
@@ -5224,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
 | Worm Game | 278101 | [278101-worm-game.json](./278101-worm-game.json) |
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
+| Worm in Horror Place | 392856 | [392856-worm-in-horror-place.json](./392856-worm-in-horror-place.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Worm Run | 196173 | [196173-worm-run.json](./196173-worm-run.json) |
