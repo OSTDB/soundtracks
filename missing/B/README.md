@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
+| Bad Capybara | 410831 | [410831-bad-capybara.json](./410831-bad-capybara.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Cat Angry Granny | 391256 | [391256-bad-cat-angry-granny.json](./391256-bad-cat-angry-granny.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
@@ -601,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BAFL: Brakes Are For Losers | 44740 | [44740-bafl-brakes-are-for-losers.json](./44740-bafl-brakes-are-for-losers.json) |
 | Bag Closure | 137975 | [137975-bag-closure.json](./137975-bag-closure.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
+| Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
@@ -7368,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
+| Bone Marrow 2 | 410830 | [410830-bone-marrow-2.json](./410830-bone-marrow-2.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Meal | 294366 | [294366-bone-meal.json](./294366-bone-meal.json) |
 | Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
@@ -8085,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Deluxe Edition | 288285 | [288285-bowling-fever-deluxe-edition.json](./288285-bowling-fever-deluxe-edition.json) |
 | Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
+| Bowling Fever: Hyper Edition | 410853 | [410853-bowling-fever-hyper-edition.json](./410853-bowling-fever-hyper-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
