@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
+| Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
@@ -6993,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
+| Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
 | Combat Racers | 33461 | [33461-combat-racers.json](./33461-combat-racers.json) |
 | Combat Rally | 326213 | [326213-combat-rally.json](./326213-combat-rally.json) |
@@ -7207,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Sniper Counter Strike | 28212 | [28212-commando-sniper-counter-strike.json](./28212-commando-sniper-counter-strike.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
 | Commando Xenidis | 93355 | [93355-commando-xenidis.json](./93355-commando-xenidis.json) |
+| Commando: Steel Disaster | 21272 | [21272-commando-steel-disaster.json](./21272-commando-steel-disaster.json) |
 | Commandos 2 & 3: HD Remaster Double Pack | 212870 | [212870-commandos-2-and-3-hd-remaster-double-pack.json](./212870-commandos-2-and-3-hd-remaster-double-pack.json) |
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
 | Commandos 2: HD Remaster | 119381 | [119381-commandos-2-hd-remaster.json](./119381-commandos-2-hd-remaster.json) |
@@ -9726,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Stories: Presumed Partners | 417709 | [417709-criminal-stories-presumed-partners.json](./417709-criminal-stories-presumed-partners.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
+| Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
