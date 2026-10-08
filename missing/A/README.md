@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.C.E | 338346 | [338346-a-c-e.json](./338346-a-c-e.json) |
+| A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
 | A.D. 2083 | 46766 | [46766-a-d-2083.json](./46766-a-d-2083.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acolyte Fight! | 112251 | [112251-acolyte-fight.json](./112251-acolyte-fight.json) |
 | Aconitum | 379468 | [379468-aconitum.json](./379468-aconitum.json) |
 | Acorn Assault: Rodent Revolution | 21991 | [21991-acorn-assault-rodent-revolution.json](./21991-acorn-assault-rodent-revolution.json) |
+| Acorn Avengers | 407281 | [407281-acorn-avengers.json](./407281-acorn-avengers.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
@@ -2580,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
+| Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
@@ -3504,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alibito | 412444 | [412444-alibito.json](./412444-alibito.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
+| Alice and the Devil's Prison | 406645 | [406645-alice-and-the-devils-prison.json](./406645-alice-and-the-devils-prison.json) |
 | Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
 | Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Clancy's Shattered Dimensions | 279076 | [279076-alice-clancys-shattered-dimensions.json](./279076-alice-clancys-shattered-dimensions.json) |
@@ -6830,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
+| Arcade Archives 2: Space Cyclone | 407268 | [407268-arcade-archives-2-space-cyclone.json](./407268-arcade-archives-2-space-cyclone.json) |
 | Arcade Archives 2: Syvalion | 410363 | [410363-arcade-archives-2-syvalion.json](./410363-arcade-archives-2-syvalion.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives 2: The Outfoxies | 382963 | [382963-arcade-archives-2-the-outfoxies.json](./382963-arcade-archives-2-the-outfoxies.json) |
@@ -9186,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
+| At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
 | At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
