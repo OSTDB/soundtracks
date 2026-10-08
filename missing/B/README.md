@@ -5338,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Alchemist | 397250 | [397250-blackjack-alchemist.json](./397250-blackjack-alchemist.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
 | Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
+| Blackjack Bailey VR | 28317 | [28317-blackjack-bailey-vr.json](./28317-blackjack-bailey-vr.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Carnival | 366408 | [366408-blackjack-carnival.json](./366408-blackjack-carnival.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
@@ -9792,6 +9793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
+| Bullet Sorrow VR | 28172 | [28172-bullet-sorrow-vr.json](./28172-bullet-sorrow-vr.json) |
 | Bullet Soul | 27677 | [27677-bullet-soul.json](./27677-bullet-soul.json) |
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
@@ -9976,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
 | Bunny Hop | 90197 | [90197-bunny-hop.json](./90197-bunny-hop.json) |
 | Bunny Hop Hop | 345078 | [345078-bunny-hop-hop.json](./345078-bunny-hop-hop.json) |
+| Bunny Hop League | 28307 | [28307-bunny-hop-league.json](./28307-bunny-hop-league.json) |
 | Bunny Hop League: Map Pack 1 | 226275 | [226275-bunny-hop-league-map-pack-1.json](./226275-bunny-hop-league-map-pack-1.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
