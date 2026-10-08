@@ -3164,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reseed | 372063 | [372063-reseed.json](./372063-reseed.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reservoir Dogs | 6003 | [6003-reservoir-dogs.json](./6003-reservoir-dogs.json) |
+| Reservoir Dogs: Bloody Days | 27728 | [27728-reservoir-dogs-bloody-days.json](./27728-reservoir-dogs-bloody-days.json) |
 | Reset | 15831 | [15831-reset.json](./15831-reset.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
@@ -4626,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise to Surface | 243092 | [243092-rise-to-surface.json](./243092-rise-to-surface.json) |
 | Rise Up | 95131 | [95131-rise-up.json](./95131-rise-up.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
+| Rise: Race the Future | 27378 | [27378-rise-race-the-future.json](./27378-rise-race-the-future.json) |
 | RiseExplosion | 302433 | [302433-riseexplosion.json](./302433-riseexplosion.json) |
 | Risen | 226682 | [226682-risen.json](./226682-risen.json) |
 | Risen | 2444 | [2444-risen.json](./2444-risen.json) |
@@ -4750,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
+| Rituals | 27264 | [27264-rituals.json](./27264-rituals.json) |
 | Rituals of Demons | 405698 | [405698-rituals-of-demons.json](./405698-rituals-of-demons.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
@@ -5480,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Whiplash | 279244 | [279244-rocket-league-whiplash.json](./279244-rocket-league-whiplash.json) |
 | Rocket Lift | 255178 | [255178-rocket-lift.json](./255178-rocket-lift.json) |
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
+| Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
@@ -6421,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Rosemary's Fate: Chapter 1 | 163808 | [163808-rosemarys-fate-chapter-1.json](./163808-rosemarys-fate-chapter-1.json) |
+| Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
