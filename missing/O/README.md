@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Others | 373744 | [373744-others.json](./373744-others.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
+| Otherside Tapes: Favela | 422100 | [422100-otherside-tapes-favela.json](./422100-otherside-tapes-favela.json) |
 | Otherskin | 312401 | [312401-otherskin.json](./312401-otherskin.json) |
 | Otherwar | 190983 | [190983-otherwar.json](./190983-otherwar.json) |
 | Otherwar: Deluxe Edition | 406196 | [406196-otherwar-deluxe-edition.json](./406196-otherwar-deluxe-edition.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OvenBreak | 284436 | [284436-ovenbreak.json](./284436-ovenbreak.json) |
 | OvenBreak 2 | 198314 | [198314-ovenbreak-2.json](./198314-ovenbreak-2.json) |
 | Ovens of Hell | 108377 | [108377-ovens-of-hell.json](./108377-ovens-of-hell.json) |
+| Over & Out! | 422131 | [422131-over-and-out.json](./422131-over-and-out.json) |
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
 | Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
