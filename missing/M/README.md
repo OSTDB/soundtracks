@@ -8379,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobs 'n Gunners | 112250 | [112250-mobs-n-gunners.json](./112250-mobs-n-gunners.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
+| Mobsteria: Rise | 420548 | [420548-mobsteria-rise.json](./420548-mobsteria-rise.json) |
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | MoBu 2 - Race with Friends | 104627 | [104627-mobu-2-race-with-friends.json](./104627-mobu-2-race-with-friends.json) |
@@ -8762,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money Bags: Beat the Gnome of Zurich | 68886 | [68886-money-bags-beat-the-gnome-of-zurich.json](./68886-money-bags-beat-the-gnome-of-zurich.json) |
+| Money Burner | 420525 | [420525-money-burner.json](./420525-money-burner.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
