@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Twilight | 166649 | [166649-epic-roller-coasters-twilight.json](./166649-epic-roller-coasters-twilight.json) |
 | Epic Roller Coasters: Wyvern Siege | 166644 | [166644-epic-roller-coasters-wyvern-siege.json](./166644-epic-roller-coasters-wyvern-siege.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
+| Epic Seal | 419184 | [419184-epic-seal.json](./419184-epic-seal.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
 | Epic Skater 2 | 71452 | [71452-epic-skater-2.json](./71452-epic-skater-2.json) |
