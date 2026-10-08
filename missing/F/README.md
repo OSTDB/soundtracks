@@ -2944,9 +2944,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
+| Final Fantasy VII Remake Series Trilogy Edition | 416148 | [416148-final-fantasy-vii-remake-series-trilogy-edition.json](./416148-final-fantasy-vii-remake-series-trilogy-edition.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
+| Final Fantasy VII Revelation: Accessory - Reclaimant Choker & Survival Set | 416146 | [416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json](./416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json) |
+| Final Fantasy VII Revelation: Accessory - Risk Taker's Choker | 416153 | [416153-final-fantasy-vii-revelation-accessory-risk-takers-choker.json](./416153-final-fantasy-vii-revelation-accessory-risk-takers-choker.json) |
+| Final Fantasy VII Revelation: Armor - Nymphwing Bracelet | 416152 | [416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json](./416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json) |
+| Final Fantasy VII Revelation: Premium Edition | 416142 | [416142-final-fantasy-vii-revelation-premium-edition.json](./416142-final-fantasy-vii-revelation-premium-edition.json) |
+| Final Fantasy VII Revelation: Premium Plus Edition | 416154 | [416154-final-fantasy-vii-revelation-premium-plus-edition.json](./416154-final-fantasy-vii-revelation-premium-plus-edition.json) |
+| Final Fantasy VII Revelation: Story Expansion Pass | 416141 | [416141-final-fantasy-vii-revelation-story-expansion-pass.json](./416141-final-fantasy-vii-revelation-story-expansion-pass.json) |
+| Final Fantasy VII Revelation: Summoning Materia - Polydroid Alexander | 416151 | [416151-final-fantasy-vii-revelation-summoning-materia-polydroid-alexander.json](./416151-final-fantasy-vii-revelation-summoning-materia-polydroid-alexander.json) |
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
 | Final Fantasy VII: Ever Crisis | 144040 | [144040-final-fantasy-vii-ever-crisis.json](./144040-final-fantasy-vii-ever-crisis.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
