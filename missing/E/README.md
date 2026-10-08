@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder's Grace: Unchained | 266309 | [266309-elders-grace-unchained.json](./266309-elders-grace-unchained.json) |
 | Elder's Will | 293845 | [293845-elders-will.json](./293845-elders-will.json) |
 | Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
+| Elderborn: Vengeance | 408849 | [408849-elderborn-vengeance.json](./408849-elderborn-vengeance.json) |
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
@@ -4135,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve! Lite | 60256 | [60256-evolve-lite.json](./60256-evolve-lite.json) |
 | Evolvedustry | 135623 | [135623-evolvedustry.json](./135623-evolvedustry.json) |
 | Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
+| Evons | 408718 | [408718-evons.json](./408718-evons.json) |
 | Evony | 77044 | [77044-evony.json](./77044-evony.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
