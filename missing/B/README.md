@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseballoons | 235280 | [235280-baseballoons.json](./235280-baseballoons.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
+| Baseless | 236192 | [236192-baseless.json](./236192-baseless.json) |
 | Basement | 348383 | [348383-basement.json](./348383-basement.json) |
 | Basement | 68654 | [68654-basement.json](./68654-basement.json) |
 | Basement Breakout | 399857 | [399857-basement-breakout.json](./399857-basement-breakout.json) |
