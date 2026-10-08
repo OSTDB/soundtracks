@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden: Clash of Ninja Revolution 3 | 19656 | [19656-naruto-shippuden-clash-of-ninja-revolution-3.json](./19656-naruto-shippuden-clash-of-ninja-revolution-3.json) |
 | Naruto Shippuden: Dairansen! Kage Bunshin Emaki | 61026 | [61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json](./61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json) |
+| Naruto Shippuden: Dragon Blade Chronicles | 21161 | [21161-naruto-shippuden-dragon-blade-chronicles.json](./21161-naruto-shippuden-dragon-blade-chronicles.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen EX3 | 50729 | [50729-naruto-shippuden-gekitou-ninja-taisen-ex3.json](./50729-naruto-shippuden-gekitou-ninja-taisen-ex3.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX | 75838 | [75838-naruto-shippuden-gekitou-ninja-taisen-ex.json](./75838-naruto-shippuden-gekitou-ninja-taisen-ex.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 2 | 75839 | [75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json](./75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
 | Naruto: Ninja Destiny II - European Version | 64486 | [64486-naruto-ninja-destiny-ii-european-version.json](./64486-naruto-ninja-destiny-ii-european-version.json) |
 | Naruto: Ninja Masters | 80120 | [80120-naruto-ninja-masters.json](./80120-naruto-ninja-masters.json) |
+| Naruto: Path of the Ninja | 21372 | [21372-naruto-path-of-the-ninja.json](./21372-naruto-path-of-the-ninja.json) |
 | Naruto: Path of the Ninja 2 | 21375 | [21375-naruto-path-of-the-ninja-2.json](./21375-naruto-path-of-the-ninja-2.json) |
 | Naruto: Powerful Shippuden | 20846 | [20846-naruto-powerful-shippuden.json](./20846-naruto-powerful-shippuden.json) |
 | Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
@@ -3607,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Haouden | 4279 | [4279-nobunagas-ambition-haouden.json](./4279-nobunagas-ambition-haouden.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
+| Nobunaga's Ambition: Iron Triangle | 21290 | [21290-nobunagas-ambition-iron-triangle.json](./21290-nobunagas-ambition-iron-triangle.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
