@@ -5696,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
 | Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
+| Horde: Zombie Outbreak | 105576 | [105576-horde-zombie-outbreak.json](./105576-horde-zombie-outbreak.json) |
 | Hordebreak | 238761 | [238761-hordebreak.json](./238761-hordebreak.json) |
 | HordeCore | 112767 | [112767-hordecore.json](./112767-hordecore.json) |
 | HordeCore: Training Ground | 157195 | [157195-hordecore-training-ground.json](./157195-hordecore-training-ground.json) |
@@ -7230,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperborea | 117703 | [117703-hyperborea.json](./117703-hyperborea.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
+| HyperBowl | 105444 | [105444-hyperbowl.json](./105444-hyperbowl.json) |
 | Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
 | HyperBowl: Arcade Edition | 73880 | [73880-hyperbowl-arcade-edition.json](./73880-hyperbowl-arcade-edition.json) |
