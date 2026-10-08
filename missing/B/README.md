@@ -9254,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
 | Brooktown High | 19255 | [19255-brooktown-high.json](./19255-brooktown-high.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
+| Broom Alien | 395447 | [395447-broom-alien.json](./395447-broom-alien.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Broomball | 32147 | [32147-broomball.json](./32147-broomball.json) |
