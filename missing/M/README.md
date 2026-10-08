@@ -4531,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
+| Mega Man W | 403215 | [403215-mega-man-w.json](./403215-mega-man-w.json) |
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Alpha Kaizo | 268419 | [268419-mega-man-x-alpha-kaizo.json](./268419-mega-man-x-alpha-kaizo.json) |
@@ -12258,6 +12259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
 | My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
+| My Time At Portia: Swimwear | 402952 | [402952-my-time-at-portia-swimwear.json](./402952-my-time-at-portia-swimwear.json) |
 | My Time at Sandrock | 140427 | [140427-my-time-at-sandrock.json](./140427-my-time-at-sandrock.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Builders Beach and Ball Clothing Pack | 275057 | [275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275057-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
