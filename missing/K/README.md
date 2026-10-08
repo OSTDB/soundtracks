@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
 | Kengo 2: Sword of the Samurai | 1421 | [1421-kengo-2-sword-of-the-samurai.json](./1421-kengo-2-sword-of-the-samurai.json) |
 | Kengo 3 | 1422 | [1422-kengo-3.json](./1422-kengo-3.json) |
+| Kengo: Legend of the 9 | 1423 | [1423-kengo-legend-of-the-9.json](./1423-kengo-legend-of-the-9.json) |
 | Kengo: Master of Bushido | 1420 | [1420-kengo-master-of-bushido.json](./1420-kengo-master-of-bushido.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
