@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
 | Sally6 | 124723 | [124723-sally6.json](./124723-sally6.json) |
+| Salmon City | 388166 | [388166-salmon-city.json](./388166-salmon-city.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
 | Sandwich Shop Simulator | 407379 | [407379-sandwich-shop-simulator.json](./407379-sandwich-shop-simulator.json) |
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
+| Sandy | 388188 | [388188-sandy.json](./388188-sandy.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
@@ -13943,6 +13945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalart | 399139 | [399139-stalart.json](./399139-stalart.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stalcraft: X - Operations | 325586 | [325586-stalcraft-x-operations.json](./325586-stalcraft-x-operations.json) |
+| Stalcube | 388270 | [388270-stalcube.json](./388270-stalcube.json) |
 | Stale Conversations | 141116 | [141116-stale-conversations.json](./141116-stale-conversations.json) |
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
