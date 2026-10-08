@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way In The Stars: The Threat | 235721 | [235721-way-in-the-stars-the-threat.json](./235721-way-in-the-stars-the-threat.json) |
 | Way Nd Choice | 288468 | [288468-way-nd-choice.json](./288468-way-nd-choice.json) |
 | Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
+| Way of Gold and Steel | 35179 | [35179-way-of-gold-and-steel.json](./35179-way-of-gold-and-steel.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
 | Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
