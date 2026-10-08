@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
 | Eastfound | 101036 | [101036-eastfound.json](./101036-eastfound.json) |
 | Eastshade | 17480 | [17480-eastshade.json](./17480-eastshade.json) |
+| Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
 | Eastward: Between Two Worlds Bundle | 284949 | [284949-eastward-between-two-worlds-bundle.json](./284949-eastward-between-two-worlds-bundle.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
 | Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
 | Enforced Entropy | 299855 | [299855-enforced-entropy.json](./299855-enforced-entropy.json) |
+| Enforcer: Police Crime Action | 17741 | [17741-enforcer-police-crime-action.json](./17741-enforcer-police-crime-action.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
