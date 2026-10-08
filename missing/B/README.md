@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
 | Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
 | Becolor | 110245 | [110245-becolor.json](./110245-becolor.json) |
+| Become | 390172 | [390172-become.json](./390172-become.json) |
 | Become a Gladiator VR | 153530 | [153530-become-a-gladiator-vr.json](./153530-become-a-gladiator-vr.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
@@ -8818,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
+| Breakout 71 | 390159 | [390159-breakout-71.json](./390159-breakout-71.json) |
 | Breakout Baby | 413175 | [413175-breakout-baby.json](./413175-breakout-baby.json) |
 | Breakout Beyond | 330257 | [330257-breakout-beyond.json](./330257-breakout-beyond.json) |
 | Breakout Birdie | 283213 | [283213-breakout-birdie.json](./283213-breakout-birdie.json) |
@@ -9895,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
 | Bullet Butlers | 58052 | [58052-bullet-butlers.json](./58052-bullet-butlers.json) |
 | Bullet Cell | 136239 | [136239-bullet-cell.json](./136239-bullet-cell.json) |
+| Bullet Chain: Vessels | 390075 | [390075-bullet-chain-vessels.json](./390075-bullet-chain-vessels.json) |
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Chess | 101673 | [101673-bullet-chess.json](./101673-bullet-chess.json) |
 | Bullet Destroyer | 226273 | [226273-bullet-destroyer.json](./226273-bullet-destroyer.json) |
