@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
+| Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
 | Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
+| Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
 | Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
 | Fashion Friends: Gold Edition | 317257 | [317257-fashion-friends-gold-edition.json](./317257-fashion-friends-gold-edition.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
@@ -5554,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
+| ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
