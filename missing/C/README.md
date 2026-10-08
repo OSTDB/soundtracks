@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
 | Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carbox | 317997 | [317997-carbox.json](./317997-carbox.json) |
+| Carbuncle Pi | 400985 | [400985-carbuncle-pi.json](./400985-carbuncle-pi.json) |
 | Carcará: Asas da Justiça | 133857 | [133857-carcara-asas-da-justica.json](./133857-carcara-asas-da-justica.json) |
 | Carcassonne | 370250 | [370250-carcassonne.json](./370250-carcassonne.json) |
 | Carcassonne DS | 66992 | [66992-carcassonne-ds.json](./66992-carcassonne-ds.json) |
@@ -5799,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicky Coven | 317990 | [317990-clicky-coven.json](./317990-clicky-coven.json) |
 | Clicky Islands | 388729 | [388729-clicky-islands.json](./388729-clicky-islands.json) |
 | Clientele | 213020 | [213020-clientele.json](./213020-clientele.json) |
+| Cliff Kingdom | 401152 | [401152-cliff-kingdom.json](./401152-cliff-kingdom.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | Cliffed | 92163 | [92163-cliffed.json](./92163-cliffed.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobalt | 2999 | [2999-cobalt.json](./2999-cobalt.json) |
+| Cobb Can Move | 401154 | [401154-cobb-can-move.json](./401154-cobb-can-move.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobi Golf Shots | 96283 | [96283-cobi-golf-shots.json](./96283-cobi-golf-shots.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
@@ -6284,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
+| Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
 | Code Brown | 111178 | [111178-code-brown.json](./111178-code-brown.json) |
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
