@@ -9897,6 +9897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Fred in the Cell | 320915 | [320915-drunk-fred-in-the-cell.json](./320915-drunk-fred-in-the-cell.json) |
 | Drunk Games | 203940 | [203940-drunk-games.json](./203940-drunk-games.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
+| Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
