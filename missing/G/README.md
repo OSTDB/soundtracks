@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
+| Garshasp: Temple of the Dragon | 16247 | [16247-garshasp-temple-of-the-dragon.json](./16247-garshasp-temple-of-the-dragon.json) |
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
@@ -5481,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
+| Grotesque Tactics 2: Dungeons and Donuts | 16149 | [16149-grotesque-tactics-2-dungeons-and-donuts.json](./16149-grotesque-tactics-2-dungeons-and-donuts.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
 | Grotto | 135631 | [135631-grotto.json](./135631-grotto.json) |
