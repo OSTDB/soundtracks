@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike & Girls | 112472 | [112472-klondike-and-girls.json](./112472-klondike-and-girls.json) |
 | Klondike Adventures | 96916 | [96916-klondike-adventures.json](./96916-klondike-adventures.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
+| Klondike Solitaire - Classic Deck Card Games | 91153 | [91153-klondike-solitaire-classic-deck-card-games.json](./91153-klondike-solitaire-classic-deck-card-games.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire 2019 | 138109 | [138109-klondike-solitaire-2019.json](./138109-klondike-solitaire-2019.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
