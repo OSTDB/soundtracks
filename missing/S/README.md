@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
+| Showtime 2073 | 34259 | [34259-showtime-2073.json](./34259-showtime-2073.json) |
 | Showtime Championship Boxing | 21506 | [21506-showtime-championship-boxing.json](./21506-showtime-championship-boxing.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
@@ -8578,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes on an Extradimensional Plane | 33299 | [33299-snakes-on-an-extradimensional-plane.json](./33299-snakes-on-an-extradimensional-plane.json) |
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
+| SnakEscape | 34278 | [34278-snakescape.json](./34278-snakescape.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | SnakeTris | 291164 | [291164-snaketris.json](./291164-snaketris.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
@@ -16074,6 +16076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Strawberry Vinegar | 34341 | [34341-strawberry-vinegar.json](./34341-strawberry-vinegar.json) |
 | Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
@@ -19444,6 +19447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDucks | 357363 | [357363-superducks.json](./357363-superducks.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
+| Superfight | 34372 | [34372-superfight.json](./34372-superfight.json) |
 | Superfight: The Digital Deck | 161215 | [161215-superfight-the-digital-deck.json](./161215-superfight-the-digital-deck.json) |
 | Superfight: The History Deck | 161216 | [161216-superfight-the-history-deck.json](./161216-superfight-the-history-deck.json) |
 | Superfight: The Horror Deck | 161217 | [161217-superfight-the-horror-deck.json](./161217-superfight-the-horror-deck.json) |
