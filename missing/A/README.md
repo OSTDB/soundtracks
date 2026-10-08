@@ -6933,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
 | Arcade Classic No. 1: Asteroids / Missile Command | 117925 | [117925-arcade-classic-no-1-asteroids-missile-command.json](./117925-arcade-classic-no-1-asteroids-missile-command.json) |
 | Arcade Classic No. 2: Centipede / Millipede | 117924 | [117924-arcade-classic-no-2-centipede-millipede.json](./117924-arcade-classic-no-2-centipede-millipede.json) |
+| Arcade Classic No. 3: Galaga / Galaxian | 63313 | [63313-arcade-classic-no-3-galaga-galaxian.json](./63313-arcade-classic-no-3-galaga-galaxian.json) |
 | Arcade Classics | 245988 | [245988-arcade-classics.json](./245988-arcade-classics.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
