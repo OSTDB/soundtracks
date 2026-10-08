@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
+| Whispers of Orange Island | 421365 | [421365-whispers-of-orange-island.json](./421365-whispers-of-orange-island.json) |
 | Whispers of Prague: The Executioner's Last Cut | 287708 | [287708-whispers-of-prague-the-executioners-last-cut.json](./287708-whispers-of-prague-the-executioners-last-cut.json) |
 | Whispers of Satan | 140943 | [140943-whispers-of-satan.json](./140943-whispers-of-satan.json) |
 | Whispers of Silence | 296517 | [296517-whispers-of-silence.json](./296517-whispers-of-silence.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Wordler | 268024 | [268024-wordler.json](./268024-wordler.json) |
 | Wordless | 193830 | [193830-wordless.json](./193830-wordless.json) |
+| Wordless | 421390 | [421390-wordless.json](./421390-wordless.json) |
 | Wordless Forest | 413778 | [413778-wordless-forest.json](./413778-wordless-forest.json) |
 | Wordlike | 326808 | [326808-wordlike.json](./326808-wordlike.json) |
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
