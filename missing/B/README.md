@@ -7549,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Bandits | 13822 | [13822-bootleg-bandits.json](./13822-bootleg-bandits.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
+| Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
