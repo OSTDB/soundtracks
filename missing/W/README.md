@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War for the Overworld: The Under Games | 124819 | [124819-war-for-the-overworld-the-under-games.json](./124819-war-for-the-overworld-the-under-games.json) |
 | War for the Overworld: Underlord Edition | 51782 | [51782-war-for-the-overworld-underlord-edition.json](./51782-war-for-the-overworld-underlord-edition.json) |
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
+| War Front: Turning Point | 21239 | [21239-war-front-turning-point.json](./21239-war-front-turning-point.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Waldo in Hollywood | 205124 | [205124-wheres-waldo-in-hollywood.json](./205124-wheres-waldo-in-hollywood.json) |
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
 | Where's Waldo? for the Windows Phone | 131539 | [131539-wheres-waldo-for-the-windows-phone.json](./131539-wheres-waldo-for-the-windows-phone.json) |
+| Where's Waldo? The Fantastic Journey | 21216 | [21216-wheres-waldo-the-fantastic-journey.json](./21216-wheres-waldo-the-fantastic-journey.json) |
 | Where's Wally? Fantastic Journey 2 | 84943 | [84943-wheres-wally-fantastic-journey-2.json](./84943-wheres-wally-fantastic-journey-2.json) |
 | Where's Wally? Fantastic Journey 3 | 84944 | [84944-wheres-wally-fantastic-journey-3.json](./84944-wheres-wally-fantastic-journey-3.json) |
 | Where's Wally? Travel Pack 1 | 85483 | [85483-wheres-wally-travel-pack-1.json](./85483-wheres-wally-travel-pack-1.json) |
