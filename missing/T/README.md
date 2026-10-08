@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tay Son Dynasty | 256343 | [256343-tay-son-dynasty.json](./256343-tay-son-dynasty.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
+| Tayke Me With You | 413502 | [413502-tayke-me-with-you.json](./413502-tayke-me-with-you.json) |
 | Taylordle | 330295 | [330295-taylordle.json](./330295-taylordle.json) |
 | Tayto Runner | 330348 | [330348-tayto-runner.json](./330348-tayto-runner.json) |
 | Tayto Says | 330349 | [330349-tayto-says.json](./330349-tayto-says.json) |
@@ -5525,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
 | The Far Node | 392286 | [392286-the-far-node.json](./392286-the-far-node.json) |
+| The Faraway King | 413456 | [413456-the-faraway-king.json](./413456-the-faraway-king.json) |
 | The Faraway Land | 152786 | [152786-the-faraway-land.json](./152786-the-faraway-land.json) |
 | The Farm | 231524 | [231524-the-farm.json](./231524-the-farm.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
@@ -6507,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
+| The Idolmaster: Shiny Colors - Song for Prism: Honjitsu Haishin! Illumine Renaigaku Josetsu | 413515 | [413515-the-idolmaster-shiny-colors-song-for-prism-honjitsu-haishin-illumine-renaigaku-josetsu.json](./413515-the-idolmaster-shiny-colors-song-for-prism-honjitsu-haishin-illumine-renaigaku-josetsu.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
 | The Idolmaster: Shiny Festa - Funky Note | 42797 | [42797-the-idolmaster-shiny-festa-funky-note.json](./42797-the-idolmaster-shiny-festa-funky-note.json) |
 | The Idolmaster: Shiny Festa - Groovy Tune | 42795 | [42795-the-idolmaster-shiny-festa-groovy-tune.json](./42795-the-idolmaster-shiny-festa-groovy-tune.json) |
@@ -11355,6 +11358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
+| The World is Strange | 413513 | [413513-the-world-is-strange.json](./413513-the-world-is-strange.json) |
 | The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
