@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
 | School Bus Driver Simulator | 199355 | [199355-school-bus-driver-simulator.json](./199355-school-bus-driver-simulator.json) |
 | School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
+| School Bus Frenzy | 394194 | [394194-school-bus-frenzy.json](./394194-school-bus-frenzy.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Cafeteria Simulator | 263105 | [263105-school-cafeteria-simulator.json](./263105-school-cafeteria-simulator.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
@@ -4495,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
+| Sharp Trigger 2 | 394145 | [394145-sharp-trigger-2.json](./394145-sharp-trigger-2.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
 | Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
@@ -4519,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
 | Shattered | 65791 | [65791-shattered.json](./65791-shattered.json) |
+| Shattered Chess | 394090 | [394090-shattered-chess.json](./394090-shattered-chess.json) |
 | Shattered Dimension | 356879 | [356879-shattered-dimension.json](./356879-shattered-dimension.json) |
 | Shattered Divinities | 346217 | [346217-shattered-divinities.json](./346217-shattered-divinities.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
