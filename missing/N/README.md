@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slashers: Remake | 290795 | [290795-night-slashers-remake.json](./290795-night-slashers-remake.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
+| Night Society | 414877 | [414877-night-society.json](./414877-night-society.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
@@ -3064,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru Collection | 119644 | [119644-ninja-jajamaru-collection.json](./119644-ninja-jajamaru-collection.json) |
+| Ninja JajaMaru Yokai Night Parade | 414846 | [414846-ninja-jajamaru-yokai-night-parade.json](./414846-ninja-jajamaru-yokai-night-parade.json) |
 | Ninja JaJaMaru-kun | 48455 | [48455-ninja-jajamaru-kun.json](./48455-ninja-jajamaru-kun.json) |
 | Ninja Jajamaru-kun Ranbu | 296027 | [296027-ninja-jajamaru-kun-ranbu.json](./296027-ninja-jajamaru-kun-ranbu.json) |
 | Ninja JaJaMaru-kun: Onigiri Ninpou-chou | 74780 | [74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json](./74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json) |
@@ -3366,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
+| No Cook Today | 414829 | [414829-no-cook-today.json](./414829-no-cook-today.json) |
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
 | No Crime | 244298 | [244298-no-crime.json](./244298-no-crime.json) |
 | No Crossing | 111855 | [111855-no-crossing.json](./111855-no-crossing.json) |
