@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
+| D.W.A.R.F.S. | 36414 | [36414-d-w-a-r-f-s.json](./36414-d-w-a-r-f-s.json) |
 | D' | 174654 | [174654-d.json](./174654-d.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
