@@ -4560,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cat's End | 225691 | [225691-pixel-cats-end.json](./225691-pixel-cats-end.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Champions | 59648 | [59648-pixel-champions.json](./59648-pixel-champions.json) |
+| Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
@@ -5029,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
+| PixReveal | 416604 | [416604-pixreveal.json](./416604-pixreveal.json) |
 | Pixross | 142195 | [142195-pixross.json](./142195-pixross.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
