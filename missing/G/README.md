@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
 | Gobliins 2: The Prince Buffoon | 1931 | [1931-gobliins-2-the-prince-buffoon.json](./1931-gobliins-2-the-prince-buffoon.json) |
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
+| Goblin and Coins | 30638 | [30638-goblin-and-coins.json](./30638-goblin-and-coins.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
 | Goblin and Recipes: Match-3 Adventure | 410428 | [410428-goblin-and-recipes-match-3-adventure.json](./410428-goblin-and-recipes-match-3-adventure.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
+| Gridd: Retroenhanced | 30583 | [30583-gridd-retroenhanced.json](./30583-gridd-retroenhanced.json) |
 | Griddle | 373739 | [373739-griddle.json](./373739-griddle.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
