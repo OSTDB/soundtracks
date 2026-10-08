@@ -6289,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | Romut | 415471 | [415471-romut.json](./415471-romut.json) |
+| Romy & Max and the Hidden Rainforest | 410838 | [410838-romy-and-max-and-the-hidden-rainforest.json](./410838-romy-and-max-and-the-hidden-rainforest.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
 | RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
