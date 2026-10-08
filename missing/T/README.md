@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 358838 | [358838-tennis.json](./358838-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
+| Tennis 2003 | 23712 | [23712-tennis-2003.json](./23712-tennis-2003.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
 | Tennis Ace | 46111 | [46111-tennis-ace.json](./46111-tennis-ace.json) |
 | Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
@@ -5169,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
 | The Elder Scrolls Travels: Dawnstar | 47571 | [47571-the-elder-scrolls-travels-dawnstar.json](./47571-the-elder-scrolls-travels-dawnstar.json) |
 | The Elder Scrolls Travels: Shadowkey | 6262 | [6262-the-elder-scrolls-travels-shadowkey.json](./6262-the-elder-scrolls-travels-shadowkey.json) |
+| The Elder Scrolls Travels: Stormhold | 23756 | [23756-the-elder-scrolls-travels-stormhold.json](./23756-the-elder-scrolls-travels-stormhold.json) |
 | The Elder Scrolls V: Skyrim | 37034 | [37034-the-elder-scrolls-v-skyrim.json](./37034-the-elder-scrolls-v-skyrim.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
@@ -7736,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
 | The Lords of Midnight | 272816 | [272816-the-lords-of-midnight.json](./272816-the-lords-of-midnight.json) |
+| The Lords of the Earth Flame | 23723 | [23723-the-lords-of-the-earth-flame.json](./23723-the-lords-of-the-earth-flame.json) |
 | The Loss Levels | 179652 | [179652-the-loss-levels.json](./179652-the-loss-levels.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
@@ -14866,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 3+4 | 334243 | [334243-tony-hawks-pro-skater-3-4.json](./334243-tony-hawks-pro-skater-3-4.json) |
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
+| Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
 | Tony Hawk's Proving Ground | 249760 | [249760-tony-hawks-proving-ground.json](./249760-tony-hawks-proving-ground.json) |
 | Tony Hawk's Proving Ground | 2700 | [2700-tony-hawks-proving-ground.json](./2700-tony-hawks-proving-ground.json) |
