@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
 | Nogibator | 76934 | [76934-nogibator.json](./76934-nogibator.json) |
 | Nogibator: Way of Legs | 83193 | [83193-nogibator-way-of-legs.json](./83193-nogibator-way-of-legs.json) |
+| Nohmen: Blood Rites | 420552 | [420552-nohmen-blood-rites.json](./420552-nohmen-blood-rites.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nope Nope Nope Nope Nurses | 261755 | [261755-nope-nope-nope-nope-nurses.json](./261755-nope-nope-nope-nope-nurses.json) |
 | Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nophenia | 369651 | [369651-nophenia.json](./369651-nophenia.json) |
+| Noplace | 420564 | [420564-noplace.json](./420564-noplace.json) |
 | Nopperabou | 155698 | [155698-nopperabou.json](./155698-nopperabou.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
@@ -4467,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
 | Numerous Ninjas | 409658 | [409658-numerous-ninjas.json](./409658-numerous-ninjas.json) |
 | Numgeon | 113059 | [113059-numgeon.json](./113059-numgeon.json) |
+| Numiares: A Dark Tale | 420566 | [420566-numiares-a-dark-tale.json](./420566-numiares-a-dark-tale.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
 | Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
