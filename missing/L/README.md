@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
+| Levels | 391700 | [391700-levels.json](./391700-levels.json) |
 | Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
 | Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
+| Loot Box Waifus | 391689 | [391689-loot-box-waifus.json](./391689-loot-box-waifus.json) |
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
