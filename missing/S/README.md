@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satoyama Note: Natsukusa Komichi | 277505 | [277505-satoyama-note-natsukusa-komichi.json](./277505-satoyama-note-natsukusa-komichi.json) |
 | Satryn Deluxe | 186106 | [186106-satryn-deluxe.json](./186106-satryn-deluxe.json) |
 | Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
+| Satsuki-iro no Sora ni | 412795 | [412795-satsuki-iro-no-sora-ni.json](./412795-satsuki-iro-no-sora-ni.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
 | Saturday Night at Freddy's | 406253 | [406253-saturday-night-at-freddys.json](./406253-saturday-night-at-freddys.json) |
@@ -4750,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Sweet | 347830 | [347830-shiba-sweet.json](./347830-shiba-sweet.json) |
 | Shiba Wars | 397913 | [397913-shiba-wars.json](./397913-shiba-wars.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
+| Shibogami | 412894 | [412894-shibogami.json](./412894-shibogami.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
 | Shibuya | 66414 | [66414-shibuya.json](./66414-shibuya.json) |
 | Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
@@ -5767,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuukaku no Juunigatsu: Fuyu | 58895 | [58895-shuukaku-no-juunigatsu-fuyu.json](./58895-shuukaku-no-juunigatsu-fuyu.json) |
 | Shuumatsu no Sugoshikata: The world is drawing to an W/end | 326047 | [326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json](./326047-shuumatsu-no-sugoshikata-the-world-is-drawing-to-an-w-end.json) |
 | Shuumatsu no Valkyrie Humanity's Last Hope | 265875 | [265875-shuumatsu-no-valkyrie-humanitys-last-hope.json](./265875-shuumatsu-no-valkyrie-humanitys-last-hope.json) |
+| Shuumatsu Shoujo Gensou Alicematic: Apocalypse | 412800 | [412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json](./412800-shuumatsu-shoujo-gensou-alicematic-apocalypse.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
@@ -7215,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
+| SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
 | Skullbreaker | 370341 | [370341-skullbreaker.json](./370341-skullbreaker.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash | 142377 | [142377-skulldash.json](./142377-skulldash.json) |
@@ -8560,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails | 35694 | [35694-snails.json](./35694-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snailshell | 386352 | [386352-snailshell.json](./386352-snailshell.json) |
+| Snaip of Doomsday | 412902 | [412902-snaip-of-doomsday.json](./412902-snaip-of-doomsday.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
@@ -10556,6 +10561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
+| Sonic.exe Plus! | 412839 | [412839-sonic-exe-plus.json](./412839-sonic-exe-plus.json) |
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic.Exe: The Spirits of Hell | 255852 | [255852-sonic-exe-the-spirits-of-hell.json](./255852-sonic-exe-the-spirits-of-hell.json) |
@@ -13812,6 +13818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
+| Stalingrad 1942 | 412808 | [412808-stalingrad-1942.json](./412808-stalingrad-1942.json) |
 | Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
@@ -17286,6 +17293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
 | Sugar Coat Freaks | 60401 | [60401-sugar-coat-freaks.json](./60401-sugar-coat-freaks.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
+| Sugar Cookie Mountain! | 412911 | [412911-sugar-cookie-mountain.json](./412911-sugar-cookie-mountain.json) |
 | Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
@@ -20218,6 +20226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Cat Storycraft World Creator | 377775 | [377775-sushi-cat-storycraft-world-creator.json](./377775-sushi-cat-storycraft-world-creator.json) |
 | Sushi Cat Words | 249366 | [249366-sushi-cat-words.json](./249366-sushi-cat-words.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
+| Sushi Claw Machine | 412900 | [412900-sushi-claw-machine.json](./412900-sushi-claw-machine.json) |
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
@@ -21043,6 +21052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | Synchronizers: Undead Marines | 154373 | [154373-synchronizers-undead-marines.json](./154373-synchronizers-undead-marines.json) |
+| Syncline | 412792 | [412792-syncline.json](./412792-syncline.json) |
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
