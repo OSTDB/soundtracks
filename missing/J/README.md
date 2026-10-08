@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Judofuri | 311170 | [311170-judofuri.json](./311170-judofuri.json) |
+| Judy's Adventure DX | 404264 | [404264-judys-adventure-dx.json](./404264-judys-adventure-dx.json) |
 | Juémèng: Cyber | 154587 | [154587-juemeng-cyber.json](./154587-juemeng-cyber.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
@@ -2336,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just A Walk In The Park | 253927 | [253927-just-a-walk-in-the-park.json](./253927-just-a-walk-in-the-park.json) |
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
 | Just Alone | 34799 | [34799-just-alone.json](./34799-just-alone.json) |
+| Just an Ordinary Bike Ride | 403620 | [403620-just-an-ordinary-bike-ride.json](./403620-just-an-ordinary-bike-ride.json) |
 | Just Anomaly: Hospital | 413208 | [413208-just-anomaly-hospital.json](./413208-just-anomaly-hospital.json) |
 | Just Another Boomer Shooter | 385340 | [385340-just-another-boomer-shooter.json](./385340-just-another-boomer-shooter.json) |
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
