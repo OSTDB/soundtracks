@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanky Larry | 176283 | [176283-lanky-larry.json](./176283-lanky-larry.json) |
 | Lanky Looters | 421338 | [421338-lanky-looters.json](./421338-lanky-looters.json) |
 | Lǎnrén Xiūxiān Zhuàn | 111583 | [111583-lanren-xiuxian-zhuan.json](./111583-lanren-xiuxian-zhuan.json) |
+| Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
@@ -4390,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
+| Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
@@ -4696,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
+| Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost Horizon | 7311 | [7311-lost-horizon.json](./7311-lost-horizon.json) |
 | Lost Host | 378896 | [378896-lost-host.json](./378896-lost-host.json) |
