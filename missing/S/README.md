@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
+| Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
 | Samurai Poodle | 60768 | [60768-samurai-poodle.json](./60768-samurai-poodle.json) |
 | Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
+| Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble for Game Boy | 131453 | [131453-scrabble-for-game-boy.json](./131453-scrabble-for-game-boy.json) |
@@ -2231,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
 | Scrongly | 366389 | [366389-scrongly.json](./366389-scrongly.json) |
+| Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
@@ -10006,6 +10009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Silence | 238460 | [238460-songs-of-silence.json](./238460-songs-of-silence.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
+| Songs of Silence: Crownless King Expansion | 402542 | [402542-songs-of-silence-crownless-king-expansion.json](./402542-songs-of-silence-crownless-king-expansion.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
 | Songs of Syx | 123861 | [123861-songs-of-syx.json](./123861-songs-of-syx.json) |
@@ -10760,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry Survivor | 343865 | [343865-sorry-survivor.json](./343865-sorry-survivor.json) |
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
 | Sorry We're Closed | 190964 | [190964-sorry-were-closed.json](./190964-sorry-were-closed.json) |
+| Sorry We're Closed: Perfect Combo Edition | 402333 | [402333-sorry-were-closed-perfect-combo-edition.json](./402333-sorry-were-closed-perfect-combo-edition.json) |
 | Sorry, My King | 397936 | [397936-sorry-my-king.json](./397936-sorry-my-king.json) |
 | Sorry, We Have A Policy | 256765 | [256765-sorry-we-have-a-policy.json](./256765-sorry-we-have-a-policy.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
@@ -12522,6 +12527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
+| Spellhook | 402548 | [402548-spellhook.json](./402548-spellhook.json) |
 | SpellHunter | 153024 | [153024-spellhunter.json](./153024-spellhunter.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
@@ -20107,6 +20113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival EXtreme | 248915 | [248915-survival-extreme.json](./248915-survival-extreme.json) |
 | Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
+| Survival Games | 402335 | [402335-survival-games.json](./402335-survival-games.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hell | 110514 | [110514-survival-hell.json](./110514-survival-hell.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
