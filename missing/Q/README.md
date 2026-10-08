@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questi Quest | 393079 | [393079-questi-quest.json](./393079-questi-quest.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
+| Question Roulette | 399925 | [399925-question-roulette.json](./399925-question-roulette.json) |
 | Questionable Countdowns | 411631 | [411631-questionable-countdowns.json](./411631-questionable-countdowns.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Questions pour un Champion | 147473 | [147473-questions-pour-un-champion.json](./147473-questions-pour-un-champion.json) |
