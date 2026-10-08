@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
+| Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
@@ -2273,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
+| Against the Moon | 121493 | [121493-against-the-moon.json](./121493-against-the-moon.json) |
 | Against the Storm | 147519 | [147519-against-the-storm.json](./147519-against-the-storm.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
