@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Dogs SDL | 182203 | [182203-c-dogs-sdl.json](./182203-c-dogs-sdl.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
+| C-Smash VRS | 237742 | [237742-c-smash-vrs.json](./237742-c-smash-vrs.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
 | C-Wars | 16658 | [16658-c-wars.json](./16658-c-wars.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Blaster 3 | 335470 | [335470-cannon-blaster-3.json](./335470-cannon-blaster-3.json) |
 | Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
+| Cannon Dancer: Osman | 231222 | [231222-cannon-dancer-osman.json](./231222-cannon-dancer-osman.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Fire | 83602 | [83602-cannon-fire.json](./83602-cannon-fire.json) |
 | Cannon Fire: Bloody Sea | 115568 | [115568-cannon-fire-bloody-sea.json](./115568-cannon-fire-bloody-sea.json) |
@@ -10024,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire II | 170284 | [170284-crossfire-ii.json](./170284-crossfire-ii.json) |
 | Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
+| Crossfire: Sierra Squad | 229351 | [229351-crossfire-sierra-squad.json](./229351-crossfire-sierra-squad.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
