@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshawn Lynch Blocky Football | 267328 | [267328-marshawn-lynch-blocky-football.json](./267328-marshawn-lynch-blocky-football.json) |
 | Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
+| Marshland Hollow | 412242 | [412242-marshland-hollow.json](./412242-marshland-hollow.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
 | Marshmallow 2x2 | 234334 | [234334-marshmallow-2x2.json](./234334-marshmallow-2x2.json) |
 | Marshmallow Chronicle | 360132 | [360132-marshmallow-chronicle.json](./360132-marshmallow-chronicle.json) |
@@ -6585,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Heroes VI - Shades of Darkness | 8112 | [8112-might-and-magic-heroes-vi-shades-of-darkness.json](./8112-might-and-magic-heroes-vi-shades-of-darkness.json) |
 | Might & Magic: Showdown | 26854 | [26854-might-and-magic-showdown.json](./26854-might-and-magic-showdown.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
+| Might & Mushroom | 412236 | [412236-might-and-mushroom.json](./412236-might-and-mushroom.json) |
 | Might & Trap: Apocalypse | 151595 | [151595-might-and-trap-apocalypse.json](./151595-might-and-trap-apocalypse.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
@@ -7434,6 +7436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
 | Mini Sudoku Keychain | 264240 | [264240-mini-sudoku-keychain.json](./264240-mini-sudoku-keychain.json) |
+| Mini Swim | 412157 | [412157-mini-swim.json](./412157-mini-swim.json) |
+| Mini Switcher | 412213 | [412213-mini-switcher.json](./412213-mini-switcher.json) |
 | Mini TD | 358424 | [358424-mini-td.json](./358424-mini-td.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
 | Mini Tekton | 120822 | [120822-mini-tekton.json](./120822-mini-tekton.json) |
@@ -7780,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror VR | 182887 | [182887-mirror-vr.json](./182887-mirror-vr.json) |
 | Mirror War: Reincarnation of Holiness | 215605 | [215605-mirror-war-reincarnation-of-holiness.json](./215605-mirror-war-reincarnation-of-holiness.json) |
+| Mirror Wizard | 412210 | [412210-mirror-wizard.json](./412210-mirror-wizard.json) |
 | Mirror World | 296985 | [296985-mirror-world.json](./296985-mirror-world.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
@@ -12052,6 +12057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
 | My Party Needs an Alchemist | 315036 | [315036-my-party-needs-an-alchemist.json](./315036-my-party-needs-an-alchemist.json) |
 | My Peephole: Hotel Harborview | 372670 | [372670-my-peephole-hotel-harborview.json](./372670-my-peephole-hotel-harborview.json) |
+| My Perfect Nails | 412237 | [412237-my-perfect-nails.json](./412237-my-perfect-nails.json) |
 | My Personal Angel | 41872 | [41872-my-personal-angel.json](./41872-my-personal-angel.json) |
 | My Personal Golf Trainer | 41869 | [41869-my-personal-golf-trainer.json](./41869-my-personal-golf-trainer.json) |
 | My Personal Hater | 388229 | [388229-my-personal-hater.json](./388229-my-personal-hater.json) |
