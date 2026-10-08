@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Life | 259084 | [259084-joy-life.json](./259084-joy-life.json) |
 | Joy Life 3 | 273461 | [273461-joy-life-3.json](./273461-joy-life-3.json) |
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
+| Joy Malignant | 398696 | [398696-joy-malignant.json](./398696-joy-malignant.json) |
 | Joy Match 3D | 255796 | [255796-joy-match-3d.json](./255796-joy-match-3d.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
 | Joy Pony | 54456 | [54456-joy-pony.json](./54456-joy-pony.json) |
