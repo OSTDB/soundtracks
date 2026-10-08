@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve! Lite | 60256 | [60256-evolve-lite.json](./60256-evolve-lite.json) |
 | Evolvedustry | 135623 | [135623-evolvedustry.json](./135623-evolvedustry.json) |
 | Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
+| Evony | 77044 | [77044-evony.json](./77044-evony.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | Evopollution | 17313 | [17313-evopollution.json](./17313-evopollution.json) |
