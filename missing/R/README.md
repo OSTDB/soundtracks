@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveil | 90409 | [90409-reveil.json](./90409-reveil.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
+| Revelation M | 280873 | [280873-revelation-m.json](./280873-revelation-m.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
 | Revelation One Trivia Quiz Game | 99374 | [99374-revelation-one-trivia-quiz-game.json](./99374-revelation-one-trivia-quiz-game.json) |
 | Revelation Trestan | 110507 | [110507-revelation-trestan.json](./110507-revelation-trestan.json) |
@@ -3878,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
+| Reynatis | 287858 | [287858-reynatis.json](./287858-reynatis.json) |
 | Reynatis: Deluxe Edition | 288187 | [288187-reynatis-deluxe-edition.json](./288187-reynatis-deluxe-edition.json) |
 | Reynatis: Digital Deluxe Edition | 317908 | [317908-reynatis-digital-deluxe-edition.json](./317908-reynatis-digital-deluxe-edition.json) |
 | Reynatis: Ultimate Wizard Bundle | 317289 | [317289-reynatis-ultimate-wizard-bundle.json](./317289-reynatis-ultimate-wizard-bundle.json) |
