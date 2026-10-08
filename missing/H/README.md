@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
 | Hack_Me 3 | 120751 | [120751-hack-me-3.json](./120751-hack-me-3.json) |
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
+| Hack, Slash & Backstab | 33600 | [33600-hack-slash-and-backstab.json](./33600-hack-slash-and-backstab.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
@@ -3471,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Legionwood: Episode 2 | 171561 | [171561-heroes-of-legionwood-episode-2.json](./171561-heroes-of-legionwood-episode-2.json) |
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
 | Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
+| Heroes of Loot 2 | 33596 | [33596-heroes-of-loot-2.json](./33596-heroes-of-loot-2.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic and Steel | 376660 | [376660-heroes-of-magic-and-steel.json](./376660-heroes-of-magic-and-steel.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
@@ -7147,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
+| Hyper Box | 33599 | [33599-hyper-box.json](./33599-hyper-box.json) |
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
 | Hyper Button | 76180 | [76180-hyper-button.json](./76180-hyper-button.json) |
 | Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
