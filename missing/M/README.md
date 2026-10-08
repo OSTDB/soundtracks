@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
 | MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
+| MadPug | 418257 | [418257-madpug.json](./418257-madpug.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Madruga From Mars | 252899 | [252899-madruga-from-mars.json](./252899-madruga-from-mars.json) |
@@ -7655,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
+| Minute to Win It | 418289 | [418289-minute-to-win-it.json](./418289-minute-to-win-it.json) |
 | MinuteDungeon | 144219 | [144219-minutedungeon.json](./144219-minutedungeon.json) |
 | MinuteFrontier | 144221 | [144221-minutefrontier.json](./144221-minutefrontier.json) |
 | MinuteQues‪t‬ | 144218 | [144218-minuteques-t.json](./144218-minuteques-t.json) |
@@ -11609,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
+| My Crush Beach Date Puzzle | 418322 | [418322-my-crush-beach-date-puzzle.json](./418322-my-crush-beach-date-puzzle.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
