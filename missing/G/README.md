@@ -3819,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
+| Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
@@ -6105,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Jump 2 | 321496 | [321496-gummy-jump-2.json](./321496-gummy-jump-2.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
+| Gummy War | 394206 | [394206-gummy-war.json](./394206-gummy-war.json) |
 | Gummy World | 101056 | [101056-gummy-world.json](./101056-gummy-world.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
