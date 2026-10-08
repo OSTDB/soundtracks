@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
 | Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
+| Masuku | 406740 | [406740-masuku.json](./406740-masuku.json) |
 | Masuzoe Youichi: Asa made Famicom | 48784 | [48784-masuzoe-youichi-asa-made-famicom.json](./48784-masuzoe-youichi-asa-made-famicom.json) |
 | Masyanya Under The Yellow Press | 335429 | [335429-masyanya-under-the-yellow-press.json](./335429-masyanya-under-the-yellow-press.json) |
 | Mat Hoffman's Pro BMX | 249166 | [249166-mat-hoffmans-pro-bmx.json](./249166-mat-hoffmans-pro-bmx.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Story | 47162 | [47162-medieval-story.json](./47162-medieval-story.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
+| Medieval Tavern Simulator | 407369 | [407369-medieval-tavern-simulator.json](./407369-medieval-tavern-simulator.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
@@ -5471,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
 | Mermaid Castle 2 | 264560 | [264560-mermaid-castle-2.json](./264560-mermaid-castle-2.json) |
+| Mermaid Catch: Transform Sirens into Anime Boys | 407273 | [407273-mermaid-catch-transform-sirens-into-anime-boys.json](./407273-mermaid-catch-transform-sirens-into-anime-boys.json) |
 | Mermaid Catch: Transform Sirens into Anime Girls | 409684 | [409684-mermaid-catch-transform-sirens-into-anime-girls.json](./409684-mermaid-catch-transform-sirens-into-anime-girls.json) |
 | Mermaid City | 310658 | [310658-mermaid-city.json](./310658-mermaid-city.json) |
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
@@ -6663,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
+| Mihashira | 406670 | [406670-mihashira.json](./406670-mihashira.json) |
 | Mihirha's Legacy | 226721 | [226721-mihirhas-legacy.json](./226721-mihirhas-legacy.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
@@ -7489,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniBikers | 34085 | [34085-minibikers.json](./34085-minibikers.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
+| Minibus Simulator | 407372 | [407372-minibus-simulator.json](./407372-minibus-simulator.json) |
 | Minibus Simulator Vietnam | 384616 | [384616-minibus-simulator-vietnam.json](./384616-minibus-simulator-vietnam.json) |
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | MiniCar Race | 104840 | [104840-minicar-race.json](./104840-minicar-race.json) |
@@ -8263,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
 | MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
+| MLF: Pro Catch | 406667 | [406667-mlf-pro-catch.json](./406667-mlf-pro-catch.json) |
 | MLG Flappy Bird 420 | 285148 | [285148-mlg-flappy-bird-420.json](./285148-mlg-flappy-bird-420.json) |
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
@@ -8799,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monet Heist | 184948 | [184948-monet-heist.json](./184948-monet-heist.json) |
 | Money Bags: Beat the Gnome of Zurich | 68886 | [68886-money-bags-beat-the-gnome-of-zurich.json](./68886-money-bags-beat-the-gnome-of-zurich.json) |
 | Money Burner | 420525 | [420525-money-burner.json](./420525-money-burner.json) |
+| Money Factory Tycoon | 407272 | [407272-money-factory-tycoon.json](./407272-money-factory-tycoon.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
@@ -10408,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
+| Motorhome: Traveling North America 4 - Collector's Edition | 407271 | [407271-motorhome-traveling-north-america-4-collectors-edition.json](./407271-motorhome-traveling-north-america-4-collectors-edition.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
 | Motorsport Manager | 19293 | [19293-motorsport-manager.json](./19293-motorsport-manager.json) |
