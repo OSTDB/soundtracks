@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron Anthology | 72283 | [72283-hearts-of-iron-anthology.json](./72283-hearts-of-iron-anthology.json) |
 | Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
+| Hearts of Iron II: Doomsday | 10397 | [10397-hearts-of-iron-ii-doomsday.json](./10397-hearts-of-iron-ii-doomsday.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
 | Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli Fire | 38565 | [38565-heli-fire.json](./38565-heli-fire.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
 | Heli Good Spelunker | 67975 | [67975-heli-good-spelunker.json](./67975-heli-good-spelunker.json) |
+| Heli Heroes | 10408 | [10408-heli-heroes.json](./10408-heli-heroes.json) |
 | Heli Mission | 277865 | [277865-heli-mission.json](./277865-heli-mission.json) |
 | Heli Monsters | 220200 | [220200-heli-monsters.json](./220200-heli-monsters.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
@@ -7120,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Empire | 333790 | [333790-hyper-empire.json](./333790-hyper-empire.json) |
+| Hyper Fighters | 10423 | [10423-hyper-fighters.json](./10423-hyper-fighters.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
