@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seedborne Soldiers | 349390 | [349390-seedborne-soldiers.json](./349390-seedborne-soldiers.json) |
 | Seeders Puzzle Reboot | 123411 | [123411-seeders-puzzle-reboot.json](./123411-seeders-puzzle-reboot.json) |
 | SeedHero | 342709 | [342709-seedhero.json](./342709-seedhero.json) |
+| Seeding The Wasteland | 406735 | [406735-seeding-the-wasteland.json](./406735-seeding-the-wasteland.json) |
 | Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
@@ -5350,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot to Escape | 231901 | [231901-shoot-to-escape.json](./231901-shoot-to-escape.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shoot to Slide | 184427 | [184427-shoot-to-slide.json](./184427-shoot-to-slide.json) |
+| Shoot Together | 406737 | [406737-shoot-together.json](./406737-shoot-together.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shoot Yourself With a Rifle | 336531 | [336531-shoot-yourself-with-a-rifle.json](./336531-shoot-yourself-with-a-rifle.json) |
 | Shoot-No-Shoot | 107805 | [107805-shoot-no-shoot.json](./107805-shoot-no-shoot.json) |
@@ -5822,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Sicaria | 289425 | [289425-sicaria.json](./289425-sicaria.json) |
+| Sichiken | 407213 | [407213-sichiken.json](./407213-sichiken.json) |
 | Sicier's Zweck | 117076 | [117076-siciers-zweck.json](./117076-siciers-zweck.json) |
 | Sick | 168694 | [168694-sick.json](./168694-sick.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
@@ -10852,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
+| Soul Huntress | 406657 | [406657-soul-huntress.json](./406657-soul-huntress.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
 | Soul Journey | 202115 | [202115-soul-journey.json](./202115-soul-journey.json) |
@@ -15037,6 +15041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starting Blocks | 272808 | [272808-starting-blocks.json](./272808-starting-blocks.json) |
 | Starting Life In Another World Naked | 208421 | [208421-starting-life-in-another-world-naked.json](./208421-starting-life-in-another-world-naked.json) |
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
+| StarTirant | 407299 | [407299-startirant.json](./407299-startirant.json) |
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | Startling Odyssey 1: Blue Evolution | 63928 | [63928-startling-odyssey-1-blue-evolution.json](./63928-startling-odyssey-1-blue-evolution.json) |
 | Startling Odyssey II: Maryuu Sensou | 63929 | [63929-startling-odyssey-ii-maryuu-sensou.json](./63929-startling-odyssey-ii-maryuu-sensou.json) |
@@ -15121,6 +15126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
+| Stationbreak | 406641 | [406641-stationbreak.json](./406641-stationbreak.json) |
 | Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
 | Stationeers: Human Cosmetics Pack | 227894 | [227894-stationeers-human-cosmetics-pack.json](./227894-stationeers-human-cosmetics-pack.json) |
 | Stationeers: Zrilian Species Pack | 227892 | [227892-stationeers-zrilian-species-pack.json](./227892-stationeers-zrilian-species-pack.json) |
@@ -16686,6 +16692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Witches 2: Iyasu, Naosu, Puni-Puni suru | 124062 | [124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json](./124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
+| Strike World | 407294 | [407294-strike-world.json](./407294-strike-world.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
 | Strike! Ten Pin Bowling | 147619 | [147619-strike-ten-pin-bowling.json](./147619-strike-ten-pin-bowling.json) |
 | Strike.is: The Game | 32046 | [32046-strike-is-the-game.json](./32046-strike-is-the-game.json) |
