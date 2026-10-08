@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | MagNets: Fully Charged | 21322 | [21322-magnets-fully-charged.json](./21322-magnets-fully-charged.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
+| Magnibox | 116051 | [116051-magnibox.json](./116051-magnibox.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent Ships: Volume 2 | 34664 | [34664-magnificent-ships-volume-2.json](./34664-magnificent-ships-volume-2.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
@@ -3620,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
+| Mayhem in Single Valley | 116780 | [116780-mayhem-in-single-valley.json](./116780-mayhem-in-single-valley.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Motorsports Collection | 283208 | [283208-mayhem-motorsports-collection.json](./283208-mayhem-motorsports-collection.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
@@ -5598,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max Balls | 249310 | [249310-metal-max-balls.json](./249310-metal-max-balls.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
 | Metal Max Xeno | 74874 | [74874-metal-max-xeno.json](./74874-metal-max-xeno.json) |
+| Metal Max Xeno Reborn | 117015 | [117015-metal-max-xeno-reborn.json](./117015-metal-max-xeno-reborn.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
@@ -7488,6 +7491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
+| Minions Battle | 116742 | [116742-minions-battle.json](./116742-minions-battle.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | Minions Paradise | 11073 | [11073-minions-paradise.json](./11073-minions-paradise.json) |
@@ -7703,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
+| Misadventures of Laura Silver | 116285 | [116285-misadventures-of-laura-silver.json](./116285-misadventures-of-laura-silver.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
 | Misaligned | 239698 | [239698-misaligned.json](./239698-misaligned.json) |
@@ -8822,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monolithic | 151269 | [151269-monolithic.json](./151269-monolithic.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
+| Monomals | 117017 | [117017-monomals.json](./117017-monomals.json) |
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
