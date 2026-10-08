@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
+| Shadow Warrior 3: Definitive Edition | 237681 | [237681-shadow-warrior-3-definitive-edition.json](./237681-shadow-warrior-3-definitive-edition.json) |
 | Shadow Warrior 3: Deluxe Edition | 193749 | [193749-shadow-warrior-3-deluxe-edition.json](./193749-shadow-warrior-3-deluxe-edition.json) |
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
 | Shadow Warriors | 6878 | [6878-shadow-warriors.json](./6878-shadow-warriors.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
+| Ship Graveyard Simulator 2 | 225984 | [225984-ship-graveyard-simulator-2.json](./225984-ship-graveyard-simulator-2.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
 | Ship Graveyard Simulator 3 | 397763 | [397763-ship-graveyard-simulator-3.json](./397763-ship-graveyard-simulator-3.json) |
 | Ship Graveyard Simulator Collection | 331407 | [331407-ship-graveyard-simulator-collection.json](./331407-ship-graveyard-simulator-collection.json) |
@@ -9818,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Death | 236888 | [236888-songs-of-death.json](./236888-songs-of-death.json) |
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Glimmerwick | 189014 | [189014-songs-of-glimmerwick.json](./189014-songs-of-glimmerwick.json) |
+| Songs of Silence | 238460 | [238460-songs-of-silence.json](./238460-songs-of-silence.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
@@ -12980,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
 | Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
+| Spooky Spirit Shooting Gallery | 227613 | [227613-spooky-spirit-shooting-gallery.json](./227613-spooky-spirit-shooting-gallery.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
 | Spooky Starlets | 120692 | [120692-spooky-starlets.json](./120692-spooky-starlets.json) |
 | Spooky Station | 122836 | [122836-spooky-station.json](./122836-spooky-station.json) |
@@ -14299,6 +14303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
+| Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
@@ -15173,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
+| Steelrising: Cagliostro's Secrets | 225748 | [225748-steelrising-cagliostros-secrets.json](./225748-steelrising-cagliostros-secrets.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
@@ -16895,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suck It Up! | 403775 | [403775-suck-it-up.json](./403775-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
+| Sucker for Love: Date to Die For | 236347 | [236347-sucker-for-love-date-to-die-for.json](./236347-sucker-for-love-date-to-die-for.json) |
 | Sucker for Love: Prelude | 194399 | [194399-sucker-for-love-prelude.json](./194399-sucker-for-love-prelude.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
@@ -19341,6 +19348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
+| Super Woden GP 2 | 225189 | [225189-super-woden-gp-2.json](./225189-super-woden-gp-2.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
 | Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
@@ -20578,6 +20586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
+| Sword of the Vagrant | 225891 | [225891-sword-of-the-vagrant.json](./225891-sword-of-the-vagrant.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
 | Sword Play! Ninja Slice Runner | 323313 | [323313-sword-play-ninja-slice-runner.json](./323313-sword-play-ninja-slice-runner.json) |
 | Sword Princess Amaltea: The Visual Novel | 173176 | [173176-sword-princess-amaltea-the-visual-novel.json](./173176-sword-princess-amaltea-the-visual-novel.json) |
