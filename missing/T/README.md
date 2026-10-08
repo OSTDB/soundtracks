@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
+| Tales of Glory | 36618 | [36618-tales-of-glory.json](./36618-tales-of-glory.json) |
 | Tales of Glory 2: Retaliation | 170367 | [170367-tales-of-glory-2-retaliation.json](./170367-tales-of-glory-2-retaliation.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Graces f | 20444 | [20444-tales-of-graces-f.json](./20444-tales-of-graces-f.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
+| The Battle of Sol | 36416 | [36416-the-battle-of-sol.json](./36416-the-battle-of-sol.json) |
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
@@ -5998,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
+| The Grand Ball | 36496 | [36496-the-grand-ball.json](./36496-the-grand-ball.json) |
 | The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
@@ -9551,6 +9554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
+| The Sheltered | 36492 | [36492-the-sheltered.json](./36492-the-sheltered.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
@@ -10067,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
 | The Story of the Goddess Ankhanessa: Journey to the East | 181193 | [181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json](./181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
+| The StoryTale | 36467 | [36467-the-storytale.json](./36467-the-storytale.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
@@ -10236,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
+| The Tavern | 36596 | [36596-the-tavern.json](./36596-the-tavern.json) |
 | The Tavern of Magic | 86413 | [86413-the-tavern-of-magic.json](./86413-the-tavern-of-magic.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
@@ -13410,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Rush | 389705 | [389705-timber-rush.json](./389705-timber-rush.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
+| Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
 | Timberborn | 126381 | [126381-timberborn.json](./126381-timberborn.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
