@@ -4778,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
+| Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
@@ -7928,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
+| Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce ASMR: Circle | 288911 | [288911-bounce-asmr-circle.json](./288911-bounce-asmr-circle.json) |
 | Bounce ASMR: Hexagon | 288913 | [288913-bounce-asmr-hexagon.json](./288913-bounce-asmr-hexagon.json) |
@@ -8109,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Discovery Edition | 333718 | [333718-bowling-fever-discovery-edition.json](./333718-bowling-fever-discovery-edition.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Fever: Hyper Edition | 410853 | [410853-bowling-fever-hyper-edition.json](./410853-bowling-fever-hyper-edition.json) |
+| Bowling Fever: Master Edition | 404274 | [404274-bowling-fever-master-edition.json](./404274-bowling-fever-master-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
