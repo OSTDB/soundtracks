@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz & Learn: Animals | 366216 | [366216-quiz-and-learn-animals.json](./366216-quiz-and-learn-animals.json) |
 | Quiz 4 All | 242017 | [242017-quiz-4-all.json](./242017-quiz-4-all.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
+| Quiz Academy | 398689 | [398689-quiz-academy.json](./398689-quiz-academy.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
