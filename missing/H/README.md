@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
+| Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
