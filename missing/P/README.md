@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal: Found Footage | 297176 | [297176-paranormal-found-footage.json](./297176-paranormal-found-footage.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
 | Paranormalized | 213837 | [213837-paranormalized.json](./213837-paranormalized.json) |
+| Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People In The Dark | 378374 | [378374-people-in-the-dark.json](./378374-people-in-the-dark.json) |
 | People Jumping Tower | 328035 | [328035-people-jumping-tower.json](./328035-people-jumping-tower.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
+| People of Note | 369842 | [369842-people-of-note.json](./369842-people-of-note.json) |
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
@@ -7723,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
+| PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
 | Powerup Humans | 290488 | [290488-powerup-humans.json](./290488-powerup-humans.json) |
 | PowerWash Adventure | 268977 | [268977-powerwash-adventure.json](./268977-powerwash-adventure.json) |
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
@@ -8010,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pride | 181737 | [181737-pride.json](./181737-pride.json) |
 | Pride and Prejudice: Blood Ties | 192776 | [192776-pride-and-prejudice-blood-ties.json](./192776-pride-and-prejudice-blood-ties.json) |
 | Pride FC: Fighting Championships | 18276 | [18276-pride-fc-fighting-championships.json](./18276-pride-fc-fighting-championships.json) |
+| Pride of Nations | 2068 | [2068-pride-of-nations.json](./2068-pride-of-nations.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Priest | 99688 | [99688-priest.json](./99688-priest.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
@@ -9519,6 +9523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
 | Psyvariar 2: The Will to Fabricate | 5993 | [5993-psyvariar-2-the-will-to-fabricate.json](./5993-psyvariar-2-the-will-to-fabricate.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
+| Psyvariar 3 | 379262 | [379262-psyvariar-3.json](./379262-psyvariar-3.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | PT Boats: South Gambit | 15770 | [15770-pt-boats-south-gambit.json](./15770-pt-boats-south-gambit.json) |
 | PT-109 | 71181 | [71181-pt-109.json](./71181-pt-109.json) |
@@ -10085,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris | 6866 | [6866-puyo-puyo-tetris.json](./6866-puyo-puyo-tetris.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
+| Puyo Puyo Tetris 2S | 338091 | [338091-puyo-puyo-tetris-2s.json](./338091-puyo-puyo-tetris-2s.json) |
 | Puyo Puyo Tsuu | 45976 | [45976-puyo-puyo-tsuu.json](./45976-puyo-puyo-tsuu.json) |
 | Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo Puyo!! Quest Arcade | 251092 | [251092-puyo-puyo-quest-arcade.json](./251092-puyo-puyo-quest-arcade.json) |
