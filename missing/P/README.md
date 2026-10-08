@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patapon 2: Art of War | 61093 | [61093-patapon-2-art-of-war.json](./61093-patapon-2-art-of-war.json) |
 | Patapon Remastered | 26233 | [26233-patapon-remastered.json](./26233-patapon-remastered.json) |
 | Patapon: Band Camp | 61092 | [61092-patapon-band-camp.json](./61092-patapon-band-camp.json) |
+| Patch | 391686 | [391686-patch.json](./391686-patch.json) |
 | Patch Tarot | 105775 | [105775-patch-tarot.json](./105775-patch-tarot.json) |
 | Patch the Pipe | 328686 | [328686-patch-the-pipe.json](./328686-patch-the-pipe.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
@@ -4582,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Aquarium | 400536 | [400536-pixel-aquarium.json](./400536-pixel-aquarium.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
+| Pixel Art Monster: Color by Number | 391688 | [391688-pixel-art-monster-color-by-number.json](./391688-pixel-art-monster-color-by-number.json) |
 | Pixel Art: Color by Number | 87040 | [87040-pixel-art-color-by-number.json](./87040-pixel-art-color-by-number.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
@@ -5251,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
+| Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
@@ -8225,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
+| Primal Survival | 391773 | [391773-primal-survival.json](./391773-primal-survival.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
 | Primal Threat | 173048 | [173048-primal-threat.json](./173048-primal-threat.json) |
 | Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
@@ -8971,6 +8975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Code: Shift | 75412 | [75412-project-code-shift.json](./75412-project-code-shift.json) |
 | Project Colored Mountains | 264095 | [264095-project-colored-mountains.json](./264095-project-colored-mountains.json) |
 | Project Combat | 125922 | [125922-project-combat.json](./125922-project-combat.json) |
+| Project Confluence | 391772 | [391772-project-confluence.json](./391772-project-confluence.json) |
 | Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Coreward | 275721 | [275721-project-coreward.json](./275721-project-coreward.json) |
 | Project Corner | 407549 | [407549-project-corner.json](./407549-project-corner.json) |
@@ -9306,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xandata | 75405 | [75405-project-xandata.json](./75405-project-xandata.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
+| Project XLOWS: Keyboard Apocalypse TM | 391690 | [391690-project-xlows-keyboard-apocalypse-tm.json](./391690-project-xlows-keyboard-apocalypse-tm.json) |
 | Project Xmas | 192250 | [192250-project-xmas.json](./192250-project-xmas.json) |
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
@@ -9594,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
+| Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
