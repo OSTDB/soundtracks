@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
 | Cards of Heart | 296029 | [296029-cards-of-heart.json](./296029-cards-of-heart.json) |
 | Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
+| Cards of Lust | 392896 | [392896-cards-of-lust.json](./392896-cards-of-lust.json) |
 | Cards of the Bog | 182862 | [182862-cards-of-the-bog.json](./182862-cards-of-the-bog.json) |
 | Cards of the Dead | 147335 | [147335-cards-of-the-dead.json](./147335-cards-of-the-dead.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
@@ -3703,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 3 - Green Walls | 222939 | [222939-chernobylite-season-3-green-walls.json](./222939-chernobylite-season-3-green-walls.json) |
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
+| Chernov Incident | 392852 | [392852-chernov-incident.json](./392852-chernov-incident.json) |
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
 | Cherry blossom | 392414 | [392414-cherry-blossom.json](./392414-cherry-blossom.json) |
 | Cherry Blossom | 380064 | [380064-cherry-blossom.json](./380064-cherry-blossom.json) |
