@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Leave Me Alone | 301948 | [301948-please-leave-me-alone.json](./301948-please-leave-me-alone.json) |
 | Please Leave Me Alone, I Need to Poop | 291187 | [291187-please-leave-me-alone-i-need-to-poop.json](./291187-please-leave-me-alone-i-need-to-poop.json) |
 | Please Praise the SR Girls! | 419937 | [419937-please-praise-the-sr-girls.json](./419937-please-praise-the-sr-girls.json) |
+| Please Protect My Secret | 401890 | [401890-please-protect-my-secret.json](./401890-please-protect-my-secret.json) |
 | Please read me | 229789 | [229789-please-read-me.json](./229789-please-read-me.json) |
 | Please Say Hi | 341568 | [341568-please-say-hi.json](./341568-please-say-hi.json) |
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
@@ -8228,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordial Soup | 401863 | [401863-primordial-soup.json](./401863-primordial-soup.json) |
 | Primordials: Battle of Gods | 137978 | [137978-primordials-battle-of-gods.json](./137978-primordials-battle-of-gods.json) |
 | Primordian | 81241 | [81241-primordian.json](./81241-primordian.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
