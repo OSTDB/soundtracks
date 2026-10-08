@@ -4472,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explosion | 200466 | [200466-explosion.json](./200466-explosion.json) |
+| Explosionade | 35176 | [35176-explosionade.json](./35176-explosionade.json) |
 | Explosionade DX | 146797 | [146797-explosionade-dx.json](./146797-explosionade-dx.json) |
 | Explosiovania | 361258 | [361258-explosiovania.json](./361258-explosiovania.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
