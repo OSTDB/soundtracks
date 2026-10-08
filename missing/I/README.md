@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Jelly | 186263 | [186263-im-not-jelly.json](./186263-im-not-jelly.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
 | I'm Not Spider | 347801 | [347801-im-not-spider.json](./347801-im-not-spider.json) |
+| I'm O.K: A Murder Simulator | 50118 | [50118-im-o-k-a-murder-simulator.json](./50118-im-o-k-a-murder-simulator.json) |
 | I'm Oh, So Busy...:A Week with Yoshimi | 143527 | [143527-im-oh-so-busy-a-week-with-yoshimi.json](./143527-im-oh-so-busy-a-week-with-yoshimi.json) |
 | I'm on a Watcher Duty: Anniversary Special | 259725 | [259725-im-on-a-watcher-duty-anniversary-special.json](./259725-im-on-a-watcher-duty-anniversary-special.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
