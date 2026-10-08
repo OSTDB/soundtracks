@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
 | Backrooms: The Project | 239762 | [239762-backrooms-the-project.json](./239762-backrooms-the-project.json) |
 | Backrooms: The Silence | 339449 | [339449-backrooms-the-silence.json](./339449-backrooms-the-silence.json) |
+| Backrooms: The Twisted One | 399294 | [399294-backrooms-the-twisted-one.json](./399294-backrooms-the-twisted-one.json) |
 | Backrooms: The Void | 407469 | [407469-backrooms-the-void.json](./407469-backrooms-the-void.json) |
 | Backrooms: The Wrong Door | 404887 | [404887-backrooms-the-wrong-door.json](./404887-backrooms-the-wrong-door.json) |
 | Backrooms: What's Next | 404792 | [404792-backrooms-whats-next.json](./404792-backrooms-whats-next.json) |
@@ -2956,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
+| Beards Go Underground | 399258 | [399258-beards-go-underground.json](./399258-beards-go-underground.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
 | Beardy the Digger | 122143 | [122143-beardy-the-digger.json](./122143-beardy-the-digger.json) |
 | BearHammer | 105100 | [105100-bearhammer.json](./105100-bearhammer.json) |
@@ -3408,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
 | Beer Drinkin' Terrorist Hunter | 311681 | [311681-beer-drinkin-terrorist-hunter.json](./311681-beer-drinkin-terrorist-hunter.json) |
 | Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
+| Beer Gunner | 399251 | [399251-beer-gunner.json](./399251-beer-gunner.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
@@ -3804,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
 | Berserker Girl | 377202 | [377202-berserker-girl.json](./377202-berserker-girl.json) |
+| Berserker Onslaught | 399292 | [399292-berserker-onslaught.json](./399292-berserker-onslaught.json) |
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
@@ -8164,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
 | Box Dog | 329096 | [329096-box-dog.json](./329096-box-dog.json) |
 | Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
+| Box Game | 399248 | [399248-box-game.json](./399248-box-game.json) |
 | Box Head: Zombies Must Die! | 267350 | [267350-box-head-zombies-must-die.json](./267350-box-head-zombies-must-die.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box Hustle | 369747 | [369747-box-hustle.json](./369747-box-hustle.json) |
