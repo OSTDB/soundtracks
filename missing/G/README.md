@@ -5180,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
 | Greeny the Blox | 369173 | [369173-greeny-the-blox.json](./369173-greeny-the-blox.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
+| Greetings From El Rey | 399265 | [399265-greetings-from-el-rey.json](./399265-greetings-from-el-rey.json) |
 | Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
 | Greg Hastings' Tournament Paintball | 5854 | [5854-greg-hastings-tournament-paintball.json](./5854-greg-hastings-tournament-paintball.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
@@ -6338,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunQuest | 195624 | [195624-gunquest.json](./195624-gunquest.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
+| Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
