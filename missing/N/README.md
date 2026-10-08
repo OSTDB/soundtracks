@@ -563,6 +563,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuiro Komachi: Ichiji Senka | 327962 | [327962-natsuiro-komachi-ichiji-senka.json](./327962-natsuiro-komachi-ichiji-senka.json) |
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
 | Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
+| Natsuiro Sail Trim: Sail 1 | 395505 | [395505-natsuiro-sail-trim-sail-1.json](./395505-natsuiro-sail-trim-sail-1.json) |
+| Natsuiro Sail Trim: Sail 2 | 395506 | [395506-natsuiro-sail-trim-sail-2.json](./395506-natsuiro-sail-trim-sail-2.json) |
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
 | Natsuki Chronicles | 61467 | [61467-natsuki-chronicles.json](./61467-natsuki-chronicles.json) |
 | Natsuki Crisis Battle | 38210 | [38210-natsuki-crisis-battle.json](./38210-natsuki-crisis-battle.json) |
@@ -1343,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemoto Harumi Eizou Play | 243288 | [243288-nemoto-harumi-eizou-play.json](./243288-nemoto-harumi-eizou-play.json) |
 | Nemu Neko Puzzle demo Neteimasu | 222375 | [222375-nemu-neko-puzzle-demo-neteimasu.json](./222375-nemu-neko-puzzle-demo-neteimasu.json) |
 | Nemunai | 374824 | [374824-nemunai.json](./374824-nemunai.json) |
+| Nemurenai Yoru, Kimi wo Sagashite | 395494 | [395494-nemurenai-yoru-kimi-wo-sagashite.json](./395494-nemurenai-yoru-kimi-wo-sagashite.json) |
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
