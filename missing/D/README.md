@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
+| Damsel | 58533 | [58533-damsel.json](./58533-damsel.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Dan Dare II: Mekon's Revenge | 13567 | [13567-dan-dare-ii-mekons-revenge.json](./13567-dan-dare-ii-mekons-revenge.json) |
 | Dan Dare III: The Escape | 12032 | [12032-dan-dare-iii-the-escape.json](./12032-dan-dare-iii-the-escape.json) |
@@ -8399,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
+| Dragon Hills | 60253 | [60253-dragon-hills.json](./60253-dragon-hills.json) |
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
 | Dragon History | 66746 | [66746-dragon-history.json](./66746-dragon-history.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
@@ -8921,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
+| Dream Alone | 56033 | [56033-dream-alone.json](./56033-dream-alone.json) |
 | Dream Angling | 100319 | [100319-dream-angling.json](./100319-dream-angling.json) |
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
@@ -9538,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Smuggler | 363575 | [363575-drone-smuggler.json](./363575-drone-smuggler.json) |
+| Drone Swarm | 56357 | [56357-drone-swarm.json](./56357-drone-swarm.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
@@ -9856,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Hunter Pro 3D | 101553 | [101553-duck-hunter-pro-3d.json](./101553-duck-hunter-pro-3d.json) |
 | Duck Hunting | 28885 | [28885-duck-hunting.json](./28885-duck-hunting.json) |
 | Duck Life | 210659 | [210659-duck-life.json](./210659-duck-life.json) |
+| Duck Life | 58367 | [58367-duck-life.json](./58367-duck-life.json) |
 | Duck Life 2: World Champion | 212722 | [212722-duck-life-2-world-champion.json](./212722-duck-life-2-world-champion.json) |
 | Duck Life 3: Evolution | 212723 | [212723-duck-life-3-evolution.json](./212723-duck-life-3-evolution.json) |
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
