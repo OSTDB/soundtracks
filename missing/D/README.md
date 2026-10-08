@@ -6497,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
 | Do Something | 192752 | [192752-do-something.json](./192752-do-something.json) |
 | Do the Cat | 326267 | [326267-do-the-cat.json](./326267-do-the-cat.json) |
+| Do They Know | 399256 | [399256-do-they-know.json](./399256-do-they-know.json) |
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
+| Dream Loser | 399263 | [399263-dream-loser.json](./399263-dream-loser.json) |
 | Dream Magic Will | 207272 | [207272-dream-magic-will.json](./207272-dream-magic-will.json) |
 | Dream Management | 49608 | [49608-dream-management.json](./49608-dream-management.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
