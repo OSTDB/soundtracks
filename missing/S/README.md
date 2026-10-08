@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
 | Seclusion: Islesbury | 28147 | [28147-seclusion-islesbury.json](./28147-seclusion-islesbury.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
+| Second Battle of El Alamein | 100769 | [100769-second-battle-of-el-alamein.json](./100769-second-battle-of-el-alamein.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
 | Second Chance | 144198 | [144198-second-chance.json](./144198-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
@@ -8299,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Brick | 237324 | [237324-smashy-brick.json](./237324-smashy-brick.json) |
 | Smashy Cannon | 359532 | [359532-smashy-cannon.json](./359532-smashy-cannon.json) |
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
+| Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
@@ -11227,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
+| Space Elite Force | 100593 | [100593-space-elite-force.json](./100593-space-elite-force.json) |
 | Space Elite Force 2 in 1 | 213856 | [213856-space-elite-force-2-in-1.json](./213856-space-elite-force-2-in-1.json) |
 | Space Empires | 15649 | [15649-space-empires.json](./15649-space-empires.json) |
 | Space Empires II | 15650 | [15650-space-empires-ii.json](./15650-space-empires-ii.json) |
@@ -15418,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | Stepan's Life | 260310 | [260310-stepans-life.json](./260310-stepans-life.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
+| Steph IQ | 100611 | [100611-steph-iq.json](./100611-steph-iq.json) |
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
@@ -15637,6 +15641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
+| Still Here... A cute Adventure | 100773 | [100773-still-here-a-cute-adventure.json](./100773-still-here-a-cute-adventure.json) |
 | Still Here... Flight Adventure | 99178 | [99178-still-here-flight-adventure.json](./99178-still-here-flight-adventure.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still House | 366887 | [366887-still-house.json](./366887-still-house.json) |
