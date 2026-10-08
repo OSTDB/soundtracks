@@ -7439,6 +7439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
 | Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
+| Mini-Map | 419200 | [419200-mini-map.json](./419200-mini-map.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
 | Mini-Moni. Dice de Pyon! | 243285 | [243285-mini-moni-dice-de-pyon.json](./243285-mini-moni-dice-de-pyon.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Girl Savior | 272367 | [272367-mosaic-girl-savior.json](./272367-mosaic-girl-savior.json) |
 | Mosaic Hearts | 172497 | [172497-mosaic-hearts.json](./172497-mosaic-hearts.json) |
 | Mosaic Mini Golf | 175234 | [175234-mosaic-mini-golf.json](./175234-mosaic-mini-golf.json) |
+| Mosaic of Life | 419154 | [419154-mosaic-of-life.json](./419154-mosaic-of-life.json) |
 | Mosaic of the Pharaohs | 337076 | [337076-mosaic-of-the-pharaohs.json](./337076-mosaic-of-the-pharaohs.json) |
 | Mosaic of the Strange | 345024 | [345024-mosaic-of-the-strange.json](./345024-mosaic-of-the-strange.json) |
 | Mosaic Quiz | 378814 | [378814-mosaic-quiz.json](./378814-mosaic-quiz.json) |
@@ -11011,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Turtles | 249330 | [249330-multiplayer-turtles.json](./249330-multiplayer-turtles.json) |
 | Multiplayer Wizards | 304820 | [304820-multiplayer-wizards.json](./304820-multiplayer-wizards.json) |
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
+| Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
