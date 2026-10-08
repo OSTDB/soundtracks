@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
+| La Royale: Below Deck | 391121 | [391121-la-royale-below-deck.json](./391121-la-royale-below-deck.json) |
 | La Ruota Della Sfortuna: Prima parte | 318571 | [318571-la-ruota-della-sfortuna-prima-parte.json](./318571-la-ruota-della-sfortuna-prima-parte.json) |
 | La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
 | LA Soul | 405428 | [405428-la-soul.json](./405428-la-soul.json) |
@@ -1727,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Venari | 198301 | [198301-legends-of-venari.json](./198301-legends-of-venari.json) |
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
 | Legends of War: Patton | 20015 | [20015-legends-of-war-patton.json](./20015-legends-of-war-patton.json) |
+| Legends of Wasteland | 391113 | [391113-legends-of-wasteland.json](./391113-legends-of-wasteland.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
@@ -3145,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line of Fire: Pirate Waltz | 290544 | [290544-line-of-fire-pirate-waltz.json](./290544-line-of-fire-pirate-waltz.json) |
 | Line of Sight | 27577 | [27577-line-of-sight.json](./27577-line-of-sight.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
+| Line of Taste: Pizza Crust | 391228 | [391228-line-of-taste-pizza-crust.json](./391228-line-of-taste-pizza-crust.json) |
 | Line Path | 201580 | [201580-line-path.json](./201580-line-path.json) |
 | Line Physics: Draw Lines to Solve Puzzles | 105777 | [105777-line-physics-draw-lines-to-solve-puzzles.json](./105777-line-physics-draw-lines-to-solve-puzzles.json) |
 | Line Physics: Drawing Puzzle | 106976 | [106976-line-physics-drawing-puzzle.json](./106976-line-physics-drawing-puzzle.json) |
@@ -3191,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
 | Lines X | 119522 | [119522-lines-x.json](./119522-lines-x.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
+| Lines: A Gift for Mom | 391139 | [391139-lines-a-gift-for-mom.json](./391139-lines-a-gift-for-mom.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
@@ -3233,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
+| Link Penguins | 391224 | [391224-link-penguins.json](./391224-link-penguins.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
 | Link Tower | 320810 | [320810-link-tower.json](./320810-link-tower.json) |
 | Link Twin | 29055 | [29055-link-twin.json](./29055-link-twin.json) |
