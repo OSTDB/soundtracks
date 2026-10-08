@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Seven: Chikyuu Bouei Sakusen | 63959 | [63959-ultra-seven-chikyuu-bouei-sakusen.json](./63959-ultra-seven-chikyuu-bouei-sakusen.json) |
+| Ultra Space Battle Brawl | 97964 | [97964-ultra-space-battle-brawl.json](./97964-ultra-space-battle-brawl.json) |
 | Ultra Street Fighter IV: 2014 Challengers Horror Pack | 225145 | [225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json](./225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json) |
 | Ultra Street Fighter IV: 2014 Challengers Vacation Pack | 225146 | [225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json](./225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json) |
 | Ultra Street Fighter IV: 2014 Challengers Wild Pack | 225147 | [225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json](./225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json) |
