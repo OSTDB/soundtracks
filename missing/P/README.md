@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panties Attack | 297173 | [297173-panties-attack.json](./297173-panties-attack.json) |
 | Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
+| Pantomime Horse Obstacle Course | 408018 | [408018-pantomime-horse-obstacle-course.json](./408018-pantomime-horse-obstacle-course.json) |
 | Pantropy | 77611 | [77611-pantropy.json](./77611-pantropy.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Girlfriend | 236968 | [236968-paranormal-girlfriend.json](./236968-paranormal-girlfriend.json) |
+| Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Mutagens: Cargo | 329209 | [329209-paranormal-mutagens-cargo.json](./329209-paranormal-mutagens-cargo.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantoons | 341570 | [341570-plantoons.json](./341570-plantoons.json) |
 | Plants | 101330 | [101330-plants.json](./101330-plants.json) |
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
+| Plants on Fire | 408106 | [408106-plants-on-fire.json](./408106-plants-on-fire.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
@@ -9704,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Defense Corp | 118761 | [118761-public-defense-corp.json](./118761-public-defense-corp.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
+| Public Fears: George's Farm | 408010 | [408010-public-fears-georges-farm.json](./408010-public-fears-georges-farm.json) |
 | Public Restroom Simulator 2022 | 213321 | [213321-public-restroom-simulator-2022.json](./213321-public-restroom-simulator-2022.json) |
 | Public Toilet Simulator | 340591 | [340591-public-toilet-simulator.json](./340591-public-toilet-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
