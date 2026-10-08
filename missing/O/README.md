@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Grand Battle! 2 | 75743 | [75743-one-piece-grand-battle-2.json](./75743-one-piece-grand-battle-2.json) |
 | One Piece: Grand Cruise | 47292 | [47292-one-piece-grand-cruise.json](./47292-one-piece-grand-cruise.json) |
+| One Piece: Grand Gourmet | 405435 | [405435-one-piece-grand-gourmet.json](./405435-one-piece-grand-gourmet.json) |
 | One Piece: Maboroshi no Grand Line Boukenki! | 75744 | [75744-one-piece-maboroshi-no-grand-line-boukenki.json](./75744-one-piece-maboroshi-no-grand-line-boukenki.json) |
 | One Piece: Mezase Kaizoku-ou! | 75737 | [75737-one-piece-mezase-kaizoku-ou.json](./75737-one-piece-mezase-kaizoku-ou.json) |
 | One Piece: Mezase Kaizokuou! | 61475 | [61475-one-piece-mezase-kaizokuou.json](./61475-one-piece-mezase-kaizokuou.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
 | Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
 | Oubliette Gauntlet | 137389 | [137389-oubliette-gauntlet.json](./137389-oubliette-gauntlet.json) |
+| Ouch! Cargo! | 405548 | [405548-ouch-cargo.json](./405548-ouch-cargo.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi de Amaeru Shakaijin Kanojo no Renai Moyou | 382957 | [382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json](./382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json) |
 | Ouchi de Mugen Puchi Puchi Wii | 408870 | [408870-ouchi-de-mugen-puchi-puchi-wii.json](./408870-ouchi-de-mugen-puchi-puchi-wii.json) |
