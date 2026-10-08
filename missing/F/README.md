@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
+| Fairlight | 12995 | [12995-fairlight.json](./12995-fairlight.json) |
 | Fairlight II: Trail of Darkness | 26444 | [26444-fairlight-ii-trail-of-darkness.json](./26444-fairlight-ii-trail-of-darkness.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
 | Fairly Life | 90928 | [90928-fairly-life.json](./90928-fairly-life.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
+| Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
@@ -6931,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
+| Frogger | 11470 | [11470-frogger.json](./11470-frogger.json) |
 | Frogger | 199426 | [199426-frogger.json](./199426-frogger.json) |
 | Frogger | 203243 | [203243-frogger.json](./203243-frogger.json) |
 | Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
@@ -6977,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger: Ancient Shadow | 3924 | [3924-frogger-ancient-shadow.json](./3924-frogger-ancient-shadow.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
+| Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie Dash | 311686 | [311686-froggie-dash.json](./311686-froggie-dash.json) |
@@ -8020,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
 | FX Chess Plus | 92864 | [92864-fx-chess-plus.json](./92864-fx-chess-plus.json) |
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
+| FX Fighter | 11673 | [11673-fx-fighter.json](./11673-fx-fighter.json) |
 | FX Fighter Turbo | 68982 | [68982-fx-fighter-turbo.json](./68982-fx-fighter-turbo.json) |
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
