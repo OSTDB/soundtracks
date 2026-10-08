@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
 | Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
+| Galactic Gallery | 105899 | [105899-galactic-gallery.json](./105899-galactic-gallery.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | Galak-Z: The Void & Skulls of the Shogun: Bonafide Edition - Platinum Pack | 138264 | [138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json](./138264-galak-z-the-void-and-skulls-of-the-shogun-bonafide-edition-platinum-pack.json) |
 | Galak-Z: Variant Mobile | 105856 | [105856-galak-z-variant-mobile.json](./105856-galak-z-variant-mobile.json) |
+| Galak-Z: Variant S | 105801 | [105801-galak-z-variant-s.json](./105801-galak-z-variant-s.json) |
 | Galaksia Online | 407593 | [407593-galaksia-online.json](./407593-galaksia-online.json) |
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
@@ -2602,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Book Maker: Shiawase no Libretto | 194573 | [194573-girls-book-maker-shiawase-no-libretto.json](./194573-girls-book-maker-shiawase-no-libretto.json) |
 | Girls Bravo Romance15's | 60879 | [60879-girls-bravo-romance15s.json](./60879-girls-bravo-romance15s.json) |
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
+| Girls Dance | 105691 | [105691-girls-dance.json](./105691-girls-dance.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
 | Girls don't like me | 182905 | [182905-girls-dont-like-me.json](./182905-girls-dont-like-me.json) |
 | Girls Fashion 3D: Mezase! Top Stylist | 222331 | [222331-girls-fashion-3d-mezase-top-stylist.json](./222331-girls-fashion-3d-mezase-top-stylist.json) |
