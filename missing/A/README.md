@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
+| Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
 | Accident | 202774 | [202774-accident.json](./202774-accident.json) |
 | Accident | 97907 | [97907-accident.json](./97907-accident.json) |
+| Accident Investigator Simulator: Black Box | 412789 | [412789-accident-investigator-simulator-black-box.json](./412789-accident-investigator-simulator-black-box.json) |
 | Accident Liquidator | 312668 | [312668-accident-liquidator.json](./312668-accident-liquidator.json) |
 | Accidental Character Generator | 135785 | [135785-accidental-character-generator.json](./135785-accidental-character-generator.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
@@ -3455,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Alganon | 35736 | [35736-alganon.json](./35736-alganon.json) |
+| Algator Speedrun | 412887 | [412887-algator-speedrun.json](./412887-algator-speedrun.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
@@ -5799,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
+| Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
@@ -8535,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
 | Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
+| Assassin’s Creed Black Flag Resynced: Collector’s Edition | 412816 | [412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json](./412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json) |
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
 | Assassin's Creed Brotherhood: The Da Vinci Disappearance | 8216 | [8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json](./8216-assassins-creed-brotherhood-the-da-vinci-disappearance.json) |
 | Assassin's Creed Chronicles: India | 14902 | [14902-assassins-creed-chronicles-india.json](./14902-assassins-creed-chronicles-india.json) |
