@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOPN: Test RS | 285549 | [285549-eopn-test-rs.json](./285549-eopn-test-rs.json) |
 | Eormor: Shattered Lands | 120918 | [120918-eormor-shattered-lands.json](./120918-eormor-shattered-lands.json) |
 | Eos | 147330 | [147330-eos.json](./147330-eos.json) |
+| EOS Black | 393554 | [393554-eos-black.json](./393554-eos-black.json) |
 | EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Ep3 | 229588 | [229588-ep3.json](./229588-ep3.json) |
