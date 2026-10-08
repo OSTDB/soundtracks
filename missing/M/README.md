@@ -7332,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
 | Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
+| Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
@@ -7806,6 +7807,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
+| Mirrored Maze | 403655 | [403655-mirrored-maze.json](./403655-mirrored-maze.json) |
+| Mirrored Maze 2 | 403656 | [403656-mirrored-maze-2.json](./403656-mirrored-maze-2.json) |
+| Mirrored Maze 3 | 403697 | [403697-mirrored-maze-3.json](./403697-mirrored-maze-3.json) |
 | Mirrored Pawns | 169827 | [169827-mirrored-pawns.json](./169827-mirrored-pawns.json) |
 | Mirrored Phantoms | 333180 | [333180-mirrored-phantoms.json](./333180-mirrored-phantoms.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
@@ -9387,6 +9391,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
 | Monster Truck Madness 2 | 3542 | [3542-monster-truck-madness-2.json](./3542-monster-truck-madness-2.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
+| Monster Truck Maniac | 403698 | [403698-monster-truck-maniac.json](./403698-monster-truck-maniac.json) |
+| Monster Truck Maniac 2 | 403699 | [403699-monster-truck-maniac-2.json](./403699-monster-truck-maniac-2.json) |
+| Monster Truck Maniac 3 | 403700 | [403700-monster-truck-maniac-3.json](./403700-monster-truck-maniac-3.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Truck Rally | 48199 | [48199-monster-truck-rally.json](./48199-monster-truck-rally.json) |
 | Monster Truck Rally Racing | 95554 | [95554-monster-truck-rally-racing.json](./95554-monster-truck-rally-racing.json) |
@@ -10259,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Mothman | 277983 | [277983-mothman.json](./277983-mothman.json) |
 | Mothman's Caravan | 357401 | [357401-mothmans-caravan.json](./357401-mothmans-caravan.json) |
+| Motian Chengwei Meimei | 403639 | [403639-motian-chengwei-meimei.json](./403639-motian-chengwei-meimei.json) |
 | Motion | 130173 | [130173-motion.json](./130173-motion.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
@@ -10818,6 +10826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Potato Head Saves Veggie Valley | 61025 | [61025-mr-potato-head-saves-veggie-valley.json](./61025-mr-potato-head-saves-veggie-valley.json) |
 | Mr. Prepper | 81680 | [81680-mr-prepper.json](./81680-mr-prepper.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
+| Mr. President! | 403624 | [403624-mr-president.json](./403624-mr-president.json) |
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
 | Mr. Prospector Horiate-kun | 270148 | [270148-mr-prospector-horiate-kun.json](./270148-mr-prospector-horiate-kun.json) |
 | Mr. Pumpkin 2: Kowloon Walled City | 126666 | [126666-mr-pumpkin-2-kowloon-walled-city.json](./126666-mr-pumpkin-2-kowloon-walled-city.json) |
