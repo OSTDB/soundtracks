@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
 | I Think I'm in Love with a Demon Prince | 268985 | [268985-i-think-im-in-love-with-a-demon-prince.json](./268985-i-think-im-in-love-with-a-demon-prince.json) |
+| I Thought I Knew You | 414836 | [414836-i-thought-i-knew-you.json](./414836-i-thought-i-knew-you.json) |
 | I told you | 220041 | [220041-i-told-you.json](./220041-i-told-you.json) |
 | I Too Can Grow | 179058 | [179058-i-too-can-grow.json](./179058-i-too-can-grow.json) |
 | I Touched Tips with a Femboy | 385244 | [385244-i-touched-tips-with-a-femboy.json](./385244-i-touched-tips-with-a-femboy.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
 | Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
+| Idle Squares | 414840 | [414840-idle-squares.json](./414840-idle-squares.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
@@ -2160,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infestation: Revival | 122933 | [122933-infestation-revival.json](./122933-infestation-revival.json) |
 | Infested | 262554 | [262554-infested.json](./262554-infested.json) |
+| Infested DX | 414851 | [414851-infested-dx.json](./414851-infested-dx.json) |
 | Infested Grounds | 275068 | [275068-infested-grounds.json](./275068-infested-grounds.json) |
 | Infested Inside Multiplayer Online | 119614 | [119614-infested-inside-multiplayer-online.json](./119614-infested-inside-multiplayer-online.json) |
 | Infested Lands | 248014 | [248014-infested-lands.json](./248014-infested-lands.json) |
