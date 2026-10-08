@@ -6281,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
 | Blood Oath | 350061 | [350061-blood-oath.json](./350061-blood-oath.json) |
 | Blood Oath | 64716 | [64716-blood-oath.json](./64716-blood-oath.json) |
+| Blood of Bahamut | 70641 | [70641-blood-of-bahamut.json](./70641-blood-of-bahamut.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
@@ -8363,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Deeds of Rescue Team | 157505 | [157505-brave-deeds-of-rescue-team.json](./157505-brave-deeds-of-rescue-team.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
+| Brave Dungeon + Dark Witch's Story: Combat | 69393 | [69393-brave-dungeon-dark-witchs-story-combat.json](./69393-brave-dungeon-dark-witchs-story-combat.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
 | Brave Dungeon: The Meaning Of Justice | 111450 | [111450-brave-dungeon-the-meaning-of-justice.json](./111450-brave-dungeon-the-meaning-of-justice.json) |
 | Brave Dwarves | 188558 | [188558-brave-dwarves.json](./188558-brave-dwarves.json) |
