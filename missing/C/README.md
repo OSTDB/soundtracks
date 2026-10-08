@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
+| Cleansuit | 74460 | [74460-cleansuit.json](./74460-cleansuit.json) |
 | Cleanup Crew | 169823 | [169823-cleanup-crew.json](./169823-cleanup-crew.json) |
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
@@ -6723,6 +6724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
 | Color of Love | 339410 | [339410-color-of-love.json](./339410-color-of-love.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
+| Color Oil | 74710 | [74710-color-oil.json](./74710-color-oil.json) |
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
@@ -9811,6 +9813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
+| Crimson Earth 2 | 74682 | [74682-crimson-earth-2.json](./74682-crimson-earth-2.json) |
 | Crimson Empire: Circumstances to Serve a Noble | 58056 | [58056-crimson-empire-circumstances-to-serve-a-noble.json](./58056-crimson-empire-circumstances-to-serve-a-noble.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Freedom | 381192 | [381192-crimson-freedom.json](./381192-crimson-freedom.json) |
