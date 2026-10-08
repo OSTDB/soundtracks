@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Sacrifice | 152065 | [152065-salt-and-sacrifice.json](./152065-salt-and-sacrifice.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
+| Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum Arcadia | 230902 | [230902-sanctum-arcadia.json](./230902-sanctum-arcadia.json) |
 | Sanctum Breach | 122977 | [122977-sanctum-breach.json](./122977-sanctum-breach.json) |
 | Sanctum Breach: Rebirth | 196579 | [196579-sanctum-breach-rebirth.json](./196579-sanctum-breach-rebirth.json) |
+| Sanctum Wars: Ex Infernis | 411542 | [411542-sanctum-wars-ex-infernis.json](./411542-sanctum-wars-ex-infernis.json) |
 | Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
@@ -5432,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
+| Shopenkraft's Quantum Curiosities | 411501 | [411501-shopenkrafts-quantum-curiosities.json](./411501-shopenkrafts-quantum-curiosities.json) |
 | Shopkeeper Simulator | 117613 | [117613-shopkeeper-simulator.json](./117613-shopkeeper-simulator.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
@@ -5935,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siebenstreich's Nerdventure | 150270 | [150270-siebenstreichs-nerdventure.json](./150270-siebenstreichs-nerdventure.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
+| Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
 | Siege Machines Builder | 117596 | [117596-siege-machines-builder.json](./117596-siege-machines-builder.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
@@ -8081,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
 | Slot! Pro 2 Advance: Go Go Juggler & New Tairyou | 49814 | [49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json](./49814-slot-pro-2-advance-go-go-juggler-and-new-tairyou.json) |
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
+| Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
