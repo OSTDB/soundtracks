@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einar: Loki's Traps | 171357 | [171357-einar-lokis-traps.json](./171357-einar-lokis-traps.json) |
 | Einhänder | 1360 | [1360-einhander.json](./1360-einhander.json) |
 | Einherjar | 181122 | [181122-einherjar.json](./181122-einherjar.json) |
+| Einlanzer | 30575 | [30575-einlanzer.json](./30575-einlanzer.json) |
 | Einn | 120832 | [120832-einn.json](./120832-einn.json) |
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape again | 120721 | [120721-escape-again.json](./120721-escape-again.json) |
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
+| Escape Artist: The Trial | 30591 | [30591-escape-artist-the-trial.json](./30591-escape-artist-the-trial.json) |
 | Escape Asylum | 96936 | [96936-escape-asylum.json](./96936-escape-asylum.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
