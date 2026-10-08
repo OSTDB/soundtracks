@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
+| Lady Rose Wardrobe | 398639 | [398639-lady-rose-wardrobe.json](./398639-lady-rose-wardrobe.json) |
 | Lady Stalker: Kako kara no Chousen | 71788 | [71788-lady-stalker-kako-kara-no-chousen.json](./71788-lady-stalker-kako-kara-no-chousen.json) |
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
@@ -3914,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobi y la Caza del Tesoro | 323770 | [323770-lobi-y-la-caza-del-tesoro.json](./323770-lobi-y-la-caza-del-tesoro.json) |
 | Lobo | 274668 | [274668-lobo.json](./274668-lobo.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
+| Lobos: Definitive Edition | 398654 | [398654-lobos-definitive-edition.json](./398654-lobos-definitive-edition.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Lobstar: Arcade Version | 349982 | [349982-lobstar-arcade-version.json](./349982-lobstar-arcade-version.json) |
