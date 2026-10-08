@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
+| Battle Kingdom | 419147 | [419147-battle-kingdom.json](./419147-battle-kingdom.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
 | Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
+| Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: The Darkest Night | 118192 | [118192-blackout-the-darkest-night.json](./118192-blackout-the-darkest-night.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
@@ -10175,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
+| Burning Regolith | 419155 | [419155-burning-regolith.json](./419155-burning-regolith.json) |
 | Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
 | Burning Road | 44857 | [44857-burning-road.json](./44857-burning-road.json) |
 | Burning Rubber | 14354 | [14354-burning-rubber.json](./14354-burning-rubber.json) |
