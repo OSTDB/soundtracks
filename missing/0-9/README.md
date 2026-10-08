@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
 | 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
+| 100 Korean Hidden Cats | 410093 | [410093-100-korean-hidden-cats.json](./410093-100-korean-hidden-cats.json) |
 | 100 Line Christmas | 260891 | [260891-100-line-christmas.json](./260891-100-line-christmas.json) |
 | 100 Line Massacre | 260889 | [260889-100-line-massacre.json](./260889-100-line-massacre.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Tasty Too: l'Amour à Paris | 143384 | [143384-2-tasty-too-lamour-a-paris.json](./143384-2-tasty-too-lamour-a-paris.json) |
 | 2 Volt | 246918 | [246918-2-volt.json](./246918-2-volt.json) |
 | 2-3-5-7 | 186187 | [186187-2-3-5-7.json](./186187-2-3-5-7.json) |
+| 2-4 '94 | 410087 | [410087-2-4-94.json](./410087-2-4-94.json) |
 | 2-bit Cowboy | 39234 | [39234-2-bit-cowboy.json](./39234-2-bit-cowboy.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
