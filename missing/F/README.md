@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face The Abyss | 340049 | [340049-face-the-abyss.json](./340049-face-the-abyss.json) |
+| Face the Immortal | 392243 | [392243-face-the-immortal.json](./392243-face-the-immortal.json) |
 | Face Wound | 64132 | [64132-face-wound.json](./64132-face-wound.json) |
 | Face Your Faces | 72763 | [72763-face-your-faces.json](./72763-face-your-faces.json) |
 | Face-Off | 84180 | [84180-face-off.json](./84180-face-off.json) |
@@ -2377,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever | 256971 | [256971-fever.json](./256971-fever.json) |
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
+| Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Few Shall Return | 337777 | [337777-few-shall-return.json](./337777-few-shall-return.json) |
 | Fey | 388975 | [388975-fey.json](./388975-fey.json) |
@@ -4203,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame and Blame | 419180 | [419180-flame-and-blame.json](./419180-flame-and-blame.json) |
 | Flame Glow | 104805 | [104805-flame-glow.json](./104805-flame-glow.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
+| Flame in Glass | 392238 | [392238-flame-in-glass.json](./392238-flame-in-glass.json) |
 | Flame Keeper | 168698 | [168698-flame-keeper.json](./168698-flame-keeper.json) |
 | Flame Land | 310017 | [310017-flame-land.json](./310017-flame-land.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
@@ -4397,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting Iris: Alansya Chronicles Ren'Py Edition | 302042 | [302042-fleeting-iris-alansya-chronicles-renpy-edition.json](./302042-fleeting-iris-alansya-chronicles-renpy-edition.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
+| Fleeting Shores | 392220 | [392220-fleeting-shores.json](./392220-fleeting-shores.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
 | Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
@@ -5905,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
+| Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
 | Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
@@ -7459,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
 | Fruits of Fury | 260205 | [260205-fruits-of-fury.json](./260205-fruits-of-fury.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
+| Fruits vs. Veggies | 392236 | [392236-fruits-vs-veggies.json](./392236-fruits-vs-veggies.json) |
 | Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
