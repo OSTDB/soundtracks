@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
+| Pangeon | 113023 | [113023-pangeon.json](./113023-pangeon.json) |
 | Pango | 293329 | [293329-pango.json](./293329-pango.json) |
 | Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
