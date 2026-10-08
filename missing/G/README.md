@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Racer | 13659 | [13659-gallop-racer.json](./13659-gallop-racer.json) |
 | Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
 | Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
+| Gallop Racer 2004 | 20146 | [20146-gallop-racer-2004.json](./20146-gallop-racer-2004.json) |
 | Gallop Racer 2006 | 20147 | [20147-gallop-racer-2006.json](./20147-gallop-racer-2006.json) |
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Off My Space! | 192233 | [192233-get-off-my-space.json](./192233-get-off-my-space.json) |
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
+| Get on da Mic | 20186 | [20186-get-on-da-mic.json](./20186-get-on-da-mic.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get on Top! | 97452 | [97452-get-on-top.json](./97452-get-on-top.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
@@ -3180,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
+| Goal Storm '97 | 20141 | [20141-goal-storm-97.json](./20141-goal-storm-97.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
 | Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
