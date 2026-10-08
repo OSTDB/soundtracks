@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q*bert | 281665 | [281665-q-bert.json](./281665-q-bert.json) |
 | Q*bert | 281666 | [281666-q-bert.json](./281666-q-bert.json) |
 | Q*bert | 99373 | [99373-q-bert.json](./99373-q-bert.json) |
+| Q*bert Rebooted: The Xbox One @!#?@! Edition | 82426 | [82426-q-bert-rebooted-the-xbox-one-edition.json](./82426-q-bert-rebooted-the-xbox-one-edition.json) |
 | Q*bert: Rebooted | 17158 | [17158-q-bert-rebooted.json](./17158-q-bert-rebooted.json) |
 | Q*bert's Qubes | 281667 | [281667-q-berts-qubes.json](./281667-q-berts-qubes.json) |
 | Q*bert's Qubes | 281668 | [281668-q-berts-qubes.json](./281668-q-berts-qubes.json) |
