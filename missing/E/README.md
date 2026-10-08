@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball: Mourinho Edition 2026 | 361243 | [361243-efootball-mourinho-edition-2026.json](./361243-efootball-mourinho-edition-2026.json) |
 | EFourGames | 362884 | [362884-efourgames.json](./362884-efourgames.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
+| EFPSE/EFPSECE Games Practice | 400564 | [400564-efpse-efpsece-games-practice.json](./400564-efpse-efpsece-games-practice.json) |
 | Efteling Tycoon | 210077 | [210077-efteling-tycoon.json](./210077-efteling-tycoon.json) |
 | EGA Coloring Book | 330270 | [330270-ega-coloring-book.json](./330270-ega-coloring-book.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
@@ -3826,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest VR | 18971 | [18971-everest-vr.json](./18971-everest-vr.json) |
 | Everest: The Ultimate Strategy Game | 85763 | [85763-everest-the-ultimate-strategy-game.json](./85763-everest-the-ultimate-strategy-game.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
+| Everfront | 400550 | [400550-everfront.json](./400550-everfront.json) |
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
