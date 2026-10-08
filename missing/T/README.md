@@ -6523,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Illusory Wall | 101710 | [101710-the-illusory-wall.json](./101710-the-illusory-wall.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
+| The Immolation Apartment | 412904 | [412904-the-immolation-apartment.json](./412904-the-immolation-apartment.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
 | The Immortal | 4444 | [4444-the-immortal.json](./4444-the-immortal.json) |
 | The Immortal Is Watching | 403077 | [403077-the-immortal-is-watching.json](./403077-the-immortal-is-watching.json) |
@@ -9234,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Rivers of Alice: Extended Version | 34183 | [34183-the-rivers-of-alice-extended-version.json](./34183-the-rivers-of-alice-extended-version.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
+| The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
@@ -9643,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
+| The Silence: Deep Sleep | 412889 | [412889-the-silence-deep-sleep.json](./412889-the-silence-deep-sleep.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
 | The Silent Expedition Echo Protocol | 407468 | [407468-the-silent-expedition-echo-protocol.json](./407468-the-silent-expedition-echo-protocol.json) |
@@ -11991,6 +11994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands | 103354 | [103354-thousands.json](./103354-thousands.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thousands Layered Edge | 142123 | [142123-thousands-layered-edge.json](./142123-thousands-layered-edge.json) |
+| Thousands of Chroma | 412896 | [412896-thousands-of-chroma.json](./412896-thousands-of-chroma.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
@@ -12337,6 +12341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
 | Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
+| Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
@@ -12369,6 +12374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tidalis | 10991 | [10991-tidalis.json](./10991-tidalis.json) |
 | Tiddy Bounce | 156061 | [156061-tiddy-bounce.json](./156061-tiddy-bounce.json) |
+| Tide of Lone Stars | 412910 | [412910-tide-of-lone-stars.json](./412910-tide-of-lone-stars.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide Up | 194387 | [194387-tide-up.json](./194387-tide-up.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
@@ -13537,6 +13543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
 | Time Heals | 385304 | [385304-time-heals.json](./385304-time-heals.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
+| Time Heroes | 412797 | [412797-time-heroes.json](./412797-time-heroes.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
 | Time Horn: Il Corno del Tempo | 356873 | [356873-time-horn-il-corno-del-tempo.json](./356873-time-horn-il-corno-del-tempo.json) |
 | Time Hunters | 132041 | [132041-time-hunters.json](./132041-time-hunters.json) |
