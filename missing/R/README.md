@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
 | Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
 | Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
+| Rangi | 54836 | [54836-rangi.json](./54836-rangi.json) |
 | Rango | 248575 | [248575-rango.json](./248575-rango.json) |
 | Rango | 248576 | [248576-rango.json](./248576-rango.json) |
 | Rango | 5114 | [5114-rango.json](./5114-rango.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Run | 305748 | [305748-rex-run.json](./305748-rex-run.json) |
 | Rex Sedes | 82785 | [82785-rex-sedes.json](./82785-rex-sedes.json) |
 | Rex Verbi | 174318 | [174318-rex-verbi.json](./174318-rex-verbi.json) |
+| Rex: Another Island | 55295 | [55295-rex-another-island.json](./55295-rex-another-island.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
@@ -6995,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3 | 249172 | [249172-rule-the-waves-3.json](./249172-rule-the-waves-3.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
+| Rule with an Iron Fish | 55122 | [55122-rule-with-an-iron-fish.json](./55122-rule-with-an-iron-fish.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
@@ -7365,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
+| Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
