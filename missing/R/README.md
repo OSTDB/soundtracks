@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit & Steel | 229093 | [229093-rabbit-and-steel.json](./229093-rabbit-and-steel.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
+| Rabbit Claw Party | 405542 | [405542-rabbit-claw-party.json](./405542-rabbit-claw-party.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Evolution Merge | 348420 | [348420-rabbit-evolution-merge.json](./348420-rabbit-evolution-merge.json) |
 | Rabbit Hole | 151060 | [151060-rabbit-hole.json](./151060-rabbit-hole.json) |
