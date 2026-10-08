@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
+| Paper Dolls Original | 116732 | [116732-paper-dolls-original.json](./116732-paper-dolls-original.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
@@ -7440,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Man | 241452 | [241452-pot-man.json](./241452-pot-man.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
+| Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Flowers in Full Bloom | 139252 | [139252-potato-flowers-in-full-bloom.json](./139252-potato-flowers-in-full-bloom.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
@@ -7543,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power | 368681 | [368681-power.json](./368681-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
 | Power & Revolution 2020 Edition: 2019 Scenarios | 168109 | [168109-power-and-revolution-2020-edition-2019-scenarios.json](./168109-power-and-revolution-2020-edition-2019-scenarios.json) |
+| Power & Revolution: 2019 Edition | 116207 | [116207-power-and-revolution-2019-edition.json](./116207-power-and-revolution-2019-edition.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
 | Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
