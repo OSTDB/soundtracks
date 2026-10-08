@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
+| Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
 | Genesis Rising: The Universal Crusade | 50391 | [50391-genesis-rising-the-universal-crusade.json](./50391-genesis-rising-the-universal-crusade.json) |
 | Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Angels Part 4: Death Force | 229361 | [229361-gravity-angels-part-4-death-force.json](./229361-gravity-angels-part-4-death-force.json) |
 | Gravity At Its Finest | 57023 | [57023-gravity-at-its-finest.json](./57023-gravity-at-its-finest.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
+| Gravity Badgers | 10376 | [10376-gravity-badgers.json](./10376-gravity-badgers.json) |
 | Gravity Bandits | 213348 | [213348-gravity-bandits.json](./213348-gravity-bandits.json) |
 | Gravity Biker | 391325 | [391325-gravity-biker.json](./391325-gravity-biker.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
@@ -4971,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
+| Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
