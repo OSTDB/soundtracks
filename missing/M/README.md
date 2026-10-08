@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
+| Match | 399912 | [399912-match.json](./399912-match.json) |
 | Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
 | Match 10 Puzzle | 99404 | [99404-match-10-puzzle.json](./99404-match-10-puzzle.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 351700 | [351700-maze.json](./351700-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
 | Maze | 392949 | [392949-maze.json](./392949-maze.json) |
+| Maze | 399913 | [399913-maze.json](./399913-maze.json) |
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze 100 | 232580 | [232580-maze-100.json](./232580-maze-100.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
@@ -4016,6 +4018,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanician Alex | 60617 | [60617-mechanician-alex.json](./60617-mechanician-alex.json) |
 | Mechanician Alex 2 | 60619 | [60619-mechanician-alex-2.json](./60619-mechanician-alex-2.json) |
 | Mechanics | 254141 | [254141-mechanics.json](./254141-mechanics.json) |
+| Mechanics | 399915 | [399915-mechanics.json](./399915-mechanics.json) |
+| Mechanics Touch | 399916 | [399916-mechanics-touch.json](./399916-mechanics-touch.json) |
 | MechAnimals | 327992 | [327992-mechanimals.json](./327992-mechanimals.json) |
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
 | Mechanism | 251718 | [251718-mechanism.json](./251718-mechanism.json) |
@@ -4505,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man Dongs | 282810 | [282810-mega-man-dongs.json](./282810-mega-man-dongs.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
+| Mega Man DXtreme | 399874 | [399874-mega-man-dxtreme.json](./399874-mega-man-dxtreme.json) |
 | Mega Man Eternal | 208479 | [208479-mega-man-eternal.json](./208479-mega-man-eternal.json) |
 | Mega Man Heardle | 203816 | [203816-mega-man-heardle.json](./203816-mega-man-heardle.json) |
 | Mega Man II | 1734 | [1734-mega-man-ii.json](./1734-mega-man-ii.json) |
