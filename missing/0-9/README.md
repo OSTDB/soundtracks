@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4 Wheel Madness | 326748 | [326748-4-wheel-madness.json](./326748-4-wheel-madness.json) |
 | 4 Wheel Thunder | 3701 | [3701-4-wheel-thunder.json](./3701-4-wheel-thunder.json) |
+| 4 x 3 | 408012 | [408012-4-x-3.json](./408012-4-x-3.json) |
 | 4 x 4 Dream Racing | 9935 | [9935-4-x-4-dream-racing.json](./9935-4-x-4-dream-racing.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
 | 4-Block Dungeon | 122347 | [122347-4-block-dungeon.json](./122347-4-block-dungeon.json) |
