@@ -1801,7 +1801,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: AH-64D The Four Horsemen Campaign by Fight's On Simulations | 325110 | [325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json](./325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
 | DCS World: Black Shark 3 | 324663 | [324663-dcs-world-black-shark-3.json](./324663-dcs-world-black-shark-3.json) |
+| DCS World: C-130J | 408108 | [408108-dcs-world-c-130j.json](./408108-dcs-world-c-130j.json) |
 | DCS World: CH-47F | 324665 | [324665-dcs-world-ch-47f.json](./324665-dcs-world-ch-47f.json) |
+| DCS World: Cold War Germany by Ugra Media | 408114 | [408114-dcs-world-cold-war-germany-by-ugra-media.json](./408114-dcs-world-cold-war-germany-by-ugra-media.json) |
+| DCS World: F-100D Super Sabre by Grinnelli Designs | 408113 | [408113-dcs-world-f-100d-super-sabre-by-grinnelli-designs.json](./408113-dcs-world-f-100d-super-sabre-by-grinnelli-designs.json) |
 | DCS World: F-14 Speed & Angels Campaign by Reflected Simulations | 325253 | [325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json](./325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json) |
 | DCS World: F-14A Fear the Bones Campaign | 162863 | [162863-dcs-world-f-14a-fear-the-bones-campaign.json](./162863-dcs-world-f-14a-fear-the-bones-campaign.json) |
 | DCS World: F-14B Operation Sandworm Campaign by Sandman Simulations | 325649 | [325649-dcs-world-f-14b-operation-sandworm-campaign-by-sandman-simulations.json](./325649-dcs-world-f-14b-operation-sandworm-campaign-by-sandman-simulations.json) |
@@ -1822,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Iraq Map | 325571 | [325571-dcs-world-iraq-map.json](./325571-dcs-world-iraq-map.json) |
 | DCS World: Iraq North Map | 325572 | [325572-dcs-world-iraq-north-map.json](./325572-dcs-world-iraq-north-map.json) |
 | DCS World: Kola Map by Orbx | 310021 | [310021-dcs-world-kola-map-by-orbx.json](./310021-dcs-world-kola-map-by-orbx.json) |
+| DCS World: La-7 by OctopusG | 408111 | [408111-dcs-world-la-7-by-octopusg.json](./408111-dcs-world-la-7-by-octopusg.json) |
 | DCS World: MAD AH-64D Campaign by Stone Sky | 325533 | [325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json](./325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json) |
 | DCS World: MAD Black Shark Campaign by Stone Sky | 273000 | [273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json](./273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json) |
 | DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
@@ -1831,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
+| DCS World: NS 430 Navigation System for MiG-29A Cockpit | 408109 | [408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json](./408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | DCS World: South Atlantic | 205076 | [205076-dcs-world-south-atlantic.json](./205076-dcs-world-south-atlantic.json) |
 | DCS World: Spitfire Beware! Beware! Campaign by Reflected Simulations | 325541 | [325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json](./325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json) |
@@ -2759,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
+| Debrisverse | 408000 | [408000-debrisverse.json](./408000-debrisverse.json) |
 | Debt | 192816 | [192816-debt.json](./192816-debt.json) |
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
@@ -4722,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DGU: Death God University | 35689 | [35689-dgu-death-god-university.json](./35689-dgu-death-god-university.json) |
 | DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | Dhaka Racing | 385278 | [385278-dhaka-racing.json](./385278-dhaka-racing.json) |
+| Dhalman | 408006 | [408006-dhalman.json](./408006-dhalman.json) |
 | Dharma Dojo | 42529 | [42529-dharma-dojo.json](./42529-dharma-dojo.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
@@ -5404,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dave | 91549 | [91549-dino-dave.json](./91549-dino-dave.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
+| Dino Dearest | 408009 | [408009-dino-dearest.json](./408009-dino-dearest.json) |
 | Dino Delivery | 121581 | [121581-dino-delivery.json](./121581-dino-delivery.json) |
 | Dino Dini's Kick Off Revival | 19591 | [19591-dino-dinis-kick-off-revival.json](./19591-dino-dinis-kick-off-revival.json) |
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
