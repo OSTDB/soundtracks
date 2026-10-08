@@ -122,6 +122,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
+| A Crow in Hell | 393519 | [393519-a-crow-in-hell.json](./393519-a-crow-in-hell.json) |
+| A Crow in Hell 2 | 393520 | [393520-a-crow-in-hell-2.json](./393520-a-crow-in-hell-2.json) |
+| A Crow in Hell 3 | 393521 | [393521-a-crow-in-hell-3.json](./393521-a-crow-in-hell-3.json) |
 | A Crown of Thorns | 207740 | [207740-a-crown-of-thorns.json](./207740-a-crown-of-thorns.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
@@ -3854,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Thanatos Encounter | 49863 | [49863-aliens-thanatos-encounter.json](./49863-aliens-thanatos-encounter.json) |
 | Aliens: The Computer Game | 12939 | [12939-aliens-the-computer-game.json](./12939-aliens-the-computer-game.json) |
 | Aliens&Asteroids | 52767 | [52767-aliens-and-asteroids.json](./52767-aliens-and-asteroids.json) |
+| AlienSunny | 393539 | [393539-aliensunny.json](./393539-aliensunny.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienSurvival | 106129 | [106129-aliensurvival.json](./106129-aliensurvival.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
@@ -6216,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antibody | 151081 | [151081-antibody.json](./151081-antibody.json) |
 | Antibody | 64494 | [64494-antibody.json](./64494-antibody.json) |
 | Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
+| Antichrist | 393525 | [393525-antichrist.json](./393525-antichrist.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
@@ -9128,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroForge: Space Pirates | 283968 | [283968-astroforge-space-pirates.json](./283968-astroforge-space-pirates.json) |
 | AstroGenesis | 111498 | [111498-astrogenesis.json](./111498-astrogenesis.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
+| Astrogeo | 393544 | [393544-astrogeo.json](./393544-astrogeo.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
