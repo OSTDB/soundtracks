@@ -3680,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Samurai | 71214 | [71214-first-samurai.json](./71214-first-samurai.json) |
 | First Samurai 64 | 356291 | [356291-first-samurai-64.json](./356291-first-samurai-64.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
+| First Sino-Japanese War | 391140 | [391140-first-sino-japanese-war.json](./391140-first-sino-japanese-war.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
 | First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
 | First Star Online 3 | 145946 | [145946-first-star-online-3.json](./145946-first-star-online-3.json) |
@@ -4614,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
+| Flipper on Recoil | 391227 | [391227-flipper-on-recoil.json](./391227-flipper-on-recoil.json) |
 | Flipper Pool | 84342 | [84342-flipper-pool.json](./84342-flipper-pool.json) |
 | Flipper Slipper | 40896 | [40896-flipper-slipper.json](./40896-flipper-slipper.json) |
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
@@ -6928,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
+| Friends of a Feather | 391128 | [391128-friends-of-a-feather.json](./391128-friends-of-a-feather.json) |
 | Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
 | Friends Play Pool | 267465 | [267465-friends-play-pool.json](./267465-friends-play-pool.json) |
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
@@ -6947,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendzoned 4 | 276807 | [276807-friendzoned-4.json](./276807-friendzoned-4.json) |
 | Frieseria: The Grand Reopening | 266994 | [266994-frieseria-the-grand-reopening.json](./266994-frieseria-the-grand-reopening.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
+| Fright Animatronics | 391129 | [391129-fright-animatronics.json](./391129-fright-animatronics.json) |
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
 | Fright Chasers: Thrills, Chills and Kills | 187905 | [187905-fright-chasers-thrills-chills-and-kills.json](./187905-fright-chasers-thrills-chills-and-kills.json) |
@@ -7313,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost Dragon in Wonder Land | 199633 | [199633-frost-dragon-in-wonder-land.json](./199633-frost-dragon-in-wonder-land.json) |
 | Frost Heart | 193760 | [193760-frost-heart.json](./193760-frost-heart.json) |
 | Frost Kin | 402474 | [402474-frost-kin.json](./402474-frost-kin.json) |
+| Frost Loop | 391230 | [391230-frost-loop.json](./391230-frost-loop.json) |
 | Frost Survivors: Text Game | 318197 | [318197-frost-survivors-text-game.json](./318197-frost-survivors-text-game.json) |
 | Frost Vale | 389056 | [389056-frost-vale.json](./389056-frost-vale.json) |
 | Frost Wars: The Rise of Fatty Sparkles | 64440 | [64440-frost-wars-the-rise-of-fatty-sparkles.json](./64440-frost-wars-the-rise-of-fatty-sparkles.json) |
