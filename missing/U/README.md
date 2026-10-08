@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
+| Unknown Space | 401892 | [401892-unknown-space.json](./401892-unknown-space.json) |
 | Unknown Surge | 129047 | [129047-unknown-surge.json](./129047-unknown-surge.json) |
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unknown Woods | 148458 | [148458-unknown-woods.json](./148458-unknown-woods.json) |
