@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekl | 301111 | [301111-seekl.json](./301111-seekl.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | SeekSeek: A Hide & Seek Adventure | 185471 | [185471-seekseek-a-hide-and-seek-adventure.json](./185471-seekseek-a-hide-and-seek-adventure.json) |
+| Seema's Pogo | 366112 | [366112-seemas-pogo.json](./366112-seemas-pogo.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
@@ -6837,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Hospital | 296384 | [296384-sinister-hospital.json](./296384-sinister-hospital.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinister Night | 200670 | [200670-sinister-night.json](./200670-sinister-night.json) |
+| Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
@@ -11784,8 +11786,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
 | Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
+| Space Memory: Chinchillas | 366098 | [366098-space-memory-chinchillas.json](./366098-space-memory-chinchillas.json) |
+| Space Memory: Dinosaurs | 366099 | [366099-space-memory-dinosaurs.json](./366099-space-memory-dinosaurs.json) |
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
+| Space Memory: Monsters | 366096 | [366096-space-memory-monsters.json](./366096-space-memory-monsters.json) |
 | Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
@@ -14318,6 +14323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
 | Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
 | Star Jacker | 6140 | [6140-star-jacker.json](./6140-star-jacker.json) |
+| Star Jammer | 366123 | [366123-star-jammer.json](./366123-star-jammer.json) |
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Keeper | 255251 | [255251-star-keeper.json](./255251-star-keeper.json) |
 | Star Knight | 46756 | [46756-star-knight.json](./46756-star-knight.json) |
