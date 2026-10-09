@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Space Ultra | 32934 | [32934-neon-space-ultra.json](./32934-neon-space-ultra.json) |
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
 | Neon Spellstorm | 329750 | [329750-neon-spellstorm.json](./329750-neon-spellstorm.json) |
+| Neon Spin | 359382 | [359382-neon-spin.json](./359382-neon-spin.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
 | Neon Struct: Die Augen der Welt | 17571 | [17571-neon-struct-die-augen-der-welt.json](./17571-neon-struct-die-augen-der-welt.json) |
