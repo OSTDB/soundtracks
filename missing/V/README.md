@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
+| Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
 | Video 8 Ball | 252115 | [252115-video-8-ball.json](./252115-video-8-ball.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
