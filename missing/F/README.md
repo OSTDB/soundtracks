@@ -7935,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: The Office Cameo Pack Bundle | 331546 | [331546-funko-fusion-the-office-cameo-pack-bundle.json](./331546-funko-fusion-the-office-cameo-pack-bundle.json) |
 | Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
+| Funko Fusion: Universal Monsters Pack | 353216 | [353216-funko-fusion-universal-monsters-pack.json](./353216-funko-fusion-universal-monsters-pack.json) |
 | Funko Fusion: Universal Monsters Pack Bundle | 332016 | [332016-funko-fusion-universal-monsters-pack-bundle.json](./332016-funko-fusion-universal-monsters-pack-bundle.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
