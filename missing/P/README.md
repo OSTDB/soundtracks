@@ -2208,9 +2208,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak | 360757 | [360757-peak.json](./360757-peak.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak Climb | 372041 | [372041-peak-climb.json](./372041-peak-climb.json) |
+| Peak Item Randomizer | 363315 | [363315-peak-item-randomizer.json](./363315-peak-item-randomizer.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
 | Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
+| Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
@@ -2427,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Hotel 2: Snake Penguin Ambition | 333533 | [333533-penguin-hotel-2-snake-penguin-ambition.json](./333533-penguin-hotel-2-snake-penguin-ambition.json) |
 | Penguin Hunting | 192282 | [192282-penguin-hunting.json](./192282-penguin-hunting.json) |
 | Penguin Land | 305468 | [305468-penguin-land.json](./305468-penguin-land.json) |
+| Penguin Land | 363310 | [363310-penguin-land.json](./363310-penguin-land.json) |
 | Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
 | Penguin Land | 49152 | [49152-penguin-land.json](./49152-penguin-land.json) |
 | Penguin no Mondai X: Tenkuu no 7 Senshi | 68010 | [68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json](./68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json) |
@@ -2724,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peropero Seduction | 98527 | [98527-peropero-seduction.json](./98527-peropero-seduction.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
+| Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perquisite Strata X | 246885 | [246885-perquisite-strata-x.json](./246885-perquisite-strata-x.json) |
@@ -4614,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Black | 278440 | [278440-pitch-black.json](./278440-pitch-black.json) |
+| Pitch Black Peak | 363316 | [363316-pitch-black-peak.json](./363316-pitch-black-peak.json) |
 | Pitch Black Serenade | 177433 | [177433-pitch-black-serenade.json](./177433-pitch-black-serenade.json) |
 | Pitch Black: A Dusklight Story | 213338 | [213338-pitch-black-a-dusklight-story.json](./213338-pitch-black-a-dusklight-story.json) |
 | Pitch Deck | 204733 | [204733-pitch-deck.json](./204733-pitch-deck.json) |
@@ -5024,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Ripped 1995 | 119336 | [119336-pixel-ripped-1995.json](./119336-pixel-ripped-1995.json) |
 | Pixel Robot Hunter | 111177 | [111177-pixel-robot-hunter.json](./111177-pixel-robot-hunter.json) |
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
+| Pixel Ronin | 363323 | [363323-pixel-ronin.json](./363323-pixel-ronin.json) |
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
 | Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
 | Pixel Run and Gun | 402342 | [402342-pixel-run-and-gun.json](./402342-pixel-run-and-gun.json) |
@@ -10192,6 +10198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
+| Punt | 363301 | [363301-punt.json](./363301-punt.json) |
 | Punt: Rebirth | 401486 | [401486-punt-rebirth.json](./401486-punt-rebirth.json) |
 | Puntar: The Somtum of Rememories | 419959 | [419959-puntar-the-somtum-of-rememories.json](./419959-puntar-the-somtum-of-rememories.json) |
 | Puny BOB | 221131 | [221131-puny-bob.json](./221131-puny-bob.json) |
