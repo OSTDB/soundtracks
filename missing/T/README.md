@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarantula Virus | 258620 | [258620-tarantula-virus.json](./258620-tarantula-virus.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
+| Tardigrade Planet: The Legend of the Strongest Mascot in the Universe | 346011 | [346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json](./346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json) |
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
@@ -3440,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kroma | 392993 | [392993-the-adventures-of-kroma.json](./392993-the-adventures-of-kroma.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
+| The Adventures of Lia and the Celestial Compass | 345978 | [345978-the-adventures-of-lia-and-the-celestial-compass.json](./345978-the-adventures-of-lia-and-the-celestial-compass.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of Lily & Leo | 298638 | [298638-the-adventures-of-lily-and-leo.json](./298638-the-adventures-of-lily-and-leo.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
@@ -8045,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Lost Froglins | 401070 | [401070-the-lost-froglins.json](./401070-the-lost-froglins.json) |
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
+| The Lost Garden | 345981 | [345981-the-lost-garden.json](./345981-the-lost-garden.json) |
 | The Lost Gardens | 74646 | [74646-the-lost-gardens.json](./74646-the-lost-gardens.json) |
 | The Lost Girl | 225769 | [225769-the-lost-girl.json](./225769-the-lost-girl.json) |
 | The Lost Goblin Tower | 111589 | [111589-the-lost-goblin-tower.json](./111589-the-lost-goblin-tower.json) |
@@ -11606,6 +11609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
+| The Wizard of Bug | 345980 | [345980-the-wizard-of-bug.json](./345980-the-wizard-of-bug.json) |
 | The Wizard of Gloss | 400537 | [400537-the-wizard-of-gloss.json](./400537-the-wizard-of-gloss.json) |
 | The Wizard of Id's Wiz Math | 40903 | [40903-the-wizard-of-ids-wiz-math.json](./40903-the-wizard-of-ids-wiz-math.json) |
 | The Wizard of Oz | 25781 | [25781-the-wizard-of-oz.json](./25781-the-wizard-of-oz.json) |
@@ -12005,6 +12009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
 | They Bleed Pixels | 10988 | [10988-they-bleed-pixels.json](./10988-they-bleed-pixels.json) |
 | They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
+| They Came for More Pasta | 345979 | [345979-they-came-for-more-pasta.json](./345979-they-came-for-more-pasta.json) |
 | They Came From a Communist Planet | 125294 | [125294-they-came-from-a-communist-planet.json](./125294-they-came-from-a-communist-planet.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
@@ -14749,6 +14754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
+| Tobot: Action Quiz Heroes | 346000 | [346000-tobot-action-quiz-heroes.json](./346000-tobot-action-quiz-heroes.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
 | Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
