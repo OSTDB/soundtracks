@@ -1217,6 +1217,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 28: Treasure Map | 100772 | [100772-fantasy-mosaics-28-treasure-map.json](./100772-fantasy-mosaics-28-treasure-map.json) |
 | Fantasy Mosaics 29: Alien Planet | 103898 | [103898-fantasy-mosaics-29-alien-planet.json](./103898-fantasy-mosaics-29-alien-planet.json) |
 | Fantasy Mosaics 3: Distant Worlds | 100735 | [100735-fantasy-mosaics-3-distant-worlds.json](./100735-fantasy-mosaics-3-distant-worlds.json) |
+| Fantasy Mosaics 31: First Date | 381347 | [381347-fantasy-mosaics-31-first-date.json](./381347-fantasy-mosaics-31-first-date.json) |
+| Fantasy Mosaics 32: Santa's Hut | 381346 | [381346-fantasy-mosaics-32-santas-hut.json](./381346-fantasy-mosaics-32-santas-hut.json) |
 | Fantasy Mosaics 35: Day at the Museum | 188525 | [188525-fantasy-mosaics-35-day-at-the-museum.json](./188525-fantasy-mosaics-35-day-at-the-museum.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
 | Fantasy Mosaics 38: Underwater Adventure | 337259 | [337259-fantasy-mosaics-38-underwater-adventure.json](./337259-fantasy-mosaics-38-underwater-adventure.json) |
@@ -1225,7 +1227,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
 | Fantasy Mosaics 44: Winter Holiday | 296063 | [296063-fantasy-mosaics-44-winter-holiday.json](./296063-fantasy-mosaics-44-winter-holiday.json) |
 | Fantasy Mosaics 45: Amusement Park | 296064 | [296064-fantasy-mosaics-45-amusement-park.json](./296064-fantasy-mosaics-45-amusement-park.json) |
+| Fantasy Mosaics 46: Pirate Ship | 381348 | [381348-fantasy-mosaics-46-pirate-ship.json](./381348-fantasy-mosaics-46-pirate-ship.json) |
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
+| Fantasy Mosaics 52: Enchanted Woods | 381365 | [381365-fantasy-mosaics-52-enchanted-woods.json](./381365-fantasy-mosaics-52-enchanted-woods.json) |
 | Fantasy Mosaics 54: Back to School | 378354 | [378354-fantasy-mosaics-54-back-to-school.json](./378354-fantasy-mosaics-54-back-to-school.json) |
 | Fantasy Mosaics 7: Our Home | 96838 | [96838-fantasy-mosaics-7-our-home.json](./96838-fantasy-mosaics-7-our-home.json) |
 | Fantasy Mosaics 9: Portal in the Woods | 96839 | [96839-fantasy-mosaics-9-portal-in-the-woods.json](./96839-fantasy-mosaics-9-portal-in-the-woods.json) |
@@ -2986,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
 | Final Fantasy VI: The Eternal Crystals | 309600 | [309600-final-fantasy-vi-the-eternal-crystals.json](./309600-final-fantasy-vi-the-eternal-crystals.json) |
 | Final Fantasy VII | 207021 | [207021-final-fantasy-vii.json](./207021-final-fantasy-vii.json) |
+| Final Fantasy VII | 381337 | [381337-final-fantasy-vii.json](./381337-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
 | Final Fantasy VII | 393025 | [393025-final-fantasy-vii.json](./393025-final-fantasy-vii.json) |
 | Final Fantasy VII & Final Fantasy VIII Remastered Twin Pack | 127879 | [127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json](./127879-final-fantasy-vii-and-final-fantasy-viii-remastered-twin-pack.json) |
