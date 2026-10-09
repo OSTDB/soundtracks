@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeremy McGrath Supercross 98 | 4125 | [4125-jeremy-mcgrath-supercross-98.json](./4125-jeremy-mcgrath-supercross-98.json) |
 | Jeremy McGrath Supercross World | 3960 | [3960-jeremy-mcgrath-supercross-world.json](./3960-jeremy-mcgrath-supercross-world.json) |
 | Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
+| Jeremy the Health Inspector | 353826 | [353826-jeremy-the-health-inspector.json](./353826-jeremy-the-health-inspector.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JunkMetal | 283818 | [283818-junkmetal.json](./283818-junkmetal.json) |
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
 | Junkpunk: Arena | 153856 | [153856-junkpunk-arena.json](./153856-junkpunk-arena.json) |
+| JunkRats | 353805 | [353805-junkrats.json](./353805-junkrats.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
