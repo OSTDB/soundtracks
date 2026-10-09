@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
+| Serpico | 353816 | [353816-serpico.json](./353816-serpico.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
 | Serra de Deus | 354401 | [354401-serra-de-deus.json](./354401-serra-de-deus.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
@@ -11163,6 +11164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
+| Soul Slasher | 353781 | [353781-soul-slasher.json](./353781-soul-slasher.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
@@ -14123,6 +14125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
 | Stack the States | 396755 | [396755-stack-the-states.json](./396755-stack-the-states.json) |
 | Stack the States 2 | 396763 | [396763-stack-the-states-2.json](./396763-stack-the-states-2.json) |
+| Stack to Ascension | 353802 | [353802-stack-to-ascension.json](./353802-stack-to-ascension.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
@@ -14137,6 +14140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StackFortress | 88012 | [88012-stackfortress.json](./88012-stackfortress.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacking Fairy | 293866 | [293866-stacking-fairy.json](./293866-stacking-fairy.json) |
+| StacKit | 353764 | [353764-stackit.json](./353764-stackit.json) |
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
 | Stackmancy | 340000 | [340000-stackmancy.json](./340000-stackmancy.json) |
@@ -17321,6 +17325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Cars | 300839 | [300839-stupid-cars.json](./300839-stupid-cars.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
 | Stupid Dog Find Out HD | 232496 | [232496-stupid-dog-find-out-hd.json](./232496-stupid-dog-find-out-hd.json) |
+| Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
 | Stupid Never Dies | 381212 | [381212-stupid-never-dies.json](./381212-stupid-never-dies.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
