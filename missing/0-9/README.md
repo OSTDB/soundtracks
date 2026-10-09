@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost In Turkey: Extra Content | 376887 | [376887-100-cats-lost-in-turkey-extra-content.json](./376887-100-cats-lost-in-turkey-extra-content.json) |
 | 100 Cats Lost in Undersea Wonders | 376891 | [376891-100-cats-lost-in-undersea-wonders.json](./376891-100-cats-lost-in-undersea-wonders.json) |
 | 100 Cats Lost in Van Gogh’s Brushstrokes | 376892 | [376892-100-cats-lost-in-van-gogh-s-brushstrokes.json](./376892-100-cats-lost-in-van-gogh-s-brushstrokes.json) |
+| 100 Cats Lost in World Find & Color | 348783 | [348783-100-cats-lost-in-world-find-and-color.json](./348783-100-cats-lost-in-world-find-and-color.json) |
 | 100 Cats New York: Extra Content | 325502 | [325502-100-cats-new-york-extra-content.json](./325502-100-cats-new-york-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Cats Singapore | 284618 | [284618-100-cats-singapore.json](./284618-100-cats-singapore.json) |
