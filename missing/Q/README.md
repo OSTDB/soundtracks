@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quan min zhao bu tong | 402360 | [402360-quan-min-zhao-bu-tong.json](./402360-quan-min-zhao-bu-tong.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
+| Quandary | 336585 | [336585-quandary.json](./336585-quandary.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quando fuori piove | 287355 | [287355-quando-fuori-piove.json](./287355-quando-fuori-piove.json) |
 | Quanero | 32194 | [32194-quanero.json](./32194-quanero.json) |
