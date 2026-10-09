@@ -3598,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golf Mania | 408247 | [408247-retro-golf-mania.json](./408247-retro-golf-mania.json) |
 | Retro Granny's Garden | 70921 | [70921-retro-grannys-garden.json](./70921-retro-grannys-garden.json) |
+| Retro Grid | 348745 | [348745-retro-grid.json](./348745-retro-grid.json) |
 | Retro Gunner | 393021 | [393021-retro-gunner.json](./393021-retro-gunner.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
@@ -7219,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
 | Rules of Engagement: The Grey State | 372660 | [372660-rules-of-engagement-the-grey-state.json](./372660-rules-of-engagement-the-grey-state.json) |
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
+| Rules of Nature | 348812 | [348812-rules-of-nature.json](./348812-rules-of-nature.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
