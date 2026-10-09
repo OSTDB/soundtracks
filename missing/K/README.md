@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenseiden | 65579 | [65579-kenseiden.json](./65579-kenseiden.json) |
+| Kenseiki Alpha Ride | 336507 | [336507-kenseiki-alpha-ride.json](./336507-kenseiki-alpha-ride.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
