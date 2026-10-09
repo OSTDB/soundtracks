@@ -3085,6 +3085,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
 | Renegade Racing | 328010 | [328010-renegade-racing.json](./328010-renegade-racing.json) |
 | Renegade Run | 405710 | [405710-renegade-run.json](./405710-renegade-run.json) |
+| Renegade Rush | 339854 | [339854-renegade-rush.json](./339854-renegade-rush.json) |
+| Renegade Rush | 339880 | [339880-renegade-rush.json](./339880-renegade-rush.json) |
 | Renegade X | 5501 | [5501-renegade-x.json](./5501-renegade-x.json) |
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
