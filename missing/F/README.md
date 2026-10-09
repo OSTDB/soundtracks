@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sliding Puzzle | 166638 | [166638-fantasy-sliding-puzzle.json](./166638-fantasy-sliding-puzzle.json) |
 | Fantasy Sliding Puzzle 4 | 189970 | [189970-fantasy-sliding-puzzle-4.json](./189970-fantasy-sliding-puzzle-4.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
+| Fantasy Soul Revenge | 384288 | [384288-fantasy-soul-revenge.json](./384288-fantasy-soul-revenge.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Stars: Battle Arena | 117489 | [117489-fantasy-stars-battle-arena.json](./117489-fantasy-stars-battle-arena.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
@@ -2433,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
 | Fickle Allies | 417495 | [417495-fickle-allies.json](./417495-fickle-allies.json) |
+| Fickle Card Legend | 384259 | [384259-fickle-card-legend.json](./384259-fickle-card-legend.json) |
 | FickleFlame | 367472 | [367472-fickleflame.json](./367472-fickleflame.json) |
 | Ficterra | 111615 | [111615-ficterra.json](./111615-ficterra.json) |
 | Fiction Fixers: The Curse of Oz & Adventures in Wonderland | 209421 | [209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json](./209421-fiction-fixers-the-curse-of-oz-and-adventures-in-wonderland.json) |
@@ -2507,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
+| Fierce Kingdoms | 384300 | [384300-fierce-kingdoms.json](./384300-fierce-kingdoms.json) |
 | Fierce Soldier | 306016 | [306016-fierce-soldier.json](./306016-fierce-soldier.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
@@ -7817,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Racer | 305350 | [305350-funny-racer.json](./305350-funny-racer.json) |
 | Funny Rain | 314924 | [314924-funny-rain.json](./314924-funny-rain.json) |
 | Funny Rat Game 2 | 404907 | [404907-funny-rat-game-2.json](./404907-funny-rat-game-2.json) |
+| Funny Volleyball | 384274 | [384274-funny-volleyball.json](./384274-funny-volleyball.json) |
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
@@ -7987,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
+| Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
 | Fury3 | 21787 | [21787-fury3.json](./21787-fury3.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
