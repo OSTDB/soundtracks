@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ram It | 18581 | [18581-ram-it.json](./18581-ram-it.json) |
 | Ram Ranch | 313759 | [313759-ram-ranch.json](./313759-ram-ranch.json) |
 | Ram Setu: The Run | 232395 | [232395-ram-setu-the-run.json](./232395-ram-setu-the-run.json) |
+| Ram Simulator | 370569 | [370569-ram-simulator.json](./370569-ram-simulator.json) |
 | RAM: Random Access Mayhem | 231491 | [231491-ram-random-access-mayhem.json](./231491-ram-random-access-mayhem.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Rama | 13782 | [13782-rama.json](./13782-rama.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resttw | 235366 | [235366-resttw.json](./235366-resttw.json) |
 | Resuffer: Down the Rabbit Hole | 112504 | [112504-resuffer-down-the-rabbit-hole.json](./112504-resuffer-down-the-rabbit-hole.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
+| Resurface.exe | 372834 | [372834-resurface-exe.json](./372834-resurface-exe.json) |
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
@@ -4966,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Rivet | 137987 | [137987-rivet.json](./137987-rivet.json) |
+| Rivets and Rivals | 371641 | [371641-rivets-and-rivals.json](./371641-rivets-and-rivals.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
 | Riviera: The Promised Land | 6559 | [6559-riviera-the-promised-land.json](./6559-riviera-the-promised-land.json) |
 | Riviera: Yakusoku no Chi Riviera | 37281 | [37281-riviera-yakusoku-no-chi-riviera.json](./37281-riviera-yakusoku-no-chi-riviera.json) |
@@ -7592,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Subway Dogs | 56564 | [56564-russian-subway-dogs.json](./56564-russian-subway-dogs.json) |
 | Russian SuperHero Dead Ivan | 31340 | [31340-russian-superhero-dead-ivan.json](./31340-russian-superhero-dead-ivan.json) |
 | Russian Survivors | 344991 | [344991-russian-survivors.json](./344991-russian-survivors.json) |
+| Russian Test | 370548 | [370548-russian-test.json](./370548-russian-test.json) |
 | Russian Train Trip | 189054 | [189054-russian-train-trip.json](./189054-russian-train-trip.json) |
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
