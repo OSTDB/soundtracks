@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
+| Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
