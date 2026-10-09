@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
 | Second Chance | 184499 | [184499-second-chance.json](./184499-second-chance.json) |
 | Second Chances | 337728 | [337728-second-chances.json](./337728-second-chances.json) |
+| Second Coat | 357185 | [357185-second-coat.json](./357185-second-coat.json) |
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Death | 32211 | [32211-second-death.json](./32211-second-death.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
@@ -9955,6 +9956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire XXX | 93375 | [93375-solitaire-xxx.json](./93375-solitaire-xxx.json) |
 | Solitaire, Spider & Freecell | 88427 | [88427-solitaire-spider-and-freecell.json](./88427-solitaire-spider-and-freecell.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
+| Solitaire: Classic Card Games | 357184 | [357184-solitaire-classic-card-games.json](./357184-solitaire-classic-card-games.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Decked Out | 133855 | [133855-solitaire-decked-out.json](./133855-solitaire-decked-out.json) |
 | Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
@@ -10069,6 +10071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return | 102890 | [102890-someday-youll-return.json](./102890-someday-youll-return.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
+| Someone Creepy | 357196 | [357196-someone-creepy.json](./357196-someone-creepy.json) |
 | Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
 | Someone Stole My Lunch! | 198332 | [198332-someone-stole-my-lunch.json](./198332-someone-stole-my-lunch.json) |
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
@@ -14923,6 +14926,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
 | Stardiver | 150279 | [150279-stardiver.json](./150279-stardiver.json) |
 | Stardoll Dress Up Blog Stars | 357220 | [357220-stardoll-dress-up-blog-stars.json](./357220-stardoll-dress-up-blog-stars.json) |
+| Stardoll Dress Up Film Stars | 357215 | [357215-stardoll-dress-up-film-stars.json](./357215-stardoll-dress-up-film-stars.json) |
+| Stardoll Dress Up Movie Stars | 357213 | [357213-stardoll-dress-up-movie-stars.json](./357213-stardoll-dress-up-movie-stars.json) |
+| Stardoll Dress Up Teen Stars | 357209 | [357209-stardoll-dress-up-teen-stars.json](./357209-stardoll-dress-up-teen-stars.json) |
+| Stardoll Stylista | 357203 | [357203-stardoll-stylista.json](./357203-stardoll-stylista.json) |
 | Stardom | 371625 | [371625-stardom.json](./371625-stardom.json) |
 | Stardom 2 | 371626 | [371626-stardom-2.json](./371626-stardom-2.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
@@ -17227,6 +17234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
+| Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
@@ -21116,6 +21124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweetie Candy Maze: Crimson Strawberry | 418576 | [418576-sweetie-candy-maze-crimson-strawberry.json](./418576-sweetie-candy-maze-crimson-strawberry.json) |
 | Sweetie Candy Maze: Lime | 399728 | [399728-sweetie-candy-maze-lime.json](./399728-sweetie-candy-maze-lime.json) |
+| Sweetie Candy Maze: Orange | 357201 | [357201-sweetie-candy-maze-orange.json](./357201-sweetie-candy-maze-orange.json) |
 | Sweetie Candy Maze: Purple Grape | 379041 | [379041-sweetie-candy-maze-purple-grape.json](./379041-sweetie-candy-maze-purple-grape.json) |
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
