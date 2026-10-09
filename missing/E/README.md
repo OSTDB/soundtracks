@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Rush | 39201 | [39201-electro-rush.json](./39201-electro-rush.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrobasis | 290618 | [290618-electrobasis.json](./290618-electrobasis.json) |
+| Electrobillion | 337141 | [337141-electrobillion.json](./337141-electrobillion.json) |
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
