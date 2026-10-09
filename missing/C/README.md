@@ -7842,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Season VII - Wolves of Ragnarok | 158108 | [158108-conquerors-blade-season-vii-wolves-of-ragnarok.json](./158108-conquerors-blade-season-vii-wolves-of-ragnarok.json) |
 | Conqueror's Blade: Season VIII - Dynasty | 158110 | [158110-conquerors-blade-season-viii-dynasty.json](./158110-conquerors-blade-season-viii-dynasty.json) |
 | Conqueror's Blade: Three Kingdoms | 411543 | [411543-conquerors-blade-three-kingdoms.json](./411543-conquerors-blade-three-kingdoms.json) |
+| Conquest | 379715 | [379715-conquest.json](./379715-conquest.json) |
 | Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest Age | 62235 | [62235-conquest-age.json](./62235-conquest-age.json) |
@@ -9067,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
+| Cozy Builder | 379667 | [379667-cozy-builder.json](./379667-cozy-builder.json) |
 | Cozy Cabin | 216715 | [216715-cozy-cabin.json](./216715-cozy-cabin.json) |
 | Cozy Cabin: Coffee Boutique | 252241 | [252241-cozy-cabin-coffee-boutique.json](./252241-cozy-cabin-coffee-boutique.json) |
 | Cozy Campfire Club | 402877 | [402877-cozy-campfire-club.json](./402877-cozy-campfire-club.json) |
@@ -9743,6 +9745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | Crazy Tetris | 94934 | [94934-crazy-tetris.json](./94934-crazy-tetris.json) |
 | Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
+| Crazy Toad | 379703 | [379703-crazy-toad.json](./379703-crazy-toad.json) |
 | Crazy Toad | 68754 | [68754-crazy-toad.json](./68754-crazy-toad.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
@@ -11514,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Curves | 118234 | [118234-curves.json](./118234-curves.json) |
+| Curvid Nurntine and the Black Vaccine | 379713 | [379713-curvid-nurntine-and-the-black-vaccine.json](./379713-curvid-nurntine-and-the-black-vaccine.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
 | Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
@@ -11639,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Snake | 193473 | [193473-cute-snake.json](./193473-cute-snake.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cute Star Heroes | 349471 | [349471-cute-star-heroes.json](./349471-cute-star-heroes.json) |
+| Cute Techno Slayer: Re Seele | 379700 | [379700-cute-techno-slayer-re-seele.json](./379700-cute-techno-slayer-re-seele.json) |
 | Cute Things Dying Violently | 12394 | [12394-cute-things-dying-violently.json](./12394-cute-things-dying-violently.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
