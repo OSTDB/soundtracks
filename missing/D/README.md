@@ -8446,6 +8446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
+| Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula | 174104 | [174104-dracula.json](./174104-dracula.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
