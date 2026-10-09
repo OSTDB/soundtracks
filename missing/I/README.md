@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
 | Ingrids Back | 40964 | [40964-ingrids-back.json](./40964-ingrids-back.json) |
 | Inha St.77th: Muscle Dog Simulation | 163869 | [163869-inha-st-77th-muscle-dog-simulation.json](./163869-inha-st-77th-muscle-dog-simulation.json) |
+| Inhabitants | 337660 | [337660-inhabitants.json](./337660-inhabitants.json) |
 | Inhabited Island: Prisoner of Power | 352354 | [352354-inhabited-island-prisoner-of-power.json](./352354-inhabited-island-prisoner-of-power.json) |
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
@@ -3236,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
 | Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
+| Introvert | 337573 | [337573-introvert.json](./337573-introvert.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
 | Intruder | 292079 | [292079-intruder.json](./292079-intruder.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
