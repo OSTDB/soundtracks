@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine Mind | 328621 | [328621-machine-mind.json](./328621-machine-mind.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
+| Machine of the Wasteland | 347725 | [347725-machine-of-the-wasteland.json](./347725-machine-of-the-wasteland.json) |
 | Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
 | Machine Ruin Self-Destruction Masturbation Life of the Sky Temple | 189971 | [189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json](./189971-machine-ruin-self-destruction-masturbation-life-of-the-sky-temple.json) |
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
@@ -780,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
 | Magic Rush: Heroes | 57159 | [57159-magic-rush-heroes.json](./57159-magic-rush-heroes.json) |
 | Magic Sand Escape | 315593 | [315593-magic-sand-escape.json](./315593-magic-sand-escape.json) |
+| Magic Scavenger | 347726 | [347726-magic-scavenger.json](./347726-magic-scavenger.json) |
 | Magic School Bus Discovers Flight | 73488 | [73488-magic-school-bus-discovers-flight.json](./73488-magic-school-bus-discovers-flight.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
@@ -2643,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars First Logistics | 159753 | [159753-mars-first-logistics.json](./159753-mars-first-logistics.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
+| Mars Future | 347656 | [347656-mars-future.json](./347656-mars-future.json) |
 | Mars Hopper | 341652 | [341652-mars-hopper.json](./341652-mars-hopper.json) |
 | Mars Horizon | 101183 | [101183-mars-horizon.json](./101183-mars-horizon.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
@@ -7283,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Escape | 409713 | [409713-mine-escape.json](./409713-mine-escape.json) |
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
+| Mine Make Escape | 347745 | [347745-mine-make-escape.json](./347745-mine-make-escape.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
 | Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
@@ -9112,6 +9116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
+| Mongil: Star Dive | 347667 | [347667-mongil-star-dive.json](./347667-mongil-star-dive.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
