@@ -360,6 +360,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | Xeno Crisis & Tanglewood | 133500 | [133500-xeno-crisis-and-tanglewood.json](./133500-xeno-crisis-and-tanglewood.json) |
+| Xeno Girlfriend | 384843 | [384843-xeno-girlfriend.json](./384843-xeno-girlfriend.json) |
+| Xeno Girlfriend 2 | 384844 | [384844-xeno-girlfriend-2.json](./384844-xeno-girlfriend-2.json) |
+| Xeno Girlfriend 3 | 384845 | [384845-xeno-girlfriend-3.json](./384845-xeno-girlfriend-3.json) |
+| Xeno Girlfriend 4 | 384846 | [384846-xeno-girlfriend-4.json](./384846-xeno-girlfriend-4.json) |
 | Xeno Rangers | 360694 | [360694-xeno-rangers.json](./360694-xeno-rangers.json) |
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xeno Strike | 366388 | [366388-xeno-strike.json](./366388-xeno-strike.json) |
