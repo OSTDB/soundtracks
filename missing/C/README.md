@@ -10151,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Criminal Stories: Presumed Partners | 417709 | [417709-criminal-stories-presumed-partners.json](./417709-criminal-stories-presumed-partners.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
+| Criminally Yours | 347085 | [347085-criminally-yours.json](./347085-criminally-yours.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
@@ -11223,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
+| Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
 | Cubeshift | 54542 | [54542-cubeshift.json](./54542-cubeshift.json) |
