@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi | 402968 | [402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json](./402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json) |
 | Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken | 402969 | [402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json](./402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json) |
 | TagPro | 9604 | [9604-tagpro.json](./9604-tagpro.json) |
+| Taguan | 377978 | [377978-taguan.json](./377978-taguan.json) |
 | Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
 | Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
 | Teachers. With Love and Passion. | 390717 | [390717-teachers-with-love-and-passion.json](./390717-teachers-with-love-and-passion.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
+| Teaching Simulator: Elite Class | 377972 | [377972-teaching-simulator-elite-class.json](./377972-teaching-simulator-elite-class.json) |
 | Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
@@ -3917,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BFG Game | 58282 | [58282-the-bfg-game.json](./58282-the-bfg-game.json) |
 | The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
+| The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
 | The Big 6 | 65241 | [65241-the-big-6.json](./65241-the-big-6.json) |
@@ -5102,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donnerwald Experiment | 100339 | [100339-the-donnerwald-experiment.json](./100339-the-donnerwald-experiment.json) |
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
+| The Doodle Palette | 377964 | [377964-the-doodle-palette.json](./377964-the-doodle-palette.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
@@ -8104,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
 | The Man in the Cape: Special Edition | 65816 | [65816-the-man-in-the-cape-special-edition.json](./65816-the-man-in-the-cape-special-edition.json) |
 | The Man in the Fields | 307850 | [307850-the-man-in-the-fields.json](./307850-the-man-in-the-fields.json) |
+| The Man of My Dreams | 377954 | [377954-the-man-of-my-dreams.json](./377954-the-man-of-my-dreams.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
@@ -16422,6 +16427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towns of Yore | 247671 | [247671-towns-of-yore.json](./247671-towns-of-yore.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townseek | 177316 | [177316-townseek.json](./177316-townseek.json) |
+| TownsFolk | 377956 | [377956-townsfolk.json](./377956-townsfolk.json) |
 | Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
 | Townsmen Racing | 198367 | [198367-townsmen-racing.json](./198367-townsmen-racing.json) |
