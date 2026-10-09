@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
+| A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
 | A Week in the Life of Asocial Giraffe | 333220 | [333220-a-week-in-the-life-of-asocial-giraffe.json](./333220-a-week-in-the-life-of-asocial-giraffe.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
 | Aces Up: Easthaven Solitaire | 106745 | [106745-aces-up-easthaven-solitaire.json](./106745-aces-up-easthaven-solitaire.json) |
 | Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
+| Aces Up! HD | 354961 | [354961-aces-up-hd.json](./354961-aces-up-hd.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
@@ -2591,6 +2593,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent Murphy | 164260 | [164260-agent-murphy.json](./164260-agent-murphy.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
+| Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
+| Agent P Strikes Back | 354954 | [354954-agent-p-strikes-back.json](./354954-agent-p-strikes-back.json) |
 | Agent P: Rebel Spy | 143328 | [143328-agent-p-rebel-spy.json](./143328-agent-p-rebel-spy.json) |
 | Agent Reverb | 235149 | [235149-agent-reverb.json](./235149-agent-reverb.json) |
 | Agent Roy: Zombie Hunt | 232449 | [232449-agent-roy-zombie-hunt.json](./232449-agent-roy-zombie-hunt.json) |
@@ -5028,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Shadows | 380068 | [380068-among-shadows.json](./380068-among-shadows.json) |
+| Among Space | 354940 | [354940-among-space.json](./354940-among-space.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among the Clouds | 397421 | [397421-among-the-clouds.json](./397421-among-the-clouds.json) |
 | Among The Dead | 303157 | [303157-among-the-dead.json](./303157-among-the-dead.json) |
@@ -5172,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
+| Anagrams | 354962 | [354962-anagrams.json](./354962-anagrams.json) |
 | Anahita: The Good Girl | 83151 | [83151-anahita-the-good-girl.json](./83151-anahita-the-good-girl.json) |
 | Analemma | 68767 | [68767-analemma.json](./68767-analemma.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
