@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
+| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -6939,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
+| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -7794,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
 | Conflux | 245976 | [245976-conflux.json](./245976-conflux.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
+| Confound Game | 358222 | [358222-confound-game.json](./358222-confound-game.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
 | Confrontation: Battle for Black Gold | 363313 | [363313-confrontation-battle-for-black-gold.json](./363313-confrontation-battle-for-black-gold.json) |
 | Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
@@ -9162,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
+| Cozy Desktop Konbini | 358228 | [358228-cozy-desktop-konbini.json](./358228-cozy-desktop-konbini.json) |
 | Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
@@ -11803,6 +11807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber Bay | 200496 | [200496-cyber-bay.json](./200496-cyber-bay.json) |
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
+| Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
