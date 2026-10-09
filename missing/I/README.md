@@ -3799,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Saver: Dinosaur Island | 238039 | [238039-island-saver-dinosaur-island.json](./238039-island-saver-dinosaur-island.json) |
 | Island Saver: Fantasy Island | 171915 | [171915-island-saver-fantasy-island.json](./171915-island-saver-fantasy-island.json) |
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
+| Island Sky | 335307 | [335307-island-sky.json](./335307-island-sky.json) |
 | Island Supermarket Simulator | 348465 | [348465-island-supermarket-simulator.json](./348465-island-supermarket-simulator.json) |
 | Island Survival | 110172 | [110172-island-survival.json](./110172-island-survival.json) |
 | Island Survival 2026: Craft, Build, Grow | 393047 | [393047-island-survival-2026-craft-build-grow.json](./393047-island-survival-2026-craft-build-grow.json) |
