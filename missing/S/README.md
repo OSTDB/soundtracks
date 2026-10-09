@@ -4980,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shíliù Zhāng Mahjong | 128548 | [128548-shiliu-zhang-mahjong.json](./128548-shiliu-zhang-mahjong.json) |
 | Shíliù Zhāng Mahjong II | 128549 | [128549-shiliu-zhang-mahjong-ii.json](./128549-shiliu-zhang-mahjong-ii.json) |
 | Shima Shima Tora no Shimajiro: Tanoshi Ichinichi | 54946 | [54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json](./54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json) |
+| Shimagami | 342015 | [342015-shimagami.json](./342015-shimagami.json) |
 | Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
@@ -6237,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
+| Signum Malum | 342095 | [342095-signum-malum.json](./342095-signum-malum.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
 | Signus: The Artifact Wars | 70464 | [70464-signus-the-artifact-wars.json](./70464-signus-the-artifact-wars.json) |
 | Signy & Mino: Against All Gods | 301340 | [301340-signy-and-mino-against-all-gods.json](./301340-signy-and-mino-against-all-gods.json) |
@@ -7364,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
+| Skilander | 342000 | [342000-skilander.json](./342000-skilander.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
@@ -10142,6 +10145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something in the Water | 160285 | [160285-something-in-the-water.json](./160285-something-in-the-water.json) |
 | Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
+| Something is Weird | 342005 | [342005-something-is-weird.json](./342005-something-is-weird.json) |
 | Something is Wrong | 132000 | [132000-something-is-wrong.json](./132000-something-is-wrong.json) |
 | Something Is Wrong With My World Map | 315488 | [315488-something-is-wrong-with-my-world-map.json](./315488-something-is-wrong-with-my-world-map.json) |
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
@@ -19357,6 +19361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
 | Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
 | Super Mario Odyssey 64 | 357442 | [357442-super-mario-odyssey-64.json](./357442-super-mario-odyssey-64.json) |
+| Super Mario Odyssey Autumn Isles | 342088 | [342088-super-mario-odyssey-autumn-isles.json](./342088-super-mario-odyssey-autumn-isles.json) |
 | Super Mario Odyssey F.L.U.D.D. | 235169 | [235169-super-mario-odyssey-f-l-u-d-d.json](./235169-super-mario-odyssey-f-l-u-d-d.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
@@ -19740,7 +19745,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong Graffiti | 122965 | [122965-super-real-mahjong-graffiti.json](./122965-super-real-mahjong-graffiti.json) |
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
+| Super Real Mahjong P.V Custom | 342018 | [342018-super-real-mahjong-p-v-custom.json](./342018-super-real-mahjong-p-v-custom.json) |
 | Super Real Mahjong P7 | 342132 | [342132-super-real-mahjong-p7.json](./342132-super-real-mahjong-p7.json) |
+| Super Real Mahjong PII & PIII Custom | 342017 | [342017-super-real-mahjong-pii-and-piii-custom.json](./342017-super-real-mahjong-pii-and-piii-custom.json) |
+| Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
+| Super Real Mahjong PV | 342019 | [342019-super-real-mahjong-pv.json](./342019-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV | 4303 | [4303-super-real-mahjong-pv.json](./4303-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV: Paradise | 42227 | [42227-super-real-mahjong-pv-paradise.json](./42227-super-real-mahjong-pv-paradise.json) |
 | Super Real Mahjong PVI | 342131 | [342131-super-real-mahjong-pvi.json](./342131-super-real-mahjong-pvi.json) |
