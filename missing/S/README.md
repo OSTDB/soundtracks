@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowblade Odyssey | 259513 | [259513-shadowblade-odyssey.json](./259513-shadowblade-odyssey.json) |
 | Shadowblood | 97477 | [97477-shadowblood.json](./97477-shadowblood.json) |
+| Shadowbound | 361621 | [361621-shadowbound.json](./361621-shadowbound.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
@@ -4739,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
+| Shellborne | 361597 | [361597-shellborne.json](./361597-shellborne.json) |
 | Shelldiver | 356430 | [356430-shelldiver.json](./356430-shelldiver.json) |
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
@@ -8585,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smetanka | 156213 | [156213-smetanka.json](./156213-smetanka.json) |
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
+| Smile Dog | 361620 | [361620-smile-dog.json](./361620-smile-dog.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
@@ -10331,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors Demastered | 265222 | [265222-sonic-colors-demastered.json](./265222-sonic-colors-demastered.json) |
 | Sonic Colors DX | 280937 | [280937-sonic-colors-dx.json](./280937-sonic-colors-dx.json) |
 | Sonic Colors VN | 265223 | [265223-sonic-colors-vn.json](./265223-sonic-colors-vn.json) |
+| Sonic Colors: Project Tropical Resort | 361632 | [361632-sonic-colors-project-tropical-resort.json](./361632-sonic-colors-project-tropical-resort.json) |
 | Sonic Colors: Ultimate | 150005 | [150005-sonic-colors-ultimate.json](./150005-sonic-colors-ultimate.json) |
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Colors: Ultimate - Day One Edition | 227941 | [227941-sonic-colors-ultimate-day-one-edition.json](./227941-sonic-colors-ultimate-day-one-edition.json) |
@@ -10485,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins Plus | 241444 | [241444-sonic-origins-plus.json](./241444-sonic-origins-plus.json) |
 | Sonic Origins Plus: Expansion Pack | 254493 | [254493-sonic-origins-plus-expansion-pack.json](./254493-sonic-origins-plus-expansion-pack.json) |
 | Sonic Origins Pocket Edition | 336373 | [336373-sonic-origins-pocket-edition.json](./336373-sonic-origins-pocket-edition.json) |
+| Sonic Origins Ultrafix | 361623 | [361623-sonic-origins-ultrafix.json](./361623-sonic-origins-ultrafix.json) |
 | Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
@@ -10675,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog TX | 336381 | [336381-sonic-the-hedgehog-tx.json](./336381-sonic-the-hedgehog-tx.json) |
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
 | Sonic the Hedgehog XA | 370482 | [370482-sonic-the-hedgehog-xa.json](./370482-sonic-the-hedgehog-xa.json) |
+| Sonic the Hedgehog: A New Adventure | 361629 | [361629-sonic-the-hedgehog-a-new-adventure.json](./361629-sonic-the-hedgehog-a-new-adventure.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
@@ -10757,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Before the Sequel - Aftermath | 139181 | [139181-sonic-before-the-sequel-aftermath.json](./139181-sonic-before-the-sequel-aftermath.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
 | Sonic: Between Worlds | 326163 | [326163-sonic-between-worlds.json](./326163-sonic-between-worlds.json) |
+| Sonic: Christmas Trouble | 361631 | [361631-sonic-christmas-trouble.json](./361631-sonic-christmas-trouble.json) |
 | Sonic: Dark Abyss | 333709 | [333709-sonic-dark-abyss.json](./333709-sonic-dark-abyss.json) |
 | Sonic: Dark Horizon | 330822 | [330822-sonic-dark-horizon.json](./330822-sonic-dark-horizon.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
@@ -12686,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
+| Spellcast | 361626 | [361626-spellcast.json](./361626-spellcast.json) |
 | SpellCast | 254447 | [254447-spellcast.json](./254447-spellcast.json) |
 | SpellCaster | 46124 | [46124-spellcaster.json](./46124-spellcaster.json) |
 | Spellcaster University | 111086 | [111086-spellcaster-university.json](./111086-spellcaster-university.json) |
