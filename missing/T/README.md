@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
+| Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terralysia | 284591 | [284591-terralysia.json](./284591-terralysia.json) |
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
+| Terramystra | 383713 | [383713-terramystra.json](./383713-terramystra.json) |
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
+| Terrors to Unveil: Last Trace | 383708 | [383708-terrors-to-unveil-last-trace.json](./383708-terrors-to-unveil-last-trace.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terrovox | 197254 | [197254-terrovox.json](./197254-terrovox.json) |
 | Terry Tales | 388274 | [388274-terry-tales.json](./388274-terry-tales.json) |
@@ -8847,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
+| The Phantom's Call | 383696 | [383696-the-phantoms-call.json](./383696-the-phantoms-call.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
 | The Phenomenon of Edgar Allan Poe 1/2 | 155465 | [155465-the-phenomenon-of-edgar-allan-poe-1-2.json](./155465-the-phenomenon-of-edgar-allan-poe-1-2.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
@@ -13784,6 +13788,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
 | Time Tunnel | 285136 | [285136-time-tunnel.json](./285136-time-tunnel.json) |
 | Time Turned | 291469 | [291469-time-turned.json](./291469-time-turned.json) |
+| Time Twins Mosaics | 383723 | [383723-time-twins-mosaics.json](./383723-time-twins-mosaics.json) |
+| Time Twins Mosaics: Haunted Images | 383722 | [383722-time-twins-mosaics-haunted-images.json](./383722-time-twins-mosaics-haunted-images.json) |
+| Time Twins Mosaics: Tales of Avalon | 383724 | [383724-time-twins-mosaics-tales-of-avalon.json](./383724-time-twins-mosaics-tales-of-avalon.json) |
+| Time Twins Mosaics: Winter Splash | 383725 | [383725-time-twins-mosaics-winter-splash.json](./383725-time-twins-mosaics-winter-splash.json) |
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
@@ -14023,6 +14031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Hoops: Idle Shooter | 392304 | [392304-tiny-hoops-idle-shooter.json](./392304-tiny-hoops-idle-shooter.json) |
 | Tiny House | 182858 | [182858-tiny-house.json](./182858-tiny-house.json) |
+| Tiny House Finds | 383676 | [383676-tiny-house-finds.json](./383676-tiny-house-finds.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
 | Tiny Hunter | 154080 | [154080-tiny-hunter.json](./154080-tiny-hunter.json) |
 | Tiny Hunters | 199939 | [199939-tiny-hunters.json](./199939-tiny-hunters.json) |
@@ -16465,6 +16474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Tale: The Forgotten Factory | 330242 | [330242-toy-tale-the-forgotten-factory.json](./330242-toy-tale-the-forgotten-factory.json) |
 | Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
+| Toy Terribles | 383707 | [383707-toy-terribles.json](./383707-toy-terribles.json) |
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
@@ -17684,6 +17694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
+| Trap Adventure Deluxe | 383697 | [383697-trap-adventure-deluxe.json](./383697-trap-adventure-deluxe.json) |
 | Trap Again | 356885 | [356885-trap-again.json](./356885-trap-again.json) |
 | Trap and Turn | 210640 | [210640-trap-and-turn.json](./210640-trap-and-turn.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
@@ -19482,6 +19493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Series Vol. 5: Wan-wan Meitantei EX + Mahou no Kuni no Cake-ya-san Monogatari | 97960 | [97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json](./97960-twin-series-vol-5-wan-wan-meitantei-ex-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
 | Twin Shot | 176869 | [176869-twin-shot.json](./176869-twin-shot.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
+| Twin Shot Deluxe | 383682 | [383682-twin-shot-deluxe.json](./383682-twin-shot-deluxe.json) |
 | Twin Sisters Ballerina: Dance, Ballet, Dress up | 95845 | [95845-twin-sisters-ballerina-dance-ballet-dress-up.json](./95845-twin-sisters-ballerina-dance-ballet-dress-up.json) |
 | Twin Skies | 72775 | [72775-twin-skies.json](./72775-twin-skies.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
