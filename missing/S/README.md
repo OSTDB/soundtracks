@@ -6013,16 +6013,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Vietnam & Kublai Khan Pack | 164408 | [164408-sid-meiers-civilization-vi-vietnam-and-kublai-khan-pack.json](./164408-sid-meiers-civilization-vi-vietnam-and-kublai-khan-pack.json) |
 | Sid Meier's Civilization VI: Vikings Scenario Pack | 164400 | [164400-sid-meiers-civilization-vi-vikings-scenario-pack.json](./164400-sid-meiers-civilization-vi-vikings-scenario-pack.json) |
 | Sid Meier's Civilization VI: Yorha Squadron Pack | 276781 | [276781-sid-meiers-civilization-vi-yorha-squadron-pack.json](./276781-sid-meiers-civilization-vi-yorha-squadron-pack.json) |
+| Sid Meier's Civilization VII: Ada Lovelace Pack | 360526 | [360526-sid-meiers-civilization-vii-ada-lovelace-pack.json](./360526-sid-meiers-civilization-vii-ada-lovelace-pack.json) |
 | Sid Meier's Civilization VII: Arcade Edition | 385294 | [385294-sid-meiers-civilization-vii-arcade-edition.json](./385294-sid-meiers-civilization-vii-arcade-edition.json) |
+| Sid Meier's Civilization VII: Ashoka (World Conqueror) Persona | 360540 | [360540-sid-meiers-civilization-vii-ashoka-world-conqueror-persona.json](./360540-sid-meiers-civilization-vii-ashoka-world-conqueror-persona.json) |
+| Sid Meier's Civilization VII: Assyria Pack | 360533 | [360533-sid-meiers-civilization-vii-assyria-pack.json](./360533-sid-meiers-civilization-vii-assyria-pack.json) |
 | Sid Meier's Civilization VII: Brush and Blade Collection | 418585 | [418585-sid-meiers-civilization-vii-brush-and-blade-collection.json](./418585-sid-meiers-civilization-vii-brush-and-blade-collection.json) |
 | Sid Meier's Civilization VII: Brush and Blade Collection - Wonder Pack | 418584 | [418584-sid-meiers-civilization-vii-brush-and-blade-collection-wonder-pack.json](./418584-sid-meiers-civilization-vii-brush-and-blade-collection-wonder-pack.json) |
+| Sid Meier's Civilization VII: Bulgaria Pack | 360528 | [360528-sid-meiers-civilization-vii-bulgaria-pack.json](./360528-sid-meiers-civilization-vii-bulgaria-pack.json) |
+| Sid Meier's Civilization VII: Carthage Pack | 360531 | [360531-sid-meiers-civilization-vii-carthage-pack.json](./360531-sid-meiers-civilization-vii-carthage-pack.json) |
+| Sid Meier's Civilization VII: Crossroads of the World Collection - Wonder Pack | 360529 | [360529-sid-meiers-civilization-vii-crossroads-of-the-world-collection-wonder-pack.json](./360529-sid-meiers-civilization-vii-crossroads-of-the-world-collection-wonder-pack.json) |
+| Sid Meier's Civilization VII: Dai Viet Pack | 360534 | [360534-sid-meiers-civilization-vii-dai-viet-pack.json](./360534-sid-meiers-civilization-vii-dai-viet-pack.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Earthrise | 418583 | [418583-sid-meiers-civilization-vii-earthrise.json](./418583-sid-meiers-civilization-vii-earthrise.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
+| Sid Meier's Civilization VII: Friedrich (Baroque) Persona | 360538 | [360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json](./360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json) |
+| Sid Meier's Civilization VII: Genghis Khan Pack | 360535 | [360535-sid-meiers-civilization-vii-genghis-khan-pack.json](./360535-sid-meiers-civilization-vii-genghis-khan-pack.json) |
+| Sid Meier's Civilization VII: Great Britain Pack | 360530 | [360530-sid-meiers-civilization-vii-great-britain-pack.json](./360530-sid-meiers-civilization-vii-great-britain-pack.json) |
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
+| Sid Meier's Civilization VII: Himiko (High Shaman) Persona | 360539 | [360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json](./360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json) |
+| Sid Meier's Civilization VII: Nepal Pack | 360532 | [360532-sid-meiers-civilization-vii-nepal-pack.json](./360532-sid-meiers-civilization-vii-nepal-pack.json) |
+| Sid Meier's Civilization VII: Right to Rule Collection | 360541 | [360541-sid-meiers-civilization-vii-right-to-rule-collection.json](./360541-sid-meiers-civilization-vii-right-to-rule-collection.json) |
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
+| Sid Meier's Civilization VII: Simón Bolívar Pack | 360527 | [360527-sid-meiers-civilization-vii-simon-bolivar-pack.json](./360527-sid-meiers-civilization-vii-simon-bolivar-pack.json) |
+| Sid Meier's Civilization VII: Tecumseh and Shawnee Pack | 360536 | [360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json](./360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json) |
 | Sid Meier's Civilization VII: Tides of Power Collection | 376099 | [376099-sid-meiers-civilization-vii-tides-of-power-collection.json](./376099-sid-meiers-civilization-vii-tides-of-power-collection.json) |
 | Sid Meier's Civilization VII: Toyotomi Hideyoshi Pack | 411597 | [411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json](./411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json) |
+| Sid Meier's Civilization VII: Xerxes (The Achaemenid) Persona | 360537 | [360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json](./360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json) |
 | Sid Meier's Civilization: Beyond Earth | 6038 | [6038-sid-meiers-civilization-beyond-earth.json](./6038-sid-meiers-civilization-beyond-earth.json) |
 | Sid Meier's Civilization: Beyond Earth - Exoplanets Map Pack | 170843 | [170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json](./170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json) |
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
@@ -10208,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 04 | 265224 | [265224-sonic-04.json](./265224-sonic-04.json) |
 | Sonic 1 8-bit Redux | 317353 | [317353-sonic-1-8-bit-redux.json](./317353-sonic-1-8-bit-redux.json) |
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
+| Sonic 1 on Bird Hill Island | 360500 | [360500-sonic-1-on-bird-hill-island.json](./360500-sonic-1-on-bird-hill-island.json) |
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
 | Sonic 1 Sigma | 332570 | [332570-sonic-1-sigma.json](./332570-sonic-1-sigma.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
@@ -10839,6 +10856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonoklo | 408212 | [408212-sonoklo.json](./408212-sonoklo.json) |
 | Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
+| Sons of Anarchy: The Prospect | 360487 | [360487-sons-of-anarchy-the-prospect.json](./360487-sons-of-anarchy-the-prospect.json) |
 | Sons of Eye Championship | 132006 | [132006-sons-of-eye-championship.json](./132006-sons-of-eye-championship.json) |
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
 | Sons of Ra | 120889 | [120889-sons-of-ra.json](./120889-sons-of-ra.json) |
@@ -12424,6 +12442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Jinsei Game | 4161 | [4161-special-jinsei-game.json](./4161-special-jinsei-game.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
+| Special Mission | 360512 | [360512-special-mission.json](./360512-special-mission.json) |
 | Special Operation 85: Hostage Rescue | 191673 | [191673-special-operation-85-hostage-rescue.json](./191673-special-operation-85-hostage-rescue.json) |
 | Special Ops | 223908 | [223908-special-ops.json](./223908-special-ops.json) |
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
