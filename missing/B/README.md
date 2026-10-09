@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
+| Battleplan | 375578 | [375578-battleplan.json](./375578-battleplan.json) |
 | Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
 | BattlePlatform | 283985 | [283985-battleplatform.json](./283985-battleplatform.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
@@ -9042,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
+| Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
 | Bricks Breaker Challenge | 234561 | [234561-bricks-breaker-challenge.json](./234561-bricks-breaker-challenge.json) |
 | Bricks Breaker Quest | 105516 | [105516-bricks-breaker-quest.json](./105516-bricks-breaker-quest.json) |
 | Bricks Breaker Shot | 96821 | [96821-bricks-breaker-shot.json](./96821-bricks-breaker-shot.json) |
@@ -10291,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | Burglar X | 40982 | [40982-burglar-x.json](./40982-burglar-x.json) |
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
+| Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
