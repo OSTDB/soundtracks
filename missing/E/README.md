@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Meurtre d'un Clown PC-8801 | 401113 | [401113-eggconsole-meurtre-dun-clown-pc-8801.json](./401113-eggconsole-meurtre-dun-clown-pc-8801.json) |
 | Eggconsole Mirai MSX2 | 406080 | [406080-eggconsole-mirai-msx2.json](./406080-eggconsole-mirai-msx2.json) |
 | Eggconsole Mugen no Shinzou III PC-8801mkIISR | 390490 | [390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json](./390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json) |
+| Eggconsole Mugen no Shinzou PC-8801 | 345990 | [345990-eggconsole-mugen-no-shinzou-pc-8801.json](./345990-eggconsole-mugen-no-shinzou-pc-8801.json) |
 | Eggconsole Onryou Senki PC-8801mkIISR | 412951 | [412951-eggconsole-onryou-senki-pc-8801mkiisr.json](./412951-eggconsole-onryou-senki-pc-8801mkiisr.json) |
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
@@ -4370,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exer Gale | 297068 | [297068-exer-gale.json](./297068-exer-gale.json) |
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
+| Exerion | 346070 | [346070-exerion.json](./346070-exerion.json) |
 | Exerion | 6104 | [6104-exerion.json](./6104-exerion.json) |
 | Exerion DX | 361329 | [361329-exerion-dx.json](./361329-exerion-dx.json) |
 | Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
