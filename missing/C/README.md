@@ -5241,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
+| Citrus Summer | 373888 | [373888-citrus-summer.json](./373888-citrus-summer.json) |
 | CitrusBall | 355162 | [355162-citrusball.json](./355162-citrusball.json) |
 | CiTV Racing | 325555 | [325555-citv-racing.json](./325555-citv-racing.json) |
 | City | 175689 | [175689-city.json](./175689-city.json) |
@@ -8037,6 +8038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
+| Contact Protocol | 373878 | [373878-contact-protocol.json](./373878-contact-protocol.json) |
 | Contacts | 379591 | [379591-contacts.json](./379591-contacts.json) |
 | Contador de Histórias | 290093 | [290093-contador-de-historias.json](./290093-contador-de-historias.json) |
 | Contagion | 6404 | [6404-contagion.json](./6404-contagion.json) |
@@ -10644,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
+| Crusaders Quest: Merge Chess | 373889 | [373889-crusaders-quest-merge-chess.json](./373889-crusaders-quest-merge-chess.json) |
 | Crusaders: Thy Kingdom Come | 2011 | [2011-crusaders-thy-kingdom-come.json](./2011-crusaders-thy-kingdom-come.json) |
 | Crusades | 274149 | [274149-crusades.json](./274149-crusades.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
@@ -10894,6 +10897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
 | Crystalline | 28944 | [28944-crystalline.json](./28944-crystalline.json) |
+| Crystallium | 373872 | [373872-crystallium.json](./373872-crystallium.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
 | Crystals | 284980 | [284980-crystals.json](./284980-crystals.json) |
