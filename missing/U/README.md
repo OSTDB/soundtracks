@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unpacking | 115843 | [115843-unpacking.json](./115843-unpacking.json) |
 | Unpan | 338808 | [338808-unpan.json](./338808-unpan.json) |
 | Unparallel | 127987 | [127987-unparallel.json](./127987-unparallel.json) |
+| Unpatterned Cut | 333516 | [333516-unpatterned-cut.json](./333516-unpatterned-cut.json) |
 | Unpetrified: Echoes of Nature | 203925 | [203925-unpetrified-echoes-of-nature.json](./203925-unpetrified-echoes-of-nature.json) |
 | Unplagued | 307143 | [307143-unplagued.json](./307143-unplagued.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
