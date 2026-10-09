@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
 | Tekken 7: Zafina | 163260 | [163260-tekken-7-zafina.json](./163260-tekken-7-zafina.json) |
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
+| Tekken 8: Baobab Horizon | 379704 | [379704-tekken-8-baobab-horizon.json](./379704-tekken-8-baobab-horizon.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate | 384749 | [384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json](./384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
+| Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
@@ -11950,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
+| Think Like a Block | 379709 | [379709-think-like-a-block.json](./379709-think-like-a-block.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think or Die Collection Pack | 312097 | [312097-think-or-die-collection-pack.json](./312097-think-or-die-collection-pack.json) |
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
@@ -12517,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
 | Tickle Dice | 184436 | [184436-tickle-dice.json](./184436-tickle-dice.json) |
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
+| TickWords | 379702 | [379702-tickwords.json](./379702-tickwords.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
 | TicTacToe 3D | 87605 | [87605-tictactoe-3d.json](./87605-tictactoe-3d.json) |
 | Tictactoe Sets | 365868 | [365868-tictactoe-sets.json](./365868-tictactoe-sets.json) |
