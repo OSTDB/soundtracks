@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Careening | 379174 | [379174-careening.json](./379174-careening.json) |
 | Career Fantasy | 318515 | [318515-career-fantasy.json](./318515-career-fantasy.json) |
 | Career of the President | 164860 | [164860-career-of-the-president.json](./164860-career-of-the-president.json) |
+| Caren and the Tangled Tentacles | 344976 | [344976-caren-and-the-tangled-tentacles.json](./344976-caren-and-the-tangled-tentacles.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
@@ -10908,6 +10909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Cryptorig | 203965 | [203965-cryptorig.json](./203965-cryptorig.json) |
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
+| Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Cryptshooter | 419192 | [419192-cryptshooter.json](./419192-cryptshooter.json) |
