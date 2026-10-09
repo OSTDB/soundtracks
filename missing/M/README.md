@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masque Mahjongg | 209554 | [209554-masque-mahjongg.json](./209554-masque-mahjongg.json) |
 | Masquerade | 143364 | [143364-masquerade.json](./143364-masquerade.json) |
 | Masquerade | 25575 | [25575-masquerade.json](./25575-masquerade.json) |
+| Masquerade | 350391 | [350391-masquerade.json](./350391-masquerade.json) |
 | Masquerade Kiss | 239206 | [239206-masquerade-kiss.json](./239206-masquerade-kiss.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
@@ -3589,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
+| Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
@@ -10395,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortem | 409726 | [409726-mortem.json](./409726-mortem.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
 | Morteville Manor | 38863 | [38863-morteville-manor.json](./38863-morteville-manor.json) |
+| Mortgage Me Daddy | 350380 | [350380-mortgage-me-daddy.json](./350380-mortgage-me-daddy.json) |
 | Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
 | Morth | 149587 | [149587-morth.json](./149587-morth.json) |
 | Mortician Inc.: Idle Empire | 245377 | [245377-mortician-inc-idle-empire.json](./245377-mortician-inc-idle-empire.json) |
