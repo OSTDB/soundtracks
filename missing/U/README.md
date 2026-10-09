@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen Diplomacy | 33824 | [33824-unseen-diplomacy.json](./33824-unseen-diplomacy.json) |
 | Unseen Diplomacy 2 | 347836 | [347836-unseen-diplomacy-2.json](./347836-unseen-diplomacy-2.json) |
+| Unseen World: Magical Lense | 384290 | [384290-unseen-world-magical-lense.json](./384290-unseen-world-magical-lense.json) |
 | Unsent | 343314 | [343314-unsent.json](./343314-unsent.json) |
 | Unsettled | 59244 | [59244-unsettled.json](./59244-unsettled.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
