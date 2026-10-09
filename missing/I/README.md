@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Cactus Outpost | 262455 | [262455-icarus-cactus-outpost.json](./262455-icarus-cactus-outpost.json) |
 | Icarus: Climb to Olympus | 329581 | [329581-icarus-climb-to-olympus.json](./329581-icarus-climb-to-olympus.json) |
 | Icarus: Everbark Outpost | 262459 | [262459-icarus-everbark-outpost.json](./262459-icarus-everbark-outpost.json) |
+| Icarus: Great Hunts | 348301 | [348301-icarus-great-hunts.json](./348301-icarus-great-hunts.json) |
 | Icarus: Holdfast Outpost | 262456 | [262456-icarus-holdfast-outpost.json](./262456-icarus-holdfast-outpost.json) |
 | Icarus: Homestead Content Pack | 392438 | [392438-icarus-homestead-content-pack.json](./392438-icarus-homestead-content-pack.json) |
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
+| Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom! | 346161 | [346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json](./346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izanami | 173065 | [173065-izanami.json](./173065-izanami.json) |
 | Izanami | 294262 | [294262-izanami.json](./294262-izanami.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
+| IzanamiYako | 348212 | [348212-izanamiyako.json](./348212-izanamiyako.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izil's Adventures: Blackfeather's Legacy | 186089 | [186089-izils-adventures-blackfeathers-legacy.json](./186089-izils-adventures-blackfeathers-legacy.json) |
 | IziMiniGame | 125853 | [125853-iziminigame.json](./125853-iziminigame.json) |
