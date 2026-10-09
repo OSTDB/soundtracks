@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | CHV: VR Trunk Escape | 151306 | [151306-chv-vr-trunk-escape.json](./151306-chv-vr-trunk-escape.json) |
 | Chwæst: A Creeping Parasite Horror | 393633 | [393633-chw-st-a-creeping-parasite-horror.json](./393633-chw-st-a-creeping-parasite-horror.json) |
+| Chymera Chronicles: The Great Lush Forest | 384833 | [384833-chymera-chronicles-the-great-lush-forest.json](./384833-chymera-chronicles-the-great-lush-forest.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
 | Chyss | 223510 | [223510-chyss.json](./223510-chyss.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
+| City Party | 384867 | [384867-city-party.json](./384867-city-party.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
 | City Pixel Transporters | 409403 | [409403-city-pixel-transporters.json](./409403-city-pixel-transporters.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
