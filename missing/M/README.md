@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage and the Grimoire of Beast | 293203 | [293203-mage-and-the-grimoire-of-beast.json](./293203-mage-and-the-grimoire-of-beast.json) |
 | Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
+| Mage Arena: Voice of Power | 376236 | [376236-mage-arena-voice-of-power.json](./376236-mage-arena-voice-of-power.json) |
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
@@ -7321,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
 | Mined Plants: Farm | 105536 | [105536-mined-plants-farm.json](./105536-mined-plants-farm.json) |
 | Mined-Out | 93131 | [93131-mined-out.json](./93131-mined-out.json) |
+| MineDeeper | 376265 | [376265-minedeeper.json](./376265-minedeeper.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
@@ -8234,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistyvale | 376109 | [376109-mistyvale.json](./376109-mistyvale.json) |
 | Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
+| Mitako Tatari’s Cursed Village Stream ZP | 376271 | [376271-mitako-tatari-s-cursed-village-stream-zp.json](./376271-mitako-tatari-s-cursed-village-stream-zp.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
