@@ -5496,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
+| Meow Tower: Doomsguard | 344970 | [344970-meow-tower-doomsguard.json](./344970-meow-tower-doomsguard.json) |
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meow Town | 244829 | [244829-meow-town.json](./244829-meow-town.json) |
 | Meow Wars: Card Battle | 108302 | [108302-meow-wars-card-battle.json](./108302-meow-wars-card-battle.json) |
@@ -9175,6 +9176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King Saga | 34061 | [34061-monkey-king-saga.json](./34061-monkey-king-saga.json) |
 | Monkey King Simulator Special Edition | 348908 | [348908-monkey-king-simulator-special-edition.json](./348908-monkey-king-simulator-special-edition.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
+| Monkey King: Five Elements Survival | 344891 | [344891-monkey-king-five-elements-survival.json](./344891-monkey-king-five-elements-survival.json) |
 | Monkey King: Hero Is Back - Mind Palace | 170859 | [170859-monkey-king-hero-is-back-mind-palace.json](./170859-monkey-king-hero-is-back-mind-palace.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Kong | 94343 | [94343-monkey-kong.json](./94343-monkey-kong.json) |
