@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen: Rock Tour | 231466 | [231466-queen-rock-tour.json](./231466-queen-rock-tour.json) |
 | Queen's Blade Re:Build | 406940 | [406940-queens-blade-re-build.json](./406940-queens-blade-re-build.json) |
 | Queen's Brothel | 237460 | [237460-queens-brothel.json](./237460-queens-brothel.json) |
+| Queen's Cards | 348209 | [348209-queens-cards.json](./348209-queens-cards.json) |
 | Queen's Coast Casino | 385889 | [385889-queens-coast-casino.json](./385889-queens-coast-casino.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
