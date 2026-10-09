@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
+| Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
@@ -6889,6 +6890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
+| Royal Jest | 353798 | [353798-royal-jest.json](./353798-royal-jest.json) |
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
 | Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
 | Royal Kingdom | 327955 | [327955-royal-kingdom.json](./327955-royal-kingdom.json) |
