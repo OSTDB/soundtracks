@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panacle: Back to Wild | 190177 | [190177-panacle-back-to-wild.json](./190177-panacle-back-to-wild.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
 | Panama Canal Clash | 367547 | [367547-panama-canal-clash.json](./367547-panama-canal-clash.json) |
+| Panasonic Prime Smash! | 340350 | [340350-panasonic-prime-smash.json](./340350-panasonic-prime-smash.json) |
 | Pancake | 305467 | [305467-pancake.json](./305467-pancake.json) |
 | Pancake Bar Tycoon: Expansion Pack 1 | 237915 | [237915-pancake-bar-tycoon-expansion-pack-1.json](./237915-pancake-bar-tycoon-expansion-pack-1.json) |
 | Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
