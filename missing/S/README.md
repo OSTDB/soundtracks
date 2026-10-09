@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
+| Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
 | Sayonara Jinsei. | 288438 | [288438-sayonara-jinsei.json](./288438-sayonara-jinsei.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
+| Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
 | Slide Circus HD | 235154 | [235154-slide-circus-hd.json](./235154-slide-circus-hd.json) |
 | Slide Defenders | 334079 | [334079-slide-defenders.json](./334079-slide-defenders.json) |
 | Slide Fall: Don't Stack High | 174719 | [174719-slide-fall-dont-stack-high.json](./174719-slide-fall-dont-stack-high.json) |
@@ -12641,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
 | Speed Golf Royale | 246001 | [246001-speed-golf-royale.json](./246001-speed-golf-royale.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
+| Speed Haste | 340881 | [340881-speed-haste.json](./340881-speed-haste.json) |
 | Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
