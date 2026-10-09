@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
+| Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
 | LenscraftCube | 373907 | [373907-lenscraftcube.json](./373907-lenscraftcube.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
@@ -2336,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
 | Lethal Crisis | 259719 | [259719-lethal-crisis.json](./259719-lethal-crisis.json) |
 | Lethal Dose | 241950 | [241950-lethal-dose.json](./241950-lethal-dose.json) |
+| Lethal Dungeon | 361075 | [361075-lethal-dungeon.json](./361075-lethal-dungeon.json) |
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
 | Lethal Enforcers | 4501 | [4501-lethal-enforcers.json](./4501-lethal-enforcers.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
@@ -4147,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
+| Logic Leap | 361070 | [361070-logic-leap.json](./361070-logic-leap.json) |
 | Logic Light | 170898 | [170898-logic-light.json](./170898-logic-light.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Master Detective 2 | 175188 | [175188-logic-master-detective-2.json](./175188-logic-master-detective-2.json) |
@@ -4840,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost in Random: The Eternal Die - Cursed Couture | 375591 | [375591-lost-in-random-the-eternal-die-cursed-couture.json](./375591-lost-in-random-the-eternal-die-cursed-couture.json) |
+| Lost in Random: The Eternal Die - Stitched in Style | 361062 | [361062-lost-in-random-the-eternal-die-stitched-in-style.json](./361062-lost-in-random-the-eternal-die-stitched-in-style.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
