@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
+| Heroes Against Time | 342012 | [342012-heroes-against-time.json](./342012-heroes-against-time.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
