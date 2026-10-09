@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
 | Jet Set Radio Future | 1570 | [1570-jet-set-radio-future.json](./1570-jet-set-radio-future.json) |
 | Jet Set Radio: MiniMix | 306027 | [306027-jet-set-radio-minimix.json](./306027-jet-set-radio-minimix.json) |
+| Jet Set Solitaire | 354975 | [354975-jet-set-solitaire.json](./354975-jet-set-solitaire.json) |
 | Jet Set Speeders | 330958 | [330958-jet-set-speeders.json](./330958-jet-set-speeders.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Tour 4 | 104688 | [104688-jigsaw-tour-4.json](./104688-jigsaw-tour-4.json) |
 | Jigsaw Tour.London | 90883 | [90883-jigsaw-tour-london.json](./90883-jigsaw-tour-london.json) |
 | Jigsaw Treasure Hunter | 366438 | [366438-jigsaw-treasure-hunter.json](./366438-jigsaw-treasure-hunter.json) |
+| Jigsaw Treasure Hunter HD | 354976 | [354976-jigsaw-treasure-hunter-hd.json](./354976-jigsaw-treasure-hunter-hd.json) |
 | Jigsaw USA | 328059 | [328059-jigsaw-usa.json](./328059-jigsaw-usa.json) |
 | Jigsaw With Animals | 163405 | [163405-jigsaw-with-animals.json](./163405-jigsaw-with-animals.json) |
 | Jigsaw World | 308926 | [308926-jigsaw-world.json](./308926-jigsaw-world.json) |
