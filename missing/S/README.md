@@ -6763,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
 | Sin | 151822 | [151822-sin.json](./151822-sin.json) |
 | SiN | 1045 | [1045-sin.json](./1045-sin.json) |
+| Sin & Siege | 352149 | [352149-sin-and-siege.json](./352149-sin-and-siege.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
 | Sin Castle | 29820 | [29820-sin-castle.json](./29820-sin-castle.json) |
@@ -7014,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus | 151619 | [151619-sisyphus.json](./151619-sisyphus.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
+| Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
@@ -7606,6 +7608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
 | Skyborne Terrors | 383711 | [383711-skyborne-terrors.json](./383711-skyborne-terrors.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
+| Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
