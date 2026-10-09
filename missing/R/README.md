@@ -1588,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Blue | 415482 | [415482-re-blue.json](./415482-re-blue.json) |
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
+| Re:Burn The Bonfire of Taiwan | 369448 | [369448-re-burn-the-bonfire-of-taiwan.json](./369448-re-burn-the-bonfire-of-taiwan.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
@@ -6875,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Romances: The Cursed Hearts DLC | 280258 | [280258-royal-romances-the-cursed-hearts-dlc.json](./280258-royal-romances-the-cursed-hearts-dlc.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
+| Royal Sort | 369373 | [369373-royal-sort.json](./369373-royal-sort.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
 | Royal Trouble: Hidden Honeymoon Havoc | 87093 | [87093-royal-trouble-hidden-honeymoon-havoc.json](./87093-royal-trouble-hidden-honeymoon-havoc.json) |
