@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
+| Alphabet | 370480 | [370480-alphabet.json](./370480-alphabet.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
@@ -4543,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amairo Chocolate | 130138 | [130138-amairo-chocolate.json](./130138-amairo-chocolate.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano | 374832 | [374832-amakano.json](./374832-amakano.json) |
+| Amakano 3 | 370550 | [370550-amakano-3.json](./370550-amakano-3.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
 | Amakano: Second Season + | 128415 | [128415-amakano-second-season.json](./128415-amakano-second-season.json) |
 | Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
@@ -4739,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
+| Ambulance Simulator 911 Rescue | 370560 | [370560-ambulance-simulator-911-rescue.json](./370560-ambulance-simulator-911-rescue.json) |
 | Ambush | 164935 | [164935-ambush.json](./164935-ambush.json) |
 | Ambush at Sorinor | 69903 | [69903-ambush-at-sorinor.json](./69903-ambush-at-sorinor.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
@@ -9403,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atama wo Kitaete Asobu Taisen Yajirushi Puzzle: Puppy Inu Vector One | 122991 | [122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json](./122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json) |
 | Atan | 283967 | [283967-atan.json](./283967-atan.json) |
 | Ataque Marino | 113459 | [113459-ataque-marino.json](./113459-ataque-marino.json) |
+| Atarayo no Kanojo | 370558 | [370558-atarayo-no-kanojo.json](./370558-atarayo-no-kanojo.json) |
 | Atari | 220069 | [220069-atari.json](./220069-atari.json) |
 | Atari | 220073 | [220073-atari.json](./220073-atari.json) |
 | Atari 4 Player Football | 250338 | [250338-atari-4-player-football.json](./250338-atari-4-player-football.json) |
