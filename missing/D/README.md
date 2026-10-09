@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckEleven's Railroads 2 | 244898 | [244898-deckelevens-railroads-2.json](./244898-deckelevens-railroads-2.json) |
 | Decker | 78254 | [78254-decker.json](./78254-decker.json) |
 | Deckline | 342637 | [342637-deckline.json](./342637-deckline.json) |
+| Decklings | 350476 | [350476-decklings.json](./350476-decklings.json) |
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
@@ -5081,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
 | Dicey Dungeons: Halloween Special | 266909 | [266909-dicey-dungeons-halloween-special.json](./266909-dicey-dungeons-halloween-special.json) |
+| Dicey Hacker 1999 | 350387 | [350387-dicey-hacker-1999.json](./350387-dicey-hacker-1999.json) |
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
 | Dichotomy | 161159 | [161159-dichotomy.json](./161159-dichotomy.json) |
@@ -10788,6 +10790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Quest | 225579 | [225579-dungeon-quest.json](./225579-dungeon-quest.json) |
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
+| Dungeon Raid | 350475 | [350475-dungeon-raid.json](./350475-dungeon-raid.json) |
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
 | Dungeon Raider | 192784 | [192784-dungeon-raider.json](./192784-dungeon-raider.json) |
 | Dungeon Rampage | 142975 | [142975-dungeon-rampage.json](./142975-dungeon-rampage.json) |
