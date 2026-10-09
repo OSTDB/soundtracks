@@ -4649,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiis | 143579 | [143579-hiis.json](./143579-hiis.json) |
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hijack Jump | 362920 | [362920-hijack-jump.json](./362920-hijack-jump.json) |
+| Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horticular: Frozen Frontier | 395687 | [395687-horticular-frozen-frontier.json](./395687-horticular-frozen-frontier.json) |
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
+| Hoser | 342601 | [342601-hoser.json](./342601-hoser.json) |
 | Hoser Hockey | 141089 | [141089-hoser-hockey.json](./141089-hoser-hockey.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
 | Hoshi de Hakken!! Tamagotchi | 77630 | [77630-hoshi-de-hakken-tamagotchi.json](./77630-hoshi-de-hakken-tamagotchi.json) |
@@ -7285,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Husk Protocol | 399266 | [399266-husk-protocol.json](./399266-husk-protocol.json) |
+| Husker | 342584 | [342584-husker.json](./342584-husker.json) |
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle Battle: Card Gamers | 393003 | [393003-hustle-battle-card-gamers.json](./393003-hustle-battle-card-gamers.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
