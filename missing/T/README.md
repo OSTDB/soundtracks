@@ -14246,6 +14246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
+| Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
 | Tiny Onion Knight | 226157 | [226157-tiny-onion-knight.json](./226157-tiny-onion-knight.json) |
 | Tiny Passengers | 175247 | [175247-tiny-passengers.json](./175247-tiny-passengers.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
@@ -14577,6 +14578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Eternity | 219639 | [219639-to-eternity.json](./219639-to-eternity.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
+| To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
@@ -14876,6 +14878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokio | 72164 | [72164-tokio.json](./72164-tokio.json) |
+| Tokiros | 348810 | [348810-tokiros.json](./348810-tokiros.json) |
 | Tokki | 220699 | [220699-tokki.json](./220699-tokki.json) |
 | Tokkun Fighting Soccer | 349434 | [349434-tokkun-fighting-soccer.json](./349434-tokkun-fighting-soccer.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
@@ -17356,6 +17359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
+| Train Your Fingers: Lab | 348730 | [348730-train-your-fingers-lab.json](./348730-train-your-fingers-lab.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
 | TrainCraft | 265614 | [265614-traincraft.json](./265614-traincraft.json) |
@@ -18464,6 +18468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribe War | 211122 | [211122-tribe-war.json](./211122-tribe-war.json) |
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
+| Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
