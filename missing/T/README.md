@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
+| Telegeddon | 369461 | [369461-telegeddon.json](./369461-telegeddon.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
+| The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
@@ -4241,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Canals of Mars | 73349 | [73349-the-canals-of-mars.json](./73349-the-canals-of-mars.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
 | The Candy Adventure | 399135 | [399135-the-candy-adventure.json](./399135-the-candy-adventure.json) |
+| The Candy Jar On My Desk Is Empty Again | 369450 | [369450-the-candy-jar-on-my-desk-is-empty-again.json](./369450-the-candy-jar-on-my-desk-is-empty-again.json) |
 | The Candyman | 186729 | [186729-the-candyman.json](./186729-the-candyman.json) |
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
 | The Cannonball Run 2 | 98252 | [98252-the-cannonball-run-2.json](./98252-the-cannonball-run-2.json) |
@@ -5043,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detectorist Guild | 373609 | [373609-the-detectorist-guild.json](./373609-the-detectorist-guild.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Dev: Enter The Blockchain | 372075 | [372075-the-dev-enter-the-blockchain.json](./372075-the-dev-enter-the-blockchain.json) |
+| The DeviantArt Grind | 369464 | [369464-the-deviantart-grind.json](./369464-the-deviantart-grind.json) |
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
@@ -5259,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
+| The Eighth Continent | 369383 | [369383-the-eighth-continent.json](./369383-the-eighth-continent.json) |
 | The Eigyoudou | 70594 | [70594-the-eigyoudou.json](./70594-the-eigyoudou.json) |
 | The Eire Raising Adventures of Seamus O'Mally | 73860 | [73860-the-eire-raising-adventures-of-seamus-omally.json](./73860-the-eire-raising-adventures-of-seamus-omally.json) |
 | The Elder Fight | 175722 | [175722-the-elder-fight.json](./175722-the-elder-fight.json) |
@@ -9463,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
 | The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
+| The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
 | The Rugrats Movie | 2790 | [2790-the-rugrats-movie.json](./2790-the-rugrats-movie.json) |
@@ -12403,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Cross II | 46774 | [46774-thunder-cross-ii.json](./46774-thunder-cross-ii.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
+| Thunder Edge | 369465 | [369465-thunder-edge.json](./369465-thunder-edge.json) |
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force II | 6033 | [6033-thunder-force-ii.json](./6033-thunder-force-ii.json) |
@@ -18924,6 +18931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
+| Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
