@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hetai Age Urban | 385817 | [385817-hetai-age-urban.json](./385817-hetai-age-urban.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
 | Heterotopias: In the 1989 Future | 125911 | [125911-heterotopias-in-the-1989-future.json](./125911-heterotopias-in-the-1989-future.json) |
+| Hetja's Quest | 372783 | [372783-hetjas-quest.json](./372783-hetjas-quest.json) |
 | Hets | 125854 | [125854-hets.json](./125854-hets.json) |
 | Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
 | Hevel | 398529 | [398529-hevel.json](./398529-hevel.json) |
@@ -7446,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Unlimited | 400492 | [400492-hyperdimension-neptunia-unlimited.json](./400492-hyperdimension-neptunia-unlimited.json) |
 | Hyperdimension Neptunia Victory | 44578 | [44578-hyperdimension-neptunia-victory.json](./44578-hyperdimension-neptunia-victory.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
+| HyperDissonance | 372831 | [372831-hyperdissonance.json](./372831-hyperdissonance.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
 | HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
 | Hyperdrive | 309051 | [309051-hyperdrive.json](./309051-hyperdrive.json) |
