@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
 | Paper Valley | 102920 | [102920-paper-valley.json](./102920-paper-valley.json) |
+| Paper Wars | 374421 | [374421-paper-wars.json](./374421-paper-wars.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
