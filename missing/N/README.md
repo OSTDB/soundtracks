@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Panini Dunk | 305293 | [305293-nba-panini-dunk.json](./305293-nba-panini-dunk.json) |
 | NBA Playgrounds: Enhanced Edition | 80851 | [80851-nba-playgrounds-enhanced-edition.json](./80851-nba-playgrounds-enhanced-edition.json) |
 | NBA Playgrounds: Hot 'N Frosty | 170913 | [170913-nba-playgrounds-hot-n-frosty.json](./170913-nba-playgrounds-hot-n-frosty.json) |
+| NBA Quiz | 349805 | [349805-nba-quiz.json](./349805-nba-quiz.json) |
 | NBA ShootOut | 20260 | [20260-nba-shootout.json](./20260-nba-shootout.json) |
 | NBA ShootOut 2000 | 20263 | [20263-nba-shootout-2000.json](./20263-nba-shootout-2000.json) |
 | NBA ShootOut 2001 | 20264 | [20264-nba-shootout-2001.json](./20264-nba-shootout-2001.json) |
@@ -1850,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
+| Never7: Kurumi Cure | 349900 | [349900-never7-kurumi-cure.json](./349900-never7-kurumi-cure.json) |
 | Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
