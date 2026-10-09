@@ -1651,7 +1651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
@@ -2203,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
+| Kiomet | 358225 | [358225-kiomet.json](./358225-kiomet.json) |
 | Kiou | 405681 | [405681-kiou.json](./405681-kiou.json) |
 | Kip 2: Beyond Boundaries | 360693 | [360693-kip-2-beyond-boundaries.json](./360693-kip-2-beyond-boundaries.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
@@ -3582,6 +3582,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunkun Battles | 292244 | [292244-kunkun-battles.json](./292244-kunkun-battles.json) |
 | KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
+| Kunkun Dream Startles the Soul-Ghost Animal Cosplay | 358236 | [358236-kunkun-dream-startles-the-soul-ghost-animal-cosplay.json](./358236-kunkun-dream-startles-the-soul-ghost-animal-cosplay.json) |
+| Kunkun Dream Startles the Soul-Kunkunzi | 358235 | [358235-kunkun-dream-startles-the-soul-kunkunzi.json](./358235-kunkun-dream-startles-the-soul-kunkunzi.json) |
 | Kunkun League | 303619 | [303619-kunkun-league.json](./303619-kunkun-league.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
 | Kunkunkun | 287214 | [287214-kunkunkun.json](./287214-kunkunkun.json) |
