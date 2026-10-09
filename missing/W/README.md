@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendetta 2175 | 38840 | [38840-wendetta-2175.json](./38840-wendetta-2175.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendigo | 253331 | [253331-wendigo.json](./253331-wendigo.json) |
+| Wendigo's Outside | 341525 | [341525-wendigos-outside.json](./341525-wendigos-outside.json) |
 | Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Workshop | 157490 | [157490-wild-workshop.json](./157490-wild-workshop.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wild World: Tribe | 99709 | [99709-wild-world-tribe.json](./99709-wild-world-tribe.json) |
+| WildAge | 341460 | [341460-wildage.json](./341460-wildage.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
