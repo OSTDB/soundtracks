@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Adventure | 255024 | [255024-family-adventure.json](./255024-family-adventure.json) |
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
 | Family Basic | 220557 | [220557-family-basic.json](./220557-family-basic.json) |
+| Family Basic v3 | 360522 | [360522-family-basic-v3.json](./360522-family-basic-v3.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
 | Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
 | Family Bowling | 135648 | [135648-family-bowling.json](./135648-family-bowling.json) |
