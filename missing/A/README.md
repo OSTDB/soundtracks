@@ -5038,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo 666 | 153883 | [153883-ammo-666.json](./153883-ammo-666.json) |
 | Ammo and Oxygen | 264568 | [264568-ammo-and-oxygen.json](./264568-ammo-and-oxygen.json) |
+| Ammo Garden | 336574 | [336574-ammo-garden.json](./336574-ammo-garden.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammo Station Simulator | 390274 | [390274-ammo-station-simulator.json](./390274-ammo-station-simulator.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
@@ -9365,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
+| Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
