@@ -7267,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
 | Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
+| Run Sausage Run!: Hella Weenies Edition | 376245 | [376245-run-sausage-run-hella-weenies-edition.json](./376245-run-sausage-run-hella-weenies-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
