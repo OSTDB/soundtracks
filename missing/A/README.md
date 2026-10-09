@@ -8342,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Apart | 206011 | [206011-art-apart.json](./206011-art-apart.json) |
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
 | Art Attack | 366924 | [366924-art-attack.json](./366924-art-attack.json) |
+| Art Book Paint Color by Number | 341534 | [341534-art-book-paint-color-by-number.json](./341534-art-book-paint-color-by-number.json) |
 | Art by Numbers | 124140 | [124140-art-by-numbers.json](./124140-art-by-numbers.json) |
 | Art Camion Sugorokuden | 64200 | [64200-art-camion-sugorokuden.json](./64200-art-camion-sugorokuden.json) |
 | Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
