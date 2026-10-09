@@ -4735,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Back To School Pack | 374125 | [374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json](./374125-pixel-cross-stitch-color-by-number-back-to-school-pack.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Baubles Pack 3 | 377604 | [377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json](./377604-pixel-cross-stitch-color-by-number-christmas-baubles-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Christmas Pack 3 | 377605 | [377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json](./377605-pixel-cross-stitch-color-by-number-christmas-pack-3.json) |
+| Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack | 355518 | [355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json](./355518-pixel-cross-stitch-color-by-number-enchanted-worlds-pack.json) |
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Minis Pack | 377609 | [377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json](./377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
@@ -5731,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Chess with Lady Bongcloud | 255696 | [255696-play-chess-with-lady-bongcloud.json](./255696-play-chess-with-lady-bongcloud.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
 | Play Cubes with Uncle Billy | 84539 | [84539-play-cubes-with-uncle-billy.json](./84539-play-cubes-with-uncle-billy.json) |
+| Play Dead! | 355470 | [355470-play-dead.json](./355470-play-dead.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
 | Play Faster | 401781 | [401781-play-faster.json](./401781-play-faster.json) |
@@ -6462,7 +6464,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Card e+: 08-K010 - Touga no Mi | 355674 | [355674-pokemon-battle-card-e-08-k010-touga-no-mi.json](./355674-pokemon-battle-card-e-08-k010-touga-no-mi.json) |
 | Pokémon Battle Card e+: 08-K011 - Niniku no Mi | 355675 | [355675-pokemon-battle-card-e-08-k011-niniku-no-mi.json](./355675-pokemon-battle-card-e-08-k011-niniku-no-mi.json) |
 | Pokémon Battle Card e+: 08-K012 - Topo no Mi | 355676 | [355676-pokemon-battle-card-e-08-k012-topo-no-mi.json](./355676-pokemon-battle-card-e-08-k012-topo-no-mi.json) |
+| Pokémon Battle Card e+: 08-N001 - Psychicher no Teruko | 355507 | [355507-pokemon-battle-card-e-08-n001-psychicher-no-teruko.json](./355507-pokemon-battle-card-e-08-n001-psychicher-no-teruko.json) |
+| Pokémon Battle Card e+: 08-N002 - Triathlete no Kimiko | 355509 | [355509-pokemon-battle-card-e-08-n002-triathlete-no-kimiko.json](./355509-pokemon-battle-card-e-08-n002-triathlete-no-kimiko.json) |
+| Pokémon Battle Card e+: 08-N003 - Gentleman no Norton | 355510 | [355510-pokemon-battle-card-e-08-n003-gentleman-no-norton.json](./355510-pokemon-battle-card-e-08-n003-gentleman-no-norton.json) |
+| Pokémon Battle Card e+: 08-N004 - Guitarist no Simon | 355511 | [355511-pokemon-battle-card-e-08-n004-guitarist-no-simon.json](./355511-pokemon-battle-card-e-08-n004-guitarist-no-simon.json) |
+| Pokémon Battle Card e+: 08-N005 - Battle Girl no Hozumi | 355512 | [355512-pokemon-battle-card-e-08-n005-battle-girl-no-hozumi.json](./355512-pokemon-battle-card-e-08-n005-battle-girl-no-hozumi.json) |
+| Pokémon Battle Card e+: 08-N006 - Miniskirt no Ritsue | 355513 | [355513-pokemon-battle-card-e-08-n006-miniskirt-no-ritsue.json](./355513-pokemon-battle-card-e-08-n006-miniskirt-no-ritsue.json) |
+| Pokémon Battle Card e+: 08-N007 - Juku Kaeri no Yuuma | 355514 | [355514-pokemon-battle-card-e-08-n007-juku-kaeri-no-yuuma.json](./355514-pokemon-battle-card-e-08-n007-juku-kaeri-no-yuuma.json) |
+| Pokémon Battle Card e+: 08-N008 - Tatsujin no Taisen | 355516 | [355516-pokemon-battle-card-e-08-n008-tatsujin-no-taisen.json](./355516-pokemon-battle-card-e-08-n008-tatsujin-no-taisen.json) |
+| Pokémon Battle Card e+: 08-O001 - Moyougae Goods Present | 355517 | [355517-pokemon-battle-card-e-08-o001-moyougae-goods-present.json](./355517-pokemon-battle-card-e-08-o001-moyougae-goods-present.json) |
+| Pokémon Battle Card e+: 08-P005 - Pokémon Collector no Hidehiko | 355504 | [355504-pokemon-battle-card-e-08-p005-pokemon-collector-no-hidehiko.json](./355504-pokemon-battle-card-e-08-p005-pokemon-collector-no-hidehiko.json) |
+| Pokémon Battle Card e+: 08-P007 - Iseki Mania no Sagami | 355506 | [355506-pokemon-battle-card-e-08-p007-iseki-mania-no-sagami.json](./355506-pokemon-battle-card-e-08-p007-iseki-mania-no-sagami.json) |
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
+| Pokémon Battle e: 08-P001 - Dragon Tamer Craig | 355496 | [355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json](./355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json) |
+| Pokémon Battle e: 08-P002 - Ninja Boy Yasuo | 355497 | [355497-pokemon-battle-e-08-p002-ninja-boy-yasuo.json](./355497-pokemon-battle-e-08-p002-ninja-boy-yasuo.json) |
+| Pokémon Battle e: 08-P003 - Pokéfan Darlene | 355498 | [355498-pokemon-battle-e-08-p003-pokefan-darlene.json](./355498-pokemon-battle-e-08-p003-pokefan-darlene.json) |
+| Pokémon Battle e: 08-P004 - Cooltrainer Mattego | 355499 | [355499-pokemon-battle-e-08-p004-cooltrainer-mattego.json](./355499-pokemon-battle-e-08-p004-cooltrainer-mattego.json) |
+| Pokémon Battle e: 08-P006 - Elite Trainer no Yufu | 355505 | [355505-pokemon-battle-e-08-p006-elite-trainer-no-yufu.json](./355505-pokemon-battle-e-08-p006-elite-trainer-no-yufu.json) |
+| Pokémon Battle e: 129-B001 - Gentleman Nils | 355501 | [355501-pokemon-battle-e-129-b001-gentleman-nils.json](./355501-pokemon-battle-e-129-b001-gentleman-nils.json) |
+| Pokémon Battle e: 129-B002 - Lady Astrid | 355503 | [355503-pokemon-battle-e-129-b002-lady-astrid.json](./355503-pokemon-battle-e-129-b002-lady-astrid.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
@@ -6493,6 +6513,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
 | Pokémon Clover | 129810 | [129810-pokemon-clover.json](./129810-pokemon-clover.json) |
 | Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A002 - Hogaraka Ojii-san no Yamon | 355472 | [355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json](./355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A003 - Rider no Hipp | 355473 | [355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json](./355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A004 - Obocchama no Aito | 355474 | [355474-pokemon-colosseum-double-battle-card-e-13-a004-obocchama-no-aito.json](./355474-pokemon-colosseum-double-battle-card-e-13-a004-obocchama-no-aito.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A005 - Elite Trainer no Nicol | 355475 | [355475-pokemon-colosseum-double-battle-card-e-13-a005-elite-trainer-no-nicol.json](./355475-pokemon-colosseum-double-battle-card-e-13-a005-elite-trainer-no-nicol.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A006 - Honobono Obaa-san no Tome | 355477 | [355477-pokemon-colosseum-double-battle-card-e-13-a006-honobono-obaa-san-no-tome.json](./355477-pokemon-colosseum-double-battle-card-e-13-a006-honobono-obaa-san-no-tome.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A007 - Hunter no Lios | 355478 | [355478-pokemon-colosseum-double-battle-card-e-13-a007-hunter-no-lios.json](./355478-pokemon-colosseum-double-battle-card-e-13-a007-hunter-no-lios.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A008 - Rider no Seno | 355480 | [355480-pokemon-colosseum-double-battle-card-e-13-a008-rider-no-seno.json](./355480-pokemon-colosseum-double-battle-card-e-13-a008-rider-no-seno.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A009 - Suit no Onee-san no Shana | 355481 | [355481-pokemon-colosseum-double-battle-card-e-13-a009-suit-no-onee-san-no-shana.json](./355481-pokemon-colosseum-double-battle-card-e-13-a009-suit-no-onee-san-no-shana.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A010 - Elite Trainer no Sildy | 355482 | [355482-pokemon-colosseum-double-battle-card-e-13-a010-elite-trainer-no-sildy.json](./355482-pokemon-colosseum-double-battle-card-e-13-a010-elite-trainer-no-sildy.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A011 - Athlete no Kilk | 355484 | [355484-pokemon-colosseum-double-battle-card-e-13-a011-athlete-no-kilk.json](./355484-pokemon-colosseum-double-battle-card-e-13-a011-athlete-no-kilk.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A012 - Oji-san no Hank | 355485 | [355485-pokemon-colosseum-double-battle-card-e-13-a012-oji-san-no-hank.json](./355485-pokemon-colosseum-double-battle-card-e-13-a012-oji-san-no-hank.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A013 - Roller Boy no Cut | 355486 | [355486-pokemon-colosseum-double-battle-card-e-13-a013-roller-boy-no-cut.json](./355486-pokemon-colosseum-double-battle-card-e-13-a013-roller-boy-no-cut.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A014 - Ojou-sama no Cal | 355487 | [355487-pokemon-colosseum-double-battle-card-e-13-a014-ojou-sama-no-cal.json](./355487-pokemon-colosseum-double-battle-card-e-13-a014-ojou-sama-no-cal.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A015 - Hataraku Oji-san no Orren | 355488 | [355488-pokemon-colosseum-double-battle-card-e-13-a015-hataraku-oji-san-no-orren.json](./355488-pokemon-colosseum-double-battle-card-e-13-a015-hataraku-oji-san-no-orren.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A016 - Athlete no Ariel | 355490 | [355490-pokemon-colosseum-double-battle-card-e-13-a016-athlete-no-ariel.json](./355490-pokemon-colosseum-double-battle-card-e-13-a016-athlete-no-ariel.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A017 - Bandana Yarou no Wamoo | 355491 | [355491-pokemon-colosseum-double-battle-card-e-13-a017-bandana-yarou-no-wamoo.json](./355491-pokemon-colosseum-double-battle-card-e-13-a017-bandana-yarou-no-wamoo.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A018 - Megane no Onii-san no Kai | 355492 | [355492-pokemon-colosseum-double-battle-card-e-13-a018-megane-no-onii-san-no-kai.json](./355492-pokemon-colosseum-double-battle-card-e-13-a018-megane-no-onii-san-no-kai.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A019 - Daidougeinin no Susie | 355493 | [355493-pokemon-colosseum-double-battle-card-e-13-a019-daidougeinin-no-susie.json](./355493-pokemon-colosseum-double-battle-card-e-13-a019-daidougeinin-no-susie.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-A020 - Sensei no Niena | 355494 | [355494-pokemon-colosseum-double-battle-card-e-13-a020-sensei-no-niena.json](./355494-pokemon-colosseum-double-battle-card-e-13-a020-sensei-no-niena.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-M001 - Pyrite Colosseum | 355476 | [355476-pokemon-colosseum-double-battle-card-e-13-m001-pyrite-colosseum.json](./355476-pokemon-colosseum-double-battle-card-e-13-m001-pyrite-colosseum.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-M002 - Under Colosseum | 355483 | [355483-pokemon-colosseum-double-battle-card-e-13-m002-under-colosseum.json](./355483-pokemon-colosseum-double-battle-card-e-13-m002-under-colosseum.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-M003 - Bottom Colosseum | 355489 | [355489-pokemon-colosseum-double-battle-card-e-13-m003-bottom-colosseum.json](./355489-pokemon-colosseum-double-battle-card-e-13-m003-bottom-colosseum.json) |
+| Pokémon Colosseum Double Battle Card e+: 13-M004 - Realgam Tower | 355495 | [355495-pokemon-colosseum-double-battle-card-e-13-m004-realgam-tower.json](./355495-pokemon-colosseum-double-battle-card-e-13-m004-realgam-tower.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P001 - Hunter no Bit | 355521 | [355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json](./355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku | 355523 | [355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json](./355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
