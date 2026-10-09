@@ -5860,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
+| Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
 | Anime Music Quiz | 131061 | [131061-anime-music-quiz.json](./131061-anime-music-quiz.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
