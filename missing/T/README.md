@@ -7383,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
+| The Last Witness | 374950 | [374950-the-last-witness.json](./374950-the-last-witness.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last World | 275821 | [275821-the-last-world.json](./275821-the-last-world.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
@@ -17709,6 +17710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransOcean 2: Rivals | 35728 | [35728-transocean-2-rivals.json](./35728-transocean-2-rivals.json) |
 | TransOcean: The Shipping Company | 36346 | [36346-transocean-the-shipping-company.json](./36346-transocean-the-shipping-company.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
+| Transparent Girl | 374972 | [374972-transparent-girl.json](./374972-transparent-girl.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
@@ -19165,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
+| Tunestrike | 374935 | [374935-tunestrike.json](./374935-tunestrike.json) |
 | Tung Sahur Zombie | 351749 | [351749-tung-sahur-zombie.json](./351749-tung-sahur-zombie.json) |
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
