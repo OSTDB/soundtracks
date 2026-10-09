@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Pancakes | 364080 | [364080-make-it-pancakes.json](./364080-make-it-pancakes.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
+| Make it! Yakiimo | 372274 | [372274-make-it-yakiimo.json](./372274-make-it-yakiimo.json) |
 | Make Love Not War | 208244 | [208244-make-love-not-war.json](./208244-make-love-not-war.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
