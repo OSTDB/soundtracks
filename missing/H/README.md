@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Comet | 40352 | [40352-halleys-comet.json](./40352-halleys-comet.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
+| Halliwell's Garden | 359347 | [359347-halliwells-garden.json](./359347-halliwells-garden.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
 | Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
