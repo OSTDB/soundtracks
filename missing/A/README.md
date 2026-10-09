@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
+| A Slice of Lunch | 372799 | [372799-a-slice-of-lunch.json](./372799-a-slice-of-lunch.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slime's Quest for Freedom | 136181 | [136181-a-slimes-quest-for-freedom.json](./136181-a-slimes-quest-for-freedom.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
 | Aivern | 341148 | [341148-aivern.json](./341148-aivern.json) |
+| Aivx Push | 372791 | [372791-aivx-push.json](./372791-aivx-push.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Penguin | 32823 | [32823-alchemist-penguin.json](./32823-alchemist-penguin.json) |
 | Alchemist Shop Simulator | 312149 | [312149-alchemist-shop-simulator.json](./312149-alchemist-shop-simulator.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
+| Alchemist's Alcove | 372798 | [372798-alchemists-alcove.json](./372798-alchemists-alcove.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
 | Alchemist's Castle | 74449 | [74449-alchemists-castle.json](./74449-alchemists-castle.json) |
@@ -6622,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
+| Apollo Sonata | 372785 | [372785-apollo-sonata.json](./372785-apollo-sonata.json) |
 | Apollo Titanic Bundle | 118856 | [118856-apollo-titanic-bundle.json](./118856-apollo-titanic-bundle.json) |
 | Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
