@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
 | Cartographers | 175748 | [175748-cartographers.json](./175748-cartographers.json) |
+| Cartomancy | 382554 | [382554-cartomancy.json](./382554-cartomancy.json) |
 | Cartomante | 138572 | [138572-cartomante.json](./138572-cartomante.json) |
 | Cartomantic | 338717 | [338717-cartomantic.json](./338717-cartomantic.json) |
 | Carton | 31211 | [31211-carton.json](./31211-carton.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
+| Catloaf Kart Racing | 382564 | [382564-catloaf-kart-racing.json](./382564-catloaf-kart-racing.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catly | 325592 | [325592-catly.json](./325592-catly.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
@@ -4306,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chitin | 335989 | [335989-chitin.json](./335989-chitin.json) |
 | Chitty Chitty Train | 194395 | [194395-chitty-chitty-train.json](./194395-chitty-chitty-train.json) |
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
+| Chivalry | 382524 | [382524-chivalry.json](./382524-chivalry.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
@@ -4324,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
+| Cho Noi | 382527 | [382527-cho-noi.json](./382527-cho-noi.json) |
 | Cho Tousouchuu Atsumare Saikyou no Tousousya Tachi | 55844 | [55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json](./55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json) |
 | Cho-Nazo-Oh | 146276 | [146276-cho-nazo-oh.json](./146276-cho-nazo-oh.json) |
 | Cho-ricchi! Tamagotchi no Puchi Puchi Omisecchi de Violin Lesson | 222310 | [222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json](./222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json) |
@@ -6772,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonies Online | 36439 | [36439-colonies-online.json](./36439-colonies-online.json) |
 | Colonies: Neociv | 311707 | [311707-colonies-neociv.json](./311707-colonies-neociv.json) |
 | Colonisator | 336634 | [336634-colonisator.json](./336634-colonisator.json) |
+| Coloniser | 382544 | [382544-coloniser.json](./382544-coloniser.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
 | Colonization of the Moon | 111580 | [111580-colonization-of-the-moon.json](./111580-colonization-of-the-moon.json) |
 | Colonization Simulator | 292687 | [292687-colonization-simulator.json](./292687-colonization-simulator.json) |
