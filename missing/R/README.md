@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Decay | 404937 | [404937-radio-decay.json](./404937-radio-decay.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Fall | 202811 | [202811-radio-fall.json](./202811-radio-fall.json) |
+| Radio Farm | 383690 | [383690-radio-farm.json](./383690-radio-farm.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Radio Free Europa | 193271 | [193271-radio-free-europa.json](./193271-radio-free-europa.json) |
 | Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage: The Scorchers | 10751 | [10751-rage-the-scorchers.json](./10751-rage-the-scorchers.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
+| RageByte | 383677 | [383677-ragebyte.json](./383677-ragebyte.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
 | Raging Ball | 157511 | [157511-raging-ball.json](./157511-raging-ball.json) |
