@@ -7032,6 +7032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dollhouse | 11668 | [11668-dollhouse.json](./11668-dollhouse.json) |
 | Dollhouse | 125217 | [125217-dollhouse.json](./125217-dollhouse.json) |
+| Dollhouse of Dead | 366724 | [366724-dollhouse-of-dead.json](./366724-dollhouse-of-dead.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
@@ -10819,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
+| Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
 | Dungeonborne: Mithril Satchel | 382563 | [382563-dungeonborne-mithril-satchel.json](./382563-dungeonborne-mithril-satchel.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
@@ -11019,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklander | 401055 | [401055-dusklander.json](./401055-dusklander.json) |
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
+| DuskVeil | 366626 | [366626-duskveil.json](./366626-duskveil.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Courage: Jake Bolton’s Journey | 298233 | [298233-dust-and-courage-jake-bolton-s-journey.json](./298233-dust-and-courage-jake-bolton-s-journey.json) |
