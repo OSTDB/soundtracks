@@ -3706,9 +3706,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles | 153054 | [153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json](./153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Akaza (Infinity Castle) Character Pack | 376262 | [376262-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-akaza-infinity-castle-character-pack.json](./376262-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-akaza-infinity-castle-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Digital Deluxe Edition | 176791 | [176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json](./176791-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-digital-deluxe-edition.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Doma Character Pack | 376261 | [376261-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-doma-character-pack.json](./376261-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-doma-character-pack.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Giyu Tomioka (Infinity Castle) Character Pack | 376260 | [376260-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-giyu-tomioka-infinity-castle-character-pack.json](./376260-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-giyu-tomioka-infinity-castle-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Limited Edition | 201042 | [201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json](./201042-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-limited-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form | 213410 | [213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json](./213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Shinobu Kocho (Infinity Castle) Character Pack | 376259 | [376259-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-shinobu-kocho-infinity-castle-character-pack.json](./376259-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-shinobu-kocho-infinity-castle-character-pack.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Tanjiro Kamado (Infinity Castle) Character Pack | 376258 | [376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json](./376258-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tanjiro-kamado-infinity-castle-character-pack.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Zenitsu Agatsuma (Infinity Castle) Character Pack | 376257 | [376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json](./376257-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-zenitsu-agatsuma-infinity-castle-character-pack.json) |
 | Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Stick | 376051 | [376051-demon-stick.json](./376051-demon-stick.json) |
 | Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
@@ -8575,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Future Saga: Chapter 2 | 327932 | [327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json](./327932-dragon-ball-xenoverse-2-future-saga-chapter-2.json) |
+| Dragon Ball: Xenoverse 2 - Future Saga: Chapter 4 | 376250 | [376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json](./376250-dragon-ball-xenoverse-2-future-saga-chapter-4.json) |
 | Dragon Ball: Xenoverse 2 - Hero of Justice: Pack 2 | 225546 | [225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json](./225546-dragon-ball-xenoverse-2-hero-of-justice-pack-2.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Legendary Pack 2 | 193208 | [193208-dragon-ball-xenoverse-2-legendary-pack-2.json](./193208-dragon-ball-xenoverse-2-legendary-pack-2.json) |
@@ -8734,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
 | Dragon Quest Characters: Torneko no Daibouken 2 Advance | 49270 | [49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json](./49270-dragon-quest-characters-torneko-no-daibouken-2-advance.json) |
+| Dragon Quest HD-2D Erdrick Trilogy Collection | 376240 | [376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json](./376240-dragon-quest-hd-2d-erdrick-trilogy-collection.json) |
 | Dragon Quest Heroes I & II | 26771 | [26771-dragon-quest-heroes-i-and-ii.json](./26771-dragon-quest-heroes-i-and-ii.json) |
 | Dragon Quest Heroes II: Explorer's Edition | 136197 | [136197-dragon-quest-heroes-ii-explorers-edition.json](./136197-dragon-quest-heroes-ii-explorers-edition.json) |
 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | 417182 | [417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json](./417182-dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd.json) |
@@ -9655,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
 | Drifters Loot the Galaxy | 138705 | [138705-drifters-loot-the-galaxy.json](./138705-drifters-loot-the-galaxy.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
+| Drifties | 376233 | [376233-drifties.json](./376233-drifties.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
