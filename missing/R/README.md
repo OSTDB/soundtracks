@@ -6076,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
 | Rogue64 | 192316 | [192316-rogue64.json](./192316-rogue64.json) |
 | RogueAlongWay | 106419 | [106419-roguealongway.json](./106419-roguealongway.json) |
+| Rogueball Recess | 352147 | [352147-rogueball-recess.json](./352147-rogueball-recess.json) |
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
 | Roguebook: Deluxe Edition | 192301 | [192301-roguebook-deluxe-edition.json](./192301-roguebook-deluxe-edition.json) |
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
