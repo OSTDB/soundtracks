@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
+| Way of the Hunter: Map Pack 1 | 378557 | [378557-way-of-the-hunter-map-pack-1.json](./378557-way-of-the-hunter-map-pack-1.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
@@ -2655,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | While You Are Downloading | 87963 | [87963-while-you-are-downloading.json](./87963-while-you-are-downloading.json) |
 | Whim | 216830 | [216830-whim.json](./216830-whim.json) |
+| Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
@@ -4245,6 +4247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
 | Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
+| Woman Simulator | 378548 | [378548-woman-simulator.json](./378548-woman-simulator.json) |
 | Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
 | Womanizer | 274688 | [274688-womanizer.json](./274688-womanizer.json) |
 | Womb | 262595 | [262595-womb.json](./262595-womb.json) |
@@ -5196,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
+| Worldcup Volleyball '95 | 378596 | [378596-worldcup-volleyball-95.json](./378596-worldcup-volleyball-95.json) |
 | Worlde Lande Countrie | 316691 | [316691-worlde-lande-countrie.json](./316691-worlde-lande-countrie.json) |
 | Worldend Dominator Rosa | 380185 | [380185-worldend-dominator-rosa.json](./380185-worldend-dominator-rosa.json) |
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
