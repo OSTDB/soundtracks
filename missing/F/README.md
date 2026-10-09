@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy VIII | 203538 | [203538-final-fantasy-viii.json](./203538-final-fantasy-viii.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
+| Final Fantasy VIII Remastered | 340338 | [340338-final-fantasy-viii-remastered.json](./340338-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Requiem | 360130 | [360130-final-fantasy-viii-requiem.json](./360130-final-fantasy-viii-requiem.json) |
 | Final Fantasy X HD Remaster | 21899 | [21899-final-fantasy-x-hd-remaster.json](./21899-final-fantasy-x-hd-remaster.json) |
 | Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
