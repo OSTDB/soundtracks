@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//Quarantine | 11810 | [11810-hack-quarantine.json](./11810-hack-quarantine.json) |
 | .hack//Versus | 65212 | [65212-hack-versus.json](./65212-hack-versus.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
+| .Headspace | 374425 | [374425-headspace.json](./374425-headspace.json) |
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | '90s Football Stars | 103883 | [103883-90s-football-stars.json](./103883-90s-football-stars.json) |
