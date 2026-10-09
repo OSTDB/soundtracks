@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapitan Pronin: Odin protiv vseh | 202199 | [202199-kapitan-pronin-odin-protiv-vseh.json](./202199-kapitan-pronin-odin-protiv-vseh.json) |
 | Kapka The Game | 416014 | [416014-kapka-the-game.json](./416014-kapka-the-game.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
+| Kappa no Kai-kata: How to Breed Kappas | 335977 | [335977-kappa-no-kai-kata-how-to-breed-kappas.json](./335977-kappa-no-kai-kata-how-to-breed-kappas.json) |
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
 | Kappa's Asylum | 304565 | [304565-kappas-asylum.json](./304565-kappas-asylum.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koru | 189008 | [189008-koru.json](./189008-koru.json) |
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Korwin the Game | 35114 | [35114-korwin-the-game.json](./35114-korwin-the-game.json) |
+| Korza Motor | 335982 | [335982-korza-motor.json](./335982-korza-motor.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
