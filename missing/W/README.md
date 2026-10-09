@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Kings | 17343 | [17343-warrior-kings.json](./17343-warrior-kings.json) |
+| Warrior Mage or Rogue alike | 359352 | [359352-warrior-mage-or-rogue-alike.json](./359352-warrior-mage-or-rogue-alike.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warrior Maiden Lecia and the Lost Fortress | 373646 | [373646-warrior-maiden-lecia-and-the-lost-fortress.json](./373646-warrior-maiden-lecia-and-the-lost-fortress.json) |
 | Warrior of Chaos | 367830 | [367830-warrior-of-chaos.json](./367830-warrior-of-chaos.json) |
@@ -4262,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfteam: Reboot | 236760 | [236760-wolfteam-reboot.json](./236760-wolfteam-reboot.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
+| Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
 | Wolverine | 365006 | [365006-wolverine.json](./365006-wolverine.json) |
 | Wolverine: Adamantium Rage | 207235 | [207235-wolverine-adamantium-rage.json](./207235-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
