@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibe Clicker | 352311 | [352311-vibe-clicker.json](./352311-vibe-clicker.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant Color Simple Answers | 397136 | [397136-vibrant-color-simple-answers.json](./397136-vibrant-color-simple-answers.json) |
+| Vibrant Dash | 368368 | [368368-vibrant-dash.json](./368368-vibrant-dash.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
 | Video Jogger | 40663 | [40663-video-jogger.json](./40663-video-jogger.json) |
+| Video Meanies | 368378 | [368378-video-meanies.json](./368378-video-meanies.json) |
 | Video Olimpic | 69341 | [69341-video-olimpic.json](./69341-video-olimpic.json) |
 | Video Olympics | 54791 | [54791-video-olympics.json](./54791-video-olympics.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
