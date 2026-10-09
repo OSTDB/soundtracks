@@ -5244,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata wa Watashi no Danna-sama | 163233 | [163233-anata-wa-watashi-no-danna-sama.json](./163233-anata-wa-watashi-no-danna-sama.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
+| Anatomy of the Terrible | 347741 | [347741-anatomy-of-the-terrible.json](./347741-anatomy-of-the-terrible.json) |
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
@@ -7389,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcalast: The world that ends and the fruit of the diva | 117151 | [117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json](./117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json) |
+| Arcana | 347736 | [347736-arcana.json](./347736-arcana.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
 | Arcana | 67701 | [67701-arcana.json](./67701-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
@@ -9758,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
+| Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
