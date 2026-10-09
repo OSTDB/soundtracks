@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yawnoc | 288449 | [288449-yawnoc.json](./288449-yawnoc.json) |
 | Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | Yay! Spring Trip with My Coworkers! | 319071 | [319071-yay-spring-trip-with-my-coworkers.json](./319071-yay-spring-trip-with-my-coworkers.json) |
+| Yayos | 382571 | [382571-yayos.json](./382571-yayos.json) |
 | Yaysuu's X-Treme Adventure | 316697 | [316697-yaysuus-x-treme-adventure.json](./316697-yaysuus-x-treme-adventure.json) |
 | Yaz | 263145 | [263145-yaz.json](./263145-yaz.json) |
 | Yazzie | 141112 | [141112-yazzie.json](./141112-yazzie.json) |
