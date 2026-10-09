@@ -8413,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Challenging Game | 81683 | [81683-the-most-challenging-game.json](./81683-the-most-challenging-game.json) |
 | The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
 | The Most Difficult Ball Game | 387617 | [387617-the-most-difficult-ball-game.json](./387617-the-most-difficult-ball-game.json) |
+| The Most Epicest Snowball Fight Ever! | 364993 | [364993-the-most-epicest-snowball-fight-ever.json](./364993-the-most-epicest-snowball-fight-ever.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
@@ -19941,6 +19942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typingmania 5 Odyssey | 64194 | [64194-typingmania-5-odyssey.json](./64194-typingmania-5-odyssey.json) |
+| Typingvania | 364987 | [364987-typingvania.json](./364987-typingvania.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
 | Typo | 219528 | [219528-typo.json](./219528-typo.json) |
 | Typo | 403693 | [403693-typo.json](./403693-typo.json) |
