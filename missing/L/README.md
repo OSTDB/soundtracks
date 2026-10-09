@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
+| Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
 | Leanna's Slice of Life | 114236 | [114236-leannas-slice-of-life.json](./114236-leannas-slice-of-life.json) |
 | Leap | 186763 | [186763-leap.json](./186763-leap.json) |
 | Leap 'n Bump! | 303623 | [303623-leap-n-bump.json](./303623-leap-n-bump.json) |
@@ -2125,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Terres d'Amarande | 69473 | [69473-les-terres-damarande.json](./69473-les-terres-damarande.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
+| Lesbian Voyeur Simulator | 367204 | [367204-lesbian-voyeur-simulator.json](./367204-lesbian-voyeur-simulator.json) |
 | Lesbian Voyeur Simulator 2 | 196128 | [196128-lesbian-voyeur-simulator-2.json](./196128-lesbian-voyeur-simulator-2.json) |
 | LesbiAnts | 291593 | [291593-lesbiants.json](./291593-lesbiants.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
@@ -2469,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lew Pulsipher's Doomstar | 32151 | [32151-lew-pulsiphers-doomstar.json](./32151-lew-pulsiphers-doomstar.json) |
 | Lewd & Nude: Anime Collector | 368112 | [368112-lewd-and-nude-anime-collector.json](./368112-lewd-and-nude-anime-collector.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
+| Lewd Beach | 367201 | [367201-lewd-beach.json](./367201-lewd-beach.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
@@ -5404,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
 | Low Tide | 377252 | [377252-low-tide.json](./377252-low-tide.json) |
 | Low Value Job | 385354 | [385354-low-value-job.json](./385354-low-value-job.json) |
+| Low Vile Block | 367200 | [367200-low-vile-block.json](./367200-low-vile-block.json) |
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
 | Low-Budget Repairs | 316836 | [316836-low-budget-repairs.json](./316836-low-budget-repairs.json) |
 | Low-Fi | 125401 | [125401-low-fi.json](./125401-low-fi.json) |
@@ -5977,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lustful Ponies 2 | 215607 | [215607-lustful-ponies-2.json](./215607-lustful-ponies-2.json) |
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
+| Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
 | Lusty Chapters | 384759 | [384759-lusty-chapters.json](./384759-lusty-chapters.json) |
