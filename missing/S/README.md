@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Private Sheep 2 | 54348 | [54348-saving-private-sheep-2.json](./54348-saving-private-sheep-2.json) |
 | Saving Punyville | 157032 | [157032-saving-punyville.json](./157032-saving-punyville.json) |
 | Saving Simon | 115162 | [115162-saving-simon.json](./115162-saving-simon.json) |
+| Saving Sparksville | 338146 | [338146-saving-sparksville.json](./338146-saving-sparksville.json) |
 | Saving Stages | 132595 | [132595-saving-stages.json](./132595-saving-stages.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
