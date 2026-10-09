@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
 | Yomi No Kuni | 400387 | [400387-yomi-no-kuni.json](./400387-yomi-no-kuni.json) |
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
+| Yomifuda: Kanji Survivors | 383146 | [383146-yomifuda-kanji-survivors.json](./383146-yomifuda-kanji-survivors.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
 | Yonenaga Kunio no Shogi Seminar | 54942 | [54942-yonenaga-kunio-no-shogi-seminar.json](./54942-yonenaga-kunio-no-shogi-seminar.json) |
