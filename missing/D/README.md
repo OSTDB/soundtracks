@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
+| Distant Shore: Bretagne | 379126 | [379126-distant-shore-bretagne.json](./379126-distant-shore-bretagne.json) |
 | Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
 | Distant Space 2 | 75007 | [75007-distant-space-2.json](./75007-distant-space-2.json) |
 | Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
@@ -7579,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodly.io | 112221 | [112221-doodly-io.json](./112221-doodly-io.json) |
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
+| Doofus Drop | 379136 | [379136-doofus-drop.json](./379136-doofus-drop.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
 | Dooly Bravo Land | 63649 | [63649-dooly-bravo-land.json](./63649-dooly-bravo-land.json) |
 | Dooly Daemoheom | 63645 | [63645-dooly-daemoheom.json](./63645-dooly-daemoheom.json) |
