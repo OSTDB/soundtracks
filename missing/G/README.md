@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
+| GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
 | Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
+| Guardian of the Rebellion | 347096 | [347096-guardian-of-the-rebellion.json](./347096-guardian-of-the-rebellion.json) |
 | Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
 | Guardian Prelude | 104580 | [104580-guardian-prelude.json](./104580-guardian-prelude.json) |
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
@@ -6590,6 +6592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstar Heroes: Treasure Box | 22745 | [22745-gunstar-heroes-treasure-box.json](./22745-gunstar-heroes-treasure-box.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
+| Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
