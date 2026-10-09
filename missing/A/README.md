@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
 | Advanced Daisenryaku 2001 Power Up Kit | 413920 | [413920-advanced-daisenryaku-2001-power-up-kit.json](./413920-advanced-daisenryaku-2001-power-up-kit.json) |
 | Advanced Daisenryaku 2001 with Power Up Kit | 413923 | [413923-advanced-daisenryaku-2001-with-power-up-kit.json](./413923-advanced-daisenryaku-2001-with-power-up-kit.json) |
+| Advanced Daisenryaku 5 | 361593 | [361593-advanced-daisenryaku-5.json](./361593-advanced-daisenryaku-5.json) |
 | Advanced Daisenryaku 98 II | 60802 | [60802-advanced-daisenryaku-98-ii.json](./60802-advanced-daisenryaku-98-ii.json) |
 | Advanced Daisenryaku 98: Storm Over Europe | 60806 | [60806-advanced-daisenryaku-98-storm-over-europe.json](./60806-advanced-daisenryaku-98-storm-over-europe.json) |
 | Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
@@ -5327,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And the Band Begins to Play | 144752 | [144752-and-the-band-begins-to-play.json](./144752-and-the-band-begins-to-play.json) |
 | And The World Went Dark | 334296 | [334296-and-the-world-went-dark.json](./334296-and-the-world-went-dark.json) |
 | And Then He Went to the Tower | 183376 | [183376-and-then-he-went-to-the-tower.json](./183376-and-then-he-went-to-the-tower.json) |
+| And Then There Was No Light | 361598 | [361598-and-then-there-was-no-light.json](./361598-and-then-there-was-no-light.json) |
 | And These Iron Limbs Exiled From Heaven | 278486 | [278486-and-these-iron-limbs-exiled-from-heaven.json](./278486-and-these-iron-limbs-exiled-from-heaven.json) |
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
