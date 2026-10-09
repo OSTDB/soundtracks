@@ -7309,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Kitten | 370788 | [370788-bomb-kitten.json](./370788-bomb-kitten.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
+| Bomb Magic Tower | 367855 | [367855-bomb-magic-tower.json](./367855-bomb-magic-tower.json) |
 | Bomb Man | 78266 | [78266-bomb-man.json](./78266-bomb-man.json) |
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
