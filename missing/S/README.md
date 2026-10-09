@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
+| Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
@@ -4053,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Rising: Reinedgening | 330307 | [330307-shadow-rising-reinedgening.json](./330307-shadow-rising-reinedgening.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
+| Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
 | Shadow Sacrament: The Roots of Evil | 347848 | [347848-shadow-sacrament-the-roots-of-evil.json](./347848-shadow-sacrament-the-roots-of-evil.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
@@ -16988,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff | 227755 | [227755-stuff.json](./227755-stuff.json) |
 | Stuff and Nonsense | 57488 | [57488-stuff-and-nonsense.json](./57488-stuff-and-nonsense.json) |
+| Stuff It! | 385385 | [385385-stuff-it.json](./385385-stuff-it.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
 | Stuffed | 396544 | [396544-stuffed.json](./396544-stuffed.json) |
