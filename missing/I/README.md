@@ -3181,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
+| Into The Unknown | 358220 | [358220-into-the-unknown.json](./358220-into-the-unknown.json) |
 | Into the V.O.I.D. | 298666 | [298666-into-the-v-o-i-d.json](./298666-into-the-v-o-i-d.json) |
 | Into the Valley | 129056 | [129056-into-the-valley.json](./129056-into-the-valley.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
@@ -3423,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
+| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
