@@ -7751,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
 | The Lightkeeper | 215737 | [215737-the-lightkeeper.json](./215737-the-lightkeeper.json) |
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
+| The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lik | 223369 | [223369-the-lik.json](./223369-the-lik.json) |
@@ -8488,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
@@ -12088,6 +12090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
 | This is Your Laser | 183455 | [183455-this-is-your-laser.json](./183455-this-is-your-laser.json) |
+| This Isn't Just Tower Defense | 372241 | [372241-this-isnt-just-tower-defense.json](./372241-this-isnt-just-tower-defense.json) |
 | This isn't Moirai | 177849 | [177849-this-isnt-moirai.json](./177849-this-isnt-moirai.json) |
 | This Land Is My Land | 104788 | [104788-this-land-is-my-land.json](./104788-this-land-is-my-land.json) |
 | This Little Piggy | 181391 | [181391-this-little-piggy.json](./181391-this-little-piggy.json) |
@@ -17612,6 +17615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: Virtual Railroading on Your PC | 76125 | [76125-trainz-virtual-railroading-on-your-pc.json](./76125-trainz-virtual-railroading-on-your-pc.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
 | Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
+| Traitor | 372252 | [372252-traitor.json](./372252-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
 | Traitors in Salem | 181143 | [181143-traitors-in-salem.json](./181143-traitors-in-salem.json) |
