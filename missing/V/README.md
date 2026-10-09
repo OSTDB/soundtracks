@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
 | Villa Banana | 416140 | [416140-villa-banana.json](./416140-villa-banana.json) |
 | Villa Escape | 272874 | [272874-villa-escape.json](./272874-villa-escape.json) |
+| Villa No. 1 | 358229 | [358229-villa-no-1.json](./358229-villa-no-1.json) |
 | Villa Nocturne | 377796 | [377796-villa-nocturne.json](./377796-villa-nocturne.json) |
 | Villa's Blinds | 142157 | [142157-villas-blinds.json](./142157-villas-blinds.json) |
 | Village | 266295 | [266295-village.json](./266295-village.json) |
