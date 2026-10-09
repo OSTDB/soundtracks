@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
 | Mask It | 414824 | [414824-mask-it.json](./414824-mask-it.json) |
+| Mask of Dead II: Shadow Of Pelagius | 334646 | [334646-mask-of-dead-ii-shadow-of-pelagius.json](./334646-mask-of-dead-ii-shadow-of-pelagius.json) |
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Fury | 86419 | [86419-mask-of-fury.json](./86419-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man Dongs | 282810 | [282810-mega-man-dongs.json](./282810-mega-man-dongs.json) |
 | Mega Man DOS Remake | 357337 | [357337-mega-man-dos-remake.json](./357337-mega-man-dos-remake.json) |
+| Mega Man Double Buster | 334731 | [334731-mega-man-double-buster.json](./334731-mega-man-double-buster.json) |
 | Mega Man DXtreme | 399874 | [399874-mega-man-dxtreme.json](./399874-mega-man-dxtreme.json) |
 | Mega Man Eternal | 208479 | [208479-mega-man-eternal.json](./208479-mega-man-eternal.json) |
 | Mega Man Heardle | 203816 | [203816-mega-man-heardle.json](./203816-mega-man-heardle.json) |
@@ -5226,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Meme Challenge: Dank Memes | 224000 | [224000-meme-challenge-dank-memes.json](./224000-meme-challenge-dank-memes.json) |
 | Meme Classics 2 | 419944 | [419944-meme-classics-2.json](./419944-meme-classics-2.json) |
+| Meme Couple | 334802 | [334802-meme-couple.json](./334802-meme-couple.json) |
 | Meme Lordz | 198239 | [198239-meme-lordz.json](./198239-meme-lordz.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
