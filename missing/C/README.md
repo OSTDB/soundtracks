@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
+| Cab Driver Commander | 335319 | [335319-cab-driver-commander.json](./335319-cab-driver-commander.json) |
 | Cab Ride | 172552 | [172552-cab-ride.json](./172552-cab-ride.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
@@ -9994,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
+| Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
@@ -10658,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
 | Crown of Ashes and Flames | 319113 | [319113-crown-of-ashes-and-flames.json](./319113-crown-of-ashes-and-flames.json) |
 | Crown Of Blight | 417413 | [417413-crown-of-blight.json](./417413-crown-of-blight.json) |
+| Crown of Chaos | 335382 | [335382-crown-of-chaos.json](./335382-crown-of-chaos.json) |
 | Crown of Empire | 224068 | [224068-crown-of-empire.json](./224068-crown-of-empire.json) |
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
