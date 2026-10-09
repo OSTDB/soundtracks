@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
 | Get Ghost! | 238992 | [238992-get-ghost.json](./238992-get-ghost.json) |
+| Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
