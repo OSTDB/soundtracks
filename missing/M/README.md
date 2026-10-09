@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MainFrames | 313809 | [313809-mainframes.json](./313809-mainframes.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
+| Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
 | Mainichi Kedamono!! Love Ero Momoiro School Life | 77925 | [77925-mainichi-kedamono-love-ero-momoiro-school-life.json](./77925-mainichi-kedamono-love-ero-momoiro-school-life.json) |
 | Mainichi Kotsu-kotsu Ore Tower | 395856 | [395856-mainichi-kotsu-kotsu-ore-tower.json](./395856-mainichi-kotsu-kotsu-ore-tower.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
@@ -2746,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
 | Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
 | Marvel 2099: One Nation Under Doom | 144263 | [144263-marvel-2099-one-nation-under-doom.json](./144263-marvel-2099-one-nation-under-doom.json) |
+| Marvel Adventures | 356054 | [356054-marvel-adventures.json](./356054-marvel-adventures.json) |
 | Marvel Avengers Academy | 18028 | [18028-marvel-avengers-academy.json](./18028-marvel-avengers-academy.json) |
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
