@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
 | Operation: Polygon Storm | 239775 | [239775-operation-polygon-storm.json](./239775-operation-polygon-storm.json) |
+| Operation: Strike & Secure | 341515 | [341515-operation-strike-and-secure.json](./341515-operation-strike-and-secure.json) |
 | Operation: Surface Takeover | 344365 | [344365-operation-surface-takeover.json](./344365-operation-surface-takeover.json) |
 | Operation: Tango | 134822 | [134822-operation-tango.json](./134822-operation-tango.json) |
 | Operation: Tango - Challenge Mode | 182256 | [182256-operation-tango-challenge-mode.json](./182256-operation-tango-challenge-mode.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Trail | 34971 | [34971-orion-trail.json](./34971-orion-trail.json) |
 | Orion: A Sci-Fi Visual Novel | 34962 | [34962-orion-a-sci-fi-visual-novel.json](./34962-orion-a-sci-fi-visual-novel.json) |
 | Orion: Dino Beatdown - Jurassic Edition | 93631 | [93631-orion-dino-beatdown-jurassic-edition.json](./93631-orion-dino-beatdown-jurassic-edition.json) |
+| Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
 | Oripathy | 267579 | [267579-oripathy.json](./267579-oripathy.json) |
@@ -2739,7 +2741,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
 | Otherworld: Shades of Fall - Collector's Edition | 55662 | [55662-otherworld-shades-of-fall-collectors-edition.json](./55662-otherworld-shades-of-fall-collectors-edition.json) |
 | Otherworld: Spring of Shadows - Collector's Edition | 32788 | [32788-otherworld-spring-of-shadows-collectors-edition.json](./32788-otherworld-spring-of-shadows-collectors-edition.json) |
+| Otherworldly Air Gunship | 341517 | [341517-otherworldly-air-gunship.json](./341517-otherworldly-air-gunship.json) |
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
+| Otherworldly: Beginning of the Rift | 341518 | [341518-otherworldly-beginning-of-the-rift.json](./341518-otherworldly-beginning-of-the-rift.json) |
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
@@ -2822,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubliette | 385369 | [385369-oubliette.json](./385369-oubliette.json) |
 | Oubliette Fatalis | 279078 | [279078-oubliette-fatalis.json](./279078-oubliette-fatalis.json) |
 | Oubliette Gauntlet | 137389 | [137389-oubliette-gauntlet.json](./137389-oubliette-gauntlet.json) |
+| Oublivious | 341519 | [341519-oublivious.json](./341519-oublivious.json) |
 | Ouch! Cargo! | 405548 | [405548-ouch-cargo.json](./405548-ouch-cargo.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi de Amaeru Shakaijin Kanojo no Renai Moyou | 382957 | [382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json](./382957-ouchi-de-amaeru-shakaijin-kanojo-no-renai-moyou.json) |
@@ -2845,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oukyuu no Hihou: Tenshon | 241893 | [241893-oukyuu-no-hihou-tenshon.json](./241893-oukyuu-no-hihou-tenshon.json) |
 | Oumagatoki: Kaidan Romance | 219135 | [219135-oumagatoki-kaidan-romance.json](./219135-oumagatoki-kaidan-romance.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
+| Our Ascent | 341520 | [341520-our-ascent.json](./341520-our-ascent.json) |
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
 | Our Baseball Club Manager Girl Was Framed in a Bunk Bed so I Banged Her | 83220 | [83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json](./83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json) |
 | Our Beautiful Earth | 154431 | [154431-our-beautiful-earth.json](./154431-our-beautiful-earth.json) |
@@ -2918,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouran High School Host Club | 81475 | [81475-ouran-high-school-host-club.json](./81475-ouran-high-school-host-club.json) |
 | Ourea | 132681 | [132681-ourea.json](./132681-ourea.json) |
 | Ouritsu Anapoko Gakuen | 112888 | [112888-ouritsu-anapoko-gakuen.json](./112888-ouritsu-anapoko-gakuen.json) |
+| Ourkade | 341521 | [341521-ourkade.json](./341521-ourkade.json) |
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
@@ -3128,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
 | Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
+| Outl1ned | 341522 | [341522-outl1ned.json](./341522-outl1ned.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Peak | 383662 | [383662-outland-peak.json](./383662-outland-peak.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
@@ -3236,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outset | 143949 | [143949-outset.json](./143949-outset.json) |
 | Outshine | 192359 | [192359-outshine.json](./192359-outshine.json) |
 | Outside | 339895 | [339895-outside.json](./339895-outside.json) |
+| Outside | 341526 | [341526-outside.json](./341526-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
@@ -3244,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside World | 54906 | [54906-outside-world.json](./54906-outside-world.json) |
 | Outside: Stray Cat | 185453 | [185453-outside-stray-cat.json](./185453-outside-stray-cat.json) |
 | Outsider | 201773 | [201773-outsider.json](./201773-outsider.json) |
+| Outsider | 341523 | [341523-outsider.json](./341523-outsider.json) |
 | OutSider | 297462 | [297462-outsider.json](./297462-outsider.json) |
 | Outsider Strategist | 90829 | [90829-outsider-strategist.json](./90829-outsider-strategist.json) |
 | Outsider: After Life | 155547 | [155547-outsider-after-life.json](./155547-outsider-after-life.json) |
@@ -3290,11 +3300,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
 | Over G Fighters | 7127 | [7127-over-g-fighters.json](./7127-over-g-fighters.json) |
 | Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
+| Over Heroes | 341527 | [341527-over-heroes.json](./341527-over-heroes.json) |
 | Over Islands | 291525 | [291525-over-islands.json](./291525-over-islands.json) |
 | Over Jump Rally | 260225 | [260225-over-jump-rally.json](./260225-over-jump-rally.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over OBJ | 255107 | [255107-over-obj.json](./255107-over-obj.json) |
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
+| Over Road | 341530 | [341530-over-road.json](./341530-over-road.json) |
 | Over Sand | 402485 | [402485-over-sand.json](./402485-over-sand.json) |
 | Over Shooter | 339284 | [339284-over-shooter.json](./339284-over-shooter.json) |
 | Over Speed | 247021 | [247021-over-speed.json](./247021-over-speed.json) |
@@ -3394,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
 | Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlooting | 334898 | [334898-overlooting.json](./334898-overlooting.json) |
+| Overlord | 341528 | [341528-overlord.json](./341528-overlord.json) |
 | Overlord | 44 | [44-overlord.json](./44-overlord.json) |
 | Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
 | Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
