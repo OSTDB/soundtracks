@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Bus Coinventure | 332538 | [332538-pixicharm-bus-coinventure.json](./332538-pixicharm-bus-coinventure.json) |
 | Pixicharm: Cavrielle | 374716 | [374716-pixicharm-cavrielle.json](./374716-pixicharm-cavrielle.json) |
 | Pixicharm: Celestibun | 378768 | [378768-pixicharm-celestibun.json](./378768-pixicharm-celestibun.json) |
+| Pixicharm: Chromastronaut | 370556 | [370556-pixicharm-chromastronaut.json](./370556-pixicharm-chromastronaut.json) |
 | Pixicharm: Cluckbit | 392347 | [392347-pixicharm-cluckbit.json](./392347-pixicharm-cluckbit.json) |
 | Pixicharm: Darkwood Dash | 330813 | [330813-pixicharm-darkwood-dash.json](./330813-pixicharm-darkwood-dash.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
@@ -5109,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Orunex | 380669 | [380669-pixicharm-orunex.json](./380669-pixicharm-orunex.json) |
+| Pixicharm: Polar Outta Place | 370557 | [370557-pixicharm-polar-outta-place.json](./370557-pixicharm-polar-outta-place.json) |
 | Pixicharm: Ribbiverse | 375565 | [375565-pixicharm-ribbiverse.json](./375565-pixicharm-ribbiverse.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
