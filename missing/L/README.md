@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's Too Short! | 259139 | [259139-lifes-too-short.json](./259139-lifes-too-short.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | Lifeblood | 103357 | [103357-lifeblood.json](./103357-lifeblood.json) |
+| Lifeboat | 363308 | [363308-lifeboat.json](./363308-lifeboat.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
@@ -4395,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Cold Girls | 291692 | [291692-looking-for-cold-girls.json](./291692-looking-for-cold-girls.json) |
 | Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
+| Looking for Waifu | 363322 | [363322-looking-for-waifu.json](./363322-looking-for-waifu.json) |
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Looking Up I See Only a Ceiling | 224733 | [224733-looking-up-i-see-only-a-ceiling.json](./224733-looking-up-i-see-only-a-ceiling.json) |
