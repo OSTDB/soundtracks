@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
 | V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
 | V1ruz | 127846 | [127846-v1ruz.json](./127846-v1ruz.json) |
+| V2 Cucumber Scam | 374419 | [374419-v2-cucumber-scam.json](./374419-v2-cucumber-scam.json) |
 | V2000 | 44869 | [44869-v2000.json](./44869-v2000.json) |
 | V3: Kommando | 219524 | [219524-v3-kommando.json](./219524-v3-kommando.json) |
 | V64 | 283733 | [283733-v64.json](./283733-v64.json) |
