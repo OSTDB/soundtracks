@@ -5825,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
 | Lunar Magic School | 46093 | [46093-lunar-magic-school.json](./46093-lunar-magic-school.json) |
 | Lunar Manor | 113619 | [113619-lunar-manor.json](./113619-lunar-manor.json) |
+| Lunar Mirror | 371624 | [371624-lunar-mirror.json](./371624-lunar-mirror.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunar Remastered Collection | 317623 | [317623-lunar-remastered-collection.json](./317623-lunar-remastered-collection.json) |
