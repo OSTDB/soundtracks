@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
+| Seina: a Tale Of Spirits | 380792 | [380792-seina-a-tale-of-spirits.json](./380792-seina-a-tale-of-spirits.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
 | Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
@@ -7984,6 +7985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime Alchemist | 265108 | [265108-slime-alchemist.json](./265108-slime-alchemist.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
+| Slime Battle | 380752 | [380752-slime-battle.json](./380752-slime-battle.json) |
 | Slime Brawly Brawl | 280295 | [280295-slime-brawly-brawl.json](./280295-slime-brawly-brawl.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
@@ -18102,6 +18104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baseball 2020 | 46193 | [46193-super-baseball-2020.json](./46193-super-baseball-2020.json) |
 | Super Baseball Simulator 1.000 | 42601 | [42601-super-baseball-simulator-1-000.json](./42601-super-baseball-simulator-1-000.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
+| Super Bass Fishing | 380802 | [380802-super-bass-fishing.json](./380802-super-bass-fishing.json) |
 | Super Battle Cards | 147615 | [147615-super-battle-cards.json](./147615-super-battle-cards.json) |
 | Super Battle Golf | 387070 | [387070-super-battle-golf.json](./387070-super-battle-golf.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
@@ -20389,6 +20392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
 | Surviving Mars: Mysteries Resupply Pack | 154446 | [154446-surviving-mars-mysteries-resupply-pack.json](./154446-surviving-mars-mysteries-resupply-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
+| Surviving Purge | 380770 | [380770-surviving-purge.json](./380770-surviving-purge.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving Soldier | 249749 | [249749-surviving-soldier.json](./249749-surviving-soldier.json) |
 | Surviving Space | 148916 | [148916-surviving-space.json](./148916-surviving-space.json) |
