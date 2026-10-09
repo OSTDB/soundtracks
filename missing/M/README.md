@@ -5044,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meloveyou | 183380 | [183380-meloveyou.json](./183380-meloveyou.json) |
 | Melpool Land | 213276 | [213276-melpool-land.json](./213276-melpool-land.json) |
 | Melrose Café | 149481 | [149481-melrose-cafe.json](./149481-melrose-cafe.json) |
+| Melstorm Game | 384826 | [384826-melstorm-game.json](./384826-melstorm-game.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
@@ -10457,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross Challenge | 49508 | [49508-motocross-challenge.json](./49508-motocross-challenge.json) |
 | Motocross Championship | 19779 | [19779-motocross-championship.json](./19779-motocross-championship.json) |
+| Motocross Evolution 2025 | 384822 | [384822-motocross-evolution-2025.json](./384822-motocross-evolution-2025.json) |
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
@@ -11835,6 +11837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dearest Direst Disaster | 397803 | [397803-my-dearest-direst-disaster.json](./397803-my-dearest-direst-disaster.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Desktop Dwarf: Taskbar Forge | 419913 | [419913-my-desktop-dwarf-taskbar-forge.json](./419913-my-desktop-dwarf-taskbar-forge.json) |
+| My Desktop Girlfriend | 384840 | [384840-my-desktop-girlfriend.json](./384840-my-desktop-girlfriend.json) |
 | My Destiny | 202741 | [202741-my-destiny.json](./202741-my-destiny.json) |
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
 | My Devil Lovers | 247468 | [247468-my-devil-lovers.json](./247468-my-devil-lovers.json) |
@@ -12278,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
 | My Sacred Place | 259747 | [259747-my-sacred-place.json](./259747-my-sacred-place.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
+| My Sadistic Girlfriends 2 | 384842 | [384842-my-sadistic-girlfriends-2.json](./384842-my-sadistic-girlfriends-2.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
