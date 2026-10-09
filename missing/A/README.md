@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | A7: Gateway Guardians | 377416 | [377416-a7-gateway-guardians.json](./377416-a7-gateway-guardians.json) |
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
+| AA Soldiers | 367759 | [367759-aa-soldiers.json](./367759-aa-soldiers.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Kiborg | 334760 | [334760-achievement-hunter-kiborg.json](./334760-achievement-hunter-kiborg.json) |
 | Achievement Hunter: Knight | 334781 | [334781-achievement-hunter-knight.json](./334781-achievement-hunter-knight.json) |
 | Achievement Hunter: Overdose | 368155 | [368155-achievement-hunter-overdose.json](./368155-achievement-hunter-overdose.json) |
+| Achievement Hunter: Princess | 367847 | [367847-achievement-hunter-princess.json](./367847-achievement-hunter-princess.json) |
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
 | Achievement Hunter: Scars | 368356 | [368356-achievement-hunter-scars.json](./368356-achievement-hunter-scars.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
@@ -3274,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
+| Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
 | Akuma: Demon Spawn | 72177 | [72177-akuma-demon-spawn.json](./72177-akuma-demon-spawn.json) |
 | Akumajou Densetsu | 151162 | [151162-akumajou-densetsu.json](./151162-akumajou-densetsu.json) |
@@ -9214,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
+| Astro Maze | 367767 | [367767-astro-maze.json](./367767-astro-maze.json) |
 | Astro Miner | 276945 | [276945-astro-miner.json](./276945-astro-miner.json) |
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Miner: Moon Landing | 288310 | [288310-astro-miner-moon-landing.json](./288310-astro-miner-moon-landing.json) |
