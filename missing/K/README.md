@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
 | Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
 | Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
+| Kingdom Rush Vengeance: Pirate Kings Campaign | 346006 | [346006-kingdom-rush-vengeance-pirate-kings-campaign.json](./346006-kingdom-rush-vengeance-pirate-kings-campaign.json) |
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
 | Korean Adventures in Russia | 156547 | [156547-korean-adventures-in-russia.json](./156547-korean-adventures-in-russia.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
+| Korean Drone Flying Tour Ansan-si | 345971 | [345971-korean-drone-flying-tour-ansan-si.json](./345971-korean-drone-flying-tour-ansan-si.json) |
 | Korean Drone Flying Tour Baegun Lake | 353994 | [353994-korean-drone-flying-tour-baegun-lake.json](./353994-korean-drone-flying-tour-baegun-lake.json) |
 | Korean Drone Flying Tour Baekje Military Museum | 411817 | [411817-korean-drone-flying-tour-baekje-military-museum.json](./411817-korean-drone-flying-tour-baekje-military-museum.json) |
 | Korean Drone Flying Tour Bussodamak | 362182 | [362182-korean-drone-flying-tour-bussodamak.json](./362182-korean-drone-flying-tour-bussodamak.json) |
@@ -3201,7 +3203,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
 | Korean Drone Flying Tour Okgyecheon | 411818 | [411818-korean-drone-flying-tour-okgyecheon.json](./411818-korean-drone-flying-tour-okgyecheon.json) |
 | Korean Drone Flying Tour Pocheon-si | 351221 | [351221-korean-drone-flying-tour-pocheon-si.json](./351221-korean-drone-flying-tour-pocheon-si.json) |
+| Korean Drone Flying Tour Siheung-si | 345972 | [345972-korean-drone-flying-tour-siheung-si.json](./345972-korean-drone-flying-tour-siheung-si.json) |
 | Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
+| Korean Drone Flying Tour Uiwang-si | 345973 | [345973-korean-drone-flying-tour-uiwang-si.json](./345973-korean-drone-flying-tour-uiwang-si.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
@@ -3229,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
+| Korovany | 345997 | [345997-korovany.json](./345997-korovany.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
 | Korridor | 369386 | [369386-korridor.json](./369386-korridor.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
