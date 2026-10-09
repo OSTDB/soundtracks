@@ -9677,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster TD | 405047 | [405047-monster-td.json](./405047-monster-td.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
+| Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
