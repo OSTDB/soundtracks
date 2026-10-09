@@ -1792,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
 | Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
+| Schizophrenia: R.E.M. Protocol | 357741 | [357741-schizophrenia-r-e-m-protocol.json](./357741-schizophrenia-r-e-m-protocol.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab | 69474 | [69474-schlag-den-raab.json](./69474-schlag-den-raab.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
