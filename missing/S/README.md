@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
+| Scirocco Thugs | 336515 | [336515-scirocco-thugs.json](./336515-scirocco-thugs.json) |
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | Seal: Travelers of Destiny | 63106 | [63106-seal-travelers-of-destiny.json](./63106-seal-travelers-of-destiny.json) |
 | Seal: What the Fun | 293698 | [293698-seal-what-the-fun.json](./293698-seal-what-the-fun.json) |
+| Sealand Survivor | 336504 | [336504-sealand-survivor.json](./336504-sealand-survivor.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
 | Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
@@ -6348,6 +6350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Noise: Prologue | 403539 | [403539-silent-noise-prologue.json](./403539-silent-noise-prologue.json) |
 | Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
+| Silent Operative | 336486 | [336486-silent-operative.json](./336486-silent-operative.json) |
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise | 401796 | [401796-silent-paradise.json](./401796-silent-paradise.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
@@ -6591,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
 | Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
+| SIMP: Super Infection Massive Pathology | 336586 | [336586-simp-super-infection-massive-pathology.json](./336586-simp-super-infection-massive-pathology.json) |
 | SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
 | Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling | 64656 | [64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json](./64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json) |
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
@@ -6978,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
 | Sintesoft 2.0 | 343319 | [343319-sintesoft-2-0.json](./343319-sintesoft-2-0.json) |
 | Sinthetic | 192805 | [192805-sinthetic.json](./192805-sinthetic.json) |
+| Sinthome | 336485 | [336485-sinthome.json](./336485-sinthome.json) |
 | Sintopia | 325531 | [325531-sintopia.json](./325531-sintopia.json) |
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
@@ -13282,6 +13287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit City: Lofi Sessions - Supporter Pack | 378592 | [378592-spirit-city-lofi-sessions-supporter-pack.json](./378592-spirit-city-lofi-sessions-supporter-pack.json) |
 | Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack | 378591 | [378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json](./378591-spirit-city-lofi-sessions-winter-spirit-cosmetics-pack.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
+| Spirit Crossing | 336502 | [336502-spirit-crossing.json](./336502-spirit-crossing.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Guardian | 392215 | [392215-spirit-guardian.json](./392215-spirit-guardian.json) |
@@ -14565,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mercenary | 236417 | [236417-star-mercenary.json](./236417-star-mercenary.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
+| Star Mission: Remote Sectors | 336570 | [336570-star-mission-remote-sectors.json](./336570-star-mission-remote-sectors.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
 | Star Nomad Elite | 175236 | [175236-star-nomad-elite.json](./175236-star-nomad-elite.json) |
@@ -18011,6 +18018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suit for Hire | 153895 | [153895-suit-for-hire.json](./153895-suit-for-hire.json) |
 | Suitcase of Gor | 262437 | [262437-suitcase-of-gor.json](./262437-suitcase-of-gor.json) |
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
+| Suite 1303 | 336484 | [336484-suite-1303.json](./336484-suite-1303.json) |
 | Suite Macabre | 360119 | [360119-suite-macabre.json](./360119-suite-macabre.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suite PreCure: Melody Collection | 124063 | [124063-suite-precure-melody-collection.json](./124063-suite-precure-melody-collection.json) |
@@ -21424,6 +21432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchball | 21522 | [21522-switchball.json](./21522-switchball.json) |
 | Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
+| Switchblade | 336503 | [336503-switchblade.json](./336503-switchblade.json) |
 | Switchblade | 68106 | [68106-switchblade.json](./68106-switchblade.json) |
 | Switchblade II | 12369 | [12369-switchblade-ii.json](./12369-switchblade-ii.json) |
 | Switchblade II | 126452 | [126452-switchblade-ii.json](./126452-switchblade-ii.json) |
