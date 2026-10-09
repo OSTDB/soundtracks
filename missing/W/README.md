@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
+| Wardoll | 339304 | [339304-wardoll.json](./339304-wardoll.json) |
 | WarDoom Wargame | 273393 | [273393-wardoom-wargame.json](./273393-wardoom-wargame.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch The Edge Honey | 412350 | [412350-watch-the-edge-honey.json](./412350-watch-the-edge-honey.json) |
 | Watch The Fish | 287190 | [287190-watch-the-fish.json](./287190-watch-the-fish.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
+| Watch Trader | 339317 | [339317-watch-trader.json](./339317-watch-trader.json) |
 | Watch Where You're Going | 345077 | [345077-watch-where-youre-going.json](./345077-watch-where-youre-going.json) |
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
 | Watch Your Eggs! VR | 282245 | [282245-watch-your-eggs-vr.json](./282245-watch-your-eggs-vr.json) |
@@ -1994,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
 | Welcome to Amsoft Side A | 39128 | [39128-welcome-to-amsoft-side-a.json](./39128-welcome-to-amsoft-side-a.json) |
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
+| Welcome to Brightville | 339224 | [339224-welcome-to-brightville.json](./339224-welcome-to-brightville.json) |
 | Welcome to Bulletheck | 298784 | [298784-welcome-to-bulletheck.json](./298784-welcome-to-bulletheck.json) |
 | Welcome to Bunny Farm | 338385 | [338385-welcome-to-bunny-farm.json](./338385-welcome-to-bunny-farm.json) |
 | Welcome to Cathouse | 118236 | [118236-welcome-to-cathouse.json](./118236-welcome-to-cathouse.json) |
