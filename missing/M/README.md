@@ -8320,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missy's Bugtastic Little Planet | 409405 | [409405-missys-bugtastic-little-planet.json](./409405-missys-bugtastic-little-planet.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
 | Mist | 343840 | [343840-mist.json](./343840-mist.json) |
+| Mist | 349266 | [349266-mist.json](./349266-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
@@ -9576,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster of the Deep: Final Fantasy XV | 37087 | [37087-monster-of-the-deep-final-fantasy-xv.json](./37087-monster-of-the-deep-final-fantasy-xv.json) |
 | Monster of the Matrix | 179558 | [179558-monster-of-the-matrix.json](./179558-monster-of-the-matrix.json) |
 | Monster Ops 10 | 379334 | [379334-monster-ops-10.json](./379334-monster-ops-10.json) |
+| Monster Ops 12 | 349272 | [349272-monster-ops-12.json](./349272-monster-ops-12.json) |
 | Monster Ops 14 | 384811 | [384811-monster-ops-14.json](./384811-monster-ops-14.json) |
 | Monster Ops 15 | 384812 | [384812-monster-ops-15.json](./384812-monster-ops-15.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
