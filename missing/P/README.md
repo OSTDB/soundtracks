@@ -8533,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest | 99688 | [99688-priest.json](./99688-priest.json) |
 | Priest Simulator: Her Ghost | 376138 | [376138-priest-simulator-her-ghost.json](./376138-priest-simulator-her-ghost.json) |
 | Priest Simulator: Vampire Show | 110993 | [110993-priest-simulator-vampire-show.json](./110993-priest-simulator-vampire-show.json) |
+| Priest With a Gun | 336583 | [336583-priest-with-a-gun.json](./336583-priest-with-a-gun.json) |
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
