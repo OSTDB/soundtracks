@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
+| Deadline | 357729 | [357729-deadline.json](./357729-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Down | 177368 | [177368-deep-down.json](./177368-deep-down.json) |
 | Deep Down | 285011 | [285011-deep-down.json](./285011-deep-down.json) |
+| Deep Down | 357736 | [357736-deep-down.json](./357736-deep-down.json) |
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
 | Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
@@ -9632,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: The Iron Rig | 305098 | [305098-dredge-the-iron-rig.json](./305098-dredge-the-iron-rig.json) |
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
 | Dredge+ | 395816 | [395816-dredge.json](./395816-dredge.json) |
+| Dreeg | 357747 | [357747-dreeg.json](./357747-dreeg.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | DREGS | 409618 | [409618-dregs.json](./409618-dregs.json) |
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
@@ -10767,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rummage: Survival | 323794 | [323794-dungeon-rummage-survival.json](./323794-dungeon-rummage-survival.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Run | 197224 | [197224-dungeon-run.json](./197224-dungeon-run.json) |
+| Dungeon Run | 357742 | [357742-dungeon-run.json](./357742-dungeon-run.json) |
 | Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
 | Dungeon Runners | 21407 | [21407-dungeon-runners.json](./21407-dungeon-runners.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
