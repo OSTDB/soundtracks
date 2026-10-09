@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies | 109732 | [109732-ladies.json](./109732-ladies.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
+| Ladies, Don't Tempt My Immortality | 384297 | [384297-ladies-dont-tempt-my-immortality.json](./384297-ladies-dont-tempt-my-immortality.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
