@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Mask | 110229 | [110229-yokai-mask.json](./110229-yokai-mask.json) |
 | Yokai Memory | 124584 | [124584-yokai-memory.json](./124584-yokai-memory.json) |
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
+| Yokai Onsen | 348815 | [348815-yokai-onsen.json](./348815-yokai-onsen.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
 | Yokai Taiji | 152998 | [152998-yokai-taiji.json](./152998-yokai-taiji.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
@@ -696,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Fall You Lose | 116255 | [116255-you-fall-you-lose.json](./116255-you-fall-you-lose.json) |
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
+| You Found a Hole in the Ground | 348750 | [348750-you-found-a-hole-in-the-ground.json](./348750-you-found-a-hole-in-the-ground.json) |
 | You Generation | 174664 | [174664-you-generation.json](./174664-you-generation.json) |
 | You get Eaten by a Cute Milf | 229200 | [229200-you-get-eaten-by-a-cute-milf.json](./229200-you-get-eaten-by-a-cute-milf.json) |
 | You Go Golf | 181688 | [181688-you-go-golf.json](./181688-you-go-golf.json) |
