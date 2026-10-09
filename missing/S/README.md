@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Nemesi | 260106 | [260106-scp-nemesi.json](./260106-scp-nemesi.json) |
 | SCP: New Operative | 202740 | [202740-scp-new-operative.json](./202740-scp-new-operative.json) |
+| SCP: November 2010 | 337593 | [337593-scp-november-2010.json](./337593-scp-november-2010.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
@@ -2322,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurvy Scallywags | 63663 | [63663-scurvy-scallywags.json](./63663-scurvy-scallywags.json) |
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
+| Scyla | 337658 | [337658-scyla.json](./337658-scyla.json) |
 | Scythe | 133255 | [133255-scythe.json](./133255-scythe.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
@@ -8074,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slicer!! | 100324 | [100324-slicer.json](./100324-slicer.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
+| Slick Shot | 337565 | [337565-slick-shot.json](./337565-slick-shot.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicker City | 57492 | [57492-slicker-city.json](./57492-slicker-city.json) |
@@ -8382,6 +8385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Słowica | 214508 | [214508-s-owica.json](./214508-s-owica.json) |
 | Slowly | 140553 | [140553-slowly.json](./140553-slowly.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
+| Slowly Sliding Ducks | 337563 | [337563-slowly-sliding-ducks.json](./337563-slowly-sliding-ducks.json) |
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
 | Sludge Factory | 271782 | [271782-sludge-factory.json](./271782-sludge-factory.json) |
@@ -10242,6 +10246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
 | Song of Farca | 145773 | [145773-song-of-farca.json](./145773-song-of-farca.json) |
+| Song of Feathers | 337579 | [337579-song-of-feathers.json](./337579-song-of-feathers.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
 | Song of Horror | 121555 | [121555-song-of-horror.json](./121555-song-of-horror.json) |
 | Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
@@ -20576,6 +20581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf Ninjas | 181670 | [181670-surf-ninjas.json](./181670-surf-ninjas.json) |
 | Surf Ninjas | 38836 | [38836-surf-ninjas.json](./38836-surf-ninjas.json) |
 | Surf Park | 270883 | [270883-surf-park.json](./270883-surf-park.json) |
+| Surf Planet | 337567 | [337567-surf-planet.json](./337567-surf-planet.json) |
 | Surf's Up | 381757 | [381757-surfs-up.json](./381757-surfs-up.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
