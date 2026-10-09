@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest: Seven Seas - Collector's Edition | 31047 | [31047-jewel-quest-seven-seas-collectors-edition.json](./31047-jewel-quest-seven-seas-collectors-edition.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
+| Jewel Spirits | 347733 | [347733-jewel-spirits.json](./347733-jewel-spirits.json) |
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
