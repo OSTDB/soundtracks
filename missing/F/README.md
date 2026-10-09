@@ -5557,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Ingress | 126566 | [126566-forbidden-ingress.json](./126566-forbidden-ingress.json) |
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
+| Forbidden Love | 376871 | [376871-forbidden-love.json](./376871-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
 | Forbidden Ninja Scroll: Kunoichi Training | 211766 | [211766-forbidden-ninja-scroll-kunoichi-training.json](./211766-forbidden-ninja-scroll-kunoichi-training.json) |
 | Forbidden Offering | 346737 | [346737-forbidden-offering.json](./346737-forbidden-offering.json) |
