@@ -9536,6 +9536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Rebirth | 325499 | [325499-project-rebirth.json](./325499-project-rebirth.json) |
+| Project Reboot | 345455 | [345455-project-reboot.json](./345455-project-reboot.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
@@ -10261,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up NX2: Next Xenesis | 57714 | [57714-pump-it-up-nx2-next-xenesis.json](./57714-pump-it-up-nx2-next-xenesis.json) |
 | Pump It Up Phoenix 2 | 409779 | [409779-pump-it-up-phoenix-2.json](./409779-pump-it-up-phoenix-2.json) |
 | Pump It Up Prime 2 | 97387 | [97387-pump-it-up-prime-2.json](./97387-pump-it-up-prime-2.json) |
+| Pump It Up Rise | 345431 | [345431-pump-it-up-rise.json](./345431-pump-it-up-rise.json) |
 | Pump it Up StepP1 | 139378 | [139378-pump-it-up-stepp1.json](./139378-pump-it-up-stepp1.json) |
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
