@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
+| Backbeat | 356606 | [356606-backbeat.json](./356606-backbeat.json) |
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
 | Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
 | Backbone's Rampage | 277540 | [277540-backbones-rampage.json](./277540-backbones-rampage.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Chaos in Gotham | 45201 | [45201-batman-chaos-in-gotham.json](./45201-batman-chaos-in-gotham.json) |
 | Batman: Dark Tomorrow | 5738 | [5738-batman-dark-tomorrow.json](./5738-batman-dark-tomorrow.json) |
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
+| Batman: Guardian of Gotham | 356602 | [356602-batman-guardian-of-gotham.json](./356602-batman-guardian-of-gotham.json) |
 | Batman: Justice Unbalanced | 73887 | [73887-batman-justice-unbalanced.json](./73887-batman-justice-unbalanced.json) |
 | Batman: Return of the Joker | 4489 | [4489-batman-return-of-the-joker.json](./4489-batman-return-of-the-joker.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
@@ -4049,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Two Worlds | 352826 | [352826-between-two-worlds.json](./352826-between-two-worlds.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Between: Stardust Trail | 257554 | [257554-between-stardust-trail.json](./257554-between-stardust-trail.json) |
+| Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
@@ -8097,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
+| Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce ASMR: Circle | 288911 | [288911-bounce-asmr-circle.json](./288911-bounce-asmr-circle.json) |
