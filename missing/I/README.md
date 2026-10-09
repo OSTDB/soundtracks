@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiot Squad | 52247 | [52247-idiot-squad.json](./52247-idiot-squad.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idiotic Dots | 316742 | [316742-idiotic-dots.json](./316742-idiotic-dots.json) |
+| Idiots In The Das | 342599 | [342599-idiots-in-the-das.json](./342599-idiots-in-the-das.json) |
 | Idiots' Fantasy | 276247 | [276247-idiots-fantasy.json](./276247-idiots-fantasy.json) |
 | Idle accelerator | 101743 | [101743-idle-accelerator.json](./101743-idle-accelerator.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
