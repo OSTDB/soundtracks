@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
+| Magnet Miner | 354398 | [354398-magnet-miner.json](./354398-magnet-miner.json) |
 | Magneta Box | 190007 | [190007-magneta-box.json](./190007-magneta-box.json) |
 | Magnetic | 136214 | [136214-magnetic.json](./136214-magnetic.json) |
 | Magnetic Action | 364974 | [364974-magnetic-action.json](./364974-magnetic-action.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Pair 3D Puzzle | 243638 | [243638-match-pair-3d-puzzle.json](./243638-match-pair-3d-puzzle.json) |
 | Match Point | 324904 | [324904-match-point.json](./324904-match-point.json) |
 | Match Point | 39121 | [39121-match-point.json](./39121-match-point.json) |
+| Match Point Tennis: Summer Update | 354378 | [354378-match-point-tennis-summer-update.json](./354378-match-point-tennis-summer-update.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
@@ -3390,6 +3392,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
+| Matchmakers A | 354386 | [354386-matchmakers-a.json](./354386-matchmakers-a.json) |
+| Matchmakers B | 354387 | [354387-matchmakers-b.json](./354387-matchmakers-b.json) |
 | Matchmaking for Ghosts | 398988 | [398988-matchmaking-for-ghosts.json](./398988-matchmaking-for-ghosts.json) |
 | Matchmension: House of Mist | 197915 | [197915-matchmension-house-of-mist.json](./197915-matchmension-house-of-mist.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
