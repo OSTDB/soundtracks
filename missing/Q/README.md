@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
+| Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
 | Quasimodo | 25091 | [25091-quasimodo.json](./25091-quasimodo.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
+| Quetzal | 373891 | [373891-quetzal.json](./373891-quetzal.json) |
 | Quetzal's Call | 196651 | [196651-quetzals-call.json](./196651-quetzals-call.json) |
 | Quetzi | 300816 | [300816-quetzi.json](./300816-quetzi.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
