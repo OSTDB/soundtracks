@@ -6038,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob's Adventure | 395875 | [395875-blobs-adventure.json](./395875-blobs-adventure.json) |
 | Blob's Boxes | 57082 | [57082-blobs-boxes.json](./57082-blobs-boxes.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
+| Blobbelnoppel | 384260 | [384260-blobbelnoppel.json](./384260-blobbelnoppel.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
@@ -8777,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
+| Break the Block | 384279 | [384279-break-the-block.json](./384279-break-the-block.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
 | Break the Food Chain | 50746 | [50746-break-the-food-chain.json](./50746-break-the-food-chain.json) |
