@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Pandemonium | 167191 | [167191-pandemic-pandemonium.json](./167191-pandemic-pandemonium.json) |
 | Pandemic Shooter | 186702 | [186702-pandemic-shooter.json](./186702-pandemic-shooter.json) |
 | Pandemic Train | 149918 | [149918-pandemic-train.json](./149918-pandemic-train.json) |
+| Pandemic: Ground Zero | 335384 | [335384-pandemic-ground-zero.json](./335384-pandemic-ground-zero.json) |
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
 | Pandemic: The Board Game - On the Brink: Mutation | 171931 | [171931-pandemic-the-board-game-on-the-brink-mutation.json](./171931-pandemic-the-board-game-on-the-brink-mutation.json) |
 | Pandemic: The Board Game - On the Brink: Roles & Events | 171930 | [171930-pandemic-the-board-game-on-the-brink-roles-and-events.json](./171930-pandemic-the-board-game-on-the-brink-roles-and-events.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | ParelVR | 410164 | [410164-parelvr.json](./410164-parelvr.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
+| Paresis II | 335374 | [335374-paresis-ii.json](./335374-paresis-ii.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake | 167107 | [167107-parfait-remake.json](./167107-parfait-remake.json) |
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
@@ -10652,6 +10654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
+| Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
 | Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
@@ -11013,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle! Mushihimetama | 66102 | [66102-puzzle-mushihimetama.json](./66102-puzzle-mushihimetama.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
+| Puzzled Cube | 335392 | [335392-puzzled-cube.json](./335392-puzzled-cube.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
 | Puzzled Hive | 311199 | [311199-puzzled-hive.json](./311199-puzzled-hive.json) |
 | Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
