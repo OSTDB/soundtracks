@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonah Barrington's Squash | 72155 | [72155-jonah-barringtons-squash.json](./72155-jonah-barringtons-squash.json) |
 | Jonah Considers What Is Asked of Him | 375384 | [375384-jonah-considers-what-is-asked-of-him.json](./375384-jonah-considers-what-is-asked-of-him.json) |
 | Jonah Lomu Rugby | 2401 | [2401-jonah-lomu-rugby.json](./2401-jonah-lomu-rugby.json) |
+| Jonah Lomu Rugby Challenge 4 | 333520 | [333520-jonah-lomu-rugby-challenge-4.json](./333520-jonah-lomu-rugby-challenge-4.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just, Bearly | 86229 | [86229-just-bearly.json](./86229-just-bearly.json) |
 | Just. Press. The Button. | 396911 | [396911-just-press-the-button.json](./396911-just-press-the-button.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
+| JusTD | 333514 | [333514-justd.json](./333514-justd.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
 | Justice Bear: Equinox | 118149 | [118149-justice-bear-equinox.json](./118149-justice-bear-equinox.json) |
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
