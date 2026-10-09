@@ -4074,21 +4074,53 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
+| Pinball Arcade: Al’s Garage Band Goes on a World Tour | 353229 | [353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json](./353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json) |
 | Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
+| Pinball Arcade: Big Buck Hunter Pro | 353223 | [353223-pinball-arcade-big-buck-hunter-pro.json](./353223-pinball-arcade-big-buck-hunter-pro.json) |
+| Pinball Arcade: Bone Busters Inc. | 353221 | [353221-pinball-arcade-bone-busters-inc.json](./353221-pinball-arcade-bone-busters-inc.json) |
+| Pinball Arcade: Cactus Jack's | 353246 | [353246-pinball-arcade-cactus-jacks.json](./353246-pinball-arcade-cactus-jacks.json) |
+| Pinball Arcade: Centigrade 37 | 353222 | [353222-pinball-arcade-centigrade-37.json](./353222-pinball-arcade-centigrade-37.json) |
+| Pinball Arcade: Class of 1812 | 353217 | [353217-pinball-arcade-class-of-1812.json](./353217-pinball-arcade-class-of-1812.json) |
+| Pinball Arcade: Creature from the Black Lagoon | 353212 | [353212-pinball-arcade-creature-from-the-black-lagoon.json](./353212-pinball-arcade-creature-from-the-black-lagoon.json) |
+| Pinball Arcade: Diner | 353266 | [353266-pinball-arcade-diner.json](./353266-pinball-arcade-diner.json) |
+| Pinball Arcade: Eight Ball Deluxe | 353240 | [353240-pinball-arcade-eight-ball-deluxe.json](./353240-pinball-arcade-eight-ball-deluxe.json) |
 | Pinball Arcade: Fathom | 349962 | [349962-pinball-arcade-fathom.json](./349962-pinball-arcade-fathom.json) |
 | Pinball Arcade: Firepower II | 349961 | [349961-pinball-arcade-firepower-ii.json](./349961-pinball-arcade-firepower-ii.json) |
+| Pinball Arcade: Fish Tales | 353259 | [353259-pinball-arcade-fish-tales.json](./353259-pinball-arcade-fish-tales.json) |
+| Pinball Arcade: Flight 2000 | 353253 | [353253-pinball-arcade-flight-2000.json](./353253-pinball-arcade-flight-2000.json) |
 | Pinball Arcade: Ghostbusters Premium | 349965 | [349965-pinball-arcade-ghostbusters-premium.json](./349965-pinball-arcade-ghostbusters-premium.json) |
+| Pinball Arcade: Gladiators | 353220 | [353220-pinball-arcade-gladiators.json](./353220-pinball-arcade-gladiators.json) |
+| Pinball Arcade: Goin' Nuts | 353261 | [353261-pinball-arcade-goin-nuts.json](./353261-pinball-arcade-goin-nuts.json) |
+| Pinball Arcade: Gorgar | 353264 | [353264-pinball-arcade-gorgar.json](./353264-pinball-arcade-gorgar.json) |
+| Pinball Arcade: Harley-Davidson / 3rd Edition | 353213 | [353213-pinball-arcade-harley-davidson-3rd-edition.json](./353213-pinball-arcade-harley-davidson-3rd-edition.json) |
+| Pinball Arcade: High Roller Casino | 353226 | [353226-pinball-arcade-high-roller-casino.json](./353226-pinball-arcade-high-roller-casino.json) |
+| Pinball Arcade: Jacks Open | 353242 | [353242-pinball-arcade-jacks-open.json](./353242-pinball-arcade-jacks-open.json) |
+| Pinball Arcade: Junk Yard | 353258 | [353258-pinball-arcade-junk-yard.json](./353258-pinball-arcade-junk-yard.json) |
+| Pinball Arcade: Mary Shelley's Frankenstein | 353257 | [353257-pinball-arcade-mary-shelleys-frankenstein.json](./353257-pinball-arcade-mary-shelleys-frankenstein.json) |
+| Pinball Arcade: Monster Bash | 353215 | [353215-pinball-arcade-monster-bash.json](./353215-pinball-arcade-monster-bash.json) |
+| Pinball Arcade: Mustang | 353224 | [353224-pinball-arcade-mustang.json](./353224-pinball-arcade-mustang.json) |
+| Pinball Arcade: No Good Gofers | 353214 | [353214-pinball-arcade-no-good-gofers.json](./353214-pinball-arcade-no-good-gofers.json) |
 | Pinball Arcade: Paragon | 349960 | [349960-pinball-arcade-paragon.json](./349960-pinball-arcade-paragon.json) |
 | Pinball Arcade: Pistol Poker | 349971 | [349971-pinball-arcade-pistol-poker.json](./349971-pinball-arcade-pistol-poker.json) |
+| Pinball Arcade: Red & Ted's Road Show | 353219 | [353219-pinball-arcade-red-and-teds-road-show.json](./353219-pinball-arcade-red-and-teds-road-show.json) |
+| Pinball Arcade: Rescue 911 | 353234 | [353234-pinball-arcade-rescue-911.json](./353234-pinball-arcade-rescue-911.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
 | Pinball Arcade: Season Two Bundle | 99556 | [99556-pinball-arcade-season-two-bundle.json](./99556-pinball-arcade-season-two-bundle.json) |
 | Pinball Arcade: Space Shuttle | 353272 | [353272-pinball-arcade-space-shuttle.json](./353272-pinball-arcade-space-shuttle.json) |
 | Pinball Arcade: Spanish Eyes | 349963 | [349963-pinball-arcade-spanish-eyes.json](./349963-pinball-arcade-spanish-eyes.json) |
 | Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
+| Pinball Arcade: Star Trek Vengeance Premium | 353249 | [353249-pinball-arcade-star-trek-vengeance-premium.json](./353249-pinball-arcade-star-trek-vengeance-premium.json) |
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
+| Pinball Arcade: Taxi | 353268 | [353268-pinball-arcade-taxi.json](./353268-pinball-arcade-taxi.json) |
+| Pinball Arcade: Tee'd Off | 353260 | [353260-pinball-arcade-teed-off.json](./353260-pinball-arcade-teed-off.json) |
+| Pinball Arcade: TX-Sector | 353265 | [353265-pinball-arcade-tx-sector.json](./353265-pinball-arcade-tx-sector.json) |
+| Pinball Arcade: Victory | 353262 | [353262-pinball-arcade-victory.json](./353262-pinball-arcade-victory.json) |
 | Pinball Arcade: Whirlwind | 353269 | [353269-pinball-arcade-whirlwind.json](./353269-pinball-arcade-whirlwind.json) |
+| Pinball Arcade: White Water | 353263 | [353263-pinball-arcade-white-water.json](./353263-pinball-arcade-white-water.json) |
+| Pinball Arcade: Whoa Nellie! Big Juicy Melons | 353225 | [353225-pinball-arcade-whoa-nellie-big-juicy-melons.json](./353225-pinball-arcade-whoa-nellie-big-juicy-melons.json) |
 | Pinball Arcade: Wild Card | 349964 | [349964-pinball-arcade-wild-card.json](./349964-pinball-arcade-wild-card.json) |
 | Pinball Arcade: Wipe Out | 349969 | [349969-pinball-arcade-wipe-out.json](./349969-pinball-arcade-wipe-out.json) |
+| Pinball Arcade: Xenon | 353267 | [353267-pinball-arcade-xenon.json](./353267-pinball-arcade-xenon.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
