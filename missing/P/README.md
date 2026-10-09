@@ -4499,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pir-Crew | 176783 | [176783-pir-crew.json](./176783-pir-crew.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
+| Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Piratado 1 | 30743 | [30743-piratado-1.json](./30743-piratado-1.json) |
 | Pirate | 305469 | [305469-pirate.json](./305469-pirate.json) |
@@ -10157,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
 | Pull The Pin: Ball Physic Puzzle | 289378 | [289378-pull-the-pin-ball-physic-puzzle.json](./289378-pull-the-pin-ball-physic-puzzle.json) |
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
+| Pullback Racers | 351592 | [351592-pullback-racers.json](./351592-pullback-racers.json) |
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pullfrog: Deluxe | 272468 | [272468-pullfrog-deluxe.json](./272468-pullfrog-deluxe.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
