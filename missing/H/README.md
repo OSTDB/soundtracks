@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
+| Happy Runner | 359929 | [359929-happy-runner.json](./359929-happy-runner.json) |
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
 | Happy Sandwich Cafe | 159276 | [159276-happy-sandwich-cafe.json](./159276-happy-sandwich-cafe.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Wizard 2 | 101691 | [101691-hat-wizard-2.json](./101691-hat-wizard-2.json) |
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
 | Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
+| Hatastrophe | 359914 | [359914-hatastrophe.json](./359914-hatastrophe.json) |
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
 | Hatch | 169258 | [169258-hatch.json](./169258-hatch.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
