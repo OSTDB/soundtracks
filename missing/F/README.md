@@ -3096,11 +3096,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
 | Final Fantasy XV: Episode Ignis | 37291 | [37291-final-fantasy-xv-episode-ignis.json](./37291-final-fantasy-xv-episode-ignis.json) |
 | Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
+| Final Fantasy XV: Gourmand Set | 350947 | [350947-final-fantasy-xv-gourmand-set.json](./350947-final-fantasy-xv-gourmand-set.json) |
 | Final Fantasy XV: Holiday Pack | 350499 | [350499-final-fantasy-xv-holiday-pack.json](./350499-final-fantasy-xv-holiday-pack.json) |
 | Final Fantasy XV: King's Knight Tee | 350501 | [350501-final-fantasy-xv-kings-knight-tee.json](./350501-final-fantasy-xv-kings-knight-tee.json) |
+| Final Fantasy XV: Memories of King's Knight | 350944 | [350944-final-fantasy-xv-memories-of-kings-knight.json](./350944-final-fantasy-xv-memories-of-kings-knight.json) |
+| Final Fantasy XV: Noodle Helmet | 350946 | [350946-final-fantasy-xv-noodle-helmet.json](./350946-final-fantasy-xv-noodle-helmet.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
+| Final Fantasy XV: Trendy Outfit | 350949 | [350949-final-fantasy-xv-trendy-outfit.json](./350949-final-fantasy-xv-trendy-outfit.json) |
 | Final Fantasy XV: Windows Edition | 55034 | [55034-final-fantasy-xv-windows-edition.json](./55034-final-fantasy-xv-windows-edition.json) |
 | Final Fantasy XVI Demake | 402448 | [402448-final-fantasy-xvi-demake.json](./402448-final-fantasy-xvi-demake.json) |
 | Final Fantasy XVI Expansion Pass | 279665 | [279665-final-fantasy-xvi-expansion-pass.json](./279665-final-fantasy-xvi-expansion-pass.json) |
@@ -6067,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortix 2 | 15024 | [15024-fortix-2.json](./15024-fortix-2.json) |
 | Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite | 231090 | [231090-fortnite.json](./231090-fortnite.json) |
+| Fortnite 2: Love on the Battlefield | 351049 | [351049-fortnite-2-love-on-the-battlefield.json](./351049-fortnite-2-love-on-the-battlefield.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Aaahh Men! | 372794 | [372794-fortnite-festival-aaahh-men.json](./372794-fortnite-festival-aaahh-men.json) |
 | Fortnite Festival: Ain't No Rest For The Wicked | 366340 | [366340-fortnite-festival-aint-no-rest-for-the-wicked.json](./366340-fortnite-festival-aint-no-rest-for-the-wicked.json) |
