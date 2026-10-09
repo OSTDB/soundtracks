@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellborne | 148373 | [148373-hellborne.json](./148373-hellborne.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
+| Hellbound | 385390 | [385390-hellbound.json](./385390-hellbound.json) |
 | Hellbound | 76037 | [76037-hellbound.json](./76037-hellbound.json) |
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
 | Hellboy: Dogs of the Night | 51441 | [51441-hellboy-dogs-of-the-night.json](./51441-hellboy-dogs-of-the-night.json) |
@@ -4980,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockeysplit | 128976 | [128976-hockeysplit.json](./128976-hockeysplit.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
+| Hocus Focus | 385398 | [385398-hocus-focus.json](./385398-hocus-focus.json) |
 | Hocus Pocus | 8476 | [8476-hocus-pocus.json](./8476-hocus-pocus.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | Hocus Potions | 118247 | [118247-hocus-potions.json](./118247-hocus-potions.json) |
