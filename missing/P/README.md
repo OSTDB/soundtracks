@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
+| Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
@@ -5629,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
+| Platoon | 372245 | [372245-platoon.json](./372245-platoon.json) |
 | Platoon Commander | 328034 | [328034-platoon-commander.json](./328034-platoon-commander.json) |
 | Platoon Leader | 152132 | [152132-platoon-leader.json](./152132-platoon-leader.json) |
 | Platro | 31346 | [31346-platro.json](./31346-platro.json) |
@@ -7698,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Permit: Complete Edition | 285665 | [285665-potion-permit-complete-edition.json](./285665-potion-permit-complete-edition.json) |
 | Potion Permit: Deluxe Edition | 218549 | [218549-potion-permit-deluxe-edition.json](./218549-potion-permit-deluxe-edition.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
+| Potion Permit: Lucky Cat Statue | 372248 | [372248-potion-permit-lucky-cat-statue.json](./372248-potion-permit-lucky-cat-statue.json) |
 | Potion Permit: Rudolph Plush | 371313 | [371313-potion-permit-rudolph-plush.json](./371313-potion-permit-rudolph-plush.json) |
 | Potion Permit: Snowman Plush Toy | 371314 | [371314-potion-permit-snowman-plush-toy.json](./371314-potion-permit-snowman-plush-toy.json) |
 | Potion Pleasing | 333177 | [333177-potion-pleasing.json](./333177-potion-pleasing.json) |
