@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Ocraft | 256236 | [256236-ocraft.json](./256236-ocraft.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
+| Octagon | 356063 | [356063-octagon.json](./356063-octagon.json) |
 | Octagon - A Minimal Arcade Game with Maximum Challenge | 91180 | [91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json](./91180-octagon-a-minimal-arcade-game-with-maximum-challenge.json) |
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
