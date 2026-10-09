@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
+| Team Deathmatch: Classic | 363287 | [363287-team-deathmatch-classic.json](./363287-team-deathmatch-classic.json) |
 | Team Dehdehbon | 372629 | [372629-team-dehdehbon.json](./372629-team-dehdehbon.json) |
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
@@ -16444,6 +16445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
+| Towering Rescue | 363303 | [363303-towering-rescue.json](./363303-towering-rescue.json) |
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerix91 | 398029 | [398029-towerix91.json](./398029-towerix91.json) |
 | Towerland | 195588 | [195588-towerland.json](./195588-towerland.json) |
@@ -19487,6 +19489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
 | Turtle Bridge | 228394 | [228394-turtle-bridge.json](./228394-turtle-bridge.json) |
+| Turtle Bridge | 363304 | [363304-turtle-bridge.json](./363304-turtle-bridge.json) |
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
