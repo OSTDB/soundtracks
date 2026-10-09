@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
 | Vigna's Stereo Switch | 296094 | [296094-vignas-stereo-switch.json](./296094-vignas-stereo-switch.json) |
+| Vignettes | 333509 | [333509-vignettes.json](./333509-vignettes.json) |
 | Vignettes | 82952 | [82952-vignettes.json](./82952-vignettes.json) |
 | Vigor | 257573 | [257573-vigor.json](./257573-vigor.json) |
 | Vigor Chronicles: Reckoning | 235312 | [235312-vigor-chronicles-reckoning.json](./235312-vigor-chronicles-reckoning.json) |
