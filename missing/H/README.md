@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half Past Fate: Romantic Distancing | 143589 | [143589-half-past-fate-romantic-distancing.json](./143589-half-past-fate-romantic-distancing.json) |
 | Half Step Princess | 410179 | [410179-half-step-princess.json](./410179-half-step-princess.json) |
+| Half-A-Cado | 354953 | [354953-half-a-cado.json](./354953-half-a-cado.json) |
 | Half-Baked Girls | 151801 | [151801-half-baked-girls.json](./151801-half-baked-girls.json) |
 | Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Chamber | 252100 | [252100-half-chamber.json](./252100-half-chamber.json) |
