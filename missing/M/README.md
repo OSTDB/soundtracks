@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Brickout | 25071 | [25071-magical-brickout.json](./25071-magical-brickout.json) |
 | Magical Broom eXtreme | 83616 | [83616-magical-broom-extreme.json](./83616-magical-broom-extreme.json) |
+| Magical Capture | 352232 | [352232-magical-capture.json](./352232-magical-capture.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
 | Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
 | Magical Chase GB | 50052 | [50052-magical-chase-gb.json](./50052-magical-chase-gb.json) |
@@ -4506,6 +4507,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 4: Blue Moon | 1760 | [1760-mega-man-battle-network-4-blue-moon.json](./1760-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352328 | [352328-mega-man-battle-network-4-blue-moon.json](./352328-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352867 | [352867-mega-man-battle-network-4-blue-moon.json](./352867-mega-man-battle-network-4-blue-moon.json) |
+| Mega Man Battle Network 4: Patch Card - 000: Weapon Change | 352131 | [352131-mega-man-battle-network-4-patch-card-000-weapon-change.json](./352131-mega-man-battle-network-4-patch-card-000-weapon-change.json) |
+| Mega Man Battle Network 4: Patch Card - 112: B+Left Ability Activation | 352106 | [352106-mega-man-battle-network-4-patch-card-112-b-left-ability-activation.json](./352106-mega-man-battle-network-4-patch-card-112-b-left-ability-activation.json) |
+| Mega Man Battle Network 4: Patch Card - 113: Charge Shot Switch | 352107 | [352107-mega-man-battle-network-4-patch-card-113-charge-shot-switch.json](./352107-mega-man-battle-network-4-patch-card-113-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 114: Charge Shot Switch | 352109 | [352109-mega-man-battle-network-4-patch-card-114-charge-shot-switch.json](./352109-mega-man-battle-network-4-patch-card-114-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 115: Charge Shot Switch | 352111 | [352111-mega-man-battle-network-4-patch-card-115-charge-shot-switch.json](./352111-mega-man-battle-network-4-patch-card-115-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 116: Charge Shot Switch | 352112 | [352112-mega-man-battle-network-4-patch-card-116-charge-shot-switch.json](./352112-mega-man-battle-network-4-patch-card-116-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 117: Charge Shot Switch | 352113 | [352113-mega-man-battle-network-4-patch-card-117-charge-shot-switch.json](./352113-mega-man-battle-network-4-patch-card-117-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 118: Charge Shot Switch | 352114 | [352114-mega-man-battle-network-4-patch-card-118-charge-shot-switch.json](./352114-mega-man-battle-network-4-patch-card-118-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 119: Charge Shot Switch | 352115 | [352115-mega-man-battle-network-4-patch-card-119-charge-shot-switch.json](./352115-mega-man-battle-network-4-patch-card-119-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 120: Charge Shot Switch | 352117 | [352117-mega-man-battle-network-4-patch-card-120-charge-shot-switch.json](./352117-mega-man-battle-network-4-patch-card-120-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 121: Roll Soul | 352118 | [352118-mega-man-battle-network-4-patch-card-121-roll-soul.json](./352118-mega-man-battle-network-4-patch-card-121-roll-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 122: Guts Soul | 352119 | [352119-mega-man-battle-network-4-patch-card-122-guts-soul.json](./352119-mega-man-battle-network-4-patch-card-122-guts-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 123: Wind Soul | 352120 | [352120-mega-man-battle-network-4-patch-card-123-wind-soul.json](./352120-mega-man-battle-network-4-patch-card-123-wind-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 124: Search Soul | 352121 | [352121-mega-man-battle-network-4-patch-card-124-search-soul.json](./352121-mega-man-battle-network-4-patch-card-124-search-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 125: Fire Soul | 352122 | [352122-mega-man-battle-network-4-patch-card-125-fire-soul.json](./352122-mega-man-battle-network-4-patch-card-125-fire-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 126: Thunder Soul | 352123 | [352123-mega-man-battle-network-4-patch-card-126-thunder-soul.json](./352123-mega-man-battle-network-4-patch-card-126-thunder-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 127: Proto Soul | 352124 | [352124-mega-man-battle-network-4-patch-card-127-proto-soul.json](./352124-mega-man-battle-network-4-patch-card-127-proto-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 128: Number Soul | 352125 | [352125-mega-man-battle-network-4-patch-card-128-number-soul.json](./352125-mega-man-battle-network-4-patch-card-128-number-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 129: Metal Soul | 352126 | [352126-mega-man-battle-network-4-patch-card-129-metal-soul.json](./352126-mega-man-battle-network-4-patch-card-129-metal-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 130: Junk Soul | 352127 | [352127-mega-man-battle-network-4-patch-card-130-junk-soul.json](./352127-mega-man-battle-network-4-patch-card-130-junk-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 131: Aqua Soul | 352128 | [352128-mega-man-battle-network-4-patch-card-131-aqua-soul.json](./352128-mega-man-battle-network-4-patch-card-131-aqua-soul.json) |
+| Mega Man Battle Network 4: Patch Card - 132: Wood Soul | 352129 | [352129-mega-man-battle-network-4-patch-card-132-wood-soul.json](./352129-mega-man-battle-network-4-patch-card-132-wood-soul.json) |
+| Mega Man Battle Network 4: Patch Card - Duo | 352133 | [352133-mega-man-battle-network-4-patch-card-duo.json](./352133-mega-man-battle-network-4-patch-card-duo.json) |
+| Mega Man Battle Network 4: Patch Card - Prix Power | 352132 | [352132-mega-man-battle-network-4-patch-card-prix-power.json](./352132-mega-man-battle-network-4-patch-card-prix-power.json) |
 | Mega Man Battle Network 4: Red Sun | 1759 | [1759-mega-man-battle-network-4-red-sun.json](./1759-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352331 | [352331-mega-man-battle-network-4-red-sun.json](./352331-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352866 | [352866-mega-man-battle-network-4-red-sun.json](./352866-mega-man-battle-network-4-red-sun.json) |
@@ -7325,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Chinese Mythology Mash-up | 234679 | [234679-minecraft-chinese-mythology-mash-up.json](./234679-minecraft-chinese-mythology-mash-up.json) |
 | Minecraft: Classic Skin Pack 5 | 257344 | [257344-minecraft-classic-skin-pack-5.json](./257344-minecraft-classic-skin-pack-5.json) |
 | Minecraft: Conservation Quest | 324883 | [324883-minecraft-conservation-quest.json](./324883-minecraft-conservation-quest.json) |
+| Minecraft: Cow Tools | 352156 | [352156-minecraft-cow-tools.json](./352156-minecraft-cow-tools.json) |
 | Minecraft: Cybersafe AI: Dig Deeper | 332581 | [332581-minecraft-cybersafe-ai-dig-deeper.json](./332581-minecraft-cybersafe-ai-dig-deeper.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
@@ -12242,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
 | My Housetopia | 373874 | [373874-my-housetopia.json](./373874-my-housetopia.json) |
+| My Husband is a Stranger | 352144 | [352144-my-husband-is-a-stranger.json](./352144-my-husband-is-a-stranger.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
