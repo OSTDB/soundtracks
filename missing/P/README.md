@@ -9112,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
+| Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
 | Project Drift Japan Challenge | 308507 | [308507-project-drift-japan-challenge.json](./308507-project-drift-japan-challenge.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Dukkha | 343942 | [343942-project-dukkha.json](./343942-project-dukkha.json) |
