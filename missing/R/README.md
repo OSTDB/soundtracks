@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reimei no Gakuen | 177871 | [177871-reimei-no-gakuen.json](./177871-reimei-no-gakuen.json) |
 | Reimei no Yu | 287313 | [287313-reimei-no-yu.json](./287313-reimei-no-yu.json) |
 | Reimu ha Nandaka Totemo Nemui | 214585 | [214585-reimu-ha-nandaka-totemo-nemui.json](./214585-reimu-ha-nandaka-totemo-nemui.json) |
+| Reimu's Fighting Chicken Festival | 369992 | [369992-reimus-fighting-chicken-festival.json](./369992-reimus-fighting-chicken-festival.json) |
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Reimus Awesome Holiday | 216204 | [216204-reimus-awesome-holiday.json](./216204-reimus-awesome-holiday.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
