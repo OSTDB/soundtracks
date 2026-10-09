@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
+| Cargo: Co-Op Delivery Simulator in Post Apocalyptic World | 362761 | [362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json](./362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json) |
 | Cargobros | 264776 | [264776-cargobros.json](./264776-cargobros.json) |
 | Cargogo | 351260 | [351260-cargogo.json](./351260-cargogo.json) |
 | Cargor | 382415 | [382415-cargor.json](./382415-cargor.json) |
@@ -2950,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
+| Cellveillance | 362743 | [362743-cellveillance.json](./362743-cellveillance.json) |
 | Cellyon: Boss Confrontation | 105558 | [105558-cellyon-boss-confrontation.json](./105558-cellyon-boss-confrontation.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
 | Celsius Heroes | 56566 | [56566-celsius-heroes.json](./56566-celsius-heroes.json) |
