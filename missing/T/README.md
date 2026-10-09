@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tackle Fire With Gun: The Game | 304269 | [304269-tackle-fire-with-gun-the-game.json](./304269-tackle-fire-with-gun-the-game.json) |
 | Tackle for Loss | 304715 | [304715-tackle-for-loss.json](./304715-tackle-for-loss.json) |
 | Tackle Tourney Turbo | 177012 | [177012-tackle-tourney-turbo.json](./177012-tackle-tourney-turbo.json) |
+| Tackzimon | 335814 | [335814-tackzimon.json](./335814-tackzimon.json) |
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
@@ -6963,6 +6964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
+| The Jumping Bonbon Match | 335984 | [335984-the-jumping-bonbon-match.json](./335984-the-jumping-bonbon-match.json) |
 | The Jumping Bonbon Match 2 | 349813 | [349813-the-jumping-bonbon-match-2.json](./349813-the-jumping-bonbon-match-2.json) |
 | The Jumping Bonbon Match 3 | 359979 | [359979-the-jumping-bonbon-match-3.json](./359979-the-jumping-bonbon-match-3.json) |
 | The Jumping Boy | 330939 | [330939-the-jumping-boy.json](./330939-the-jumping-boy.json) |
@@ -8069,6 +8071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
+| The Lost Dino: Survival Expedition | 335965 | [335965-the-lost-dino-survival-expedition.json](./335965-the-lost-dino-survival-expedition.json) |
 | The Lost Dog | 165631 | [165631-the-lost-dog.json](./165631-the-lost-dog.json) |
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
 | The Lost Episode | 276386 | [276386-the-lost-episode.json](./276386-the-lost-episode.json) |
@@ -14256,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
+| Tiny Farm: Remastered | 335817 | [335817-tiny-farm-remastered.json](./335817-tiny-farm-remastered.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Fisher | 181206 | [181206-tiny-fisher.json](./181206-tiny-fisher.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
