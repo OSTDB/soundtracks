@@ -4786,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
+| Hired Explorer | 340978 | [340978-hired-explorer.json](./340978-hired-explorer.json) |
 | Hired Ops | 35145 | [35145-hired-ops.json](./35145-hired-ops.json) |
 | Hired Stars | 373169 | [373169-hired-stars.json](./373169-hired-stars.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
@@ -5652,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Rhythms of Neon | 279713 | [279713-honkai-impact-3rd-rhythms-of-neon.json](./279713-honkai-impact-3rd-rhythms-of-neon.json) |
 | Honkai Impact 3rd: Rosemary's Nocturne | 279716 | [279716-honkai-impact-3rd-rosemarys-nocturne.json](./279716-honkai-impact-3rd-rosemarys-nocturne.json) |
+| Honkai Impact 3rd: Roving Among Clouds | 340972 | [340972-honkai-impact-3rd-roving-among-clouds.json](./340972-honkai-impact-3rd-roving-among-clouds.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
 | Honkai Impact 3rd: Starlit Sanctum | 279723 | [279723-honkai-impact-3rd-starlit-sanctum.json](./279723-honkai-impact-3rd-starlit-sanctum.json) |
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
