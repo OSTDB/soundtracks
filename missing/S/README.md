@@ -7228,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletal Dos Dreams | 176781 | [176781-skeletal-dos-dreams.json](./176781-skeletal-dos-dreams.json) |
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
+| Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
@@ -11906,6 +11907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mechanics: Repair Hiring Crafting | 351594 | [351594-space-mechanics-repair-hiring-crafting.json](./351594-space-mechanics-repair-hiring-crafting.json) |
 | Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
+| Space Memory: Butterflies | 343288 | [343288-space-memory-butterflies.json](./343288-space-memory-butterflies.json) |
 | Space Memory: Chinchillas | 366098 | [366098-space-memory-chinchillas.json](./366098-space-memory-chinchillas.json) |
 | Space Memory: Dinosaurs | 366099 | [366099-space-memory-dinosaurs.json](./366099-space-memory-dinosaurs.json) |
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
@@ -12686,6 +12688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedboat League | 348411 | [348411-speedboat-league.json](./348411-speedboat-league.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
 | Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
+| SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
@@ -16841,6 +16844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
 | Stream Battlecards | 130703 | [130703-stream-battlecards.json](./130703-stream-battlecards.json) |
 | Stream Defense | 239208 | [239208-stream-defense.json](./239208-stream-defense.json) |
+| Stream Defense Protocol | 343302 | [343302-stream-defense-protocol.json](./343302-stream-defense-protocol.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
@@ -21803,6 +21807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthesis: Mind, Body and Soul | 129632 | [129632-synthesis-mind-body-and-soul.json](./129632-synthesis-mind-body-and-soul.json) |
 | Synthetic | 302048 | [302048-synthetic.json](./302048-synthetic.json) |
 | Synthetic Blood: Mind Shift | 129678 | [129678-synthetic-blood-mind-shift.json](./129678-synthetic-blood-mind-shift.json) |
+| Synthetic Captive | 343229 | [343229-synthetic-captive.json](./343229-synthetic-captive.json) |
 | Synthetic Days | 232918 | [232918-synthetic-days.json](./232918-synthetic-days.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
