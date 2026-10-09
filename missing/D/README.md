@@ -5781,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diplomacy | 92082 | [92082-diplomacy.json](./92082-diplomacy.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
+| Diplomacy Is Not an Option: Shareware | 342687 | [342687-diplomacy-is-not-an-option-shareware.json](./342687-diplomacy-is-not-an-option-shareware.json) |
 | Diplomata the Game | 44108 | [44108-diplomata-the-game.json](./44108-diplomata-the-game.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
@@ -11238,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs F2P: Skirmish Pack | 161779 | [161779-dwarfs-f2p-skirmish-pack.json](./161779-dwarfs-f2p-skirmish-pack.json) |
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
 | Dwarfzbound | 386503 | [386503-dwarfzbound.json](./386503-dwarfzbound.json) |
+| Dwarrf: A Pinball Roguelike | 342593 | [342593-dwarrf-a-pinball-roguelike.json](./342593-dwarrf-a-pinball-roguelike.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
 | Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
