@@ -5897,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayMaker Football 2.0 | 79567 | [79567-playmaker-football-2-0.json](./79567-playmaker-football-2-0.json) |
 | Playman Extreme Running | 316707 | [316707-playman-extreme-running.json](./316707-playman-extreme-running.json) |
 | Playman Extreme Running | 316708 | [316708-playman-extreme-running.json](./316708-playman-extreme-running.json) |
+| Playmobil Dinos | 344974 | [344974-playmobil-dinos.json](./344974-playmobil-dinos.json) |
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
@@ -6136,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Aquarium | 104712 | [104712-pocket-aquarium.json](./104712-pocket-aquarium.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
+| Pocket Army | 344887 | [344887-pocket-army.json](./344887-pocket-army.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
 | Pocket Battles: NFT War | 237445 | [237445-pocket-battles-nft-war.json](./237445-pocket-battles-nft-war.json) |
 | Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
