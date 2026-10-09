@@ -4339,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
+| Medieval StartUp | 347082 | [347082-medieval-startup.json](./347082-medieval-startup.json) |
 | Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Story | 47162 | [47162-medieval-story.json](./47162-medieval-story.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
@@ -8939,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Molefest | 351746 | [351746-molefest.json](./351746-molefest.json) |
+| Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
