@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectifier: In Bloom | 351807 | [351807-rectifier-in-bloom.json](./351807-rectifier-in-bloom.json) |
 | Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
+| Recurrence | 374412 | [374412-recurrence.json](./374412-recurrence.json) |
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
@@ -3408,8 +3409,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Resort Boss: Golf | 114798 | [114798-resort-boss-golf.json](./114798-resort-boss-golf.json) |
 | Resort Empire | 394361 | [394361-resort-empire.json](./394361-resort-empire.json) |
+| Resort Island Simulator | 374441 | [374441-resort-island-simulator.json](./374441-resort-island-simulator.json) |
 | Resort Simulator | 407373 | [407373-resort-simulator.json](./407373-resort-simulator.json) |
 | Resortopia | 287627 | [287627-resortopia.json](./287627-resortopia.json) |
+| ReSoul: Jack | 374443 | [374443-resoul-jack.json](./374443-resoul-jack.json) |
 | Resource Recon | 295352 | [295352-resource-recon.json](./295352-resource-recon.json) |
 | Resource War: Soul Squad Alpha | 299420 | [299420-resource-war-soul-squad-alpha.json](./299420-resource-war-soul-squad-alpha.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
@@ -6457,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 12 | 207734 | [207734-room-12.json](./207734-room-12.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
+| Room 404 | 374404 | [374404-room-404.json](./374404-room-404.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
