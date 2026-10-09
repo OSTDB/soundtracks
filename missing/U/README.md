@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
 | Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
+| Unchained | 335229 | [335229-unchained.json](./335229-unchained.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
 | Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
 | Uncharted 2: Among Thieves Remastered | 41877 | [41877-uncharted-2-among-thieves-remastered.json](./41877-uncharted-2-among-thieves-remastered.json) |
