@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Alacrity | 368899 | [368899-alacrity.json](./368899-alacrity.json) |
 | Aladdin | 204504 | [204504-aladdin.json](./204504-aladdin.json) |
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
@@ -6175,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
 | Another Realm | 303150 | [303150-another-realm.json](./303150-another-realm.json) |
+| Another Reigny Day | 368884 | [368884-another-reigny-day.json](./368884-another-reigny-day.json) |
 | Another Reverie | 265853 | [265853-another-reverie.json](./265853-another-reverie.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
 | Another Round | 330254 | [330254-another-round.json](./330254-another-round.json) |
