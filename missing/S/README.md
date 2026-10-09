@@ -4897,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
+| Shi Shi Te Na O: Even in Death | 335823 | [335823-shi-shi-te-na-o-even-in-death.json](./335823-shi-shi-te-na-o-even-in-death.json) |
 | Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
@@ -8567,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
+| Smartphone Tycoon 2 | 335809 | [335809-smartphone-tycoon-2.json](./335809-smartphone-tycoon-2.json) |
 | Smartplant | 336752 | [336752-smartplant.json](./336752-smartplant.json) |
 | Smartsquid | 243732 | [243732-smartsquid.json](./243732-smartsquid.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
@@ -10430,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
 | Sonic Breaking Point | 370212 | [370212-sonic-breaking-point.json](./370212-sonic-breaking-point.json) |
+| Sonic Brick | 335983 | [335983-sonic-brick.json](./335983-sonic-brick.json) |
 | Sonic Calamity | 227807 | [227807-sonic-calamity.json](./227807-sonic-calamity.json) |
 | Sonic Can Go Only Up | 370244 | [370244-sonic-can-go-only-up.json](./370244-sonic-can-go-only-up.json) |
 | Sonic CCG | 330876 | [330876-sonic-ccg.json](./330876-sonic-ccg.json) |
@@ -11500,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Elect: Rain Dancer Pack | 389555 | [389555-sovereign-elect-rain-dancer-pack.json](./389555-sovereign-elect-rain-dancer-pack.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
 | Sovereign Syndicate | 211267 | [211267-sovereign-syndicate.json](./211267-sovereign-syndicate.json) |
+| Sovereign Syndicate: Digital Deluxe Edition | 336048 | [336048-sovereign-syndicate-digital-deluxe-edition.json](./336048-sovereign-syndicate-digital-deluxe-edition.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Sovereign's End | 403548 | [403548-sovereigns-end.json](./403548-sovereigns-end.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
@@ -12446,6 +12450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Unleashed | 20953 | [20953-sparkle-unleashed.json](./20953-sparkle-unleashed.json) |
 | Sparkles & Gems | 146538 | [146538-sparkles-and-gems.json](./146538-sparkles-and-gems.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
+| Sparkling Bug | 335968 | [335968-sparkling-bug.json](./335968-sparkling-bug.json) |
 | Sparkling Corner | 172521 | [172521-sparkling-corner.json](./172521-sparkling-corner.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | Sparkling Memory | 246546 | [246546-sparkling-memory.json](./246546-sparkling-memory.json) |
@@ -12912,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
+| Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
@@ -13686,6 +13692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
 | Sport Vii | 358826 | [358826-sport-vii.json](./358826-sport-vii.json) |
 | Sport Vii | 358827 | [358827-sport-vii.json](./358827-sport-vii.json) |
+| Sportal | 335835 | [335835-sportal.json](./335835-sportal.json) |
 | Sportaldislexicartaphobia | 376533 | [376533-sportaldislexicartaphobia.json](./376533-sportaldislexicartaphobia.json) |
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
@@ -20229,6 +20236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Mucchin Puripuri Cyborg: Marilyn DX | 271710 | [271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json](./271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json) |
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
+| Super Ultra Usagi Rush!! | 335975 | [335975-super-ultra-usagi-rush.json](./335975-super-ultra-usagi-rush.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super Vadimka | 194310 | [194310-super-vadimka.json](./194310-super-vadimka.json) |
