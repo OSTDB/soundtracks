@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
+| Air Toons | 364397 | [364397-air-toons.json](./364397-air-toons.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Control | 376854 | [376854-air-traffic-control.json](./376854-air-traffic-control.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
@@ -5815,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: Ten Pin Alley | 19432 | [19432-animaniacs-ten-pin-alley.json](./19432-animaniacs-ten-pin-alley.json) |
 | Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
 | Animas | 335259 | [335259-animas.json](./335259-animas.json) |
+| Animastar Puzzle | 364354 | [364354-animastar-puzzle.json](./364354-animastar-puzzle.json) |
 | Animatch | 194296 | [194296-animatch.json](./194296-animatch.json) |
 | AniMatch: Animal Matching Game | 86874 | [86874-animatch-animal-matching-game.json](./86874-animatch-animal-matching-game.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
@@ -6789,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Moto Racing 3D | 78741 | [78741-aqua-moto-racing-3d.json](./78741-aqua-moto-racing-3d.json) |
+| Aqua Panic | 364355 | [364355-aqua-panic.json](./364355-aqua-panic.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
 | Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
@@ -7966,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
+| Armada 2: Exodus | 364362 | [364362-armada-2-exodus.json](./364362-armada-2-exodus.json) |
 | Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
@@ -8552,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asgore Runs Over Dess: The Game | 362905 | [362905-asgore-runs-over-dess-the-game.json](./362905-asgore-runs-over-dess-the-game.json) |
 | Asguaard | 36178 | [36178-asguaard.json](./36178-asguaard.json) |
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
+| Ash & Adam's Existential Treads | 364392 | [364392-ash-and-adams-existential-treads.json](./364392-ash-and-adams-existential-treads.json) |
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
@@ -9714,6 +9719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
+| Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
