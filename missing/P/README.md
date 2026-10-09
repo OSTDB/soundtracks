@@ -5120,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Darkwood Dash | 330813 | [330813-pixicharm-darkwood-dash.json](./330813-pixicharm-darkwood-dash.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
+| Pixicharm: Hue Break the Law | 364977 | [364977-pixicharm-hue-break-the-law.json](./364977-pixicharm-hue-break-the-law.json) |
 | Pixicharm: Jack-O-Fall | 340525 | [340525-pixicharm-jack-o-fall.json](./340525-pixicharm-jack-o-fall.json) |
 | Pixicharm: Majestreats | 360046 | [360046-pixicharm-majestreats.json](./360046-pixicharm-majestreats.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
@@ -9256,6 +9257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
+| Project Maze | 365001 | [365001-project-maze.json](./365001-project-maze.json) |
 | Project Maze | 68586 | [68586-project-maze.json](./68586-project-maze.json) |
 | Project Mekuru | 85587 | [85587-project-mekuru.json](./85587-project-mekuru.json) |
 | Project Méliès​​ | 108398 | [108398-project-melies.json](./108398-project-melies.json) |
