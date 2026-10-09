@@ -3802,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
 | First Strike: Multiplayer | 264248 | [264248-first-strike-multiplayer.json](./264248-first-strike-multiplayer.json) |
 | First Summoner | 193831 | [193831-first-summoner.json](./193831-first-summoner.json) |
+| First Telegram War | 334795 | [334795-first-telegram-war.json](./334795-first-telegram-war.json) |
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
@@ -4113,6 +4114,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
 | Fitz the Fox | 12891 | [12891-fitz-the-fox.json](./12891-fitz-the-fox.json) |
 | Fitzzle Adorable Puppies | 334783 | [334783-fitzzle-adorable-puppies.json](./334783-fitzzle-adorable-puppies.json) |
+| Fitzzle Fearless Sharks | 334811 | [334811-fitzzle-fearless-sharks.json](./334811-fitzzle-fearless-sharks.json) |
+| Fitzzle Majestic Eagles | 334810 | [334810-fitzzle-majestic-eagles.json](./334810-fitzzle-majestic-eagles.json) |
 | Fitzzle Mighty Bears | 334773 | [334773-fitzzle-mighty-bears.json](./334773-fitzzle-mighty-bears.json) |
 | Fitzzle Precious Dolphins | 334778 | [334778-fitzzle-precious-dolphins.json](./334778-fitzzle-precious-dolphins.json) |
 | Fitzzle Regal Tigers | 334777 | [334777-fitzzle-regal-tigers.json](./334777-fitzzle-regal-tigers.json) |
@@ -4501,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
 | Flaws in the People We Love | 117571 | [117571-flaws-in-the-people-we-love.json](./117571-flaws-in-the-people-we-love.json) |
+| FLChess | 334812 | [334812-flchess.json](./334812-flchess.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Flea! | 150517 | [150517-flea.json](./150517-flea.json) |
@@ -4856,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flooftopia | 287775 | [287775-flooftopia.json](./287775-flooftopia.json) |
 | Floomy | 269022 | [269022-floomy.json](./269022-floomy.json) |
 | Floor | 26645 | [26645-floor.json](./26645-floor.json) |
+| Floor 0 | 334727 | [334727-floor-0.json](./334727-floor-0.json) |
 | Floor 100 | 155677 | [155677-floor-100.json](./155677-floor-100.json) |
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
 | Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
@@ -7627,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
+| Fruit Couple | 334798 | [334798-fruit-couple.json](./334798-fruit-couple.json) |
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
