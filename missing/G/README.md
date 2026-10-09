@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
+| Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
 | Gachasute! Dino Device - Blue | 49500 | [49500-gachasute-dino-device-blue.json](./49500-gachasute-dino-device-blue.json) |
@@ -2041,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
+| Get in Timelessness | 358241 | [358241-get-in-timelessness.json](./358241-get-in-timelessness.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
