@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Massacre | 338193 | [338193-banana-massacre.json](./338193-banana-massacre.json) |
 | Banana Nababa | 124565 | [124565-banana-nababa.json](./124565-banana-nababa.json) |
 | Banana Ninja vs. 100 Mann | 359568 | [359568-banana-ninja-vs-100-mann.json](./359568-banana-ninja-vs-100-mann.json) |
+| Banana of Doom | 366714 | [366714-banana-of-doom.json](./366714-banana-of-doom.json) |
 | Banana Party | 390008 | [390008-banana-party.json](./390008-banana-party.json) |
 | Banana Quest | 222847 | [222847-banana-quest.json](./222847-banana-quest.json) |
 | Banana Ragdoll | 336750 | [336750-banana-ragdoll.json](./336750-banana-ragdoll.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
+| Bananaganza | 366736 | [366736-bananaganza.json](./366736-bananaganza.json) |
 | BananaGuideline | 125827 | [125827-bananaguideline.json](./125827-bananaguideline.json) |
 | BananaGuy | 247604 | [247604-bananaguy.json](./247604-bananaguy.json) |
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
@@ -6585,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
+| Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
 | Bloodmoon Rush | 333152 | [333152-bloodmoon-rush.json](./333152-bloodmoon-rush.json) |
@@ -8519,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
+| Brainrot Battle Royale | 366730 | [366730-brainrot-battle-royale.json](./366730-brainrot-battle-royale.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
