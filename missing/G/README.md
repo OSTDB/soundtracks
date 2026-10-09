@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Trooper Armada | 146786 | [146786-galactic-trooper-armada.json](./146786-galactic-trooper-armada.json) |
 | Galactic Vanguard | 295841 | [295841-galactic-vanguard.json](./295841-galactic-vanguard.json) |
 | Galactic Vanguard | 333629 | [333629-galactic-vanguard.json](./333629-galactic-vanguard.json) |
+| Galactic Vault | 364389 | [364389-galactic-vault.json](./364389-galactic-vault.json) |
 | Galactic Veins | 346159 | [346159-galactic-veins.json](./346159-galactic-veins.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
 | Galactic Warfare Collection | 414456 | [414456-galactic-warfare-collection.json](./414456-galactic-warfare-collection.json) |
@@ -5634,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
 | Groove Coaster 2 Original Style | 74693 | [74693-groove-coaster-2-original-style.json](./74693-groove-coaster-2-original-style.json) |
 | Groove Coaster 3 Link Fever | 126465 | [126465-groove-coaster-3-link-fever.json](./126465-groove-coaster-3-link-fever.json) |
+| Groove Coaster 3EX Dream Party | 364411 | [364411-groove-coaster-3ex-dream-party.json](./364411-groove-coaster-3ex-dream-party.json) |
 | Groove Coaster 4 Starlight Road | 126466 | [126466-groove-coaster-4-starlight-road.json](./126466-groove-coaster-4-starlight-road.json) |
 | Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
 | Groove Coaster AC | 126462 | [126462-groove-coaster-ac.json](./126462-groove-coaster-ac.json) |
