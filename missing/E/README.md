@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
 | Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
+| Eden Survivors | 339300 | [339300-eden-survivors.json](./339300-eden-survivors.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden to Greeeen | 65183 | [65183-eden-to-greeeen.json](./65183-eden-to-greeeen.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
