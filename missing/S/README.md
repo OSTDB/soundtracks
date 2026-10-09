@@ -4435,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes5 | 55682 | [55682-shapes5.json](./55682-shapes5.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
+| ShapeShift Rush | 380176 | [380176-shapeshift-rush.json](./380176-shapeshift-rush.json) |
 | ShapeShifter | 32217 | [32217-shapeshifter.json](./32217-shapeshifter.json) |
 | ShapeShifter | 344569 | [344569-shapeshifter.json](./344569-shapeshifter.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
