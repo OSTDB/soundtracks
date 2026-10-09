@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What is this Thing?: Episode 1 | 323215 | [323215-what-is-this-thing-episode-1.json](./323215-what-is-this-thing-episode-1.json) |
 | What is this Thing?: Episode 2 | 323216 | [323216-what-is-this-thing-episode-2.json](./323216-what-is-this-thing-episode-2.json) |
 | What is this Thing?: Episode 3 | 323218 | [323218-what-is-this-thing-episode-3.json](./323218-what-is-this-thing-episode-3.json) |
+| What Kokkuri-san says will come true | 376878 | [376878-what-kokkuri-san-says-will-come-true.json](./376878-what-kokkuri-san-says-will-come-true.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Lies in the Multiverse: Deluxe Edition | 193736 | [193736-what-lies-in-the-multiverse-deluxe-edition.json](./193736-what-lies-in-the-multiverse-deluxe-edition.json) |
