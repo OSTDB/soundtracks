@@ -8014,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
 | Armed Forces Corp. | 50488 | [50488-armed-forces-corp.json](./50488-armed-forces-corp.json) |
 | Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
+| Armed Frame | 363814 | [363814-armed-frame.json](./363814-armed-frame.json) |
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
 | Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
