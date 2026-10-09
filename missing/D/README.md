@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
 | DartMUD: Lands of Ferdarchi | 349935 | [349935-dartmud-lands-of-ferdarchi.json](./349935-dartmud-lands-of-ferdarchi.json) |
 | Darts | 159273 | [159273-darts.json](./159273-darts.json) |
+| Darts | 358830 | [358830-darts.json](./358830-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
 | Darts Club | 69828 | [69828-darts-club.json](./69828-darts-club.json) |
 | Darts Fever | 328548 | [328548-darts-fever.json](./328548-darts-fever.json) |
