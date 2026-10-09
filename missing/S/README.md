@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.P.I.C.E Arena | 96829 | [96829-s-p-i-c-e-arena.json](./96829-s-p-i-c-e-arena.json) |
 | S.P.L.I.C.E.D. | 255847 | [255847-s-p-l-i-c-e-d.json](./255847-s-p-l-i-c-e-d.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
+| S.R.A | 369367 | [369367-s-r-a.json](./369367-s-r-a.json) |
 | S.R.D. Mission | 40418 | [40418-s-r-d-mission.json](./40418-s-r-d-mission.json) |
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.G. | 272454 | [272454-s-t-a-g.json](./272454-s-t-a-g.json) |
@@ -8422,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smart Truco | 370913 | [370913-smart-truco.json](./370913-smart-truco.json) |
+| Smart-Attack! | 369446 | [369446-smart-attack.json](./369446-smart-attack.json) |
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
@@ -9094,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
 | Snout About | 361827 | [361827-snout-about.json](./361827-snout-about.json) |
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
+| Snoutbreakers | 369453 | [369453-snoutbreakers.json](./369453-snoutbreakers.json) |
 | Snouty And The Great Rift | 417366 | [417366-snouty-and-the-great-rift.json](./417366-snouty-and-the-great-rift.json) |
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
@@ -14016,6 +14019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
+| Stadium Shift | 369455 | [369455-stadium-shift.json](./369455-stadium-shift.json) |
 | Stadtleben | 200508 | [200508-stadtleben.json](./200508-stadtleben.json) |
 | Stafakarlarnir | 65240 | [65240-stafakarlarnir.json](./65240-stafakarlarnir.json) |
 | Staff Only | 139432 | [139432-staff-only.json](./139432-staff-only.json) |
@@ -16806,6 +16810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
 | Street Racing Xtreme ( 3D Car Race Games ) | 105935 | [105935-street-racing-xtreme-3d-car-race-games.json](./105935-street-racing-xtreme-3d-car-race-games.json) |
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
+| Street Rider | 369456 | [369456-street-rider.json](./369456-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
 | Street Rod 2: The Next Generation | 38851 | [38851-street-rod-2-the-next-generation.json](./38851-street-rod-2-the-next-generation.json) |
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
@@ -17585,6 +17590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suffer | 203187 | [203187-suffer.json](./203187-suffer.json) |
 | Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
 | Suffering | 156560 | [156560-suffering.json](./156560-suffering.json) |
+| Sufferix Six: Attack of X | 369457 | [369457-sufferix-six-attack-of-x.json](./369457-sufferix-six-attack-of-x.json) |
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
@@ -18004,6 +18010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sung in Flame | 381345 | [381345-sung-in-flame.json](./381345-sung-in-flame.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
+| Sungka | 369459 | [369459-sungka.json](./369459-sungka.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
@@ -21352,6 +21359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbio | 275827 | [275827-symbio.json](./275827-symbio.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
+| Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
 | Symbol Link | 264219 | [264219-symbol-link.json](./264219-symbol-link.json) |
