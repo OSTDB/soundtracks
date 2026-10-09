@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
+| Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
 | Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
 | Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
 | Wake Up, Lia! | 410370 | [410370-wake-up-lia.json](./410370-wake-up-lia.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
 | Watch Quest! Heroes of Time | 60359 | [60359-watch-quest-heroes-of-time.json](./60359-watch-quest-heroes-of-time.json) |
+| Watch Restoration | 334039 | [334039-watch-restoration.json](./334039-watch-restoration.json) |
 | Watch The Edge Honey | 412350 | [412350-watch-the-edge-honey.json](./412350-watch-the-edge-honey.json) |
 | Watch The Fish | 287190 | [287190-watch-the-fish.json](./287190-watch-the-fish.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
@@ -2775,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Flames | 107933 | [107933-whispering-flames.json](./107933-whispering-flames.json) |
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
+| Whispering Memories | 334219 | [334219-whispering-memories.json](./334219-whispering-memories.json) |
 | Whispering Shadows | 279856 | [279856-whispering-shadows.json](./279856-whispering-shadows.json) |
 | Whispering Stacks | 348429 | [348429-whispering-stacks.json](./348429-whispering-stacks.json) |
 | Whispering Willows | 9369 | [9369-whispering-willows.json](./9369-whispering-willows.json) |
