@@ -3441,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
+| IRL: Italian Ritual Live | 371752 | [371752-irl-italian-ritual-live.json](./371752-irl-italian-ritual-live.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
