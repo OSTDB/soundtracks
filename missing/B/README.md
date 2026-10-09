@@ -8551,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Party | 70629 | [70629-brain-party.json](./70629-brain-party.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
+| Brain Puzzle: Tricky Quest | 354394 | [354394-brain-puzzle-tricky-quest.json](./354394-brain-puzzle-tricky-quest.json) |
 | Brain Puzzles Bundle 12 in 1 | 301533 | [301533-brain-puzzles-bundle-12-in-1.json](./301533-brain-puzzles-bundle-12-in-1.json) |
 | Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
 | Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
