@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardcaptor Sakura: Sakura Card de Mini-Game | 49519 | [49519-cardcaptor-sakura-sakura-card-de-mini-game.json](./49519-cardcaptor-sakura-sakura-card-de-mini-game.json) |
 | Cardcaptor Sakura: Sakura-Chan to Asobo! | 80800 | [80800-cardcaptor-sakura-sakura-chan-to-asobo.json](./80800-cardcaptor-sakura-sakura-chan-to-asobo.json) |
+| Cardcaster | 348288 | [348288-cardcaster.json](./348288-cardcaster.json) |
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
 | Cardcore | 112475 | [112475-cardcore.json](./112475-cardcore.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
