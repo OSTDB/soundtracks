@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
+| Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
 | EZ Muze: Hamst3r Edition | 92651 | [92651-ez-muze-hamst3r-edition.json](./92651-ez-muze-hamst3r-edition.json) |
