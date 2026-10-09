@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katze Stuck in the Toilet 64 PC | 378295 | [378295-katze-stuck-in-the-toilet-64-pc.json](./378295-katze-stuck-in-the-toilet-64-pc.json) |
 | Kauil's Treasure | 144567 | [144567-kauils-treasure.json](./144567-kauils-treasure.json) |
 | Kaun Banega Crorepati | 263465 | [263465-kaun-banega-crorepati.json](./263465-kaun-banega-crorepati.json) |
+| Kauna | 344885 | [344885-kauna.json](./344885-kauna.json) |
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | Kaverini Nuuk Adventures | 153378 | [153378-kaverini-nuuk-adventures.json](./153378-kaverini-nuuk-adventures.json) |
