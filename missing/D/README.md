@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
+| Desktop Fisher | 348752 | [348752-desktop-fisher.json](./348752-desktop-fisher.json) |
 | Desktop Fishes | 364006 | [364006-desktop-fishes.json](./364006-desktop-fishes.json) |
 | Desktop Fishing | 344545 | [344545-desktop-fishing.json](./344545-desktop-fishing.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Pull | 71153 | [71153-dot-pull.json](./71153-dot-pull.json) |
 | Dot Runner: Complete Edition | 56907 | [56907-dot-runner-complete-edition.json](./56907-dot-runner-complete-edition.json) |
 | Dot Scape | 379510 | [379510-dot-scape.json](./379510-dot-scape.json) |
+| Dot Spinner | 348736 | [348736-dot-spinner.json](./348736-dot-spinner.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
 | Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
@@ -10695,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gals | 316161 | [316161-dungeon-gals.json](./316161-dungeon-gals.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
+| Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
