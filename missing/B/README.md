@@ -2864,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BE-A Walker | 102386 | [102386-be-a-walker.json](./102386-be-a-walker.json) |
 | Be-Bop High School: Koukousei Gokuraku Densetsu | 48546 | [48546-be-bop-high-school-koukousei-gokuraku-densetsu.json](./48546-be-bop-high-school-koukousei-gokuraku-densetsu.json) |
 | Be: Twin | 155712 | [155712-be-twin.json](./155712-be-twin.json) |
+| Be4-Ver-1 | 364363 | [364363-be4-ver-1.json](./364363-be4-ver-1.json) |
 | Beach anime day | 130238 | [130238-beach-anime-day.json](./130238-beach-anime-day.json) |
 | Beach Ball Bounce Back | 391141 | [391141-beach-ball-bounce-back.json](./391141-beach-ball-bounce-back.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
@@ -6375,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
+| Blood & Play: Consultation | 364359 | [364359-blood-and-play-consultation.json](./364359-blood-and-play-consultation.json) |
 | Blood & Truth | 75242 | [75242-blood-and-truth.json](./75242-blood-and-truth.json) |
 | Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
