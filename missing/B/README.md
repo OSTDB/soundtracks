@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
 | Backrooms: Exit from Supermarket | 333729 | [333729-backrooms-exit-from-supermarket.json](./333729-backrooms-exit-from-supermarket.json) |
 | Backrooms: Exploration | 338326 | [338326-backrooms-exploration.json](./338326-backrooms-exploration.json) |
+| Backrooms: Extractions | 342580 | [342580-backrooms-extractions.json](./342580-backrooms-extractions.json) |
 | Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
+| Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
 | Behind the Frame: The Finest Scenery | 148499 | [148499-behind-the-frame-the-finest-scenery.json](./148499-behind-the-frame-the-finest-scenery.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
@@ -7863,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booth Butcher | 406922 | [406922-booth-butcher.json](./406922-booth-butcher.json) |
 | Bootleg Alchemist | 390255 | [390255-bootleg-alchemist.json](./390255-bootleg-alchemist.json) |
 | Bootleg Bandits | 13822 | [13822-bootleg-bandits.json](./13822-bootleg-bandits.json) |
+| Bootleg in Wonderland: Pastel Paradise | 342588 | [342588-bootleg-in-wonderland-pastel-paradise.json](./342588-bootleg-in-wonderland-pastel-paradise.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
