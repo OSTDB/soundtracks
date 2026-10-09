@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Land | 101485 | [101485-harvest-land.json](./101485-harvest-land.json) |
 | Harvest Life + Castaway Paradise | 247494 | [247494-harvest-life-castaway-paradise.json](./247494-harvest-life-castaway-paradise.json) |
 | Harvest Loop | 364996 | [364996-harvest-loop.json](./364996-harvest-loop.json) |
+| Harvest Mall | 361644 | [361644-harvest-mall.json](./361644-harvest-mall.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Moon | 3376 | [3376-harvest-moon.json](./3376-harvest-moon.json) |
 | Harvest Moon 3 GBC | 3381 | [3381-harvest-moon-3-gbc.json](./3381-harvest-moon-3-gbc.json) |
@@ -2349,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heliopedia | 175891 | [175891-heliopedia.json](./175891-heliopedia.json) |
 | Helios | 185086 | [185086-helios.json](./185086-helios.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
+| Helios Equinox | 361642 | [361642-helios-equinox.json](./361642-helios-equinox.json) |
 | Helios Horizon | 290496 | [290496-helios-horizon.json](./290496-helios-horizon.json) |
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
@@ -2444,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell O’ Halo | 412473 | [412473-hell-o-halo.json](./412473-hell-o-halo.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
+| Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
 | Hell of Nightmares: Chapter 1 | 254420 | [254420-hell-of-nightmares-chapter-1.json](./254420-hell-of-nightmares-chapter-1.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
@@ -5522,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honcho | 303564 | [303564-honcho.json](./303564-honcho.json) |
 | Honda ATV Fever | 61461 | [61461-honda-atv-fever.json](./61461-honda-atv-fever.json) |
 | Hondune's Truck Trials | 259070 | [259070-hondunes-truck-trials.json](./259070-hondunes-truck-trials.json) |
+| HoneHone Zaurus X: Chou Gattai! Build & Battle | 361604 | [361604-honehone-zaurus-x-chou-gattai-build-and-battle.json](./361604-honehone-zaurus-x-chou-gattai-build-and-battle.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
 | Honest War | 412353 | [412353-honest-war.json](./412353-honest-war.json) |
