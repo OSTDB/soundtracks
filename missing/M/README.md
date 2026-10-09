@@ -7528,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
+| Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Soccer Manager | 411494 | [411494-mini-soccer-manager.json](./411494-mini-soccer-manager.json) |
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
@@ -12504,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Wife Is An Office Manager | 389634 | [389634-my-wife-is-an-office-manager.json](./389634-my-wife-is-an-office-manager.json) |
 | My Wife Serves the King | 385243 | [385243-my-wife-serves-the-king.json](./385243-my-wife-serves-the-king.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
+| My Wife Wants to Be a Professional Cosplayer?! | 380787 | [380787-my-wife-wants-to-be-a-professional-cosplayer.json](./380787-my-wife-wants-to-be-a-professional-cosplayer.json) |
 | My Witch Wants Elixirs! | 385715 | [385715-my-witch-wants-elixirs.json](./385715-my-witch-wants-elixirs.json) |
 | My Wolf Girlfriend | 206199 | [206199-my-wolf-girlfriend.json](./206199-my-wolf-girlfriend.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
