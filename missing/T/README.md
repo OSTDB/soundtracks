@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
 | The Convenience Store | 129292 | [129292-the-convenience-store.json](./129292-the-convenience-store.json) |
 | The Cook in the Court of the Count | 397669 | [397669-the-cook-in-the-court-of-the-count.json](./397669-the-cook-in-the-court-of-the-count.json) |
+| The Cooking Club | 343206 | [343206-the-cooking-club.json](./343206-the-cooking-club.json) |
 | The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Deadly Dungeons of Baron Backslash | 181697 | [181697-the-deadly-dungeons-of-baron-backslash.json](./181697-the-deadly-dungeons-of-baron-backslash.json) |
+| The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
@@ -5233,11 +5235,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dresden Files Cooperative Card Game: Expansion 6 - Faithful Friends | 316217 | [316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json](./316217-the-dresden-files-cooperative-card-game-expansion-6-faithful-friends.json) |
 | The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
 | The Drifting Woods | 149705 | [149705-the-drifting-woods.json](./149705-the-drifting-woods.json) |
+| The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Druid | 240759 | [240759-the-druid.json](./240759-the-druid.json) |
+| The Drunken Beard | 343203 | [343203-the-drunken-beard.json](./343203-the-drunken-beard.json) |
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
 | The Duck Amikaze Strikes Back | 344544 | [344544-the-duck-amikaze-strikes-back.json](./344544-the-duck-amikaze-strikes-back.json) |
 | The Duck Fell | 140941 | [140941-the-duck-fell.json](./140941-the-duck-fell.json) |
@@ -10493,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Superlatives: Aetherfall | 74668 | [74668-the-superlatives-aetherfall.json](./74668-the-superlatives-aetherfall.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
+| The Supplier's Complex | 343201 | [343201-the-suppliers-complex.json](./343201-the-suppliers-complex.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
 | The Surge 1 & 2: Dual Pack | 139824 | [139824-the-surge-1-and-2-dual-pack.json](./139824-the-surge-1-and-2-dual-pack.json) |
@@ -19142,6 +19147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
+| Trust & Safety Tycoon | 343212 | [343212-trust-and-safety-tycoon.json](./343212-trust-and-safety-tycoon.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
