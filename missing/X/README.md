@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
+| XDM | 350468 | [350468-xdm.json](./350468-xdm.json) |
 | xDx Ball Shooter | 186050 | [186050-xdx-ball-shooter.json](./186050-xdx-ball-shooter.json) |
 | Xearz | 215658 | [215658-xearz.json](./215658-xearz.json) |
 | Xecuter | 133346 | [133346-xecuter.json](./133346-xecuter.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
+| Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3: Nintendo Switch 2 Edition | 405448 | [405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json](./405448-xenoblade-chronicles-3-nintendo-switch-2-edition.json) |
