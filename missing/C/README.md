@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| C | 385380 | [385380-c.json](./385380-c.json) |
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
 | C ya laterrrr | 177817 | [177817-c-ya-laterrrr.json](./177817-c-ya-laterrrr.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
+| Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
@@ -3144,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber Shift | 393536 | [393536-chamber-shift.json](./393536-chamber-shift.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
+| Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
@@ -5654,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
 | Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
+| Clatter | 385397 | [385397-clatter.json](./385397-clatter.json) |
 | Claude Monet: The Water Lily Obsession | 117638 | [117638-claude-monet-the-water-lily-obsession.json](./117638-claude-monet-the-water-lily-obsession.json) |
 | Cláudio | 412962 | [412962-claudio.json](./412962-claudio.json) |
 | Claus Adventure | 187371 | [187371-claus-adventure.json](./187371-claus-adventure.json) |
@@ -10116,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
+| Criticality | 385402 | [385402-criticality.json](./385402-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticism Roundup 2013 | 224456 | [224456-criticism-roundup-2013.json](./224456-criticism-roundup-2013.json) |
 | Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
