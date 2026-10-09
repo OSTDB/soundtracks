@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
 | 180! Darts | 261965 | [261965-180-darts.json](./261965-180-darts.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
+| 1811 | 343812 | [343812-1811.json](./343812-1811.json) |
 | 1812: The Invasion of Canada | 28752 | [28752-1812-the-invasion-of-canada.json](./28752-1812-the-invasion-of-canada.json) |
 | 1815 | 12354 | [12354-1815.json](./12354-1815.json) |
 | 1830: Railroads & Robber Barons | 12373 | [12373-1830-railroads-and-robber-barons.json](./12373-1830-railroads-and-robber-barons.json) |
