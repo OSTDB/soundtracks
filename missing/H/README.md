@@ -3798,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
+| Hexborn | 366729 | [366729-hexborn.json](./366729-hexborn.json) |
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
