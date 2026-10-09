@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision | 220071 | [220071-activision.json](./220071-activision.json) |
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
+| Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
 | Activision's Commodore 64 15 Pack | 82061 | [82061-activisions-commodore-64-15-pack.json](./82061-activisions-commodore-64-15-pack.json) |
 | Activity Bingo Travel | 108908 | [108908-activity-bingo-travel.json](./108908-activity-bingo-travel.json) |
@@ -2820,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Dash | 76691 | [76691-air-dash.json](./76691-air-dash.json) |
 | Air Dasher | 198318 | [198318-air-dasher.json](./198318-air-dasher.json) |
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
+| Air Defender | 379164 | [379164-air-defender.json](./379164-air-defender.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
@@ -3410,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ale & Aftercare | 262304 | [262304-ale-and-aftercare.json](./262304-ale-and-aftercare.json) |
 | Ale & Tale Tavern | 276233 | [276233-ale-and-tale-tavern.json](./276233-ale-and-tale-tavern.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
+| Alea | 379145 | [379145-alea.json](./379145-alea.json) |
 | Alea | 86551 | [86551-alea.json](./86551-alea.json) |
 | Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
 | Alea Jacta Est: Cantabrian Wars | 169291 | [169291-alea-jacta-est-cantabrian-wars.json](./169291-alea-jacta-est-cantabrian-wars.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
 | Alone? | 24926 | [24926-alone.json](./24926-alone.json) |
+| Alone. Again. | 379167 | [379167-alone-again.json](./379167-alone-again.json) |
 | Alonecats | 293085 | [293085-alonecats.json](./293085-alonecats.json) |
 | AloneGuy | 267480 | [267480-aloneguy.json](./267480-aloneguy.json) |
 | Aloners | 168677 | [168677-aloners.json](./168677-aloners.json) |
@@ -4711,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelia's Diner | 300769 | [300769-amelias-diner.json](./300769-amelias-diner.json) |
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
+| Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
 | Amenity's Life | 98541 | [98541-amenitys-life.json](./98541-amenitys-life.json) |
