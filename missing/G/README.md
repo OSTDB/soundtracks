@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
+| Goblin Gold Hunt | 379121 | [379121-goblin-gold-hunt.json](./379121-goblin-gold-hunt.json) |
 | Goblin Golf | 181689 | [181689-goblin-golf.json](./181689-goblin-golf.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
@@ -5761,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
+| Grumpa | 379125 | [379125-grumpa.json](./379125-grumpa.json) |
 | Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Gaffer | 357374 | [357374-grumpy-gaffer.json](./357374-grumpy-gaffer.json) |
 | Grumpy Gumphrey Supersleuth | 72262 | [72262-grumpy-gumphrey-supersleuth.json](./72262-grumpy-gumphrey-supersleuth.json) |
