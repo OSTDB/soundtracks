@@ -4274,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bass World Championship | 20135 | [20135-big-bass-world-championship.json](./20135-big-bass-world-championship.json) |
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
+| Big Beautiful Van Derby Racing | 366095 | [366095-big-beautiful-van-derby-racing.json](./366095-big-beautiful-van-derby-racing.json) |
 | Big Beautiful Women: Giantess Dating Action | 373174 | [373174-big-beautiful-women-giantess-dating-action.json](./373174-big-beautiful-women-giantess-dating-action.json) |
 | Big Ben | 13814 | [13814-big-ben.json](./13814-big-ben.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | BirdGut | 117873 | [117873-birdgut.json](./117873-birdgut.json) |
+| Birdhouse | 366103 | [366103-birdhouse.json](./366103-birdhouse.json) |
 | Birdie | 341130 | [341130-birdie.json](./341130-birdie.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
@@ -9682,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
 | Bubbles the Cat | 112934 | [112934-bubbles-the-cat.json](./112934-bubbles-the-cat.json) |
+| Bubbles! | 366109 | [366109-bubbles.json](./366109-bubbles.json) |
 | Bubbletica | 349913 | [349913-bubbletica.json](./349913-bubbletica.json) |
 | Bubblets | 298725 | [298725-bubblets.json](./298725-bubblets.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
