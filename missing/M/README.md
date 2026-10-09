@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mashou Denki: La Valeur | 137528 | [137528-mashou-denki-la-valeur.json](./137528-mashou-denki-la-valeur.json) |
 | Mashou Hime Tiruana Haramase Saimin: Ningen o Shiitageru Mazoku no Hime ga Anji Hitotsu de Niku Gangu ni Naru | 59027 | [59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json](./59027-mashou-hime-tiruana-haramase-saimin-ningen-o-shiitageru-mazoku-no-hime-ga-anji-hitotsu-de-niku-gangu-ni-naru.json) |
 | Mask | 39126 | [39126-mask.json](./39126-mask.json) |
+| Mask City: Chapter Zero | 373859 | [373859-mask-city-chapter-zero.json](./373859-mask-city-chapter-zero.json) |
 | Mask Fighting:Otherworldly Awakening | 357809 | [357809-mask-fighting-otherworldly-awakening.json](./357809-mask-fighting-otherworldly-awakening.json) |
 | Mask II | 39125 | [39125-mask-ii.json](./39125-mask-ii.json) |
 | Mask It | 414824 | [414824-mask-it.json](./414824-mask-it.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
 | Merchants of the Stars | 348404 | [348404-merchants-of-the-stars.json](./348404-merchants-of-the-stars.json) |
+| Mercie and the Fairies | 373858 | [373858-mercie-and-the-fairies.json](./373858-mercie-and-the-fairies.json) |
 | Merciful Girl | 223957 | [223957-merciful-girl.json](./223957-merciful-girl.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
@@ -9007,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
+| Monkey Jump | 373884 | [373884-monkey-jump.json](./373884-monkey-jump.json) |
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
 | Monkey King Saga | 34061 | [34061-monkey-king-saga.json](./34061-monkey-king-saga.json) |
 | Monkey King Simulator Special Edition | 348908 | [348908-monkey-king-simulator-special-edition.json](./348908-monkey-king-simulator-special-edition.json) |
@@ -10584,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Ninja | 247064 | [247064-motorcycle-ninja.json](./247064-motorcycle-ninja.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
 | Motorcycle Racing: Hill Up Cha | 108641 | [108641-motorcycle-racing-hill-up-cha.json](./108641-motorcycle-racing-hill-up-cha.json) |
+| Motorcycle Ride: Infinity | 373886 | [373886-motorcycle-ride-infinity.json](./373886-motorcycle-ride-infinity.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
@@ -10706,6 +10710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Painting Master | 148985 | [148985-mouse-painting-master.json](./148985-mouse-painting-master.json) |
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Playhouse | 29048 | [29048-mouse-playhouse.json](./29048-mouse-playhouse.json) |
+| Mouse Practice for Kids | 373897 | [373897-mouse-practice-for-kids.json](./373897-mouse-practice-for-kids.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Trap | 5687 | [5687-mouse-trap.json](./5687-mouse-trap.json) |
 | Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
@@ -12112,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My House | 326199 | [326199-my-house.json](./326199-my-house.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
+| My Housetopia | 373874 | [373874-my-housetopia.json](./373874-my-housetopia.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
