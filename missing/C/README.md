@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
+| Cataclysm: Bright Future Ahead | 339303 | [339303-cataclysm-bright-future-ahead.json](./339303-cataclysm-bright-future-ahead.json) |
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
 | Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
@@ -6674,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
+| Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
@@ -9196,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
+| Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
 | Cozy Builder | 379667 | [379667-cozy-builder.json](./379667-cozy-builder.json) |
