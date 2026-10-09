@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara After | 307678 | [307678-nekopara-after.json](./307678-nekopara-after.json) |
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Love Project Vol. 1 | 307680 | [307680-nekopara-love-project-vol-1.json](./307680-nekopara-love-project-vol-1.json) |
+| Nekopara Love Project Vol. 4 | 384258 | [384258-nekopara-love-project-vol-4.json](./384258-nekopara-love-project-vol-4.json) |
 | Nekopara Vol. 0 | 26654 | [26654-nekopara-vol-0.json](./26654-nekopara-vol-0.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
