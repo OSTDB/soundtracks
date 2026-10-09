@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hagane: The Final Conflict | 42611 | [42611-hagane-the-final-conflict.json](./42611-hagane-the-final-conflict.json) |
 | Hagar the Horrible | 47229 | [47229-hagar-the-horrible.json](./47229-hagar-the-horrible.json) |
 | Hageransu | 345631 | [345631-hageransu.json](./345631-hageransu.json) |
+| Haggle Battle | 363321 | [363321-haggle-battle.json](./363321-haggle-battle.json) |
 | Haggle Simulator | 407370 | [407370-haggle-simulator.json](./407370-haggle-simulator.json) |
 | Hagia Sophia VR Experience | 150491 | [150491-hagia-sophia-vr-experience.json](./150491-hagia-sophia-vr-experience.json) |
 | Hags Castle | 105824 | [105824-hags-castle.json](./105824-hags-castle.json) |
