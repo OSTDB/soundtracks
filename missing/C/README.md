@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos: A Tapestry of Time | 69554 | [69554-chronos-a-tapestry-of-time.json](./69554-chronos-a-tapestry-of-time.json) |
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
 | Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
+| Chronoscript: The Endless End | 369997 | [369997-chronoscript-the-endless-end.json](./369997-chronoscript-the-endless-end.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
