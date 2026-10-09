@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Knight | 156968 | [156968-grave-knight.json](./156968-grave-knight.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
+| Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
