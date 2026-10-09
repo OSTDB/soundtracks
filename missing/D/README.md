@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DDI Rally Championship | 260336 | [260336-ddi-rally-championship.json](./260336-ddi-rally-championship.json) |
 | DDI Touring Car Championship | 298681 | [298681-ddi-touring-car-championship.json](./298681-ddi-touring-car-championship.json) |
 | DDM Soccer '96 | 93390 | [93390-ddm-soccer-96.json](./93390-ddm-soccer-96.json) |
+| DDoD | 361039 | [361039-ddod.json](./361039-ddod.json) |
 | DDraceNetwork | 136770 | [136770-ddracenetwork.json](./136770-ddracenetwork.json) |
 | DDRMax: Dance Dance Revolution 6thMix | 3677 | [3677-ddrmax-dance-dance-revolution-6thmix.json](./3677-ddrmax-dance-dance-revolution-6thmix.json) |
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
@@ -2774,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathpuddle: Choose Violence? | 309459 | [309459-deathpuddle-choose-violence.json](./309459-deathpuddle-choose-violence.json) |
 | Deathray | 285010 | [285010-deathray.json](./285010-deathray.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
+| Deathrun | 361030 | [361030-deathrun.json](./361030-deathrun.json) |
 | Deathrun Guys | 215176 | [215176-deathrun-guys.json](./215176-deathrun-guys.json) |
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deaths Dawn | 380764 | [380764-deaths-dawn.json](./380764-deaths-dawn.json) |
@@ -5414,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimday Red | 214389 | [214389-dimday-red.json](./214389-dimday-red.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
+| Dimenshot | 361071 | [361071-dimenshot.json](./361071-dimenshot.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
