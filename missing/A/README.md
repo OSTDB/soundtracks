@@ -5688,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
+| Animal Bingo | 351580 | [351580-animal-bingo.json](./351580-animal-bingo.json) |
 | Animal Bomb Chess | 303147 | [303147-animal-bomb-chess.json](./303147-animal-bomb-chess.json) |
 | Animal Bomber | 147466 | [147466-animal-bomber.json](./147466-animal-bomber.json) |
 | Animal Boxing | 68953 | [68953-animal-boxing.json](./68953-animal-boxing.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
 | Anime Dream Match: Predators | 366134 | [366134-anime-dream-match-predators.json](./366134-anime-dream-match-predators.json) |
+| Anime Dream Match: Primates | 351558 | [351558-anime-dream-match-primates.json](./351558-anime-dream-match-primates.json) |
 | Anime Dream Match: Rodents | 362349 | [362349-anime-dream-match-rodents.json](./362349-anime-dream-match-rodents.json) |
 | Anime Dress Up | 88741 | [88741-anime-dress-up.json](./88741-anime-dress-up.json) |
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
@@ -9438,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
+| Asymm | 351559 | [351559-asymm.json](./351559-asymm.json) |
 | Asymmetric Ops | 118791 | [118791-asymmetric-ops.json](./118791-asymmetric-ops.json) |
 | Asyula | 57030 | [57030-asyula.json](./57030-asyula.json) |
 | ASZG Project | 236296 | [236296-aszg-project.json](./236296-aszg-project.json) |
