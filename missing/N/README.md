@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namcot Collection | 133762 | [133762-namcot-collection.json](./133762-namcot-collection.json) |
 | Namcot Mahjong III: Mahjong Tengoku | 48813 | [48813-namcot-mahjong-iii-mahjong-tengoku.json](./48813-namcot-mahjong-iii-mahjong-tengoku.json) |
 | Namcot Open | 37911 | [37911-namcot-open.json](./37911-namcot-open.json) |
+| Name Board Live | 350467 | [350467-name-board-live.json](./350467-name-board-live.json) |
 | Name of the Will | 212175 | [212175-name-of-the-will.json](./212175-name-of-the-will.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
 | Name That NG Character | 338935 | [338935-name-that-ng-character.json](./338935-name-that-ng-character.json) |
@@ -3455,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
+| No End | 350397 | [350397-no-end.json](./350397-no-end.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
@@ -3775,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
 | Noctambulo | 363279 | [363279-noctambulo.json](./363279-noctambulo.json) |
 | Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
+| Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
