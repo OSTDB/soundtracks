@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
+| P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
 | P1441vr | 186851 | [186851-p1441vr.json](./186851-p1441vr.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
@@ -3865,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Lost Hope | 281012 | [281012-pikmin-lost-hope.json](./281012-pikmin-lost-hope.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
+| Pikmin Puzzle Card e+ | 363806 | [363806-pikmin-puzzle-card-e.json](./363806-pikmin-puzzle-card-e.json) |
 | Pikmin Puzzle Card e+: Hikkonuki Pikmin - Olimar | 353505 | [353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json](./353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json) |
 | Pikmin Puzzle Card e+: No.00 - Hikkonuki Pikmin: Aka Pikmin | 353509 | [353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json](./353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json) |
 | Pikmin Puzzle Card e+: No.00 - Teku-teku Pikmin: Ki Pikmin | 353510 | [353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json](./353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json) |
@@ -3872,9 +3874,35 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.01 - Hikkonuki Pikmin: Aka Chappy | 353512 | [353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json](./353512-pikmin-puzzle-card-e-no-01-hikkonuki-pikmin-aka-chappy.json) |
 | Pikmin Puzzle Card e+: No.02 - Teku-teku Pikmin: Ke Chappy | 353513 | [353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json](./353513-pikmin-puzzle-card-e-no-02-teku-teku-pikmin-ke-chappy.json) |
 | Pikmin Puzzle Card e+: No.03 Tsunagete Pikmin - Ten-ten Chappy | 353514 | [353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json](./353514-pikmin-puzzle-card-e-no-03-tsunagete-pikmin-ten-ten-chappy.json) |
+| Pikmin Puzzle Card e+: No.039 - Tsunagete Pikmin: Ko Manman | 363776 | [363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json](./363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json) |
 | Pikmin Puzzle Card e+: No.04 - Hikkonuki Pikmin: Aka Ko Chappy | 353515 | [353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json](./353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json) |
+| Pikmin Puzzle Card e+: No.040 - Hikkonuki Pikmin: Oomanman | 363777 | [363777-pikmin-puzzle-card-e-no-040-hikkonuki-pikmin-oomanman.json](./363777-pikmin-puzzle-card-e-no-040-hikkonuki-pikmin-oomanman.json) |
+| Pikmin Puzzle Card e+: No.041 - Shoigumo | 363778 | [363778-pikmin-puzzle-card-e-no-041-shoigumo.json](./363778-pikmin-puzzle-card-e-no-041-shoigumo.json) |
+| Pikmin Puzzle Card e+: No.042 - Teku-teku Pikmin: Sakureshoi Gumo | 363779 | [363779-pikmin-puzzle-card-e-no-042-teku-teku-pikmin-sakureshoi-gumo.json](./363779-pikmin-puzzle-card-e-no-042-teku-teku-pikmin-sakureshoi-gumo.json) |
+| Pikmin Puzzle Card e+: No.043 - Teku-teku Pikmin: Hercules Ooyorohigumo | 363780 | [363780-pikmin-puzzle-card-e-no-043-teku-teku-pikmin-hercules-ooyorohigumo.json](./363780-pikmin-puzzle-card-e-no-043-teku-teku-pikmin-hercules-ooyorohigumo.json) |
+| Pikmin Puzzle Card e+: No.044 - Tsunagete Pikmin: Ujinko ♀ | 363781 | [363781-pikmin-puzzle-card-e-no-044-tsunagete-pikmin-ujinko.json](./363781-pikmin-puzzle-card-e-no-044-tsunagete-pikmin-ujinko.json) |
+| Pikmin Puzzle Card e+: No.045 - Teku-teku Pikmin: Ujinko ♂ | 363783 | [363783-pikmin-puzzle-card-e-no-045-teku-teku-pikmin-ujinko.json](./363783-pikmin-puzzle-card-e-no-045-teku-teku-pikmin-ujinko.json) |
+| Pikmin Puzzle Card e+: No.046 - Hikkonuki Pikmin: Tobinko | 363784 | [363784-pikmin-puzzle-card-e-no-046-hikkonuki-pikmin-tobinko.json](./363784-pikmin-puzzle-card-e-no-046-hikkonuki-pikmin-tobinko.json) |
+| Pikmin Puzzle Card e+: No.046 - Otama | 363787 | [363787-pikmin-puzzle-card-e-no-046-otama.json](./363787-pikmin-puzzle-card-e-no-046-otama.json) |
+| Pikmin Puzzle Card e+: No.047 - Tsunagete Pikmin: Imogaeru | 363785 | [363785-pikmin-puzzle-card-e-no-047-tsunagete-pikmin-imogaeru.json](./363785-pikmin-puzzle-card-e-no-047-tsunagete-pikmin-imogaeru.json) |
+| Pikmin Puzzle Card e+: No.048 - Tsunagete Pikmin: Marogaeru | 363786 | [363786-pikmin-puzzle-card-e-no-048-tsunagete-pikmin-marogaeru.json](./363786-pikmin-puzzle-card-e-no-048-tsunagete-pikmin-marogaeru.json) |
+| Pikmin Puzzle Card e+: No.049 - Popongashigusa | 363795 | [363795-pikmin-puzzle-card-e-no-049-popongashigusa.json](./363795-pikmin-puzzle-card-e-no-049-popongashigusa.json) |
 | Pikmin Puzzle Card e+: No.05 - Teku-teku Pikmin: Yuki Chappy | 353516 | [353516-pikmin-puzzle-card-e-no-05-teku-teku-pikmin-yuki-chappy.json](./353516-pikmin-puzzle-card-e-no-05-teku-teku-pikmin-yuki-chappy.json) |
+| Pikmin Puzzle Card e+: No.050 - Tsunagete Pikmin: Hebigarasu | 363788 | [363788-pikmin-puzzle-card-e-no-050-tsunagete-pikmin-hebigarasu.json](./363788-pikmin-puzzle-card-e-no-050-tsunagete-pikmin-hebigarasu.json) |
+| Pikmin Puzzle Card e+: No.051 - Hikkonuki Pikmin: Aka Hebigarasu | 363789 | [363789-pikmin-puzzle-card-e-no-051-hikkonuki-pikmin-aka-hebigarasu.json](./363789-pikmin-puzzle-card-e-no-051-hikkonuki-pikmin-aka-hebigarasu.json) |
+| Pikmin Puzzle Card e+: No.052 - Teku-teku Pikmin: Pikimaki | 363790 | [363790-pikmin-puzzle-card-e-no-052-teku-teku-pikmin-pikimaki.json](./363790-pikmin-puzzle-card-e-no-052-teku-teku-pikmin-pikimaki.json) |
+| Pikmin Puzzle Card e+: No.053 - Hikkonuki Pikmin: Sanshoku Shijimi | 363791 | [363791-pikmin-puzzle-card-e-no-053-hikkonuki-pikmin-sanshoku-shijimi.json](./363791-pikmin-puzzle-card-e-no-053-hikkonuki-pikmin-sanshoku-shijimi.json) |
+| Pikmin Puzzle Card e+: No.054 - Pongashigusa | 363792 | [363792-pikmin-puzzle-card-e-no-054-pongashigusa.json](./363792-pikmin-puzzle-card-e-no-054-pongashigusa.json) |
+| Pikmin Puzzle Card e+: No.055 - Murasaki Pongashigusa | 363793 | [363793-pikmin-puzzle-card-e-no-055-murasaki-pongashigusa.json](./363793-pikmin-puzzle-card-e-no-055-murasaki-pongashigusa.json) |
+| Pikmin Puzzle Card e+: No.056 - Shiro Pongashigusa | 363794 | [363794-pikmin-puzzle-card-e-no-056-shiro-pongashigusa.json](./363794-pikmin-puzzle-card-e-no-056-shiro-pongashigusa.json) |
+| Pikmin Puzzle Card e+: No.058 - Hikkonuki Pikmin: Bikkuri Kiku | 363796 | [363796-pikmin-puzzle-card-e-no-058-hikkonuki-pikmin-bikkuri-kiku.json](./363796-pikmin-puzzle-card-e-no-058-hikkonuki-pikmin-bikkuri-kiku.json) |
+| Pikmin Puzzle Card e+: No.059 - Tsunagete Pikmin: Hanbo | 363798 | [363798-pikmin-puzzle-card-e-no-059-tsunagete-pikmin-hanbo.json](./363798-pikmin-puzzle-card-e-no-059-tsunagete-pikmin-hanbo.json) |
 | Pikmin Puzzle Card e+: No.06 - Tsunagete Pikmin: Ten Ko Chappy | 353517 | [353517-pikmin-puzzle-card-e-no-06-tsunagete-pikmin-ten-ko-chappy.json](./353517-pikmin-puzzle-card-e-no-06-tsunagete-pikmin-ten-ko-chappy.json) |
+| Pikmin Puzzle Card e+: No.061 - Tsunagete Pikmin: Oopanmodoki | 363800 | [363800-pikmin-puzzle-card-e-no-061-tsunagete-pikmin-oopanmodoki.json](./363800-pikmin-puzzle-card-e-no-061-tsunagete-pikmin-oopanmodoki.json) |
+| Pikmin Puzzle Card e+: No.062 - Teku-teku Pikmin: Miurin | 363801 | [363801-pikmin-puzzle-card-e-no-062-teku-teku-pikmin-miurin.json](./363801-pikmin-puzzle-card-e-no-062-teku-teku-pikmin-miurin.json) |
+| Pikmin Puzzle Card e+: No.063 - Hikkonuki Pikmin: Amebouzu | 363802 | [363802-pikmin-puzzle-card-e-no-063-hikkonuki-pikmin-amebouzu.json](./363802-pikmin-puzzle-card-e-no-063-hikkonuki-pikmin-amebouzu.json) |
+| Pikmin Puzzle Card e+: No.064 - Tsunagete Pikmin: Ujadani | 363803 | [363803-pikmin-puzzle-card-e-no-064-tsunagete-pikmin-ujadani.json](./363803-pikmin-puzzle-card-e-no-064-tsunagete-pikmin-ujadani.json) |
+| Pikmin Puzzle Card e+: No.065 - Pellet-sou | 363804 | [363804-pikmin-puzzle-card-e-no-065-pellet-sou.json](./363804-pikmin-puzzle-card-e-no-065-pellet-sou.json) |
 | Pikmin Puzzle Card e+: No.07 - Hikkonuki Pikmin: Kuma Chappy | 353518 | [353518-pikmin-puzzle-card-e-no-07-hikkonuki-pikmin-kuma-chappy.json](./353518-pikmin-puzzle-card-e-no-07-hikkonuki-pikmin-kuma-chappy.json) |
 | Pikmin Puzzle Card e+: No.08 - Hikkonuki Pikmin: Chibi Kuma | 353519 | [353519-pikmin-puzzle-card-e-no-08-hikkonuki-pikmin-chibi-kuma.json](./353519-pikmin-puzzle-card-e-no-08-hikkonuki-pikmin-chibi-kuma.json) |
 | Pikmin Puzzle Card e+: No.09 - Teku-teku Pikmin: Baby Chappy | 353520 | [353520-pikmin-puzzle-card-e-no-09-teku-teku-pikmin-baby-chappy.json](./353520-pikmin-puzzle-card-e-no-09-teku-teku-pikmin-baby-chappy.json) |
@@ -3882,6 +3910,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.11 - Tsunagete Pikmin: Dango Namazu | 353522 | [353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json](./353522-pikmin-puzzle-card-e-no-11-tsunagete-pikmin-dango-namazu.json) |
 | Pikmin Puzzle Card e+: No.12 - Hikkonuki Pikmin: Ha Chappy/Koppa Chappy | 353524 | [353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json](./353524-pikmin-puzzle-card-e-no-12-hikkonuki-pikmin-ha-chappy-koppa-chappy.json) |
 | Pikmin Puzzle Card e+: No.13 - Teku-teku Pikmin: Daiou Deme Madara | 353525 | [353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json](./353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json) |
+| Pikmin Puzzle Card e+: No.60 - Teku-teku Pikmin: Panmodoki | 363799 | [363799-pikmin-puzzle-card-e-no-60-teku-teku-pikmin-panmodoki.json](./363799-pikmin-puzzle-card-e-no-60-teku-teku-pikmin-panmodoki.json) |
+| Pikmin Puzzle Card e+: No.66 - Hikkonuki Pikmin: Miyabi Futa-kuchi | 363805 | [363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json](./363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json) |
 | Pikmin Puzzle Card e+: Teku-teku Pikmin - President | 353506 | [353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json](./353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json) |
 | Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie | 353508 | [353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json](./353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json) |
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
