@@ -4205,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
+| The Bygone Days of Her and the Flowers | 368885 | [368885-the-bygone-days-of-her-and-the-flowers.json](./368885-the-bygone-days-of-her-and-the-flowers.json) |
 | The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
@@ -6678,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
+| The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 94829 | [94829-the-incredible-hulk.json](./94829-the-incredible-hulk.json) |
 | The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
 | The Incredible Hulk: Ultimate Destruction | 3954 | [3954-the-incredible-hulk-ultimate-destruction.json](./3954-the-incredible-hulk-ultimate-destruction.json) |
@@ -6803,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
+| The Itchy & Scratchy Game | 368895 | [368895-the-itchy-and-scratchy-game.json](./368895-the-itchy-and-scratchy-game.json) |
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
@@ -7254,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
+| The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
