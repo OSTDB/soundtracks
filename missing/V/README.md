@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
+| Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
 | Voidwalker | 385383 | [385383-voidwalker.json](./385383-voidwalker.json) |
 | VoidWalker: Call of Insomnia | 345080 | [345080-voidwalker-call-of-insomnia.json](./345080-voidwalker-call-of-insomnia.json) |
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
