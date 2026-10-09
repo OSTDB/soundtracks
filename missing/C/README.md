@@ -7178,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
+| Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | ColorZ - 3D Pixel Art | 87007 | [87007-colorz-3d-pixel-art.json](./87007-colorz-3d-pixel-art.json) |
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
