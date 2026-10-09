@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
 | Voidship: Redux | 244312 | [244312-voidship-redux.json](./244312-voidship-redux.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
+| Voidwalker | 385383 | [385383-voidwalker.json](./385383-voidwalker.json) |
 | VoidWalker: Call of Insomnia | 345080 | [345080-voidwalker-call-of-insomnia.json](./345080-voidwalker-call-of-insomnia.json) |
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
 | Voidwalkers: Soul Hunters | 170931 | [170931-voidwalkers-soul-hunters.json](./170931-voidwalkers-soul-hunters.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | VoxelMancy | 194942 | [194942-voxelmancy.json](./194942-voxelmancy.json) |
+| Voxelony | 385358 | [385358-voxelony.json](./385358-voxelony.json) |
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
 | Voxenvale | 404900 | [404900-voxenvale.json](./404900-voxenvale.json) |
