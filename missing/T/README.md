@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: A City Driving Simulator - Supporter Edition | 290110 | [290110-taxi-life-a-city-driving-simulator-supporter-edition.json](./290110-taxi-life-a-city-driving-simulator-supporter-edition.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
+| Taxi Mayhem: London | 359378 | [359378-taxi-mayhem-london.json](./359378-taxi-mayhem-london.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
 | Taxi of Miracles: Collector's Edition | 229933 | [229933-taxi-of-miracles-collectors-edition.json](./229933-taxi-of-miracles-collectors-edition.json) |
 | Taxi of the Asteroids | 242080 | [242080-taxi-of-the-asteroids.json](./242080-taxi-of-the-asteroids.json) |
@@ -7354,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Practice Sectis | 196044 | [196044-the-last-practice-sectis.json](./196044-the-last-practice-sectis.json) |
 | The Last Premiere | 213422 | [213422-the-last-premiere.json](./213422-the-last-premiere.json) |
 | The Last Prompt | 342179 | [342179-the-last-prompt.json](./342179-the-last-prompt.json) |
+| The Last Purge | 359360 | [359360-the-last-purge.json](./359360-the-last-purge.json) |
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
@@ -19621,6 +19623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
+| Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
