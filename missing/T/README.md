@@ -5045,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
+| The Deep Creep | 335380 | [335380-the-deep-creep.json](./335380-the-deep-creep.json) |
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
 | The Deep Diving of FloodDragon | 197132 | [197132-the-deep-diving-of-flooddragon.json](./197132-the-deep-diving-of-flooddragon.json) |
 | The Deep Library | 374691 | [374691-the-deep-library.json](./374691-the-deep-library.json) |
@@ -10735,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thirty Nine Steps | 63664 | [63664-the-thirty-nine-steps.json](./63664-the-thirty-nine-steps.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
+| The Thread of Fate | 335383 | [335383-the-thread-of-fate.json](./335383-the-thread-of-fate.json) |
 | The Threat of North | 112157 | [112157-the-threat-of-north.json](./112157-the-threat-of-north.json) |
 | The Three Cardinals | 408709 | [408709-the-three-cardinals.json](./408709-the-three-cardinals.json) |
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
@@ -10759,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
+| The Throng | 335304 | [335304-the-throng.json](./335304-the-throng.json) |
 | The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
 | The Tick of Guilt | 180703 | [180703-the-tick-of-guilt.json](./180703-the-tick-of-guilt.json) |
 | The Tickle People | 383047 | [383047-the-tickle-people.json](./383047-the-tickle-people.json) |
@@ -11041,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader of Stories: Chapter III | 388276 | [388276-the-trader-of-stories-chapter-iii.json](./388276-the-trader-of-stories-chapter-iii.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
+| The Trail: Reign of Apocalypse | 335226 | [335226-the-trail-reign-of-apocalypse.json](./335226-the-trail-reign-of-apocalypse.json) |
 | The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
 | The Trailer Incident | 390652 | [390652-the-trailer-incident.json](./390652-the-trailer-incident.json) |
 | The Train | 256993 | [256993-the-train.json](./256993-the-train.json) |
@@ -11509,6 +11513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains | 87860 | [87860-the-way-of-kings-escape-the-shattered-plains.json](./87860-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
+| The Way of Knight | 335235 | [335235-the-way-of-knight.json](./335235-the-way-of-knight.json) |
 | The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
@@ -20213,6 +20218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyre Trax | 269057 | [269057-tyre-trax.json](./269057-tyre-trax.json) |
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
+| Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
 | Tyto | 398472 | [398472-tyto.json](./398472-tyto.json) |
 | Tyto Ecology | 33243 | [33243-tyto-ecology.json](./33243-tyto-ecology.json) |
