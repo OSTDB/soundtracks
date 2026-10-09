@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florida Road Trip | 179985 | [179985-florida-road-trip.json](./179985-florida-road-trip.json) |
 | Florida Simulator 1986 | 158545 | [158545-florida-simulator-1986.json](./158545-florida-simulator-1986.json) |
+| Florida Survivor | 362173 | [362173-florida-survivor.json](./362173-florida-survivor.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
 | Florist Shop | 44070 | [44070-florist-shop.json](./44070-florist-shop.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
@@ -7379,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier | 345638 | [345638-frontier.json](./345638-frontier.json) |
+| Frontier | 362171 | [362171-frontier.json](./362171-frontier.json) |
 | Frontier Army 1644 | 154060 | [154060-frontier-army-1644.json](./154060-frontier-army-1644.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Combat: Beginnings | 366120 | [366120-frontier-combat-beginnings.json](./366120-frontier-combat-beginnings.json) |
