@@ -7419,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Crew: Skin Pack | 265253 | [265253-bomber-crew-skin-pack.json](./265253-bomber-crew-skin-pack.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
+| Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber Run | 362432 | [362432-bomber-run.json](./362432-bomber-run.json) |
 | Bomber-Man | 247059 | [247059-bomber-man.json](./247059-bomber-man.json) |
