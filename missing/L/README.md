@@ -3752,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
+| Liv | 386475 | [386475-liv.json](./386475-liv.json) |
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
