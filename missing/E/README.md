@@ -4084,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirit Hunter | 409413 | [409413-evil-spirit-hunter.json](./409413-evil-spirit-hunter.json) |
+| Evil Spirits | 384865 | [384865-evil-spirits.json](./384865-evil-spirits.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
 | Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
