@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faster Than Death | 383629 | [383629-faster-than-death.json](./383629-faster-than-death.json) |
 | Faster than light? | 178437 | [178437-faster-than-light.json](./178437-faster-than-light.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
+| Fastest Cashier | 337057 | [337057-fastest-cashier.json](./337057-fastest-cashier.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
