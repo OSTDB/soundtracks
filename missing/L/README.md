@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingjing | 284963 | [284963-lingjing.json](./284963-lingjing.json) |
+| Lingkaran | 345421 | [345421-lingkaran.json](./345421-lingkaran.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
@@ -4683,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
+| Lort | 345444 | [345444-lort.json](./345444-lort.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
