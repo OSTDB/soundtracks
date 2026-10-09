@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspace | 151093 | [151093-warspace.json](./151093-warspace.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
+| WarSpawn | 344335 | [344335-warspawn.json](./344335-warspawn.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | WarSphere | 253459 | [253459-warsphere.json](./253459-warsphere.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
+| What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
 | What Did the Chicken See | 390746 | [390746-what-did-the-chicken-see.json](./390746-what-did-the-chicken-see.json) |
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
@@ -2798,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Tallgrass | 398959 | [398959-whispers-of-the-tallgrass.json](./398959-whispers-of-the-tallgrass.json) |
 | Whispers of the Void | 358378 | [358378-whispers-of-the-void.json](./358378-whispers-of-the-void.json) |
 | Whispers of West Grove | 237045 | [237045-whispers-of-west-grove.json](./237045-whispers-of-west-grove.json) |
+| Whispers of Wings Jigsaw Puzzles | 344410 | [344410-whispers-of-wings-jigsaw-puzzles.json](./344410-whispers-of-wings-jigsaw-puzzles.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 1 | 357963 | [357963-whispers-of-wings-jigsaw-puzzles-expansion-pack-1.json](./357963-whispers-of-wings-jigsaw-puzzles-expansion-pack-1.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 2 | 357964 | [357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json](./357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 3 | 357965 | [357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json](./357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json) |
@@ -3329,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife: Forest Survival | 53046 | [53046-wildlife-forest-survival.json](./53046-wildlife-forest-survival.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
+| Wildrise | 344412 | [344412-wildrise.json](./344412-wildrise.json) |
 | WildRoot | 409708 | [409708-wildroot.json](./409708-wildroot.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
@@ -5620,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǔlín Hàndāo Xíng | 155004 | [155004-wulin-handao-xing.json](./155004-wulin-handao-xing.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
+| Wumball | 344405 | [344405-wumball.json](./344405-wumball.json) |
 | Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
