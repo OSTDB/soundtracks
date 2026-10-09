@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Dude vs. Zombies 2 | 117030 | [117030-ninja-dude-vs-zombies-2.json](./117030-ninja-dude-vs-zombies-2.json) |
 | Ninja Emaki | 37325 | [37325-ninja-emaki.json](./37325-ninja-emaki.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
+| Ninja Escape Danger | 338223 | [338223-ninja-escape-danger.json](./338223-ninja-escape-danger.json) |
 | Ninja Express | 173028 | [173028-ninja-express.json](./173028-ninja-express.json) |
 | Ninja Feet of Fury | 64102 | [64102-ninja-feet-of-fury.json](./64102-ninja-feet-of-fury.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
