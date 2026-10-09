@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
+| A Planet Full of Cats | 347109 | [347109-a-planet-full-of-cats.json](./347109-a-planet-full-of-cats.json) |
 | A Planet Wakes | 141756 | [141756-a-planet-wakes.json](./141756-a-planet-wakes.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
@@ -2256,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Dungeon | 266256 | [266256-afk-dungeon.json](./266256-afk-dungeon.json) |
 | AFK Industarry | 405469 | [405469-afk-industarry.json](./405469-afk-industarry.json) |
 | AFK Journey | 286114 | [286114-afk-journey.json](./286114-afk-journey.json) |
+| AFK Shift | 347169 | [347169-afk-shift.json](./347169-afk-shift.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
 | AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
@@ -4421,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | Alphadia Neo | 216120 | [216120-alphadia-neo.json](./216120-alphadia-neo.json) |
+| AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaLink | 173170 | [173170-alphalink.json](./173170-alphalink.json) |
 | AlphaMan | 308344 | [308344-alphaman.json](./308344-alphaman.json) |
@@ -7187,6 +7190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
+| Arcade Archives: Ridge Racer | 347092 | [347092-arcade-archives-ridge-racer.json](./347092-arcade-archives-ridge-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
 | Arcade Archives: Roc'n Rope | 381795 | [381795-arcade-archives-rocn-rope.json](./381795-arcade-archives-rocn-rope.json) |
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
