@@ -3376,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
 | Bedtime Blues | 112782 | [112782-bedtime-blues.json](./112782-bedtime-blues.json) |
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
+| Bedtime Nightmare | 377969 | [377969-bedtime-nightmare.json](./377969-bedtime-nightmare.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Stories 2 | 370252 | [370252-bedtime-stories-2.json](./370252-bedtime-stories-2.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
@@ -6329,6 +6330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
+| Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
 | Blood 'n Bikinis | 54815 | [54815-blood-n-bikinis.json](./54815-blood-n-bikinis.json) |
 | Blood 'N Bullets | 239778 | [239778-blood-n-bullets.json](./239778-blood-n-bullets.json) |
