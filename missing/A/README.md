@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
+| Abandoned | 343778 | [343778-abandoned.json](./343778-abandoned.json) |
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
 | Abandoned Continent | 377422 | [377422-abandoned-continent.json](./377422-abandoned-continent.json) |
 | Abandoned Croxon Mansion | 152496 | [152496-abandoned-croxon-mansion.json](./152496-abandoned-croxon-mansion.json) |
@@ -7437,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Arts Academy | 150269 | [150269-arcane-arts-academy.json](./150269-arcane-arts-academy.json) |
 | Arcane Arts Academy 2 | 217989 | [217989-arcane-arts-academy-2.json](./217989-arcane-arts-academy-2.json) |
 | Arcane Arts: Sorcerer's Quest | 385316 | [385316-arcane-arts-sorcerers-quest.json](./385316-arcane-arts-sorcerers-quest.json) |
+| Arcane Assault | 343753 | [343753-arcane-assault.json](./343753-arcane-assault.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Beak | 323858 | [323858-arcane-beak.json](./323858-arcane-beak.json) |
