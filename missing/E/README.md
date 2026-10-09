@@ -3488,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
 | Eternal Summer | 264145 | [264145-eternal-summer.json](./264145-eternal-summer.json) |
+| Eternal Sunrise | 384295 | [384295-eternal-sunrise.json](./384295-eternal-sunrise.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Survival | 341100 | [341100-eternal-survival.json](./341100-eternal-survival.json) |
 | Eternal Threads | 116400 | [116400-eternal-threads.json](./116400-eternal-threads.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Tree | 199967 | [199967-eternal-tree.json](./199967-eternal-tree.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
+| Eternal Twilight | 384287 | [384287-eternal-twilight.json](./384287-eternal-twilight.json) |
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
@@ -4806,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
+| Ezmeralda | 384265 | [384265-ezmeralda.json](./384265-ezmeralda.json) |
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
