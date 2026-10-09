@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentaimon | 296946 | [296946-hentaimon.json](./296946-hentaimon.json) |
 | Hentaisland: Lost Pantsu | 156559 | [156559-hentaisland-lost-pantsu.json](./156559-hentaisland-lost-pantsu.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
+| HenTris | 334797 | [334797-hentris.json](./334797-hentris.json) |
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
 | Heph | 30121 | [30121-heph.json](./30121-heph.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
@@ -3611,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Egypt: The Curse of Sethos | 191119 | [191119-heroes-of-egypt-the-curse-of-sethos.json](./191119-heroes-of-egypt-the-curse-of-sethos.json) |
 | Heroes of Egypt: The Curse of Sethos - Collector's Edition | 259757 | [259757-heroes-of-egypt-the-curse-of-sethos-collectors-edition.json](./259757-heroes-of-egypt-the-curse-of-sethos-collectors-edition.json) |
 | Heroes of Eldemor | 150544 | [150544-heroes-of-eldemor.json](./150544-heroes-of-eldemor.json) |
+| Heroes of Elements | 334817 | [334817-heroes-of-elements.json](./334817-heroes-of-elements.json) |
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
 | Heroes of Eroticism: New Beginnings | 221204 | [221204-heroes-of-eroticism-new-beginnings.json](./221204-heroes-of-eroticism-new-beginnings.json) |
 | Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
