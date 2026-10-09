@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 3: Lenticular Edition | 386267 | [386267-resident-evil-3-lenticular-edition.json](./386267-resident-evil-3-lenticular-edition.json) |
 | Resident Evil 3: Nemesis | 396730 | [396730-resident-evil-3-nemesis.json](./396730-resident-evil-3-nemesis.json) |
 | Resident Evil 3: Nemesis - Seamless HD Project | 322046 | [322046-resident-evil-3-nemesis-seamless-hd-project.json](./322046-resident-evil-3-nemesis-seamless-hd-project.json) |
+| Resident Evil 4: A Nightmare of Evil | 351585 | [351585-resident-evil-4-a-nightmare-of-evil.json](./351585-resident-evil-4-a-nightmare-of-evil.json) |
 | Resident Evil 4: Berserker | 356696 | [356696-resident-evil-4-berserker.json](./356696-resident-evil-4-berserker.json) |
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Extra DLC Pack | 266401 | [266401-resident-evil-4-extra-dlc-pack.json](./266401-resident-evil-4-extra-dlc-pack.json) |
@@ -3469,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Manager | 96321 | [96321-restaurant-manager.json](./96321-restaurant-manager.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
 | Restaurant Renovation | 118248 | [118248-restaurant-renovation.json](./118248-restaurant-renovation.json) |
+| Restaurant Rush | 351560 | [351560-restaurant-rush.json](./351560-restaurant-rush.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Simulator 2023 | 252272 | [252272-restaurant-simulator-2023.json](./252272-restaurant-simulator-2023.json) |
 | Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
@@ -4785,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
 | Rise to Glory | 92469 | [92469-rise-to-glory.json](./92469-rise-to-glory.json) |
+| Rise to Mayhem | 351579 | [351579-rise-to-mayhem.json](./351579-rise-to-mayhem.json) |
 | Rise to Ruins | 36220 | [36220-rise-to-ruins.json](./36220-rise-to-ruins.json) |
 | Rise to Surface | 243092 | [243092-rise-to-surface.json](./243092-rise-to-surface.json) |
 | Rise Up | 95131 | [95131-rise-up.json](./95131-rise-up.json) |
@@ -5244,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
 | Robo Miner: Remastered | 361066 | [361066-robo-miner-remastered.json](./361066-robo-miner-remastered.json) |
 | Robo Oh | 158159 | [158159-robo-oh.json](./158159-robo-oh.json) |
+| Robo Oh vs. Uchu Mega Fight | 351570 | [351570-robo-oh-vs-uchu-mega-fight.json](./351570-robo-oh-vs-uchu-mega-fight.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Pit | 20249 | [20249-robo-pit.json](./20249-robo-pit.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
@@ -6511,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
 | Room 404 | 374404 | [374404-room-404.json](./374404-room-404.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
+| Room 502 | 351567 | [351567-room-502.json](./351567-room-502.json) |
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
@@ -6979,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Workshop Max 2 | 262444 | [262444-rpg-workshop-max-2.json](./262444-rpg-workshop-max-2.json) |
 | RPG World - Action RPG Maker | 131334 | [131334-rpg-world-action-rpg-maker.json](./131334-rpg-world-action-rpg-maker.json) |
 | RPG World Online | 93526 | [93526-rpg-world-online.json](./93526-rpg-world-online.json) |
+| RPG: The Legends of Power Volume 1 | 351590 | [351590-rpg-the-legends-of-power-volume-1.json](./351590-rpg-the-legends-of-power-volume-1.json) |
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
