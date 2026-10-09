@@ -5797,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus II | 36229 | [36229-platypus-ii.json](./36229-platypus-ii.json) |
 | Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Plausible Deniability: Cover Your Tracks | 410258 | [410258-plausible-deniability-cover-your-tracks.json](./410258-plausible-deniability-cover-your-tracks.json) |
+| Play & Learn Kids' Mini-Game Collection | 345995 | [345995-play-and-learn-kids-mini-game-collection.json](./345995-play-and-learn-kids-mini-game-collection.json) |
 | Play & Learn My First Katakana | 420696 | [420696-play-and-learn-my-first-katakana.json](./420696-play-and-learn-my-first-katakana.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
