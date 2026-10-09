@@ -3565,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Inn | 170343 | [170343-eternity-inn.json](./170343-eternity-inn.json) |
 | Eternity Lost: Mystery of Aurum - Collector's Edition | 416770 | [416770-eternity-lost-mystery-of-aurum-collectors-edition.json](./416770-eternity-lost-mystery-of-aurum-collectors-edition.json) |
 | Eternity Warriors | 38502 | [38502-eternity-warriors.json](./38502-eternity-warriors.json) |
+| ﻿Eternity Warriors 4 | 348747 | [348747-eternity-warriors-4.json](./348747-eternity-warriors-4.json) |
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Officer | 259596 | [259596-evil-officer.json](./259596-evil-officer.json) |
+| Evil Origin | 348814 | [348814-evil-origin.json](./348814-evil-origin.json) |
 | Evil Park | 54888 | [54888-evil-park.json](./54888-evil-park.json) |
 | Evil Plays Dice | 381370 | [381370-evil-plays-dice.json](./381370-evil-plays-dice.json) |
 | Evil Pumpkin: The Lost Halloween | 17387 | [17387-evil-pumpkin-the-lost-halloween.json](./17387-evil-pumpkin-the-lost-halloween.json) |
