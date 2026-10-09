@@ -3671,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Armclaw Experiment | 99166 | [99166-the-armclaw-experiment.json](./99166-the-armclaw-experiment.json) |
+| The Armed Shadow | 339220 | [339220-the-armed-shadow.json](./339220-the-armed-shadow.json) |
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
 | The Arrogance of Man | 394447 | [394447-the-arrogance-of-man.json](./394447-the-arrogance-of-man.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms VR | 200518 | [200518-the-backrooms-vr.json](./200518-the-backrooms-vr.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
+| The Backrooms: Anomaly Containment Unit | 339219 | [339219-the-backrooms-anomaly-containment-unit.json](./339219-the-backrooms-anomaly-containment-unit.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
@@ -3961,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
 | The Beverly Hillbillies | 74018 | [74018-the-beverly-hillbillies.json](./74018-the-beverly-hillbillies.json) |
+| The Beyond | 339218 | [339218-the-beyond.json](./339218-the-beyond.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
 | The BFG Game | 58282 | [58282-the-bfg-game.json](./58282-the-bfg-game.json) |
@@ -3970,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
 | The Big 6 | 65241 | [65241-the-big-6.json](./65241-the-big-6.json) |
+| The Big Adventure | 339216 | [339216-the-big-adventure.json](./339216-the-big-adventure.json) |
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
 | The Big Catch | 217819 | [217819-the-big-catch.json](./217819-the-big-catch.json) |
@@ -13854,6 +13858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
 | Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
+| Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
 | Timberborn | 126381 | [126381-timberborn.json](./126381-timberborn.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
