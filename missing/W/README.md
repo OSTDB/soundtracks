@@ -2968,6 +2968,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Beast | 358263 | [358263-whos-beast.json](./358263-whos-beast.json) |
+| Who's Dunnit? A | 354369 | [354369-whos-dunnit-a.json](./354369-whos-dunnit-a.json) |
+| Who's Dunnit? B | 354370 | [354370-whos-dunnit-b.json](./354370-whos-dunnit-b.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
 | Who's Lila? | 159536 | [159536-whos-lila.json](./159536-whos-lila.json) |
