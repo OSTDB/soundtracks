@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
 | Hexa Buzzle | 105845 | [105845-hexa-buzzle.json](./105845-hexa-buzzle.json) |
 | Hexa Castle | 389535 | [389535-hexa-castle.json](./389535-hexa-castle.json) |
+| Hexa Chippy | 376266 | [376266-hexa-chippy.json](./376266-hexa-chippy.json) |
 | Hexa Faction | 57044 | [57044-hexa-faction.json](./57044-hexa-faction.json) |
 | Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Fusion 2048 | 364558 | [364558-hexa-fusion-2048.json](./364558-hexa-fusion-2048.json) |
@@ -6891,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humble Abode | 43185 | [43185-humble-abode.json](./43185-humble-abode.json) |
+| Humble Haunted House | 376267 | [376267-humble-haunted-house.json](./376267-humble-haunted-house.json) |
 | Humble Pie | 96873 | [96873-humble-pie.json](./96873-humble-pie.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
@@ -7270,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hyousei Buyuuroku: Record of Ice Fairy War | 406953 | [406953-hyousei-buyuuroku-record-of-ice-fairy-war.json](./406953-hyousei-buyuuroku-record-of-ice-fairy-war.json) |
+| Hyoutenka 30-do no Zetsubou | 376273 | [376273-hyoutenka-30-do-no-zetsubou.json](./376273-hyoutenka-30-do-no-zetsubou.json) |
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
