@@ -8328,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fydo's Magic Tiles | 215179 | [215179-fydos-magic-tiles.json](./215179-fydos-magic-tiles.json) |
 | Fylgja | 92098 | [92098-fylgja.json](./92098-fylgja.json) |
+| Fynn's Passage | 363300 | [363300-fynns-passage.json](./363300-fynns-passage.json) |
 | FYR: The Lost Island | 372613 | [372613-fyr-the-lost-island.json](./372613-fyr-the-lost-island.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
 | Fyz and Now in Olympic Games of Tartarus | 181694 | [181694-fyz-and-now-in-olympic-games-of-tartarus.json](./181694-fyz-and-now-in-olympic-games-of-tartarus.json) |
