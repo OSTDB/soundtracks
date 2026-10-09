@@ -7857,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
 | The Lion's Song: Episode 4 - Closure | 168344 | [168344-the-lions-song-episode-4-closure.json](./168344-the-lions-song-episode-4-closure.json) |
 | The Lions Knight | 242556 | [242556-the-lions-knight.json](./242556-the-lions-knight.json) |
+| The Liquid Jet | 347192 | [347192-the-liquid-jet.json](./347192-the-liquid-jet.json) |
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
 | The List | 154092 | [154092-the-list.json](./154092-the-list.json) |
 | The Lists VR | 373173 | [373173-the-lists-vr.json](./373173-the-lists-vr.json) |
@@ -10572,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
 | The Tavern | 36596 | [36596-the-tavern.json](./36596-the-tavern.json) |
+| The Tavern In the Woods | 347191 | [347191-the-tavern-in-the-woods.json](./347191-the-tavern-in-the-woods.json) |
 | The Tavern of Magic | 86413 | [86413-the-tavern-of-magic.json](./86413-the-tavern-of-magic.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tawashi | 128416 | [128416-the-tawashi.json](./128416-the-tawashi.json) |
@@ -11932,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There was something here | 183873 | [183873-there-was-something-here.json](./183873-there-was-something-here.json) |
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There Was the Moon | 135628 | [135628-there-was-the-moon.json](./135628-there-was-the-moon.json) |
+| There Will Be Light | 347186 | [347186-there-will-be-light.json](./347186-there-will-be-light.json) |
 | There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
@@ -16048,6 +16051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
+| Touhou Dream Duel | 347095 | [347095-touhou-dream-duel.json](./347095-touhou-dream-duel.json) |
 | Touhou Drunken Rebellion | 372678 | [372678-touhou-drunken-rebellion.json](./372678-touhou-drunken-rebellion.json) |
 | Touhou Dungeon Maker: The Labyrinth of Heart | 263106 | [263106-touhou-dungeon-maker-the-labyrinth-of-heart.json](./263106-touhou-dungeon-maker-the-labyrinth-of-heart.json) |
 | Touhou Dystopian | 374218 | [374218-touhou-dystopian.json](./374218-touhou-dystopian.json) |
@@ -18821,6 +18825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
 | Trolling Bowling | 331320 | [331320-trolling-bowling.json](./331320-trolling-bowling.json) |
 | TrollLab | 268015 | [268015-trolllab.json](./268015-trolllab.json) |
+| Trollmother | 347098 | [347098-trollmother.json](./347098-trollmother.json) |
 | Trolls | 12801 | [12801-trolls.json](./12801-trolls.json) |
 | Trolls and Tribulations | 25942 | [25942-trolls-and-tribulations.json](./25942-trolls-and-tribulations.json) |
 | Trolls and Tribulations: Omega | 178554 | [178554-trolls-and-tribulations-omega.json](./178554-trolls-and-tribulations-omega.json) |
