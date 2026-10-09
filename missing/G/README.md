@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
+| GONE: Game of Necromancy Education | 364989 | [364989-gone-game-of-necromancy-education.json](./364989-gone-game-of-necromancy-education.json) |
 | Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
