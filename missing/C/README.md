@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairn: Deluxe Edition | 401736 | [401736-cairn-deluxe-edition.json](./401736-cairn-deluxe-edition.json) |
 | Cairn: Mathair's Curse | 163941 | [163941-cairn-mathairs-curse.json](./163941-cairn-mathairs-curse.json) |
 | Cairn: On the Trail | 397806 | [397806-cairn-on-the-trail.json](./397806-cairn-on-the-trail.json) |
+| Cairns | 374398 | [374398-cairns.json](./374398-cairns.json) |
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
+| Calm Before the Storm | 374437 | [374437-calm-before-the-storm.json](./374437-calm-before-the-storm.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Cards: Klondike | 88356 | [88356-calm-cards-klondike.json](./88356-calm-cards-klondike.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
@@ -1749,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Closed | 348436 | [348436-case-closed.json](./348436-case-closed.json) |
 | Case Closed | 95435 | [95435-case-closed.json](./95435-case-closed.json) |
 | Case Files: Behind Closed Doors | 273651 | [273651-case-files-behind-closed-doors.json](./273651-case-files-behind-closed-doors.json) |
+| Case Files: Internal Affairs | 374408 | [374408-case-files-internal-affairs.json](./374408-case-files-internal-affairs.json) |
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
 | Case Guardians | 277963 | [277963-case-guardians.json](./277963-case-guardians.json) |
 | Case Hunter | 320287 | [320287-case-hunter.json](./320287-case-hunter.json) |
@@ -2601,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
+| Cats With Standards | 374409 | [374409-cats-with-standards.json](./374409-cats-with-standards.json) |
 | Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
@@ -3076,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
+| Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
 | Chain Solitaire Royale | 89469 | [89469-chain-solitaire-royale.json](./89469-chain-solitaire-royale.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
@@ -3478,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
+| Charoite Into the Deep | 374429 | [374429-charoite-into-the-deep.json](./374429-charoite-into-the-deep.json) |
 | Charon: Zhetan Chronicles | 253441 | [253441-charon-zhetan-chronicles.json](./253441-charon-zhetan-chronicles.json) |
 | Charon's Crossing | 264692 | [264692-charons-crossing.json](./264692-charons-crossing.json) |
 | Charon's Obol | 363052 | [363052-charons-obol.json](./363052-charons-obol.json) |
