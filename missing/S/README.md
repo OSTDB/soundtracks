@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
 | Scary Cabin | 68903 | [68903-scary-cabin.json](./68903-scary-cabin.json) |
+| Scary Cargo | 371052 | [371052-scary-cargo.json](./371052-scary-cargo.json) |
 | Scary Cave | 421331 | [421331-scary-cave.json](./421331-scary-cave.json) |
 | Scary Cave Diving | 410301 | [410301-scary-cave-diving.json](./410301-scary-cave-diving.json) |
 | Scary Clown Death of Park | 235165 | [235165-scary-clown-death-of-park.json](./235165-scary-clown-death-of-park.json) |
@@ -2203,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
 | Screen Cat | 328023 | [328023-screen-cat.json](./328023-screen-cat.json) |
 | Screen King | 259181 | [259181-screen-king.json](./259181-screen-king.json) |
+| Screen TRPG | 371119 | [371119-screen-trpg.json](./371119-screen-trpg.json) |
 | Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Screenbound | 293733 | [293733-screenbound.json](./293733-screenbound.json) |
@@ -2839,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
 | Security Guard | 167565 | [167565-security-guard.json](./167565-security-guard.json) |
 | Security Guard Sex: Episode 3 | 312000 | [312000-security-guard-sex-episode-3.json](./312000-security-guard-sex-episode-3.json) |
+| Security Guard Sex: Episode 6 | 371064 | [371064-security-guard-sex-episode-6.json](./371064-security-guard-sex-episode-6.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
@@ -3712,10 +3715,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game - Threesome - Episode 5 | 382385 | [382385-sex-game-threesome-episode-5.json](./382385-sex-game-threesome-episode-5.json) |
 | Sex Game - Threesome - Episode 6 | 382392 | [382392-sex-game-threesome-episode-6.json](./382392-sex-game-threesome-episode-6.json) |
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
+| Sex Game: Naughty Couple - Episode 1 | 371053 | [371053-sex-game-naughty-couple-episode-1.json](./371053-sex-game-naughty-couple-episode-1.json) |
+| Sex Game: Naughty Couple - Episode 2 | 371055 | [371055-sex-game-naughty-couple-episode-2.json](./371055-sex-game-naughty-couple-episode-2.json) |
+| Sex Game: Naughty Couple - Episode 4 | 371058 | [371058-sex-game-naughty-couple-episode-4.json](./371058-sex-game-naughty-couple-episode-4.json) |
 | Sex Game: Naughty Couple - Episode 5 | 375267 | [375267-sex-game-naughty-couple-episode-5.json](./375267-sex-game-naughty-couple-episode-5.json) |
 | Sex Game: Naughty Couple - Episode 6 | 375272 | [375272-sex-game-naughty-couple-episode-6.json](./375272-sex-game-naughty-couple-episode-6.json) |
+| Sex Game: Naughty Girls - Episode 1 | 371054 | [371054-sex-game-naughty-girls-episode-1.json](./371054-sex-game-naughty-girls-episode-1.json) |
+| Sex Game: Naughty Girls - Episode 2 | 371059 | [371059-sex-game-naughty-girls-episode-2.json](./371059-sex-game-naughty-girls-episode-2.json) |
+| Sex Game: Naughty Girls - Episode 3 | 371057 | [371057-sex-game-naughty-girls-episode-3.json](./371057-sex-game-naughty-girls-episode-3.json) |
 | Sex Game: Naughty Girls - Episode 5 | 375270 | [375270-sex-game-naughty-girls-episode-5.json](./375270-sex-game-naughty-girls-episode-5.json) |
 | Sex Game: Naughty Girls - Episode 6 | 375271 | [375271-sex-game-naughty-girls-episode-6.json](./375271-sex-game-naughty-girls-episode-6.json) |
+| Sex Game: Threesome - Episode 1 | 371056 | [371056-sex-game-threesome-episode-1.json](./371056-sex-game-threesome-episode-1.json) |
 | Sex Game: Threesome - Episode 4 | 375268 | [375268-sex-game-threesome-episode-4.json](./375268-sex-game-threesome-episode-4.json) |
 | Sex Girlfriend Simulator | 189977 | [189977-sex-girlfriend-simulator.json](./189977-sex-girlfriend-simulator.json) |
 | Sex Goddess Punishment | 295371 | [295371-sex-goddess-punishment.json](./295371-sex-goddess-punishment.json) |
@@ -4629,7 +4639,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
-| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -7510,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky War | 272802 | [272802-sky-war.json](./272802-sky-war.json) |
 | Sky Warrior | 69506 | [69506-sky-warrior.json](./69506-sky-warrior.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
+| Sky Wings | 371037 | [371037-sky-wings.json](./371037-sky-wings.json) |
 | Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
 | Sky: Children of the Light - Season of Gratitude | 388290 | [388290-sky-children-of-the-light-season-of-gratitude.json](./388290-sky-children-of-the-light-season-of-gratitude.json) |
 | Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
@@ -7762,6 +7772,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Pageant | 122262 | [122262-slave-pageant.json](./122262-slave-pageant.json) |
+| Slave Princess Finne: If Story 1 | 371048 | [371048-slave-princess-finne-if-story-1.json](./371048-slave-princess-finne-if-story-1.json) |
+| Slave Princess Finne: If Story 2 | 371050 | [371050-slave-princess-finne-if-story-2.json](./371050-slave-princess-finne-if-story-2.json) |
+| Slave Princess Finne: If Story 3 | 371051 | [371051-slave-princess-finne-if-story-3.json](./371051-slave-princess-finne-if-story-3.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
 | Slave Zero | 8341 | [8341-slave-zero.json](./8341-slave-zero.json) |
@@ -16611,6 +16624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamWare | 278631 | [278631-streamware.json](./278631-streamware.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
+| Street 42 | 371133 | [371133-street-42.json](./371133-street-42.json) |
 | Street Air Hockey | 175185 | [175185-street-air-hockey.json](./175185-street-air-hockey.json) |
 | Street Artist Simulator | 211270 | [211270-street-artist-simulator.json](./211270-street-artist-simulator.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
@@ -17168,6 +17182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Styrlitz 3: Agent USSR | 281656 | [281656-styrlitz-3-agent-ussr.json](./281656-styrlitz-3-agent-ussr.json) |
 | Styrlitz 4: The Matrix - A Step to Death | 281658 | [281658-styrlitz-4-the-matrix-a-step-to-death.json](./281658-styrlitz-4-the-matrix-a-step-to-death.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
+| Styx: Final Shores | 371136 | [371136-styx-final-shores.json](./371136-styx-final-shores.json) |
 | Styx: Master of Shadows | 6072 | [6072-styx-master-of-shadows.json](./6072-styx-master-of-shadows.json) |
 | Styx: Shards of Darkness | 13554 | [13554-styx-shards-of-darkness.json](./13554-styx-shards-of-darkness.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
