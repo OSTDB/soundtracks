@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
 | Defend the Village From Goblins | 153534 | [153534-defend-the-village-from-goblins.json](./153534-defend-the-village-from-goblins.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
+| Defend Your Castle | 383124 | [383124-defend-your-castle.json](./383124-defend-your-castle.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Honor | 402989 | [402989-defend-your-honor.json](./402989-defend-your-honor.json) |
 | Defend Your Kingdom | 41972 | [41972-defend-your-kingdom.json](./41972-defend-your-kingdom.json) |
@@ -9377,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Pop Star | 47906 | [47906-dreamer-series-pop-star.json](./47906-dreamer-series-pop-star.json) |
 | Dreamer Series: Puppy Trainer | 70597 | [70597-dreamer-series-puppy-trainer.json](./70597-dreamer-series-puppy-trainer.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
+| Dreamer's Canal | 383143 | [383143-dreamers-canal.json](./383143-dreamers-canal.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamers: A Nostalgic Adventure | 274441 | [274441-dreamers-a-nostalgic-adventure.json](./274441-dreamers-a-nostalgic-adventure.json) |
