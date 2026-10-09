@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
+| School Bathroom | 346559 | [346559-school-bathroom.json](./346559-school-bathroom.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
 | School Bus Driver Simulator | 199355 | [199355-school-bus-driver-simulator.json](./199355-school-bus-driver-simulator.json) |
 | School Bus Driving Simulator | 259031 | [259031-school-bus-driving-simulator.json](./259031-school-bus-driving-simulator.json) |
@@ -5372,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmoblins | 386919 | [386919-shmoblins.json](./386919-shmoblins.json) |
+| Shmooblin Blaster | 346557 | [346557-shmooblin-blaster.json](./346557-shmooblin-blaster.json) |
 | Shmoup | 283533 | [283533-shmoup.json](./283533-shmoup.json) |
 | Shmoupity Shmoup | 316493 | [316493-shmoupity-shmoup.json](./316493-shmoupity-shmoup.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
@@ -17118,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife | 5570 | [5570-strife.json](./5570-strife.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
+| Strike & Resist | 346635 | [346635-strike-and-resist.json](./346635-strike-and-resist.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
 | Strike Ball 2 Deluxe | 72152 | [72152-strike-ball-2-deluxe.json](./72152-strike-ball-2-deluxe.json) |
@@ -20711,6 +20714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Survived By | 55218 | [55218-survived-by.json](./55218-survived-by.json) |
+| Survivesmith | 346628 | [346628-survivesmith.json](./346628-survivesmith.json) |
 | Survivia.io | 137536 | [137536-survivia-io.json](./137536-survivia-io.json) |
 | Surviving Ceres | 290533 | [290533-surviving-ceres.json](./290533-surviving-ceres.json) |
 | Surviving Deponia | 252793 | [252793-surviving-deponia.json](./252793-surviving-deponia.json) |
@@ -21765,6 +21769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
+| Synthesis of Corruption | 346556 | [346556-synthesis-of-corruption.json](./346556-synthesis-of-corruption.json) |
 | Synthesis: Mind, Body and Soul | 129632 | [129632-synthesis-mind-body-and-soul.json](./129632-synthesis-mind-body-and-soul.json) |
 | Synthetic | 302048 | [302048-synthetic.json](./302048-synthetic.json) |
 | Synthetic Blood: Mind Shift | 129678 | [129678-synthetic-blood-mind-shift.json](./129678-synthetic-blood-mind-shift.json) |
