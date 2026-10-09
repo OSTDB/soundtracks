@@ -2517,6 +2517,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2013? | 384074 | [384074-where-is-2013.json](./384074-where-is-2013.json) |
 | Where is 2014? | 384077 | [384077-where-is-2014.json](./384077-where-is-2014.json) |
 | Where is 2016? | 384116 | [384116-where-is-2016.json](./384116-where-is-2016.json) |
+| Where is 2017? | 384256 | [384256-where-is-2017.json](./384256-where-is-2017.json) |
+| Where is 2019? | 384257 | [384257-where-is-2019.json](./384257-where-is-2019.json) |
 | Where is 2020? | 384731 | [384731-where-is-2020.json](./384731-where-is-2020.json) |
 | Where is 2021? | 384736 | [384736-where-is-2021.json](./384736-where-is-2021.json) |
 | Where is 2022? | 384740 | [384740-where-is-2022.json](./384740-where-is-2022.json) |
@@ -3115,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Hunting | 267432 | [267432-wild-hunting.json](./267432-wild-hunting.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
+| Wild Island | 384272 | [384272-wild-island.json](./384272-wild-island.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
@@ -3640,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
 | Winter Polaris | 127007 | [127007-winter-polaris.json](./127007-winter-polaris.json) |
+| Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
