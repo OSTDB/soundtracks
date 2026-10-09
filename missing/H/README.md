@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard Work | 133262 | [133262-hard-work.json](./133262-hard-work.json) |
+| Hard Work | 343766 | [343766-hard-work.json](./343766-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | Hard, Fast, & Flashy | 128963 | [128963-hard-fast-and-flashy.json](./128963-hard-fast-and-flashy.json) |
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
+| Hentai Miko | 343754 | [343754-hentai-miko.json](./343754-hentai-miko.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
@@ -6990,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humble Haunted House | 376267 | [376267-humble-haunted-house.json](./376267-humble-haunted-house.json) |
 | Humble Pie | 96873 | [96873-humble-pie.json](./96873-humble-pie.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
+| Humble Zombie | 343765 | [343765-humble-zombie.json](./343765-humble-zombie.json) |
 | Humblets | 349461 | [349461-humblets.json](./349461-humblets.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
