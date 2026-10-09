@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne's World | 198954 | [198954-waynes-world.json](./198954-waynes-world.json) |
 | Wayne's World | 7646 | [7646-waynes-world.json](./7646-waynes-world.json) |
 | WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
+| WayPoint | 335228 | [335228-waypoint.json](./335228-waypoint.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Ways of Alchemy | 333069 | [333069-ways-of-alchemy.json](./333069-ways-of-alchemy.json) |
 | Ways Unknown | 408278 | [408278-ways-unknown.json](./408278-ways-unknown.json) |
