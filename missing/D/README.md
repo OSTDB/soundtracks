@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
+| Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
 | Dicey Chess | 320304 | [320304-dicey-chess.json](./320304-dicey-chess.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
@@ -10212,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
 | Drylands | 256440 | [256440-drylands.json](./256440-drylands.json) |
 | Drymir Cave under Richmordnom | 108032 | [108032-drymir-cave-under-richmordnom.json](./108032-drymir-cave-under-richmordnom.json) |
+| Drymouth | 340339 | [340339-drymouth.json](./340339-drymouth.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
 | DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
