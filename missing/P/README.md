@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | PancitoMerge | 347847 | [347847-pancitomerge.json](./347847-pancitomerge.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
+| Panda | 373877 | [373877-panda.json](./373877-panda.json) |
 | Panda & Crow: A Paraglide Adventure | 267438 | [267438-panda-and-crow-a-paraglide-adventure.json](./267438-panda-and-crow-a-paraglide-adventure.json) |
 | Panda Adventures | 48571 | [48571-panda-adventures.json](./48571-panda-adventures.json) |
 | Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
@@ -2857,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Crossing | 310034 | [310034-pet-crossing.json](./310034-pet-crossing.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dentist Office | 87539 | [87539-pet-dentist-office.json](./87539-pet-dentist-office.json) |
+| Pet Desktop Adventure | 373868 | [373868-pet-desktop-adventure.json](./373868-pet-desktop-adventure.json) |
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Dragon Girl | 230892 | [230892-pet-dragon-girl.json](./230892-pet-dragon-girl.json) |
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
@@ -8918,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton vs. Phoenix Wright: Ace Attorney | 1402 | [1402-professor-layton-vs-phoenix-wright-ace-attorney.json](./1402-professor-layton-vs-phoenix-wright-ace-attorney.json) |
 | Professor Li's Answer-Question | 105084 | [105084-professor-lis-answer-question.json](./105084-professor-lis-answer-question.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
+| Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
 | Professor Watts Memory Match: Fresh Fruit | 106634 | [106634-professor-watts-memory-match-fresh-fruit.json](./106634-professor-watts-memory-match-fresh-fruit.json) |
 | Professor Watts Memory Match: Yummy Cupcakes | 106643 | [106643-professor-watts-memory-match-yummy-cupcakes.json](./106643-professor-watts-memory-match-yummy-cupcakes.json) |
