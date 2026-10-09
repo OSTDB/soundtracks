@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
+| Ramune's Square Dungeon | 367284 | [367284-ramunes-square-dungeon.json](./367284-ramunes-square-dungeon.json) |
 | Rana Card | 345059 | [345059-rana-card.json](./345059-rana-card.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
+| Rattenwalzer: Pesnya o bor'be i zhizni chelovecheskoy | 367304 | [367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json](./367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json) |
 | Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Rattus | 130115 | [130115-rattus.json](./130115-rattus.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role of Hex | 144876 | [144876-role-of-hex.json](./144876-role-of-hex.json) |
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
+| Roles & Dice | 367307 | [367307-roles-and-dice.json](./367307-roles-and-dice.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
 | Rolie Polie Olie POP! | 18223 | [18223-rolie-polie-olie-pop.json](./18223-rolie-polie-olie-pop.json) |
