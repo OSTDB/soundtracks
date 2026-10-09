@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
 | Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
+| Opus Torrentia | 386468 | [386468-opus-torrentia.json](./386468-opus-torrentia.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
