@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Out | 156017 | [156017-let-me-out.json](./156017-let-me-out.json) |
 | Let Me Out | 215644 | [215644-let-me-out.json](./215644-let-me-out.json) |
 | Let Me Out | 220605 | [220605-let-me-out.json](./220605-let-me-out.json) |
+| Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limbus Stable | 352213 | [352213-limbus-stable.json](./352213-limbus-stable.json) |
 | Lime Ergot | 138142 | [138142-lime-ergot.json](./138142-lime-ergot.json) |
 | Lime Juice | 323719 | [323719-lime-juice.json](./323719-lime-juice.json) |
+| Lime Stenched Dirt | 375555 | [375555-lime-stenched-dirt.json](./375555-lime-stenched-dirt.json) |
 | Lime Volleyball | 307590 | [307590-lime-volleyball.json](./307590-lime-volleyball.json) |
 | Limelight | 303633 | [303633-limelight.json](./303633-limelight.json) |
 | LimeLight Lemonade Jam | 371255 | [371255-limelight-lemonade-jam.json](./371255-limelight-lemonade-jam.json) |
@@ -3659,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
 | Little Rooms | 341173 | [341173-little-rooms.json](./341173-little-rooms.json) |
 | Little Runmo | 275803 | [275803-little-runmo.json](./275803-little-runmo.json) |
+| Little Samson | 375604 | [375604-little-samson.json](./375604-little-samson.json) |
 | Little Scavenger | 267451 | [267451-little-scavenger.json](./267451-little-scavenger.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
 | Little Secret | 395129 | [395129-little-secret.json](./395129-little-secret.json) |
@@ -4132,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic: Electrons Connect | 153491 | [153491-logic-electrons-connect.json](./153491-logic-electrons-connect.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
+| Logical | 375548 | [375548-logical.json](./375548-logical.json) |
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
@@ -4799,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
+| Lost in Random: The Eternal Die - Cursed Couture | 375591 | [375591-lost-in-random-the-eternal-die-cursed-couture.json](./375591-lost-in-random-the-eternal-die-cursed-couture.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
