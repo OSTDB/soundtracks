@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
+| Battle Drive | 369444 | [369444-battle-drive.json](./369444-battle-drive.json) |
 | Battle Droid T1 | 119500 | [119500-battle-droid-t1.json](./119500-battle-droid-t1.json) |
 | Battle Drones: Red Rock Resistance | 226237 | [226237-battle-drones-red-rock-resistance.json](./226237-battle-drones-red-rock-resistance.json) |
 | Battle Ducks | 38979 | [38979-battle-ducks.json](./38979-battle-ducks.json) |
@@ -3469,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beethoven: The Ultimate Canine Caper! | 19684 | [19684-beethoven-the-ultimate-canine-caper.json](./19684-beethoven-the-ultimate-canine-caper.json) |
 | Beethoven: The Ultimate Canine Caper! | 259654 | [259654-beethoven-the-ultimate-canine-caper.json](./259654-beethoven-the-ultimate-canine-caper.json) |
 | Beethoven's 2nd: The Quest for Pups | 259653 | [259653-beethovens-2nd-the-quest-for-pups.json](./259653-beethovens-2nd-the-quest-for-pups.json) |
+| Beetle Barrage | 369466 | [369466-beetle-barrage.json](./369466-beetle-barrage.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
@@ -5921,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
 | Blightlands Blacksmith | 238640 | [238640-blightlands-blacksmith.json](./238640-blightlands-blacksmith.json) |
+| Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
