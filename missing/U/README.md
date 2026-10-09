@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Domain | 139190 | [139190-under-domain.json](./139190-under-domain.json) |
 | Under Fire | 46876 | [46876-under-fire.json](./46876-under-fire.json) |
 | Under Fire! | 25971 | [25971-under-fire.json](./25971-under-fire.json) |
+| Under Heaven or Hell | 375586 | [375586-under-heaven-or-hell.json](./375586-under-heaven-or-hell.json) |
 | Under His Eyes | 378428 | [378428-under-his-eyes.json](./378428-under-his-eyes.json) |
 | Under Kingdom: Scam Centre Simulator | 346251 | [346251-under-kingdom-scam-centre-simulator.json](./346251-under-kingdom-scam-centre-simulator.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Rhythm Puzzle Game | 143011 | [143011-untitled-rhythm-puzzle-game.json](./143011-untitled-rhythm-puzzle-game.json) |
 | Untitled RPG from WolfEye Studios | 313175 | [313175-untitled-rpg-from-wolfeye-studios.json](./313175-untitled-rpg-from-wolfeye-studios.json) |
 | Untitled Runeterra MMO | 225568 | [225568-untitled-runeterra-mmo.json](./225568-untitled-runeterra-mmo.json) |
+| Untitled Shantae Game | 375612 | [375612-untitled-shantae-game.json](./375612-untitled-shantae-game.json) |
 | Untitled Sonic Fangame | 369196 | [369196-untitled-sonic-fangame.json](./369196-untitled-sonic-fangame.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled Survival Game | 193193 | [193193-untitled-survival-game.json](./193193-untitled-survival-game.json) |
