@@ -4882,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
 | Eyes in the Dark | 198298 | [198298-eyes-in-the-dark.json](./198298-eyes-in-the-dark.json) |
+| Eyes Never Wake | 336500 | [336500-eyes-never-wake.json](./336500-eyes-never-wake.json) |
 | Eyes of Darkness | 201583 | [201583-eyes-of-darkness.json](./201583-eyes-of-darkness.json) |
 | Eyes of Hellfire | 333788 | [333788-eyes-of-hellfire.json](./333788-eyes-of-hellfire.json) |
 | Eyes of Souls | 177948 | [177948-eyes-of-souls.json](./177948-eyes-of-souls.json) |
