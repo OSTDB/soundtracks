@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji de Go Go! | 408220 | [408220-kanji-de-go-go.json](./408220-kanji-de-go-go.json) |
 | Kanji de Go! | 323962 | [323962-kanji-de-go.json](./323962-kanji-de-go.json) |
 | Kanji de Go! Shueisha Manga-sai | 329228 | [329228-kanji-de-go-shueisha-manga-sai.json](./329228-kanji-de-go-shueisha-manga-sai.json) |
+| Kanji in Motion | 368288 | [368288-kanji-in-motion.json](./368288-kanji-in-motion.json) |
 | Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
