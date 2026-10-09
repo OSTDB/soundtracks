@@ -2979,6 +2979,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Ishin! - Sword Upgrade Materials Kit | 239214 | [239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json](./239214-like-a-dragon-ishin-sword-upgrade-materials-kit.json) |
 | Like a Dragon: Ishin! - Third Division Armament Expansion Kit | 239213 | [239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json](./239213-like-a-dragon-ishin-third-division-armament-expansion-kit.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Extra Karaoke & CD Pack | 374435 | [374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json](./374435-like-a-dragon-pirate-yakuza-in-hawaii-extra-karaoke-and-cd-pack.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Legendary Outfit Pack | 374430 | [374430-like-a-dragon-pirate-yakuza-in-hawaii-legendary-outfit-pack.json](./374430-like-a-dragon-pirate-yakuza-in-hawaii-legendary-outfit-pack.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Legendary Pirate Crew Pack | 374428 | [374428-like-a-dragon-pirate-yakuza-in-hawaii-legendary-pirate-crew-pack.json](./374428-like-a-dragon-pirate-yakuza-in-hawaii-legendary-pirate-crew-pack.json) |
+| Like a Dragon: Pirate Yakuza in Hawaii - Ship Customization Pack | 374432 | [374432-like-a-dragon-pirate-yakuza-in-hawaii-ship-customization-pack.json](./374432-like-a-dragon-pirate-yakuza-in-hawaii-ship-customization-pack.json) |
 | Like a Fashionista | 39190 | [39190-like-a-fashionista.json](./39190-like-a-fashionista.json) |
 | Like a Hot Knife Through Butter | 223127 | [223127-like-a-hot-knife-through-butter.json](./223127-like-a-hot-knife-through-butter.json) |
 | Like A Normal Fish | 360073 | [360073-like-a-normal-fish.json](./360073-like-a-normal-fish.json) |
@@ -4187,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki | 19358 | [19358-loki.json](./19358-loki.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
+| Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
@@ -4228,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London's Aesop | 177903 | [177903-londons-aesop.json](./177903-londons-aesop.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
+| Lone Bird in the Tree | 374438 | [374438-lone-bird-in-the-tree.json](./374438-lone-bird-in-the-tree.json) |
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
 | Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
