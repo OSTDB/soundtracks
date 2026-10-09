@@ -6797,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
+| Miko-san no Miracle Board | 374956 | [374956-miko-san-no-miracle-board.json](./374956-miko-san-no-miracle-board.json) |
 | Mikone Douchuu | 206037 | [206037-mikone-douchuu.json](./206037-mikone-douchuu.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
@@ -12823,6 +12824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MysteryHouse-fivestones- | 107778 | [107778-mysteryhouse-fivestones.json](./107778-mysteryhouse-fivestones.json) |
 | MysteryOS | 397398 | [397398-mysteryos.json](./397398-mysteryos.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
+| Mysterytale Online | 374974 | [374974-mysterytale-online.json](./374974-mysterytale-online.json) |
 | Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
 | Mystia | 288872 | [288872-mystia.json](./288872-mystia.json) |
