@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
 | P.Craft | 132121 | [132121-p-craft.json](./132121-p-craft.json) |
+| P.H.A.G.E: Rhapsody | 343763 | [343763-p-h-a-g-e-rhapsody.json](./343763-p-h-a-g-e-rhapsody.json) |
 | P.I. | 331463 | [331463-p-i.json](./331463-p-i.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peskit | 346189 | [346189-peskit.json](./346189-peskit.json) |
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
+| Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
@@ -3228,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Pharaoh's Treasure Trap | 396704 | [396704-phantom-pharaohs-treasure-trap.json](./396704-phantom-pharaohs-treasure-trap.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
 | Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
+| Phantom Reckoning | 343836 | [343836-phantom-reckoning.json](./343836-phantom-reckoning.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
@@ -4297,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
 | Pinball Quest | 48026 | [48026-pinball-quest.json](./48026-pinball-quest.json) |
 | Pinball Racer | 287351 | [287351-pinball-racer.json](./287351-pinball-racer.json) |
+| Pinball Rocks HD | 343837 | [343837-pinball-rocks-hd.json](./343837-pinball-rocks-hd.json) |
 | Pinball Science | 216248 | [216248-pinball-science.json](./216248-pinball-science.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
@@ -6045,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumb | 192243 | [192243-plumb.json](./192243-plumb.json) |
 | Plumber | 148446 | [148446-plumber.json](./148446-plumber.json) |
 | Plumber | 246358 | [246358-plumber.json](./246358-plumber.json) |
+| Plumber | 343771 | [343771-plumber.json](./343771-plumber.json) |
 | Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
