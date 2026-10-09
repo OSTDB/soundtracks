@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
 | Earthquake Escape | 193229 | [193229-earthquake-escape.json](./193229-earthquake-escape.json) |
 | Earthquake San Francisco 1906 | 25590 | [25590-earthquake-san-francisco-1906.json](./25590-earthquake-san-francisco-1906.json) |
+| Earthquake: Margarita School | 369380 | [369380-earthquake-margarita-school.json](./369380-earthquake-margarita-school.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
 | Earthshine | 117799 | [117799-earthshine.json](./117799-earthshine.json) |
