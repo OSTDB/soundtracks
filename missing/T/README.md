@@ -6421,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunting of Billy | 33471 | [33471-the-haunting-of-billy.json](./33471-the-haunting-of-billy.json) |
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
+| The Haunting of Ptolemy | 341459 | [341459-the-haunting-of-ptolemy.json](./341459-the-haunting-of-ptolemy.json) |
 | The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
@@ -15222,6 +15223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Endless | 323806 | [323806-tomb-of-the-endless.json](./323806-tomb-of-the-endless.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
+| Tomb of the Overlord | 341529 | [341529-tomb-of-the-overlord.json](./341529-tomb-of-the-overlord.json) |
 | Tomb of the TaskMaker | 66906 | [66906-tomb-of-the-taskmaker.json](./66906-tomb-of-the-taskmaker.json) |
 | Tomb of the Мask | 187314 | [187314-tomb-of-the-ask.json](./187314-tomb-of-the-ask.json) |
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
