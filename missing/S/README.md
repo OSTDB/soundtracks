@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scout: An Apocalypse Story | 177355 | [177355-scout-an-apocalypse-story.json](./177355-scout-an-apocalypse-story.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
+| ScoutmasterX | 363312 | [363312-scoutmasterx.json](./363312-scoutmasterx.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP | 131429 | [131429-scp.json](./131429-scp.json) |
 | SCP | 287738 | [287738-scp.json](./287738-scp.json) |
@@ -6867,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
+| Sinoda | 363324 | [363324-sinoda.json](./363324-sinoda.json) |
 | Sinoepoch | 197135 | [197135-sinoepoch.json](./197135-sinoepoch.json) |
 | Sinoven | 235714 | [235714-sinoven.json](./235714-sinoven.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
@@ -9108,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
+| Snoopy Tennis | 363311 | [363311-snoopy-tennis.json](./363311-snoopy-tennis.json) |
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
 | Snoopy vs. The Red Baron | 2756 | [2756-snoopy-vs-the-red-baron.json](./2756-snoopy-vs-the-red-baron.json) |
 | Snoopy: The Cool Computer Game | 66345 | [66345-snoopy-the-cool-computer-game.json](./66345-snoopy-the-cool-computer-game.json) |
@@ -12920,6 +12923,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man and the X-Men in Arcade's Revenge | 365700 | [365700-spider-man-and-the-x-men-in-arcades-revenge.json](./365700-spider-man-and-the-x-men-in-arcades-revenge.json) |
 | Spider-Man and Venom: Maximum Carnage | 18125 | [18125-spider-man-and-venom-maximum-carnage.json](./18125-spider-man-and-venom-maximum-carnage.json) |
 | Spider-Man vs. Doc Ock | 23542 | [23542-spider-man-vs-doc-ock.json](./23542-spider-man-vs-doc-ock.json) |
+| Spider-Man: 006 - Arsenal Mod: Web Fluid | 363273 | [363273-spider-man-006-arsenal-mod-web-fluid.json](./363273-spider-man-006-arsenal-mod-web-fluid.json) |
+| Spider-Man: 007 - Black Suit Mod: Spider Bite | 363275 | [363275-spider-man-007-black-suit-mod-spider-bite.json](./363275-spider-man-007-black-suit-mod-spider-bite.json) |
+| Spider-Man: 008 - Black Suit Mod: The Tarantula | 363276 | [363276-spider-man-008-black-suit-mod-the-tarantula.json](./363276-spider-man-008-black-suit-mod-the-tarantula.json) |
+| Spider-Man: 009 - Black Suit Mod: Trap Door Spider | 363277 | [363277-spider-man-009-black-suit-mod-trap-door-spider.json](./363277-spider-man-009-black-suit-mod-trap-door-spider.json) |
+| Spider-Man: 010 - Black Suit Mod: Octattack | 363278 | [363278-spider-man-010-black-suit-mod-octattack.json](./363278-spider-man-010-black-suit-mod-octattack.json) |
+| Spider-Man: 011 - Black Suit Mod: The Bowling Ball | 363280 | [363280-spider-man-011-black-suit-mod-the-bowling-ball.json](./363280-spider-man-011-black-suit-mod-the-bowling-ball.json) |
+| Spider-Man: 012 - Black Suit Mod: Jumping Spider | 363281 | [363281-spider-man-012-black-suit-mod-jumping-spider.json](./363281-spider-man-012-black-suit-mod-jumping-spider.json) |
+| Spider-Man: 013 - Black Suit Mod: Goo Hammer | 363282 | [363282-spider-man-013-black-suit-mod-goo-hammer.json](./363282-spider-man-013-black-suit-mod-goo-hammer.json) |
+| Spider-Man: 014 - Black Suit Mod: Disguided | 363283 | [363283-spider-man-014-black-suit-mod-disguided.json](./363283-spider-man-014-black-suit-mod-disguided.json) |
+| Spider-Man: 015 - Black Suit Mod: Bad Habit | 363284 | [363284-spider-man-015-black-suit-mod-bad-habit.json](./363284-spider-man-015-black-suit-mod-bad-habit.json) |
+| Spider-Man: 016 - Black Suit Mod: Up & Away | 363285 | [363285-spider-man-016-black-suit-mod-up-and-away.json](./363285-spider-man-016-black-suit-mod-up-and-away.json) |
+| Spider-Man: 017 - Black Suit Mod: Shaky Ground | 363286 | [363286-spider-man-017-black-suit-mod-shaky-ground.json](./363286-spider-man-017-black-suit-mod-shaky-ground.json) |
+| Spider-Man: 018 - Black Mod Suit: Snap Back | 363288 | [363288-spider-man-018-black-mod-suit-snap-back.json](./363288-spider-man-018-black-mod-suit-snap-back.json) |
+| Spider-Man: 019 - Black Suit Mod: Black Flail | 363289 | [363289-spider-man-019-black-suit-mod-black-flail.json](./363289-spider-man-019-black-suit-mod-black-flail.json) |
+| Spider-Man: 020 - Red Suit Mod: Spider Shield | 363290 | [363290-spider-man-020-red-suit-mod-spider-shield.json](./363290-spider-man-020-red-suit-mod-spider-shield.json) |
+| Spider-Man: 021 - Red Suit Mod: Super Slinger | 363291 | [363291-spider-man-021-red-suit-mod-super-slinger.json](./363291-spider-man-021-red-suit-mod-super-slinger.json) |
+| Spider-Man: 022 - Red Suit Mod: Spidey Sense | 363292 | [363292-spider-man-022-red-suit-mod-spidey-sense.json](./363292-spider-man-022-red-suit-mod-spidey-sense.json) |
+| Spider-Man: 023 - Red Suit Mod: Web O Mondo | 363294 | [363294-spider-man-023-red-suit-mod-web-o-mondo.json](./363294-spider-man-023-red-suit-mod-web-o-mondo.json) |
+| Spider-Man: 024 - Red Suit Mod: Slow Motion | 363295 | [363295-spider-man-024-red-suit-mod-slow-motion.json](./363295-spider-man-024-red-suit-mod-slow-motion.json) |
+| Spider-Man: 025 - Red Suit Mod: Air Evac | 363296 | [363296-spider-man-025-red-suit-mod-air-evac.json](./363296-spider-man-025-red-suit-mod-air-evac.json) |
+| Spider-Man: 026 - Red Suit Mod: Tuffanuff | 363297 | [363297-spider-man-026-red-suit-mod-tuffanuff.json](./363297-spider-man-026-red-suit-mod-tuffanuff.json) |
+| Spider-Man: 027 - Red Suit Mod: Arachnophobia | 363298 | [363298-spider-man-027-red-suit-mod-arachnophobia.json](./363298-spider-man-027-red-suit-mod-arachnophobia.json) |
+| Spider-Man: 028 - Red Suit Mod: Hang 'em High | 363299 | [363299-spider-man-028-red-suit-mod-hang-em-high.json](./363299-spider-man-028-red-suit-mod-hang-em-high.json) |
 | Spider-Man: 054 - FX Mod: Parade Route | 363363 | [363363-spider-man-054-fx-mod-parade-route.json](./363363-spider-man-054-fx-mod-parade-route.json) |
 | Spider-Man: 055 - FX Mod: Wacky Noises | 363365 | [363365-spider-man-055-fx-mod-wacky-noises.json](./363365-spider-man-055-fx-mod-wacky-noises.json) |
 | Spider-Man: 056 - FX Mod: Time Twist | 363366 | [363366-spider-man-056-fx-mod-time-twist.json](./363366-spider-man-056-fx-mod-time-twist.json) |
@@ -15389,6 +15415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Haven 3 | 331942 | [331942-station-haven-3.json](./331942-station-haven-3.json) |
 | Station Inc | 310502 | [310502-station-inc.json](./310502-station-inc.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
+| Station Master RPG | 363319 | [363319-station-master-rpg.json](./363319-station-master-rpg.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
@@ -17257,6 +17284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Attack | 337208 | [337208-sub-attack.json](./337208-sub-attack.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
+| Sub Chase | 363309 | [363309-sub-chase.json](./363309-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
 | Sub Command: Akula Seawolf 688(I) | 68732 | [68732-sub-command-akula-seawolf-688-i.json](./68732-sub-command-akula-seawolf-688-i.json) |
 | Sub Commander | 160306 | [160306-sub-commander.json](./160306-sub-commander.json) |
