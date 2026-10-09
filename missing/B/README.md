@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banmeng Yexing: A Journey on Limbus | 260864 | [260864-banmeng-yexing-a-journey-on-limbus.json](./260864-banmeng-yexing-a-journey-on-limbus.json) |
 | Banned From Equestria (Daily) | 148383 | [148383-banned-from-equestria-daily.json](./148383-banned-from-equestria-daily.json) |
 | Banned Tapes | 333650 | [333650-banned-tapes.json](./333650-banned-tapes.json) |
+| Banned Together | 350457 | [350457-banned-together.json](./350457-banned-together.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
 | Banner of Blood | 211090 | [211090-banner-of-blood.json](./211090-banner-of-blood.json) |
 | Banner of the Maid | 97932 | [97932-banner-of-the-maid.json](./97932-banner-of-the-maid.json) |
