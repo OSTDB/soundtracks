@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldentide | 57892 | [57892-oldentide.json](./57892-oldentide.json) |
 | Older Brother, Twins, and Little Sister | 98013 | [98013-older-brother-twins-and-little-sister.json](./98013-older-brother-twins-and-little-sister.json) |
 | Olderfall | 408205 | [408205-olderfall.json](./408205-olderfall.json) |
+| Olderiada | 348813 | [348813-olderiada.json](./348813-olderiada.json) |
 | Oldest Golden Treasure | 381847 | [381847-oldest-golden-treasure.json](./381847-oldest-golden-treasure.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | OldHeart Online | 397170 | [397170-oldheart-online.json](./397170-oldheart-online.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
 | One Step From Eden | 111717 | [111717-one-step-from-eden.json](./111717-one-step-from-eden.json) |
+| One Step Further | 348820 | [348820-one-step-further.json](./348820-one-step-further.json) |
 | One Strike | 28695 | [28695-one-strike.json](./28695-one-strike.json) |
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
@@ -3401,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
 | Overpass 2: Polaris Vehicles Pack | 271284 | [271284-overpass-2-polaris-vehicles-pack.json](./271284-overpass-2-polaris-vehicles-pack.json) |
 | Overplasma | 143576 | [143576-overplasma.json](./143576-overplasma.json) |
+| Overpower RPG - Capítulo 1: A Saga de Bulgar | 348733 | [348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json](./348733-overpower-rpg-capitulo-1-a-saga-de-bulgar.json) |
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
 | Overpowered 1: Mars Infestation | 353973 | [353973-overpowered-1-mars-infestation.json](./353973-overpowered-1-mars-infestation.json) |
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
