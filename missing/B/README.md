@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
 | Babel | 198377 | [198377-babel.json](./198377-babel.json) |
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
+| Babel | 385394 | [385394-babel.json](./385394-babel.json) |
 | Babel | 78908 | [78908-babel.json](./78908-babel.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
@@ -3740,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Pyramids | 280883 | [280883-beneath-the-pyramids.json](./280883-beneath-the-pyramids.json) |
 | Beneath The Rooftop Sky | 337696 | [337696-beneath-the-rooftop-sky.json](./337696-beneath-the-rooftop-sky.json) |
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
+| Beneath the Surface | 385401 | [385401-beneath-the-surface.json](./385401-beneath-the-surface.json) |
 | Beneath The Surface | 380012 | [380012-beneath-the-surface.json](./380012-beneath-the-surface.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Beneath the Willows | 183923 | [183923-beneath-the-willows.json](./183923-beneath-the-willows.json) |
@@ -6028,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
+| Blob Wars | 385365 | [385365-blob-wars.json](./385365-blob-wars.json) |
 | Blob Wars: Attrition | 144887 | [144887-blob-wars-attrition.json](./144887-blob-wars-attrition.json) |
 | Blob Wars: Metal Blob Solid | 178552 | [178552-blob-wars-metal-blob-solid.json](./178552-blob-wars-metal-blob-solid.json) |
 | Blob's Adventure | 344389 | [344389-blobs-adventure.json](./344389-blobs-adventure.json) |
