@@ -5159,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Traffic: Circle Rush | 54875 | [54875-pixel-traffic-circle-rush.json](./54875-pixel-traffic-circle-rush.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Trainer | 107098 | [107098-pixel-trainer.json](./107098-pixel-trainer.json) |
+| Pixel Transit | 339296 | [339296-pixel-transit.json](./339296-pixel-transit.json) |
 | Pixel Troopers | 351752 | [351752-pixel-troopers.json](./351752-pixel-troopers.json) |
 | Pixel Trouble | 192235 | [192235-pixel-trouble.json](./192235-pixel-trouble.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
@@ -8717,6 +8718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
+| Princess Ursula | 339233 | [339233-princess-ursula.json](./339233-princess-ursula.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Princess Witches Excellent | 410953 | [410953-princess-witches-excellent.json](./410953-princess-witches-excellent.json) |
 | Princess x Audience | 291706 | [291706-princess-x-audience.json](./291706-princess-x-audience.json) |
