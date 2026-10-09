@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
 | A Death in the Red Light | 297761 | [297761-a-death-in-the-red-light.json](./297761-a-death-in-the-red-light.json) |
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
+| A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination Tower | 36011 | [36011-abomination-tower.json](./36011-abomination-tower.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
+| About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
 | About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
 | About Emma | 179038 | [179038-about-emma.json](./179038-about-emma.json) |
 | About Face | 307085 | [307085-about-face.json](./307085-about-face.json) |
@@ -2451,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of AI: North America | 96931 | [96931-age-of-ai-north-america.json](./96931-age-of-ai-north-america.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
+| Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
 | Age of Barbarian Extended Cut | 34473 | [34473-age-of-barbarian-extended-cut.json](./34473-age-of-barbarian-extended-cut.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
@@ -6191,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
 | Another Chance | 253484 | [253484-another-chance.json](./253484-another-chance.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
+| Another Crab's Treasure: Year of the Crab | 349894 | [349894-another-crabs-treasure-year-of-the-crab.json](./349894-another-crabs-treasure-year-of-the-crab.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
 | Another Day | 179003 | [179003-another-day.json](./179003-another-day.json) |
@@ -10435,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening of Dragon | 208908 | [208908-awakening-of-dragon.json](./208908-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
+| Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
