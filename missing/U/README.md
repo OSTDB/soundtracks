@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Night In-Birth Exe:Late | 20290 | [20290-under-night-in-birth-exe-late.json](./20290-under-night-in-birth-exe-late.json) |
 | Under Night In-Birth Exe:Late[cl-r] | 121369 | [121369-under-night-in-birth-exe-late-cl-r.json](./121369-under-night-in-birth-exe-late-cl-r.json) |
 | Under Night In-Birth Exe:Late[st] | 41819 | [41819-under-night-in-birth-exe-late-st.json](./41819-under-night-in-birth-exe-late-st.json) |
+| Under Night In-Birth II Sys:Celes - Character Unlock: Izumi | 362221 | [362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json](./362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
