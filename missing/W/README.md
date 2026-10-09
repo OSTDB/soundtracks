@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
 | Waifu Wars Online | 119642 | [119642-waifu-wars-online.json](./119642-waifu-wars-online.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
+| Waifu Wave Defenders | 352238 | [352238-waifu-wave-defenders.json](./352238-waifu-wave-defenders.json) |
 | Waifu's Spooky Space Station | 143651 | [143651-waifus-spooky-space-station.json](./143651-waifus-spooky-space-station.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
 | Wail | 348791 | [348791-wail.json](./348791-wail.json) |
@@ -5284,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Within Worlds | 176312 | [176312-worlds-within-worlds.json](./176312-worlds-within-worlds.json) |
 | Worlds: History Simulator | 125297 | [125297-worlds-history-simulator.json](./125297-worlds-history-simulator.json) |
 | Worldseekers | 315630 | [315630-worldseekers.json](./315630-worldseekers.json) |
+| Worldshadow | 352242 | [352242-worldshadow.json](./352242-worldshadow.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
 | WorldsKeeper | 216822 | [216822-worldskeeper.json](./216822-worldskeeper.json) |
