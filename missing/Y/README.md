@@ -1074,6 +1074,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
 | Yubisaki Connection Mini Fandisk Vol. 01: Yuzuki & Mikoto Hen | 382236 | [382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json](./382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json) |
 | Yubisaki Connection Mini Fandisk Vol. 02: Natsuho & Iori Hen | 382237 | [382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json](./382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json) |
+| Yubiwa Monogatari: Dai-ikkan - Tabi no Nakama | 338758 | [338758-yubiwa-monogatari-dai-ikkan-tabi-no-nakama.json](./338758-yubiwa-monogatari-dai-ikkan-tabi-no-nakama.json) |
+| Yubiwa Monogatari: Dai-ni-kan - Futatsu no Tou | 338757 | [338757-yubiwa-monogatari-dai-ni-kan-futatsu-no-tou.json](./338757-yubiwa-monogatari-dai-ni-kan-futatsu-no-tou.json) |
 | Yubu: The Shoeventure | 258495 | [258495-yubu-the-shoeventure.json](./258495-yubu-the-shoeventure.json) |
 | Yucan | 141866 | [141866-yucan.json](./141866-yucan.json) |
 | Yùchí Gōng Shì Shénme Guǐ | 397856 | [397856-yuchi-gong-shi-shenme-gui.json](./397856-yuchi-gong-shi-shenme-gui.json) |
