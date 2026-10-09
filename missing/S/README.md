@@ -4244,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
 | Shadows of the Damned | 5971 | [5971-shadows-of-the-damned.json](./5971-shadows-of-the-damned.json) |
 | Shadows of the Damned: Hella Remastered | 252501 | [252501-shadows-of-the-damned-hella-remastered.json](./252501-shadows-of-the-damned-hella-remastered.json) |
+| Shadows of the Deepforge | 362724 | [362724-shadows-of-the-deepforge.json](./362724-shadows-of-the-deepforge.json) |
 | Shadows of the Night | 238749 | [238749-shadows-of-the-night.json](./238749-shadows-of-the-night.json) |
 | Shadows of The Nightmare Realm | 256915 | [256915-shadows-of-the-nightmare-realm.json](./256915-shadows-of-the-nightmare-realm.json) |
 | Shadows of the Past | 265605 | [265605-shadows-of-the-past.json](./265605-shadows-of-the-past.json) |
@@ -8338,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Coop DX: Mario on Indigo Island | 378332 | [378332-sm64-coop-dx-mario-on-indigo-island.json](./378332-sm64-coop-dx-mario-on-indigo-island.json) |
 | SM64 Coop DX: Super Mario World in Super Mario 64 | 360171 | [360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json](./360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json) |
 | SM64 Coop DX: Uranium Mario 64 | 378333 | [378333-sm64-coop-dx-uranium-mario-64.json](./378333-sm64-coop-dx-uranium-mario-64.json) |
+| SM64 from Memory | 362717 | [362717-sm64-from-memory.json](./362717-sm64-from-memory.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
 | SM64 GeSEGKt | 392354 | [392354-sm64-gesegkt.json](./392354-sm64-gesegkt.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
@@ -15267,6 +15269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Catan | 72949 | [72949-starship-catan.json](./72949-starship-catan.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
+| Starship Command: Orion Spur | 362739 | [362739-starship-command-orion-spur.json](./362739-starship-command-orion-spur.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | Starship Crafter | 392237 | [392237-starship-crafter.json](./392237-starship-crafter.json) |
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
@@ -21650,6 +21653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | Syrnia | 130718 | [130718-syrnia.json](./130718-syrnia.json) |
+| Syrup 2: Candy Alchemy RPG | 362733 | [362733-syrup-2-candy-alchemy-rpg.json](./362733-syrup-2-candy-alchemy-rpg.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | SYS: Save Your Soul | 386330 | [386330-sys-save-your-soul.json](./386330-sys-save-your-soul.json) |
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
