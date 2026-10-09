@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hours 2 | 57719 | [57719-dark-hours-2.json](./57719-dark-hours-2.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
 | Dark Hyrule Fantasy | 199422 | [199422-dark-hyrule-fantasy.json](./199422-dark-hyrule-fantasy.json) |
+| Dark Ill | 367852 | [367852-dark-ill.json](./367852-dark-ill.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
@@ -3922,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
+| Dependency Psychological Test | 367854 | [367854-dependency-psychological-test.json](./367854-dependency-psychological-test.json) |
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Deperson | 291190 | [291190-deperson.json](./291190-deperson.json) |
 | Depersonalization | 205111 | [205111-depersonalization.json](./205111-depersonalization.json) |
@@ -7467,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Heardle | 203817 | [203817-donkey-kong-heardle.json](./203817-donkey-kong-heardle.json) |
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
+| Donkey Kong II | 367846 | [367846-donkey-kong-ii.json](./367846-donkey-kong-ii.json) |
 | Donkey Kong Jr. | 200535 | [200535-donkey-kong-jr.json](./200535-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
