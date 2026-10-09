@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Weapons | 405067 | [405067-penguin-weapons.json](./405067-penguin-weapons.json) |
 | Penguin with a Pumpgun | 235869 | [235869-penguin-with-a-pumpgun.json](./235869-penguin-with-a-pumpgun.json) |
 | Penguin-kun Gira-Gira Wars | 54924 | [54924-penguin-kun-gira-gira-wars.json](./54924-penguin-kun-gira-gira-wars.json) |
+| Penguin's Love | 361639 | [361639-penguins-love.json](./361639-penguins-love.json) |
 | Penguin's Road | 304822 | [304822-penguins-road.json](./304822-penguins-road.json) |
 | PenguInn | 223951 | [223951-penguinn.json](./223951-penguinn.json) |
 | Penguino | 365853 | [365853-penguino.json](./365853-penguino.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
 | PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
+| Petsitting | 361636 | [361636-petsitting.json](./361636-petsitting.json) |
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
 | Pettson & Findus: Födelsedagskatten | 286110 | [286110-pettson-and-findus-fodelsedagskatten.json](./286110-pettson-and-findus-fodelsedagskatten.json) |
 | Pettson & Findus: Höndans och kattcirkus | 286109 | [286109-pettson-and-findus-hondans-och-kattcirkus.json](./286109-pettson-and-findus-hondans-och-kattcirkus.json) |
@@ -5330,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plain Tic Tac Toe | 89281 | [89281-plain-tic-tac-toe.json](./89281-plain-tic-tac-toe.json) |
 | Plain Video Poker | 84814 | [84814-plain-video-poker.json](./84814-plain-video-poker.json) |
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
+| Plambra Dash: The Parkour Game Part II | 361605 | [361605-plambra-dash-the-parkour-game-part-ii.json](./361605-plambra-dash-the-parkour-game-part-ii.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Plana Gravatatis | 135076 | [135076-plana-gravatatis.json](./135076-plana-gravatatis.json) |
@@ -7202,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Legends | 263661 | [263661-pong-legends.json](./263661-pong-legends.json) |
 | Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
+| Pong Pong's Learning Adventure: Animals | 361609 | [361609-pong-pongs-learning-adventure-animals.json](./361609-pong-pongs-learning-adventure-animals.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
 | Pong Quest | 132032 | [132032-pong-quest.json](./132032-pong-quest.json) |
@@ -8059,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
 | PowerWash Simulator: The Muckingham Files | 246901 | [246901-powerwash-simulator-the-muckingham-files.json](./246901-powerwash-simulator-the-muckingham-files.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
+| PowerWash Simulator: Ultimate Satisfaction Bundle | 361640 | [361640-powerwash-simulator-ultimate-satisfaction-bundle.json](./361640-powerwash-simulator-ultimate-satisfaction-bundle.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
 | Pox Nora | 9595 | [9595-pox-nora.json](./9595-pox-nora.json) |
