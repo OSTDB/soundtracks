@@ -5436,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivCraft - Legends of Ellaria | 47273 | [47273-civcraft-legends-of-ellaria.json](./47273-civcraft-legends-of-ellaria.json) |
 | CivCrafter | 344954 | [344954-civcrafter.json](./344954-civcrafter.json) |
 | Civiballs 2 | 335475 | [335475-civiballs-2.json](./335475-civiballs-2.json) |
+| Civics Scribble | 380760 | [380760-civics-scribble.json](./380760-civics-scribble.json) |
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil Engineering Simulator | 62428 | [62428-civil-engineering-simulator.json](./62428-civil-engineering-simulator.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
@@ -6906,6 +6907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Souls | 167604 | [167604-color-souls.json](./167604-color-souls.json) |
 | Color Spin | 96917 | [96917-color-spin.json](./96917-color-spin.json) |
 | Color Splash: Birds | 264764 | [264764-color-splash-birds.json](./264764-color-splash-birds.json) |
+| Color Splash: Butterflies | 380804 | [380804-color-splash-butterflies.json](./380804-color-splash-butterflies.json) |
 | Color Splash: Dinosaurs | 291082 | [291082-color-splash-dinosaurs.json](./291082-color-splash-dinosaurs.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
@@ -7887,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
 | Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
+| Console War Giant | 380762 | [380762-console-war-giant.json](./380762-console-war-giant.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
@@ -9912,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Creta | 318538 | [318538-creta.json](./318538-creta.json) |
 | Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
+| Cretaceous Crunch | 380761 | [380761-cretaceous-crunch.json](./380761-cretaceous-crunch.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
 | Crewed | 402465 | [402465-crewed.json](./402465-crewed.json) |
