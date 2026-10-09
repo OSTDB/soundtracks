@@ -5399,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackguards: Untold Legends | 11105 | [11105-blackguards-untold-legends.json](./11105-blackguards-untold-legends.json) |
 | Blackhaven | 160683 | [160683-blackhaven.json](./160683-blackhaven.json) |
 | Blackheart | 249897 | [249897-blackheart.json](./249897-blackheart.json) |
+| Blackhole Maker | 384859 | [384859-blackhole-maker.json](./384859-blackhole-maker.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
@@ -10490,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
 | Bustafellows: Deluxe Edition | 136828 | [136828-bustafellows-deluxe-edition.json](./136828-bustafellows-deluxe-edition.json) |
+| Busted | 384857 | [384857-busted.json](./384857-busted.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
 | Buster Baxter: Lung Defender | 305863 | [305863-buster-baxter-lung-defender.json](./305863-buster-baxter-lung-defender.json) |
@@ -10633,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Byakuya Museum | 249723 | [249723-byakuya-museum.json](./249723-byakuya-museum.json) |
 | Bye Bye Bonnie | 415153 | [415153-bye-bye-bonnie.json](./415153-bye-bye-bonnie.json) |
+| Bye Bye! Police! | 384866 | [384866-bye-bye-police.json](./384866-bye-bye-police.json) |
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg båtar med Mulle Meck: Specialversion | 319813 | [319813-bygg-batar-med-mulle-meck-specialversion.json](./319813-bygg-batar-med-mulle-meck-specialversion.json) |
