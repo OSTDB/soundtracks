@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
+| Hamstermind | 335227 | [335227-hamstermind.json](./335227-hamstermind.json) |
 | HamsterVeRse | 153887 | [153887-hamsterverse.json](./153887-hamsterverse.json) |
 | Hamsterz Life | 9248 | [9248-hamsterz-life.json](./9248-hamsterz-life.json) |
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
@@ -1047,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
+| HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
@@ -3938,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
 | Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
+| Hexiv | 335385 | [335385-hexiv.json](./335385-hexiv.json) |
 | HexLab | 97090 | [97090-hexlab.json](./97090-hexlab.json) |
 | Hexland Heroes | 98024 | [98024-hexland-heroes.json](./98024-hexland-heroes.json) |
 | HexLand: Rise of Blue | 221678 | [221678-hexland-rise-of-blue.json](./221678-hexland-rise-of-blue.json) |
@@ -4423,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
+| Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
