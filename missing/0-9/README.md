@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
+| 3DEins | 379147 | [379147-3deins.json](./379147-3deins.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
