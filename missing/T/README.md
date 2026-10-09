@@ -6402,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
 | The Harmony Chronicles: Cat Out of the Bag | 416708 | [416708-the-harmony-chronicles-cat-out-of-the-bag.json](./416708-the-harmony-chronicles-cat-out-of-the-bag.json) |
+| The Harmony Chronicles: Cat Out of the Bag - Collector’s Edition | 338663 | [338663-the-harmony-chronicles-cat-out-of-the-bag-collector-s-edition.json](./338663-the-harmony-chronicles-cat-out-of-the-bag-collector-s-edition.json) |
 | The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
@@ -10801,6 +10802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Elements | 35074 | [35074-the-tower-of-elements.json](./35074-the-tower-of-elements.json) |
 | The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
+| The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
