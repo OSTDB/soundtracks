@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
 | Mandragora: Whispers of the Witch Tree - Dark Ale Quest | 362381 | [362381-mandragora-whispers-of-the-witch-tree-dark-ale-quest.json](./362381-mandragora-whispers-of-the-witch-tree-dark-ale-quest.json) |
 | Mandragora: Whispers of the Witch Tree - Digital Deluxe Edition | 362373 | [362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json](./362373-mandragora-whispers-of-the-witch-tree-digital-deluxe-edition.json) |
+| Mandragora: Whispers of the Witch Tree - Update 1.6 | 358275 | [358275-mandragora-whispers-of-the-witch-tree-update-1-6.json](./358275-mandragora-whispers-of-the-witch-tree-update-1-6.json) |
 | Mandragore | 13013 | [13013-mandragore.json](./13013-mandragore.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
@@ -2384,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Blazing Wheels | 174622 | [174622-mario-kart-blazing-wheels.json](./174622-mario-kart-blazing-wheels.json) |
 | Mario Kart: Double Dash!! Matching Game | 328662 | [328662-mario-kart-double-dash-matching-game.json](./328662-mario-kart-double-dash-matching-game.json) |
 | Mario Kart: Double Dash!! Plus | 308373 | [308373-mario-kart-double-dash-plus.json](./308373-mario-kart-double-dash-plus.json) |
+| Mario Kart: Double Dash!! RTGP | 358237 | [358237-mario-kart-double-dash-rtgp.json](./358237-mario-kart-double-dash-rtgp.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
 | Mario Kart: Ultra Circuit | 318508 | [318508-mario-kart-ultra-circuit.json](./318508-mario-kart-ultra-circuit.json) |
@@ -3504,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
 | Mathle | 363038 | [363038-mathle.json](./363038-mathle.json) |
+| Mathletics | 358243 | [358243-mathletics.json](./358243-mathletics.json) |
 | Mathletix | 188434 | [188434-mathletix.json](./188434-mathletix.json) |
 | Mathmateer | 396760 | [396760-mathmateer.json](./396760-mathmateer.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
@@ -6943,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Millennium Racer: Y2K Fighters | 79897 | [79897-millennium-racer-y2k-fighters.json](./79897-millennium-racer-y2k-fighters.json) |
 | Millennium Runners | 336121 | [336121-millennium-runners.json](./336121-millennium-runners.json) |
+| Millennium Strategy | 358230 | [358230-millennium-strategy.json](./358230-millennium-strategy.json) |
 | Millennium Winter Sports | 49962 | [49962-millennium-winter-sports.json](./49962-millennium-winter-sports.json) |
 | Millennium: A New Hope | 8178 | [8178-millennium-a-new-hope.json](./8178-millennium-a-new-hope.json) |
 | Milles, Knight of Anal Tyranny | 59813 | [59813-milles-knight-of-anal-tyranny.json](./59813-milles-knight-of-anal-tyranny.json) |
@@ -9990,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's Maximum Mahjongg 3 | 202186 | [202186-moraffs-maximum-mahjongg-3.json](./202186-moraffs-maximum-mahjongg-3.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
+| Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
@@ -12376,7 +12381,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
+| My Recycling Center: Car Scrapyard Expansion | 358251 | [358251-my-recycling-center-car-scrapyard-expansion.json](./358251-my-recycling-center-car-scrapyard-expansion.json) |
 | My Recycling Center: Container Truck Expansion | 298131 | [298131-my-recycling-center-container-truck-expansion.json](./298131-my-recycling-center-container-truck-expansion.json) |
+| My Recycling Center: Resources Trading Expansion | 358250 | [358250-my-recycling-center-resources-trading-expansion.json](./358250-my-recycling-center-resources-trading-expansion.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Resume: The Video Game | 88014 | [88014-my-resume-the-video-game.json](./88014-my-resume-the-video-game.json) |
 | My Retro World | 374823 | [374823-my-retro-world.json](./374823-my-retro-world.json) |
