@@ -7581,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booble Hentai | 149432 | [149432-booble-hentai.json](./149432-booble-hentai.json) |
 | Boobs | 268499 | [268499-boobs.json](./268499-boobs.json) |
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
+| Boobs Hidden Ibiza | 367294 | [367294-boobs-hidden-ibiza.json](./367294-boobs-hidden-ibiza.json) |
 | Boobs Hidden Los Angeles | 320329 | [320329-boobs-hidden-los-angeles.json](./320329-boobs-hidden-los-angeles.json) |
 | Boobs Hidden Rio De Janeiro | 344522 | [344522-boobs-hidden-rio-de-janeiro.json](./344522-boobs-hidden-rio-de-janeiro.json) |
 | Boobs on Island | 97179 | [97179-boobs-on-island.json](./97179-boobs-on-island.json) |
@@ -8124,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
 | Bound By Blood | 140545 | [140545-bound-by-blood.json](./140545-bound-by-blood.json) |
 | Bound By Broadcast | 306432 | [306432-bound-by-broadcast.json](./306432-bound-by-broadcast.json) |
+| Bound by Desire | 367203 | [367203-bound-by-desire.json](./367203-bound-by-desire.json) |
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound Crystal Saga | 388927 | [388927-bound-crystal-saga.json](./388927-bound-crystal-saga.json) |
