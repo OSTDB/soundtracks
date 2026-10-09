@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactagirl | 68112 | [68112-galactagirl.json](./68112-galactagirl.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic | 46881 | [46881-galactic.json](./46881-galactic.json) |
+| Galactic Adventures | 357733 | [357733-galactic-adventures.json](./357733-galactic-adventures.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
 | Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
@@ -5007,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
+| Gravity Force | 357726 | [357726-gravity-force.json](./357726-gravity-force.json) |
 | Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
