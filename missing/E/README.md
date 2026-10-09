@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | EpicMafia | 57075 | [57075-epicmafia.json](./57075-epicmafia.json) |
 | EpicRecovery | 202721 | [202721-epicrecovery.json](./202721-epicrecovery.json) |
+| Epicross | 357752 | [357752-epicross.json](./357752-epicross.json) |
 | Epics of Distant Realm 2: Holy Return | 189950 | [189950-epics-of-distant-realm-2-holy-return.json](./189950-epics-of-distant-realm-2-holy-return.json) |
 | Epics of Distant Realm: Remastered Edition | 114266 | [114266-epics-of-distant-realm-remastered-edition.json](./114266-epics-of-distant-realm-remastered-edition.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETea | 319066 | [319066-etea.json](./319066-etea.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
+| Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Champions | 4477 | [4477-eternal-champions.json](./4477-eternal-champions.json) |
@@ -4559,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experience | 36599 | [36599-experience.json](./36599-experience.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
+| Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
 | Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
 | Experiment of Being | 189045 | [189045-experiment-of-being.json](./189045-experiment-of-being.json) |
