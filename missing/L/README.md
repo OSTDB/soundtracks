@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
+| Laserlight | 372234 | [372234-laserlight.json](./372234-laserlight.json) |
 | Laseronium: The Beam Focus | 55259 | [55259-laseronium-the-beam-focus.json](./55259-laseronium-the-beam-focus.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserPoint | 274530 | [274530-laserpoint.json](./274530-laserpoint.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
 | Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
+| Last Leave | 372236 | [372236-last-leave.json](./372236-last-leave.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
@@ -1781,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO 2K Drive: Awesome Edition | 242494 | [242494-lego-2k-drive-awesome-edition.json](./242494-lego-2k-drive-awesome-edition.json) |
 | LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
+| LEGO Alpha Team | 372839 | [372839-lego-alpha-team.json](./372839-lego-alpha-team.json) |
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
