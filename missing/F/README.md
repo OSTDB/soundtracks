@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faren Touga | 172696 | [172696-faren-touga.json](./172696-faren-touga.json) |
 | Fareo: Shadowlands | 130916 | [130916-fareo-shadowlands.json](./130916-fareo-shadowlands.json) |
 | Farethere City | 75151 | [75151-farethere-city.json](./75151-farethere-city.json) |
+| Farever | 348295 | [348295-farever.json](./348295-farever.json) |
 | Farewell | 167123 | [167123-farewell.json](./167123-farewell.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell Avalon | 250901 | [250901-farewell-avalon.json](./250901-farewell-avalon.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
+| FluffyInn | 348190 | [348190-fluffyinn.json](./348190-fluffyinn.json) |
 | Flugger & Knux 9 | 330960 | [330960-flugger-and-knux-9.json](./330960-flugger-and-knux-9.json) |
 | Flugrettung: Die Simulation | 334884 | [334884-flugrettung-die-simulation.json](./334884-flugrettung-die-simulation.json) |
 | Fluid | 92065 | [92065-fluid.json](./92065-fluid.json) |
