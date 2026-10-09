@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebellious Takeover | 396013 | [396013-rebellious-takeover.json](./396013-rebellious-takeover.json) |
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
+| Rebeloid VR | 364978 | [364978-rebeloid-vr.json](./364978-rebeloid-vr.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve | 377200 | [377200-revolve.json](./377200-revolve.json) |
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
+| Revolver Gambit | 364986 | [364986-revolver-gambit.json](./364986-revolver-gambit.json) |
 | Revolver roulette | 336697 | [336697-revolver-roulette.json](./336697-revolver-roulette.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Revolver360 Re:Actor | 23439 | [23439-revolver360-re-actor.json](./23439-revolver360-re-actor.json) |
@@ -6973,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RSweeps | 107081 | [107081-rsweeps.json](./107081-rsweeps.json) |
 | RTA Adventure | 407447 | [407447-rta-adventure.json](./407447-rta-adventure.json) |
 | RTA New York Street | 359992 | [359992-rta-new-york-street.json](./359992-rta-new-york-street.json) |
+| RTA New York Street: Saudi Edition | 364979 | [364979-rta-new-york-street-saudi-edition.json](./364979-rta-new-york-street-saudi-edition.json) |
 | RTA Run!! | 407451 | [407451-rta-run.json](./407451-rta-run.json) |
 | RTAG Rise | 88176 | [88176-rtag-rise.json](./88176-rtag-rise.json) |
 | RTC-3057 | 315564 | [315564-rtc-3057.json](./315564-rtc-3057.json) |
