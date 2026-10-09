@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the World End, You and Me the Forget's Legend | 93724 | [93724-in-the-world-end-you-and-me-the-forgets-legend.json](./93724-in-the-world-end-you-and-me-the-forgets-legend.json) |
 | In the World Unknown | 203215 | [203215-in-the-world-unknown.json](./203215-in-the-world-unknown.json) |
 | In This House | 327375 | [327375-in-this-house.json](./327375-in-this-house.json) |
+| In Time | 380768 | [380768-in-time.json](./380768-in-time.json) |
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
@@ -3215,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
+| Invaders | 380798 | [380798-invaders.json](./380798-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders X | 306416 | [306416-invaders-x.json](./306416-invaders-x.json) |
