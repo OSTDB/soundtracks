@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
 | Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
+| Paper Soccer | 366092 | [366092-paper-soccer.json](./366092-paper-soccer.json) |
 | Paper Sorcerer | 9205 | [9205-paper-sorcerer.json](./9205-paper-sorcerer.json) |
 | Paper Sounds | 99382 | [99382-paper-sounds.json](./99382-paper-sounds.json) |
 | Paper Tanks | 127810 | [127810-paper-tanks.json](./127810-paper-tanks.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Prosperity | 150738 | [150738-path-to-prosperity.json](./150738-path-to-prosperity.json) |
 | Path to Serenity | 350497 | [350497-path-to-serenity.json](./350497-path-to-serenity.json) |
 | Path to Success | 54258 | [54258-path-to-success.json](./54258-path-to-success.json) |
+| Path to Tamer Town | 366097 | [366097-path-to-tamer-town.json](./366097-path-to-tamer-town.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
@@ -5479,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
 | Planetone | 184990 | [184990-planetone.json](./184990-planetone.json) |
+| Planetris | 366127 | [366127-planetris.json](./366127-planetris.json) |
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
 | Planets Under Attack | 16408 | [16408-planets-under-attack.json](./16408-planets-under-attack.json) |
@@ -6115,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
 | Pocket Soccer | 187244 | [187244-pocket-soccer.json](./187244-pocket-soccer.json) |
+| Pocket Spouse | 366114 | [366114-pocket-spouse.json](./366114-pocket-spouse.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
 | Pocket Stadium | 337256 | [337256-pocket-stadium.json](./337256-pocket-stadium.json) |
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
@@ -9751,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | Psi Knuckle | 124579 | [124579-psi-knuckle.json](./124579-psi-knuckle.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
+| Psi Masquerade Deadly Wonderland | 366132 | [366132-psi-masquerade-deadly-wonderland.json](./366132-psi-masquerade-deadly-wonderland.json) |
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psi-Ops: The Mindgate Conspiracy | 5992 | [5992-psi-ops-the-mindgate-conspiracy.json](./5992-psi-ops-the-mindgate-conspiracy.json) |
