@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
 | Sexy Exile | 195610 | [195610-sexy-exile.json](./195610-sexy-exile.json) |
+| Sexy Furry Puzzle | 335305 | [335305-sexy-furry-puzzle.json](./335305-sexy-furry-puzzle.json) |
 | Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
 | Sexy Girl Next Door: Virtual Valentine Sex | 311991 | [311991-sexy-girl-next-door-virtual-valentine-sex.json](./311991-sexy-girl-next-door-virtual-valentine-sex.json) |
 | Sexy Girls | 111721 | [111721-sexy-girls.json](./111721-sexy-girls.json) |
@@ -5876,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrug Island: The Meeting | 34055 | [34055-shrug-island-the-meeting.json](./34055-shrug-island-the-meeting.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | SHTF | 55980 | [55980-shtf.json](./55980-shtf.json) |
+| Shtrek | 335298 | [335298-shtrek.json](./335298-shtrek.json) |
 | Shtriga: Summer Camp | 30381 | [30381-shtriga-summer-camp.json](./30381-shtriga-summer-camp.json) |
 | Shu | 395471 | [395471-shu.json](./395471-shu.json) |
 | Shū Liàn yǔ Jūn: Xiānzǐ Xiàn | 373694 | [373694-shu-lian-yu-jun-xianzi-xian.json](./373694-shu-lian-yu-jun-xianzi-xian.json) |
@@ -12820,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
+| Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
