@@ -5561,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Mine | 129043 | [129043-shooty-mine.json](./129043-shooty-mine.json) |
+| Shooty Shooty Robot Invasion | 349889 | [349889-shooty-shooty-robot-invasion.json](./349889-shooty-shooty-robot-invasion.json) |
 | Shooty Skies | 59547 | [59547-shooty-skies.json](./59547-shooty-skies.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
 | Shooty Space | 86251 | [86251-shooty-space.json](./86251-shooty-space.json) |
@@ -5947,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Cats + Shy Dogs | 332039 | [332039-shy-cats-shy-dogs.json](./332039-shy-cats-shy-dogs.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
 | Shy Cats Hidden Tracks: Vol. 1 | 332038 | [332038-shy-cats-hidden-tracks-vol-1.json](./332038-shy-cats-hidden-tracks-vol-1.json) |
+| Shy Cats Hidden Tracks: Vol. 2 | 349828 | [349828-shy-cats-hidden-tracks-vol-2.json](./349828-shy-cats-hidden-tracks-vol-2.json) |
 | Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shy Dogs: Hidden Orchestra 2 | 407461 | [407461-shy-dogs-hidden-orchestra-2.json](./407461-shy-dogs-hidden-orchestra-2.json) |
@@ -8921,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes & Ladders in Aquarium | 54379 | [54379-snakes-and-ladders-in-aquarium.json](./54379-snakes-and-ladders-in-aquarium.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
 | Snakes and Ladders 3D | 103542 | [103542-snakes-and-ladders-3d.json](./103542-snakes-and-ladders-3d.json) |
+| Snakes and Ladders Championship | 349810 | [349810-snakes-and-ladders-championship.json](./349810-snakes-and-ladders-championship.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snakes LTD VR | 264010 | [264010-snakes-ltd-vr.json](./264010-snakes-ltd-vr.json) |
@@ -9923,6 +9926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
+| Solitaire Dreamscapes | 349825 | [349825-solitaire-dreamscapes.json](./349825-solitaire-dreamscapes.json) |
 | Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
 | Solitaire Epic | 53628 | [53628-solitaire-epic.json](./53628-solitaire-epic.json) |
 | Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
@@ -11081,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul Ark: Brave and Fate | 199948 | [199948-soul-ark-brave-and-fate.json](./199948-soul-ark-brave-and-fate.json) |
 | Soul Armors Recollect | 322711 | [322711-soul-armors-recollect.json](./322711-soul-armors-recollect.json) |
+| Soul Astray | 349829 | [349829-soul-astray.json](./349829-soul-astray.json) |
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
 | Soul at Stake: Blood Ritual | 170293 | [170293-soul-at-stake-blood-ritual.json](./170293-soul-at-stake-blood-ritual.json) |
 | Soul at Stake: Frozen Village | 170292 | [170292-soul-at-stake-frozen-village.json](./170292-soul-at-stake-frozen-village.json) |
@@ -11942,10 +11947,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
+| Space Quest 0: Replicated | 349901 | [349901-space-quest-0-replicated.json](./349901-space-quest-0-replicated.json) |
 | Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quest III: The Pirates Of Pestulon | 30 | [30-space-quest-iii-the-pirates-of-pestulon.json](./30-space-quest-iii-the-pirates-of-pestulon.json) |
+| Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
