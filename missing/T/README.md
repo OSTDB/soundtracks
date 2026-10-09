@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankex | 117436 | [117436-tankex.json](./117436-tankex.json) |
 | TankFall Arena | 406845 | [406845-tankfall-arena.json](./406845-tankfall-arena.json) |
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
+| Tanki 2.0 | 344902 | [344902-tanki-2-0.json](./344902-tanki-2-0.json) |
 | Tanki 2011 | 298833 | [298833-tanki-2011.json](./298833-tanki-2011.json) |
 | Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
@@ -6108,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
 | The Giraffe World | 174095 | [174095-the-giraffe-world.json](./174095-the-giraffe-world.json) |
 | The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
+| The Girl From Gunma Kai | 344884 | [344884-the-girl-from-gunma-kai.json](./344884-the-girl-from-gunma-kai.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
 | The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
@@ -6130,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
 | The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
+| The Glued | 344878 | [344878-the-glued.json](./344878-the-glued.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblin Tavern | 352912 | [352912-the-goblin-tavern.json](./352912-the-goblin-tavern.json) |
@@ -6839,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
+| The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
 | The Island of Robot Poets | 419870 | [419870-the-island-of-robot-poets.json](./419870-the-island-of-robot-poets.json) |
 | The Island of Spirits | 149227 | [149227-the-island-of-spirits.json](./149227-the-island-of-spirits.json) |
@@ -16568,6 +16572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers II: Plight of the Stargazer | 332668 | [332668-towers-ii-plight-of-the-stargazer.json](./332668-towers-ii-plight-of-the-stargazer.json) |
 | Towers II: Plight of the Stargazer | 71222 | [71222-towers-ii-plight-of-the-stargazer.json](./71222-towers-ii-plight-of-the-stargazer.json) |
 | Towers Inc. | 166607 | [166607-towers-inc.json](./166607-towers-inc.json) |
+| Towers N' Trolls | 344892 | [344892-towers-n-trolls.json](./344892-towers-n-trolls.json) |
 | Towers of Aghasba | 250636 | [250636-towers-of-aghasba.json](./250636-towers-of-aghasba.json) |
 | Towers of Altrac | 36165 | [36165-towers-of-altrac.json](./36165-towers-of-altrac.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
@@ -18644,6 +18649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine Trilogy | 118939 | [118939-trine-trilogy.json](./118939-trine-trilogy.json) |
 | Trine: Ultimate Collection | 115766 | [115766-trine-ultimate-collection.json](./115766-trine-ultimate-collection.json) |
 | Trinelogy | 113624 | [113624-trinelogy.json](./113624-trinelogy.json) |
+| Tring! | 344981 | [344981-tring.json](./344981-tring.json) |
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
