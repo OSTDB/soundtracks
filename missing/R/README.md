@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
+| Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
+| Red Leaves | 343285 | [343285-red-leaves.json](./343285-red-leaves.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Light | 345432 | [345432-red-light.json](./345432-red-light.json) |
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
@@ -5916,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky's Boots | 72978 | [72978-rockys-boots.json](./72978-rockys-boots.json) |
 | Roco Kingdom | 395852 | [395852-roco-kingdom.json](./395852-roco-kingdom.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
+| Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
 | Rod Roll | 329102 | [329102-rod-roll.json](./329102-rod-roll.json) |
 | Rod-Land | 292796 | [292796-rod-land.json](./292796-rod-land.json) |
@@ -6566,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room Room | 176336 | [176336-room-room.json](./176336-room-room.json) |
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
+| Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
@@ -7547,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
+| Running Out | 343227 | [343227-running-out.json](./343227-running-out.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
 | Running Over Zombies | 204943 | [204943-running-over-zombies.json](./204943-running-over-zombies.json) |
 | Running Rich Racing | 234014 | [234014-running-rich-racing.json](./234014-running-rich-racing.json) |
