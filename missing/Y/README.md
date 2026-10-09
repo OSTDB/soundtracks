@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yewdow | 289586 | [289586-yewdow.json](./289586-yewdow.json) |
 | Yez: The Dark Amulet | 295499 | [295499-yez-the-dark-amulet.json](./295499-yez-the-dark-amulet.json) |
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
+| Yggdra Refrain | 373329 | [373329-yggdra-refrain.json](./373329-yggdra-refrain.json) |
 | Yggdra Union | 99972 | [99972-yggdra-union.json](./99972-yggdra-union.json) |
 | Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasil | 411786 | [411786-yggdrasil.json](./411786-yggdrasil.json) |
