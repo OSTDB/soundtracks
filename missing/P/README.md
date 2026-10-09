@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
+| Parallax | 384255 | [384255-parallax.json](./384255-parallax.json) |
 | Parallax Tunnel | 149540 | [149540-parallax-tunnel.json](./149540-parallax-tunnel.json) |
 | Parallel | 259643 | [259643-parallel.json](./259643-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
@@ -2215,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
 | Pearls | 246501 | [246501-pearls.json](./246501-pearls.json) |
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
+| Pearls of Wisdom | 384267 | [384267-pearls-of-wisdom.json](./384267-pearls-of-wisdom.json) |
 | PearsAndGrayWitch | 81744 | [81744-pearsandgraywitch.json](./81744-pearsandgraywitch.json) |
 | Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
 | Peasant | 309470 | [309470-peasant.json](./309470-peasant.json) |
