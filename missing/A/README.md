@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh: Reverse the Curse | 4849 | [4849-ankh-reverse-the-curse.json](./4849-ankh-reverse-the-curse.json) |
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
+| Ankhway: The Interplanetary Legacy | 344876 | [344876-ankhway-the-interplanetary-legacy.json](./344876-ankhway-the-interplanetary-legacy.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
@@ -8762,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | Asleep: Act 2 | 307255 | [307255-asleep-act-2.json](./307255-asleep-act-2.json) |
+| Aslimelate | 344973 | [344973-aslimelate.json](./344973-aslimelate.json) |
 | Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | Asmodeus | 261748 | [261748-asmodeus.json](./261748-asmodeus.json) |
