@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony III: The Eagle King | 142895 | [142895-hegemony-iii-the-eagle-king.json](./142895-hegemony-iii-the-eagle-king.json) |
 | Hegemony Rome: Rise of Caesar | 54099 | [54099-hegemony-rome-rise-of-caesar.json](./54099-hegemony-rome-rise-of-caesar.json) |
 | Hegemony Rome: The Rise of Caesar - Bannermen Pack | 265250 | [265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json](./265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json) |
+| Heggo | 356022 | [356022-heggo.json](./356022-heggo.json) |
 | Hegis' Grasp: Evil Resurrected | 55704 | [55704-hegis-grasp-evil-resurrected.json](./55704-hegis-grasp-evil-resurrected.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hehu and the Taniwha | 98552 | [98552-hehu-and-the-taniwha.json](./98552-hehu-and-the-taniwha.json) |
