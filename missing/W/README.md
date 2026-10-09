@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbook: Walking with Dinosaurs | 25089 | [25089-wonderbook-walking-with-dinosaurs.json](./25089-wonderbook-walking-with-dinosaurs.json) |
 | Wonderbox: The Adventure Maker | 142352 | [142352-wonderbox-the-adventure-maker.json](./142352-wonderbox-the-adventure-maker.json) |
 | WonderCat Adventures | 34924 | [34924-wondercat-adventures.json](./34924-wondercat-adventures.json) |
+| Wonderfall | 361645 | [361645-wonderfall.json](./361645-wonderfall.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
 | Wonderful Everyday: Down the Rabbit-Hole | 172667 | [172667-wonderful-everyday-down-the-rabbit-hole.json](./172667-wonderful-everyday-down-the-rabbit-hole.json) |
