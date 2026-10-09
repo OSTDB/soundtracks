@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure: Dark Aura | 66408 | [66408-obscure-dark-aura.json](./66408-obscure-dark-aura.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
+| Obscuria 2 | 369917 | [369917-obscuria-2.json](./369917-obscuria-2.json) |
 | Obscuris | 400538 | [400538-obscuris.json](./400538-obscuris.json) |
 | Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
 | Obscurite Magie: The Blood of Kings | 245948 | [245948-obscurite-magie-the-blood-of-kings.json](./245948-obscurite-magie-the-blood-of-kings.json) |
@@ -2109,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Temple | 293874 | [293874-operation-temple.json](./293874-operation-temple.json) |
 | Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
+| Operation Trondheim | 370017 | [370017-operation-trondheim.json](./370017-operation-trondheim.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
 | Operation Ushkurat | 242104 | [242104-operation-ushkurat.json](./242104-operation-ushkurat.json) |
 | Operation Whirlwind | 23964 | [23964-operation-whirlwind.json](./23964-operation-whirlwind.json) |
