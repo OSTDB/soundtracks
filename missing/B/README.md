@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baker Street Breakouts: A Sherlockian Escape Adventure | 231870 | [231870-baker-street-breakouts-a-sherlockian-escape-adventure.json](./231870-baker-street-breakouts-a-sherlockian-escape-adventure.json) |
 | Baker's Dozen | 260859 | [260859-bakers-dozen.json](./260859-bakers-dozen.json) |
 | Bakeru | 254466 | [254466-bakeru.json](./254466-bakeru.json) |
+| Bakery Cafe Simulator | 339217 | [339217-bakery-cafe-simulator.json](./339217-bakery-cafe-simulator.json) |
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
 | Bakery Master | 147091 | [147091-bakery-master.json](./147091-bakery-master.json) |
 | Bakery Shop Match Up | 338187 | [338187-bakery-shop-match-up.json](./338187-bakery-shop-match-up.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band Mates | 386414 | [386414-band-mates.json](./386414-band-mates.json) |
 | Band of Badasses | 355138 | [355138-band-of-badasses.json](./355138-band-of-badasses.json) |
 | Band of Brothers | 148924 | [148924-band-of-brothers.json](./148924-band-of-brothers.json) |
+| Band of Crusaders | 339234 | [339234-band-of-crusaders.json](./339234-band-of-crusaders.json) |
 | Band of Drones | 35578 | [35578-band-of-drones.json](./35578-band-of-drones.json) |
 | Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band of Outlaws | 54491 | [54491-band-of-outlaws.json](./54491-band-of-outlaws.json) |
@@ -5937,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Sails: Crab Lord Pack | 226262 | [226262-blazing-sails-crab-lord-pack.json](./226262-blazing-sails-crab-lord-pack.json) |
 | Blazing Sails: Limbs of Lore Pack | 276414 | [276414-blazing-sails-limbs-of-lore-pack.json](./276414-blazing-sails-limbs-of-lore-pack.json) |
 | Blazing Sails: Privateer Pack | 226263 | [226263-blazing-sails-privateer-pack.json](./226263-blazing-sails-privateer-pack.json) |
+| Blazing Sails: Undead Pirate Pack | 339318 | [339318-blazing-sails-undead-pirate-pack.json](./339318-blazing-sails-undead-pirate-pack.json) |
 | Blazing Skies | 42535 | [42535-blazing-skies.json](./42535-blazing-skies.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
@@ -6652,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
+| Bloodbark | 339221 | [339221-bloodbark.json](./339221-bloodbark.json) |
 | BloodBasket | 364070 | [364070-bloodbasket.json](./364070-bloodbasket.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
 | Bloodbath | 9416 | [9416-bloodbath.json](./9416-bloodbath.json) |
