@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Knight | 400435 | [400435-fantasy-knight.json](./400435-fantasy-knight.json) |
 | Fantasy Kommander: Eukarion Wars | 264213 | [264213-fantasy-kommander-eukarion-wars.json](./264213-fantasy-kommander-eukarion-wars.json) |
+| Fantasy Kommander: Fascination of Evil | 347193 | [347193-fantasy-kommander-fascination-of-evil.json](./347193-fantasy-kommander-fascination-of-evil.json) |
 | Fantasy Land | 40333 | [40333-fantasy-land.json](./40333-fantasy-land.json) |
 | Fantasy Lands | 286790 | [286790-fantasy-lands.json](./286790-fantasy-lands.json) |
 | Fantasy Life | 214147 | [214147-fantasy-life.json](./214147-fantasy-life.json) |
@@ -7709,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
+| Fuga: Melodies of Steel Trilogy Box | 347087 | [347087-fuga-melodies-of-steel-trilogy-box.json](./347087-fuga-melodies-of-steel-trilogy-box.json) |
 | Fugaz | 405056 | [405056-fugaz.json](./405056-fugaz.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugger | 56588 | [56588-fugger.json](./56588-fugger.json) |
