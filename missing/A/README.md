@@ -6086,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Heaven | 382277 | [382277-another-heaven.json](./382277-another-heaven.json) |
 | Another Heaven: Memory of Those Days | 37698 | [37698-another-heaven-memory-of-those-days.json](./37698-another-heaven-memory-of-those-days.json) |
+| Another Hero's Adventure | 386505 | [386505-another-heros-adventure.json](./386505-another-heros-adventure.json) |
 | Another Hope | 309439 | [309439-another-hope.json](./309439-another-hope.json) |
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
