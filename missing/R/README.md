@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
 | Racing angle | 123469 | [123469-racing-angle.json](./123469-racing-angle.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
+| Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
@@ -1724,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
 | Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
 | Real Boxing 2: Remastered - Jonathan DLC | 393068 | [393068-real-boxing-2-remastered-jonathan-dlc.json](./393068-real-boxing-2-remastered-jonathan-dlc.json) |
+| Real Boxing 2: Remastered - Landon Edition | 346002 | [346002-real-boxing-2-remastered-landon-edition.json](./346002-real-boxing-2-remastered-landon-edition.json) |
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Theory | 57736 | [57736-ricochet-theory.json](./57736-ricochet-theory.json) |
 | Ricochet Theory 2 | 57733 | [57733-ricochet-theory-2.json](./57733-ricochet-theory-2.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
+| Ricochlime | 346013 | [346013-ricochlime.json](./346013-ricochlime.json) |
 | RicoGraph | 177868 | [177868-ricograph.json](./177868-ricograph.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
@@ -4974,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
 | River Bones | 204342 | [204342-river-bones.json](./204342-river-bones.json) |
 | River City Girls | 117533 | [117533-river-city-girls.json](./117533-river-city-girls.json) |
+| River City Girls 1, 2, and Zero + Double Dragon DLC Bundle | 346009 | [346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json](./346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls 2: Double Dragon DLC | 309037 | [309037-river-city-girls-2-double-dragon-dlc.json](./309037-river-city-girls-2-double-dragon-dlc.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
@@ -5112,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
+| Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
 | Road To Siren Hills: Dark Journey | 304112 | [304112-road-to-siren-hills-dark-journey.json](./304112-road-to-siren-hills-dark-journey.json) |
 | Road to Valhalla | 312077 | [312077-road-to-valhalla.json](./312077-road-to-valhalla.json) |
