@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girl | 202194 | [202194-kawaii-girl.json](./202194-kawaii-girl.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
+| Kawaii Girls | 335317 | [335317-kawaii-girls.json](./335317-kawaii-girls.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
 | Kawaii Girls: Cute Cheerleader | 362962 | [362962-kawaii-girls-cute-cheerleader.json](./362962-kawaii-girls-cute-cheerleader.json) |
 | Kawaii Girls: Mighty Mongolian | 370815 | [370815-kawaii-girls-mighty-mongolian.json](./370815-kawaii-girls-mighty-mongolian.json) |
