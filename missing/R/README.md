@@ -3274,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team 7 | 44193 | [44193-rescue-team-7.json](./44193-rescue-team-7.json) |
 | Rescue Team 7: Collector's Edition | 53504 | [53504-rescue-team-7-collectors-edition.json](./53504-rescue-team-7-collectors-edition.json) |
 | Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
+| Rescue Team: Ancient Guardian - Collector's Edition | 338779 | [338779-rescue-team-ancient-guardian-collectors-edition.json](./338779-rescue-team-ancient-guardian-collectors-edition.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
@@ -7374,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
 | Run Run Piñata | 187261 | [187261-run-run-pinata.json](./187261-run-run-pinata.json) |
+| Run Salmon Run | 338692 | [338692-run-salmon-run.json](./338692-run-salmon-run.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
 | Run Sausage Run!: Crazy Edition | 362217 | [362217-run-sausage-run-crazy-edition.json](./362217-run-sausage-run-crazy-edition.json) |
