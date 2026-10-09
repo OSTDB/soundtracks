@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | geoDefense | 90909 | [90909-geodefense.json](./90909-geodefense.json) |
 | GeoDefense Swarm | 41499 | [41499-geodefense-swarm.json](./41499-geodefense-swarm.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
+| Geodyssey | 356017 | [356017-geodyssey.json](./356017-geodyssey.json) |
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
 | GeoExpert - Russia Geography | 103152 | [103152-geoexpert-russia-geography.json](./103152-geoexpert-russia-geography.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
