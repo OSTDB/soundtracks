@@ -6405,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rong Yu Zhi Hui Guan | 283406 | [283406-rong-yu-zhi-hui-guan.json](./283406-rong-yu-zhi-hui-guan.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
+| Ronin Awakening | 374933 | [374933-ronin-awakening.json](./374933-ronin-awakening.json) |
 | Ronin Heart | 366393 | [366393-ronin-heart.json](./366393-ronin-heart.json) |
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
@@ -7414,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runika: A World of Little Legends | 152467 | [152467-runika-a-world-of-little-legends.json](./152467-runika-a-world-of-little-legends.json) |
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
+| Runix: Pinball Roguelike | 374970 | [374970-runix-pinball-roguelike.json](./374970-runix-pinball-roguelike.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 279890 | [279890-runner.json](./279890-runner.json) |
