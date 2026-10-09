@@ -6989,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Mirai: Spooky Edition | 308962 | [308962-colorful-mirai-spooky-edition.json](./308962-colorful-mirai-spooky-edition.json) |
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Recolor | 208315 | [208315-colorful-recolor.json](./208315-colorful-recolor.json) |
+| Colorful Shooting | 370468 | [370468-colorful-shooting.json](./370468-colorful-shooting.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
@@ -8494,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
+| Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
@@ -8580,6 +8582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
+| Corrupt Them All: Tokyo Meow | 370577 | [370577-corrupt-them-all-tokyo-meow.json](./370577-corrupt-them-all-tokyo-meow.json) |
 | Corrupt.exe | 408850 | [408850-corrupt-exe.json](./408850-corrupt-exe.json) |
 | Corrupted | 251063 | [251063-corrupted.json](./251063-corrupted.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
@@ -10173,6 +10176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
 | Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
+| Critical Strike Modern: SWAT Shooter Ops | 370566 | [370566-critical-strike-modern-swat-shooter-ops.json](./370566-critical-strike-modern-swat-shooter-ops.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
@@ -11322,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cum Clicker | 262098 | [262098-cum-clicker.json](./262098-cum-clicker.json) |
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
 | Cum Queens | 285131 | [285131-cum-queens.json](./285131-cum-queens.json) |
+| Cumboy in Space | 370467 | [370467-cumboy-in-space.json](./370467-cumboy-in-space.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
@@ -11499,6 +11504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed Mansion: Rose Christmas Costume | 285122 | [285122-cursed-mansion-rose-christmas-costume.json](./285122-cursed-mansion-rose-christmas-costume.json) |
+| Cursed Memory | 370549 | [370549-cursed-memory.json](./370549-cursed-memory.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
