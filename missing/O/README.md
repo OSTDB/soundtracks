@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | Obreno: Chapter One | 138585 | [138585-obreno-chapter-one.json](./138585-obreno-chapter-one.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
+| Obsccurus Somulum | 335236 | [335236-obsccurus-somulum.json](./335236-obsccurus-somulum.json) |
 | Obscura | 162841 | [162841-obscura.json](./162841-obscura.json) |
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
