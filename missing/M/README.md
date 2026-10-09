@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
 | Magic Kid Goo Goo | 48898 | [48898-magic-kid-goo-goo.json](./48898-magic-kid-goo-goo.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
+| Magic Kingdom | 373303 | [373303-magic-kingdom.json](./373303-magic-kingdom.json) |
 | Magic Kingdom War DLC-1 | 220609 | [220609-magic-kingdom-war-dlc-1.json](./220609-magic-kingdom-war-dlc-1.json) |
 | Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
@@ -3392,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mate | 207201 | [207201-mate.json](./207201-mate.json) |
 | Mate in Eleven | 364104 | [364104-mate-in-eleven.json](./364104-mate-in-eleven.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
+| Mate'Morphosis | 373343 | [373343-matemorphosis.json](./373343-matemorphosis.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matelotes | 415182 | [415182-matelotes.json](./415182-matelotes.json) |
 | Matemágica | 250528 | [250528-matemagica.json](./250528-matemagica.json) |
@@ -7721,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Pandemic | 157469 | [157469-ministry-of-pandemic.json](./157469-ministry-of-pandemic.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
+| Ministry of Stoic | 373310 | [373310-ministry-of-stoic.json](./373310-ministry-of-stoic.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Minitime | 99687 | [99687-minitime.json](./99687-minitime.json) |
@@ -9893,6 +9896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moontorc | 13016 | [13016-moontorc.json](./13016-moontorc.json) |
 | Moontouched | 347880 | [347880-moontouched.json](./347880-moontouched.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
+| Moonvile | 373307 | [373307-moonvile.json](./373307-moonvile.json) |
 | Moonwakers | 293154 | [293154-moonwakers.json](./293154-moonwakers.json) |
 | Moonwalker | 13017 | [13017-moonwalker.json](./13017-moonwalker.json) |
 | Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
