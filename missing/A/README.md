@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
+| AirLoveEngine | 366128 | [366128-airloveengine.json](./366128-airloveengine.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | AirMech: Command | 19899 | [19899-airmech-command.json](./19899-airmech-command.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
@@ -5844,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
+| Anime Dream Match: Predators | 366134 | [366134-anime-dream-match-predators.json](./366134-anime-dream-match-predators.json) |
 | Anime Dream Match: Rodents | 362349 | [362349-anime-dream-match-rodents.json](./362349-anime-dream-match-rodents.json) |
 | Anime Dress Up | 88741 | [88741-anime-dress-up.json](./88741-anime-dress-up.json) |
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
