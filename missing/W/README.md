@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
+| Wanech's Z.O.O. | 369907 | [369907-wanechs-z-o-o.json](./369907-wanechs-z-o-o.json) |
 | Wang Nukem | 308371 | [308371-wang-nukem.json](./308371-wang-nukem.json) |
 | Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
 | Wangan Dorifto | 199917 | [199917-wangan-dorifto.json](./199917-wangan-dorifto.json) |
