@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
+| Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Fusion | 12036 | [12036-dark-fusion.json](./12036-dark-fusion.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
@@ -9236,6 +9237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: True Love | 88458 | [88458-dream-day-true-love.json](./88458-dream-day-true-love.json) |
 | Dream Day: Viva Las Vegas | 87284 | [87284-dream-day-viva-las-vegas.json](./87284-dream-day-viva-las-vegas.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
+| Dream Dazia | 378543 | [378543-dream-dazia.json](./378543-dream-dazia.json) |
 | Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
 | Dream Divers 2 | 303014 | [303014-dream-divers-2.json](./303014-dream-divers-2.json) |
