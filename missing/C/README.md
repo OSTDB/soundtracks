@@ -2176,7 +2176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
-| Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
@@ -6762,6 +6761,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
 | College Football's National Championship II | 46535 | [46535-college-footballs-national-championship-ii.json](./46535-college-footballs-national-championship-ii.json) |
 | College Gay Sex: Episode 5 | 338876 | [338876-college-gay-sex-episode-5.json](./338876-college-gay-sex-episode-5.json) |
+| College Gay Sex: Episode 7 | 371061 | [371061-college-gay-sex-episode-7.json](./371061-college-gay-sex-episode-7.json) |
+| College Gay Sex: Episode 8 | 371063 | [371063-college-gay-sex-episode-8.json](./371063-college-gay-sex-episode-8.json) |
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
 | College Kings 2: Episode 1 | 196041 | [196041-college-kings-2-episode-1.json](./196041-college-kings-2-episode-1.json) |
 | College Kings 2: Episode 2 "The Pool Party" Reworked | 354495 | [354495-college-kings-2-episode-2-the-pool-party-reworked.json](./354495-college-kings-2-episode-2-the-pool-party-reworked.json) |
@@ -6905,7 +6906,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
-| Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
@@ -7305,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Come To Play | 370293 | [370293-come-to-play.json](./370293-come-to-play.json) |
+| Come Towards Me. | 371129 | [371129-come-towards-me.json](./371129-come-towards-me.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
@@ -11228,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Life Simulator | 375972 | [375972-cuckold-life-simulator.json](./375972-cuckold-life-simulator.json) |
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cuckold Sex: Episode 5 | 339353 | [339353-cuckold-sex-episode-5.json](./339353-cuckold-sex-episode-5.json) |
+| Cuckold Sex: Episode 6 | 371062 | [371062-cuckold-sex-episode-6.json](./371062-cuckold-sex-episode-6.json) |
 | Cuckold Simulator | 146562 | [146562-cuckold-simulator.json](./146562-cuckold-simulator.json) |
 | Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
