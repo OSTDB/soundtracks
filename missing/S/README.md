@@ -11900,6 +11900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Stone Smashing Simulator | 396582 | [396582-space-stone-smashing-simulator.json](./396582-space-stone-smashing-simulator.json) |
 | Space Storeship | 163849 | [163849-space-storeship.json](./163849-space-storeship.json) |
+| Space Storm | 377984 | [377984-space-storm.json](./377984-space-storm.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Strider | 275093 | [275093-space-strider.json](./275093-space-strider.json) |
 | Space Strike | 24912 | [24912-space-strike.json](./24912-space-strike.json) |
@@ -12354,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
+| Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
 | Spectral Souls | 175756 | [175756-spectral-souls.json](./175756-spectral-souls.json) |
