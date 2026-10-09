@@ -5148,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
+| Green Horizon: VR Golf | 382531 | [382531-green-horizon-vr-golf.json](./382531-green-horizon-vr-golf.json) |
 | Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Lantern | 208319 | [208319-green-lantern.json](./208319-green-lantern.json) |
