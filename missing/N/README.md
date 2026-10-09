@@ -4134,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
+| Noscope Flappy: MLG Bird Version - The Parody | 348744 | [348744-noscope-flappy-mlg-bird-version-the-parody.json](./348744-noscope-flappy-mlg-bird-version-the-parody.json) |
 | Nose | 152145 | [152145-nose.json](./152145-nose.json) |
 | Nose | 224501 | [224501-nose.json](./224501-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
