@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desire & Decorum: Book 3 | 313715 | [313715-desire-and-decorum-book-3.json](./313715-desire-and-decorum-book-3.json) |
 | Desire & Decorum: First Winter | 313716 | [313716-desire-and-decorum-first-winter.json](./313716-desire-and-decorum-first-winter.json) |
 | Desire City | 175708 | [175708-desire-city.json](./175708-desire-city.json) |
+| Desire Den | 367267 | [367267-desire-den.json](./367267-desire-den.json) |
 | Desire Gambling House | 284339 | [284339-desire-gambling-house.json](./284339-desire-gambling-house.json) |
 | Desire Ninja | 195641 | [195641-desire-ninja.json](./195641-desire-ninja.json) |
 | Desire Remaster Version | 57087 | [57087-desire-remaster-version.json](./57087-desire-remaster-version.json) |
@@ -5052,6 +5053,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickie A Cumming: The Prequel | 196033 | [196033-dickie-a-cumming-the-prequel.json](./196033-dickie-a-cumming-the-prequel.json) |
 | Dickland: Horror Quest | 253980 | [253980-dickland-horror-quest.json](./253980-dickland-horror-quest.json) |
+| Dickland: Mini Games | 367281 | [367281-dickland-mini-games.json](./367281-dickland-mini-games.json) |
+| Dickland: Quest | 367280 | [367280-dickland-quest.json](./367280-dickland-quest.json) |
 | Dickland: Racing | 259064 | [259064-dickland-racing.json](./259064-dickland-racing.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
