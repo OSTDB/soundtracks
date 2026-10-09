@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
+| Dark Mine | 343210 | [343210-dark-mine.json](./343210-dark-mine.json) |
 | Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
 | Dark Mist | 21818 | [21818-dark-mist.json](./21818-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
+| Die Trying | 343205 | [343205-die-trying.json](./343205-die-trying.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
 | Die With Glory | 28357 | [28357-die-with-glory.json](./28357-die-with-glory.json) |
@@ -7299,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drink That! | 364667 | [364667-dont-drink-that.json](./364667-dont-drink-that.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
+| Don't Drop the Soap | 343228 | [343228-dont-drop-the-soap.json](./343228-dont-drop-the-soap.json) |
 | Don't Drop the White Ball 2 | 252709 | [252709-dont-drop-the-white-ball-2.json](./252709-dont-drop-the-white-ball-2.json) |
 | Don't Drown | 258098 | [258098-dont-drown.json](./258098-dont-drown.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
@@ -11086,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo Runner 3D | 262464 | [262464-duo-runner-3d.json](./262464-duo-runner-3d.json) |
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | Duolingo | 321884 | [321884-duolingo.json](./321884-duolingo.json) |
+| DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
 | Duotone | 213269 | [213269-duotone.json](./213269-duotone.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | Duotris | 67344 | [67344-duotris.json](./67344-duotris.json) |
