@@ -203,6 +203,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
+| A Few Nights With: Francesca | 371042 | [371042-a-few-nights-with-francesca.json](./371042-a-few-nights-with-francesca.json) |
+| A Few Nights With: Margaret | 371041 | [371041-a-few-nights-with-margaret.json](./371041-a-few-nights-with-margaret.json) |
 | A Few of Us: Operation Nightshade | 388171 | [388171-a-few-of-us-operation-nightshade.json](./388171-a-few-of-us-operation-nightshade.json) |
 | A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
@@ -484,9 +486,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
 | A Night With Gigsjaw VR | 374226 | [374226-a-night-with-gigsjaw-vr.json](./374226-a-night-with-gigsjaw-vr.json) |
+| A Night With Natalie | 371045 | [371045-a-night-with-natalie.json](./371045-a-night-with-natalie.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With: Brazilian Waifu | 342818 | [342818-a-night-with-brazilian-waifu.json](./342818-a-night-with-brazilian-waifu.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
+| A Night With: SuperHero | 371043 | [371043-a-night-with-superhero.json](./371043-a-night-with-superhero.json) |
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
@@ -1991,7 +1995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -2516,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
+| Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
 | Age of Wonders 4: Primal Fury | 288837 | [288837-age-of-wonders-4-primal-fury.json](./288837-age-of-wonders-4-primal-fury.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
@@ -7742,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Patterns of Morpheus | 380202 | [380202-argonauts-agency-patterns-of-morpheus.json](./380202-argonauts-agency-patterns-of-morpheus.json) |
 | Argonauts Agency: Secret of the Labyrinth | 418539 | [418539-argonauts-agency-secret-of-the-labyrinth.json](./418539-argonauts-agency-secret-of-the-labyrinth.json) |
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
+| Argonauts Agency: Wrath of Olympus | 371127 | [371127-argonauts-agency-wrath-of-olympus.json](./371127-argonauts-agency-wrath-of-olympus.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
@@ -9917,6 +9922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
 | Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
 | Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
+| Aurora Dawn Poet | 371120 | [371120-aurora-dawn-poet.json](./371120-aurora-dawn-poet.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Feint II: The Arena | 70611 | [70611-aurora-feint-ii-the-arena.json](./70611-aurora-feint-ii-the-arena.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
