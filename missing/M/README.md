@@ -7820,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage Online Classic | 127807 | [127807-mirage-online-classic.json](./127807-mirage-online-classic.json) |
+| Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirage: Perfect Skyline | 303194 | [303194-mirage-perfect-skyline.json](./303194-mirage-perfect-skyline.json) |
@@ -7894,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirth Melody | 313781 | [313781-mirth-melody.json](./313781-mirth-melody.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
 | Miruri: Mahou Fuku Bouken | 408248 | [408248-miruri-mahou-fuku-bouken.json](./408248-miruri-mahou-fuku-bouken.json) |
+| Mis Amigos | 385938 | [385938-mis-amigos.json](./385938-mis-amigos.json) |
 | Mis Ladrillos Interactivo | 93218 | [93218-mis-ladrillos-interactivo.json](./93218-mis-ladrillos-interactivo.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
@@ -8530,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
+| Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
