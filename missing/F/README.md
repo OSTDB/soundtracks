@@ -6941,6 +6941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
+| Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Freezy Match | 393121 | [393121-freezy-match.json](./393121-freezy-match.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
