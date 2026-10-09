@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
+| Inferis: Dead Below | 359923 | [359923-inferis-dead-below.json](./359923-inferis-dead-below.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
