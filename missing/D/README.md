@@ -8586,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
 | Dragon Castle | 346753 | [346753-dragon-castle.json](./346753-dragon-castle.json) |
 | Dragon Castle: The Board Game | 127095 | [127095-dragon-castle-the-board-game.json](./127095-dragon-castle-the-board-game.json) |
+| Dragon Cat | 384302 | [384302-dragon-cat.json](./384302-dragon-cat.json) |
 | Dragon Cave | 361298 | [361298-dragon-cave.json](./361298-dragon-cave.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
