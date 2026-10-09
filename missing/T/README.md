@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
 | Talion | 109508 | [109508-talion.json](./109508-talion.json) |
+| Talisman | 385400 | [385400-talisman.json](./385400-talisman.json) |
 | Talisman - Frostmarch | 53696 | [53696-talisman-frostmarch.json](./53696-talisman-frostmarch.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
 | The Last Flower | 294869 | [294869-the-last-flower.json](./294869-the-last-flower.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
+| The Last Frame | 385360 | [385360-the-last-frame.json](./385360-the-last-frame.json) |
 | The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
@@ -9178,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reason Why Raeliana Ended up at the Duke's Mansion: Heika's Colorful Day Out | 170832 | [170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json](./170832-the-reason-why-raeliana-ended-up-at-the-dukes-mansion-heikas-colorful-day-out.json) |
 | The Reasons for It. | 397080 | [397080-the-reasons-for-it.json](./397080-the-reasons-for-it.json) |
 | The Rebel | 33275 | [33275-the-rebel.json](./33275-the-rebel.json) |
+| The Rebellion | 385370 | [385370-the-rebellion.json](./385370-the-rebellion.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
@@ -11507,6 +11510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Worm - A Lean Short | 128431 | [128431-the-worm-a-lean-short.json](./128431-the-worm-a-lean-short.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
+| The Worst Sonic the Hedgehog Romhack (Featuring Mario) | 385366 | [385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json](./385366-the-worst-sonic-the-hedgehog-romhack-featuring-mario.json) |
+| The Worst Sonic the Hedgehog Romhack (Featuring Mario) 2 | 385367 | [385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json](./385367-the-worst-sonic-the-hedgehog-romhack-featuring-mario-2.json) |
 | The Worst-Case Scenario Survival Trivia Challenge | 69914 | [69914-the-worst-case-scenario-survival-trivia-challenge.json](./69914-the-worst-case-scenario-survival-trivia-challenge.json) |
 | The Wraith of the Galaxy | 207350 | [207350-the-wraith-of-the-galaxy.json](./207350-the-wraith-of-the-galaxy.json) |
 | The Wranglers | 90186 | [90186-the-wranglers.json](./90186-the-wranglers.json) |
