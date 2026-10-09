@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incel Syndrome | 156721 | [156721-incel-syndrome.json](./156721-incel-syndrome.json) |
 | InCell | 12302 | [12302-incell.json](./12302-incell.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
+| Incelthread | 345448 | [345448-incelthread.json](./345448-incelthread.json) |
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
 | Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
