@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostlight Melancholia | 201082 | [201082-ghostlight-melancholia.json](./201082-ghostlight-melancholia.json) |
 | Ghostlop | 40126 | [40126-ghostlop.json](./40126-ghostlop.json) |
 | Ghostlop (Limited release) | 75470 | [75470-ghostlop-limited-release.json](./75470-ghostlop-limited-release.json) |
+| Ghostly Acres | 373302 | [373302-ghostly-acres.json](./373302-ghostly-acres.json) |
 | Ghostly Desires | 73856 | [73856-ghostly-desires.json](./73856-ghostly-desires.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
