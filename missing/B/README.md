@@ -4048,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between Heaven and Hell | 72033 | [72033-between-heaven-and-hell.json](./72033-between-heaven-and-hell.json) |
 | Between Me and the Night | 16985 | [16985-between-me-and-the-night.json](./16985-between-me-and-the-night.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
+| Between Sky and Earth | 348822 | [348822-between-sky-and-earth.json](./348822-between-sky-and-earth.json) |
 | Between Stations | 177332 | [177332-between-stations.json](./177332-between-stations.json) |
 | Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
 | Between the City and the Needle | 110231 | [110231-between-the-city-and-the-needle.json](./110231-between-the-city-and-the-needle.json) |
@@ -6851,6 +6852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
+| Bloxiti | 348731 | [348731-bloxiti.json](./348731-bloxiti.json) |
 | Bloxland Story | 60906 | [60906-bloxland-story.json](./60906-bloxland-story.json) |
 | Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
@@ -8380,6 +8382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Runners: Deluxe! | 398676 | [398676-box-runners-deluxe.json](./398676-box-runners-deluxe.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box Rush 2: Ice Worlds | 200569 | [200569-box-rush-2-ice-worlds.json](./200569-box-rush-2-ice-worlds.json) |
+| Box Stocks | 348756 | [348756-box-stocks.json](./348756-box-stocks.json) |
 | Box the Beat VR | 160213 | [160213-box-the-beat-vr.json](./160213-box-the-beat-vr.json) |
 | Box to Box | 208454 | [208454-box-to-box.json](./208454-box-to-box.json) |
 | Box to the Beat VR | 207448 | [207448-box-to-the-beat-vr.json](./207448-box-to-the-beat-vr.json) |
@@ -8961,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
+| Breaker of Fatalism | 348739 | [348739-breaker-of-fatalism.json](./348739-breaker-of-fatalism.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
 | Breakers | 28707 | [28707-breakers.json](./28707-breakers.json) |
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
