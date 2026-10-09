@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
 | Hell Let Loose: Deluxe Edition | 273004 | [273004-hell-let-loose-deluxe-edition.json](./273004-hell-let-loose-deluxe-edition.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
+| Hell Let Loose: Long Range Desert Group | 372250 | [372250-hell-let-loose-long-range-desert-group.json](./372250-hell-let-loose-long-range-desert-group.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
 | Hell Let Loose: Pea Dot | 312017 | [312017-hell-let-loose-pea-dot.json](./312017-hell-let-loose-pea-dot.json) |
 | Hell Let Loose: Polish Parachute Brigade Uniform | 312013 | [312013-hell-let-loose-polish-parachute-brigade-uniform.json](./312013-hell-let-loose-polish-parachute-brigade-uniform.json) |
@@ -2424,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Spearhead Edition | 187975 | [187975-hell-let-loose-spearhead-edition.json](./187975-hell-let-loose-spearhead-edition.json) |
 | Hell Let Loose: Ultimate Edition | 273003 | [273003-hell-let-loose-ultimate-edition.json](./273003-hell-let-loose-ultimate-edition.json) |
 | Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
+| Hell Let Loose: Western Desert Campaign Units | 372251 | [372251-hell-let-loose-western-desert-campaign-units.json](./372251-hell-let-loose-western-desert-campaign-units.json) |
 | Hell Loop | 149526 | [149526-hell-loop.json](./149526-hell-loop.json) |
 | Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
 | Hell Maiden | 327817 | [327817-hell-maiden.json](./327817-hell-maiden.json) |
