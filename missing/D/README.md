@@ -9777,6 +9777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driverio | 219108 | [219108-driverio.json](./219108-driverio.json) |
 | Driverio 2 | 223518 | [223518-driverio-2.json](./223518-driverio-2.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
+| DriveWave | 374953 | [374953-drivewave.json](./374953-drivewave.json) |
 | Driving Academy 2018 Simulator | 86972 | [86972-driving-academy-2018-simulator.json](./86972-driving-academy-2018-simulator.json) |
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
