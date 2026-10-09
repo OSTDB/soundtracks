@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
+| Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
@@ -13058,6 +13059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
+| Spider-Man 2: Web of Words | 338778 | [338778-spider-man-2-web-of-words.json](./338778-spider-man-2-web-of-words.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
