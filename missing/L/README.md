@@ -3164,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
 | Liminal Sorting | 416092 | [416092-liminal-sorting.json](./416092-liminal-sorting.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
+| Liminal Spaces: Outside The Backrooms | 341524 | [341524-liminal-spaces-outside-the-backrooms.json](./341524-liminal-spaces-outside-the-backrooms.json) |
 | Liminal Underground: Creatures Beyond | 411125 | [411125-liminal-underground-creatures-beyond.json](./411125-liminal-underground-creatures-beyond.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
@@ -5645,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
+| Ludaro | 341535 | [341535-ludaro.json](./341535-ludaro.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
