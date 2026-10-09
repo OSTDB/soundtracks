@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
 | Keep Moving Forward | 182228 | [182228-keep-moving-forward.json](./182228-keep-moving-forward.json) |
+| Keep of the Knights | 342010 | [342010-keep-of-the-knights.json](./342010-keep-of-the-knights.json) |
 | Keep of the Witch | 221186 | [221186-keep-of-the-witch.json](./221186-keep-of-the-witch.json) |
 | Keep On | 180641 | [180641-keep-on.json](./180641-keep-on.json) |
 | Keep on Mining! | 349928 | [349928-keep-on-mining.json](./349928-keep-on-mining.json) |
@@ -3742,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyosho | 320817 | [320817-kyosho.json](./320817-kyosho.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
+| Kyoto Anomaly | 342108 | [342108-kyoto-anomaly.json](./342108-kyoto-anomaly.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
 | Kyou kara Tsukaeru Hisshou Business Shinrigaku | 261376 | [261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json](./261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json) |
 | Kyou no Sekai: Crazy World | 166039 | [166039-kyou-no-sekai-crazy-world.json](./166039-kyou-no-sekai-crazy-world.json) |
