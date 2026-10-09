@@ -4710,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
+| FlippUp | 356015 | [356015-flippup.json](./356015-flippup.json) |
 | Flippy | 88759 | [88759-flippy.json](./88759-flippy.json) |
 | Flippy Bard | 61309 | [61309-flippy-bard.json](./61309-flippy-bard.json) |
 | Flippy Boat | 104471 | [104471-flippy-boat.json](./104471-flippy-boat.json) |
