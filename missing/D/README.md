@@ -7137,6 +7137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dollhouse | 11668 | [11668-dollhouse.json](./11668-dollhouse.json) |
 | Dollhouse | 125217 | [125217-dollhouse.json](./125217-dollhouse.json) |
+| Dollhouse | 335237 | [335237-dollhouse.json](./335237-dollhouse.json) |
 | Dollhouse of Dead | 366724 | [366724-dollhouse-of-dead.json](./366724-dollhouse-of-dead.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
@@ -10659,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Army | 197768 | [197768-dungeon-army.json](./197768-dungeon-army.json) |
 | Dungeon Arsenal | 173031 | [173031-dungeon-arsenal.json](./173031-dungeon-arsenal.json) |
 | Dungeon Ascension | 280895 | [280895-dungeon-ascension.json](./280895-dungeon-ascension.json) |
+| Dungeon Ascent | 335386 | [335386-dungeon-ascent.json](./335386-dungeon-ascent.json) |
 | Dungeon Attack | 151655 | [151655-dungeon-attack.json](./151655-dungeon-attack.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
 | Dungeon Baller | 310936 | [310936-dungeon-baller.json](./310936-dungeon-baller.json) |
