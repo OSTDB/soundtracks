@@ -10289,13 +10289,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
+| Moshi Color with Fluttercup | 381912 | [381912-moshi-color-with-fluttercup.json](./381912-moshi-color-with-fluttercup.json) |
+| Moshi Karts | 381929 | [381929-moshi-karts.json](./381929-moshi-karts.json) |
+| Moshi Kids | 381916 | [381916-moshi-kids.json](./381916-moshi-kids.json) |
 | Moshi Monsters | 349990 | [349990-moshi-monsters.json](./349990-moshi-monsters.json) |
+| Moshi Monsters Egg Hunt | 381919 | [381919-moshi-monsters-egg-hunt.json](./381919-moshi-monsters-egg-hunt.json) |
 | Moshi Monsters Food Factory | 395500 | [395500-moshi-monsters-food-factory.json](./395500-moshi-monsters-food-factory.json) |
 | Moshi Monsters Village | 395522 | [395522-moshi-monsters-village.json](./395522-moshi-monsters-village.json) |
 | Moshi Monsters: Buster's Lost Moshlings | 96897 | [96897-moshi-monsters-busters-lost-moshlings.json](./96897-moshi-monsters-busters-lost-moshlings.json) |
 | Moshi Monsters: Moshling Zoo | 47892 | [47892-moshi-monsters-moshling-zoo.json](./47892-moshi-monsters-moshling-zoo.json) |
 | Moshi Monsters: Moshlings Theme Park | 47658 | [47658-moshi-monsters-moshlings-theme-park.json](./47658-moshi-monsters-moshlings-theme-park.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
+| Moshi Play | 381913 | [381913-moshi-play.json](./381913-moshi-play.json) |
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
