@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
 | The Fiancée Has Never Known First Love | 370288 | [370288-the-fiancee-has-never-known-first-love.json](./370288-the-fiancee-has-never-known-first-love.json) |
+| The Fiancée Has Never Known First Love: Motto Iinazuke | 381329 | [381329-the-fiancee-has-never-known-first-love-motto-iinazuke.json](./381329-the-fiancee-has-never-known-first-love-motto-iinazuke.json) |
 | The Fickle Hands of Fate | 231459 | [231459-the-fickle-hands-of-fate.json](./231459-the-fickle-hands-of-fate.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
 | The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
@@ -6383,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
 | The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
+| The Herzbury Curse | 381351 | [381351-the-herzbury-curse.json](./381351-the-herzbury-curse.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
@@ -8171,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
+| The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
@@ -14155,6 +14158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
 | Tiny Toyfare | 55513 | [55513-tiny-toyfare.json](./55513-tiny-toyfare.json) |
 | Tiny TrackZ | 175208 | [175208-tiny-trackz.json](./175208-tiny-trackz.json) |
+| Tiny Train Tycoon | 381355 | [381355-tiny-train-tycoon.json](./381355-tiny-train-tycoon.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
@@ -16540,6 +16544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace of the past | 121559 | [121559-trace-of-the-past.json](./121559-trace-of-the-past.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Trace Vector | 17341 | [17341-trace-vector.json](./17341-trace-vector.json) |
+| Tracebound | 381360 | [381360-tracebound.json](./381360-tracebound.json) |
 | Tracer | 186136 | [186136-tracer.json](./186136-tracer.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Traces of Gods | 372097 | [372097-traces-of-gods.json](./372097-traces-of-gods.json) |
