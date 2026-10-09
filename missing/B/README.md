@@ -3682,6 +3682,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
+| Ben 10: 012 - Projectile Mod: Shardblaster | 363811 | [363811-ben-10-012-projectile-mod-shardblaster.json](./363811-ben-10-012-projectile-mod-shardblaster.json) |
+| Ben 10: 013 - Attack Mod: Laserwave | 363815 | [363815-ben-10-013-attack-mod-laserwave.json](./363815-ben-10-013-attack-mod-laserwave.json) |
+| Ben 10: 014 - Attack Mod: Prismforce | 363816 | [363816-ben-10-014-attack-mod-prismforce.json](./363816-ben-10-014-attack-mod-prismforce.json) |
+| Ben 10: 015 - Defense Mod: Crystal Shield | 363817 | [363817-ben-10-015-defense-mod-crystal-shield.json](./363817-ben-10-015-defense-mod-crystal-shield.json) |
+| Ben 10: 016 - Projectile Mod: Flamethrower | 363818 | [363818-ben-10-016-projectile-mod-flamethrower.json](./363818-ben-10-016-projectile-mod-flamethrower.json) |
+| Ben 10: 017 - Speed Mod: Thermostat | 363819 | [363819-ben-10-017-speed-mod-thermostat.json](./363819-ben-10-017-speed-mod-thermostat.json) |
+| Ben 10: 018 - Attack Mod: Blast Furnace | 363820 | [363820-ben-10-018-attack-mod-blast-furnace.json](./363820-ben-10-018-attack-mod-blast-furnace.json) |
+| Ben 10: 019 - Defense Mod: Firewall | 363821 | [363821-ben-10-019-defense-mod-firewall.json](./363821-ben-10-019-defense-mod-firewall.json) |
+| Ben 10: 020 - Attack Mod: Razor Quills | 363822 | [363822-ben-10-020-attack-mod-razor-quills.json](./363822-ben-10-020-attack-mod-razor-quills.json) |
+| Ben 10: 021 - Speed Mod: Feral Slashes | 363823 | [363823-ben-10-021-speed-mod-feral-slashes.json](./363823-ben-10-021-speed-mod-feral-slashes.json) |
+| Ben 10: 022 - Attack Mod: Berzerker | 363824 | [363824-ben-10-022-attack-mod-berzerker.json](./363824-ben-10-022-attack-mod-berzerker.json) |
+| Ben 10: 023 - Defense Mod: Sixth Sense | 363825 | [363825-ben-10-023-defense-mod-sixth-sense.json](./363825-ben-10-023-defense-mod-sixth-sense.json) |
+| Ben 10: 024 - Attack Mod: Soul Sink | 363826 | [363826-ben-10-024-attack-mod-soul-sink.json](./363826-ben-10-024-attack-mod-soul-sink.json) |
 | Ben 10: 028 - Power Mod: High Jump | 363890 | [363890-ben-10-028-power-mod-high-jump.json](./363890-ben-10-028-power-mod-high-jump.json) |
 | Ben 10: 065 - Villain Defense: Smoke and Mirrors | 363869 | [363869-ben-10-065-villain-defense-smoke-and-mirrors.json](./363869-ben-10-065-villain-defense-smoke-and-mirrors.json) |
 | Ben 10: 066 - Villain Defense: Short Circuit | 363870 | [363870-ben-10-066-villain-defense-short-circuit.json](./363870-ben-10-066-villain-defense-short-circuit.json) |
