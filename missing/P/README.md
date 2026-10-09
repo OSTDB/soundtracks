@@ -4624,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
 | Pirate Tales | 100779 | [100779-pirate-tales.json](./100779-pirate-tales.json) |
+| Pirate Trails | 333525 | [333525-pirate-trails.json](./333525-pirate-trails.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
