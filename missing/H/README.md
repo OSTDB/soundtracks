@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
+| Haruko Maniax | 345424 | [345424-haruko-maniax.json](./345424-haruko-maniax.json) |
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
 | Haruoto Alice Gram: Snow Drop | 113585 | [113585-haruoto-alice-gram-snow-drop.json](./113585-haruoto-alice-gram-snow-drop.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
+| Helga the Viking Warrior 6: Beyond Ragnarok | 345417 | [345417-helga-the-viking-warrior-6-beyond-ragnarok.json](./345417-helga-the-viking-warrior-6-beyond-ragnarok.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
 | Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
@@ -3834,6 +3836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | Hexborn | 366729 | [366729-hexborn.json](./366729-hexborn.json) |
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
+| Hexbound | 345412 | [345412-hexbound.json](./345412-hexbound.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | hexceed: Animo | 155694 | [155694-hexceed-animo.json](./155694-hexceed-animo.json) |
@@ -4679,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
+| Hillshade Farm | 345426 | [345426-hillshade-farm.json](./345426-hillshade-farm.json) |
 | Hillside | 156565 | [156565-hillside.json](./156565-hillside.json) |
 | Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
@@ -4965,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
 | Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
+| Hive Blight | 345434 | [345434-hive-blight.json](./345434-hive-blight.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
