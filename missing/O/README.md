@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Grid | 96266 | [96266-off-grid.json](./96266-off-grid.json) |
 | Off Grids | 272255 | [272255-off-grids.json](./272255-off-grids.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
+| Off Road Racing | 367305 | [367305-off-road-racing.json](./367305-off-road-racing.json) |
 | Off Road Stars | 372693 | [372693-off-road-stars.json](./372693-off-road-stars.json) |
 | Off Road Together | 411660 | [411660-off-road-together.json](./411660-off-road-together.json) |
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
