@@ -5294,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | MemoTrimo | 84471 | [84471-memotrimo.json](./84471-memotrimo.json) |
 | Memoware | 381280 | [381280-memoware.json](./381280-memoware.json) |
+| Memrrtiks, Suashem | 358789 | [358789-memrrtiks-suashem.json](./358789-memrrtiks-suashem.json) |
 | Men Are From Mars, Women Are From Venus: The CD-ROM Game | 60351 | [60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json](./60351-men-are-from-mars-women-are-from-venus-the-cd-rom-game.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
@@ -10605,6 +10606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Raid | 39798 | [39798-motor-raid.json](./39798-motor-raid.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Rally 2 | 246352 | [246352-motor-rally-2.json](./246352-motor-rally-2.json) |
+| Motor Rally 2 | 358836 | [358836-motor-rally-2.json](./358836-motor-rally-2.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Town: Soul of the Machine | 54230 | [54230-motor-town-soul-of-the-machine.json](./54230-motor-town-soul-of-the-machine.json) |
