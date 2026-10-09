@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
+| Catharsis | 363813 | [363813-catharsis.json](./363813-catharsis.json) |
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
 | Cathedral 3-D | 123364 | [123364-cathedral-3-d.json](./123364-cathedral-3-d.json) |
