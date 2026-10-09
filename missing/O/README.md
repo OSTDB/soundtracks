@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night at Flumpty's 3 | 178400 | [178400-one-night-at-flumptys-3.json](./178400-one-night-at-flumptys-3.json) |
 | One Night At Freddy's | 273951 | [273951-one-night-at-freddys.json](./273951-one-night-at-freddys.json) |
 | One Night At Herobrine's | 280446 | [280446-one-night-at-herobrines.json](./280446-one-night-at-herobrines.json) |
+| One Night at the Steeze | 343838 | [343838-one-night-at-the-steeze.json](./343838-one-night-at-the-steeze.json) |
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
 | One Night in Kawami | 273590 | [273590-one-night-in-kawami.json](./273590-one-night-in-kawami.json) |
