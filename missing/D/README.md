@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadbreed | 14726 | [14726-deadbreed.json](./14726-deadbreed.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
+| Deadcam | 373301 | [373301-deadcam.json](./373301-deadcam.json) |
 | DeadCore | 7864 | [7864-deadcore.json](./7864-deadcore.json) |
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
 | Deadcraft: Deluxe Edition | 199896 | [199896-deadcraft-deluxe-edition.json](./199896-deadcraft-deluxe-edition.json) |
@@ -4219,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktopia: A Desktop Village Simulator | 212720 | [212720-desktopia-a-desktop-village-simulator.json](./212720-desktopia-a-desktop-village-simulator.json) |
 | Desktopia: End of the Road | 232453 | [232453-desktopia-end-of-the-road.json](./232453-desktopia-end-of-the-road.json) |
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
+| Desktown | 373323 | [373323-desktown.json](./373323-desktown.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
@@ -6942,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Doki Zero Bitches Plan | 334272 | [334272-doki-doki-zero-bitches-plan.json](./334272-doki-doki-zero-bitches-plan.json) |
 | Doki Doki: Amor Fati | 400557 | [400557-doki-doki-amor-fati.json](./400557-doki-doki-amor-fati.json) |
+| Doki Doki: Majima Helps the Literature Club! | 373321 | [373321-doki-doki-majima-helps-the-literature-club.json](./373321-doki-doki-majima-helps-the-literature-club.json) |
 | Doki Doki: The Dark Rainclouds | 333104 | [333104-doki-doki-the-dark-rainclouds.json](./333104-doki-doki-the-dark-rainclouds.json) |
 | Doki Doki! Pretty Cure Narikiri Life! | 216180 | [216180-doki-doki-pretty-cure-narikiri-life.json](./216180-doki-doki-pretty-cure-narikiri-life.json) |
 | Doki Doki! RainClouds | 242083 | [242083-doki-doki-rainclouds.json](./242083-doki-doki-rainclouds.json) |
@@ -8908,7 +8911,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
-| Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
@@ -10737,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Square | 197739 | [197739-dungeon-square.json](./197739-dungeon-square.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
+| Dungeon Sucker | 373333 | [373333-dungeon-sucker.json](./373333-dungeon-sucker.json) |
 | Dungeon Superballs | 56132 | [56132-dungeon-superballs.json](./56132-dungeon-superballs.json) |
 | Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
 | Dungeon Survive | 232939 | [232939-dungeon-survive.json](./232939-dungeon-survive.json) |
