@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Bastards | 173258 | [173258-kick-bastards.json](./173258-kick-bastards.json) |
 | Kick Bot | 71027 | [71027-kick-bot.json](./71027-kick-bot.json) |
 | Kick Bot Classic | 137089 | [137089-kick-bot-classic.json](./137089-kick-bot-classic.json) |
+| Kick Boxing | 358831 | [358831-kick-boxing.json](./358831-kick-boxing.json) |
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
 | Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi | 41261 | [41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json](./41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json) |
