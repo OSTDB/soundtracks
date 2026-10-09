@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
 | United Assault: Normandy '44 | 171361 | [171361-united-assault-normandy-44.json](./171361-united-assault-normandy-44.json) |
+| United City | 371588 | [371588-united-city.json](./371588-united-city.json) |
 | United Command | 137450 | [137450-united-command.json](./137450-united-command.json) |
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
 | United Heist: Facility Zero | 372081 | [372081-united-heist-facility-zero.json](./372081-united-heist-facility-zero.json) |
