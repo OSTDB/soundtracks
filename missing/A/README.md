@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
 | A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Million Murder Mysteries | 283909 | [283909-a-million-murder-mysteries.json](./283909-a-million-murder-mysteries.json) |
+| A Minecraft Movie | 338668 | [338668-a-minecraft-movie.json](./338668-a-minecraft-movie.json) |
 | A Mini Falafel Adventure | 56880 | [56880-a-mini-falafel-adventure.json](./56880-a-mini-falafel-adventure.json) |
 | A Mining Game | 120861 | [120861-a-mining-game.json](./120861-a-mining-game.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
@@ -1946,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Match | 338910 | [338910-adventure-match.json](./338910-adventure-match.json) |
 | Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
+| Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
 | Adventure Mosaics: Land of the Rising Sun | 378338 | [378338-adventure-mosaics-land-of-the-rising-sun.json](./378338-adventure-mosaics-land-of-the-rising-sun.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
@@ -2003,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: Amazing World 2 | 234683 | [234683-adventure-trip-amazing-world-2.json](./234683-adventure-trip-amazing-world-2.json) |
 | Adventure Trip: Amazing World 3 | 382908 | [382908-adventure-trip-amazing-world-3.json](./382908-adventure-trip-amazing-world-3.json) |
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
+| Adventure Trip: London | 338775 | [338775-adventure-trip-london.json](./338775-adventure-trip-london.json) |
 | Adventure Trip: London - Collector's Edition | 200510 | [200510-adventure-trip-london-collectors-edition.json](./200510-adventure-trip-london-collectors-edition.json) |
 | Adventure Trip: New York | 416857 | [416857-adventure-trip-new-york.json](./416857-adventure-trip-new-york.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
@@ -7846,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
+| Argonauts Agency: Ares Games - Collector's Edition | 338664 | [338664-argonauts-agency-ares-games-collectors-edition.json](./338664-argonauts-agency-ares-games-collectors-edition.json) |
 | Argonauts Agency: Captive of Circe - Collectors Edition | 357334 | [357334-argonauts-agency-captive-of-circe-collectors-edition.json](./357334-argonauts-agency-captive-of-circe-collectors-edition.json) |
 | Argonauts Agency: Chair of Hephaestus | 188084 | [188084-argonauts-agency-chair-of-hephaestus.json](./188084-argonauts-agency-chair-of-hephaestus.json) |
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
@@ -9548,6 +9552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
+| Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
 | Atari Arcade Hits: Volume 1 | 80627 | [80627-atari-arcade-hits-volume-1.json](./80627-atari-arcade-hits-volume-1.json) |
 | Atari Basketball | 131421 | [131421-atari-basketball.json](./131421-atari-basketball.json) |
 | Atari Classics Games | 301495 | [301495-atari-classics-games.json](./301495-atari-classics-games.json) |
