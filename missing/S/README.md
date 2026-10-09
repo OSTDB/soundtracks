@@ -1937,6 +1937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
+| Scooby Doo: Horror of the High Seas - Episode 1: The Ghost Pirate Attacks | 337129 | [337129-scooby-doo-horror-of-the-high-seas-episode-1-the-ghost-pirate-attacks.json](./337129-scooby-doo-horror-of-the-high-seas-episode-1-the-ghost-pirate-attacks.json) |
+| Scooby Doo: Horror of the High Seas - Episode 2: Neptune's Nest | 337130 | [337130-scooby-doo-horror-of-the-high-seas-episode-2-neptunes-nest.json](./337130-scooby-doo-horror-of-the-high-seas-episode-2-neptunes-nest.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
@@ -4326,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shagster Online 2 | 176812 | [176812-shagster-online-2.json](./176812-shagster-online-2.json) |
+| Shahmaran | 337047 | [337047-shahmaran.json](./337047-shahmaran.json) |
 | Shahrzad: The Storyteller | 108378 | [108378-shahrzad-the-storyteller.json](./108378-shahrzad-the-storyteller.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shajra Namla | 286773 | [286773-shajra-namla.json](./286773-shajra-namla.json) |
@@ -8118,6 +8121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
+| Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
@@ -11055,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
+| Sorority Panty Raid | 337138 | [337138-sorority-panty-raid.json](./337138-sorority-panty-raid.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
@@ -14276,6 +14281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
+| Staggering Beauty | 337136 | [337136-staggering-beauty.json](./337136-staggering-beauty.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
@@ -20750,6 +20756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
+| Survivalo | 337059 | [337059-survivalo.json](./337059-survivalo.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survivania | 307233 | [307233-survivania.json](./307233-survivania.json) |
@@ -21646,6 +21653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
 | Sycamore | 323346 | [323346-sycamore.json](./323346-sycamore.json) |
+| Syco Realm VR | 337042 | [337042-syco-realm-vr.json](./337042-syco-realm-vr.json) |
 | Sycophant | 396497 | [396497-sycophant.json](./396497-sycophant.json) |
 | Syd of Valis | 247483 | [247483-syd-of-valis.json](./247483-syd-of-valis.json) |
 | Syd of Valis | 46191 | [46191-syd-of-valis.json](./46191-syd-of-valis.json) |
