@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
 | Kid Icarus SNES Port | 377221 | [377221-kid-icarus-snes-port.json](./377221-kid-icarus-snes-port.json) |
 | Kid Icarus: Of Myths and Monsters | 3664 | [3664-kid-icarus-of-myths-and-monsters.json](./3664-kid-icarus-of-myths-and-monsters.json) |
+| Kid Kharagma | 344323 | [344323-kid-kharagma.json](./344323-kid-kharagma.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
 | Kid Meat | 152806 | [152806-kid-meat.json](./152806-kid-meat.json) |
