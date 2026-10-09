@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pinball Gold | 206054 | [206054-ultimate-pinball-gold.json](./206054-ultimate-pinball-gold.json) |
 | Ultimate Pirates | 176809 | [176809-ultimate-pirates.json](./176809-ultimate-pirates.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
+| Ultimate Pro Football Coach | 352146 | [352146-ultimate-pro-football-coach.json](./352146-ultimate-pro-football-coach.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Games | 49287 | [49287-ultimate-puzzle-games.json](./49287-ultimate-puzzle-games.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
@@ -2165,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Useless Healer | 411595 | [411595-useless-healer.json](./411595-useless-healer.json) |
 | Useless Timmy | 372650 | [372650-useless-timmy.json](./372650-useless-timmy.json) |
 | User Is Typing // Message Sent | 134687 | [134687-user-is-typing-message-sent.json](./134687-user-is-typing-message-sent.json) |
+| Usersleepwalker | 352134 | [352134-usersleepwalker.json](./352134-usersleepwalker.json) |
 | Ushinawareta Mirai wo Motomete | 76601 | [76601-ushinawareta-mirai-wo-motomete.json](./76601-ushinawareta-mirai-wo-motomete.json) |
 | Ushio to Tora | 38380 | [38380-ushio-to-tora.json](./38380-ushio-to-tora.json) |
 | Ushio to Tora: Shinen no Daiyou | 48554 | [48554-ushio-to-tora-shinen-no-daiyou.json](./48554-ushio-to-tora-shinen-no-daiyou.json) |
