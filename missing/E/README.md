@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
 | Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
+| Elevator | 381324 | [381324-elevator.json](./381324-elevator.json) |
 | Elevator | 390275 | [390275-elevator.json](./390275-elevator.json) |
 | Elevator | 58300 | [58300-elevator.json](./58300-elevator.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
@@ -3272,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eshe's Wish Adventure | 199486 | [199486-eshes-wish-adventure.json](./199486-eshes-wish-adventure.json) |
 | Eshigami no Kizuna | 37300 | [37300-eshigami-no-kizuna.json](./37300-eshigami-no-kizuna.json) |
 | ESHQ | 327410 | [327410-eshq.json](./327410-eshq.json) |
+| Eskadrila X: Rift Protocol | 381364 | [381364-eskadrila-x-rift-protocol.json](./381364-eskadrila-x-rift-protocol.json) |
 | Eskimo Eddie | 13843 | [13843-eskimo-eddie.json](./13843-eskimo-eddie.json) |
 | Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Eskinita | 407501 | [407501-eskinita.json](./407501-eskinita.json) |
@@ -3875,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everise | 388980 | [388980-everise.json](./388980-everise.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
+| Everlast: Undying Tale | 381335 | [381335-everlast-undying-tale.json](./381335-everlast-undying-tale.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Summer 2 | 385888 | [385888-everlasting-summer-2.json](./385888-everlasting-summer-2.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
@@ -4078,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Officer | 259596 | [259596-evil-officer.json](./259596-evil-officer.json) |
 | Evil Park | 54888 | [54888-evil-park.json](./54888-evil-park.json) |
+| Evil Plays Dice | 381370 | [381370-evil-plays-dice.json](./381370-evil-plays-dice.json) |
 | Evil Pumpkin: The Lost Halloween | 17387 | [17387-evil-pumpkin-the-lost-halloween.json](./17387-evil-pumpkin-the-lost-halloween.json) |
 | Evil Reap | 196170 | [196170-evil-reap.json](./196170-evil-reap.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
