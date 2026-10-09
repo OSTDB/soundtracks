@@ -11024,6 +11024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs F2P: Difficulty Pack | 161780 | [161780-dwarfs-f2p-difficulty-pack.json](./161780-dwarfs-f2p-difficulty-pack.json) |
 | Dwarfs F2P: Skirmish Pack | 161779 | [161779-dwarfs-f2p-skirmish-pack.json](./161779-dwarfs-f2p-skirmish-pack.json) |
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
+| Dwarfzbound | 386503 | [386503-dwarfzbound.json](./386503-dwarfzbound.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
 | Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
