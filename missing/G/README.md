@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
+| Glitch | 373881 | [373881-glitch.json](./373881-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
 | Glitch Assassin | 156023 | [156023-glitch-assassin.json](./156023-glitch-assassin.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
@@ -3696,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner 8bit HD | 91124 | [91124-gold-miner-8bit-hd.json](./91124-gold-miner-8bit-hd.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner Joe | 94580 | [94580-gold-miner-joe.json](./94580-gold-miner-joe.json) |
+| Gold Miner World Tour | 373899 | [373899-gold-miner-world-tour.json](./373899-gold-miner-world-tour.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold Miner: Return to Glory | 384298 | [384298-gold-miner-return-to-glory.json](./384298-gold-miner-return-to-glory.json) |
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
