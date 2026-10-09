@@ -5983,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibal Wonsung-iui Moheom 2 | 59884 | [59884-sibal-wonsung-iui-moheom-2.json](./59884-sibal-wonsung-iui-moheom-2.json) |
 | Siberian Dawn | 107794 | [107794-siberian-dawn.json](./107794-siberian-dawn.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
+| Siberian Experiment | 341448 | [341448-siberian-experiment.json](./341448-siberian-experiment.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
 | Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
@@ -8934,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
 | Snakebird Primer | 115003 | [115003-snakebird-primer.json](./115003-snakebird-primer.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
+| Snakecremental | 341463 | [341463-snakecremental.json](./341463-snakecremental.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
 | Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
@@ -16368,6 +16370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
 | Stolen | 6177 | [6177-stolen.json](./6177-stolen.json) |
+| Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
