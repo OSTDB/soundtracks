@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
+| After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
 | After School | 148675 | [148675-after-school.json](./148675-after-school.json) |
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
@@ -2281,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Crash: Colony | 379499 | [379499-after-the-crash-colony.json](./379499-after-the-crash-colony.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After the Empire | 28111 | [28111-after-the-empire.json](./28111-after-the-empire.json) |
+| After the End | 376850 | [376850-after-the-end.json](./376850-after-the-end.json) |
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
 | After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
@@ -2346,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterschool : Reel Danger | 361913 | [361913-afterschool-reel-danger.json](./361913-afterschool-reel-danger.json) |
 | Afterschool! Survival Club | 193798 | [193798-afterschool-survival-club.json](./193798-afterschool-survival-club.json) |
 | Aftershock | 346183 | [346183-aftershock.json](./346183-aftershock.json) |
+| Aftershock | 376846 | [376846-aftershock.json](./376846-aftershock.json) |
 | Aftershock for Quake | 271795 | [271795-aftershock-for-quake.json](./271795-aftershock-for-quake.json) |
 | Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
 | AfterShocked! | 69816 | [69816-aftershocked.json](./69816-aftershocked.json) |
@@ -2485,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
+| Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Sail | 14229 | [14229-age-of-sail.json](./14229-age-of-sail.json) |
@@ -2543,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
+| Agent Jump | 376849 | [376849-agent-jump.json](./376849-agent-jump.json) |
 | Agent Karen: Undercover Investigation of an Evil Organization | 82884 | [82884-agent-karen-undercover-investigation-of-an-evil-organization.json](./82884-agent-karen-undercover-investigation-of-an-evil-organization.json) |
 | Agent Klutz | 144910 | [144910-agent-klutz.json](./144910-agent-klutz.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
@@ -2909,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Time | 179993 | [179993-air-time.json](./179993-air-time.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
+| Air Traffic Control | 376854 | [376854-air-traffic-control.json](./376854-air-traffic-control.json) |
 | Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
@@ -2916,6 +2922,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
 | Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
+| Air Warrior II | 376855 | [376855-air-warrior-ii.json](./376855-air-warrior-ii.json) |
+| Air Warrior III | 376856 | [376856-air-warrior-iii.json](./376856-air-warrior-iii.json) |
 | Air Warrior III | 74086 | [74086-air-warrior-iii.json](./74086-air-warrior-iii.json) |
 | Air Wars | 23535 | [23535-air-wars.json](./23535-air-wars.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
@@ -3431,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ale & Aftercare | 262304 | [262304-ale-and-aftercare.json](./262304-ale-and-aftercare.json) |
 | Ale & Tale Tavern | 276233 | [276233-ale-and-tale-tavern.json](./276233-ale-and-tale-tavern.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
+| Alea | 376853 | [376853-alea.json](./376853-alea.json) |
 | Alea | 379145 | [379145-alea.json](./379145-alea.json) |
 | Alea | 86551 | [86551-alea.json](./86551-alea.json) |
 | Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
@@ -3486,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex's Journey to the Grave | 319226 | [319226-alexs-journey-to-the-grave.json](./319226-alexs-journey-to-the-grave.json) |
 | Alex's Sketchbook World | 359618 | [359618-alexs-sketchbook-world.json](./359618-alexs-sketchbook-world.json) |
 | Alexa, Destroy Me | 398487 | [398487-alexa-destroy-me.json](./398487-alexa-destroy-me.json) |
+| Alexander | 376852 | [376852-alexander.json](./376852-alexander.json) |
 | Alexander | 398509 | [398509-alexander.json](./398509-alexander.json) |
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
 | Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
@@ -3775,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Resource Manager | 418313 | [418313-alien-resource-manager.json](./418313-alien-resource-manager.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
+| Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
@@ -8488,6 +8499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
+| Ash Echoes | 376880 | [376880-ash-echoes.json](./376880-ash-echoes.json) |
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
@@ -9093,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral-Battlecraft | 392318 | [392318-astral-battlecraft.json](./392318-astral-battlecraft.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
 | Astralis | 156019 | [156019-astralis.json](./156019-astralis.json) |
+| Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
