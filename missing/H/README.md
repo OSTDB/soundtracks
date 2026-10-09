@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Hot Police | 284950 | [284950-hentai-girls-hot-police.json](./284950-hentai-girls-hot-police.json) |
 | Hentai Girls: Lovely Lieutenant | 316194 | [316194-hentai-girls-lovely-lieutenant.json](./316194-hentai-girls-lovely-lieutenant.json) |
+| Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Naughty Gamer | 292159 | [292159-hentai-girls-naughty-gamer.json](./292159-hentai-girls-naughty-gamer.json) |
 | Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
