@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Mr. Sparkles | 139363 | [139363-saving-mr-sparkles.json](./139363-saving-mr-sparkles.json) |
 | Saving Mrs. Hinako | 279003 | [279003-saving-mrs-hinako.json](./279003-saving-mrs-hinako.json) |
 | Saving Princess | 358859 | [358859-saving-princess.json](./358859-saving-princess.json) |
+| Saving Princess of Mars | 375574 | [375574-saving-princess-of-mars.json](./375574-saving-princess-of-mars.json) |
 | Saving Private Sheep | 54349 | [54349-saving-private-sheep.json](./54349-saving-private-sheep.json) |
 | Saving Private Sheep 2 | 54348 | [54348-saving-private-sheep-2.json](./54348-saving-private-sheep-2.json) |
 | Saving Punyville | 157032 | [157032-saving-punyville.json](./157032-saving-punyville.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
+| Scarlet Meister | 375572 | [375572-scarlet-meister.json](./375572-scarlet-meister.json) |
 | Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
@@ -1829,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
+| School Night Seance | 375615 | [375615-school-night-seance.json](./375615-school-night-seance.json) |
 | School of Chaos Online MMORPG | 172545 | [172545-school-of-chaos-online-mmorpg.json](./172545-school-of-chaos-online-mmorpg.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Horror | 104148 | [104148-school-of-horror.json](./104148-school-of-horror.json) |
@@ -4630,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
+| She's Still Alive | 375613 | [375613-shes-still-alive.json](./375613-shes-still-alive.json) |
 | She'sn | 267583 | [267583-shesn.json](./267583-shesn.json) |
 | Sheaf - Together EP | 120769 | [120769-sheaf-together-ep.json](./120769-sheaf-together-ep.json) |
 | Sheared | 62585 | [62585-sheared.json](./62585-sheared.json) |
@@ -7650,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
+| Slam City with Scottie Pippen: Respect Edition | 375597 | [375597-slam-city-with-scottie-pippen-respect-edition.json](./375597-slam-city-with-scottie-pippen-respect-edition.json) |
 | Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
 | Slam Dunk 2: Zenkoku he no Tip Off | 228502 | [228502-slam-dunk-2-zenkoku-he-no-tip-off.json](./228502-slam-dunk-2-zenkoku-he-no-tip-off.json) |
@@ -18978,6 +18983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
+| Super Mario Halloween Madness | 375570 | [375570-super-mario-halloween-madness.json](./375570-super-mario-halloween-madness.json) |
 | Super Mario Heardle | 203826 | [203826-super-mario-heardle.json](./203826-super-mario-heardle.json) |
 | Super Mario Holidays | 318553 | [318553-super-mario-holidays.json](./318553-super-mario-holidays.json) |
 | Super Mario Horizons | 276784 | [276784-super-mario-horizons.json](./276784-super-mario-horizons.json) |
@@ -19358,6 +19364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pop and Drop | 206713 | [206713-super-pop-and-drop.json](./206713-super-pop-and-drop.json) |
 | Super Pork | 182921 | [182921-super-pork.json](./182921-super-pork.json) |
 | Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
+| Super Postal | 375569 | [375569-super-postal.json](./375569-super-postal.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power 2 | 53687 | [53687-super-power-2.json](./53687-super-power-2.json) |
 | Super Power League FX | 65284 | [65284-super-power-league-fx.json](./65284-super-power-league-fx.json) |
@@ -20557,6 +20564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
+| Suwako no Danmaku Pyon-pyon Daisansaku | 375567 | [375567-suwako-no-danmaku-pyon-pyon-daisansaku.json](./375567-suwako-no-danmaku-pyon-pyon-daisansaku.json) |
 | Suwako-chan Cubic | 261202 | [261202-suwako-chan-cubic.json](./261202-suwako-chan-cubic.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
 | Suzu Monogatari | 66075 | [66075-suzu-monogatari.json](./66075-suzu-monogatari.json) |
