@@ -6989,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
+| Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
 | Dolly | 133894 | [133894-dolly.json](./133894-dolly.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
 | Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
@@ -8112,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Load 2 | 85810 | [85810-down-load-2.json](./85810-down-load-2.json) |
 | Down Means Up | 121561 | [121561-down-means-up.json](./121561-down-means-up.json) |
 | Down Pit | 412348 | [412348-down-pit.json](./412348-down-pit.json) |
+| Down the Darkest Pit | 381953 | [381953-down-the-darkest-pit.json](./381953-down-the-darkest-pit.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
@@ -9203,7 +9205,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chronicles 2: The Eternal Maze | 50502 | [50502-dream-chronicles-2-the-eternal-maze.json](./50502-dream-chronicles-2-the-eternal-maze.json) |
 | Dream Chronicles: The Book of Air | 50501 | [50501-dream-chronicles-the-book-of-air.json](./50501-dream-chronicles-the-book-of-air.json) |
 | Dream Chronicles: The Chosen Child | 16071 | [16071-dream-chronicles-the-chosen-child.json](./16071-dream-chronicles-the-chosen-child.json) |
+| Dream City Apocalypse | 381945 | [381945-dream-city-apocalypse.json](./381945-dream-city-apocalypse.json) |
+| Dream City Fugitive | 381947 | [381947-dream-city-fugitive.json](./381947-dream-city-fugitive.json) |
 | Dream City Life | 140303 | [140303-dream-city-life.json](./140303-dream-city-life.json) |
+| Dream City Office | 381942 | [381942-dream-city-office.json](./381942-dream-city-office.json) |
+| Dream City Profitist | 381943 | [381943-dream-city-profitist.json](./381943-dream-city-profitist.json) |
+| Dream City Psyche | 381948 | [381948-dream-city-psyche.json](./381948-dream-city-psyche.json) |
 | Dream City: Metropolis | 256352 | [256352-dream-city-metropolis.json](./256352-dream-city-metropolis.json) |
 | Dream Clovers | 226152 | [226152-dream-clovers.json](./226152-dream-clovers.json) |
 | Dream Club Gogo. | 147304 | [147304-dream-club-gogo.json](./147304-dream-club-gogo.json) |
@@ -10770,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
+| Dungeons & Directories | 381931 | [381931-dungeons-and-directories.json](./381931-dungeons-and-directories.json) |
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
 | Dungeons & Dragons Collection | 22831 | [22831-dungeons-and-dragons-collection.json](./22831-dungeons-and-dragons-collection.json) |
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
