@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Error_Boy.exe | 276255 | [276255-error-boy-exe.json](./276255-error-boy-exe.json) |
+| Error: Ai.lien | 376274 | [376274-error-ai-lien.json](./376274-error-ai-lien.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
 | Error: Slasher Alert | 176251 | [176251-error-slasher-alert.json](./176251-error-slasher-alert.json) |
 | Ersatz | 59238 | [59238-ersatz.json](./59238-ersatz.json) |
