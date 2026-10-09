@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain & Sacrifice | 395119 | [395119-rain-and-sacrifice.json](./395119-rain-and-sacrifice.json) |
 | Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
+| Rain and Respite | 361031 | [361031-rain-and-respite.json](./361031-rain-and-respite.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
+| Realm | 361078 | [361078-realm.json](./361078-realm.json) |
 | Realm | 44457 | [44457-realm.json](./44457-realm.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
@@ -4115,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
+| Rhythmkill | 361064 | [361064-rhythmkill.json](./361064-rhythmkill.json) |
 | Rhythmos | 194291 | [194291-rhythmos.json](./194291-rhythmos.json) |
 | RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
@@ -5231,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
 | Robo Jumper 3D | 102276 | [102276-robo-jumper-3d.json](./102276-robo-jumper-3d.json) |
 | Robo Miner 2 | 117175 | [117175-robo-miner-2.json](./117175-robo-miner-2.json) |
+| Robo Miner: Remastered | 361066 | [361066-robo-miner-remastered.json](./361066-robo-miner-remastered.json) |
 | Robo Oh | 158159 | [158159-robo-oh.json](./158159-robo-oh.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Pit | 20249 | [20249-robo-pit.json](./20249-robo-pit.json) |
@@ -6016,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
 | Rogue Reaper | 113522 | [113522-rogue-reaper.json](./113522-rogue-reaper.json) |
+| Rogue Reigns | 361052 | [361052-rogue-reigns.json](./361052-rogue-reigns.json) |
 | Rogue Reunion | 401887 | [401887-rogue-reunion.json](./401887-rogue-reunion.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
