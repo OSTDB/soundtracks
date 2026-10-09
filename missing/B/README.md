@@ -7584,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
 | Boo's Treat | 318551 | [318551-boos-treat.json](./318551-boos-treat.json) |
 | Booble Hentai | 149432 | [149432-booble-hentai.json](./149432-booble-hentai.json) |
+| BooBooBooster | 365558 | [365558-booboobooster.json](./365558-booboobooster.json) |
 | Boobs | 268499 | [268499-boobs.json](./268499-boobs.json) |
 | Boobs | 344551 | [344551-boobs.json](./344551-boobs.json) |
 | Boobs Hidden Ibiza | 367294 | [367294-boobs-hidden-ibiza.json](./367294-boobs-hidden-ibiza.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Trainer: Spot the Difference | 99384 | [99384-brain-trainer-spot-the-difference.json](./99384-brain-trainer-spot-the-difference.json) |
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
+| Brain Training! Perfect Memory | 365559 | [365559-brain-training-perfect-memory.json](./365559-brain-training-perfect-memory.json) |
 | Brain Training!! Hiragana ＆ Katakana Search | 316199 | [316199-brain-training-hiragana-and-katakana-search.json](./316199-brain-training-hiragana-and-katakana-search.json) |
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
@@ -8601,6 +8603,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Ponyz 2 | 94733 | [94733-bratz-ponyz-2.json](./94733-bratz-ponyz-2.json) |
 | Bratz Rhythm & Style | 347308 | [347308-bratz-rhythm-and-style.json](./347308-bratz-rhythm-and-style.json) |
+| Bratz Rhythm & Style: Deluxe Edition | 365555 | [365555-bratz-rhythm-and-style-deluxe-edition.json](./365555-bratz-rhythm-and-style-deluxe-edition.json) |
+| Bratz Rhythm & Style: Fashion Celebrity Pack | 365564 | [365564-bratz-rhythm-and-style-fashion-celebrity-pack.json](./365564-bratz-rhythm-and-style-fashion-celebrity-pack.json) |
+| Bratz Rhythm & Style: Kumi and Felicia Pack | 365565 | [365565-bratz-rhythm-and-style-kumi-and-felicia-pack.json](./365565-bratz-rhythm-and-style-kumi-and-felicia-pack.json) |
+| Bratz Rhythm & Style: Roxxi and Nevra Pack | 365566 | [365566-bratz-rhythm-and-style-roxxi-and-nevra-pack.json](./365566-bratz-rhythm-and-style-roxxi-and-nevra-pack.json) |
+| Bratz Rhythm & Style: Tweevils Pack | 365567 | [365567-bratz-rhythm-and-style-tweevils-pack.json](./365567-bratz-rhythm-and-style-tweevils-pack.json) |
 | Bratz World: The Jet Set | 230422 | [230422-bratz-world-the-jet-set.json](./230422-bratz-world-the-jet-set.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
@@ -10598,6 +10605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Busy Beaver | 134399 | [134399-busy-busy-beaver.json](./134399-busy-busy-beaver.json) |
 | Busy Scissors | 50594 | [50594-busy-scissors.json](./50594-busy-scissors.json) |
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
+| Busy With Holes | 365561 | [365561-busy-with-holes.json](./365561-busy-with-holes.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
 | But Why? | 391821 | [391821-but-why.json](./391821-but-why.json) |
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
