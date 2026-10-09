@@ -5421,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Bailey VR | 28317 | [28317-blackjack-bailey-vr.json](./28317-blackjack-bailey-vr.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Carnival | 366408 | [366408-blackjack-carnival.json](./366408-blackjack-carnival.json) |
+| Blackjack Descent | 383681 | [383681-blackjack-descent.json](./383681-blackjack-descent.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
@@ -10139,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Game | 236230 | [236230-bunny-game.json](./236230-bunny-game.json) |
 | Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Haven | 383737 | [383737-bunny-haven.json](./383737-bunny-haven.json) |
 | Bunny Hill | 139879 | [139879-bunny-hill.json](./139879-bunny-hill.json) |
 | Bunny Hop | 174124 | [174124-bunny-hop.json](./174124-bunny-hop.json) |
 | Bunny Hop | 90197 | [90197-bunny-hop.json](./90197-bunny-hop.json) |
