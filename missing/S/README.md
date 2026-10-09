@@ -4627,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
+| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -8889,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Thief 3: Triple Trouble | 386349 | [386349-sneak-thief-3-triple-trouble.json](./386349-sneak-thief-3-triple-trouble.json) |
 | Sneak Thief 4: Fourth Find | 386510 | [386510-sneak-thief-4-fourth-find.json](./386510-sneak-thief-4-fourth-find.json) |
 | Sneak Thief 5: Final Five | 386513 | [386513-sneak-thief-5-final-five.json](./386513-sneak-thief-5-final-five.json) |
+| Sneakalot | 372242 | [372242-sneakalot.json](./372242-sneakalot.json) |
 | SneakBit | 326712 | [326712-sneakbit.json](./326712-sneakbit.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
@@ -15703,6 +15705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Propeller | 211788 | [211788-stellar-propeller.json](./211788-stellar-propeller.json) |
 | Stellar Raid | 149212 | [149212-stellar-raid.json](./149212-stellar-raid.json) |
 | Stellar Raiders | 373172 | [373172-stellar-raiders.json](./373172-stellar-raiders.json) |
+| Stellar Reach | 372249 | [372249-stellar-reach.json](./372249-stellar-reach.json) |
 | Stellar Reflections | 292770 | [292770-stellar-reflections.json](./292770-stellar-reflections.json) |
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
 | Stellar Rescue | 134423 | [134423-stellar-rescue.json](./134423-stellar-rescue.json) |
@@ -15726,6 +15729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
+| Stellara Vanguard | 372283 | [372283-stellara-vanguard.json](./372283-stellara-vanguard.json) |
 | Stellarcraft | 314392 | [314392-stellarcraft.json](./314392-stellarcraft.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
 | Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
@@ -16337,6 +16341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straight Up: Dummy Characters | 289480 | [289480-straight-up-dummy-characters.json](./289480-straight-up-dummy-characters.json) |
 | Straight Up: Farm Crew Characters | 289479 | [289479-straight-up-farm-crew-characters.json](./289479-straight-up-farm-crew-characters.json) |
 | Straight!? | 215781 | [215781-straight.json](./215781-straight.json) |
+| Straightforward | 372238 | [372238-straightforward.json](./372238-straightforward.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
@@ -19501,6 +19506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Ryu World | 172687 | [172687-super-ryu-world.json](./172687-super-ryu-world.json) |
+| Super Safe Spelunking | 372246 | [372246-super-safe-spelunking.json](./372246-super-safe-spelunking.json) |
 | Super Salome World | 296508 | [296508-super-salome-world.json](./296508-super-salome-world.json) |
 | Super Sam Adventures | 343991 | [343991-super-sam-adventures.json](./343991-super-sam-adventures.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
@@ -20674,6 +20680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Motion | 316134 | [316134-swap-motion.json](./316134-swap-motion.json) |
 | Swap n Merge | 121509 | [121509-swap-n-merge.json](./121509-swap-n-merge.json) |
+| Swap Swamp | 372235 | [372235-swap-swamp.json](./372235-swap-swamp.json) |
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap Sword | 98539 | [98539-swap-sword.json](./98539-swap-sword.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
