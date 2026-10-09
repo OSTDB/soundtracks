@@ -8055,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boshi Techou DS with 'Akachan Massage' | 269669 | [269669-boshi-techou-ds-with-akachan-massage.json](./269669-boshi-techou-ds-with-akachan-massage.json) |
 | Boson X | 7730 | [7730-boson-x.json](./7730-boson-x.json) |
 | Bosorka | 223445 | [223445-bosorka.json](./223445-bosorka.json) |
+| Bosquet | 335387 | [335387-bosquet.json](./335387-bosquet.json) |
 | Boss 101 | 34959 | [34959-boss-101.json](./34959-boss-101.json) |
 | Boss 101 with S.T.E.V.E. and Max | 59844 | [59844-boss-101-with-s-t-e-v-e-and-max.json](./59844-boss-101-with-s-t-e-v-e-and-max.json) |
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
