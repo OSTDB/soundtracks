@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
+| Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
@@ -4512,7 +4513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numbako | 419190 | [419190-numbako.json](./419190-numbako.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
-| Number 1! | 405429 | [405429-number-1.json](./405429-number-1.json) |
 | Number 7 | 291000 | [291000-number-7.json](./291000-number-7.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
