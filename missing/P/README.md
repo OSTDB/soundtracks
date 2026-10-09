@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
 | Palm Kingdoms 2 Deluxe | 54260 | [54260-palm-kingdoms-2-deluxe.json](./54260-palm-kingdoms-2-deluxe.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
+| Palm Simulator 2 | 374941 | [374941-palm-simulator-2.json](./374941-palm-simulator-2.json) |
 | Palm Sugar: A Village Story | 287713 | [287713-palm-sugar-a-village-story.json](./287713-palm-sugar-a-village-story.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
@@ -4550,6 +4551,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
 | Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
+| Pit-Fighter | 374980 | [374980-pit-fighter.json](./374980-pit-fighter.json) |
+| Pit-Fighter | 374981 | [374981-pit-fighter.json](./374981-pit-fighter.json) |
+| Pit-Fighter | 374989 | [374989-pit-fighter.json](./374989-pit-fighter.json) |
+| Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
