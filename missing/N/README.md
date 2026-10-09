@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
 | Narrenschiff | 261985 | [261985-narrenschiff.json](./261985-narrenschiff.json) |
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
+| Narrow One | 364991 | [364991-narrow-one.json](./364991-narrow-one.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
@@ -4587,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nun Attack Origins: Yuki's Silent Quest | 61139 | [61139-nun-attack-origins-yukis-silent-quest.json](./61139-nun-attack-origins-yukis-silent-quest.json) |
 | Nun Attack: Run & Gun | 38993 | [38993-nun-attack-run-and-gun.json](./38993-nun-attack-run-and-gun.json) |
 | Nun Massacre | 112215 | [112215-nun-massacre.json](./112215-nun-massacre.json) |
+| Nun of Your Business | 364975 | [364975-nun-of-your-business.json](./364975-nun-of-your-business.json) |
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nunchuck Charlie: A Love Story | 286611 | [286611-nunchuck-charlie-a-love-story.json](./286611-nunchuck-charlie-a-love-story.json) |
 | Nunholy | 297164 | [297164-nunholy.json](./297164-nunholy.json) |
