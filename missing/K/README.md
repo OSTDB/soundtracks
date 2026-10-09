@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
+| Kaette Kita Tanteidan X | 356060 | [356060-kaette-kita-tanteidan-x.json](./356060-kaette-kita-tanteidan-x.json) |
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
 | Kaettekita Pachio-kun Dream Collection | 59510 | [59510-kaettekita-pachio-kun-dream-collection.json](./59510-kaettekita-pachio-kun-dream-collection.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: Cosmic Symphony - Cosmic Edition | 411101 | [411101-kalpa-cosmic-symphony-cosmic-edition.json](./411101-kalpa-cosmic-symphony-cosmic-edition.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 1 | 405002 | [405002-kalpa-cosmic-symphony-origin-vol-1.json](./405002-kalpa-cosmic-symphony-origin-vol-1.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 2 Pack | 405003 | [405003-kalpa-cosmic-symphony-origin-vol-2-pack.json](./405003-kalpa-cosmic-symphony-origin-vol-2-pack.json) |
+| Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
