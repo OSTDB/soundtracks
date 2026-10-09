@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
 | Math Castle | 46643 | [46643-math-castle.json](./46643-math-castle.json) |
+| Math Challenge AR | 378534 | [378534-math-challenge-ar.json](./378534-math-challenge-ar.json) |
 | Math Challenge: Workout Brain | 240343 | [240343-math-challenge-workout-brain.json](./240343-math-challenge-workout-brain.json) |
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Classroom Challenge | 102355 | [102355-math-classroom-challenge.json](./102355-math-classroom-challenge.json) |
@@ -8842,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momokan | 97490 | [97490-momokan.json](./97490-momokan.json) |
 | Momoko 120% | 38583 | [38583-momoko-120.json](./38583-momoko-120.json) |
 | Momoko 1200% | 297710 | [297710-momoko-1200.json](./297710-momoko-1200.json) |
+| Momolitos | 378562 | [378562-momolitos.json](./378562-momolitos.json) |
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
 | Momotaro Collection | 64418 | [64418-momotaro-collection.json](./64418-momotaro-collection.json) |
@@ -10641,6 +10643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount & Blade: With Fire and Sword | 8792 | [8792-mount-and-blade-with-fire-and-sword.json](./8792-mount-and-blade-with-fire-and-sword.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
+| Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
 | Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
@@ -11524,6 +11527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
 | Mushroom Wars: Space! | 268502 | [268502-mushroom-wars-space.json](./268502-mushroom-wars-space.json) |
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
+| Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
@@ -11868,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
 | My Devil Lovers | 247468 | [247468-my-devil-lovers.json](./247468-my-devil-lovers.json) |
 | My Devil Lovers: Remake | 247470 | [247470-my-devil-lovers-remake.json](./247470-my-devil-lovers-remake.json) |
+| My Devil's Voice | 378558 | [378558-my-devils-voice.json](./378558-my-devils-voice.json) |
 | My Devilish Contract | 279670 | [279670-my-devilish-contract.json](./279670-my-devilish-contract.json) |
 | My Diamond Baby | 301416 | [301416-my-diamond-baby.json](./301416-my-diamond-baby.json) |
 | My Dinner with André | 227785 | [227785-my-dinner-with-andre.json](./227785-my-dinner-with-andre.json) |
