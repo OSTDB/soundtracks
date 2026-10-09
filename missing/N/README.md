@@ -3344,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
 | Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
+| Nippon Dojo | 351593 | [351593-nippon-dojo.json](./351593-nippon-dojo.json) |
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon | 87673 | [87673-nippon-marathon.json](./87673-nippon-marathon.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
