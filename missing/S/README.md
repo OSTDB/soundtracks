@@ -12513,6 +12513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Ops | 223908 | [223908-special-ops.json](./223908-special-ops.json) |
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
+| Special Strike | 345975 | [345975-special-strike.json](./345975-special-strike.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
 | Special Warfare | 108075 | [108075-special-warfare.json](./108075-special-warfare.json) |
@@ -14025,6 +14026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squash Kings VR | 86394 | [86394-squash-kings-vr.json](./86394-squash-kings-vr.json) |
+| Squat Life | 345976 | [345976-squat-life.json](./345976-squat-life.json) |
 | Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
@@ -20338,6 +20340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
+| Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
@@ -20379,6 +20382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSecret | 163211 | [163211-supersecret.json](./163211-supersecret.json) |
 | Supershot | 339476 | [339476-supershot.json](./339476-supershot.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
+| Supershot: Valley Warfare Defense | 345977 | [345977-supershot-valley-warfare-defense.json](./345977-supershot-valley-warfare-defense.json) |
 | Supersize My Heart | 344504 | [344504-supersize-my-heart.json](./344504-supersize-my-heart.json) |
 | SuperSki Pro | 270624 | [270624-superski-pro.json](./270624-superski-pro.json) |
 | SuperSnake.io | 58496 | [58496-supersnake-io.json](./58496-supersnake-io.json) |
@@ -21598,6 +21602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
 | Symb Eco | 77362 | [77362-symb-eco.json](./77362-symb-eco.json) |
 | Symbio | 275827 | [275827-symbio.json](./275827-symbio.json) |
+| Symbio | 346012 | [346012-symbio.json](./346012-symbio.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiote | 369458 | [369458-symbiote.json](./369458-symbiote.json) |
