@@ -6830,6 +6830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon RenHERgade Platinum | 387603 | [387603-pokemon-renhergade-platinum.json](./387603-pokemon-renhergade-platinum.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
+| Pokémon Rocket Edition | 342579 | [342579-pokemon-rocket-edition.json](./342579-pokemon-rocket-edition.json) |
 | Pokemon Roulette | 365067 | [365067-pokemon-roulette.json](./365067-pokemon-roulette.json) |
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
