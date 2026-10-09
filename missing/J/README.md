@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
 | Jessica's Cupcake Cafe | 66375 | [66375-jessicas-cupcake-cafe.json](./66375-jessicas-cupcake-cafe.json) |
 | Jessica's Life: The Beginning | 368115 | [368115-jessicas-life-the-beginning.json](./368115-jessicas-life-the-beginning.json) |
+| Jessica's Plight | 385894 | [385894-jessicas-plight.json](./385894-jessicas-plight.json) |
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jessy: Ein Zirkuspferd in Not | 85736 | [85736-jessy-ein-zirkuspferd-in-not.json](./85736-jessy-ein-zirkuspferd-in-not.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Burnout | 414153 | [414153-job-burnout.json](./414153-job-burnout.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
+| Job Hunting 9000 Dehlux | 385936 | [385936-job-hunting-9000-dehlux.json](./385936-job-hunting-9000-dehlux.json) |
 | Job Interview | 295508 | [295508-job-interview.json](./295508-job-interview.json) |
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
 | Job Simulator: Human Relations | 413169 | [413169-job-simulator-human-relations.json](./413169-job-simulator-human-relations.json) |
