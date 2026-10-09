@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
+| Rival Species | 350392 | [350392-rival-species.json](./350392-rival-species.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
 | Rival Turf! | 42467 | [42467-rival-turf.json](./42467-rival-turf.json) |
