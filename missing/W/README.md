@@ -2054,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Information Superhighway | 104250 | [104250-welcome-to-the-information-superhighway.json](./104250-welcome-to-the-information-superhighway.json) |
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
+| Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
