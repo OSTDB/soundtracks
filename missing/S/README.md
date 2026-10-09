@@ -5202,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | Ship Smash | 264216 | [264216-ship-smash.json](./264216-ship-smash.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
+| Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
@@ -7586,6 +7587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
+| Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
@@ -13269,6 +13271,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
+| SpongeBob SquarePants: Titans of the Tide - Double Deluxe Costume Pack DLC | 376251 | [376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json](./376251-spongebob-squarepants-titans-of-the-tide-double-deluxe-costume-pack-dlc.json) |
+| SpongeBob SquarePants: Titans of the Tide - Natural Costume Pack | 376252 | [376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json](./376252-spongebob-squarepants-titans-of-the-tide-natural-costume-pack.json) |
+| SpongeBob SquarePants: Titans of the Tide - Plankton's Portal Challenge DLC | 376254 | [376254-spongebob-squarepants-titans-of-the-tide-planktons-portal-challenge-dlc.json](./376254-spongebob-squarepants-titans-of-the-tide-planktons-portal-challenge-dlc.json) |
+| SpongeBob SquarePants: Titans of the Tide - Search for SquarePants Costume Pack DLC | 376253 | [376253-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-costume-pack-dlc.json](./376253-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-costume-pack-dlc.json) |
+| SpongeBob SquarePants: Titans of the Tide - Search for SquarePants DLC | 376255 | [376255-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-dlc.json](./376255-spongebob-squarepants-titans-of-the-tide-search-for-squarepants-dlc.json) |
+| SpongeBob SquarePants: Titans of the Tide - Tidal Season Pass | 376256 | [376256-spongebob-squarepants-titans-of-the-tide-tidal-season-pass.json](./376256-spongebob-squarepants-titans-of-the-tide-tidal-season-pass.json) |
 | SpongeBob SquarePants: Underpants Slam | 2775 | [2775-spongebob-squarepants-underpants-slam.json](./2775-spongebob-squarepants-underpants-slam.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
@@ -17586,6 +17594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Drive | 396523 | [396523-suicide-drive.json](./396523-suicide-drive.json) |
 | Suicide Express | 40963 | [40963-suicide-express.json](./40963-suicide-express.json) |
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
+| Suicide Guy Bundle | 376242 | [376242-suicide-guy-bundle.json](./376242-suicide-guy-bundle.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
 | Suicide Guy VR: Deluxe | 276408 | [276408-suicide-guy-vr-deluxe.json](./276408-suicide-guy-vr-deluxe.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
@@ -17891,6 +17900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
 | Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
+| Sunday City | 376280 | [376280-sunday-city.json](./376280-sunday-city.json) |
 | Sunday Funday: The Ride | 11166 | [11166-sunday-funday-the-ride.json](./11166-sunday-funday-the-ride.json) |
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
