@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
 | Vicious Circle | 119134 | [119134-vicious-circle.json](./119134-vicious-circle.json) |
+| Vicious Circle | 340975 | [340975-vicious-circle.json](./340975-vicious-circle.json) |
 | Vicious Gambling Agreement | 143951 | [143951-vicious-gambling-agreement.json](./143951-vicious-gambling-agreement.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
 | Vicious Red | 249793 | [249793-vicious-red.json](./249793-vicious-red.json) |
