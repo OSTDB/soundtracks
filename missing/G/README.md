@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Labs | 84514 | [84514-gene-labs.json](./84514-gene-labs.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
+| GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
@@ -2045,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get in Timelessness | 358241 | [358241-get-in-timelessness.json](./358241-get-in-timelessness.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
+| Get It Up! | 357211 | [357211-get-it-up.json](./357211-get-it-up.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Shell: Stand Alone Complex | 81448 | [81448-ghost-in-the-shell-stand-alone-complex.json](./81448-ghost-in-the-shell-stand-alone-complex.json) |
 | Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost in the SQL Data | 414822 | [414822-ghost-in-the-sql-data.json](./414822-ghost-in-the-sql-data.json) |
+| Ghost Jukebox | 357189 | [357189-ghost-jukebox.json](./357189-ghost-jukebox.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
@@ -4685,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: San Andreas - Flame's Story | 320920 | [320920-grand-theft-auto-san-andreas-flames-story.json](./320920-grand-theft-auto-san-andreas-flames-story.json) |
 | Grand Theft Auto: San Andreas - The Definitive Edition | 178126 | [178126-grand-theft-auto-san-andreas-the-definitive-edition.json](./178126-grand-theft-auto-san-andreas-the-definitive-edition.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
+| Grand Theft Auto: Stars and Stripes | 357202 | [357202-grand-theft-auto-stars-and-stripes.json](./357202-grand-theft-auto-stars-and-stripes.json) |
 | Grand Theft Auto: The Backstabber's Blues | 392433 | [392433-grand-theft-auto-the-backstabbers-blues.json](./392433-grand-theft-auto-the-backstabbers-blues.json) |
 | Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
