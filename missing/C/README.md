@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
+| Cho Aniki Collection | 375595 | [375595-cho-aniki-collection.json](./375595-cho-aniki-collection.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Cho Noi | 382527 | [382527-cho-noi.json](./382527-cho-noi.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Moon | 245796 | [245796-crimson-moon.json](./245796-crimson-moon.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
+| Crimson Night | 375580 | [375580-crimson-night.json](./375580-crimson-night.json) |
 | Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
 | Crimson Oath | 373152 | [373152-crimson-oath.json](./373152-crimson-oath.json) |
 | Crimson Realms: Relics of the Forgotten World | 389959 | [389959-crimson-realms-relics-of-the-forgotten-world.json](./389959-crimson-realms-relics-of-the-forgotten-world.json) |
@@ -11998,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle Idle RPG | 272253 | [272253-cycle-idle-rpg.json](./272253-cycle-idle-rpg.json) |
+| Cycle Maabou | 375607 | [375607-cycle-maabou.json](./375607-cycle-maabou.json) |
 | Cycle of Cinder | 398628 | [398628-cycle-of-cinder.json](./398628-cycle-of-cinder.json) |
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
 | Cycle of Pawmerce | 176803 | [176803-cycle-of-pawmerce.json](./176803-cycle-of-pawmerce.json) |
