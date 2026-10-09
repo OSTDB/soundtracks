@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
 | Samhain | 267442 | [267442-samhain.json](./267442-samhain.json) |
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
+| Sami's Pet Care | 364405 | [364405-samis-pet-care.json](./364405-samis-pet-care.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Samla | 384709 | [384709-samla.json](./384709-samla.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
 | Second World | 192254 | [192254-second-world.json](./192254-second-world.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
+| Seconds Between Summer | 364369 | [364369-seconds-between-summer.json](./364369-seconds-between-summer.json) |
 | Seconds from Silence | 122903 | [122903-seconds-from-silence.json](./122903-seconds-from-silence.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
 | Seconds Out | 70088 | [70088-seconds-out.json](./70088-seconds-out.json) |
@@ -4989,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Miracles | 315483 | [315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json](./315483-shin-megami-tensei-v-vengeance-mitama-dance-of-miracles.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
+| Shin Megami Tensei V: Vengeance Randomizer | 364400 | [364400-shin-megami-tensei-v-vengeance-randomizer.json](./364400-shin-megami-tensei-v-vengeance-randomizer.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
@@ -6118,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigformation | 235369 | [235369-sigformation.json](./235369-sigformation.json) |
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
+| Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
@@ -13096,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
+| Spirit Latte | 364380 | [364380-spirit-latte.json](./364380-spirit-latte.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
 | Spirit Legends: Time for Change | 422082 | [422082-spirit-legends-time-for-change.json](./422082-spirit-legends-time-for-change.json) |
