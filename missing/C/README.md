@@ -9156,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cows VS Vikings | 112592 | [112592-cows-vs-vikings.json](./112592-cows-vs-vikings.json) |
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
+| Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
