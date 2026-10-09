@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
+| S.O.R.T. | 381977 | [381977-s-o-r-t.json](./381977-s-o-r-t.json) |
 | S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
 | S.O.V.A. | 421327 | [421327-s-o-v-a.json](./421327-s-o-v-a.json) |
@@ -15465,6 +15466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ball Race | 188947 | [188947-steel-ball-race.json](./188947-steel-ball-race.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
+| Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
