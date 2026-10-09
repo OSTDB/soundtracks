@@ -6283,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
+| Hot Shots | 339320 | [339320-hot-shots.json](./339320-hot-shots.json) |
 | Hot Shots Golf 2 | 232407 | [232407-hot-shots-golf-2.json](./232407-hot-shots-golf-2.json) |
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
