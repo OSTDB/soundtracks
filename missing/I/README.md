@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes a War: Demo Drills - Director's Cut | 402538 | [402538-it-takes-a-war-demo-drills-directors-cut.json](./402538-it-takes-a-war-demo-drills-directors-cut.json) |
 | It Takes Many | 370188 | [370188-it-takes-many.json](./370188-it-takes-many.json) |
+| It Takes One Year To Beat This Game | 339307 | [339307-it-takes-one-year-to-beat-this-game.json](./339307-it-takes-one-year-to-beat-this-game.json) |
 | It Takes Two Girls | 190073 | [190073-it-takes-two-girls.json](./190073-it-takes-two-girls.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
