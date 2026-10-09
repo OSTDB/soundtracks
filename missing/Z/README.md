@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zehn Adventures | 94541 | [94541-zehn-adventures.json](./94541-zehn-adventures.json) |
 | ZeiramZone | 43809 | [43809-zeiramzone.json](./43809-zeiramzone.json) |
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
+| Zeitgeist | 374957 | [374957-zeitgeist.json](./374957-zeitgeist.json) |
 | Zeitz Machz: Rhapsody | 293142 | [293142-zeitz-machz-rhapsody.json](./293142-zeitz-machz-rhapsody.json) |
 | Zeke's Peak | 119491 | [119491-zekes-peak.json](./119491-zekes-peak.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
