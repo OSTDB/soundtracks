@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
 | Old Spice Nature Adventure | 137392 | [137392-old-spice-nature-adventure.json](./137392-old-spice-nature-adventure.json) |
 | Old Still Life | 262552 | [262552-old-still-life.json](./262552-old-still-life.json) |
+| Old Thiess: The Werewolf’s Trial | 349899 | [349899-old-thiess-the-werewolf-s-trial.json](./349899-old-thiess-the-werewolf-s-trial.json) |
 | Old Time Baseball | 94671 | [94671-old-time-baseball.json](./94671-old-time-baseball.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
@@ -1330,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Defense | 365252 | [365252-one-button-defense.json](./365252-one-button-defense.json) |
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
+| One Button Games 5-in-1 Vol. 2 | 349818 | [349818-one-button-games-5-in-1-vol-2.json](./349818-one-button-games-5-in-1-vol-2.json) |
 | One Button Games 5-in-1 Vol. 4 | 394464 | [394464-one-button-games-5-in-1-vol-4.json](./394464-one-button-games-5-in-1-vol-4.json) |
 | One Button Games 5-in-1 Vol. 6 | 400556 | [400556-one-button-games-5-in-1-vol-6.json](./400556-one-button-games-5-in-1-vol-6.json) |
 | One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
