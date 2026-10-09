@@ -6539,6 +6539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
+| The Horde Wants You Dead | 339881 | [339881-the-horde-wants-you-dead.json](./339881-the-horde-wants-you-dead.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horny Maid and the Daughter are Futanari | 98038 | [98038-the-horny-maid-and-the-daughter-are-futanari.json](./98038-the-horny-maid-and-the-daughter-are-futanari.json) |
 | The Horologist's Legacy | 110954 | [110954-the-horologists-legacy.json](./110954-the-horologists-legacy.json) |
@@ -13844,6 +13845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim 7: The Memories From Nowhere | 321366 | [321366-tim-7-the-memories-from-nowhere.json](./321366-tim-7-the-memories-from-nowhere.json) |
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
+| Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
@@ -16157,6 +16159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kichouden: Mythos of Phantasmagoria 2 | 356558 | [356558-touhou-kichouden-mythos-of-phantasmagoria-2.json](./356558-touhou-kichouden-mythos-of-phantasmagoria-2.json) |
 | Touhou Kikeijuu: Wily Beast and Weakest Creature | 118815 | [118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json](./118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json) |
 | Touhou Kimono Blast | 219543 | [219543-touhou-kimono-blast.json](./219543-touhou-kimono-blast.json) |
+| Touhou Kinjoukyou: Fossilized Wonders | 339856 | [339856-touhou-kinjoukyou-fossilized-wonders.json](./339856-touhou-kinjoukyou-fossilized-wonders.json) |
 | Touhou Kishinjou: Double Dealing Character | 119606 | [119606-touhou-kishinjou-double-dealing-character.json](./119606-touhou-kishinjou-double-dealing-character.json) |
 | Touhou Kobuto V: Burst Battle | 27261 | [27261-touhou-kobuto-v-burst-battle.json](./27261-touhou-kobuto-v-burst-battle.json) |
 | Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
