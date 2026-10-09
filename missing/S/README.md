@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsaric Asymtotes | 295997 | [295997-samsaric-asymtotes.json](./295997-samsaric-asymtotes.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
 | Samu | 378279 | [378279-samu.json](./378279-samu.json) |
+| Samu Game | 385920 | [385920-samu-game.json](./385920-samu-game.json) |
 | Samu Rise | 181777 | [181777-samu-rise.json](./181777-samu-rise.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
 | Samuel Prince Attorney at Law: Chapter 4 | 397791 | [397791-samuel-prince-attorney-at-law-chapter-4.json](./397791-samuel-prince-attorney-at-law-chapter-4.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
+| Samurai Arena | 385924 | [385924-samurai-arena.json](./385924-samurai-arena.json) |
 | Samurai Bamboo | 120290 | [120290-samurai-bamboo.json](./120290-samurai-bamboo.json) |
 | Samurai Beat | 253866 | [253866-samurai-beat.json](./253866-samurai-beat.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
@@ -809,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Frog | 359058 | [359058-samurai-frog.json](./359058-samurai-frog.json) |
+| Samurai Ghost Revenge | 385925 | [385925-samurai-ghost-revenge.json](./385925-samurai-ghost-revenge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
@@ -857,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Spirits Zero Special (Unfixed) | 75447 | [75447-samurai-spirits-zero-special-unfixed.json](./75447-samurai-spirits-zero-special-unfixed.json) |
 | Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
 | Samurai Spirits! 2 (Best Collection) | 75448 | [75448-samurai-spirits-2-best-collection.json](./75448-samurai-spirits-2-best-collection.json) |
+| Samurai Standoff | 385921 | [385921-samurai-standoff.json](./385921-samurai-standoff.json) |
 | Samurai Story | 200495 | [200495-samurai-story.json](./200495-samurai-story.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
 | Samurai Survivor: Undefeated Blade | 244358 | [244358-samurai-survivor-undefeated-blade.json](./244358-samurai-survivor-undefeated-blade.json) |
@@ -2102,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
+| Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
 | Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
 | Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
@@ -3649,7 +3654,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Flood | 181322 | [181322-sewer-flood.json](./181322-sewer-flood.json) |
 | Sewer Jam 2 | 271196 | [271196-sewer-jam-2.json](./271196-sewer-jam-2.json) |
 | Sewer Quest | 376007 | [376007-sewer-quest.json](./376007-sewer-quest.json) |
+| Sewer Raiders | 385929 | [385929-sewer-raiders.json](./385929-sewer-raiders.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
+| Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
@@ -11275,6 +11282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
 | Space Ace | 5454 | [5454-space-ace.json](./5454-space-ace.json) |
+| Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
@@ -13501,6 +13509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
+| Sprite Hunter | 385890 | [385890-sprite-hunter.json](./385890-sprite-hunter.json) |
 | Sprite Man Adventures | 161717 | [161717-sprite-man-adventures.json](./161717-sprite-man-adventures.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
@@ -16854,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 'Em | 238579 | [238579-strip-em.json](./238579-strip-em.json) |
+| Strip 'Em II: Facka's Game | 385896 | [385896-strip-em-ii-fackas-game.json](./385896-strip-em-ii-fackas-game.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
 | Strip Battle | 296990 | [296990-strip-battle.json](./296990-strip-battle.json) |
 | Strip Black Jack: At the Pub | 174115 | [174115-strip-black-jack-at-the-pub.json](./174115-strip-black-jack-at-the-pub.json) |
@@ -17582,6 +17592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suits: A Business RPG | 16135 | [16135-suits-a-business-rpg.json](./16135-suits-a-business-rpg.json) |
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
+| Suizokukan Project: Fish Hunter he no Michi | 385927 | [385927-suizokukan-project-fish-hunter-he-no-michi.json](./385927-suizokukan-project-fish-hunter-he-no-michi.json) |
 | Sukakko | 156048 | [156048-sukakko.json](./156048-sukakko.json) |
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka II: Shoujo Tekkamen Densetsu | 46119 | [46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json](./46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json) |
@@ -19955,6 +19966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
+| Supermaze | 385915 | [385915-supermaze.json](./385915-supermaze.json) |
 | SuperMind | 86906 | [86906-supermind.json](./86906-supermind.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
