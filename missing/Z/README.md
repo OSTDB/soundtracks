@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
+| Zima | 346624 | [346624-zima.json](./346624-zima.json) |
 | Zima uhodi! | 96871 | [96871-zima-uhodi.json](./96871-zima-uhodi.json) |
 | Zimbo | 96517 | [96517-zimbo.json](./96517-zimbo.json) |
 | Zimo: Mahjong Fanatic | 84932 | [84932-zimo-mahjong-fanatic.json](./84932-zimo-mahjong-fanatic.json) |
