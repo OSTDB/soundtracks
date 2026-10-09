@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Dreams | 418538 | [418538-red-dreams.json](./418538-red-dreams.json) |
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
+| Red Dusk | 356062 | [356062-red-dusk.json](./356062-red-dusk.json) |
 | Red Dust | 148674 | [148674-red-dust.json](./148674-red-dust.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
@@ -6667,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Rosie's Rampage | 391170 | [391170-rosies-rampage.json](./391170-rosies-rampage.json) |
+| Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
