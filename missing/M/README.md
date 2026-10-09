@@ -11904,6 +11904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Setup | 226386 | [226386-my-dream-setup.json](./226386-my-dream-setup.json) |
 | My Dream Setup: Bathroom DLC | 297148 | [297148-my-dream-setup-bathroom-dlc.json](./297148-my-dream-setup-bathroom-dlc.json) |
 | My Dream Setup: Kitchen DLC | 297149 | [297149-my-dream-setup-kitchen-dlc.json](./297149-my-dream-setup-kitchen-dlc.json) |
+| My Dream Setup: Sim Racing | 375594 | [375594-my-dream-setup-sim-racing.json](./375594-my-dream-setup-sim-racing.json) |
 | My Dreams | 280470 | [280470-my-dreams.json](./280470-my-dreams.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
