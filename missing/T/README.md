@@ -2669,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
 | Tentador Leches | 179500 | [179500-tentador-leches.json](./179500-tentador-leches.json) |
 | Tentama | 392870 | [392870-tentama.json](./392870-tentama.json) |
+| Tenth Degree | 340980 | [340980-tenth-degree.json](./340980-tenth-degree.json) |
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
