@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Buster | 79566 | [79566-z-buster.json](./79566-z-buster.json) |
 | Z Collection | 52102 | [52102-z-collection.json](./52102-z-collection.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
+| Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z Mission Breakout | 343406 | [343406-z-mission-breakout.json](./343406-z-mission-breakout.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Rollerz: Pinball Heroes | 187855 | [187855-zombie-rollerz-pinball-heroes.json](./187855-zombie-rollerz-pinball-heroes.json) |
 | Zombie Rollerz: The Last Ship | 264066 | [264066-zombie-rollerz-the-last-ship.json](./264066-zombie-rollerz-the-last-ship.json) |
 | Zombie Rooms | 273384 | [273384-zombie-rooms.json](./273384-zombie-rooms.json) |
+| Zombie Royale io | 362177 | [362177-zombie-royale-io.json](./362177-zombie-royale-io.json) |
 | Zombie Run HD | 250387 | [250387-zombie-run-hd.json](./250387-zombie-run-hd.json) |
 | Zombie Rush | 179536 | [179536-zombie-rush.json](./179536-zombie-rush.json) |
 | Zombie Sanctuary: Juliet | 277372 | [277372-zombie-sanctuary-juliet.json](./277372-zombie-sanctuary-juliet.json) |
