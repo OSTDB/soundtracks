@@ -4985,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
 | Lost Secrets: Vatican Mysteries | 209398 | [209398-lost-secrets-vatican-mysteries.json](./209398-lost-secrets-vatican-mysteries.json) |
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
+| Lost Seed | 361637 | [361637-lost-seed.json](./361637-lost-seed.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
 | Lost Socks: Naughty Brothers | 32053 | [32053-lost-socks-naughty-brothers.json](./32053-lost-socks-naughty-brothers.json) |
