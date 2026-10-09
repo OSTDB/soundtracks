@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | Jumpox | 243735 | [243735-jumpox.json](./243735-jumpox.json) |
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
+| Jumpscare Simulator | 337568 | [337568-jumpscare-simulator.json](./337568-jumpscare-simulator.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
 | JumpStart 1st Grade | 94349 | [94349-jumpstart-1st-grade.json](./94349-jumpstart-1st-grade.json) |
@@ -2385,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Act Natural: Museum | 295388 | [295388-just-act-natural-museum.json](./295388-just-act-natural-museum.json) |
 | Just Alone | 34799 | [34799-just-alone.json](./34799-just-alone.json) |
 | Just an Ordinary Bike Ride | 403620 | [403620-just-an-ordinary-bike-ride.json](./403620-just-an-ordinary-bike-ride.json) |
+| Just Anomalies | 337582 | [337582-just-anomalies.json](./337582-just-anomalies.json) |
 | Just Anomaly: Hospital | 413208 | [413208-just-anomaly-hospital.json](./413208-just-anomaly-hospital.json) |
 | Just Another Boomer Shooter | 385340 | [385340-just-another-boomer-shooter.json](./385340-just-another-boomer-shooter.json) |
 | Just Another Christmas | 272033 | [272033-just-another-christmas.json](./272033-just-another-christmas.json) |
