@@ -7007,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnophilia | 385926 | [385926-arachnophilia.json](./385926-arachnophilia.json) |
 | ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
+| Aracore Astromining Ventures | 337661 | [337661-aracore-astromining-ventures.json](./337661-aracore-astromining-ventures.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
