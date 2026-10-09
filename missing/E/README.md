@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Arguice no Tsubasa PC-8801mkIISR | 312082 | [312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json](./312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json) |
 | Eggconsole Babylon PC-8801mkIISR | 328528 | [328528-eggconsole-babylon-pc-8801mkiisr.json](./328528-eggconsole-babylon-pc-8801mkiisr.json) |
 | Eggconsole Carmine 88 PC-8801mkIISR | 330400 | [330400-eggconsole-carmine-88-pc-8801mkiisr.json](./330400-eggconsole-carmine-88-pc-8801mkiisr.json) |
+| Eggconsole Crimson II PC-8801mkIISR | 365538 | [365538-eggconsole-crimson-ii-pc-8801mkiisr.json](./365538-eggconsole-crimson-ii-pc-8801mkiisr.json) |
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
