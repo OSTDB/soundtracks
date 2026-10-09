@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
+| Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
 | Restoration Master | 158095 | [158095-restoration-master.json](./158095-restoration-master.json) |
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
@@ -6028,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue Night | 292266 | [292266-rogue-night.json](./292266-rogue-night.json) |
+| Rogue Ninjas | 344417 | [344417-rogue-ninjas.json](./344417-rogue-ninjas.json) |
 | Rogue North | 151132 | [151132-rogue-north.json](./151132-rogue-north.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
 | Rogue of the Multiverse | 216241 | [216241-rogue-of-the-multiverse.json](./216241-rogue-of-the-multiverse.json) |
