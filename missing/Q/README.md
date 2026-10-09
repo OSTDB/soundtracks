@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadanoid | 245283 | [245283-quadanoid.json](./245283-quadanoid.json) |
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
+| Quadcubes | 357178 | [357178-quadcubes.json](./357178-quadcubes.json) |
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
 | Quadra | 407504 | [407504-quadra.json](./407504-quadra.json) |
