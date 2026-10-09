@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Like Walking Very Much | 126447 | [126447-i-like-walking-very-much.json](./126447-i-like-walking-very-much.json) |
 | I Lost My Eggs: Easter | 387329 | [387329-i-lost-my-eggs-easter.json](./387329-i-lost-my-eggs-easter.json) |
 | I Lost My Luggage | 155653 | [155653-i-lost-my-luggage.json](./155653-i-lost-my-luggage.json) |
+| I Lost My Wife | 379144 | [379144-i-lost-my-wife.json](./379144-i-lost-my-wife.json) |
 | I Lost Someone | 362296 | [362296-i-lost-someone.json](./362296-i-lost-someone.json) |
 | I Love Babies | 199994 | [199994-i-love-babies.json](./199994-i-love-babies.json) |
 | I Love Finding 9-in-1 Bundle | 328514 | [328514-i-love-finding-9-in-1-bundle.json](./328514-i-love-finding-9-in-1-bundle.json) |
