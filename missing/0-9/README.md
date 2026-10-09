@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Bakery Cats | 376885 | [376885-100-bakery-cats.json](./376885-100-bakery-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Balls: Tap to Drop in Cup | 100152 | [100152-100-balls-tap-to-drop-in-cup.json](./100152-100-balls-tap-to-drop-in-cup.json) |
+| 100 Berlin Cats | 334118 | [334118-100-berlin-cats.json](./334118-100-berlin-cats.json) |
 | 100 Blacksmith Cats | 376886 | [376886-100-blacksmith-cats.json](./376886-100-blacksmith-cats.json) |
 | 100 Bullets | 90935 | [90935-100-bullets.json](./90935-100-bullets.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
@@ -377,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Marshmallow Cats | 393730 | [393730-100-marshmallow-cats.json](./393730-100-marshmallow-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
 | 100 Meter | 247051 | [247051-100-meter.json](./247051-100-meter.json) |
+| 100 Miami Cats | 334126 | [334126-100-miami-cats.json](./334126-100-miami-cats.json) |
 | 100 Mind Game | 104235 | [104235-100-mind-game.json](./104235-100-mind-game.json) |
 | 100 Minutes of /vr/ | 300030 | [300030-100-minutes-of-vr.json](./300030-100-minutes-of-vr.json) |
 | 100 Mushroom Cats | 393731 | [393731-100-mushroom-cats.json](./393731-100-mushroom-cats.json) |
@@ -1848,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8Floor Bundle 4 in 1 part 3 | 331450 | [331450-8floor-bundle-4-in-1-part-3.json](./331450-8floor-bundle-4-in-1-part-3.json) |
 | 8Floor Bundle 4 in 1 part 4 | 331449 | [331449-8floor-bundle-4-in-1-part-4.json](./331449-8floor-bundle-4-in-1-part-4.json) |
 | 8Floor Bundle 4 in 1 part 5 | 331452 | [331452-8floor-bundle-4-in-1-part-5.json](./331452-8floor-bundle-4-in-1-part-5.json) |
+| 8Floor Bundle 4 in 1 part 6 | 334110 | [334110-8floor-bundle-4-in-1-part-6.json](./334110-8floor-bundle-4-in-1-part-6.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 8Floor Bundle 4 in 1 part 8 | 342239 | [342239-8floor-bundle-4-in-1-part-8.json](./342239-8floor-bundle-4-in-1-part-8.json) |
 | 8i | 32988 | [32988-8i.json](./32988-8i.json) |
