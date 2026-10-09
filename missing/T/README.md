@@ -3392,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of a Legend - Beyond Survival | 27702 | [27702-the-adventures-of-a-legend-beyond-survival.json](./27702-the-adventures-of-a-legend-beyond-survival.json) |
 | The Adventures of Aladdin and the Magic Skull | 25544 | [25544-the-adventures-of-aladdin-and-the-magic-skull.json](./25544-the-adventures-of-aladdin-and-the-magic-skull.json) |
 | The Adventures of Alice who Went Through the Looking-Glass and Came Back Though Not Much Changed | 84467 | [84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json](./84467-the-adventures-of-alice-who-went-through-the-looking-glass-and-came-back-though-not-much-changed.json) |
+| The Adventures of Ally The Alligator | 349822 | [349822-the-adventures-of-ally-the-alligator.json](./349822-the-adventures-of-ally-the-alligator.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
@@ -6921,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
+| The Jumping Bonbon Match 2 | 349813 | [349813-the-jumping-bonbon-match-2.json](./349813-the-jumping-bonbon-match-2.json) |
 | The Jumping Bonbon Match 3 | 359979 | [359979-the-jumping-bonbon-match-3.json](./359979-the-jumping-bonbon-match-3.json) |
 | The Jumping Boy | 330939 | [330939-the-jumping-boy.json](./330939-the-jumping-boy.json) |
 | The Jumping Brownie | 209644 | [209644-the-jumping-brownie.json](./209644-the-jumping-brownie.json) |
