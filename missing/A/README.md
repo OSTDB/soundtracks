@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
 | ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
+| ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
 | Academy | 76161 | [76161-academy.json](./76161-academy.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
+| Apple Man | 333670 | [333670-apple-man.json](./333670-apple-man.json) |
 | Apple Man Sam | 395502 | [395502-apple-man-sam.json](./395502-apple-man-sam.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
 | Apple Pie | 133257 | [133257-apple-pie.json](./133257-apple-pie.json) |
@@ -7859,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arevan | 34906 | [34906-arevan.json](./34906-arevan.json) |
 | Arevoatl seven coins | 102921 | [102921-arevoatl-seven-coins.json](./102921-arevoatl-seven-coins.json) |
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
+| Argebe | 333513 | [333513-argebe.json](./333513-argebe.json) |
 | Argentum Forever | 337051 | [337051-argentum-forever.json](./337051-argentum-forever.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
