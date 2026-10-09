@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchers | 120332 | [120332-glitchers.json](./120332-glitchers.json) |
 | Glitchers: Hack 'em Up | 263123 | [263123-glitchers-hack-em-up.json](./263123-glitchers-hack-em-up.json) |
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
+| Glitchfall | 368817 | [368817-glitchfall.json](./368817-glitchfall.json) |
 | Glitchhikers: First Drive | 178009 | [178009-glitchhikers-first-drive.json](./178009-glitchhikers-first-drive.json) |
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
 | Glitchhikers: The Spaces Between - Chill Beats Edition | 205228 | [205228-glitchhikers-the-spaces-between-chill-beats-edition.json](./205228-glitchhikers-the-spaces-between-chill-beats-edition.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
 | Gordon Ramsay Dash | 58306 | [58306-gordon-ramsay-dash.json](./58306-gordon-ramsay-dash.json) |
+| Gordost' Ulypa: VR-legendy Chuvashii | 368897 | [368897-gordost-ulypa-vr-legendy-chuvashii.json](./368897-gordost-ulypa-vr-legendy-chuvashii.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
