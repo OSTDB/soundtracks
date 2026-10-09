@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's First House Fire | 176444 | [176444-babys-first-house-fire.json](./176444-babys-first-house-fire.json) |
 | Baby's Musical Hands | 86864 | [86864-babys-musical-hands.json](./86864-babys-musical-hands.json) |
 | Baby's Nightmare Circus | 194385 | [194385-babys-nightmare-circus.json](./194385-babys-nightmare-circus.json) |
+| Baby's Nightmare Circus Bike Fighter | 370552 | [370552-babys-nightmare-circus-bike-fighter.json](./370552-babys-nightmare-circus-bike-fighter.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
