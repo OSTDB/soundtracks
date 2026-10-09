@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanYouSurvive? | 104159 | [104159-canyousurvive.json](./104159-canyousurvive.json) |
 | CanYouTilt | 41488 | [41488-canyoutilt.json](./41488-canyoutilt.json) |
 | Cap'n Carnage | 14374 | [14374-capn-carnage.json](./14374-capn-carnage.json) |
+| Cap'n Magneto | 344336 | [344336-capn-magneto.json](./344336-capn-magneto.json) |
 | Cap'n Marcela's Winter Wonderland | 310543 | [310543-capn-marcelas-winter-wonderland.json](./310543-capn-marcelas-winter-wonderland.json) |
 | Capacity | 380051 | [380051-capacity.json](./380051-capacity.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
@@ -1565,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Games Mini Golf | 4058 | [4058-carnival-games-mini-golf.json](./4058-carnival-games-mini-golf.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
+| Carnival Happy Day | 344401 | [344401-carnival-happy-day.json](./344401-carnival-happy-day.json) |
 | Carnival in the Hut | 251748 | [251748-carnival-in-the-hut.json](./251748-carnival-in-the-hut.json) |
 | Carnival Island | 20826 | [20826-carnival-island.json](./20826-carnival-island.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
@@ -9157,6 +9159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboy Yakuza | 130240 | [130240-cowboy-yakuza.json](./130240-cowboy-yakuza.json) |
 | Cowboyana | 72896 | [72896-cowboyana.json](./72896-cowboyana.json) |
+| Cowboys & Aliens | 344313 | [344313-cowboys-and-aliens.json](./344313-cowboys-and-aliens.json) |
 | Cowboys & Zombies VR | 226185 | [226185-cowboys-and-zombies-vr.json](./226185-cowboys-and-zombies-vr.json) |
 | Cowboys Galaxy Adventures | 193823 | [193823-cowboys-galaxy-adventures.json](./193823-cowboys-galaxy-adventures.json) |
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
@@ -11563,6 +11566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse: The Eye of Isis | 5796 | [5796-curse-the-eye-of-isis.json](./5796-curse-the-eye-of-isis.json) |
 | Curse: The First Knot | 400932 | [400932-curse-the-first-knot.json](./400932-curse-the-first-knot.json) |
 | Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
+| Cursebound | 344411 | [344411-cursebound.json](./344411-cursebound.json) |
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
 | Cursed | 230251 | [230251-cursed.json](./230251-cursed.json) |
