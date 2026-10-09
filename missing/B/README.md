@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
+| Bite-Sized Scares | 337583 | [337583-bite-sized-scares.json](./337583-bite-sized-scares.json) |
 | Biters | 231492 | [231492-biters.json](./231492-biters.json) |
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
@@ -8353,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boushoku no Gaburion: The Good Eater | 206038 | [206038-boushoku-no-gaburion-the-good-eater.json](./206038-boushoku-no-gaburion-the-good-eater.json) |
 | Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
 | Boutique Boulevard | 341069 | [341069-boutique-boulevard.json](./341069-boutique-boulevard.json) |
+| Boutique Builder Simulator | 337580 | [337580-boutique-builder-simulator.json](./337580-boutique-builder-simulator.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
@@ -9851,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | BubbleBack: The Story of Forward to the Past 2 | 396001 | [396001-bubbleback-the-story-of-forward-to-the-past-2.json](./396001-bubbleback-the-story-of-forward-to-the-past-2.json) |
 | BubbleBeast DigiDungeon | 323925 | [323925-bubblebeast-digidungeon.json](./323925-bubblebeast-digidungeon.json) |
+| BubbleByte | 337570 | [337570-bubblebyte.json](./337570-bubblebyte.json) |
 | Bubblefish Bob | 341063 | [341063-bubblefish-bob.json](./341063-bubblefish-bob.json) |
 | Bubblegum Bandit | 253421 | [253421-bubblegum-bandit.json](./253421-bubblegum-bandit.json) |
 | Bubblegum Crash | 43201 | [43201-bubblegum-crash.json](./43201-bubblegum-crash.json) |
