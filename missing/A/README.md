@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Day with the Wiggles | 273875 | [273875-a-day-with-the-wiggles.json](./273875-a-day-with-the-wiggles.json) |
 | A Day's Work | 307699 | [307699-a-days-work.json](./307699-a-days-work.json) |
+| A Death in Hyperspace | 335836 | [335836-a-death-in-hyperspace.json](./335836-a-death-in-hyperspace.json) |
 | A Death in the Red Light | 297761 | [297761-a-death-in-the-red-light.json](./297761-a-death-in-the-red-light.json) |
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Robot Combat | 270324 | [270324-ace-robot-combat.json](./270324-ace-robot-combat.json) |
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
+| Ace Strategy Mecha Nova | 335857 | [335857-ace-strategy-mecha-nova.json](./335857-ace-strategy-mecha-nova.json) |
 | Ace the Space-Case | 76194 | [76194-ace-the-space-case.json](./76194-ace-the-space-case.json) |
 | Ace Triad | 283890 | [283890-ace-triad.json](./283890-ace-triad.json) |
 | Ace Ventura | 4586 | [4586-ace-ventura.json](./4586-ace-ventura.json) |
@@ -7176,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ikari III - The Rescue | 131967 | [131967-arcade-archives-ikari-iii-the-rescue.json](./131967-arcade-archives-ikari-iii-the-rescue.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Image Fight | 119087 | [119087-arcade-archives-image-fight.json](./119087-arcade-archives-image-fight.json) |
+| Arcade Archives: Juno First | 335981 | [335981-arcade-archives-juno-first.json](./335981-arcade-archives-juno-first.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
 | Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
@@ -8377,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
+| Art Gallery Tycoon | 335811 | [335811-art-gallery-tycoon.json](./335811-art-gallery-tycoon.json) |
 | Art Heist | 127812 | [127812-art-heist.json](./127812-art-heist.json) |
 | Art Heist | 267006 | [267006-art-heist.json](./267006-art-heist.json) |
 | Art Heist, White Hat | 100762 | [100762-art-heist-white-hat.json](./100762-art-heist-white-hat.json) |
