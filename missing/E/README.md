@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entangled Souls | 223404 | [223404-entangled-souls.json](./223404-entangled-souls.json) |
 | Entanglement | 11339 | [11339-entanglement.json](./11339-entanglement.json) |
 | Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
+| Entanglement | 350383 | [350383-entanglement.json](./350383-entanglement.json) |
 | Entasy Online | 230242 | [230242-entasy-online.json](./230242-entasy-online.json) |
 | Enter Falconry | 295515 | [295515-enter-falconry.json](./295515-enter-falconry.json) |
 | Enter HorrorLand | 344561 | [344561-enter-horrorland.json](./344561-enter-horrorland.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
+| Exterminatus: Rival Species 2 | 350395 | [350395-exterminatus-rival-species-2.json](./350395-exterminatus-rival-species-2.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | External | 370013 | [370013-external.json](./370013-external.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
