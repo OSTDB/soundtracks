@@ -7428,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
+| Mini Crossword | 384254 | [384254-mini-crossword.json](./384254-mini-crossword.json) |
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
