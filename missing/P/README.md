@@ -6366,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Card GB2: Great Rocket-Dan Sanjou! | 11720 | [11720-pokemon-card-gb2-great-rocket-dan-sanjou.json](./11720-pokemon-card-gb2-great-rocket-dan-sanjou.json) |
 | Pokémon Castaway | 260097 | [260097-pokemon-castaway.json](./260097-pokemon-castaway.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
+| Pokémon Cerulean Aquarium | 384837 | [384837-pokemon-cerulean-aquarium.json](./384837-pokemon-cerulean-aquarium.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
 | Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
@@ -6387,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
 | Pokémon Crystal Ultimate | 221660 | [221660-pokemon-crystal-ultimate.json](./221660-pokemon-crystal-ultimate.json) |
 | Pokémon CrystalDust | 346232 | [346232-pokemon-crystaldust.json](./346232-pokemon-crystaldust.json) |
+| Pokémon Cursed Version | 384834 | [384834-pokemon-cursed-version.json](./384834-pokemon-cursed-version.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
@@ -6479,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Insurgence | 18989 | [18989-pokemon-insurgence.json](./18989-pokemon-insurgence.json) |
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
+| Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
@@ -6689,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéPark Wii: Pikachu's Adventure | 4558 | [4558-pokepark-wii-pikachus-adventure.json](./4558-pokepark-wii-pikachus-adventure.json) |
 | PokéPark: Fishing Rally DS | 94906 | [94906-pokepark-fishing-rally-ds.json](./94906-pokepark-fishing-rally-ds.json) |
 | PokéPath TD | 382382 | [382382-pokepath-td.json](./382382-pokepath-td.json) |
+| PokéPlunder | 384832 | [384832-pokeplunder.json](./384832-pokeplunder.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
 | Poker | 366922 | [366922-poker.json](./366922-poker.json) |
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
