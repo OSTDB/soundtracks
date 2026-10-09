@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
+| A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
 | Abyss Kitchen | 341028 | [341028-abyss-kitchen.json](./341028-abyss-kitchen.json) |
+| Abyss Knights | 350375 | [350375-abyss-knights.json](./350375-abyss-knights.json) |
 | Abyss Looters | 312663 | [312663-abyss-looters.json](./312663-abyss-looters.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss Odyssey: Extended Dream Edition | 21110 | [21110-abyss-odyssey-extended-dream-edition.json](./21110-abyss-odyssey-extended-dream-edition.json) |
@@ -2534,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
+| Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
 | Age of Sail | 14229 | [14229-age-of-sail.json](./14229-age-of-sail.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
