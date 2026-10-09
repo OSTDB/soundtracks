@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
 | Joe's Diner | 35859 | [35859-joes-diner.json](./35859-joes-diner.json) |
 | Joe's Fists | 129086 | [129086-joes-fists.json](./129086-joes-fists.json) |
+| Joedle | 351572 | [351572-joedle.json](./351572-joedle.json) |
 | Joel's Bizarre Pokéventure | 374586 | [374586-joels-bizarre-pokeventure.json](./374586-joels-bizarre-pokeventure.json) |
 | Joestar Struck | 177819 | [177819-joestar-struck.json](./177819-joestar-struck.json) |
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
