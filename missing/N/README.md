@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsumi and the Absurd Academy | 385841 | [385841-natsumi-and-the-absurd-academy.json](./385841-natsumi-and-the-absurd-academy.json) |
+| Natsuno-Kanata: Beyond Summer | 366723 | [366723-natsuno-kanata-beyond-summer.json](./366723-natsuno-kanata-beyond-summer.json) |
 | Natsuyasumi | 327917 | [327917-natsuyasumi.json](./327917-natsuyasumi.json) |
 | Natsuyasumi ga Machidooshii | 307833 | [307833-natsuyasumi-ga-machidooshii.json](./307833-natsuyasumi-ga-machidooshii.json) |
 | Natsuyume Nagisa | 396029 | [396029-natsuyume-nagisa.json](./396029-natsuyume-nagisa.json) |
