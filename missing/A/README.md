@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
+| A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk in the Woods | 99117 | [99117-a-walk-in-the-woods.json](./99117-a-walk-in-the-woods.json) |
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
@@ -1990,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -9176,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
 | Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
+| Astro Felix | 372281 | [372281-astro-felix.json](./372281-astro-felix.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
