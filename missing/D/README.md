@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
+| Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
 | Decommission Protocol | 421367 | [421367-decommission-protocol.json](./421367-decommission-protocol.json) |
@@ -9161,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakomon | 283248 | [283248-drakomon.json](./283248-drakomon.json) |
 | Drakomon Legends | 95658 | [95658-drakomon-legends.json](./95658-drakomon-legends.json) |
 | Drakula | 192758 | [192758-drakula.json](./192758-drakula.json) |
+| Drakula's Ascension | 351589 | [351589-drakulas-ascension.json](./351589-drakulas-ascension.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatic Dungeon: Sakura Taisen - Kimi Arugatame | 65843 | [65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json](./65843-dramatic-dungeon-sakura-taisen-kimi-arugatame.json) |
 | Dramatic Past | 130672 | [130672-dramatic-past.json](./130672-dramatic-past.json) |
