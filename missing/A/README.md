@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri | 78639 | [78639-acceleration-of-suguri.json](./78639-acceleration-of-suguri.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
+| Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
@@ -1988,7 +1989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
