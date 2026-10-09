@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
 | Vampire Garden | 145928 | [145928-vampire-garden.json](./145928-vampire-garden.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
+| Vampire Hunt | 370479 | [370479-vampire-hunt.json](./370479-vampire-hunt.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
+| Villainy | 370562 | [370562-villainy.json](./370562-villainy.json) |
 | Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vilomah | 215672 | [215672-vilomah.json](./215672-vilomah.json) |
