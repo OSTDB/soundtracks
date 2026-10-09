@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Jr. | 19761 | [19761-tempo-jr.json](./19761-tempo-jr.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
+| Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
@@ -7208,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
+| The Last Lighthouse | 384855 | [384855-the-last-lighthouse.json](./384855-the-last-lighthouse.json) |
 | The Last Lodge | 392476 | [392476-the-last-lodge.json](./392476-the-last-lodge.json) |
 | The Last Login | 406897 | [406897-the-last-login.json](./406897-the-last-login.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
@@ -14025,6 +14027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Island | 204301 | [204301-tiny-island.json](./204301-tiny-island.json) |
 | Tiny Island Survival | 187809 | [187809-tiny-island-survival.json](./187809-tiny-island-survival.json) |
 | Tiny Isle | 374794 | [374794-tiny-isle.json](./374794-tiny-isle.json) |
+| Tiny Jar Farm | 384864 | [384864-tiny-jar-farm.json](./384864-tiny-jar-farm.json) |
 | Tiny Jukebox | 279857 | [279857-tiny-jukebox.json](./279857-tiny-jukebox.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Jumper | 109922 | [109922-tiny-jumper.json](./109922-tiny-jumper.json) |
