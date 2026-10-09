@@ -6773,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Survivors | 235365 | [235365-midnight-survivors.json](./235365-midnight-survivors.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Syndrome | 304648 | [304648-midnight-syndrome.json](./304648-midnight-syndrome.json) |
+| Midnight Taco | 336497 | [336497-midnight-taco.json](./336497-midnight-taco.json) |
 | Midnight Terror: The Beginning | 192260 | [192260-midnight-terror-the-beginning.json](./192260-midnight-terror-the-beginning.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
 | Midnight Therapy | 388938 | [388938-midnight-therapy.json](./388938-midnight-therapy.json) |
@@ -8595,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMX Hill Dash 2 - Race Offroad | 97262 | [97262-mmx-hill-dash-2-race-offroad.json](./97262-mmx-hill-dash-2-race-offroad.json) |
 | MMX Racing | 224004 | [224004-mmx-racing.json](./224004-mmx-racing.json) |
 | Mnemocyne Complex | 365813 | [365813-mnemocyne-complex.json](./365813-mnemocyne-complex.json) |
+| Mnemonic | 336488 | [336488-mnemonic.json](./336488-mnemonic.json) |
 | Mnemonic Devices | 177509 | [177509-mnemonic-devices.json](./177509-mnemonic-devices.json) |
 | Mnemophobia: Deadline | 227772 | [227772-mnemophobia-deadline.json](./227772-mnemophobia-deadline.json) |
 | Mnemosyne's Cube | 395159 | [395159-mnemosynes-cube.json](./395159-mnemosynes-cube.json) |
@@ -9376,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bonds | 332578 | [332578-monster-bonds.json](./332578-monster-bonds.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
+| Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
@@ -12176,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
+| My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
