@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
+| Decrypto Project | 338686 | [338686-decrypto-project.json](./338686-decrypto-project.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Decwar | 66735 | [66735-decwar.json](./66735-decwar.json) |
@@ -4621,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United II: The Darkest Shrine | 187930 | [187930-detectives-united-ii-the-darkest-shrine.json](./187930-detectives-united-ii-the-darkest-shrine.json) |
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
+| Detectives United: Mission Possible - Collector's Edition | 338780 | [338780-detectives-united-mission-possible-collectors-edition.json](./338780-detectives-united-mission-possible-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectives United: Phantoms of the Past - Collector's Edition | 370561 | [370561-detectives-united-phantoms-of-the-past-collectors-edition.json](./370561-detectives-united-phantoms-of-the-past-collectors-edition.json) |
 | Detectives United: Vengeance from the Past | 416702 | [416702-detectives-united-vengeance-from-the-past.json](./416702-detectives-united-vengeance-from-the-past.json) |
@@ -5534,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimo's Quest | 45892 | [45892-dimos-quest.json](./45892-dimos-quest.json) |
 | Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
+| Dimwood | 338682 | [338682-dimwood.json](./338682-dimwood.json) |
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
 | Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
@@ -8680,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
+| Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
 | Dragon Ball Z: Shin Budokai - Another Road | 2568 | [2568-dragon-ball-z-shin-budokai-another-road.json](./2568-dragon-ball-z-shin-budokai-another-road.json) |
 | Dragon Ball Z: Shin Budokai Another Road Revisited | 353308 | [353308-dragon-ball-z-shin-budokai-another-road-revisited.json](./353308-dragon-ball-z-shin-budokai-another-road-revisited.json) |
@@ -10983,14 +10987,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
+| Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
 | Dungeons & Dragons Online: Devil Assault | 338893 | [338893-dungeons-and-dragons-online-devil-assault.json](./338893-dungeons-and-dragons-online-devil-assault.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
+| Dungeons & Dragons Online: Keep on the Borderlands | 338764 | [338764-dungeons-and-dragons-online-keep-on-the-borderlands.json](./338764-dungeons-and-dragons-online-keep-on-the-borderlands.json) |
+| Dungeons & Dragons Online: Premium Archetype - Wild Mage | 338767 | [338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json](./338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json) |
+| Dungeons & Dragons Online: Premium Race - Tabaxi | 338769 | [338769-dungeons-and-dragons-online-premium-race-tabaxi.json](./338769-dungeons-and-dragons-online-premium-race-tabaxi.json) |
+| Dungeons & Dragons Online: Premium Race - Warforged | 338768 | [338768-dungeons-and-dragons-online-premium-race-warforged.json](./338768-dungeons-and-dragons-online-premium-race-warforged.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
 | Dungeons & Dragons Online: The Chill of Ravenloft | 352251 | [352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json](./352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Lost Gatekeepers | 338891 | [338891-dungeons-and-dragons-online-the-lost-gatekeepers.json](./338891-dungeons-and-dragons-online-the-lost-gatekeepers.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
 | Dungeons & Dragons Online: The Red Fens | 349334 | [349334-dungeons-and-dragons-online-the-red-fens.json](./349334-dungeons-and-dragons-online-the-red-fens.json) |
+| Dungeons & Dragons Online: The Seal of Shan-to-Kor | 338765 | [338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json](./338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json) |
+| Dungeons & Dragons Online: The Sharn Syndicate | 338766 | [338766-dungeons-and-dragons-online-the-sharn-syndicate.json](./338766-dungeons-and-dragons-online-the-sharn-syndicate.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
