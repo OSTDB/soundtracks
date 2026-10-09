@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
+| Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
@@ -3315,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Pinehurst Country Club | 73461 | [73461-links-championship-course-pinehurst-country-club.json](./73461-links-championship-course-pinehurst-country-club.json) |
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Links: Championship Course: Innisbrook - Copperhead | 73481 | [73481-links-championship-course-innisbrook-copperhead.json](./73481-links-championship-course-innisbrook-copperhead.json) |
+| LinkShift | 357168 | [357168-linkshift.json](./357168-linkshift.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
 | Linley Henzell's Dungeon Crawl | 84198 | [84198-linley-henzells-dungeon-crawl.json](./84198-linley-henzells-dungeon-crawl.json) |
 | Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
@@ -3363,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
+| Liquid Sugar | 357193 | [357193-liquid-sugar.json](./357193-liquid-sugar.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
