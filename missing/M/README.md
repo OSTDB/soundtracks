@@ -7420,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
 | Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
+| Minesweeper Mobile | 372812 | [372812-minesweeper-mobile.json](./372812-minesweeper-mobile.json) |
 | Minesweeper Online | 271398 | [271398-minesweeper-online.json](./271398-minesweeper-online.json) |
 | Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
@@ -12263,6 +12264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
 | My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
+| My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
