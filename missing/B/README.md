@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back to Home | 258558 | [258558-back-to-home.json](./258558-back-to-home.json) |
 | Back to Life 3 | 36102 | [36102-back-to-life-3.json](./36102-back-to-life-3.json) |
+| Back to Modern World: Fantasy Hero | 364966 | [364966-back-to-modern-world-fantasy-hero.json](./364966-back-to-modern-world-fantasy-hero.json) |
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
 | Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Battery Check | 242641 | [242641-battery-check.json](./242641-battery-check.json) |
+| Battery Farm | 364982 | [364982-battery-farm.json](./364982-battery-farm.json) |
 | Battery Hunter | 259623 | [259623-battery-hunter.json](./259623-battery-hunter.json) |
 | Battery Navi | 245248 | [245248-battery-navi.json](./245248-battery-navi.json) |
 | Battery Samurai | 245983 | [245983-battery-samurai.json](./245983-battery-samurai.json) |
