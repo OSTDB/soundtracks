@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Magic: Witch Shop | 245939 | [245939-neon-magic-witch-shop.json](./245939-neon-magic-witch-shop.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
 | Neon Marble Rust | 267019 | [267019-neon-marble-rust.json](./267019-neon-marble-rust.json) |
+| Neon Merger | 339309 | [339309-neon-merger.json](./339309-neon-merger.json) |
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
@@ -2012,6 +2013,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Ludo | 232365 | [232365-new-ludo.json](./232365-new-ludo.json) |
 | New Magic Sword | 163906 | [163906-new-magic-sword.json](./163906-new-magic-sword.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
+| New Nightmare Cafe 4 | 339222 | [339222-new-nightmare-cafe-4.json](./339222-new-nightmare-cafe-4.json) |
+| New Nightmare Cafe 5 | 339223 | [339223-new-nightmare-cafe-5.json](./339223-new-nightmare-cafe-5.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Quest: Don't Get Bored! | 178943 | [178943-new-quest-dont-get-bored.json](./178943-new-quest-dont-get-bored.json) |
