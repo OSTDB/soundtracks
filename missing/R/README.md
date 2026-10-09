@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Drive | 220686 | [220686-retro-drive.json](./220686-retro-drive.json) |
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
+| Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
 | Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
