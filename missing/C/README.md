@@ -6651,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
+| Cole Hunter: Payback | 383730 | [383730-cole-hunter-payback.json](./383730-cole-hunter-payback.json) |
 | Cole's Christmas 2024: GoonQuest | 327419 | [327419-coles-christmas-2024-goonquest.json](./327419-coles-christmas-2024-goonquest.json) |
 | Colecionador Show do Milhão | 222352 | [222352-colecionador-show-do-milhao.json](./222352-colecionador-show-do-milhao.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
@@ -10979,6 +10980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Fight | 380099 | [380099-cube-fight.json](./380099-cube-fight.json) |
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
+| Cube Game Server Boss | 383691 | [383691-cube-game-server-boss.json](./383691-cube-game-server-boss.json) |
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
 | Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
 | Cube Guardian: Tower Defender | 357841 | [357841-cube-guardian-tower-defender.json](./357841-cube-guardian-tower-defender.json) |
