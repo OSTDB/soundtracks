@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koiyasumi Encore!: Lovely Golden Week | 397387 | [397387-koiyasumi-encore-lovely-golden-week.json](./397387-koiyasumi-encore-lovely-golden-week.json) |
 | Koiyasumi: Kanojo no Hada ni Tokeru Konayuki | 397385 | [397385-koiyasumi-kanojo-no-hada-ni-tokeru-konayuki.json](./397385-koiyasumi-kanojo-no-hada-ni-tokeru-konayuki.json) |
 | Koiyasumi: Yuudachi ni Nureta Osananajimi | 397384 | [397384-koiyasumi-yuudachi-ni-nureta-osananajimi.json](./397384-koiyasumi-yuudachi-ni-nureta-osananajimi.json) |
+| Koji the Frog | 381940 | [381940-koji-the-frog.json](./381940-koji-the-frog.json) |
 | Kojimachi Island | 197199 | [197199-kojimachi-island.json](./197199-kojimachi-island.json) |
 | Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
