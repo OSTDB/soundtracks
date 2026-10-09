@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake III: Revolution | 43673 | [43673-quake-iii-revolution.json](./43673-quake-iii-revolution.json) |
 | Quake Live | 6578 | [6578-quake-live.json](./6578-quake-live.json) |
 | Quake Minus One | 26413 | [26413-quake-minus-one.json](./26413-quake-minus-one.json) |
+| Quake Rally | 364398 | [364398-quake-rally.json](./364398-quake-rally.json) |
 | Quake Upstart Mapping Project 2017 | 322055 | [322055-quake-upstart-mapping-project-2017.json](./322055-quake-upstart-mapping-project-2017.json) |
 | Quake VR | 196018 | [196018-quake-vr.json](./196018-quake-vr.json) |
 | Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
@@ -428,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Anne's Lace | 387561 | [387561-queen-annes-lace.json](./387561-queen-annes-lace.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
+| Queen Boat | 364360 | [364360-queen-boat.json](./364360-queen-boat.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
 | Queen Fighter 2000 | 269754 | [269754-queen-fighter-2000.json](./269754-queen-fighter-2000.json) |
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
