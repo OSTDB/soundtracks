@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
+| Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Celesphonia | 199384 | [199384-magical-girl-celesphonia.json](./199384-magical-girl-celesphonia.json) |
 | Magical Girl Critical Deluxe | 339978 | [339978-magical-girl-critical-deluxe.json](./339978-magical-girl-critical-deluxe.json) |
+| Magical Girl Fist Fight | 353812 | [353812-magical-girl-fist-fight.json](./353812-magical-girl-fist-fight.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Lyrical Nanoha A's Portable: The Battle of Aces | 42836 | [42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json](./42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json) |
@@ -5928,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Mess | 220554 | [220554-meteor-mess.json](./220554-meteor-mess.json) |
 | Meteor Missiles | 142158 | [142158-meteor-missiles.json](./142158-meteor-missiles.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
+| Meteor Raiders | 353796 | [353796-meteor-raiders.json](./353796-meteor-raiders.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Storm | 159754 | [159754-meteor-storm.json](./159754-meteor-storm.json) |
@@ -6580,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Club: Street Racing | 194265 | [194265-midnight-club-street-racing.json](./194265-midnight-club-street-racing.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
 | Midnight Commander | 91963 | [91963-midnight-commander.json](./91963-midnight-commander.json) |
+| Midnight Crane | 353793 | [353793-midnight-crane.json](./353793-midnight-crane.json) |
 | Midnight Crimes | 304142 | [304142-midnight-crimes.json](./304142-midnight-crimes.json) |
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
 | Midnight Cycle in Muxi Town | 249734 | [249734-midnight-cycle-in-muxi-town.json](./249734-midnight-cycle-in-muxi-town.json) |
