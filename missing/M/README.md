@@ -7804,6 +7804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minty Monkey | 307098 | [307098-minty-monkey.json](./307098-minty-monkey.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minus Nine | 396014 | [396014-minus-nine.json](./396014-minus-nine.json) |
+| Minuse | 368361 | [368361-minuse.json](./368361-minuse.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
@@ -9404,6 +9405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
 | Monster Knockout: Idle DLC | 361773 | [361773-monster-knockout-idle-dlc.json](./361773-monster-knockout-idle-dlc.json) |
 | Monster Lab | 5018 | [5018-monster-lab.json](./5018-monster-lab.json) |
+| Monster Lab Simulator | 368377 | [368377-monster-lab-simulator.json](./368377-monster-lab-simulator.json) |
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
