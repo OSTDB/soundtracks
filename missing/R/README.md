@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Bakudan | 337489 | [337489-renai-bakudan.json](./337489-renai-bakudan.json) |
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
+| Renai Karichaimashita: Koikari - Love For Hire: Limited Edition | 335969 | [335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json](./335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json) |
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
@@ -3517,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restore the Luminous | 413935 | [413935-restore-the-luminous.json](./413935-restore-the-luminous.json) |
+| Restore, Reflect, Retry | 335839 | [335839-restore-reflect-retry.json](./335839-restore-reflect-retry.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
 | Restrain | 286750 | [286750-restrain.json](./286750-restrain.json) |
@@ -4650,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio: Match 3 Party | 109178 | [109178-rio-match-3-party.json](./109178-rio-match-3-party.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
+| Rios de Lluvia | 335973 | [335973-rios-de-lluvia.json](./335973-rios-de-lluvia.json) |
 | Riot | 279702 | [279702-riot.json](./279702-riot.json) |
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
 | Riot City | 39851 | [39851-riot-city.json](./39851-riot-city.json) |
