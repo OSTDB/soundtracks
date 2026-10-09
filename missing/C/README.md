@@ -5582,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
+| Clash of Seven Heroes | 368284 | [368284-clash-of-seven-heroes.json](./368284-clash-of-seven-heroes.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
@@ -8196,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Conviction | 260181 | [260181-conviction.json](./260181-conviction.json) |
 | Conviction Chronicles | 404993 | [404993-conviction-chronicles.json](./404993-conviction-chronicles.json) |
+| Convoluted Incident: Pinch me | 368373 | [368373-convoluted-incident-pinch-me.json](./368373-convoluted-incident-pinch-me.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
@@ -8381,6 +8383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
 | Cop Police Escape: Racing Zone Clash | 254690 | [254690-cop-police-escape-racing-zone-clash.json](./254690-cop-police-escape-racing-zone-clash.json) |
+| Cop Rush | 368289 | [368289-cop-rush.json](./368289-cop-rush.json) |
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
 | Copa City: Elite Tifo Collection | 406909 | [406909-copa-city-elite-tifo-collection.json](./406909-copa-city-elite-tifo-collection.json) |
 | Copa City: Urban Aesthetics Pack | 406908 | [406908-copa-city-urban-aesthetics-pack.json](./406908-copa-city-urban-aesthetics-pack.json) |
