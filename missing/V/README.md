@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Elysium | 194207 | [194207-valkyrie-elysium.json](./194207-valkyrie-elysium.json) |
 | Valkyrie Galaxy | 120340 | [120340-valkyrie-galaxy.json](./120340-valkyrie-galaxy.json) |
 | Valkyrie Idle | 248095 | [248095-valkyrie-idle.json](./248095-valkyrie-idle.json) |
+| Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator | 361061 | [361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json](./361061-valkyrie-iteration-mecha-pilot-raising-pocket-simulator.json) |
 | Valkyrie Nemesis | 195622 | [195622-valkyrie-nemesis.json](./195622-valkyrie-nemesis.json) |
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
