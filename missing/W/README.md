@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Nightmares | 158560 | [158560-wet-nightmares.json](./158560-wet-nightmares.json) |
 | Wet Passion | 338382 | [338382-wet-passion.json](./338382-wet-passion.json) |
 | Wet Robot Dreams | 142351 | [142351-wet-robot-dreams.json](./142351-wet-robot-dreams.json) |
+| Wet Slits | 349277 | [349277-wet-slits.json](./349277-wet-slits.json) |
 | Wet Steps | 158072 | [158072-wet-steps.json](./158072-wet-steps.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
@@ -4844,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup Manager | 86221 | [86221-world-cup-manager.json](./86221-world-cup-manager.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
+| World Cup USA 94 | 349268 | [349268-world-cup-usa-94.json](./349268-world-cup-usa-94.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Cup USA 94 | 365873 | [365873-world-cup-usa-94.json](./365873-world-cup-usa-94.json) |
