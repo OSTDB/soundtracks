@@ -4735,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter of Sursur 2 | 350606 | [350606-shelter-of-sursur-2.json](./350606-shelter-of-sursur-2.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
+| Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
@@ -5108,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
 | Shinobi: Art of Vengeance - Sega Villains Stage | 375165 | [375165-shinobi-art-of-vengeance-sega-villains-stage.json](./375165-shinobi-art-of-vengeance-sega-villains-stage.json) |
+| Shinobi: Art of Vengeance Blue Outfit | 373903 | [373903-shinobi-art-of-vengeance-blue-outfit.json](./373903-shinobi-art-of-vengeance-blue-outfit.json) |
 | Shinobi: The Warlord | 300722 | [300722-shinobi-the-warlord.json](./300722-shinobi-the-warlord.json) |
 | Shinobi.fr | 137624 | [137624-shinobi-fr.json](./137624-shinobi-fr.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
@@ -13839,6 +13841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
+| Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
@@ -17836,6 +17839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner's Automata | 360691 | [360691-summoners-automata.json](./360691-summoners-automata.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
+| Summoner's Pieces | 373867 | [373867-summoners-pieces.json](./373867-summoners-pieces.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
 | Summoner's Warrior | 223904 | [223904-summoners-warrior.json](./223904-summoners-warrior.json) |
 | SummonerRL | 275806 | [275806-summonerrl.json](./275806-summonerrl.json) |
@@ -20468,6 +20472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Mercs | 239709 | [239709-survivor-mercs.json](./239709-survivor-mercs.json) |
 | Survivor of Eschewal | 74999 | [74999-survivor-of-eschewal.json](./74999-survivor-of-eschewal.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
+| Survivor Squad | 373887 | [373887-survivor-squad.json](./373887-survivor-squad.json) |
 | Survivor Squad Complete | 53693 | [53693-survivor-squad-complete.json](./53693-survivor-squad-complete.json) |
 | Survivor Squad: Gauntlets | 36186 | [36186-survivor-squad-gauntlets.json](./36186-survivor-squad-gauntlets.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
@@ -21184,6 +21189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
+| Swords & Earrings: Tales of Andaria | 373853 | [373853-swords-and-earrings-tales-of-andaria.json](./373853-swords-and-earrings-tales-of-andaria.json) |
 | Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
