@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Hot Hiker | 365549 | [365549-yabai-girls-hot-hiker.json](./365549-yabai-girls-hot-hiker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
+| Yabai Otoko ni Nanpa Sareru Game | 347737 | [347737-yabai-otoko-ni-nanpa-sareru-game.json](./347737-yabai-otoko-ni-nanpa-sareru-game.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
 | Yacht Dice Family | 360497 | [360497-yacht-dice-family.json](./360497-yacht-dice-family.json) |
 | Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
