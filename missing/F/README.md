@@ -4859,6 +4859,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Daze | 366428 | [366428-flower-daze.json](./366428-flower-daze.json) |
 | Flower Defence | 56761 | [56761-flower-defence.json](./56761-flower-defence.json) |
 | Flower Design II | 384522 | [384522-flower-design-ii.json](./384522-flower-design-ii.json) |
+| Flower Dungeon | 380214 | [380214-flower-dungeon.json](./380214-flower-dungeon.json) |
+| Flower Dungeon: Gold Nib & Dragon Fists | 380215 | [380215-flower-dungeon-gold-nib-and-dragon-fists.json](./380215-flower-dungeon-gold-nib-and-dragon-fists.json) |
+| Flower Dungeon: Mercenary & Berserker | 380216 | [380216-flower-dungeon-mercenary-and-berserker.json](./380216-flower-dungeon-mercenary-and-berserker.json) |
 | Flower Escape | 363364 | [363364-flower-escape.json](./363364-flower-escape.json) |
 | Flower Flurry | 255129 | [255129-flower-flurry.json](./255129-flower-flurry.json) |
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
@@ -4868,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower Magic | 108457 | [108457-flower-magic.json](./108457-flower-magic.json) |
+| Flower of Anarchy | 380218 | [380218-flower-of-anarchy.json](./380218-flower-of-anarchy.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
 | Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
@@ -4879,9 +4883,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower vs. Zombie War | 223934 | [223934-flower-vs-zombie-war.json](./223934-flower-vs-zombie-war.json) |
 | Flower, Sun, and Rain | 18123 | [18123-flower-sun-and-rain.json](./18123-flower-sun-and-rain.json) |
 | Flower, Sun, and Rain: Murder and Mystery in Paradise | 159295 | [159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json](./159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json) |
+| Flowerbloom Cottage | 380212 | [380212-flowerbloom-cottage.json](./380212-flowerbloom-cottage.json) |
+| FlowerCorner: Plant Watering To Vibe To | 380213 | [380213-flowercorner-plant-watering-to-vibe-to.json](./380213-flowercorner-plant-watering-to-vibe-to.json) |
 | Flowerdrops | 134984 | [134984-flowerdrops.json](./134984-flowerdrops.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
+| Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
 | Flowers for Time | 181191 | [181191-flowers-for-time.json](./181191-flowers-for-time.json) |
