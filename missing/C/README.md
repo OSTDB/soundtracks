@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
 | Camp Keepalive: Endless Summer | 348426 | [348426-camp-keepalive-endless-summer.json](./348426-camp-keepalive-endless-summer.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
+| Camp Life: Wilderness Survival 2025 | 362209 | [362209-camp-life-wilderness-survival-2025.json](./362209-camp-life-wilderness-survival-2025.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
@@ -6064,6 +6065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Encounter VR | 388407 | [388407-close-encounter-vr.json](./388407-close-encounter-vr.json) |
 | Close Encounters | 323288 | [323288-close-encounters.json](./323288-close-encounters.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
+| Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
 | Close Order | 34917 | [34917-close-order.json](./34917-close-order.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
@@ -7129,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloristic | 134426 | [134426-coloristic.json](./134426-coloristic.json) |
 | Colorize | 380079 | [380079-colorize.json](./380079-colorize.json) |
 | Colorize ASMR | 303051 | [303051-colorize-asmr.json](./303051-colorize-asmr.json) |
+| Colorizing: Cozy Days | 362199 | [362199-colorizing-cozy-days.json](./362199-colorizing-cozy-days.json) |
 | Colorizing: Daydream | 371420 | [371420-colorizing-daydream.json](./371420-colorizing-daydream.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
@@ -9175,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Interiors | 407204 | [407204-cozy-interiors.json](./407204-cozy-interiors.json) |
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
+| Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
 | Cozy Liora | 400883 | [400883-cozy-liora.json](./400883-cozy-liora.json) |
 | Cozy Marbles | 292519 | [292519-cozy-marbles.json](./292519-cozy-marbles.json) |
@@ -10338,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
+| Cross Pix | 362197 | [362197-cross-pix.json](./362197-cross-pix.json) |
 | Cross Pix 2 | 363970 | [363970-cross-pix-2.json](./363970-cross-pix-2.json) |
 | Cross Pix 3 | 365545 | [365545-cross-pix-3.json](./365545-cross-pix-3.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
