@@ -8571,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
 | Ash of War: Operation Sundown | 174157 | [174157-ash-of-war-operation-sundown.json](./174157-ash-of-war-operation-sundown.json) |
 | Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
+| Ash Survival | 362763 | [362763-ash-survival.json](./362763-ash-survival.json) |
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
@@ -10576,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azazel Gamble | 370284 | [370284-azazel-gamble.json](./370284-azazel-gamble.json) |
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
+| Azhar Erriad: Destruction | 362760 | [362760-azhar-erriad-destruction.json](./362760-azhar-erriad-destruction.json) |
 | Azimech | 156220 | [156220-azimech.json](./156220-azimech.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
 | Azimuth: Head Alignment Kit | 13829 | [13829-azimuth-head-alignment-kit.json](./13829-azimuth-head-alignment-kit.json) |
