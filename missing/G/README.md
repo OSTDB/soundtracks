@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GangV: Battle Royale | 144201 | [144201-gangv-battle-royale.json](./144201-gangv-battle-royale.json) |
 | Gangway Monsters | 43844 | [43844-gangway-monsters.json](./43844-gangway-monsters.json) |
 | Ganja Farmer | 25801 | [25801-ganja-farmer.json](./25801-ganja-farmer.json) |
+| Ganja Quest RPG | 368359 | [368359-ganja-quest-rpg.json](./368359-ganja-quest-rpg.json) |
 | Ganku Ganku | 251089 | [251089-ganku-ganku.json](./251089-ganku-ganku.json) |
 | Gansel and Hretel | 99157 | [99157-gansel-and-hretel.json](./99157-gansel-and-hretel.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
@@ -1386,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
+| Géants Disparus VR | 368282 | [368282-geants-disparus-vr.json](./368282-geants-disparus-vr.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
@@ -2143,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GG Nibbles | 46529 | [46529-gg-nibbles.json](./46529-gg-nibbles.json) |
 | GG Portrait: Akira Yuki | 46528 | [46528-gg-portrait-akira-yuki.json](./46528-gg-portrait-akira-yuki.json) |
 | GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
+| GG Puzzler | 368379 | [368379-gg-puzzler.json](./368379-gg-puzzler.json) |
 | Ggang! | 114914 | [114914-ggang.json](./114914-ggang.json) |
 | Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
 | Ggg Collection: Gubbie | 170853 | [170853-ggg-collection-gubbie.json](./170853-ggg-collection-gubbie.json) |
