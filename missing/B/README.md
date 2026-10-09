@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Blast: Space DLC | 356815 | [356815-ball-blast-space-dlc.json](./356815-ball-blast-space-dlc.json) |
 | Ball Blast: Space Edition | 364097 | [364097-ball-blast-space-edition.json](./364097-ball-blast-space-edition.json) |
 | Ball Blast: Wilds DLC | 356816 | [356816-ball-blast-wilds-dlc.json](./356816-ball-blast-wilds-dlc.json) |
+| Ball Blaster | 359386 | [359386-ball-blaster.json](./359386-ball-blaster.json) |
 | Ball Blitz! | 296615 | [296615-ball-blitz.json](./296615-ball-blitz.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
@@ -4192,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | Bhavacakra Grace | 114829 | [114829-bhavacakra-grace.json](./114829-bhavacakra-grace.json) |
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
+| Bher | 359361 | [359361-bher.json](./359361-bher.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
@@ -6174,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
 | Block Flying | 247077 | [247077-block-flying.json](./247077-block-flying.json) |
+| Block Flying | 359387 | [359387-block-flying.json](./359387-block-flying.json) |
 | Block Force | 247454 | [247454-block-force.json](./247454-block-force.json) |
 | Block Force | 400447 | [400447-block-force.json](./400447-block-force.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
@@ -9654,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Jcat | 183950 | [183950-bubble-jcat.json](./183950-bubble-jcat.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
 | Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
+| Bubble Lead | 359371 | [359371-bubble-lead.json](./359371-bubble-lead.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
@@ -9941,6 +9945,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
 | Build the Great Temple: Dora Dora Land | 401912 | [401912-build-the-great-temple-dora-dora-land.json](./401912-build-the-great-temple-dora-dora-land.json) |
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
+| Build Up Road | 359372 | [359372-build-up-road.json](./359372-build-up-road.json) |
+| Build Up Roads | 359373 | [359373-build-up-roads.json](./359373-build-up-roads.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
 | Build Your Palace | 134398 | [134398-build-your-palace.json](./134398-build-your-palace.json) |
 | Build Your Simspolis | 98780 | [98780-build-your-simspolis.json](./98780-build-your-simspolis.json) |
