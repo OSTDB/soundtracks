@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardaire: Eternal Aces | 378441 | [378441-cardaire-eternal-aces.json](./378441-cardaire-eternal-aces.json) |
 | Cardamom | 361262 | [361262-cardamom.json](./361262-cardamom.json) |
 | Cardangels | 135161 | [135161-cardangels.json](./135161-cardangels.json) |
+| Cardaver | 380193 | [380193-cardaver.json](./380193-cardaver.json) |
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
 | Cardboard Box Assembler | 397412 | [397412-cardboard-box-assembler.json](./397412-cardboard-box-assembler.json) |
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
@@ -11238,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
 | Cult of the Lamb | 165351 | [165351-cult-of-the-lamb.json](./165351-cult-of-the-lamb.json) |
+| Cult of the Lamb: Arcade Edition | 380184 | [380184-cult-of-the-lamb-arcade-edition.json](./380184-cult-of-the-lamb-arcade-edition.json) |
 | Cult of the Lamb: Cultist Edition | 204780 | [204780-cult-of-the-lamb-cultist-edition.json](./204780-cult-of-the-lamb-cultist-edition.json) |
 | Cult of the Lamb: Deluxe Edition | 222943 | [222943-cult-of-the-lamb-deluxe-edition.json](./222943-cult-of-the-lamb-deluxe-edition.json) |
 | Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
