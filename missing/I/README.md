@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperfect Hatred | 262567 | [262567-imperfect-hatred.json](./262567-imperfect-hatred.json) |
 | Imperfections | 414502 | [414502-imperfections.json](./414502-imperfections.json) |
+| Imperfectly Perfect | 383679 | [383679-imperfectly-perfect.json](./383679-imperfectly-perfect.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
 | Imperial Arms: Curse of the Conqueror | 188452 | [188452-imperial-arms-curse-of-the-conqueror.json](./188452-imperial-arms-curse-of-the-conqueror.json) |
@@ -3685,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
 | Island Life | 92439 | [92439-island-life.json](./92439-island-life.json) |
+| Island Maker | 383738 | [383738-island-maker.json](./383738-island-maker.json) |
 | Island Marauder | 126371 | [126371-island-marauder.json](./126371-island-marauder.json) |
 | Island Master | 264680 | [264680-island-master.json](./264680-island-master.json) |
 | Island Maze | 110918 | [110918-island-maze.json](./110918-island-maze.json) |
