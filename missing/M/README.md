@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melo's Nightmare | 299367 | [299367-melos-nightmare.json](./299367-melos-nightmare.json) |
 | Melod | 235145 | [235145-melod.json](./235145-melod.json) |
+| Melodic Mage | 374426 | [374426-melodic-mage.json](./374426-melodic-mage.json) |
 | Melodic Riddle | 75774 | [75774-melodic-riddle.json](./75774-melodic-riddle.json) |
 | Melodie | 334214 | [334214-melodie.json](./334214-melodie.json) |
 | Melodier | 200509 | [200509-melodier.json](./200509-melodier.json) |
@@ -5562,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaids Are Seafood | 381188 | [381188-mermaids-are-seafood.json](./381188-mermaids-are-seafood.json) |
 | Mermaids of Atlantis: The Riddle of the Magic Bubble | 48172 | [48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json](./48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json) |
 | Mermeows - Chill Cat Mermaids | 371459 | [371459-mermeows-chill-cat-mermaids.json](./371459-mermeows-chill-cat-mermaids.json) |
+| Merp in Merpworld | 374405 | [374405-merp-in-merpworld.json](./374405-merp-in-merpworld.json) |
 | Merper VR | 75013 | [75013-merper-vr.json](./75013-merper-vr.json) |
 | Merri Puzzle | 39765 | [39765-merri-puzzle.json](./39765-merri-puzzle.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
@@ -8971,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
+| Monitor State | 374440 | [374440-monitor-state.json](./374440-monitor-state.json) |
 | Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
