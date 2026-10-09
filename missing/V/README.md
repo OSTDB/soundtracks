@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Boyfriend Plus | 210521 | [210521-vampire-boyfriend-plus.json](./210521-vampire-boyfriend-plus.json) |
 | Vampire Brides: Love Over Death | 65857 | [65857-vampire-brides-love-over-death.json](./65857-vampire-brides-love-over-death.json) |
+| Vampire Cat | 342097 | [342097-vampire-cat.json](./342097-vampire-cat.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
 | Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | 378229 | [378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json](./378229-vampire-crawlers-the-turbo-wildcard-from-vampire-survivors.json) |
