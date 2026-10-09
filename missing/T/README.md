@@ -6784,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
+| The Infernal Abyss | 337657 | [337657-the-infernal-abyss.json](./337657-the-infernal-abyss.json) |
 | The Infernal Masquerade | 236963 | [236963-the-infernal-masquerade.json](./236963-the-infernal-masquerade.json) |
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
@@ -10394,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The State of Nowhere | 289961 | [289961-the-state-of-nowhere.json](./289961-the-state-of-nowhere.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
 | The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
+| The Station | 337572 | [337572-the-station.json](./337572-the-station.json) |
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
@@ -12350,6 +12352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands Layered Edge | 142123 | [142123-thousands-layered-edge.json](./142123-thousands-layered-edge.json) |
 | Thousands of Chroma | 412896 | [412896-thousands-of-chroma.json](./412896-thousands-of-chroma.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
+| Thrae | 337576 | [337576-thrae.json](./337576-thrae.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
@@ -18176,11 +18179,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Sickness | 383628 | [383628-travel-sickness.json](./383628-travel-sickness.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
 | Travel to Australia | 293160 | [293160-travel-to-australia.json](./293160-travel-to-australia.json) |
+| Travel to Brazil | 337584 | [337584-travel-to-brazil.json](./337584-travel-to-brazil.json) |
 | Travel to Canada | 315043 | [315043-travel-to-canada.json](./315043-travel-to-canada.json) |
+| Travel to England | 337595 | [337595-travel-to-england.json](./337595-travel-to-england.json) |
+| Travel to Germany | 337592 | [337592-travel-to-germany.json](./337592-travel-to-germany.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
+| Travel to India | 337588 | [337588-travel-to-india.json](./337588-travel-to-india.json) |
+| Travel to Italy | 337597 | [337597-travel-to-italy.json](./337597-travel-to-italy.json) |
+| Travel to Japan | 337599 | [337599-travel-to-japan.json](./337599-travel-to-japan.json) |
 | Travel to Mexico | 293163 | [293163-travel-to-mexico.json](./293163-travel-to-mexico.json) |
 | Travel to Spain | 293162 | [293162-travel-to-spain.json](./293162-travel-to-spain.json) |
 | Travel to Thailand | 293161 | [293161-travel-to-thailand.json](./293161-travel-to-thailand.json) |
+| Travel to USA | 337596 | [337596-travel-to-usa.json](./337596-travel-to-usa.json) |
 | Travel Trivia | 305901 | [305901-travel-trivia.json](./305901-travel-trivia.json) |
 | Travel With Dinosaurs | 351710 | [351710-travel-with-dinosaurs.json](./351710-travel-with-dinosaurs.json) |
 | Traveler Lost | 367031 | [367031-traveler-lost.json](./367031-traveler-lost.json) |
