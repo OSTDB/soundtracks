@@ -5568,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Whom The Bell Tolls | 260792 | [260792-for-whom-the-bell-tolls.json](./260792-for-whom-the-bell-tolls.json) |
 | For Whom the Stars Shine | 305918 | [305918-for-whom-the-stars-shine.json](./305918-for-whom-the-stars-shine.json) |
 | For Your Tranquility | 228503 | [228503-for-your-tranquility.json](./228503-for-your-tranquility.json) |
+| For Zekyll | 368814 | [368814-for-zekyll.json](./368814-for-zekyll.json) |
 | Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbidden Art | 123978 | [123978-forbidden-art.json](./123978-forbidden-art.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
@@ -6040,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Aaahh Men! | 372794 | [372794-fortnite-festival-aaahh-men.json](./372794-fortnite-festival-aaahh-men.json) |
 | Fortnite Festival: Ain't No Rest For The Wicked | 366340 | [366340-fortnite-festival-aint-no-rest-for-the-wicked.json](./366340-fortnite-festival-aint-no-rest-for-the-wicked.json) |
+| Fortnite Festival: Bang Bang | 368827 | [368827-fortnite-festival-bang-bang.json](./368827-fortnite-festival-bang-bang.json) |
 | Fortnite Festival: Better Off Alone | 372011 | [372011-fortnite-festival-better-off-alone.json](./372011-fortnite-festival-better-off-alone.json) |
 | Fortnite Festival: Beyond the Flame | 377256 | [377256-fortnite-festival-beyond-the-flame.json](./377256-fortnite-festival-beyond-the-flame.json) |
 | Fortnite Festival: Bling-Bang-Bang-Born | 372800 | [372800-fortnite-festival-bling-bang-bang-born.json](./372800-fortnite-festival-bling-bang-bang-born.json) |
@@ -7068,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
+| FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
