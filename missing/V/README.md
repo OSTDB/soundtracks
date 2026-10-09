@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
 | V.G.: Variable Geo | 98254 | [98254-v-g-variable-geo.json](./98254-v-g-variable-geo.json) |
+| V.I.P Client | 374975 | [374975-v-i-p-client.json](./374975-v-i-p-client.json) |
 | V.L.A.D.i.K | 114804 | [114804-v-l-a-d-i-k.json](./114804-v-l-a-d-i-k.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
+| Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
@@ -1425,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie Vole's Existential Nightmare | 63367 | [63367-vinnie-voles-existential-nightmare.json](./63367-vinnie-voles-existential-nightmare.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
+| Vinnie’s Tomb: Chapter One - The Road to Vinnie’s Tomb | 374954 | [374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json](./374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json) |
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
 | Vintage Story | 69547 | [69547-vintage-story.json](./69547-vintage-story.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
