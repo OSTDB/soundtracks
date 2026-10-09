@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Game No. 999999 | 283973 | [283973-backrooms-game-no-999999.json](./283973-backrooms-game-no-999999.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
+| Backrooms Liminal Escape | 343301 | [343301-backrooms-liminal-escape.json](./343301-backrooms-liminal-escape.json) |
 | Backrooms Lost Runners | 364009 | [364009-backrooms-lost-runners.json](./364009-backrooms-lost-runners.json) |
 | Backrooms Mainframe | 234687 | [234687-backrooms-mainframe.json](./234687-backrooms-mainframe.json) |
 | Backrooms Manager: Together | 410982 | [410982-backrooms-manager-together.json](./410982-backrooms-manager-together.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls Break Bricks | 384728 | [384728-balls-break-bricks.json](./384728-balls-break-bricks.json) |
 | Balls Control | 90767 | [90767-balls-control.json](./90767-balls-control.json) |
+| Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
@@ -2029,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
+| Batman Returns | 343294 | [343294-batman-returns.json](./343294-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman v Superman: Who Will Win | 76554 | [76554-batman-v-superman-who-will-win.json](./76554-batman-v-superman-who-will-win.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
@@ -2250,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
 | Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
+| Battle for Rakir | 343296 | [343296-battle-for-rakir.json](./343296-battle-for-rakir.json) |
 | Battle for Sea 3D | 163895 | [163895-battle-for-sea-3d.json](./163895-battle-for-sea-3d.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
@@ -3378,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Robot | 170279 | [170279-beauty-vs-robot.json](./170279-beauty-vs-robot.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
+| Beauty’s Target | 343230 | [343230-beauty-s-target.json](./343230-beauty-s-target.json) |
 | Beautycopter | 139164 | [139164-beautycopter.json](./139164-beautycopter.json) |
 | Beaux-Arts | 372623 | [372623-beaux-arts.json](./372623-beaux-arts.json) |
 | Beaver Clicker | 211097 | [211097-beaver-clicker.json](./211097-beaver-clicker.json) |
@@ -6930,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Funk | 234668 | [234668-blue-funk.json](./234668-blue-funk.json) |
 | Blue Hawaii Aniki's Soft Ore Demand Debut | 365262 | [365262-blue-hawaii-anikis-soft-ore-demand-debut.json](./365262-blue-hawaii-anikis-soft-ore-demand-debut.json) |
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
+| Blue Hill Wendigo | 343217 | [343217-blue-hill-wendigo.json](./343217-blue-hill-wendigo.json) |
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
 | Blue Horizon: Hibiscus, and the Loved Garden Paths of Raj Rivera | 395997 | [395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json](./395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json) |
@@ -9049,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Puzzle | 278660 | [278660-breakout-birdie-puzzle.json](./278660-breakout-birdie-puzzle.json) |
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
 | Breakout Defense 2 | 77368 | [77368-breakout-defense-2.json](./77368-breakout-defense-2.json) |
+| Breakout Epilepsia | 343286 | [343286-breakout-epilepsia.json](./343286-breakout-epilepsia.json) |
 | Breakout Force | 236390 | [236390-breakout-force.json](./236390-breakout-force.json) |
 | Breakout Hero | 181259 | [181259-breakout-hero.json](./181259-breakout-hero.json) |
 | Breakout in Space | 70977 | [70977-breakout-in-space.json](./70977-breakout-in-space.json) |
