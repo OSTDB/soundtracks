@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
 | Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
+| Tenshi no Oshigoto: Their Wishes Afterward | 336494 | [336494-tenshi-no-oshigoto-their-wishes-afterward.json](./336494-tenshi-no-oshigoto-their-wishes-afterward.json) |
 | Tenshi no Shippo | 167118 | [167118-tenshi-no-shippo.json](./167118-tenshi-no-shippo.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
+| Terra Dentium | 336589 | [336589-terra-dentium.json](./336589-terra-dentium.json) |
 | Terra Division | 390608 | [390608-terra-division.json](./390608-terra-division.json) |
 | Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
 | Terra Exodus | 294373 | [294373-terra-exodus.json](./294373-terra-exodus.json) |
@@ -3585,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
+| The Ancient Magus' Bride: Midsummer Pilgrimage | 336511 | [336511-the-ancient-magus-bride-midsummer-pilgrimage.json](./336511-the-ancient-magus-bride-midsummer-pilgrimage.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
@@ -6430,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunting of Braidwood Manor | 313813 | [313813-the-haunting-of-braidwood-manor.json](./313813-the-haunting-of-braidwood-manor.json) |
 | The Haunting of Joni Evers | 290008 | [290008-the-haunting-of-joni-evers.json](./290008-the-haunting-of-joni-evers.json) |
 | The Haunting of Ptolemy | 341459 | [341459-the-haunting-of-ptolemy.json](./341459-the-haunting-of-ptolemy.json) |
+| The Haunting Of Stabbey Road | 336514 | [336514-the-haunting-of-stabbey-road.json](./336514-the-haunting-of-stabbey-road.json) |
 | The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
@@ -8368,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
+| The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
 | The Midnighters | 376659 | [376659-the-midnighters.json](./376659-the-midnighters.json) |
 | The Mightiest Sword is Mine! | 359926 | [359926-the-mightiest-sword-is-mine.json](./359926-the-mightiest-sword-is-mine.json) |
@@ -11248,6 +11253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
+| The Untold Legends: Baba Yaga | 336582 | [336582-the-untold-legends-baba-yaga.json](./336582-the-untold-legends-baba-yaga.json) |
 | The Untold Story of Hengshui School | 96841 | [96841-the-untold-story-of-hengshui-school.json](./96841-the-untold-story-of-hengshui-school.json) |
 | The Untouchable | 62285 | [62285-the-untouchable.json](./62285-the-untouchable.json) |
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
@@ -14989,6 +14995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
 | Tokyo Detectives: Case 01 | 192167 | [192167-tokyo-detectives-case-01.json](./192167-tokyo-detectives-case-01.json) |
 | Tokyo Detectives: Case 02 | 192168 | [192168-tokyo-detectives-case-02.json](./192168-tokyo-detectives-case-02.json) |
+| Tokyo Drive | 336579 | [336579-tokyo-drive.json](./336579-tokyo-drive.json) |
 | Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
 | Tokyo Fury | 339437 | [339437-tokyo-fury.json](./339437-tokyo-fury.json) |
@@ -15615,6 +15622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
+| Tophet | 336508 | [336508-tophet.json](./336508-tophet.json) |
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topidia: The Last Badge | 420554 | [420554-topidia-the-last-badge.json](./420554-topidia-the-last-badge.json) |
@@ -19102,6 +19110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
+| Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
 | Trucker Transporter 2 - Parking Simulator | 89516 | [89516-trucker-transporter-2-parking-simulator.json](./89516-trucker-transporter-2-parking-simulator.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
@@ -20106,6 +20115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ty the Tasmanian Tiger 3: Night of the Quinkan | 1324 | [1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json](./1324-ty-the-tasmanian-tiger-3-night-of-the-quinkan.json) |
 | TY the Tasmanian Tiger 4 | 12876 | [12876-ty-the-tasmanian-tiger-4.json](./12876-ty-the-tasmanian-tiger-4.json) |
 | Ty the Tasmanian Tiger 4: Gunyip! | 307671 | [307671-ty-the-tasmanian-tiger-4-gunyip.json](./307671-ty-the-tasmanian-tiger-4-gunyip.json) |
+| Ty the Tasmanian Tiger: Bush Rescue Bundle | 336490 | [336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json](./336490-ty-the-tasmanian-tiger-bush-rescue-bundle.json) |
 | Tyalband | 276310 | [276310-tyalband.json](./276310-tyalband.json) |
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
 | Tyco R/C: Assault with a Battery | 44889 | [44889-tyco-r-c-assault-with-a-battery.json](./44889-tyco-r-c-assault-with-a-battery.json) |
