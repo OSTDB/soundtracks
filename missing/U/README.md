@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsettled | 59244 | [59244-unsettled.json](./59244-unsettled.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unshaken | 217405 | [217405-unshaken.json](./217405-unshaken.json) |
+| Unshaken | 372823 | [372823-unshaken.json](./372823-unshaken.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
