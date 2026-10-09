@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
+| Wayfarer Of Hydrangea | 368912 | [368912-wayfarer-of-hydrangea.json](./368912-wayfarer-of-hydrangea.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
 | Wayfarers Edge | 152823 | [152823-wayfarers-edge.json](./152823-wayfarers-edge.json) |
 | Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
