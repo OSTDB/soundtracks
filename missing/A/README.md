@@ -7510,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Trucker Simulator | 36396 | [36396-arctic-trucker-simulator.json](./36396-arctic-trucker-simulator.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
+| Arctica | 379712 | [379712-arctica.json](./379712-arctica.json) |
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
@@ -8643,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
+| Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
 | Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
 | Assassin Girls | 286746 | [286746-assassin-girls.json](./286746-assassin-girls.json) |
