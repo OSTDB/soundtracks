@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accordion | 14204 | [14204-accordion.json](./14204-accordion.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
+| Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
 | Accurate Segmentation 2 | 334829 | [334829-accurate-segmentation-2.json](./334829-accurate-segmentation-2.json) |
 | Accurate Segmentation 3 | 334828 | [334828-accurate-segmentation-3.json](./334828-accurate-segmentation-3.json) |
@@ -3479,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Deluxe | 93157 | [93157-alchemy-deluxe.json](./93157-alchemy-deluxe.json) |
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Emporium | 149963 | [149963-alchemy-emporium.json](./149963-alchemy-emporium.json) |
+| Alchemy Factory | 342686 | [342686-alchemy-factory.json](./342686-alchemy-factory.json) |
 | Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy Hearts | 401065 | [401065-alchemy-hearts.json](./401065-alchemy-hearts.json) |
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
@@ -9050,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
 | Asteria: Fate of the Fallen | 411530 | [411530-asteria-fate-of-the-fallen.json](./411530-asteria-fate-of-the-fallen.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
+| Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
