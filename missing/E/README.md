@@ -4626,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminator | 238557 | [238557-exterminator.json](./238557-exterminator.json) |
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
+| Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
 | Exterminium | 349878 | [349878-exterminium.json](./349878-exterminium.json) |
 | ExTime: Primal Menace | 245922 | [245922-extime-primal-menace.json](./245922-extime-primal-menace.json) |
 | Extinct Forest | 379047 | [379047-extinct-forest.json](./379047-extinct-forest.json) |
