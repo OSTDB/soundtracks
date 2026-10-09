@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon's Campaigns II | 65045 | [65045-napoleons-campaigns-ii.json](./65045-napoleons-campaigns-ii.json) |
 | Napoleon's Campaigns: 1813 & 1815 | 23989 | [23989-napoleons-campaigns-1813-and-1815.json](./23989-napoleons-campaigns-1813-and-1815.json) |
 | Napoleonic Battles: The Final Struggle | 182272 | [182272-napoleonic-battles-the-final-struggle.json](./182272-napoleonic-battles-the-final-struggle.json) |
+| Napolitan Hotel | 336506 | [336506-napolitan-hotel.json](./336506-napolitan-hotel.json) |
 | Napped | 219648 | [219648-napped.json](./219648-napped.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the X-mas Trees | 415247 | [415247-night-of-the-x-mas-trees.json](./415247-night-of-the-x-mas-trees.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night Out | 183939 | [183939-night-out.json](./183939-night-out.json) |
+| Night Owls | 336513 | [336513-night-owls.json](./336513-night-owls.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
