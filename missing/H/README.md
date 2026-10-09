@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
 | Harmful Park | 44878 | [44878-harmful-park.json](./44878-harmful-park.json) |
 | Harmful: The Second Tape | 187884 | [187884-harmful-the-second-tape.json](./187884-harmful-the-second-tape.json) |
+| Harmless Lies | 337041 | [337041-harmless-lies.json](./337041-harmless-lies.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmolinks | 404384 | [404384-harmolinks.json](./404384-harmolinks.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
+| Heart Of The Abyss | 337055 | [337055-heart-of-the-abyss.json](./337055-heart-of-the-abyss.json) |
 | Heart of the Alien | 343417 | [343417-heart-of-the-alien.json](./343417-heart-of-the-alien.json) |
 | Heart of the Dragon | 74048 | [74048-heart-of-the-dragon.json](./74048-heart-of-the-dragon.json) |
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
