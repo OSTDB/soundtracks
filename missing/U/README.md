@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unforsaken | 396743 | [396743-unforsaken.json](./396743-unforsaken.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
+| Unfound Footage | 347743 | [347743-unfound-footage.json](./347743-unfound-footage.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
