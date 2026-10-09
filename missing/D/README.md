@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
 | Deliverance & Reign | 239699 | [239699-deliverance-and-reign.json](./239699-deliverance-and-reign.json) |
+| Deliverance Protocol: Ironrot | 371044 | [371044-deliverance-protocol-ironrot.json](./371044-deliverance-protocol-ironrot.json) |
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
@@ -8927,7 +8928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
-| Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
