@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tayto Says | 330349 | [330349-tayto-says.json](./330349-tayto-says.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
 | Tayutama 2: You're the only one | 30612 | [30612-tayutama-2-youre-the-only-one.json](./30612-tayutama-2-youre-the-only-one.json) |
+| Tayutama: It's happy days | 362212 | [362212-tayutama-its-happy-days.json](./362212-tayutama-its-happy-days.json) |
 | Tayutama: Kiss on My Deity | 403095 | [403095-tayutama-kiss-on-my-deity.json](./403095-tayutama-kiss-on-my-deity.json) |
 | Tayutama: Kiss on My Deity | 69311 | [69311-tayutama-kiss-on-my-deity.json](./69311-tayutama-kiss-on-my-deity.json) |
 | Taz | 100183 | [100183-taz.json](./100183-taz.json) |
@@ -2942,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
 | Test Drive 6 | 370310 | [370310-test-drive-6.json](./370310-test-drive-6.json) |
+| Test Drive Cycles | 362222 | [362222-test-drive-cycles.json](./362222-test-drive-cycles.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive Off-Road Wide Open | 6198 | [6198-test-drive-off-road-wide-open.json](./6198-test-drive-off-road-wide-open.json) |
@@ -3108,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
 | TetroMosaic, Happy Halloweeen | 375411 | [375411-tetromosaic-happy-halloweeen.json](./375411-tetromosaic-happy-halloweeen.json) |
+| TetroMosaic, Racy: Automata | 362192 | [362192-tetromosaic-racy-automata.json](./362192-tetromosaic-racy-automata.json) |
 | TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetroon | 234594 | [234594-tetroon.json](./234594-tetroon.json) |
@@ -4480,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Closure | 249767 | [249767-the-closure.json](./249767-the-closure.json) |
 | The Clot Thickens | 156578 | [156578-the-clot-thickens.json](./156578-the-clot-thickens.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
+| The Cloud Forest | 362188 | [362188-the-cloud-forest.json](./362188-the-cloud-forest.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clouds Travel Notes | 126376 | [126376-the-clouds-travel-notes.json](./126376-the-clouds-travel-notes.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
@@ -6968,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Karate Tournament | 40342 | [40342-the-karate-tournament.json](./40342-the-karate-tournament.json) |
 | The Karters 2: Turbo Charged | 230763 | [230763-the-karters-2-turbo-charged.json](./230763-the-karters-2-turbo-charged.json) |
 | The Katagean Redoubt | 271816 | [271816-the-katagean-redoubt.json](./271816-the-katagean-redoubt.json) |
+| The Kebab House: Cooking Simulator | 362175 | [362175-the-kebab-house-cooking-simulator.json](./362175-the-kebab-house-cooking-simulator.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
@@ -8951,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
+| The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
 | The Pigeon P | 198254 | [198254-the-pigeon-p.json](./198254-the-pigeon-p.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
@@ -11560,6 +11566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf Among Us: Episode 1 - Faith | 127107 | [127107-the-wolf-among-us-episode-1-faith.json](./127107-the-wolf-among-us-episode-1-faith.json) |
 | The Wolf Among Us: Episode 2 - Smoke and Mirrors | 127108 | [127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json](./127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json) |
 | The Wolf Among Us: Episode 3 - A Crooked Mile | 127109 | [127109-the-wolf-among-us-episode-3-a-crooked-mile.json](./127109-the-wolf-among-us-episode-3-a-crooked-mile.json) |
+| The Wolf and the Blood Moon | 362213 | [362213-the-wolf-and-the-blood-moon.json](./362213-the-wolf-and-the-blood-moon.json) |
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
@@ -14651,6 +14658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
 | Tob Run | 359062 | [359062-tob-run.json](./359062-tob-run.json) |
+| Tobacco Business Simulator | 362176 | [362176-tobacco-business-simulator.json](./362176-tobacco-business-simulator.json) |
 | Tobacco Shop Simulator | 319666 | [319666-tobacco-shop-simulator.json](./319666-tobacco-shop-simulator.json) |
 | TOBAFCASS | 12887 | [12887-tobafcass.json](./12887-tobafcass.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
@@ -18589,6 +18597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tripline | 87800 | [87800-tripline.json](./87800-tripline.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
+| Trippy Trader: Schedule & Sell | 362214 | [362214-trippy-trader-schedule-and-sell.json](./362214-trippy-trader-schedule-and-sell.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
