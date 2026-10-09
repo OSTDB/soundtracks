@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
 | Dark Past Darker Future | 255254 | [255254-dark-past-darker-future.json](./255254-dark-past-darker-future.json) |
 | Dark Pathways | 164937 | [164937-dark-pathways.json](./164937-dark-pathways.json) |
+| Dark PGT | 347207 | [347207-dark-pgt.json](./347207-dark-pgt.json) |
 | Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
 | Dark Place 2 | 272027 | [272027-dark-place-2.json](./272027-dark-place-2.json) |
@@ -6033,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
+| Dishventory | 347110 | [347110-dishventory.json](./347110-dishventory.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
 | Dishwashing Simulator | 291513 | [291513-dishwashing-simulator.json](./291513-dishwashing-simulator.json) |
 | Disillusion | 148887 | [148887-disillusion.json](./148887-disillusion.json) |
@@ -7756,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Reborn | 365242 | [365242-doom-reborn.json](./365242-doom-reborn.json) |
 | DOOM Remake 4 | 201181 | [201181-doom-remake-4.json](./201181-doom-remake-4.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
+| Doom Spiral | 347089 | [347089-doom-spiral.json](./347089-doom-spiral.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
 | Doom Sweeper | 259034 | [259034-doom-sweeper.json](./259034-doom-sweeper.json) |
@@ -8198,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
+| Doug The Digger | 347187 | [347187-doug-the-digger.json](./347187-doug-the-digger.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
 | DougDoug's Basement: How I Got a Sea Otter A Promotion! | 326757 | [326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json](./326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json) |
