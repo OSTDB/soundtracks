@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faster than light? | 178437 | [178437-faster-than-light.json](./178437-faster-than-light.json) |
 | Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
+| FastFly | 349895 | [349895-fastfly.json](./349895-fastfly.json) |
 | FastFWD | 183388 | [183388-fastfwd.json](./183388-fastfwd.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
 | Fasthand | 360734 | [360734-fasthand.json](./360734-fasthand.json) |
@@ -1860,8 +1861,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: Battle Archives Volume 1 | 21232 | [21232-fatal-fury-battle-archives-volume-1.json](./21232-fatal-fury-battle-archives-volume-1.json) |
 | Fatal Fury: City of the Wolves | 260321 | [260321-fatal-fury-city-of-the-wolves.json](./260321-fatal-fury-city-of-the-wolves.json) |
+| Fatal Fury: City of the Wolves - Andy Bogard | 349908 | [349908-fatal-fury-city-of-the-wolves-andy-bogard.json](./349908-fatal-fury-city-of-the-wolves-andy-bogard.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
+| Fatal Fury: City of the Wolves - Joe Higashi | 349909 | [349909-fatal-fury-city-of-the-wolves-joe-higashi.json](./349909-fatal-fury-city-of-the-wolves-joe-higashi.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
 | Fatal Fury: City of the Wolves - Kenshiro | 388992 | [388992-fatal-fury-city-of-the-wolves-kenshiro.json](./388992-fatal-fury-city-of-the-wolves-kenshiro.json) |
 | Fatal Fury: City of the Wolves - Kim Jae Hoon | 388987 | [388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json](./388987-fatal-fury-city-of-the-wolves-kim-jae-hoon.json) |
@@ -2880,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fillet Fury | 337288 | [337288-fillet-fury.json](./337288-fillet-fury.json) |
 | FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
 | Fillit | 151077 | [151077-fillit.json](./151077-fillit.json) |
+| Fillit the Abstract Strategy | 349902 | [349902-fillit-the-abstract-strategy.json](./349902-fillit-the-abstract-strategy.json) |
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
 | Fillup Fridge | 208842 | [208842-fillup-fridge.json](./208842-fillup-fridge.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
