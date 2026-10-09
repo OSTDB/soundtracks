@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Evolution Merge | 348420 | [348420-rabbit-evolution-merge.json](./348420-rabbit-evolution-merge.json) |
 | Rabbit Hole | 151060 | [151060-rabbit-hole.json](./151060-rabbit-hole.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
+| Rabbit Hole | 345532 | [345532-rabbit-hole.json](./345532-rabbit-hole.json) |
 | Rabbit Hole | 345533 | [345533-rabbit-hole.json](./345533-rabbit-hole.json) |
 | Rabbit Hole 3D | 10750 | [10750-rabbit-hole-3d.json](./10750-rabbit-hole-3d.json) |
 | Rabbit Hole 3D: Steam Edition | 90584 | [90584-rabbit-hole-3d-steam-edition.json](./90584-rabbit-hole-3d-steam-edition.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
 | Railway Empire 2 | 215138 | [215138-railway-empire-2.json](./215138-railway-empire-2.json) |
+| Railway Empire 2: Bella Italia | 345429 | [345429-railway-empire-2-bella-italia.json](./345429-railway-empire-2-bella-italia.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
 | Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
@@ -1869,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality-On-The-Norm: The Affair of the Weirdo | 58048 | [58048-reality-on-the-norm-the-affair-of-the-weirdo.json](./58048-reality-on-the-norm-the-affair-of-the-weirdo.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
+| Realization | 345438 | [345438-realization.json](./345438-realization.json) |
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
 | Realize Me | 307873 | [307873-realize-me.json](./307873-realize-me.json) |
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
@@ -2356,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
+| Red Light | 345432 | [345432-red-light.json](./345432-red-light.json) |
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
 | Red Line | 272888 | [272888-red-line.json](./272888-red-line.json) |
 | Red Lucy | 208283 | [208283-red-lucy.json](./208283-red-lucy.json) |
