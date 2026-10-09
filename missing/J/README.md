@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker Show: Horror Escape | 258503 | [258503-joker-show-horror-escape.json](./258503-joker-show-horror-escape.json) |
 | Joker w Coat Physics | 342188 | [342188-joker-w-coat-physics.json](./342188-joker-w-coat-physics.json) |
 | Jollibae | 355173 | [355173-jollibae.json](./355173-jollibae.json) |
+| Jollitown | 364382 | [364382-jollitown.json](./364382-jollitown.json) |
 | Jolly 3: Chapter 1 | 184507 | [184507-jolly-3-chapter-1.json](./184507-jolly-3-chapter-1.json) |
 | Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
 | Jolly and Whimsy | 406872 | [406872-jolly-and-whimsy.json](./406872-jolly-and-whimsy.json) |
