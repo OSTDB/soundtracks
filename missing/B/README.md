@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
 | Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
+| Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
 | Balatro: Friends of Jimbo | 314927 | [314927-balatro-friends-of-jimbo.json](./314927-balatro-friends-of-jimbo.json) |
 | Balatro: Special Edition | 323893 | [323893-balatro-special-edition.json](./323893-balatro-special-edition.json) |
+| Balavour | 345986 | [345986-balavour.json](./345986-balavour.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
