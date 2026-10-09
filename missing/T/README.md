@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Zero | 26921 | [26921-tape-zero.json](./26921-tape-zero.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
+| Tapes of Fear: Smile | 337062 | [337062-tapes-of-fear-smile.json](./337062-tapes-of-fear-smile.json) |
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
 | Tapestry | 406224 | [406224-tapestry.json](./406224-tapestry.json) |
 | Tapestry of the Month Before | 180081 | [180081-tapestry-of-the-month-before.json](./180081-tapestry-of-the-month-before.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of the Dead | 129668 | [129668-the-curse-of-the-dead.json](./129668-the-curse-of-the-dead.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
+| The Curse of Town | 337050 | [337050-the-curse-of-town.json](./337050-the-curse-of-town.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
 | The Curse of Womanland | 391143 | [391143-the-curse-of-womanland.json](./391143-the-curse-of-womanland.json) |
@@ -7076,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters GO | 106763 | [106763-the-king-of-fighters-go.json](./106763-the-king-of-fighters-go.json) |
 | The King of Fighters Neowave | 5896 | [5896-the-king-of-fighters-neowave.json](./5896-the-king-of-fighters-neowave.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
+| The King of Fighters Wing | 337142 | [337142-the-king-of-fighters-wing.json](./337142-the-king-of-fighters-wing.json) |
 | The King of Fighters XII | 7036 | [7036-the-king-of-fighters-xii.json](./7036-the-king-of-fighters-xii.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII Steam Edition | 22679 | [22679-the-king-of-fighters-xiii-steam-edition.json](./22679-the-king-of-fighters-xiii-steam-edition.json) |
@@ -11370,6 +11373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Waiting Room | 74695 | [74695-the-waiting-room.json](./74695-the-waiting-room.json) |
+| The Waitress | 337140 | [337140-the-waitress.json](./337140-the-waitress.json) |
 | The Wake Event | 418564 | [418564-the-wake-event.json](./418564-the-wake-event.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Wakers | 204330 | [204330-the-wakers.json](./204330-the-wakers.json) |
@@ -18295,6 +18299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
+| Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
 | Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
 | Treasure Mountain | 254658 | [254658-treasure-mountain.json](./254658-treasure-mountain.json) |
