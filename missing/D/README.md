@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
+| DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
 | Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
@@ -3235,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | Defcon-2: Missiles of October | 107105 | [107105-defcon-2-missiles-of-october.json](./107105-defcon-2-missiles-of-october.json) |
+| Defe the Defender | 344972 | [344972-defe-the-defender.json](./344972-defe-the-defender.json) |
 | Defeat Me | 321507 | [321507-defeat-me.json](./321507-defeat-me.json) |
 | Defeat the Beat | 112485 | [112485-defeat-the-beat.json](./112485-defeat-the-beat.json) |
 | Defeat the Goblin King | 366366 | [366366-defeat-the-goblin-king.json](./366366-defeat-the-goblin-king.json) |
@@ -5438,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | DigitalDNA Zombies | 83197 | [83197-digitaldna-zombies.json](./83197-digitaldna-zombies.json) |
+| Digitalink | 344989 | [344989-digitalink.json](./344989-digitalink.json) |
 | Digitalter | 285019 | [285019-digitalter.json](./285019-digitalter.json) |
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
@@ -9614,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of a Lifetime | 210588 | [210588-dreams-of-a-lifetime.json](./210588-dreams-of-a-lifetime.json) |
 | Dreams of a Visionary | 407498 | [407498-dreams-of-a-visionary.json](./407498-dreams-of-a-visionary.json) |
 | Dreams of Adventure | 173177 | [173177-dreams-of-adventure.json](./173177-dreams-of-adventure.json) |
+| Dreams of Amelia | 344881 | [344881-dreams-of-amelia.json](./344881-dreams-of-amelia.json) |
 | Dreams of Another | 331205 | [331205-dreams-of-another.json](./331205-dreams-of-another.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
