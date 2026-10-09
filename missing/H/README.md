@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: The Chronicles | 249211 | [249211-haunted-the-chronicles.json](./249211-haunted-the-chronicles.json) |
+| Haunted: Village | 374934 | [374934-haunted-village.json](./374934-haunted-village.json) |
 | Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
 | Haunter | 364611 | [364611-haunter.json](./364611-haunter.json) |
 | Hauntify Mixed Reality | 406176 | [406176-hauntify-mixed-reality.json](./406176-hauntify-mixed-reality.json) |
@@ -4583,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hijack Jump | 362920 | [362920-hijack-jump.json](./362920-hijack-jump.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
+| Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
 | Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
@@ -5524,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
 | Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
+| Hong Kong 2097 | 374971 | [374971-hong-kong-2097.json](./374971-hong-kong-2097.json) |
 | Hong Kong 2099 | 311683 | [311683-hong-kong-2099.json](./311683-hong-kong-2099.json) |
 | Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
 | Hong Kong Haunting: Fishball Girl | 358993 | [358993-hong-kong-haunting-fishball-girl.json](./358993-hong-kong-haunting-fishball-girl.json) |
@@ -7553,4 +7556,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
+| Hytopia | 374978 | [374978-hytopia.json](./374978-hytopia.json) |
 | Hyzer Sky | 138566 | [138566-hyzer-sky.json](./138566-hyzer-sky.json) |
