@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Bros.: Lost World | 281010 | [281010-mario-bros-lost-world.json](./281010-mario-bros-lost-world.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
+| Mario Can't Remember | 350957 | [350957-mario-cant-remember.json](./350957-mario-cant-remember.json) |
 | Mario Cars 2: 64 | 202150 | [202150-mario-cars-2-64.json](./202150-mario-cars-2-64.json) |
 | Mario Cave Escape | 381766 | [381766-mario-cave-escape.json](./381766-mario-cave-escape.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
@@ -7072,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millivolt | 334155 | [334155-millivolt.json](./334155-millivolt.json) |
 | MillMess | 330377 | [330377-millmess.json](./330377-millmess.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
+| Mills Online | 351071 | [351071-mills-online.json](./351071-mills-online.json) |
 | Millsberry | 227936 | [227936-millsberry.json](./227936-millsberry.json) |
 | Milly's Meadow | 346663 | [346663-millys-meadow.json](./346663-millys-meadow.json) |
 | MilMo | 93509 | [93509-milmo.json](./93509-milmo.json) |
@@ -7286,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Shaft | 195512 | [195512-mine-shaft.json](./195512-mine-shaft.json) |
 | Mine Shaft | 241965 | [241965-mine-shaft.json](./241965-mine-shaft.json) |
+| Mine Spiders | 350950 | [350950-mine-spiders.json](./350950-mine-spiders.json) |
 | Mine Storm II | 41987 | [41987-mine-storm-ii.json](./41987-mine-storm-ii.json) |
 | Mine Survival | 233447 | [233447-mine-survival.json](./233447-mine-survival.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
