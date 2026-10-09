@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
+| 007 Charles 2 | 349891 | [349891-007-charles-2.json](./349891-007-charles-2.json) |
 | 007 First Light: Deluxe Edition | 405431 | [405431-007-first-light-deluxe-edition.json](./405431-007-first-light-deluxe-edition.json) |
 | 007 Legends | 1649 | [1649-007-legends.json](./1649-007-legends.json) |
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
@@ -1623,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Second Strike | 65822 | [65822-60-second-strike.json](./65822-60-second-strike.json) |
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
+| 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
 | 60-in-1 Game Collection | 195520 | [195520-60-in-1-game-collection.json](./195520-60-in-1-game-collection.json) |
 | 600 | 249254 | [249254-600.json](./249254-600.json) |
 | 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 | 45576 | [45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json](./45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json) |
