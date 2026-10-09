@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
 | IdleTale | 340514 | [340514-idletale.json](./340514-idletale.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
+| Idlewood Outpost | 373340 | [373340-idlewood-outpost.json](./373340-idlewood-outpost.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredibous Shells | 328060 | [328060-incredibous-shells.json](./328060-incredibous-shells.json) |
 | IncrediBubble | 328581 | [328581-incredibubble.json](./328581-incredibubble.json) |
 | Incredibug | 361255 | [361255-incredibug.json](./361255-incredibug.json) |
+| Incredicer | 373346 | [373346-incredicer.json](./373346-incredicer.json) |
 | IncreKnight | 391822 | [391822-increknight.json](./391822-increknight.json) |
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Dungeon | 388335 | [388335-incremental-dungeon.json](./388335-incremental-dungeon.json) |
@@ -3396,7 +3398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
-| IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
