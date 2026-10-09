@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Pacman for GEM | 70052 | [70052-pacman-for-gem.json](./70052-pacman-for-gem.json) |
+| Pacman: Google Maps | 364410 | [364410-pacman-google-maps.json](./364410-pacman-google-maps.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
 | Pacmania | 41014 | [41014-pacmania.json](./41014-pacmania.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal by Petal | 390196 | [390196-petal-by-petal.json](./390196-petal-by-petal.json) |
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petals of the Star Curtain | 153331 | [153331-petals-of-the-star-curtain.json](./153331-petals-of-the-star-curtain.json) |
+| Petals to Petals | 364384 | [364384-petals-to-petals.json](./364384-petals-to-petals.json) |
 | Pétanque 2026 | 401828 | [401828-petanque-2026.json](./401828-petanque-2026.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
 | Pétanque Master 2 | 81755 | [81755-petanque-master-2.json](./81755-petanque-master-2.json) |
