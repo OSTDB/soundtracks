@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khimera: Puzzle Island | 146205 | [146205-khimera-puzzle-island.json](./146205-khimera-puzzle-island.json) |
 | Khio | 136458 | [136458-khio.json](./136458-khio.json) |
 | Khnum Fire | 370211 | [370211-khnum-fire.json](./370211-khnum-fire.json) |
+| Khok | 362732 | [362732-khok.json](./362732-khok.json) |
 | Kholin Echo | 415311 | [415311-kholin-echo.json](./415311-kholin-echo.json) |
 | Khoros | 200516 | [200516-khoros.json](./200516-khoros.json) |
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
