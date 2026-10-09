@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yabai Girls: Fairy Love | 395213 | [395213-yabai-girls-fairy-love.json](./395213-yabai-girls-fairy-love.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
+| Yabai Girls: Hot Hiker | 365549 | [365549-yabai-girls-hot-hiker.json](./365549-yabai-girls-hot-hiker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
 | Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
