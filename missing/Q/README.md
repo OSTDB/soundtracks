@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QLewds | 375403 | [375403-qlewds.json](./375403-qlewds.json) |
 | Qlione | 50840 | [50840-qlione.json](./50840-qlione.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
+| Qloister | 381928 | [381928-qloister.json](./381928-qloister.json) |
 | Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
 | Qlrz | 134514 | [134514-qlrz.json](./134514-qlrz.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
 | Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
 | Qullusrent3 | 307758 | [307758-qullusrent3.json](./307758-qullusrent3.json) |
+| Qumino | 381924 | [381924-qumino.json](./381924-qumino.json) |
 | Quo | 206237 | [206237-quo.json](./206237-quo.json) |
 | Quo Vadis | 25828 | [25828-quo-vadis.json](./25828-quo-vadis.json) |
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
