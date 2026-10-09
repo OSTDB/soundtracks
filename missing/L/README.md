@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
+| Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
@@ -2444,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
+| Level Editor 2 | 349808 | [349808-level-editor-2.json](./349808-level-editor-2.json) |
 | Level Maker | 413867 | [413867-level-maker.json](./413867-level-maker.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
