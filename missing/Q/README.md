@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qvadriga | 17347 | [17347-qvadriga.json](./17347-qvadriga.json) |
 | Qwepoi | 292255 | [292255-qwepoi.json](./292255-qwepoi.json) |
 | Qwerty Garden | 396585 | [396585-qwerty-garden.json](./396585-qwerty-garden.json) |
+| Qwerty Warriors 2 | 334229 | [334229-qwerty-warriors-2.json](./334229-qwerty-warriors-2.json) |
 | Qwess | 276192 | [276192-qwess.json](./276192-qwess.json) |
 | Qwick | 411499 | [411499-qwick.json](./411499-qwick.json) |
 | QwikWits | 314866 | [314866-qwikwits.json](./314866-qwikwits.json) |
