@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadhunters | 110495 | [110495-deadhunters.json](./110495-deadhunters.json) |
 | Deadland 4000 | 194427 | [194427-deadland-4000.json](./194427-deadland-4000.json) |
 | Deadland Chronicles | 294240 | [294240-deadland-chronicles.json](./294240-deadland-chronicles.json) |
+| Deadland: Fallen Apartment | 385907 | [385907-deadland-fallen-apartment.json](./385907-deadland-fallen-apartment.json) |
 | Deadlands Noir: That Old Time Religion | 34911 | [34911-deadlands-noir-that-old-time-religion.json](./34911-deadlands-noir-that-old-time-religion.json) |
 | DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
 | Deep Chalk: Third Phase | 404191 | [404191-deep-chalk-third-phase.json](./404191-deep-chalk-third-phase.json) |
 | Deep City 2030 | 110234 | [110234-deep-city-2030.json](./110234-deep-city-2030.json) |
+| Deep Combat | 385933 | [385933-deep-combat.json](./385933-deep-combat.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
