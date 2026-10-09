@@ -4627,7 +4627,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
-| SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
@@ -9496,6 +9495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
+| Soil of Rebirth | 373332 | [373332-soil-of-rebirth.json](./373332-soil-of-rebirth.json) |
 | Soilborn: Ant Empire | 372003 | [372003-soilborn-ant-empire.json](./372003-soilborn-ant-empire.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
@@ -10017,6 +10017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere Near Romance | 179108 | [179108-somewhere-near-romance.json](./179108-somewhere-near-romance.json) |
 | Somewhere on Zibylon | 36526 | [36526-somewhere-on-zibylon.json](./36526-somewhere-on-zibylon.json) |
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
+| Somewhere, a Cat Sleeps | 373353 | [373353-somewhere-a-cat-sleeps.json](./373353-somewhere-a-cat-sleeps.json) |
 | Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
 | Somme Trench | 275653 | [275653-somme-trench.json](./275653-somme-trench.json) |
@@ -11884,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
 | Space Shuttle Mission Simulator: The Collector's Edition | 208862 | [208862-space-shuttle-mission-simulator-the-collectors-edition.json](./208862-space-shuttle-mission-simulator-the-collectors-edition.json) |
 | Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
+| Space Sim Tycoon | 373354 | [373354-space-sim-tycoon.json](./373354-space-sim-tycoon.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
@@ -13897,6 +13899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRG Mixtape Volume #4 | 261215 | [261215-srg-mixtape-volume-4.json](./261215-srg-mixtape-volume-4.json) |
 | Srogue | 311140 | [311140-srogue.json](./311140-srogue.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
+| Srush | 373324 | [373324-srush.json](./373324-srush.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
 | SRX: The Game | 150048 | [150048-srx-the-game.json](./150048-srx-the-game.json) |
 | SS Achilles - Red Alert! | 25798 | [25798-ss-achilles-red-alert.json](./25798-ss-achilles-red-alert.json) |
