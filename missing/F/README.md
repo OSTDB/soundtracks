@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | Fishy | 104572 | [104572-fishy.json](./104572-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
+| Fishy Business | 385373 | [385373-fishy-business.json](./385373-fishy-business.json) |
 | Fishy But In 2.5D | 163807 | [163807-fishy-but-in-2-5d.json](./163807-fishy-but-in-2-5d.json) |
 | Fishy Dish | 383960 | [383960-fishy-dish.json](./383960-fishy-dish.json) |
 | Fishy Dungeon Delving | 230917 | [230917-fishy-dungeon-delving.json](./230917-fishy-dungeon-delving.json) |
