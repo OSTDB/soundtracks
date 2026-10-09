@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft III: Reforged - Version 2.0 | 322145 | [322145-warcraft-iii-reforged-version-2-0.json](./322145-warcraft-iii-reforged-version-2-0.json) |
 | Warcraft Remastered Battle Chest | 322146 | [322146-warcraft-remastered-battle-chest.json](./322146-warcraft-remastered-battle-chest.json) |
 | Warcraft Rumble | 199925 | [199925-warcraft-rumble.json](./199925-warcraft-rumble.json) |
+| Warcraft: Guardians of Azeroth 2 | 356033 | [356033-warcraft-guardians-of-azeroth-2.json](./356033-warcraft-guardians-of-azeroth-2.json) |
 | Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
