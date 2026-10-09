@@ -472,7 +472,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokai's Wish | 220732 | [220732-yokais-wish.json](./220732-yokais-wish.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
+| Yokaizer: Genki-dou | 385917 | [385917-yokaizer-genki-dou.json](./385917-yokaizer-genki-dou.json) |
 | Yokaizer: Kaiki-dou | 385721 | [385721-yokaizer-kaiki-dou.json](./385721-yokaizer-kaiki-dou.json) |
+| Yokaizer: Kouki-dou | 385911 | [385911-yokaizer-kouki-dou.json](./385911-yokaizer-kouki-dou.json) |
 | Yokaizer: Yuuki-dou | 385720 | [385720-yokaizer-yuuki-dou.json](./385720-yokaizer-yuuki-dou.json) |
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yokiyo | 399855 | [399855-yokiyo.json](./399855-yokiyo.json) |
