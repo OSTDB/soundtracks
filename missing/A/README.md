@@ -5829,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Yokochou: Doki-doki Kyuushutsu Daisakusen! no Maki | 49493 | [49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json](./49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
+| AnimalDon! | 345984 | [345984-animaldon.json](./345984-animaldon.json) |
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
 | Animalia | 268138 | [268138-animalia.json](./268138-animalia.json) |
@@ -6138,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
 | Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
+| Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
@@ -7225,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
+| Arcade Archives: Super World Court | 345968 | [345968-arcade-archives-super-world-court.json](./345968-arcade-archives-super-world-court.json) |
 | Arcade Archives: Super Xevious | 342799 | [342799-arcade-archives-super-xevious.json](./342799-arcade-archives-super-xevious.json) |
 | Arcade Archives: Swimmer | 147116 | [147116-arcade-archives-swimmer.json](./147116-arcade-archives-swimmer.json) |
 | Arcade Archives: Syvalion | 410362 | [410362-arcade-archives-syvalion.json](./410362-arcade-archives-syvalion.json) |
