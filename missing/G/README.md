@@ -5290,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel & Hansel | 322677 | [322677-gretel-and-hansel.json](./322677-gretel-and-hansel.json) |
 | Gretel & Hansel | 383030 | [383030-gretel-and-hansel.json](./383030-gretel-and-hansel.json) |
 | Gretel & Hansel 2 | 98576 | [98576-gretel-and-hansel-2.json](./98576-gretel-and-hansel-2.json) |
+| Gretel and Winslow's Mansion | 369377 | [369377-gretel-and-winslows-mansion.json](./369377-gretel-and-winslows-mansion.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
