@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
+| Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
 | Railroad Tycoon II: The Second Century | 71480 | [71480-railroad-tycoon-ii-the-second-century.json](./71480-railroad-tycoon-ii-the-second-century.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursive Ruin | 187389 | [187389-recursive-ruin.json](./187389-recursive-ruin.json) |
 | Recursor | 182274 | [182274-recursor.json](./182274-recursor.json) |
 | Recursudoku | 413194 | [413194-recursudoku.json](./413194-recursudoku.json) |
+| Recyclamation | 380201 | [380201-recyclamation.json](./380201-recyclamation.json) |
 | Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
 | Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
@@ -3260,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residence | 259179 | [259179-residence.json](./259179-residence.json) |
 | Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
 | Resident Evil | 288943 | [288943-resident-evil.json](./288943-resident-evil.json) |
+| Resident Evil | 380192 | [380192-resident-evil.json](./380192-resident-evil.json) |
 | Resident Evil | 396732 | [396732-resident-evil.json](./396732-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
 | Resident Evil 1.5: Battle Coliseum | 400424 | [400424-resident-evil-1-5-battle-coliseum.json](./400424-resident-evil-1-5-battle-coliseum.json) |
