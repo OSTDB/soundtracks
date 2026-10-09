@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PBA Tour Bowling II | 210011 | [210011-pba-tour-bowling-ii.json](./210011-pba-tour-bowling-ii.json) |
 | PBA: Basketball Slam - Arcade Edition | 171353 | [171353-pba-basketball-slam-arcade-edition.json](./171353-pba-basketball-slam-arcade-edition.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
+| Pbouxhkiir Night on the Primox Alpha | 339780 | [339780-pbouxhkiir-night-on-the-primox-alpha.json](./339780-pbouxhkiir-night-on-the-primox-alpha.json) |
 | PButtons | 356640 | [356640-pbuttons.json](./356640-pbuttons.json) |
 | PC Basket 4.0 | 320947 | [320947-pc-basket-4-0.json](./320947-pc-basket-4-0.json) |
 | Pc Building Empire | 357424 | [357424-pc-building-empire.json](./357424-pc-building-empire.json) |
@@ -5966,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Fix the Mess | 396700 | [396700-please-fix-the-mess.json](./396700-please-fix-the-mess.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Fuck Me My Sexy Neighbor | 385321 | [385321-please-fuck-me-my-sexy-neighbor.json](./385321-please-fuck-me-my-sexy-neighbor.json) |
+| Please Help Me! I'm Stuck In Esoteric Prime Number Hell! | 339869 | [339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json](./339869-please-help-me-im-stuck-in-esoteric-prime-number-hell.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
 | Please Knock on My Door | 29064 | [29064-please-knock-on-my-door.json](./29064-please-knock-on-my-door.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
