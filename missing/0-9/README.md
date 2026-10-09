@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
 | 12 Vengeful Ghosts | 305864 | [305864-12-vengeful-ghosts.json](./305864-12-vengeful-ghosts.json) |
+| 12 Word Searches | 381921 | [381921-12-word-searches.json](./381921-12-word-searches.json) |
 | 12-ji no Kane to Cinderella ~Halloween Wedding~ | 56552 | [56552-12-ji-no-kane-to-cinderella-halloween-wedding.json](./56552-12-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 12-ji no Kane to Cinderella Cinderella Series Triple All Series Pack | 60348 | [60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json](./60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json) |
 | 12-Sai: Honto no Kimochi | 59212 | [59212-12-sai-honto-no-kimochi.json](./59212-12-sai-honto-no-kimochi.json) |
