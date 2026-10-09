@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accel | 114902 | [114902-accel.json](./114902-accel.json) |
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
+| Accel World vs. Sword Art Online: Millennium Twilight - Dengeki Limited Edition | 343202 | [343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json](./343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json) |
 | Accel World: End of Burst | 76242 | [76242-accel-world-end-of-burst.json](./76242-accel-world-end-of-burst.json) |
 | Accel World: The Peak of Acceleration | 64495 | [64495-accel-world-the-peak-of-acceleration.json](./64495-accel-world-the-peak-of-acceleration.json) |
 | Accel-X | 128348 | [128348-accel-x.json](./128348-accel-x.json) |
