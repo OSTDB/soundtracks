@@ -8605,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MNOZ: My Nuclear Octopus 2 | 408048 | [408048-mnoz-my-nuclear-octopus-2.json](./408048-mnoz-my-nuclear-octopus-2.json) |
 | Mó Dǎo Shèngzhàn: Fēngsè Huànxiǎng | 94939 | [94939-mo-dao-shengzhan-fengse-huanxiang.json](./94939-mo-dao-shengzhan-fengse-huanxiang.json) |
 | Mo the Frog | 111675 | [111675-mo-the-frog.json](./111675-mo-the-frog.json) |
+| Mo The Moai | 335378 | [335378-mo-the-moai.json](./335378-mo-the-moai.json) |
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
