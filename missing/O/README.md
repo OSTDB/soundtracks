@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
+| Oddli: A Satisfying Game | 346623 | [346623-oddli-a-satisfying-game.json](./346623-oddli-a-satisfying-game.json) |
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
 | Oddly Enough: Pied Piper | 54254 | [54254-oddly-enough-pied-piper.json](./54254-oddly-enough-pied-piper.json) |
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Siege | 235716 | [235716-operation-siege.json](./235716-operation-siege.json) |
 | Operation Smash | 58311 | [58311-operation-smash.json](./58311-operation-smash.json) |
 | Operation Snowman | 112473 | [112473-operation-snowman.json](./112473-operation-snowman.json) |
+| Operation Sour Power | 346536 | [346536-operation-sour-power.json](./346536-operation-sour-power.json) |
 | Operation Spacehog | 19228 | [19228-operation-spacehog.json](./19228-operation-spacehog.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Stutter | 406888 | [406888-operation-stutter.json](./406888-operation-stutter.json) |
@@ -2480,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organism 8 | 107749 | [107749-organism-8.json](./107749-organism-8.json) |
 | Organize My Drawer | 408270 | [408270-organize-my-drawer.json](./408270-organize-my-drawer.json) |
 | Organize My Shop | 405541 | [405541-organize-my-shop.json](./405541-organize-my-shop.json) |
+| Organized Inside | 346555 | [346555-organized-inside.json](./346555-organized-inside.json) |
 | Organosphere | 96117 | [96117-organosphere.json](./96117-organosphere.json) |
 | Orgarhythm | 21009 | [21009-orgarhythm.json](./21009-orgarhythm.json) |
 | Orgasm Simulator 2023 | 253888 | [253888-orgasm-simulator-2023.json](./253888-orgasm-simulator-2023.json) |
