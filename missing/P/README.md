@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | Pazinko! | 369707 | [369707-pazinko.json](./369707-pazinko.json) |
+| Pazleum | 366706 | [366706-pazleum.json](./366706-pazleum.json) |
 | PazuDora Gold | 120866 | [120866-pazudora-gold.json](./120866-pazudora-gold.json) |
 | Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peer-2-Pizza | 417448 | [417448-peer-2-pizza.json](./417448-peer-2-pizza.json) |
 | Peerless Beauty Detective: Alice | 406885 | [406885-peerless-beauty-detective-alice.json](./406885-peerless-beauty-detective-alice.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
+| Peestal 6: With Cheese | 366704 | [366704-peestal-6-with-cheese.json](./366704-peestal-6-with-cheese.json) |
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg | 68823 | [68823-peg.json](./68823-peg.json) |
@@ -3472,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Piano at 5 am | 247431 | [247431-piano-at-5-am.json](./247431-piano-at-5-am.json) |
+| Piano at 5 am Encore | 366722 | [366722-piano-at-5-am-encore.json](./366722-piano-at-5-am-encore.json) |
 | Piano Bar | 108368 | [108368-piano-bar.json](./108368-piano-bar.json) |
 | Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
@@ -8197,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
 | President Yukino | 106614 | [106614-president-yukino.json](./106614-president-yukino.json) |
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
+| Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
@@ -9104,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dark | 244818 | [244818-project-dark.json](./244818-project-dark.json) |
 | Project Death Strikers | 211272 | [211272-project-death-strikers.json](./211272-project-death-strikers.json) |
 | Project DeepWeb | 120422 | [120422-project-deepweb.json](./120422-project-deepweb.json) |
+| Project DeepWeb: Eternal Nightmare | 366712 | [366712-project-deepweb-eternal-nightmare.json](./366712-project-deepweb-eternal-nightmare.json) |
 | Project Defense | 105243 | [105243-project-defense.json](./105243-project-defense.json) |
 | Project Dejavu | 391156 | [391156-project-dejavu.json](./391156-project-dejavu.json) |
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
@@ -10387,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
+| Put One In for Johnny Minn | 366710 | [366710-put-one-in-for-johnny-minn.json](./366710-put-one-in-for-johnny-minn.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Up Your Dukes! | 262562 | [262562-put-up-your-dukes.json](./262562-put-up-your-dukes.json) |
