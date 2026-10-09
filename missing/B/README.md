@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Potty Race | 293186 | [293186-barbie-potty-race.json](./293186-barbie-potty-race.json) |
 | Barbie: Puppy Water Sliders | 293193 | [293193-barbie-puppy-water-sliders.json](./293193-barbie-puppy-water-sliders.json) |
 | Barbie: Shoe Hunt | 293197 | [293197-barbie-shoe-hunt.json](./293197-barbie-shoe-hunt.json) |
+| Barbie: Super Model | 368898 | [368898-barbie-super-model.json](./368898-barbie-super-model.json) |
 | Barbie: Treasures in Time | 200596 | [200596-barbie-treasures-in-time.json](./200596-barbie-treasures-in-time.json) |
 | Barbie: Vacation Adventure | 3318 | [3318-barbie-vacation-adventure.json](./3318-barbie-vacation-adventure.json) |
 | Barbie's Game Room | 293188 | [293188-barbies-game-room.json](./293188-barbies-game-room.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Sue | 69536 | [69536-bazooka-sue.json](./69536-bazooka-sue.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
+| BB Adventure | 368823 | [368823-bb-adventure.json](./368823-bb-adventure.json) |
 | BB Ball | 49485 | [49485-bb-ball.json](./49485-bb-ball.json) |
 | BBC-rex | 289573 | [289573-bbc-rex.json](./289573-bbc-rex.json) |
 | BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
@@ -3026,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Busters: Second Nightmare | 28137 | [28137-beast-busters-second-nightmare.json](./28137-beast-busters-second-nightmare.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast Fists | 211096 | [211096-beast-fists.json](./211096-beast-fists.json) |
+| Beast Gang | 368824 | [368824-beast-gang.json](./368824-beast-gang.json) |
 | Beast King | 113488 | [113488-beast-king.json](./113488-beast-king.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
 | Beast Lord | 242685 | [242685-beast-lord.json](./242685-beast-lord.json) |
@@ -6333,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blokers | 159192 | [159192-blokers.json](./159192-blokers.json) |
+| Blokes on Blocks! | 368811 | [368811-blokes-on-blocks.json](./368811-blokes-on-blocks.json) |
 | Bloki | 276965 | [276965-bloki.json](./276965-bloki.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
@@ -8943,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
 | Breath of the NES | 402394 | [402394-breath-of-the-nes.json](./402394-breath-of-the-nes.json) |
+| Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
@@ -9843,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
+| Bugs Bunny in Double Trouble | 368888 | [368888-bugs-bunny-in-double-trouble.json](./368888-bugs-bunny-in-double-trouble.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs Must Die | 111353 | [111353-bugs-must-die.json](./111353-bugs-must-die.json) |
