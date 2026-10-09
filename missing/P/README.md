@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek-A-Boo Poker | 48277 | [48277-peek-a-boo-poker.json](./48277-peek-a-boo-poker.json) |
 | Peek-a-Boo! | 40407 | [40407-peek-a-boo.json](./40407-peek-a-boo.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
+| Peekaboo | 337585 | [337585-peekaboo.json](./337585-peekaboo.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peekaboo Lite | 250306 | [250306-peekaboo-lite.json](./250306-peekaboo-lite.json) |
 | Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
+| Petrichor | 337594 | [337594-petrichor.json](./337594-petrichor.json) |
 | Petrichor | 60540 | [60540-petrichor.json](./60540-petrichor.json) |
 | Petrick | 370306 | [370306-petrick.json](./370306-petrick.json) |
 | Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
