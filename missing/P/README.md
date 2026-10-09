@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon Coo-lette | 362394 | [362394-pigeon-coo-lette.json](./362394-pigeon-coo-lette.json) |
 | Pigeon Dev Games Collection | 140914 | [140914-pigeon-dev-games-collection.json](./140914-pigeon-dev-games-collection.json) |
+| Pigeon Guild | 361068 | [361068-pigeon-guild.json](./361068-pigeon-guild.json) |
 | Pigeon Hater | 336116 | [336116-pigeon-hater.json](./336116-pigeon-hater.json) |
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
+| Pinball FX VR: Williams Pinball - Volume 9 | 361051 | [361051-pinball-fx-vr-williams-pinball-volume-9.json](./361051-pinball-fx-vr-williams-pinball-volume-9.json) |
 | Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
 | Pinball FX: Camp Bloodbrook | 324484 | [324484-pinball-fx-camp-bloodbrook.json](./324484-pinball-fx-camp-bloodbrook.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Simple Nature Pack 2 | 374127 | [374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json](./374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
+| Pixel Cross Stitch: Color by Number - Summer Pack 3 | 361077 | [361077-pixel-cross-stitch-color-by-number-summer-pack-3.json](./361077-pixel-cross-stitch-color-by-number-summer-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
@@ -8254,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
 | President Yukino | 106614 | [106614-president-yukino.json](./106614-president-yukino.json) |
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
+| Presidential Beatdown | 361049 | [361049-presidential-beatdown.json](./361049-presidential-beatdown.json) |
 | Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
 | Presidential Running Games | 292689 | [292689-presidential-running-games.json](./292689-presidential-running-games.json) |
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
@@ -9895,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
+| Psychomachia | 361048 | [361048-psychomachia.json](./361048-psychomachia.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
 | Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
 | Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
