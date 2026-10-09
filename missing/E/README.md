@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
+| Echoes of the Wind | 366124 | [366124-echoes-of-the-wind.json](./366124-echoes-of-the-wind.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
 | Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
@@ -2292,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
 | Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
+| Enfora Star | 366033 | [366033-enfora-star.json](./366033-enfora-star.json) |
 | Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
 | Enforced Entropy | 299855 | [299855-enforced-entropy.json](./299855-enforced-entropy.json) |
 | Enforcer: Police Crime Action | 17741 | [17741-enforcer-police-crime-action.json](./17741-enforcer-police-crime-action.json) |
@@ -3201,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
+| Escape the Maze | 366117 | [366117-escape-the-maze.json](./366117-escape-the-maze.json) |
 | Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
