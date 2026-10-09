@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Star | 13571 | [13571-dark-star.json](./13571-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
+| Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
@@ -3055,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
+| Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
 | DeviloutionX | 374214 | [374214-deviloutionx.json](./374214-deviloutionx.json) |
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
+| Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
@@ -5662,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
 | Dinox | 85085 | [85085-dinox.json](./85085-dinox.json) |
 | DinoZzz | 88834 | [88834-dinozzz.json](./88834-dinozzz.json) |
+| Dinus Cross World | 372824 | [372824-dinus-cross-world.json](./372824-dinus-cross-world.json) |
 | Dinus Escape | 338293 | [338293-dinus-escape.json](./338293-dinus-escape.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
@@ -6087,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney XD Grand Prix | 361336 | [361336-disney-xd-grand-prix.json](./361336-disney-xd-grand-prix.json) |
 | Disney's 101 Dalmatians II: Patch's London Adventure | 43737 | [43737-disneys-101-dalmatians-ii-patchs-london-adventure.json](./43737-disneys-101-dalmatians-ii-patchs-london-adventure.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
+| Disney's 102 Dalmatians: Puppies to the Rescue | 372836 | [372836-disneys-102-dalmatians-puppies-to-the-rescue.json](./372836-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's A Bug's Life: Active Play | 215088 | [215088-disneys-a-bugs-life-active-play.json](./215088-disneys-a-bugs-life-active-play.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Activity Center: Winnie the Pooh | 209035 | [209035-disneys-activity-center-winnie-the-pooh.json](./209035-disneys-activity-center-winnie-the-pooh.json) |
@@ -7240,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Grind | 96894 | [96894-dont-grind.json](./96894-dont-grind.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
+| Don't Jump | 372809 | [372809-dont-jump.json](./372809-dont-jump.json) |
 | Don't Kill Her | 108421 | [108421-dont-kill-her.json](./108421-dont-kill-her.json) |
 | Don't Kill the Cat | 230973 | [230973-dont-kill-the-cat.json](./230973-dont-kill-the-cat.json) |
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
@@ -7686,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom3D | 196011 | [196011-doom3d.json](./196011-doom3d.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
 | Doombox | 308476 | [308476-doombox.json](./308476-doombox.json) |
+| Doombox | 372826 | [372826-doombox.json](./372826-doombox.json) |
 | DoomBreaker | 149474 | [149474-doombreaker.json](./149474-doombreaker.json) |
 | DoomBus | 383650 | [383650-doombus.json](./383650-doombus.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
@@ -8733,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
 | Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
+| Dragon Pow! | 372822 | [372822-dragon-pow.json](./372822-dragon-pow.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
 | Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
 | Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
