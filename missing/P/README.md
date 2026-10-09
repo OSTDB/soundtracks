@@ -9309,6 +9309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
+| Project R2 | 367829 | [367829-project-r2.json](./367829-project-r2.json) |
 | Project R4T | 384159 | [384159-project-r4t.json](./384159-project-r4t.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
 | Project Rap Rabbit | 28699 | [28699-project-rap-rabbit.json](./28699-project-rap-rabbit.json) |
@@ -9592,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospera | 415184 | [415184-prospera.json](./415184-prospera.json) |
 | Prospero | 237524 | [237524-prospero.json](./237524-prospero.json) |
 | Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
+| Prosrochennyy | 367756 | [367756-prosrochennyy.json](./367756-prosrochennyy.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
 | Prostitute Pimp | 297195 | [297195-prostitute-pimp.json](./297195-prostitute-pimp.json) |
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
