@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
+| Dark Flowers: Tiny Starlight | 380211 | [380211-dark-flowers-tiny-starlight.json](./380211-dark-flowers-tiny-starlight.json) |
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
+| Detective Inna Duke | 380203 | [380203-detective-inna-duke.json](./380203-detective-inna-duke.json) |
 | Detective Instinct: Farewell, My Beloved | 278060 | [278060-detective-instinct-farewell-my-beloved.json](./278060-detective-instinct-farewell-my-beloved.json) |
 | Detective Kiwi | 282569 | [282569-detective-kiwi.json](./282569-detective-kiwi.json) |
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
