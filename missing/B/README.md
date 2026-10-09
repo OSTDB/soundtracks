@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Basketball: The Pro Game | 362396 | [362396-basketball-the-pro-game.json](./362396-basketball-the-pro-game.json) |
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
+| Basketboy's Adventure | 374422 | [374422-basketboys-adventure.json](./374422-basketboys-adventure.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
 | Basketmania | 88435 | [88435-basketmania.json](./88435-basketmania.json) |
@@ -7405,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
+| Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | Bombinator | 29050 | [29050-bombinator.json](./29050-bombinator.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
@@ -8767,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
+| Breadbear's Bizarre Breadventure | 374411 | [374411-breadbears-bizarre-breadventure.json](./374411-breadbears-bizarre-breadventure.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadbox Game Pack | 138711 | [138711-breadbox-game-pack.json](./138711-breadbox-game-pack.json) |
 | Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
