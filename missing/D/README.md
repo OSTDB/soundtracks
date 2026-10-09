@@ -2861,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Battles of the American Civil War, Volume Two | 54517 | [54517-decisive-battles-of-the-american-civil-war-volume-two.json](./54517-decisive-battles-of-the-american-civil-war-volume-two.json) |
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
+| Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
@@ -5281,6 +5282,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story: Cyber Sleuth | 15705 | [15705-digimon-story-cyber-sleuth.json](./15705-digimon-story-cyber-sleuth.json) |
 | Digimon Story: Cyber Sleuth - Hacker's Memory | 27920 | [27920-digimon-story-cyber-sleuth-hackers-memory.json](./27920-digimon-story-cyber-sleuth-hackers-memory.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
+| Digimon Story: Time Stranger - Costume Digimon Costume Set | 372277 | [372277-digimon-story-time-stranger-costume-digimon-costume-set.json](./372277-digimon-story-time-stranger-costume-digimon-costume-set.json) |
+| Digimon Story: Time Stranger - Costume Pack | 372276 | [372276-digimon-story-time-stranger-costume-pack.json](./372276-digimon-story-time-stranger-costume-pack.json) |
+| Digimon Story: Time Stranger - Costume Swimwear Set | 372278 | [372278-digimon-story-time-stranger-costume-swimwear-set.json](./372278-digimon-story-time-stranger-costume-swimwear-set.json) |
 | Digimon Story: Time Stranger - Episode Pack 1: Alternate Dimension | 377240 | [377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json](./377240-digimon-story-time-stranger-episode-pack-1-alternate-dimension.json) |
 | Digimon Story: Time Stranger - Season Pass | 377242 | [377242-digimon-story-time-stranger-season-pass.json](./377242-digimon-story-time-stranger-season-pass.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
@@ -8919,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Delightful Day | 395164 | [395164-dragons-delightful-day.json](./395164-dragons-delightful-day.json) |
 | Dragon's Dogma | 3968 | [3968-dragons-dogma.json](./3968-dragons-dogma.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
+| Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
