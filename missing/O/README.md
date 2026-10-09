@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation7: Revolution | 127836 | [127836-operation7-revolution.json](./127836-operation7-revolution.json) |
 | Operation7: Showdown | 384739 | [384739-operation7-showdown.json](./384739-operation7-showdown.json) |
 | Operation8 Project | 189935 | [189935-operation8-project.json](./189935-operation8-project.json) |
+| Operative Assailants | 344329 | [344329-operative-assailants.json](./344329-operative-assailants.json) |
 | Operatives: Revolve | 322678 | [322678-operatives-revolve.json](./322678-operatives-revolve.json) |
 | Operator | 125348 | [125348-operator.json](./125348-operator.json) |
 | Operator | 220613 | [220613-operator.json](./220613-operator.json) |
