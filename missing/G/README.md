@@ -3865,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
+| Golf | 358832 | [358832-golf.json](./358832-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
@@ -5799,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
+| Growth | 358820 | [358820-growth.json](./358820-growth.json) |
 | Growth | 391148 | [391148-growth.json](./391148-growth.json) |
 | Growth Experiment | 285526 | [285526-growth-experiment.json](./285526-growth-experiment.json) |
 | Growth Spurt: A Meandering Intermission into the Afterhours of a Miscalculation | 301910 | [301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json](./301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json) |
