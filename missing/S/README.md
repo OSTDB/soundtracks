@@ -13717,6 +13717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
 | Squad 44 | 81141 | [81141-squad-44.json](./81141-squad-44.json) |
 | Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
+| Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
 | Squad Assault: West Front | 23740 | [23740-squad-assault-west-front.json](./23740-squad-assault-west-front.json) |
 | Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
@@ -14800,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
+| Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
 | StarFence: Heroic Edition | 35498 | [35498-starfence-heroic-edition.json](./35498-starfence-heroic-edition.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
@@ -15913,6 +15915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
+| Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Ice Hockey | 142741 | [142741-stickman-ice-hockey.json](./142741-stickman-ice-hockey.json) |
@@ -16922,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
+| Striking Wine | 372815 | [372815-striking-wine.json](./372815-striking-wine.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String Mace | 403644 | [403644-string-mace.json](./403644-string-mace.json) |
@@ -21163,6 +21167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
+| Sword World VR | 372808 | [372808-sword-world-vr.json](./372808-sword-world-vr.json) |
 | Sword x Hime | 148961 | [148961-sword-x-hime.json](./148961-sword-x-hime.json) |
 | Sword: Depths of the Void | 216193 | [216193-sword-depths-of-the-void.json](./216193-sword-depths-of-the-void.json) |
 | Sword's Soul Duel | 159636 | [159636-swords-soul-duel.json](./159636-swords-soul-duel.json) |
