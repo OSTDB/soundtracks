@@ -6875,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
+| Poketibia | 356024 | [356024-poketibia.json](./356024-poketibia.json) |
 | Pokettohiro | 333063 | [333063-pokettohiro.json](./333063-pokettohiro.json) |
 | PokeVoid | 343903 | [343903-pokevoid.json](./343903-pokevoid.json) |
 | Pokéwalker | 245421 | [245421-pokewalker.json](./245421-pokewalker.json) |
@@ -8490,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
+| Princes of Darkness | 356034 | [356034-princes-of-darkness.json](./356034-princes-of-darkness.json) |
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
