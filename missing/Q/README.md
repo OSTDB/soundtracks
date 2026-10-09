@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadoban | 200027 | [200027-quadoban.json](./200027-quadoban.json) |
 | Quadra | 407504 | [407504-quadra.json](./407504-quadra.json) |
+| Quadra Break Tetris | 348732 | [348732-quadra-break-tetris.json](./348732-quadra-break-tetris.json) |
 | Quadrablaze | 68710 | [68710-quadrablaze.json](./68710-quadrablaze.json) |
 | QuadraDigger | 59952 | [59952-quadradigger.json](./59952-quadradigger.json) |
 | Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
