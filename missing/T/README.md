@@ -8107,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
+| The Man You See | 378536 | [378536-the-man-you-see.json](./378536-the-man-you-see.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
 | The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
@@ -14081,6 +14082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kingdom Builder | 315634 | [315634-tiny-kingdom-builder.json](./315634-tiny-kingdom-builder.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
 | Tiny Kings | 344548 | [344548-tiny-kings.json](./344548-tiny-kings.json) |
+| Tiny Kitchen: Burger Edition | 378593 | [378593-tiny-kitchen-burger-edition.json](./378593-tiny-kitchen-burger-edition.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
@@ -19753,6 +19755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two-Sided Runner | 333741 | [333741-two-sided-runner.json](./333741-two-sided-runner.json) |
 | Two-Tenkaku | 43849 | [43849-two-tenkaku.json](./43849-two-tenkaku.json) |
 | Two-Timin' Towers | 142113 | [142113-two-timin-towers.json](./142113-two-timin-towers.json) |
+| TwoBrains OneShip | 378588 | [378588-twobrains-oneship.json](./378588-twobrains-oneship.json) |
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
