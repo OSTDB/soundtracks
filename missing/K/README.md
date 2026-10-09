@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaskade | 351782 | [351782-kaskade.json](./351782-kaskade.json) |
 | Kaspar i Nudådalen | 297547 | [297547-kaspar-i-nudadalen.json](./297547-kaspar-i-nudadalen.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
+| Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
 | Kat-tastic Hidden Object | 405373 | [405373-kat-tastic-hidden-object.json](./405373-kat-tastic-hidden-object.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
+| Ko Ima ni Ari | 357166 | [357166-ko-ima-ni-ari.json](./357166-ko-ima-ni-ari.json) |
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
 | Koala Kids | 34981 | [34981-koala-kids.json](./34981-koala-kids.json) |
