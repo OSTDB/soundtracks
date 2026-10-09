@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
+| Daisen | 359357 | [359357-daisen.json](./359357-daisen.json) |
 | Daisenryaku | 194311 | [194311-daisenryaku.json](./194311-daisenryaku.json) |
 | Daisenryaku 1941: Gyakuten no Taiheiyou | 342253 | [342253-daisenryaku-1941-gyakuten-no-taiheiyou.json](./342253-daisenryaku-1941-gyakuten-no-taiheiyou.json) |
 | Daisenryaku Daitoua Kouboushi 3: Dai-ni-ji Sekai Taisen Boppatsu! - Soujikugun Tai Rengougun Zen Sekaisen | 140293 | [140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json](./140293-daisenryaku-daitoua-kouboushi-3-dai-ni-ji-sekai-taisen-boppatsu-soujikugun-tai-rengougun-zen-sekaisen.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
 | Deep VR | 18217 | [18217-deep-vr.json](./18217-deep-vr.json) |
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
+| Deep Within the Mist | 359344 | [359344-deep-within-the-mist.json](./359344-deep-within-the-mist.json) |
 | Deepak Chopra's Leela | 20244 | [20244-deepak-chopras-leela.json](./20244-deepak-chopras-leela.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
