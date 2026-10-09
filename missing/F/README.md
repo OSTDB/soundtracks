@@ -3697,6 +3697,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
+| Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
+| Fireworks Show B | 354393 | [354393-fireworks-show-b.json](./354393-fireworks-show-b.json) |
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
 | Firmament | 89994 | [89994-firmament.json](./89994-firmament.json) |
@@ -4508,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
 | Flex | 61727 | [61727-flex.json](./61727-flex.json) |
+| Flex Armstrong | 354385 | [354385-flex-armstrong.json](./354385-flex-armstrong.json) |
 | Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
 | Flex hooks | 147889 | [147889-flex-hooks.json](./147889-flex-hooks.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
@@ -6220,6 +6223,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Teller Simulator | 388385 | [388385-fortune-teller-simulator.json](./388385-fortune-teller-simulator.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
+| Fortune Telling A | 354388 | [354388-fortune-telling-a.json](./354388-fortune-telling-a.json) |
+| Fortune Telling B | 354389 | [354389-fortune-telling-b.json](./354389-fortune-telling-b.json) |
 | Fortune the Fated | 223415 | [223415-fortune-the-fated.json](./223415-fortune-the-fated.json) |
 | Fortune Tiles Gold | 53063 | [53063-fortune-tiles-gold.json](./53063-fortune-tiles-gold.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
