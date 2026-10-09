@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lettercraft | 56310 | [56310-lettercraft.json](./56310-lettercraft.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
+| Letterlike | 335822 | [335822-letterlike.json](./335822-letterlike.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letterpad | 60076 | [60076-letterpad.json](./60076-letterpad.json) |
@@ -4436,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look for Louis | 106383 | [106383-look-for-louis.json](./106383-look-for-louis.json) |
 | Look Inside | 291523 | [291523-look-inside.json](./291523-look-inside.json) |
 | Look Inside: Chapter 2 | 199438 | [199438-look-inside-chapter-2.json](./199438-look-inside-chapter-2.json) |
+| Look Mum No Computer | 335837 | [335837-look-mum-no-computer.json](./335837-look-mum-no-computer.json) |
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
@@ -6030,6 +6032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
 | Lust from Beyond: Scarlet | 141129 | [141129-lust-from-beyond-scarlet.json](./141129-lust-from-beyond-scarlet.json) |
+| Lust From Beyond: The Full Set | 336049 | [336049-lust-from-beyond-the-full-set.json](./336049-lust-from-beyond-the-full-set.json) |
 | Lust Galaxy | 309478 | [309478-lust-galaxy.json](./309478-lust-galaxy.json) |
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Goddess | 342791 | [342791-lust-goddess.json](./342791-lust-goddess.json) |
