@@ -3244,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat, Heart, Beat | 322745 | [322745-beat-heart-beat.json](./322745-beat-heart-beat.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
+| Beatable | 342096 | [342096-beatable.json](./342096-beatable.json) |
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
@@ -8795,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Tales | 188953 | [188953-brave-tales.json](./188953-brave-tales.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
+| Brave x Junction | 342093 | [342093-brave-x-junction.json](./342093-brave-x-junction.json) |
 | Brave: A Warrior's Tale | 4729 | [4729-brave-a-warriors-tale.json](./4729-brave-a-warriors-tale.json) |
 | Brave: The Search for Spirit Dancer | 20689 | [20689-brave-the-search-for-spirit-dancer.json](./20689-brave-the-search-for-spirit-dancer.json) |
 | BraveCart | 347864 | [347864-bravecart.json](./347864-bravecart.json) |
@@ -8879,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
 | Brawlhalla: All Legends Pack | 242596 | [242596-brawlhalla-all-legends-pack.json](./242596-brawlhalla-all-legends-pack.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
+| Brawlhalla: BCX 2016 Pack | 342113 | [342113-brawlhalla-bcx-2016-pack.json](./342113-brawlhalla-bcx-2016-pack.json) |
 | Brawlhalla: BCX 2017 Pack | 342230 | [342230-brawlhalla-bcx-2017-pack.json](./342230-brawlhalla-bcx-2017-pack.json) |
 | Brawlhalla: BCX 2023 Pack | 274586 | [274586-brawlhalla-bcx-2023-pack.json](./274586-brawlhalla-bcx-2023-pack.json) |
 | Brawlhalla: Bonus Pack 10 | 304301 | [304301-brawlhalla-bonus-pack-10.json](./304301-brawlhalla-bonus-pack-10.json) |
@@ -8888,10 +8891,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
 | Brawlhalla: Bonus Pack 16 | 327316 | [327316-brawlhalla-bonus-pack-16.json](./327316-brawlhalla-bonus-pack-16.json) |
 | Brawlhalla: Collector's Pack | 342116 | [342116-brawlhalla-collectors-pack.json](./342116-brawlhalla-collectors-pack.json) |
+| Brawlhalla: Founders Pack | 342106 | [342106-brawlhalla-founders-pack.json](./342106-brawlhalla-founders-pack.json) |
+| Brawlhalla: PS4 Founders Pack | 342115 | [342115-brawlhalla-ps4-founders-pack.json](./342115-brawlhalla-ps4-founders-pack.json) |
 | Brawlhalla: Spring Championship 2017 Pack | 342227 | [342227-brawlhalla-spring-championship-2017-pack.json](./342227-brawlhalla-spring-championship-2017-pack.json) |
 | Brawlhalla: Spring Championship 2018 Pack | 342626 | [342626-brawlhalla-spring-championship-2018-pack.json](./342626-brawlhalla-spring-championship-2018-pack.json) |
 | Brawlhalla: Summer Championship 2017 Pack | 342229 | [342229-brawlhalla-summer-championship-2017-pack.json](./342229-brawlhalla-summer-championship-2017-pack.json) |
 | Brawlhalla: Summer Championship 2018 Pack | 342627 | [342627-brawlhalla-summer-championship-2018-pack.json](./342627-brawlhalla-summer-championship-2018-pack.json) |
+| Brawlhalla: Valhalla Pack | 342110 | [342110-brawlhalla-valhalla-pack.json](./342110-brawlhalla-valhalla-pack.json) |
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlhalla: Winter Championship 2024 Pack | 292744 | [292744-brawlhalla-winter-championship-2024-pack.json](./292744-brawlhalla-winter-championship-2024-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
