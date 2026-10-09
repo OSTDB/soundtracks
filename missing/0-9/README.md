@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DEins | 379147 | [379147-3deins.json](./379147-3deins.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
+| 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
