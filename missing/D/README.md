@@ -3315,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deg-Deg the Ravenous | 194470 | [194470-deg-deg-the-ravenous.json](./194470-deg-deg-the-ravenous.json) |
 | Dega Madness | 110545 | [110545-dega-madness.json](./110545-dega-madness.json) |
 | Degauss | 75045 | [75045-degauss.json](./75045-degauss.json) |
+| DeGen Rivals | 384851 | [384851-degen-rivals.json](./384851-degen-rivals.json) |
 | Degen Royale | 223430 | [223430-degen-royale.json](./223430-degen-royale.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Exorcist | 231856 | [231856-digital-exorcist.json](./231856-digital-exorcist.json) |
 | Digital Exorcist Case_(0); | 247429 | [247429-digital-exorcist-case-0.json](./247429-digital-exorcist-case-0.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
+| Digital Girlfriend | 384841 | [384841-digital-girlfriend.json](./384841-digital-girlfriend.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
 | Digital Hitz Factory | 43217 | [43217-digital-hitz-factory.json](./43217-digital-hitz-factory.json) |
