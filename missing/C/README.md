@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Samurai | 319127 | [319127-castaway-samurai.json](./319127-castaway-samurai.json) |
 | Castaway Soul | 336688 | [336688-castaway-soul.json](./336688-castaway-soul.json) |
 | Castaway Survival In Ocean: Build Your Own Raft, Craft | 409694 | [409694-castaway-survival-in-ocean-build-your-own-raft-craft.json](./409694-castaway-survival-in-ocean-build-your-own-raft-craft.json) |
+| Castaway Trails | 356598 | [356598-castaway-trails.json](./356598-castaway-trails.json) |
 | Castaways VR | 120341 | [120341-castaways-vr.json](./120341-castaways-vr.json) |
 | Caste | 155678 | [155678-caste.json](./155678-caste.json) |
 | Caste: The Secret Of Devon | 159777 | [159777-caste-the-secret-of-devon.json](./159777-caste-the-secret-of-devon.json) |
@@ -7893,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
+| Conquer The World | 356591 | [356591-conquer-the-world.json](./356591-conquer-the-world.json) |
 | Conquer-Strike 2 | 273370 | [273370-conquer-strike-2.json](./273370-conquer-strike-2.json) |
 | Conquer: Epic of Dice Wars | 232536 | [232536-conquer-epic-of-dice-wars.json](./232536-conquer-epic-of-dice-wars.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
