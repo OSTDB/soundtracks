@@ -12631,6 +12631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
+| My Sweet Angel | 340342 | [340342-my-sweet-angel.json](./340342-my-sweet-angel.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
 | My Sweet Bully | 206027 | [206027-my-sweet-bully.json](./206027-my-sweet-bully.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
