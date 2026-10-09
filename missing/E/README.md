@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Secrets: Wet & Wild Edition | 404276 | [404276-ecchi-secrets-wet-and-wild-edition.json](./404276-ecchi-secrets-wet-and-wild-edition.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
+| Ecchi Uncover | 333519 | [333519-ecchi-uncover.json](./333519-ecchi-uncover.json) |
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
