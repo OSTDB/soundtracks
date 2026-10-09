@@ -3854,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
+| Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
 | Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
 | Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
@@ -9025,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
+| Country Hero | 346561 | [346561-country-hero.json](./346561-country-hero.json) |
 | Country Hopper | 398412 | [398412-country-hopper.json](./398412-country-hopper.json) |
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Life | 403094 | [403094-country-life.json](./403094-country-life.json) |
