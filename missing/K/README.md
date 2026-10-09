@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakugo no Susume | 43830 | [43830-kakugo-no-susume.json](./43830-kakugo-no-susume.json) |
+| Kakure-oni | 376874 | [376874-kakure-oni.json](./376874-kakure-oni.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakuriyo Village: Moratorium of Adolescence | 240730 | [240730-kakuriyo-village-moratorium-of-adolescence.json](./240730-kakuriyo-village-moratorium-of-adolescence.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawanakajima no Kassen | 76948 | [76948-kawanakajima-no-kassen.json](./76948-kawanakajima-no-kassen.json) |
 | Kawasaki Caribbean Challenge | 42508 | [42508-kawasaki-caribbean-challenge.json](./42508-kawasaki-caribbean-challenge.json) |
+| Kawasaki Devils | 376881 | [376881-kawasaki-devils.json](./376881-kawasaki-devils.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
