@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claus Goblins Attack | 232990 | [232990-santa-claus-goblins-attack.json](./232990-santa-claus-goblins-attack.json) |
 | Santa Claus in Trouble | 71408 | [71408-santa-claus-in-trouble.json](./71408-santa-claus-in-trouble.json) |
 | Santa Claus in Trouble HD | 171346 | [171346-santa-claus-in-trouble-hd.json](./171346-santa-claus-in-trouble-hd.json) |
+| Santa Claus in Trouble... Again! | 351561 | [351561-santa-claus-in-trouble-again.json](./351561-santa-claus-in-trouble-again.json) |
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claus Jr. Advance | 49338 | [49338-santa-claus-jr-advance.json](./49338-santa-claus-jr-advance.json) |
@@ -6134,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Sports NFL Football Pro '99 | 22608 | [22608-sierra-sports-nfl-football-pro-99.json](./22608-sierra-sports-nfl-football-pro-99.json) |
 | Sierra Sports NFL Football Pro 2000 | 22609 | [22609-sierra-sports-nfl-football-pro-2000.json](./22609-sierra-sports-nfl-football-pro-2000.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
+| Siete Olas | 351563 | [351563-siete-olas.json](./351563-siete-olas.json) |
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
@@ -7334,6 +7336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
+| Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | Skill Random Defense | 311196 | [311196-skill-random-defense.json](./311196-skill-random-defense.json) |
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
@@ -10770,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unleashed: Spagonia Adventure Pack | 337216 | [337216-sonic-unleashed-spagonia-adventure-pack.json](./337216-sonic-unleashed-spagonia-adventure-pack.json) |
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
+| Sonic Valkyria: Kanon | 351564 | [351564-sonic-valkyria-kanon.json](./351564-sonic-valkyria-kanon.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic VR | 397132 | [397132-sonic-vr.json](./397132-sonic-vr.json) |
 | Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
@@ -11856,6 +11860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Maze Attack | 277537 | [277537-space-maze-attack.json](./277537-space-maze-attack.json) |
 | Space Mech Pilot: The Universe Drive | 205125 | [205125-space-mech-pilot-the-universe-drive.json](./205125-space-mech-pilot-the-universe-drive.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
+| Space Mechanics: Repair Hiring Crafting | 351594 | [351594-space-mechanics-repair-hiring-crafting.json](./351594-space-mechanics-repair-hiring-crafting.json) |
 | Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Memory: Chinchillas | 366098 | [366098-space-memory-chinchillas.json](./366098-space-memory-chinchillas.json) |
@@ -16050,6 +16055,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Fighter II | 81332 | [81332-stick-fighter-ii.json](./81332-stick-fighter-ii.json) |
 | Stick Figure Badminton 2 | 402980 | [402980-stick-figure-badminton-2.json](./402980-stick-figure-badminton-2.json) |
 | Stick Figure Badminton 3 | 402982 | [402982-stick-figure-badminton-3.json](./402982-stick-figure-badminton-3.json) |
+| Stick Figure Combat | 351649 | [351649-stick-figure-combat.json](./351649-stick-figure-combat.json) |
+| Stick Figure Combat: Chestplate Large | 351659 | [351659-stick-figure-combat-chestplate-large.json](./351659-stick-figure-combat-chestplate-large.json) |
+| Stick Figure Combat: Double Laser Saber | 351654 | [351654-stick-figure-combat-double-laser-saber.json](./351654-stick-figure-combat-double-laser-saber.json) |
+| Stick Figure Combat: Elemental Rifle Pack | 351660 | [351660-stick-figure-combat-elemental-rifle-pack.json](./351660-stick-figure-combat-elemental-rifle-pack.json) |
+| Stick Figure Combat: Jetpack Large | 351656 | [351656-stick-figure-combat-jetpack-large.json](./351656-stick-figure-combat-jetpack-large.json) |
+| Stick Figure Combat: Laser Saber | 351653 | [351653-stick-figure-combat-laser-saber.json](./351653-stick-figure-combat-laser-saber.json) |
+| Stick Figure Combat: Legplates Large | 351658 | [351658-stick-figure-combat-legplates-large.json](./351658-stick-figure-combat-legplates-large.json) |
+| Stick Figure Combat: Paintball Gun | 351655 | [351655-stick-figure-combat-paintball-gun.json](./351655-stick-figure-combat-paintball-gun.json) |
+| Stick Figure Combat: Rocket Launcher | 351651 | [351651-stick-figure-combat-rocket-launcher.json](./351651-stick-figure-combat-rocket-launcher.json) |
+| Stick Figure Combat: Scythe | 351650 | [351650-stick-figure-combat-scythe.json](./351650-stick-figure-combat-scythe.json) |
+| Stick Figure Combat: Sniper Rifle | 351652 | [351652-stick-figure-combat-sniper-rifle.json](./351652-stick-figure-combat-sniper-rifle.json) |
+| Stick Figure Combat: Top Hat | 351657 | [351657-stick-figure-combat-top-hat.json](./351657-stick-figure-combat-top-hat.json) |
 | Stick Go story | 201704 | [201704-stick-go-story.json](./201704-stick-go-story.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
@@ -19199,6 +19216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
+| Super Mario Essex | 351583 | [351583-super-mario-essex.json](./351583-super-mario-essex.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
 | Super Mario Flash | 176865 | [176865-super-mario-flash.json](./176865-super-mario-flash.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
