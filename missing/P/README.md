@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painwives | 419852 | [419852-painwives.json](./419852-painwives.json) |
 | Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
 | Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
+| Pair Master | 347196 | [347196-pair-master.json](./347196-pair-master.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 11 | 163443 | [163443-pair-matching-puzzle-connect-expansion-pack-11.json](./163443-pair-matching-puzzle-connect-expansion-pack-11.json) |
@@ -4600,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
+| Pirate's Gambit | 347091 | [347091-pirates-gambit.json](./347091-pirates-gambit.json) |
 | Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
 | Pirate's Gold | 193272 | [193272-pirates-gold.json](./193272-pirates-gold.json) |
 | Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
@@ -7841,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Brain Damaged | 138353 | [138353-postal-brain-damaged.json](./138353-postal-brain-damaged.json) |
+| Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
@@ -8734,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Indigo DX | 298242 | [298242-prism-indigo-dx.json](./298242-prism-indigo-dx.json) |
 | Prism Panic | 396707 | [396707-prism-panic.json](./396707-prism-panic.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
+| Prism Shift | 347090 | [347090-prism-shift.json](./347090-prism-shift.json) |
 | Prism Wilds | 382404 | [382404-prism-wilds.json](./382404-prism-wilds.json) |
 | Prism: Light the Way | 20765 | [20765-prism-light-the-way.json](./20765-prism-light-the-way.json) |
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
@@ -8933,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
+| Pro Cycling Manager 25 | 347190 | [347190-pro-cycling-manager-25.json](./347190-pro-cycling-manager-25.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Deer Hunting 2 | 157502 | [157502-pro-deer-hunting-2.json](./157502-pro-deer-hunting-2.json) |
