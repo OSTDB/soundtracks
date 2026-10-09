@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
+| Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
 | Undead Horde 2: Necropolis | 217181 | [217181-undead-horde-2-necropolis.json](./217181-undead-horde-2-necropolis.json) |
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Inc.: Worky DLC | 310006 | [310006-undead-inc-worky-dlc.json](./310006-undead-inc-worky-dlc.json) |
@@ -1960,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upload Simulator | 215676 | [215676-upload-simulator.json](./215676-upload-simulator.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
 | Upon A Darkening Flood | 367593 | [367593-upon-a-darkening-flood.json](./367593-upon-a-darkening-flood.json) |
+| Upon the Dream's End | 370006 | [370006-upon-the-dreams-end.json](./370006-upon-the-dreams-end.json) |
 | Upon the Eldritch Planet | 261750 | [261750-upon-the-eldritch-planet.json](./261750-upon-the-eldritch-planet.json) |
 | Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
 | Upper Gumtree | 319098 | [319098-upper-gumtree.json](./319098-upper-gumtree.json) |
@@ -2052,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
+| Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
 | Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
