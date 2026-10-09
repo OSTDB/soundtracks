@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Garage Rally Circuit DX | 381673 | [381673-parking-garage-rally-circuit-dx.json](./381673-parking-garage-rally-circuit-dx.json) |
 | Parking Garage Rally Circuit: European Tour | 377852 | [377852-parking-garage-rally-circuit-european-tour.json](./377852-parking-garage-rally-circuit-european-tour.json) |
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
+| Parking in Tight Spaces | 350472 | [350472-parking-in-tight-spaces.json](./350472-parking-in-tight-spaces.json) |
 | Parking Jam | 313138 | [313138-parking-jam.json](./313138-parking-jam.json) |
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
 | Parking Jam: Fast Food | 313219 | [313219-parking-jam-fast-food.json](./313219-parking-jam-fast-food.json) |
@@ -1497,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkside: Decayed Soul Manipulation | 264793 | [264793-parkside-decayed-soul-manipulation.json](./264793-parkside-decayed-soul-manipulation.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
+| Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
 | Parlor! Mini | 37895 | [37895-parlor-mini.json](./37895-parlor-mini.json) |
 | Parlor! Mini 2 | 37894 | [37894-parlor-mini-2.json](./37894-parlor-mini-2.json) |
@@ -1761,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Forbidden Sanctum | 228596 | [228596-path-of-exile-forbidden-sanctum.json](./228596-path-of-exile-forbidden-sanctum.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
+| Path of Exile: Secrets of the Atlas | 350378 | [350378-path-of-exile-secrets-of-the-atlas.json](./350378-path-of-exile-secrets-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
@@ -10528,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Through Hell | 373141 | [373141-push-through-hell.json](./373141-push-through-hell.json) |
 | Push to Win | 352394 | [352394-push-to-win.json](./352394-push-to-win.json) |
 | Push-Cars | 175752 | [175752-push-cars.json](./175752-push-cars.json) |
+| Push-Cars 2: On Europe Streets | 350462 | [350462-push-cars-2-on-europe-streets.json](./350462-push-cars-2-on-europe-streets.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
 | Push: Griefing Made Legal | 142935 | [142935-push-griefing-made-legal.json](./142935-push-griefing-made-legal.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
