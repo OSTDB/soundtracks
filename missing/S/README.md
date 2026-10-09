@@ -5167,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
+| Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
 | Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
@@ -5516,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot! VR | 230948 | [230948-shoot-vr.json](./230948-shoot-vr.json) |
 | Shoot. Push. Repeat. | 157081 | [157081-shoot-push-repeat.json](./157081-shoot-push-repeat.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
+| Shoot'n'Shell | 339306 | [339306-shootnshell.json](./339306-shootnshell.json) |
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
 | Shooter | 359367 | [359367-shooter.json](./359367-shooter.json) |
 | Shooter Bundle: Ghost Assassin, Hotline, Water Blast, Shadowblade, Yori's Journey | 356823 | [356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json](./356823-shooter-bundle-ghost-assassin-hotline-water-blast-shadowblade-yoris-journey.json) |
@@ -13825,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Hunter | 385890 | [385890-sprite-hunter.json](./385890-sprite-hunter.json) |
+| Sprite Land | 339225 | [339225-sprite-land.json](./339225-sprite-land.json) |
 | Sprite Man Adventures | 161717 | [161717-sprite-man-adventures.json](./161717-sprite-man-adventures.json) |
 | Sprite Sequence Volume 1 | 180129 | [180129-sprite-sequence-volume-1.json](./180129-sprite-sequence-volume-1.json) |
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
@@ -20428,6 +20431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
+| Supermrket: El Videojuego de Gestión de Supermercado | 339308 | [339308-supermrket-el-videojuego-de-gestion-de-supermercado.json](./339308-supermrket-el-videojuego-de-gestion-de-supermercado.json) |
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
