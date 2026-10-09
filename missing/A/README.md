@@ -891,8 +891,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A3! Act! Addict! Actors! | 137535 | [137535-a3-act-addict-actors.json](./137535-a3-act-addict-actors.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
 | A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
+| A7: Gateway Guardians | 377416 | [377416-a7-gateway-guardians.json](./377416-a7-gateway-guardians.json) |
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
+| AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: A Reckless Disregard for Gravity | 6286 | [6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json](./6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json) |
@@ -904,9 +906,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaarghpocalypse | 273874 | [273874-aaarghpocalypse.json](./273874-aaarghpocalypse.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
+| Aaero 2: Arcade Paradise Music Pack | 377420 | [377420-aaero-2-arcade-paradise-music-pack.json](./377420-aaero-2-arcade-paradise-music-pack.json) |
+| Aaero 2: Lania Kea Music Pack | 377421 | [377421-aaero-2-lania-kea-music-pack.json](./377421-aaero-2-lania-kea-music-pack.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
+| Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
+| Aam Aadmi | 377419 | [377419-aam-aadmi.json](./377419-aam-aadmi.json) |
 | Aanl: The Rectum Adventure | 94415 | [94415-aanl-the-rectum-adventure.json](./94415-aanl-the-rectum-adventure.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
@@ -935,12 +941,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
+| Abandoned Continent | 377422 | [377422-abandoned-continent.json](./377422-abandoned-continent.json) |
 | Abandoned Croxon Mansion | 152496 | [152496-abandoned-croxon-mansion.json](./152496-abandoned-croxon-mansion.json) |
 | Abandoned Dark | 270865 | [270865-abandoned-dark.json](./270865-abandoned-dark.json) |
 | Abandoned Drive-in | 234018 | [234018-abandoned-drive-in.json](./234018-abandoned-drive-in.json) |
+| Abandoned Ecosystem | 377427 | [377427-abandoned-ecosystem.json](./377427-abandoned-ecosystem.json) |
+| Abandoned Hospital | 377426 | [377426-abandoned-hospital.json](./377426-abandoned-hospital.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
+| Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned: A Tale of Forgotten Lives | 391231 | [391231-abandoned-a-tale-of-forgotten-lives.json](./391231-abandoned-a-tale-of-forgotten-lives.json) |
@@ -958,7 +968,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
+| Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
+| ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
@@ -968,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
+| Abdicate | 377428 | [377428-abdicate.json](./377428-abdicate.json) |
 | Abduct 'em | 392218 | [392218-abduct-em.json](./392218-abduct-em.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
@@ -980,16 +993,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction! | 241448 | [241448-abduction.json](./241448-abduction.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
+| Abelina | 377433 | [377433-abelina.json](./377433-abelina.json) |
+| Abeline Rush | 377432 | [377432-abeline-rush.json](./377432-abeline-rush.json) |
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
+| Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
+| Abhay | 377430 | [377430-abhay.json](./377430-abhay.json) |
 | Abide | 389091 | [389091-abide.json](./389091-abide.json) |
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
+| Abigail | 377429 | [377429-abigail.json](./377429-abigail.json) |
 | Abigail Fortune and the Scarlet Fairy | 181205 | [181205-abigail-fortune-and-the-scarlet-fairy.json](./181205-abigail-fortune-and-the-scarlet-fairy.json) |
 | Abiko the Miko | 158042 | [158042-abiko-the-miko.json](./158042-abiko-the-miko.json) |
 | Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
