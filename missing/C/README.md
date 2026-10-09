@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cacoma Knight in Bizyland | 42734 | [42734-cacoma-knight-in-bizyland.json](./42734-cacoma-knight-in-bizyland.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
+| Cactus | 357740 | [357740-cactus.json](./357740-cactus.json) |
 | Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
 | Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
 | Cactus Blue Motel | 57515 | [57515-cactus-blue-motel.json](./57515-cactus-blue-motel.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaliaQuest | 303722 | [303722-caliaquest.json](./303722-caliaquest.json) |
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
+| Calice | 357737 | [357737-calice.json](./357737-calice.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
@@ -5532,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyage: The Lighthouse | 409397 | [409397-clairvoyage-the-lighthouse.json](./409397-clairvoyage-the-lighthouse.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
+| Clairvoyance | 357748 | [357748-clairvoyance.json](./357748-clairvoyance.json) |
 | Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
 | Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
 | Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
@@ -8087,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
+| Contact | 357745 | [357745-contact.json](./357745-contact.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
 | Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Contact Protocol | 373878 | [373878-contact-protocol.json](./373878-contact-protocol.json) |
