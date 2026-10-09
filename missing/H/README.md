@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
+| H.Z.T. | 366091 | [366091-h-z-t.json](./366091-h-z-t.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H1Z1 | 6188 | [6188-h1z1.json](./6188-h1z1.json) |
@@ -5535,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap | 379540 | [379540-honey-trap.json](./379540-honey-trap.json) |
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
+| Honey Trap Escape: Family of Villains and the Cage | 366110 | [366110-honey-trap-escape-family-of-villains-and-the-cage.json](./366110-honey-trap-escape-family-of-villains-and-the-cage.json) |
 | Honey Vibes | 287894 | [287894-honey-vibes.json](./287894-honey-vibes.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
