@@ -5748,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
+| Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
 | Dirt Journey | 216145 | [216145-dirt-journey.json](./216145-dirt-journey.json) |
 | Dirt Journey: Nitro | 216141 | [216141-dirt-journey-nitro.json](./216141-dirt-journey-nitro.json) |
 | Dirt Moto Racing | 63840 | [63840-dirt-moto-racing.json](./63840-dirt-moto-racing.json) |
@@ -6235,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
 | Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
+| Dispersal Vectors | 364364 | [364364-dispersal-vectors.json](./364364-dispersal-vectors.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
