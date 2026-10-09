@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
+| Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
@@ -2601,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
 | Epic Roller Coasters: Dread Blood | 166654 | [166654-epic-roller-coasters-dread-blood.json](./166654-epic-roller-coasters-dread-blood.json) |
 | Epic Roller Coasters: Dynasty Dash | 310053 | [310053-epic-roller-coasters-dynasty-dash.json](./310053-epic-roller-coasters-dynasty-dash.json) |
+| Epic Roller Coasters: Fun-A-Licious | 353776 | [353776-epic-roller-coasters-fun-a-licious.json](./353776-epic-roller-coasters-fun-a-licious.json) |
 | Epic Roller Coasters: Great Canyon | 166642 | [166642-epic-roller-coasters-great-canyon.json](./166642-epic-roller-coasters-great-canyon.json) |
 | Epic Roller Coasters: Halloween | 166653 | [166653-epic-roller-coasters-halloween.json](./166653-epic-roller-coasters-halloween.json) |
 | Epic Roller Coasters: Haunted Castle | 166645 | [166645-epic-roller-coasters-haunted-castle.json](./166645-epic-roller-coasters-haunted-castle.json) |
