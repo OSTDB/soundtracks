@@ -2444,12 +2444,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
+| Sea of Thieves: Reaper's Rule - Season 16 | 354373 | [354373-sea-of-thieves-reapers-rule-season-16.json](./354373-sea-of-thieves-reapers-rule-season-16.json) |
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
 | Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
+| Sea of Thieves: Wild Things - Season 15 | 354372 | [354372-sea-of-thieves-wild-things-season-15.json](./354372-sea-of-thieves-wild-things-season-15.json) |
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
+| Serra de Deus | 354401 | [354401-serra-de-deus.json](./354401-serra-de-deus.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serre | 134522 | [134522-serre.json](./134522-serre.json) |
 | Sertorgina | 284616 | [284616-sertorgina.json](./284616-sertorgina.json) |
@@ -12518,6 +12521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre Vigil | 342785 | [342785-spectre-vigil.json](./342785-spectre-vigil.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
+| SpecTrek | 354367 | [354367-spectrek.json](./354367-spectrek.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
