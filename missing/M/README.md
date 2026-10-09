@@ -4561,31 +4561,78 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 6: Patch Card - Al's Boarding Ticket | 352714 | [352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json](./352714-mega-man-battle-network-6-patch-card-als-boarding-ticket.json) |
 | Mega Man Battle Network 6: Patch Card - Ammonicule | 352414 | [352414-mega-man-battle-network-6-patch-card-ammonicule.json](./352414-mega-man-battle-network-6-patch-card-ammonicule.json) |
 | Mega Man Battle Network 6: Patch Card - Baryl's Faith | 352724 | [352724-mega-man-battle-network-6-patch-card-baryls-faith.json](./352724-mega-man-battle-network-6-patch-card-baryls-faith.json) |
+| Mega Man Battle Network 6: Patch Card - BassBX | 352684 | [352684-mega-man-battle-network-6-patch-card-bassbx.json](./352684-mega-man-battle-network-6-patch-card-bassbx.json) |
+| Mega Man Battle Network 6: Patch Card - BowlMan | 352667 | [352667-mega-man-battle-network-6-patch-card-bowlman.json](./352667-mega-man-battle-network-6-patch-card-bowlman.json) |
 | Mega Man Battle Network 6: Patch Card - Canodumb | 352413 | [352413-mega-man-battle-network-6-patch-card-canodumb.json](./352413-mega-man-battle-network-6-patch-card-canodumb.json) |
+| Mega Man Battle Network 6: Patch Card - ChargeMan | 352675 | [352675-mega-man-battle-network-6-patch-card-chargeman.json](./352675-mega-man-battle-network-6-patch-card-chargeman.json) |
 | Mega Man Battle Network 6: Patch Card - Chaud's Mission | 352723 | [352723-mega-man-battle-network-6-patch-card-chauds-mission.json](./352723-mega-man-battle-network-6-patch-card-chauds-mission.json) |
+| Mega Man Battle Network 6: Patch Card - Chisao's Emergency Sub Chip | 352703 | [352703-mega-man-battle-network-6-patch-card-chisaos-emergency-sub-chip.json](./352703-mega-man-battle-network-6-patch-card-chisaos-emergency-sub-chip.json) |
+| Mega Man Battle Network 6: Patch Card - CloudMan | 352673 | [352673-mega-man-battle-network-6-patch-card-cloudman.json](./352673-mega-man-battle-network-6-patch-card-cloudman.json) |
 | Mega Man Battle Network 6: Patch Card - ColdBear | 352415 | [352415-mega-man-battle-network-6-patch-card-coldbear.json](./352415-mega-man-battle-network-6-patch-card-coldbear.json) |
+| Mega Man Battle Network 6: Patch Card - ColdMan | 352671 | [352671-mega-man-battle-network-6-patch-card-coldman.json](./352671-mega-man-battle-network-6-patch-card-coldman.json) |
+| Mega Man Battle Network 6: Patch Card - Cybeast Falzar | 352689 | [352689-mega-man-battle-network-6-patch-card-cybeast-falzar.json](./352689-mega-man-battle-network-6-patch-card-cybeast-falzar.json) |
+| Mega Man Battle Network 6: Patch Card - Cybeast Gregar | 352688 | [352688-mega-man-battle-network-6-patch-card-cybeast-gregar.json](./352688-mega-man-battle-network-6-patch-card-cybeast-gregar.json) |
 | Mega Man Battle Network 6: Patch Card - Dad's Debug Techniques | 352721 | [352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json](./352721-mega-man-battle-network-6-patch-card-dads-debug-techniques.json) |
+| Mega Man Battle Network 6: Patch Card - Dark MegaMan | 352681 | [352681-mega-man-battle-network-6-patch-card-dark-megaman.json](./352681-mega-man-battle-network-6-patch-card-dark-megaman.json) |
 | Mega Man Battle Network 6: Patch Card - Dark Scyth's Shady Business | 352713 | [352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json](./352713-mega-man-battle-network-6-patch-card-dark-scyths-shady-business.json) |
+| Mega Man Battle Network 6: Patch Card - DarkMan | 352668 | [352668-mega-man-battle-network-6-patch-card-darkman.json](./352668-mega-man-battle-network-6-patch-card-darkman.json) |
+| Mega Man Battle Network 6: Patch Card - Dex's Key to Victory | 352702 | [352702-mega-man-battle-network-6-patch-card-dexs-key-to-victory.json](./352702-mega-man-battle-network-6-patch-card-dexs-key-to-victory.json) |
 | Mega Man Battle Network 6: Patch Card - Dingo's Battle Cry | 352716 | [352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json](./352716-mega-man-battle-network-6-patch-card-dingos-battle-cry.json) |
+| Mega Man Battle Network 6: Patch Card - DiveMan | 352677 | [352677-mega-man-battle-network-6-patch-card-diveman.json](./352677-mega-man-battle-network-6-patch-card-diveman.json) |
+| Mega Man Battle Network 6: Patch Card - Django | 352685 | [352685-mega-man-battle-network-6-patch-card-django.json](./352685-mega-man-battle-network-6-patch-card-django.json) |
 | Mega Man Battle Network 6: Patch Card - Double Beast | 352731 | [352731-mega-man-battle-network-6-patch-card-double-beast.json](./352731-mega-man-battle-network-6-patch-card-double-beast.json) |
+| Mega Man Battle Network 6: Patch Card - Dr. Regal's Research | 352709 | [352709-mega-man-battle-network-6-patch-card-dr-regals-research.json](./352709-mega-man-battle-network-6-patch-card-dr-regals-research.json) |
+| Mega Man Battle Network 6: Patch Card - ElementMan | 352679 | [352679-mega-man-battle-network-6-patch-card-elementman.json](./352679-mega-man-battle-network-6-patch-card-elementman.json) |
+| Mega Man Battle Network 6: Patch Card - Entry Fee for Blackbeard's Show | 352708 | [352708-mega-man-battle-network-6-patch-card-entry-fee-for-blackbeards-show.json](./352708-mega-man-battle-network-6-patch-card-entry-fee-for-blackbeards-show.json) |
 | Mega Man Battle Network 6: Patch Card - Falzar | 352733 | [352733-mega-man-battle-network-6-patch-card-falzar.json](./352733-mega-man-battle-network-6-patch-card-falzar.json) |
 | Mega Man Battle Network 6: Patch Card - Gregar | 352732 | [352732-mega-man-battle-network-6-patch-card-gregar.json](./352732-mega-man-battle-network-6-patch-card-gregar.json) |
+| Mega Man Battle Network 6: Patch Card - GridMan | 352674 | [352674-mega-man-battle-network-6-patch-card-gridman.json](./352674-mega-man-battle-network-6-patch-card-gridman.json) |
 | Mega Man Battle Network 6: Patch Card - Heady | 352417 | [352417-mega-man-battle-network-6-patch-card-heady.json](./352417-mega-man-battle-network-6-patch-card-heady.json) |
 | Mega Man Battle Network 6: Patch Card - Iris's Kindness | 352725 | [352725-mega-man-battle-network-6-patch-card-iriss-kindness.json](./352725-mega-man-battle-network-6-patch-card-iriss-kindness.json) |
+| Mega Man Battle Network 6: Patch Card - Joe Mach's Fists | 352707 | [352707-mega-man-battle-network-6-patch-card-joe-machs-fists.json](./352707-mega-man-battle-network-6-patch-card-joe-machs-fists.json) |
+| Mega Man Battle Network 6: Patch Card - JudgeMan | 352678 | [352678-mega-man-battle-network-6-patch-card-judgeman.json](./352678-mega-man-battle-network-6-patch-card-judgeman.json) |
+| Mega Man Battle Network 6: Patch Card - KendoMan | 352670 | [352670-mega-man-battle-network-6-patch-card-kendoman.json](./352670-mega-man-battle-network-6-patch-card-kendoman.json) |
+| Mega Man Battle Network 6: Patch Card - Lan's Allowance Advance | 352700 | [352700-mega-man-battle-network-6-patch-card-lans-allowance-advance.json](./352700-mega-man-battle-network-6-patch-card-lans-allowance-advance.json) |
 | Mega Man Battle Network 6: Patch Card - Mamoru's Card | 352722 | [352722-mega-man-battle-network-6-patch-card-mamorus-card.json](./352722-mega-man-battle-network-6-patch-card-mamorus-card.json) |
 | Mega Man Battle Network 6: Patch Card - Master Feng-Tian's Instruction | 352717 | [352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json](./352717-mega-man-battle-network-6-patch-card-master-feng-tians-instruction.json) |
+| Mega Man Battle Network 6: Patch Card - Mayl's Treasure | 352701 | [352701-mega-man-battle-network-6-patch-card-mayls-treasure.json](./352701-mega-man-battle-network-6-patch-card-mayls-treasure.json) |
+| Mega Man Battle Network 6: Patch Card - MegaMan Zero | 352687 | [352687-mega-man-battle-network-6-patch-card-megaman-zero.json](./352687-mega-man-battle-network-6-patch-card-megaman-zero.json) |
 | Mega Man Battle Network 6: Patch Card - MetFire | 352418 | [352418-mega-man-battle-network-6-patch-card-metfire.json](./352418-mega-man-battle-network-6-patch-card-metfire.json) |
+| Mega Man Battle Network 6: Patch Card - Mick's Trick | 352705 | [352705-mega-man-battle-network-6-patch-card-micks-trick.json](./352705-mega-man-battle-network-6-patch-card-micks-trick.json) |
 | Mega Man Battle Network 6: Patch Card - Miney | 352416 | [352416-mega-man-battle-network-6-patch-card-miney.json](./352416-mega-man-battle-network-6-patch-card-miney.json) |
+| Mega Man Battle Network 6: Patch Card - MistMan | 352666 | [352666-mega-man-battle-network-6-patch-card-mistman.json](./352666-mega-man-battle-network-6-patch-card-mistman.json) |
 | Mega Man Battle Network 6: Patch Card - Moliarty's Drill Soul! | 352719 | [352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json](./352719-mega-man-battle-network-6-patch-card-moliartys-drill-soul.json) |
+| Mega Man Battle Network 6: Patch Card - Mr. Famous' Ultimate Custom | 352683 | [352683-mega-man-battle-network-6-patch-card-mr-famous-ultimate-custom.json](./352683-mega-man-battle-network-6-patch-card-mr-famous-ultimate-custom.json) |
 | Mega Man Battle Network 6: Patch Card - Mr. Match's Lesson Plans | 352710 | [352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json](./352710-mega-man-battle-network-6-patch-card-mr-matchs-lesson-plans.json) |
 | Mega Man Battle Network 6: Patch Card - Mr. Press's Recycling | 352720 | [352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json](./352720-mega-man-battle-network-6-patch-card-mr-presss-recycling.json) |
+| Mega Man Battle Network 6: Patch Card - Mr. Progs' Sub Chips | 352706 | [352706-mega-man-battle-network-6-patch-card-mr-progs-sub-chips.json](./352706-mega-man-battle-network-6-patch-card-mr-progs-sub-chips.json) |
 | Mega Man Battle Network 6: Patch Card - Ms. Fahran's Cutlery | 352712 | [352712-mega-man-battle-network-6-patch-card-ms-fahrans-cutlery.json](./352712-mega-man-battle-network-6-patch-card-ms-fahrans-cutlery.json) |
 | Mega Man Battle Network 6: Patch Card - Ms. Zap's Bodyguard | 352711 | [352711-mega-man-battle-network-6-patch-card-ms-zaps-bodyguard.json](./352711-mega-man-battle-network-6-patch-card-ms-zaps-bodyguard.json) |
+| Mega Man Battle Network 6: Patch Card - NapalmMan | 352664 | [352664-mega-man-battle-network-6-patch-card-napalmman.json](./352664-mega-man-battle-network-6-patch-card-napalmman.json) |
+| Mega Man Battle Network 6: Patch Card - PlantMan | 352665 | [352665-mega-man-battle-network-6-patch-card-plantman.json](./352665-mega-man-battle-network-6-patch-card-plantman.json) |
 | Mega Man Battle Network 6: Patch Card - Prosecutor Ito's Income | 352728 | [352728-mega-man-battle-network-6-patch-card-prosecutor-itos-income.json](./352728-mega-man-battle-network-6-patch-card-prosecutor-itos-income.json) |
+| Mega Man Battle Network 6: Patch Card - Punk | 352680 | [352680-mega-man-battle-network-6-patch-card-punk.json](./352680-mega-man-battle-network-6-patch-card-punk.json) |
+| Mega Man Battle Network 6: Patch Card - Request: An Experiment! | 352698 | [352698-mega-man-battle-network-6-patch-card-request-an-experiment.json](./352698-mega-man-battle-network-6-patch-card-request-an-experiment.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Diet Goods Money | 352695 | [352695-mega-man-battle-network-6-patch-card-request-diet-goods-money.json](./352695-mega-man-battle-network-6-patch-card-request-diet-goods-money.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Find the Virus! | 352692 | [352692-mega-man-battle-network-6-patch-card-request-find-the-virus.json](./352692-mega-man-battle-network-6-patch-card-request-find-the-virus.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Get the Bad Guy! | 352691 | [352691-mega-man-battle-network-6-patch-card-request-get-the-bad-guy.json](./352691-mega-man-battle-network-6-patch-card-request-get-the-bad-guy.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Juvenile Division | 352690 | [352690-mega-man-battle-network-6-patch-card-request-juvenile-division.json](./352690-mega-man-battle-network-6-patch-card-request-juvenile-division.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Official Request | 352697 | [352697-mega-man-battle-network-6-patch-card-request-official-request.json](./352697-mega-man-battle-network-6-patch-card-request-official-request.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Penguins Ran Away | 352693 | [352693-mega-man-battle-network-6-patch-card-request-penguins-ran-away.json](./352693-mega-man-battle-network-6-patch-card-request-penguins-ran-away.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Road to Soul Battler! | 352699 | [352699-mega-man-battle-network-6-patch-card-request-road-to-soul-battler.json](./352699-mega-man-battle-network-6-patch-card-request-road-to-soul-battler.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Self Research | 352696 | [352696-mega-man-battle-network-6-patch-card-request-self-research.json](./352696-mega-man-battle-network-6-patch-card-request-self-research.json) |
+| Mega Man Battle Network 6: Patch Card - Request: Update Help | 352694 | [352694-mega-man-battle-network-6-patch-card-request-update-help.json](./352694-mega-man-battle-network-6-patch-card-request-update-help.json) |
+| Mega Man Battle Network 6: Patch Card - SearchMan | 352672 | [352672-mega-man-battle-network-6-patch-card-searchman.json](./352672-mega-man-battle-network-6-patch-card-searchman.json) |
 | Mega Man Battle Network 6: Patch Card - Shuko's Practicum | 352715 | [352715-mega-man-battle-network-6-patch-card-shukos-practicum.json](./352715-mega-man-battle-network-6-patch-card-shukos-practicum.json) |
+| Mega Man Battle Network 6: Patch Card - Soul Battler's Custom | 352682 | [352682-mega-man-battle-network-6-patch-card-soul-battlers-custom.json](./352682-mega-man-battle-network-6-patch-card-soul-battlers-custom.json) |
 | Mega Man Battle Network 6: Patch Card - Tab's Discounts | 352726 | [352726-mega-man-battle-network-6-patch-card-tabs-discounts.json](./352726-mega-man-battle-network-6-patch-card-tabs-discounts.json) |
+| Mega Man Battle Network 6: Patch Card - TenguMan | 352676 | [352676-mega-man-battle-network-6-patch-card-tenguman.json](./352676-mega-man-battle-network-6-patch-card-tenguman.json) |
+| Mega Man Battle Network 6: Patch Card - The Count | 352686 | [352686-mega-man-battle-network-6-patch-card-the-count.json](./352686-mega-man-battle-network-6-patch-card-the-count.json) |
+| Mega Man Battle Network 6: Patch Card - ThunderMan | 352663 | [352663-mega-man-battle-network-6-patch-card-thunderman.json](./352663-mega-man-battle-network-6-patch-card-thunderman.json) |
+| Mega Man Battle Network 6: Patch Card - TopMan | 352669 | [352669-mega-man-battle-network-6-patch-card-topman.json](./352669-mega-man-battle-network-6-patch-card-topman.json) |
 | Mega Man Battle Network 6: Patch Card - Vic's Persistence | 352729 | [352729-mega-man-battle-network-6-patch-card-vics-persistence.json](./352729-mega-man-battle-network-6-patch-card-vics-persistence.json) |
 | Mega Man Battle Network 6: Patch Card - Wily's Ambition | 352730 | [352730-mega-man-battle-network-6-patch-card-wilys-ambition.json](./352730-mega-man-battle-network-6-patch-card-wilys-ambition.json) |
+| Mega Man Battle Network 6: Patch Card - Yai's Pride | 352704 | [352704-mega-man-battle-network-6-patch-card-yais-pride.json](./352704-mega-man-battle-network-6-patch-card-yais-pride.json) |
 | Mega Man Battle Network Chrono X | 137585 | [137585-mega-man-battle-network-chrono-x.json](./137585-mega-man-battle-network-chrono-x.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Battle Network Legacy Collection Vol. 1 | 206844 | [206844-mega-man-battle-network-legacy-collection-vol-1.json](./206844-mega-man-battle-network-legacy-collection-vol-1.json) |
@@ -5241,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Challenge! | 89676 | [89676-memory-challenge.json](./89676-memory-challenge.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
 | Memory Chip | 379697 | [379697-memory-chip.json](./379697-memory-chip.json) |
+| Memory Collectors | 352761 | [352761-memory-collectors.json](./352761-memory-collectors.json) |
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Days | 196255 | [196255-memory-days.json](./196255-memory-days.json) |
