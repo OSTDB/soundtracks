@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
+| Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear Survival | 174650 | [174650-fear-survival.json](./174650-fear-survival.json) |
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
+| Fear Tapes: Scrap Yard | 371599 | [371599-fear-tapes-scrap-yard.json](./371599-fear-tapes-scrap-yard.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Dark Unknown: James | 159722 | [159722-fear-the-dark-unknown-james.json](./159722-fear-the-dark-unknown-james.json) |
 | Fear the Dead | 29220 | [29220-fear-the-dead.json](./29220-fear-the-dead.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
+| Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
@@ -6038,9 +6041,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Carry on Wayward Son | 366342 | [366342-fortnite-festival-carry-on-wayward-son.json](./366342-fortnite-festival-carry-on-wayward-son.json) |
 | Fortnite Festival: Celebrate Happy | 377999 | [377999-fortnite-festival-celebrate-happy.json](./377999-fortnite-festival-celebrate-happy.json) |
 | Fortnite Festival: Changes | 366373 | [366373-fortnite-festival-changes.json](./366373-fortnite-festival-changes.json) |
+| Fortnite Festival: Closer | 371635 | [371635-fortnite-festival-closer.json](./371635-fortnite-festival-closer.json) |
 | Fortnite Festival: Dare | 366372 | [366372-fortnite-festival-dare.json](./366372-fortnite-festival-dare.json) |
 | Fortnite Festival: Drop It like it's hot | 367588 | [367588-fortnite-festival-drop-it-like-its-hot.json](./367588-fortnite-festival-drop-it-like-its-hot.json) |
 | Fortnite Festival: Fade to Black | 367589 | [367589-fortnite-festival-fade-to-black.json](./367589-fortnite-festival-fade-to-black.json) |
+| Fortnite Festival: Feel It Still | 371639 | [371639-fortnite-festival-feel-it-still.json](./371639-fortnite-festival-feel-it-still.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
 | Fortnite Festival: Locked & Loaded | 366402 | [366402-fortnite-festival-locked-and-loaded.json](./366402-fortnite-festival-locked-and-loaded.json) |
 | Fortnite Festival: Mi Gente | 372796 | [372796-fortnite-festival-mi-gente.json](./372796-fortnite-festival-mi-gente.json) |
@@ -6588,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Fran Bow Chapter 5 | 375346 | [375346-fran-bow-chapter-5.json](./375346-fran-bow-chapter-5.json) |
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
+| Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
@@ -7290,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Top | 374439 | [374439-from-the-top.json](./374439-from-the-top.json) |
 | From the Town of Gleming | 195630 | [195630-from-the-town-of-gleming.json](./195630-from-the-town-of-gleming.json) |
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
+| From Two Sides | 371605 | [371605-from-two-sides.json](./371605-from-two-sides.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | From Zero to Slime Hero | 391687 | [391687-from-zero-to-slime-hero.json](./391687-from-zero-to-slime-hero.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
